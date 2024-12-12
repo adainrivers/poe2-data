@@ -9,19 +9,19 @@
         "Id": "FlameSurge3"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 46,
         "TableName": "SurgeEffects",
         "Id": "GhostflameSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 48,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "CelestialSurge"
+      },
+      {
+        "RowIndex": 49,
+        "TableName": "SurgeEffects",
+        "Id": "HarbingerSurge"
       }
     ],
     "IntId": 1
@@ -36,9 +36,9 @@
         "Id": "ColdSurge1"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 125,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "IceSpearVoidEmperorSurge"
       }
     ],
     "IntId": 2
@@ -53,9 +53,9 @@
         "Id": "ColdSurge1"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 5,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "GemlingColdSurge"
       }
     ],
     "IntId": 3
@@ -202,9 +202,9 @@
         "Id": "VortexSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 17,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "VortexSurge"
       },
       {
         "RowIndex": 17,
@@ -212,9 +212,9 @@
         "Id": "VortexSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 17,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "VortexSurge"
       },
       {
         "RowIndex": 17,
@@ -222,14 +222,14 @@
         "Id": "VortexSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 100,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "VortexSurgeMyrmidon"
       },
       {
-        "RowIndex": 17,
+        "RowIndex": 142,
         "TableName": "SurgeEffects",
-        "Id": "VortexSurge"
+        "Id": "VortexSurgeDeathly"
       }
     ],
     "IntId": 15
@@ -268,24 +268,24 @@
         "Id": "MoltenShellCast"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 21,
         "TableName": "SurgeEffects",
         "Id": "StygianMoltenShellCast"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 22,
         "TableName": "SurgeEffects",
         "Id": "MoltenShellCastViper"
+      },
+      {
+        "RowIndex": 114,
+        "TableName": "SurgeEffects",
+        "Id": "MoltenShellCastDivine"
+      },
+      {
+        "RowIndex": 126,
+        "TableName": "SurgeEffects",
+        "Id": "MoltenShellCastMercury"
       }
     ],
     "IntId": 18
@@ -300,24 +300,24 @@
         "Id": "VaalMoltenShellCast"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 24,
         "TableName": "SurgeEffects",
         "Id": "StygianVaalMoltenShellCast"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 22,
         "TableName": "SurgeEffects",
         "Id": "MoltenShellCastViper"
+      },
+      {
+        "RowIndex": 114,
+        "TableName": "SurgeEffects",
+        "Id": "MoltenShellCastDivine"
+      },
+      {
+        "RowIndex": 126,
+        "TableName": "SurgeEffects",
+        "Id": "MoltenShellCastMercury"
       }
     ],
     "IntId": 19
@@ -380,9 +380,9 @@
         "Id": "FrenzyArrowBaseSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 81,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "FrenzyArrowSurgeArcane"
       }
     ],
     "IntId": 24
@@ -397,9 +397,9 @@
         "Id": "ArrowBaseSurgeFire"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 101,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "ArrowSurgeFireMystic"
       }
     ],
     "IntId": 25
@@ -414,9 +414,9 @@
         "Id": "ArrowBaseSurgeIce"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 90,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "IceShotVaalOrbSurge"
       }
     ],
     "IntId": 26
@@ -455,9 +455,9 @@
         "Id": "ArrowBaseSurgePhysRed"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 92,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "ArrowSurgeStygianPuncture"
       }
     ],
     "IntId": 29
@@ -484,19 +484,19 @@
         "Id": "BladeBurstSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 37,
         "TableName": "SurgeEffects",
         "Id": "IllusionistBladeBlastSurgeEffect"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 38,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "SawbladeBladeBlastSurgeEffect"
+      },
+      {
+        "RowIndex": 97,
+        "TableName": "SurgeEffects",
+        "Id": "VoidEmperorBladeBurstSurgeEffect"
       }
     ],
     "IntId": 31
@@ -607,19 +607,9 @@
         "Id": "FlameSurgeNew"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 46,
         "TableName": "SurgeEffects",
         "Id": "GhostflameSurge"
-      },
-      {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
       },
       {
         "RowIndex": 48,
@@ -627,9 +617,19 @@
         "Id": "CelestialSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 49,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "HarbingerSurge"
+      },
+      {
+        "RowIndex": 91,
+        "TableName": "SurgeEffects",
+        "Id": "RighteousFireLightbringerSurge"
+      },
+      {
+        "RowIndex": 131,
+        "TableName": "SurgeEffects",
+        "Id": "RighteousFireTranscendenceSurge"
       }
     ],
     "IntId": 40
@@ -776,19 +776,9 @@
         "Id": "LightningSurgeMultiSpeed"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 76,
         "TableName": "SurgeEffects",
         "Id": "ArcPurpleSurge"
-      },
-      {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
       },
       {
         "RowIndex": 48,
@@ -796,9 +786,19 @@
         "Id": "CelestialSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 57,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "AutomatonSurge"
+      },
+      {
+        "RowIndex": 8,
+        "TableName": "SurgeEffects",
+        "Id": "HolySurge1"
+      },
+      {
+        "RowIndex": 77,
+        "TableName": "SurgeEffects",
+        "Id": "RadiantSurge"
       }
     ],
     "IntId": 52
@@ -957,24 +957,24 @@
         "Id": "FlameSurgeNew"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 46,
         "TableName": "SurgeEffects",
         "Id": "GhostflameSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 49,
         "TableName": "SurgeEffects",
         "Id": "HarbingerSurge"
+      },
+      {
+        "RowIndex": 71,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormCelestialSurge"
+      },
+      {
+        "RowIndex": 117,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormMeteorShowerSurge"
       }
     ],
     "IntId": 65
@@ -1013,9 +1013,9 @@
         "Id": "BloodTendrilsSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 96,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "BloodTendrilsSurgeTranscendence"
       }
     ],
     "IntId": 68
@@ -1090,19 +1090,9 @@
         "Id": "FlameSurge3"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 46,
         "TableName": "SurgeEffects",
         "Id": "GhostflameSurge"
-      },
-      {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
       },
       {
         "RowIndex": 82,
@@ -1110,19 +1100,9 @@
         "Id": "SummonRavenSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 83,
         "TableName": "SurgeEffects",
         "Id": "SummonBloodRavenSurge"
-      },
-      {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
       },
       {
         "RowIndex": 84,
@@ -1130,9 +1110,29 @@
         "Id": "SummonBeesSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 85,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "CelestialSummonRagingSpiritSurge"
+      },
+      {
+        "RowIndex": 86,
+        "TableName": "SurgeEffects",
+        "Id": "SummonArcaneEyeSurge"
+      },
+      {
+        "RowIndex": 107,
+        "TableName": "SurgeEffects",
+        "Id": "SummonRagingSpiritsOblivionSurge"
+      },
+      {
+        "RowIndex": 108,
+        "TableName": "SurgeEffects",
+        "Id": "SummonRagingSpiritsOnyxOblivionSurge"
+      },
+      {
+        "RowIndex": 119,
+        "TableName": "SurgeEffects",
+        "Id": "SummonRagingSpiritsDemonicSurge"
       }
     ],
     "IntId": 74
@@ -1579,9 +1579,9 @@
         "Id": "VaalVenomGyreSurge"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 139,
         "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
+        "Id": "VaalVenomGyreSurgeIllusionist"
       }
     ],
     "IntId": 112
@@ -1728,24 +1728,24 @@
         "Id": "CrossbowSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 118,
         "TableName": "SurgeEffects",
         "Id": "IncendiaryBoltSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 151,
         "TableName": "SurgeEffects",
         "Id": "ArmourPiercingBoltSurge"
+      },
+      {
+        "RowIndex": 150,
+        "TableName": "SurgeEffects",
+        "Id": "FreezingBoltSurge"
+      },
+      {
+        "RowIndex": 157,
+        "TableName": "SurgeEffects",
+        "Id": "StormblastSurge"
       }
     ],
     "IntId": 1000
@@ -1760,24 +1760,24 @@
         "Id": "CrossbowSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 153,
         "TableName": "SurgeEffects",
         "Id": "IncendiaryPowerShotSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 155,
         "TableName": "SurgeEffects",
         "Id": "ArmourPiercingPowerShotSurge"
+      },
+      {
+        "RowIndex": 154,
+        "TableName": "SurgeEffects",
+        "Id": "FreezingPowerShotSurge"
+      },
+      {
+        "RowIndex": 157,
+        "TableName": "SurgeEffects",
+        "Id": "StormblastSurge"
       }
     ],
     "IntId": 1001
@@ -1804,24 +1804,24 @@
         "Id": "FlameSurgeNew"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 46,
         "TableName": "SurgeEffects",
         "Id": "GhostflameSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 49,
         "TableName": "SurgeEffects",
         "Id": "HarbingerSurge"
+      },
+      {
+        "RowIndex": 71,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormCelestialSurge"
+      },
+      {
+        "RowIndex": 117,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormMeteorShowerSurge"
       }
     ],
     "IntId": 124
@@ -1836,24 +1836,24 @@
         "Id": "FlameSurgeNew"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 46,
         "TableName": "SurgeEffects",
         "Id": "GhostflameSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 49,
         "TableName": "SurgeEffects",
         "Id": "HarbingerSurge"
+      },
+      {
+        "RowIndex": 71,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormCelestialSurge"
+      },
+      {
+        "RowIndex": 117,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormMeteorShowerSurge"
       }
     ],
     "IntId": 125
@@ -1868,24 +1868,24 @@
         "Id": "FlameSurgeNew"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 46,
         "TableName": "SurgeEffects",
         "Id": "GhostflameSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 49,
         "TableName": "SurgeEffects",
         "Id": "HarbingerSurge"
+      },
+      {
+        "RowIndex": 71,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormCelestialSurge"
+      },
+      {
+        "RowIndex": 117,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormMeteorShowerSurge"
       }
     ],
     "IntId": 126
@@ -1900,24 +1900,24 @@
         "Id": "FlameSurgeNew"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 46,
         "TableName": "SurgeEffects",
         "Id": "GhostflameSurge"
       },
       {
-        "RowIndex": 0,
-        "TableName": "SurgeEffects",
-        "Id": "FireSurgeMultiSpeed"
-      },
-      {
         "RowIndex": 49,
         "TableName": "SurgeEffects",
         "Id": "HarbingerSurge"
+      },
+      {
+        "RowIndex": 71,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormCelestialSurge"
+      },
+      {
+        "RowIndex": 117,
+        "TableName": "SurgeEffects",
+        "Id": "FirestormMeteorShowerSurge"
       }
     ],
     "IntId": 127

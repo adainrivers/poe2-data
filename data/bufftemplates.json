@@ -335,14 +335,14 @@
         "Id": "petrified_blood_%_prevented_life_loss_to_lose_over_time"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 13180,
         "TableName": "Stats",
         "Id": "petrified_blood_%_life_loss_below_half_from_hit_to_prevent"
+      },
+      {
+        "RowIndex": 13336,
+        "TableName": "Stats",
+        "Id": "skill_grants_life_cost_%_mana_cost_while_not_on_low_life"
       }
     ],
     "Unk010": 1,
@@ -1661,9 +1661,9 @@
         "Id": "attack_and_cast_speed_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 171,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -1699,14 +1699,14 @@
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -1742,14 +1742,14 @@
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -1912,9 +1912,9 @@
         "Id": "accuracy_rating_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 541,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "critical_strike_chance_+%"
       }
     ],
     "Unk010": 1,
@@ -1950,9 +1950,9 @@
         "Id": "accuracy_rating_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 541,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "critical_strike_chance_+%"
       }
     ],
     "Unk010": 1,
@@ -1988,9 +1988,9 @@
         "Id": "accuracy_rating_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 541,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "critical_strike_chance_+%"
       }
     ],
     "Unk010": 1,
@@ -2407,14 +2407,14 @@
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -2451,14 +2451,14 @@
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -3909,19 +3909,19 @@
         "Id": "base_actor_scale_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 466,
         "TableName": "Stats",
         "Id": "base_damage_taken_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 1861,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attack_and_cast_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -3960,24 +3960,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4020,24 +4020,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4076,24 +4076,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4132,24 +4132,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4188,24 +4188,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4244,24 +4244,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4300,24 +4300,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4356,24 +4356,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4412,24 +4412,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4468,24 +4468,24 @@
         "Id": "grant_actor_scale_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1865,
         "TableName": "Stats",
         "Id": "grant_attack_speed_+%_to_aura_owner_on_death"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1866,
         "TableName": "Stats",
         "Id": "grant_cast_speed_+%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 1867,
+        "TableName": "Stats",
+        "Id": "grant_damage_reduction_%_to_aura_owner_on_death"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "Stats",
+        "Id": "soul_is_consumed_on_death"
       }
     ],
     "Unk010": 1,
@@ -4518,9 +4518,9 @@
         "Id": "disable_light"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 6977,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "avoid_damage_%"
       }
     ],
     "Unk010": 1,
@@ -5011,9 +5011,9 @@
         "Id": "non_skill_base_physical_damage_%_to_gain_as_fire"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 596,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_chance_to_ignite_%"
       }
     ],
     "Unk010": 1,
@@ -5046,9 +5046,9 @@
         "Id": "non_skill_base_physical_damage_%_to_gain_as_cold"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 444,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_chance_to_freeze_%"
       }
     ],
     "Unk010": 1,
@@ -5081,9 +5081,9 @@
         "Id": "non_skill_base_physical_damage_%_to_gain_as_lightning"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 644,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_chance_to_shock_%"
       }
     ],
     "Unk010": 1,
@@ -5116,9 +5116,9 @@
         "Id": "physical_damage_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 2289,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attacks_inflict_bleeding_on_hit"
       }
     ],
     "Unk010": 1,
@@ -5242,9 +5242,9 @@
         "Id": "bloodlines_shrouded"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 2496,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "disable_highlight"
       }
     ],
     "Unk010": 1,
@@ -5406,9 +5406,9 @@
         "Id": "physical_damage_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 70,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attack_speed_+%"
       }
     ],
     "Unk010": 1,
@@ -5444,14 +5444,14 @@
         "Id": "life_recovery_speed_+%_final_from_map"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 978,
         "TableName": "Stats",
         "Id": "mana_recovery_speed_+%_final_from_map"
+      },
+      {
+        "RowIndex": 979,
+        "TableName": "Stats",
+        "Id": "energy_shield_recovery_speed_+%_final_from_map"
       }
     ],
     "Unk010": 1,
@@ -5551,9 +5551,9 @@
         "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 1164,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_chaos_damage_does_not_damage_energy_shield_extra_hard"
       }
     ],
     "Unk010": 1,
@@ -5589,9 +5589,9 @@
         "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 1164,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_chaos_damage_does_not_damage_energy_shield_extra_hard"
       }
     ],
     "Unk010": 1,
@@ -5624,9 +5624,9 @@
         "Id": "physical_damage_taken_%_to_deal_to_attacker"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 552,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "elemental_damage_taken_%_to_deal_to_attacker"
       }
     ],
     "Unk010": 1,
@@ -5659,9 +5659,9 @@
         "Id": "physical_damage_taken_%_to_deal_to_attacker"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 552,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "elemental_damage_taken_%_to_deal_to_attacker"
       }
     ],
     "Unk010": 1,
@@ -6209,14 +6209,14 @@
         "Id": "vulnerability_total_armour_-"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 19732,
         "TableName": "Stats",
         "Id": "enemy_aggravate_bleeding_on_attack_hit_chance_%_against_self"
+      },
+      {
+        "RowIndex": 6854,
+        "TableName": "Stats",
+        "Id": "chance_to_be_maimed_when_hit_%"
       }
     ],
     "Unk010": 1,
@@ -6256,9 +6256,9 @@
         "Id": "temporal_chains_base_action_speed_+%_final_to_apply"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 521,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "buff_time_passed_+%_other_than_temporal_chains"
       }
     ],
     "Unk010": 1,
@@ -6298,9 +6298,9 @@
         "Id": "enfeeble_damage_+%_final"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 8648,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "enfeeble_damage_+%_vs_unique_final"
       }
     ],
     "Unk010": 1,
@@ -6341,14 +6341,14 @@
         "Id": "vulnerability_total_armour_-"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 19732,
         "TableName": "Stats",
         "Id": "enemy_aggravate_bleeding_on_attack_hit_chance_%_against_self"
+      },
+      {
+        "RowIndex": 6854,
+        "TableName": "Stats",
+        "Id": "chance_to_be_maimed_when_hit_%"
       }
     ],
     "Unk010": 1,
@@ -6388,9 +6388,9 @@
         "Id": "temporal_chains_base_action_speed_+%_final_to_apply"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 521,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "buff_time_passed_+%_other_than_temporal_chains"
       }
     ],
     "Unk010": 1,
@@ -6430,9 +6430,9 @@
         "Id": "enfeeble_damage_+%_final"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 8648,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "enfeeble_damage_+%_vs_unique_final"
       }
     ],
     "Unk010": 1,
@@ -6652,19 +6652,19 @@
         "Id": "base_movement_velocity_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 70,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attack_speed_+%"
+      },
+      {
+        "RowIndex": 6977,
+        "TableName": "Stats",
+        "Id": "avoid_damage_%"
       }
     ],
     "Unk010": 1,
@@ -6699,19 +6699,19 @@
         "Id": "base_movement_velocity_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 70,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attack_speed_+%"
+      },
+      {
+        "RowIndex": 6977,
+        "TableName": "Stats",
+        "Id": "avoid_damage_%"
       }
     ],
     "Unk010": 1,
@@ -6746,19 +6746,19 @@
         "Id": "base_movement_velocity_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 70,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attack_speed_+%"
+      },
+      {
+        "RowIndex": 6977,
+        "TableName": "Stats",
+        "Id": "avoid_damage_%"
       }
     ],
     "Unk010": 1,
@@ -6793,19 +6793,19 @@
         "Id": "base_movement_velocity_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 70,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attack_speed_+%"
+      },
+      {
+        "RowIndex": 6977,
+        "TableName": "Stats",
+        "Id": "avoid_damage_%"
       }
     ],
     "Unk010": 1,
@@ -6838,9 +6838,9 @@
         "Id": "active_skill_damage_+%_final"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 466,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk010": 1,
@@ -6873,9 +6873,9 @@
         "Id": "active_skill_damage_+%_final"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 466,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk010": 1,
@@ -6908,9 +6908,9 @@
         "Id": "active_skill_damage_+%_final"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 466,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk010": 1,
@@ -6943,9 +6943,9 @@
         "Id": "active_skill_damage_+%_final"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 466,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk010": 1,
@@ -6978,9 +6978,9 @@
         "Id": "base_self_critical_strike_multiplier_-%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 340,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "always_crit"
       }
     ],
     "Unk010": 1,
@@ -7013,9 +7013,9 @@
         "Id": "base_self_critical_strike_multiplier_-%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 340,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "always_crit"
       }
     ],
     "Unk010": 1,
@@ -7048,9 +7048,9 @@
         "Id": "base_self_critical_strike_multiplier_-%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 340,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "always_crit"
       }
     ],
     "Unk010": 1,
@@ -7178,14 +7178,14 @@
         "Id": "base_movement_velocity_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 2493,
         "TableName": "Stats",
         "Id": "base_physical_damage_%_of_maximum_life_taken_per_minute"
+      },
+      {
+        "RowIndex": 2960,
+        "TableName": "Stats",
+        "Id": "base_physical_damage_%_of_maximum_energy_shield_taken_per_minute_only_if_es_protects_life"
       }
     ],
     "Unk010": 1,
@@ -7251,19 +7251,19 @@
         "Id": "damage_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 10,
         "TableName": "Stats",
         "Id": "monster_dropped_item_rarity_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 466,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_damage_taken_+%"
+      },
+      {
+        "RowIndex": 11,
+        "TableName": "Stats",
+        "Id": "monster_dropped_item_quantity_+%"
       }
     ],
     "Unk010": 1,
@@ -7502,9 +7502,9 @@
         "Id": "base_damage_taken_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 24,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "damage_+%"
       }
     ],
     "Unk010": 1,
@@ -7716,9 +7716,9 @@
         "Id": "avoid_damage_%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 171,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -7752,14 +7752,14 @@
         "Id": "action_speed_cannot_be_reduced_below_base"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 682,
         "TableName": "Stats",
         "Id": "base_cannot_be_stunned"
+      },
+      {
+        "RowIndex": 24,
+        "TableName": "Stats",
+        "Id": "damage_+%"
       }
     ],
     "Unk010": 1,
@@ -7793,14 +7793,14 @@
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 84,
         "TableName": "Stats",
         "Id": "accuracy_rating_+%"
+      },
+      {
+        "RowIndex": 541,
+        "TableName": "Stats",
+        "Id": "critical_strike_chance_+%"
       }
     ],
     "Unk010": 1,
@@ -7837,9 +7837,9 @@
         "Id": "base_damage_taken_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 436,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "non_skill_base_physical_damage_%_to_gain_as_cold"
       }
     ],
     "Unk010": 1,
@@ -7876,9 +7876,9 @@
         "Id": "non_skill_base_physical_damage_%_to_gain_as_lightning"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 940,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "global_chance_to_blind_on_hit_%"
       }
     ],
     "Unk010": 1,
@@ -7915,9 +7915,9 @@
         "Id": "global_poison_on_hit"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 6737,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "non_skill_base_non_chaos_damage_%_to_gain_as_chaos"
       }
     ],
     "Unk010": 1,
@@ -7955,19 +7955,19 @@
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 84,
         "TableName": "Stats",
         "Id": "accuracy_rating_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 541,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "critical_strike_chance_+%"
+      },
+      {
+        "RowIndex": 95,
+        "TableName": "Stats",
+        "Id": "base_critical_strike_multiplier_+"
       }
     ],
     "Unk010": 1,
@@ -8593,14 +8593,14 @@
         "Id": "damage_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 439,
         "TableName": "Stats",
         "Id": "life_regeneration_rate_per_minute_%"
+      },
+      {
+        "RowIndex": 466,
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk010": 1,
@@ -8879,9 +8879,9 @@
         "Id": "non_skill_base_physical_damage_%_to_gain_as_lightning"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 644,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_chance_to_shock_%"
       }
     ],
     "Unk010": 1,
@@ -8916,9 +8916,9 @@
         "Id": "non_skill_base_physical_damage_%_to_gain_as_lightning"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 644,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_chance_to_shock_%"
       }
     ],
     "Unk010": 1,
@@ -8953,9 +8953,9 @@
         "Id": "fire_damage_resistance_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 9698,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "cold_damage_resistance_+%"
       }
     ],
     "Unk010": 1,
@@ -10128,24 +10128,24 @@
         "Id": "base_actor_scale_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 171,
         "TableName": "Stats",
         "Id": "base_movement_velocity_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 1861,
         "TableName": "Stats",
         "Id": "attack_and_cast_speed_+%"
+      },
+      {
+        "RowIndex": 6737,
+        "TableName": "Stats",
+        "Id": "non_skill_base_non_chaos_damage_%_to_gain_as_chaos"
+      },
+      {
+        "RowIndex": 24,
+        "TableName": "Stats",
+        "Id": "damage_+%"
       }
     ],
     "Unk010": 1,
@@ -10584,14 +10584,14 @@
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -10938,19 +10938,9 @@
         "Id": "damage_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 171,
         "TableName": "Stats",
         "Id": "base_movement_velocity_+%"
-      },
-      {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
       },
       {
         "RowIndex": 466,
@@ -10958,9 +10948,19 @@
         "Id": "base_damage_taken_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 698,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_actor_scale_+%"
+      },
+      {
+        "RowIndex": 70,
+        "TableName": "Stats",
+        "Id": "attack_speed_+%"
+      },
+      {
+        "RowIndex": 210,
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       }
     ],
     "Unk010": 1,
@@ -11102,14 +11102,14 @@
         "Id": "max_life_+%_final_for_minion"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 171,
         "TableName": "Stats",
         "Id": "base_movement_velocity_+%"
+      },
+      {
+        "RowIndex": 698,
+        "TableName": "Stats",
+        "Id": "base_actor_scale_+%"
       }
     ],
     "Unk010": 1,
@@ -11174,14 +11174,14 @@
         "Id": "hellscape_monster_damage_+%_final"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 466,
         "TableName": "Stats",
         "Id": "base_damage_taken_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk010": 1,
@@ -11217,14 +11217,14 @@
         "Id": "action_speed_-%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5998,
         "TableName": "Stats",
         "Id": "debuff_time_passed_+%"
+      },
+      {
+        "RowIndex": 3219,
+        "TableName": "Stats",
+        "Id": "base_cooldown_speed_+%"
       }
     ],
     "Unk010": 1,

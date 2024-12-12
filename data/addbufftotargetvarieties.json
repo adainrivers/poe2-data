@@ -14,9 +14,9 @@
         "Id": "base_damage_taken_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 435,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "non_skill_base_physical_damage_%_to_gain_as_fire"
       }
     ],
     "Unk003": 0,
@@ -100,19 +100,19 @@
         "Id": "number_of_additional_projectiles"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 166,
         "TableName": "Stats",
         "Id": "number_of_chains"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 5906,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "projectile_base_number_of_targets_to_pierce"
+      },
+      {
+        "RowIndex": 1079,
+        "TableName": "Stats",
+        "Id": "projectiles_fork"
       }
     ],
     "Unk003": 0,
@@ -136,19 +136,19 @@
         "Id": "damage_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 466,
         "TableName": "Stats",
         "Id": "base_damage_taken_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 70,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attack_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       }
     ],
     "Unk003": 0,
@@ -172,24 +172,24 @@
         "Id": "damage_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 70,
         "TableName": "Stats",
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
+      },
+      {
+        "RowIndex": 466,
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk003": 0,
@@ -213,14 +213,14 @@
         "Id": "monster_damage_taken_lerp_+%_final_min"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 6033,
         "TableName": "Stats",
         "Id": "monster_damage_taken_lerp_+%_final_max"
+      },
+      {
+        "RowIndex": 6034,
+        "TableName": "Stats",
+        "Id": "monster_damage_taken_lerp_+%_final_time"
       }
     ],
     "Unk003": 0,
@@ -276,9 +276,9 @@
         "Id": "base_movement_velocity_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 70,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "attack_speed_+%"
       }
     ],
     "Unk003": 0,
@@ -323,9 +323,9 @@
         "Id": "base_actor_scale_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 24,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "damage_+%"
       }
     ],
     "Unk003": 0,
@@ -475,24 +475,24 @@
         "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5664,
         "TableName": "Stats",
         "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5666,
         "TableName": "Stats",
         "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 5667,
+        "TableName": "Stats",
+        "Id": "chaos_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 338,
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 74,
@@ -516,24 +516,24 @@
         "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5664,
         "TableName": "Stats",
         "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5666,
         "TableName": "Stats",
         "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 5667,
+        "TableName": "Stats",
+        "Id": "chaos_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 338,
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 55,
@@ -557,24 +557,24 @@
         "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5664,
         "TableName": "Stats",
         "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5666,
         "TableName": "Stats",
         "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 5667,
+        "TableName": "Stats",
+        "Id": "chaos_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 338,
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 74,
@@ -598,24 +598,24 @@
         "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5664,
         "TableName": "Stats",
         "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5666,
         "TableName": "Stats",
         "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 5667,
+        "TableName": "Stats",
+        "Id": "chaos_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 338,
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 55,
@@ -639,24 +639,24 @@
         "Id": "damage_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 466,
         "TableName": "Stats",
         "Id": "base_damage_taken_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 70,
         "TableName": "Stats",
         "Id": "attack_speed_+%"
+      },
+      {
+        "RowIndex": 171,
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
+      },
+      {
+        "RowIndex": 3286,
+        "TableName": "Stats",
+        "Id": "bleeding_enemies_explode_for_%_life_as_physical_damage"
       }
     ],
     "Unk003": 0,
@@ -705,24 +705,24 @@
         "Id": "number_of_additional_projectiles"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 166,
         "TableName": "Stats",
         "Id": "number_of_chains"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5906,
         "TableName": "Stats",
         "Id": "projectile_base_number_of_targets_to_pierce"
+      },
+      {
+        "RowIndex": 1079,
+        "TableName": "Stats",
+        "Id": "projectiles_fork"
+      },
+      {
+        "RowIndex": 9991,
+        "TableName": "Stats",
+        "Id": "number_of_additional_forks_base"
       }
     ],
     "Unk003": 0,
@@ -767,9 +767,9 @@
         "Id": "base_reduce_enemy_lightning_resistance_%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 644,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "base_chance_to_shock_%"
       }
     ],
     "Unk003": 0,
@@ -835,14 +835,14 @@
         "Id": "base_damage_taken_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 145,
         "TableName": "Stats",
         "Id": "base_item_found_quantity_+%"
+      },
+      {
+        "RowIndex": 147,
+        "TableName": "Stats",
+        "Id": "base_item_found_rarity_+%"
       }
     ],
     "Unk003": 16,
@@ -952,9 +952,9 @@
         "Id": "energy_shield_delay_-%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 132,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "energy_shield_recharge_rate_+%"
       }
     ],
     "Unk003": 0,
@@ -1143,9 +1143,9 @@
         "Id": "mana_degeneration_per_minute_%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 1911,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "lightning_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 38,
@@ -1169,19 +1169,19 @@
         "Id": "attack_speed_+%"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 210,
         "TableName": "Stats",
         "Id": "base_cast_speed_+%"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 208,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "skill_repeat_count"
+      },
+      {
+        "RowIndex": 14806,
+        "TableName": "Stats",
+        "Id": "interrupt_for_X_ms_after_skill_use"
       }
     ],
     "Unk003": 0,
@@ -1205,24 +1205,24 @@
         "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5664,
         "TableName": "Stats",
         "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
-        "RowIndex": 0,
-        "TableName": "Stats",
-        "Id": "level"
-      },
-      {
         "RowIndex": 5666,
         "TableName": "Stats",
         "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 5667,
+        "TableName": "Stats",
+        "Id": "chaos_skill_dot_area_damage_to_deal_per_minute"
+      },
+      {
+        "RowIndex": 338,
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 48,
@@ -1360,9 +1360,9 @@
         "Id": "reaver_enrage_decay_rate_increase_+%_final"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 8844,
         "TableName": "Stats",
-        "Id": "level"
+        "Id": "gain_rage_on_hit"
       }
     ],
     "Unk003": 0,

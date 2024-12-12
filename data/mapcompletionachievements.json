@@ -113,9 +113,9 @@
         "Id": "IsRare"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 4,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsUnidentified"
       }
     ],
     "StatsKeys": [],
@@ -147,9 +147,9 @@
         "Id": "IsRare"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 8,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "Has8ExplicitMods"
       }
     ],
     "StatsKeys": [],
@@ -175,14 +175,14 @@
         "Id": "IsRare"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 8,
         "TableName": "MapStatConditions",
         "Id": "Has8ExplicitMods"
+      },
+      {
+        "RowIndex": 18,
+        "TableName": "MapStatConditions",
+        "Id": "IsRedTier"
       }
     ],
     "StatsKeys": [],
@@ -193,9 +193,9 @@
         "Id": "ExpeditionCompleteEightModMaps"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 9342,
         "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
+        "Id": "CrucibleRuthless8modRedMaps1"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -495,19 +495,9 @@
         "Id": "HasBarrelSextant1"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 28,
         "TableName": "MapStatConditions",
         "Id": "HasBarrelSextant2"
-      },
-      {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
       },
       {
         "RowIndex": 29,
@@ -515,9 +505,19 @@
         "Id": "HasBarrelSextant3"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 30,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "HasBarrelSextant4"
+      },
+      {
+        "RowIndex": 31,
+        "TableName": "MapStatConditions",
+        "Id": "HasBarrelSextant5"
+      },
+      {
+        "RowIndex": 32,
+        "TableName": "MapStatConditions",
+        "Id": "HasBarrelSextant6"
       }
     ],
     "StatsKeys": [],
@@ -957,9 +957,9 @@
         "Id": "HasSextantMod"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 53,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "HasLegionSextant"
       }
     ],
     "StatsKeys": [],
@@ -1054,9 +1054,9 @@
         "Id": "IsRare"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 55,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsDeliriumMap"
       }
     ],
     "StatsKeys": [],
@@ -1082,9 +1082,9 @@
         "Id": "IsRare"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 56,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsMaximumDelirium"
       }
     ],
     "StatsKeys": [],
@@ -1116,19 +1116,19 @@
         "Id": "IsRare"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 56,
         "TableName": "MapStatConditions",
         "Id": "IsMaximumDelirium"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 6,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "Has4ExplicitMods"
+      },
+      {
+        "RowIndex": 20,
+        "TableName": "MapStatConditions",
+        "Id": "IsTier16"
       }
     ],
     "StatsKeys": [],
@@ -1160,9 +1160,9 @@
         "Id": "IsTwinned"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 56,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsMaximumDelirium"
       }
     ],
     "StatsKeys": [],
@@ -1188,14 +1188,14 @@
         "Id": "IsRare"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 57,
         "TableName": "MapStatConditions",
         "Id": "AwakeningLevel8"
+      },
+      {
+        "RowIndex": 56,
+        "TableName": "MapStatConditions",
+        "Id": "IsMaximumDelirium"
       }
     ],
     "StatsKeys": [],
@@ -1221,9 +1221,9 @@
         "Id": "ContainsElderGuardian"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 56,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsMaximumDelirium"
       }
     ],
     "StatsKeys": [],
@@ -1249,14 +1249,14 @@
         "Id": "IsBlightedMap"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 73,
         "TableName": "MapStatConditions",
         "Id": "IsTier14Plus"
+      },
+      {
+        "RowIndex": 8,
+        "TableName": "MapStatConditions",
+        "Id": "Has8ExplicitMods"
       }
     ],
     "StatsKeys": [],
@@ -1307,24 +1307,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_10"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8197,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_10"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8643,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_10"
+      },
+      {
+        "RowIndex": 8833,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_10"
+      },
+      {
+        "RowIndex": 9225,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_10"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1350,24 +1350,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_11"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8198,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_11"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8644,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_11"
+      },
+      {
+        "RowIndex": 8834,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_11"
+      },
+      {
+        "RowIndex": 9226,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_11"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1393,24 +1393,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_1"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8188,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_1"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8634,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_1"
+      },
+      {
+        "RowIndex": 8824,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_1"
+      },
+      {
+        "RowIndex": 9216,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_1"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1436,24 +1436,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_13"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8200,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_13"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8646,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_13"
+      },
+      {
+        "RowIndex": 8836,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_13"
+      },
+      {
+        "RowIndex": 9228,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_13"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1479,24 +1479,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_5"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8192,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_5"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8638,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_5"
+      },
+      {
+        "RowIndex": 8828,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_5"
+      },
+      {
+        "RowIndex": 9220,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_5"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1545,24 +1545,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_8"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8195,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_8"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8641,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_8"
+      },
+      {
+        "RowIndex": 8831,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_8"
+      },
+      {
+        "RowIndex": 9223,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_8"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1588,24 +1588,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_7"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8194,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_7"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8640,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_7"
+      },
+      {
+        "RowIndex": 8830,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_7"
+      },
+      {
+        "RowIndex": 9222,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_7"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1631,24 +1631,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_6"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8193,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_6"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8639,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_6"
+      },
+      {
+        "RowIndex": 8829,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_6"
+      },
+      {
+        "RowIndex": 9221,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_6"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1674,24 +1674,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_2"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8189,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_2"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8635,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_2"
+      },
+      {
+        "RowIndex": 8825,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_2"
+      },
+      {
+        "RowIndex": 9217,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_2"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1717,24 +1717,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_14"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8201,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_14"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8647,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_14"
+      },
+      {
+        "RowIndex": 8837,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_14"
+      },
+      {
+        "RowIndex": 9229,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_14"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1760,24 +1760,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_9"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8196,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_9"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8642,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_9"
+      },
+      {
+        "RowIndex": 8832,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_9"
+      },
+      {
+        "RowIndex": 9224,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_9"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1803,24 +1803,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_3"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8190,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_3"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8636,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_3"
+      },
+      {
+        "RowIndex": 8826,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_3"
+      },
+      {
+        "RowIndex": 9218,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_3"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1846,24 +1846,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_12"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8199,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_12"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8645,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_12"
+      },
+      {
+        "RowIndex": 8835,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_12"
+      },
+      {
+        "RowIndex": 9227,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_12"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1889,24 +1889,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_4"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8191,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_4"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8637,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_4"
+      },
+      {
+        "RowIndex": 8827,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_4"
+      },
+      {
+        "RowIndex": 9219,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_4"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1932,24 +1932,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_18"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8204,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_17"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8650,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_17"
+      },
+      {
+        "RowIndex": 8840,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_17"
+      },
+      {
+        "RowIndex": 9232,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_17"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -1975,24 +1975,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_15"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8202,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_15"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8648,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_15"
+      },
+      {
+        "RowIndex": 8838,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_15"
+      },
+      {
+        "RowIndex": 9230,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_15"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -2018,24 +2018,24 @@
         "Id": "ExpeditionCompleteUniqueMaps1_16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8203,
         "TableName": "AchievementItems",
         "Id": "ScourgeUniqueMaps_16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "AchievementItems",
-        "Id": "KillExileRanger3"
-      },
-      {
         "RowIndex": 8649,
         "TableName": "AchievementItems",
         "Id": "SentinelCompleteUniqueMaps_16"
+      },
+      {
+        "RowIndex": 8839,
+        "TableName": "AchievementItems",
+        "Id": "LakeCompleteUniqueMaps1_16"
+      },
+      {
+        "RowIndex": 9231,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteUniqueMaps1_16"
       }
     ],
     "MapTierAchievementsKeys": [],
@@ -3440,14 +3440,14 @@
         "Id": "HasAttackSpeed"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 66,
         "TableName": "MapStatConditions",
         "Id": "HasCastSpeed"
+      },
+      {
+        "RowIndex": 67,
+        "TableName": "MapStatConditions",
+        "Id": "HasMovementSpeed"
       }
     ],
     "StatsKeys": [],
@@ -3710,9 +3710,9 @@
         "Id": "Has5ExplicitMods"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 71,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "HasHeightOfHubrisAffectingArea"
       }
     ],
     "StatsKeys": [],
@@ -3744,9 +3744,9 @@
         "Id": "Has5ExplicitMods"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 71,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "HasHeightOfHubrisAffectingArea"
       }
     ],
     "StatsKeys": [],
@@ -3778,9 +3778,9 @@
         "Id": "Has5ExplicitMods"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 71,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "HasHeightOfHubrisAffectingArea"
       }
     ],
     "StatsKeys": [],
@@ -3812,9 +3812,9 @@
         "Id": "Has5ExplicitMods"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 71,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "HasHeightOfHubrisAffectingArea"
       }
     ],
     "StatsKeys": [],
@@ -3875,19 +3875,19 @@
         "Id": "Has5ExplicitMods"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 60,
         "TableName": "MapStatConditions",
         "Id": "IsUberBlightedMap"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 73,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsTier14Plus"
+      },
+      {
+        "RowIndex": 5,
+        "TableName": "MapStatConditions",
+        "Id": "IsCorrupted"
       }
     ],
     "StatsKeys": [],
@@ -3948,14 +3948,14 @@
         "Id": "Has8ExplicitMods"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 20,
         "TableName": "MapStatConditions",
         "Id": "IsTier16"
+      },
+      {
+        "RowIndex": 1,
+        "TableName": "MapStatConditions",
+        "Id": "IsRare"
       }
     ],
     "StatsKeys": [],
@@ -3987,14 +3987,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 79,
+        "TableName": "MapStatConditions",
+        "Id": "IsAbyssMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4026,14 +4026,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 80,
+        "TableName": "MapStatConditions",
+        "Id": "IsAmbushMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4065,14 +4065,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 81,
+        "TableName": "MapStatConditions",
+        "Id": "IsAnarchyMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4098,14 +4098,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 82,
+        "TableName": "MapStatConditions",
+        "Id": "IsBestiaryMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4131,14 +4131,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 83,
+        "TableName": "MapStatConditions",
+        "Id": "IsBetrayalMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4164,14 +4164,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 84,
+        "TableName": "MapStatConditions",
+        "Id": "IsBlightMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4197,14 +4197,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 85,
+        "TableName": "MapStatConditions",
+        "Id": "IsBreachMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4236,14 +4236,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 86,
+        "TableName": "MapStatConditions",
+        "Id": "IsDeliriumMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4269,14 +4269,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 87,
+        "TableName": "MapStatConditions",
+        "Id": "IsDominationMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4302,14 +4302,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 88,
+        "TableName": "MapStatConditions",
+        "Id": "IsEssenceMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4341,14 +4341,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 89,
+        "TableName": "MapStatConditions",
+        "Id": "IsExpeditionMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4374,14 +4374,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 90,
+        "TableName": "MapStatConditions",
+        "Id": "IsHarvestMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4413,14 +4413,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 91,
+        "TableName": "MapStatConditions",
+        "Id": "IsHeistMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4446,14 +4446,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 92,
+        "TableName": "MapStatConditions",
+        "Id": "IsIncursionMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4485,14 +4485,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 93,
+        "TableName": "MapStatConditions",
+        "Id": "IsLegionMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4518,14 +4518,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 94,
+        "TableName": "MapStatConditions",
+        "Id": "IsMetamorphMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4551,14 +4551,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 95,
+        "TableName": "MapStatConditions",
+        "Id": "IsRitualMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4584,14 +4584,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 96,
+        "TableName": "MapStatConditions",
+        "Id": "IsTormentMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4623,14 +4623,14 @@
         "Id": "IsLastMapOfAMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 77,
         "TableName": "MapStatConditions",
         "Id": "IsFirstMapOfMemoryLineTier14Plus"
+      },
+      {
+        "RowIndex": 97,
+        "TableName": "MapStatConditions",
+        "Id": "IsHarbingerMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4662,9 +4662,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 79,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsAbyssMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4696,9 +4696,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 80,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsAmbushMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4730,9 +4730,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 81,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsAnarchyMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4764,9 +4764,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 82,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsBestiaryMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4798,9 +4798,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 83,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsBetrayalMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4832,9 +4832,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 84,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsBlightMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4866,9 +4866,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 85,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsBreachMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4900,9 +4900,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 86,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsDeliriumMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4934,9 +4934,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 87,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsDominationMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -4968,9 +4968,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 88,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsEssenceMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5002,9 +5002,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 89,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsExpeditionMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5036,9 +5036,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 90,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsHarvestMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5070,9 +5070,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 91,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsHeistMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5104,9 +5104,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 92,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsIncursionMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5138,9 +5138,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 93,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsLegionMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5172,9 +5172,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 94,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsMetamorphMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5206,9 +5206,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 95,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsRitualMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5240,9 +5240,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 96,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsTormentMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5274,9 +5274,9 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 97,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "IsHarbingerMemoryLine"
       }
     ],
     "StatsKeys": [],
@@ -5308,14 +5308,14 @@
         "Id": "IsAnyMemoryLine"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 98,
         "TableName": "MapStatConditions",
         "Id": "AtLeast100Quantity"
+      },
+      {
+        "RowIndex": 73,
+        "TableName": "MapStatConditions",
+        "Id": "IsTier14Plus"
       }
     ],
     "StatsKeys": [],
@@ -5521,19 +5521,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 100,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantMinimumRarity"
+      },
+      {
+        "RowIndex": 101,
+        "TableName": "MapStatConditions",
+        "Id": "SextantEnragedStrongbox"
       }
     ],
     "StatsKeys": [],
@@ -5565,19 +5565,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 102,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantBossHarbinger"
+      },
+      {
+        "RowIndex": 103,
+        "TableName": "MapStatConditions",
+        "Id": "SextantBossBodyguards"
       }
     ],
     "StatsKeys": [],
@@ -5609,19 +5609,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 104,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantHealingPacks"
+      },
+      {
+        "RowIndex": 105,
+        "TableName": "MapStatConditions",
+        "Id": "SextantConvertPacks"
       }
     ],
     "StatsKeys": [],
@@ -5653,19 +5653,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 106,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantHereticGhost"
+      },
+      {
+        "RowIndex": 109,
+        "TableName": "MapStatConditions",
+        "Id": "SextantGloomShrine"
       }
     ],
     "StatsKeys": [],
@@ -5697,19 +5697,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 106,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantHereticGhost"
+      },
+      {
+        "RowIndex": 110,
+        "TableName": "MapStatConditions",
+        "Id": "SextantResonatingShrine"
       }
     ],
     "StatsKeys": [],
@@ -5741,19 +5741,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 107,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantBetrayerGhost"
+      },
+      {
+        "RowIndex": 109,
+        "TableName": "MapStatConditions",
+        "Id": "SextantGloomShrine"
       }
     ],
     "StatsKeys": [],
@@ -5785,19 +5785,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 107,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantBetrayerGhost"
+      },
+      {
+        "RowIndex": 110,
+        "TableName": "MapStatConditions",
+        "Id": "SextantResonatingShrine"
       }
     ],
     "StatsKeys": [],
@@ -5829,19 +5829,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 108,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantGraverobberGhost"
+      },
+      {
+        "RowIndex": 109,
+        "TableName": "MapStatConditions",
+        "Id": "SextantGloomShrine"
       }
     ],
     "StatsKeys": [],
@@ -5873,19 +5873,19 @@
         "Id": "IsTier16"
       },
       {
-        "RowIndex": 0,
-        "TableName": "MapStatConditions",
-        "Id": "IsMagic"
-      },
-      {
         "RowIndex": 99,
         "TableName": "MapStatConditions",
         "Id": "AtLeast80Quantity"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 108,
         "TableName": "MapStatConditions",
-        "Id": "IsMagic"
+        "Id": "SextantGraverobberGhost"
+      },
+      {
+        "RowIndex": 110,
+        "TableName": "MapStatConditions",
+        "Id": "SextantResonatingShrine"
       }
     ],
     "StatsKeys": [],

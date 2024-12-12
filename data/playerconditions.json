@@ -199,9 +199,9 @@
         "Id": "offering_of_judgement_fire"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 506,
         "TableName": "BuffDefinitions",
-        "Id": "ignited"
+        "Id": "offering_of_judgement_chaos"
       }
     ],
     "Unk002": false,
@@ -223,14 +223,14 @@
         "Id": "doedre2_red_aura"
       },
       {
-        "RowIndex": 0,
-        "TableName": "BuffDefinitions",
-        "Id": "ignited"
-      },
-      {
         "RowIndex": 757,
         "TableName": "BuffDefinitions",
         "Id": "doedre2_green_aura"
+      },
+      {
+        "RowIndex": 758,
+        "TableName": "BuffDefinitions",
+        "Id": "doedre2_purple_aura"
       }
     ],
     "Unk002": false,
@@ -366,19 +366,9 @@
         "Id": "massive_storm"
       },
       {
-        "RowIndex": 0,
-        "TableName": "BuffDefinitions",
-        "Id": "ignited"
-      },
-      {
         "RowIndex": 445,
         "TableName": "BuffDefinitions",
         "Id": "tiny_storm"
-      },
-      {
-        "RowIndex": 0,
-        "TableName": "BuffDefinitions",
-        "Id": "ignited"
       },
       {
         "RowIndex": 437,
@@ -386,14 +376,24 @@
         "Id": "diamond_storm"
       },
       {
-        "RowIndex": 0,
-        "TableName": "BuffDefinitions",
-        "Id": "ignited"
-      },
-      {
         "RowIndex": 439,
         "TableName": "BuffDefinitions",
         "Id": "replenishing_storm"
+      },
+      {
+        "RowIndex": 460,
+        "TableName": "BuffDefinitions",
+        "Id": "status_immunity_storm"
+      },
+      {
+        "RowIndex": 455,
+        "TableName": "BuffDefinitions",
+        "Id": "corrupted_drops_storm"
+      },
+      {
+        "RowIndex": 443,
+        "TableName": "BuffDefinitions",
+        "Id": "uber_rarity_storm"
       }
     ],
     "Unk002": false,
@@ -1119,9 +1119,9 @@
         "Id": "maven_rotating_beam_debuff"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 1664,
         "TableName": "BuffDefinitions",
-        "Id": "ignited"
+        "Id": "maven_cutter_beam_debuff"
       }
     ],
     "Unk002": false,
@@ -1181,9 +1181,9 @@
         "Id": "vortex"
       },
       {
-        "RowIndex": 0,
+        "RowIndex": 929,
         "TableName": "BuffDefinitions",
-        "Id": "ignited"
+        "Id": "elder_ground_spores"
       }
     ],
     "Unk002": true,
