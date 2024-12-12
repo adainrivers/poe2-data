@@ -4,7 +4,8 @@
     "Id": "Interrogate",
     "BetrayalChoicesKey": {
       "RowIndex": 0,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Interrogate"
     },
     "ClientStringsKey": null
   },
@@ -13,7 +14,8 @@
     "Id": "Release",
     "BetrayalChoicesKey": {
       "RowIndex": 4,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Release"
     },
     "ClientStringsKey": null
   },
@@ -22,7 +24,8 @@
     "Id": "Execute",
     "BetrayalChoicesKey": {
       "RowIndex": 1,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Execute"
     },
     "ClientStringsKey": null
   },
@@ -31,7 +34,8 @@
     "Id": "PromoteNPC",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -40,7 +44,8 @@
     "Id": "SwapNPCJob",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -49,7 +54,8 @@
     "Id": "SwapLeader",
     "BetrayalChoicesKey": {
       "RowIndex": 2,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Betray"
     },
     "ClientStringsKey": null
   },
@@ -58,7 +64,8 @@
     "Id": "RemoveNPCFromOrg",
     "BetrayalChoicesKey": {
       "RowIndex": 2,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Betray"
     },
     "ClientStringsKey": null
   },
@@ -67,7 +74,8 @@
     "Id": "NPCBefriendsAnother",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -76,7 +84,8 @@
     "Id": "GainIntelligenceLarge",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -85,7 +94,8 @@
     "Id": "GainIntelligence",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -94,7 +104,8 @@
     "Id": "NPCLeavesOrg",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -103,7 +114,8 @@
     "Id": "StealRanks",
     "BetrayalChoicesKey": {
       "RowIndex": 2,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Betray"
     },
     "ClientStringsKey": null
   },
@@ -112,7 +124,8 @@
     "Id": "StealIntelligence",
     "BetrayalChoicesKey": {
       "RowIndex": 2,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Betray"
     },
     "ClientStringsKey": null
   },
@@ -121,7 +134,8 @@
     "Id": "RemoveAllFromPrison",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -130,7 +144,8 @@
     "Id": "DestroyAllItemsInDivision",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -139,7 +154,8 @@
     "Id": "RemoveAllRivalries",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": null
   },
@@ -148,7 +164,8 @@
     "Id": "DestroyAllItemsOfRivalDivision",
     "BetrayalChoicesKey": {
       "RowIndex": 2,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Betray"
     },
     "ClientStringsKey": null
   },
@@ -157,7 +174,8 @@
     "Id": "DownrankRivalsUprankMyDivision",
     "BetrayalChoicesKey": {
       "RowIndex": 2,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Betray"
     },
     "ClientStringsKey": null
   },
@@ -166,11 +184,13 @@
     "Id": "GainItemAnyUnique",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": {
       "RowIndex": 4514,
-      "TableName": "ClientStrings"
+      "TableName": "ClientStrings",
+      "Id": "BetrayalChoiceActionGainItemAnyUnique"
     }
   },
   {
@@ -178,11 +198,13 @@
     "Id": "GainItemCurrency",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": {
       "RowIndex": 4515,
-      "TableName": "ClientStrings"
+      "TableName": "ClientStrings",
+      "Id": "BetrayalChoiceActionGainItemCurrency"
     }
   },
   {
@@ -190,11 +212,13 @@
     "Id": "GainItemVeiledItem",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": {
       "RowIndex": 4516,
-      "TableName": "ClientStrings"
+      "TableName": "ClientStrings",
+      "Id": "BetrayalChoiceActionGainItemRareItemVeiled"
     }
   },
   {
@@ -202,11 +226,13 @@
     "Id": "GainItemMap",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": {
       "RowIndex": 4517,
-      "TableName": "ClientStrings"
+      "TableName": "ClientStrings",
+      "Id": "BetrayalChoiceActionGainItemMap"
     }
   },
   {
@@ -214,11 +240,13 @@
     "Id": "GainItemScarab",
     "BetrayalChoicesKey": {
       "RowIndex": 3,
-      "TableName": "BetrayalChoices"
+      "TableName": "BetrayalChoices",
+      "Id": "Bargain"
     },
     "ClientStringsKey": {
       "RowIndex": 4518,
-      "TableName": "ClientStrings"
+      "TableName": "ClientStrings",
+      "Id": "BetrayalChoiceActionGainItemScarab"
     }
   }
 ]

@@ -2,111 +2,201 @@
   {
     "RowIndex": 0,
     "Id": "GoldReward",
-    "Icon": "Art/2DItems/QuestItems/RewardGold.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardGold.dds",
+    "Name": "Gold",
+    "Description": "This quest will give you gold.",
+    "SomeRef": {
+      "RowIndex": 1654,
+      "TableName": null
+    }
   },
   {
     "RowIndex": 1,
     "Id": "BookOfSpecialiation",
-    "Icon": "Art/2DItems/QuestItems/RewardBook.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardBook.dds",
+    "Name": "Book of Specialisation",
+    "Description": "This quest will reward you with a Book of Specialiation.",
+    "SomeRef": {
+      "RowIndex": 2609,
+      "TableName": null
+    }
   },
   {
     "RowIndex": 2,
     "Id": "UncutSkillGem",
-    "Icon": "Art/2DItems/QuestItems/RewardSkillGem.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardSkillGem.dds",
+    "Name": "Uncut Skill Gem",
+    "Description": "This quest will reward you with an Uncut Skill Gem.",
+    "SomeRef": {
+      "RowIndex": 2683,
+      "TableName": null
+    }
   },
   {
     "RowIndex": 3,
     "Id": "UncutSupportGem",
-    "Icon": "Art/2DItems/QuestItems/RewardSupportGem.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardSupportGem.dds",
+    "Name": "Uncut Support Gem",
+    "Description": "This quest will reward you with an Uncut Support Gem.",
+    "SomeRef": {
+      "RowIndex": 2685,
+      "TableName": null
+    }
   },
   {
     "RowIndex": 4,
     "Id": "UncutBuffSkillGem",
-    "Icon": "Art/2DItems/QuestItems/RewardSkillGemBuff.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardSkillGemBuff.dds",
+    "Name": "Uncut Buff Skill Gem",
+    "Description": "This quest will reward you with an Uncut Buff Skill Gem.",
+    "SomeRef": {
+      "RowIndex": 3023,
+      "TableName": null
+    }
   },
   {
     "RowIndex": 5,
     "Id": "ConsumablePermanentBenefit",
-    "Icon": "Art/2DItems/QuestItems/RewardConsumableBuff.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardConsumableBuff.dds",
+    "Name": "Permanent Benefit Consumable",
+    "Description": "This quest will reward you with a consumable that can be used to grant you a permanent benefit.",
+    "SomeRef": null
   },
   {
     "RowIndex": 6,
     "Id": "RingMagic",
-    "Icon": "Art/2DItems/QuestItems/RewardJewellery.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardJewellery.dds",
+    "Name": "Magic Ring",
+    "Description": "This quest will reward you with a magic Ring.",
+    "SomeRef": null
   },
   {
     "RowIndex": 7,
     "Id": "RingRare",
-    "Icon": "Art/2DItems/QuestItems/RewardJewellery.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardJewellery.dds",
+    "Name": "Rare Ring",
+    "Description": "This quest will reward you with a rare Ring.",
+    "SomeRef": null
   },
   {
     "RowIndex": 8,
     "Id": "AmuletMagic",
-    "Icon": "Art/2DItems/QuestItems/RewardAmulet.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardAmulet.dds",
+    "Name": "Magic Amulet",
+    "Description": "This quest will reward you with a magic Amulet.",
+    "SomeRef": null
   },
   {
     "RowIndex": 9,
     "Id": "FlaskMagic",
-    "Icon": "Art/2DItems/QuestItems/RewardFlasks.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardFlasks.dds",
+    "Name": "Magic Utility Flask",
+    "Description": "This quest will reward you with a magic Utility Flask.",
+    "SomeRef": null
   },
   {
     "RowIndex": 10,
     "Id": "BootsMagic",
-    "Icon": "Art/2DItems/QuestItems/RewardBoots.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardBoots.dds",
+    "Name": "Magic Boots",
+    "Description": "This quest will reward you with a pair of magic Boots.",
+    "SomeRef": null
   },
   {
     "RowIndex": 11,
     "Id": "GlovesMagic",
-    "Icon": "Art/2DItems/QuestItems/RewardGloves.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardGloves.dds",
+    "Name": "Magic Gloves",
+    "Description": "This quest will reward you with a pair of magic Gloves.",
+    "SomeRef": null
   },
   {
     "RowIndex": 12,
     "Id": "Helmet",
-    "Icon": "Art/2DItems/QuestItems/RewardArmours.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardArmours.dds",
+    "Name": "Helmet",
+    "Description": "This quest will reward you with a Helmet.",
+    "SomeRef": null
   },
   {
     "RowIndex": 13,
     "Id": "Gear",
-    "Icon": "Art/2DItems/QuestItems/RewardGear.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardGear.dds",
+    "Name": "Equippable Item",
+    "Description": "This quest will reward you with an equippable item.",
+    "SomeRef": null
   },
   {
     "RowIndex": 14,
     "Id": "Weapons",
-    "Icon": "Art/2DItems/QuestItems/RewardWeapons.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardWeapons.dds",
+    "Name": "Weapon",
+    "Description": "This quest will reward you with a Weapon.",
+    "SomeRef": null
   },
   {
     "RowIndex": 15,
     "Id": "MapMagic",
-    "Icon": "Art/2DItems/QuestItems/RewardMap.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardMap.dds",
+    "Name": "Waystone",
+    "Description": "This quest will reward you with a magic Waystone.",
+    "SomeRef": null
   },
   {
     "RowIndex": 16,
     "Id": "CraftingBench",
-    "Icon": "Art/2DItems/QuestItems/RewardCraftingBench.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardCraftingBench.dds",
+    "Name": "Salvage Bench Unlock",
+    "Description": "This quest will unlock use of the Salvage Bench.",
+    "SomeRef": null
   },
   {
     "RowIndex": 17,
     "Id": "AtlasPassivePoints",
-    "Icon": "Art/2DItems/QuestItems/RewardAtlasPassive.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardAtlasPassive.dds",
+    "Name": "Atlas Passive Points",
+    "Description": "This quest will reward you with Atlas Passive Points.",
+    "SomeRef": null
   },
   {
     "RowIndex": 18,
     "Id": "Charm",
-    "Icon": "Art/2DItems/QuestItems/RewardCharms.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardCharms.dds",
+    "Name": "Charm",
+    "Description": "This quest will reward you with a Charm.",
+    "SomeRef": null
   },
   {
     "RowIndex": 19,
     "Id": "SpiritDraught1",
-    "Icon": "Art/2DItems/QuestItems/RewardSpiritDraught.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardSpiritDraught.dds",
+    "Name": "Spirit Draught",
+    "Description": "This quest will reward you with a Spirit Draught.",
+    "SomeRef": {
+      "RowIndex": 2611,
+      "TableName": null
+    }
   },
   {
     "RowIndex": 20,
     "Id": "SpiritDraught2",
-    "Icon": "Art/2DItems/QuestItems/RewardSpiritDraught.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardSpiritDraught.dds",
+    "Name": "Spirit Draught",
+    "Description": "This quest will reward you with a Spirit Draught.",
+    "SomeRef": {
+      "RowIndex": 2632,
+      "TableName": null
+    }
   },
   {
     "RowIndex": 21,
     "Id": "SpiritDraught3",
-    "Icon": "Art/2DItems/QuestItems/RewardSpiritDraught.dds"
+    "Icon": "Art/2DItems/QuestItems/RewardSpiritDraught.dds",
+    "Name": "Spirit Draught",
+    "Description": "This quest will reward you with a Spirit Draught.",
+    "SomeRef": {
+      "RowIndex": 2669,
+      "TableName": null
+    }
   }
 ]

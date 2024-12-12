@@ -5,11 +5,13 @@
     "Name": "Life Flasks",
     "TradeMarketCategory": {
       "RowIndex": 28,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "LifeFlasks"
     },
     "ItemClassCategory": {
       "RowIndex": 0,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Flask"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -43,11 +45,13 @@
     "Name": "Mana Flasks",
     "TradeMarketCategory": {
       "RowIndex": 29,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "ManaFlasks"
     },
     "ItemClassCategory": {
       "RowIndex": 0,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Flask"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -113,11 +117,13 @@
     "Name": "Currency",
     "TradeMarketCategory": {
       "RowIndex": 39,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Currency"
     },
     "ItemClassCategory": {
       "RowIndex": 6,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Currency"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -151,18 +157,21 @@
     "Name": "Amulets",
     "TradeMarketCategory": {
       "RowIndex": 21,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Amulets"
     },
     "ItemClassCategory": {
       "RowIndex": 7,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Amulet"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -194,18 +203,21 @@
     "Name": "Rings",
     "TradeMarketCategory": {
       "RowIndex": 22,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Rings"
     },
     "ItemClassCategory": {
       "RowIndex": 8,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Ring"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -237,18 +249,21 @@
     "Name": "Claws",
     "TradeMarketCategory": {
       "RowIndex": 4,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Claws"
     },
     "ItemClassCategory": {
       "RowIndex": 9,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Claw"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -265,7 +280,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 0,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Claw"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -283,18 +299,21 @@
     "Name": "Daggers",
     "TradeMarketCategory": {
       "RowIndex": 5,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Daggers"
     },
     "ItemClassCategory": {
       "RowIndex": 3,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Dagger"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -311,7 +330,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 1,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Dagger"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -329,18 +349,21 @@
     "Name": "Wands",
     "TradeMarketCategory": {
       "RowIndex": 6,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Wands"
     },
     "ItemClassCategory": {
       "RowIndex": 10,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Wand"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -357,7 +380,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 2,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Wand"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -375,18 +399,21 @@
     "Name": "One Hand Swords",
     "TradeMarketCategory": {
       "RowIndex": 7,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "OneHandSwords"
     },
     "ItemClassCategory": {
       "RowIndex": 2,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "One Hand Sword"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -403,7 +430,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 3,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "OneHandSword"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -453,18 +481,21 @@
     "Name": "One Hand Axes",
     "TradeMarketCategory": {
       "RowIndex": 9,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "OneHandAxes"
     },
     "ItemClassCategory": {
       "RowIndex": 11,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "One Hand Axe"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -481,7 +512,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 3,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "OneHandSword"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -499,18 +531,21 @@
     "Name": "One Hand Maces",
     "TradeMarketCategory": {
       "RowIndex": 10,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "OneHandMaces"
     },
     "ItemClassCategory": {
       "RowIndex": 1,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "One Hand Mace"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -527,7 +562,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 3,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "OneHandSword"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -545,18 +581,21 @@
     "Name": "Bows",
     "TradeMarketCategory": {
       "RowIndex": 13,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Bows"
     },
     "ItemClassCategory": {
       "RowIndex": 12,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Bow"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -573,7 +612,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 4,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Bow"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -591,18 +631,21 @@
     "Name": "Staves",
     "TradeMarketCategory": {
       "RowIndex": 14,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Staves"
     },
     "ItemClassCategory": {
       "RowIndex": 4,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Staff"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -619,7 +662,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 5,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Staff"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -637,18 +681,21 @@
     "Name": "Two Hand Swords",
     "TradeMarketCategory": {
       "RowIndex": 15,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "TwoHandSwords"
     },
     "ItemClassCategory": {
       "RowIndex": 13,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Two Hand Sword"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -665,7 +712,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 6,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "TwoHandSword"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -683,18 +731,21 @@
     "Name": "Two Hand Axes",
     "TradeMarketCategory": {
       "RowIndex": 16,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "TwoHandAxes"
     },
     "ItemClassCategory": {
       "RowIndex": 14,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Two Hand Axe"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -711,7 +762,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 7,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "TwoHandMace"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -729,18 +781,21 @@
     "Name": "Two Hand Maces",
     "TradeMarketCategory": {
       "RowIndex": 17,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "TwoHandMaces"
     },
     "ItemClassCategory": {
       "RowIndex": 15,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Two Hand Mace"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -757,7 +812,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 7,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "TwoHandMace"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -775,11 +831,13 @@
     "Name": "Skill Gems",
     "TradeMarketCategory": {
       "RowIndex": 26,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "ActiveSkillGems"
     },
     "ItemClassCategory": {
       "RowIndex": 16,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Active Skill Gem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -813,11 +871,13 @@
     "Name": "Support Gems",
     "TradeMarketCategory": {
       "RowIndex": 27,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "SupportSkillGems"
     },
     "ItemClassCategory": {
       "RowIndex": 17,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Support Skill Gem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -851,18 +911,21 @@
     "Name": "Quivers",
     "TradeMarketCategory": {
       "RowIndex": 19,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Quivers"
     },
     "ItemClassCategory": {
       "RowIndex": 18,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Quiver"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -879,7 +942,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 8,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Quiver"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -897,18 +961,21 @@
     "Name": "Belts",
     "TradeMarketCategory": {
       "RowIndex": 23,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Belts"
     },
     "ItemClassCategory": {
       "RowIndex": 19,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Belt"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -940,18 +1007,21 @@
     "Name": "Gloves",
     "TradeMarketCategory": {
       "RowIndex": 0,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Gloves"
     },
     "ItemClassCategory": {
       "RowIndex": 20,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Gloves"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -983,18 +1053,21 @@
     "Name": "Boots",
     "TradeMarketCategory": {
       "RowIndex": 1,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Boots"
     },
     "ItemClassCategory": {
       "RowIndex": 21,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Boots"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -1026,18 +1099,21 @@
     "Name": "Body Armours",
     "TradeMarketCategory": {
       "RowIndex": 2,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "BodyArmours"
     },
     "ItemClassCategory": {
       "RowIndex": 22,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Body Armour"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -1069,18 +1145,21 @@
     "Name": "Helmets",
     "TradeMarketCategory": {
       "RowIndex": 3,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Helmets"
     },
     "ItemClassCategory": {
       "RowIndex": 23,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Helmet"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -1112,18 +1191,21 @@
     "Name": "Shields",
     "TradeMarketCategory": {
       "RowIndex": 20,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Shields"
     },
     "ItemClassCategory": {
       "RowIndex": 24,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Shield"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -1140,7 +1222,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 9,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Shield"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -1254,11 +1337,13 @@
     "Name": "Stackable Currency",
     "TradeMarketCategory": {
       "RowIndex": 39,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Currency"
     },
     "ItemClassCategory": {
       "RowIndex": 6,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Currency"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1293,7 +1378,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 25,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "QuestItem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1327,18 +1413,21 @@
     "Name": "Sceptres",
     "TradeMarketCategory": {
       "RowIndex": 11,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Sceptres"
     },
     "ItemClassCategory": {
       "RowIndex": 61,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Sceptre"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -1355,7 +1444,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 13,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Sceptre"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -1373,11 +1463,13 @@
     "Name": "Charms",
     "TradeMarketCategory": {
       "RowIndex": 31,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "UtilityFlasks"
     },
     "ItemClassCategory": {
       "RowIndex": 69,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Charm"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1405,7 +1497,8 @@
     "CanBeFractured": false,
     "EquipAchievements": {
       "RowIndex": 34,
-      "TableName": "AchievementItems"
+      "TableName": "AchievementItems",
+      "Id": "HaveUniqueGlovesInt2"
     }
   },
   {
@@ -1446,18 +1539,21 @@
     "Name": "Waystones",
     "TradeMarketCategory": {
       "RowIndex": 34,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Maps"
     },
     "ItemClassCategory": {
       "RowIndex": 26,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Map"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -1465,7 +1561,8 @@
     "CanHaveVeiledMods": false,
     "PickedUpQuest": {
       "RowIndex": 1783,
-      "TableName": "QuestFlags"
+      "TableName": "QuestFlags",
+      "Id": "PickedUpMapItem"
     },
     "Unk011": 4119,
     "AlwaysShow": false,
@@ -1493,7 +1590,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 66,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Unarmed"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1528,14 +1626,16 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 27,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "FishingRod"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -1552,7 +1652,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 6,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "TwoHandSword"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -1570,11 +1671,13 @@
     "Name": "Map Fragments",
     "TradeMarketCategory": {
       "RowIndex": 37,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "MapFragments"
     },
     "ItemClassCategory": {
       "RowIndex": 28,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "MapFragment"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1640,7 +1743,8 @@
     "Name": "Microtransactions",
     "TradeMarketCategory": {
       "RowIndex": 53,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Microtransactions"
     },
     "ItemClassCategory": null,
     "RemovedIfLeavesArea": false,
@@ -1675,18 +1779,21 @@
     "Name": "Jewels",
     "TradeMarketCategory": {
       "RowIndex": 35,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Jewels"
     },
     "ItemClassCategory": {
       "RowIndex": 29,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Jewel"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -1694,7 +1801,8 @@
     "CanHaveVeiledMods": false,
     "PickedUpQuest": {
       "RowIndex": 1776,
-      "TableName": "QuestFlags"
+      "TableName": "QuestFlags",
+      "Id": "PickedUpJewel"
     },
     "Unk011": 4119,
     "AlwaysShow": false,
@@ -1721,11 +1829,13 @@
     "Name": "Divination Cards",
     "TradeMarketCategory": {
       "RowIndex": 40,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "DivinationCards"
     },
     "ItemClassCategory": {
       "RowIndex": 30,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "DivinationCard"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1735,7 +1845,8 @@
     "CanHaveVeiledMods": false,
     "PickedUpQuest": {
       "RowIndex": 1777,
-      "TableName": "QuestFlags"
+      "TableName": "QuestFlags",
+      "Id": "PickedUpDivinationCard"
     },
     "Unk011": 4119,
     "AlwaysShow": false,
@@ -1858,11 +1969,13 @@
     "Name": "Misc Map Items",
     "TradeMarketCategory": {
       "RowIndex": 38,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "MiscMapItems"
     },
     "ItemClassCategory": {
       "RowIndex": 33,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "MiscMapItem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1896,11 +2009,13 @@
     "Name": "Leaguestones",
     "TradeMarketCategory": {
       "RowIndex": 33,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Leaguestones"
     },
     "ItemClassCategory": {
       "RowIndex": 34,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Leaguestone"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1935,7 +2050,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 35,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "PantheonSoul"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -1969,11 +2085,13 @@
     "Name": "Pieces",
     "TradeMarketCategory": {
       "RowIndex": 41,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "UniqueFragments"
     },
     "ItemClassCategory": {
       "RowIndex": 36,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "UniqueFragment"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -2007,18 +2125,21 @@
     "Name": "Abyss Jewels",
     "TradeMarketCategory": {
       "RowIndex": 36,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "AbyssJewels"
     },
     "ItemClassCategory": {
       "RowIndex": 37,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "AbyssJewel"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2051,7 +2172,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 38,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "IncursionItem"
     },
     "RemovedIfLeavesArea": true,
     "Unk005": [],
@@ -2085,11 +2207,13 @@
     "Name": "Delve Socketable Currency",
     "TradeMarketCategory": {
       "RowIndex": 43,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Delve"
     },
     "ItemClassCategory": {
       "RowIndex": 39,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "DelveSocketableCurrency"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -2123,11 +2247,13 @@
     "Name": "Incubators",
     "TradeMarketCategory": {
       "RowIndex": 45,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Incubators"
     },
     "ItemClassCategory": {
       "RowIndex": 40,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Incubator"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -2257,18 +2383,21 @@
     "Name": "Quarterstaves",
     "TradeMarketCategory": {
       "RowIndex": 18,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Warstaves"
     },
     "ItemClassCategory": {
       "RowIndex": 5,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Warstaff"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2285,7 +2414,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 5,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Staff"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -2303,11 +2433,13 @@
     "Name": "Delve Stackable Socketable Currency",
     "TradeMarketCategory": {
       "RowIndex": 43,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Delve"
     },
     "ItemClassCategory": {
       "RowIndex": 39,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "DelveSocketableCurrency"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -2342,7 +2474,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 41,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "AtlasUpgradeItem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -2536,18 +2669,21 @@
     "Name": "Contracts",
     "TradeMarketCategory": {
       "RowIndex": 48,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "HeistItems"
     },
     "ItemClassCategory": {
       "RowIndex": 42,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "HeistContract"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2579,18 +2715,21 @@
     "Name": "Heist Gear",
     "TradeMarketCategory": {
       "RowIndex": 48,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "HeistItems"
     },
     "ItemClassCategory": {
       "RowIndex": 43,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "HeistEquipmentWeapon"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2622,18 +2761,21 @@
     "Name": "Heist Tools",
     "TradeMarketCategory": {
       "RowIndex": 48,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "HeistItems"
     },
     "ItemClassCategory": {
       "RowIndex": 44,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "HeistEquipmentTool"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2665,18 +2807,21 @@
     "Name": "Heist Cloaks",
     "TradeMarketCategory": {
       "RowIndex": 48,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "HeistItems"
     },
     "ItemClassCategory": {
       "RowIndex": 45,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "HeistEquipmentUtility"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2708,18 +2853,21 @@
     "Name": "Heist Brooches",
     "TradeMarketCategory": {
       "RowIndex": 48,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "HeistItems"
     },
     "ItemClassCategory": {
       "RowIndex": 46,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "HeistEquipmentReward"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2751,18 +2899,21 @@
     "Name": "Blueprints",
     "TradeMarketCategory": {
       "RowIndex": 48,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "HeistItems"
     },
     "ItemClassCategory": {
       "RowIndex": 47,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "HeistBlueprint"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2794,11 +2945,13 @@
     "Name": "Trinkets",
     "TradeMarketCategory": {
       "RowIndex": 25,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Trinkets"
     },
     "ItemClassCategory": {
       "RowIndex": 48,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Trinket"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -2833,7 +2986,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 49,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "HeistObjective"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -2867,18 +3021,21 @@
     "Name": "Expedition Logbooks",
     "TradeMarketCategory": {
       "RowIndex": 49,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "ExpeditionItems"
     },
     "ItemClassCategory": {
       "RowIndex": 50,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "ExpeditionLogbook"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
     "IdentifyAchievements": [
       {
         "RowIndex": 8711,
-        "TableName": "AchievementItems"
+        "TableName": "AchievementItems",
+        "Id": "LakeBeginnerChallenge1_3"
       }
     ],
     "AllocateToMapOwner": false,
@@ -2910,11 +3067,13 @@
     "Name": "Incubators",
     "TradeMarketCategory": {
       "RowIndex": 45,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Incubators"
     },
     "ItemClassCategory": {
       "RowIndex": 40,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Incubator"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -2981,7 +3140,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 64,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "MetaSkillGem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3015,11 +3175,13 @@
     "Name": "Spears",
     "TradeMarketCategory": {
       "RowIndex": 55,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Spears"
     },
     "ItemClassCategory": {
       "RowIndex": 57,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Spear"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3038,7 +3200,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 10,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Spear"
     },
     "CanScourge": false,
     "CanUpgradeRarity": true,
@@ -3056,11 +3219,13 @@
     "Name": "Crossbows",
     "TradeMarketCategory": {
       "RowIndex": 56,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Crossbows"
     },
     "ItemClassCategory": {
       "RowIndex": 58,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Crossbow"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3079,7 +3244,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 12,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Crossbow"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3098,7 +3264,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 59,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Focus"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3117,7 +3284,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 11,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "SpiritShield"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3136,7 +3304,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 51,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "InstanceLocalItem"
     },
     "RemovedIfLeavesArea": true,
     "Unk005": [],
@@ -3170,11 +3339,13 @@
     "Name": "Sentinels",
     "TradeMarketCategory": {
       "RowIndex": 51,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Sentinel"
     },
     "ItemClassCategory": {
       "RowIndex": 52,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "SentinelDrone"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3208,11 +3379,13 @@
     "Name": "Memories",
     "TradeMarketCategory": {
       "RowIndex": 52,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "MemoryLine"
     },
     "ItemClassCategory": {
       "RowIndex": 54,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "MemoryLine"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3247,7 +3420,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 60,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Flail"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3266,7 +3440,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 14,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Flail"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3284,11 +3459,13 @@
     "Name": "Relics",
     "TradeMarketCategory": {
       "RowIndex": 54,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Relics"
     },
     "ItemClassCategory": {
       "RowIndex": 53,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Relic"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3323,7 +3500,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 53,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Relic"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3357,11 +3535,13 @@
     "Name": "Breachstones",
     "TradeMarketCategory": {
       "RowIndex": 37,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "MapFragments"
     },
     "ItemClassCategory": {
       "RowIndex": 55,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Breachstone"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3427,11 +3607,13 @@
     "Name": "Vault Keys",
     "TradeMarketCategory": {
       "RowIndex": 38,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "MiscMapItems"
     },
     "ItemClassCategory": {
       "RowIndex": 56,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "VaultKey"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3465,11 +3647,13 @@
     "Name": "Trial Coins",
     "TradeMarketCategory": {
       "RowIndex": 38,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "MiscMapItems"
     },
     "ItemClassCategory": {
       "RowIndex": 33,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "MiscMapItem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3536,7 +3720,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 65,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "UncutSkillGem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3570,7 +3755,8 @@
     "Name": "Bucklers",
     "TradeMarketCategory": {
       "RowIndex": 57,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Bucklers"
     },
     "ItemClassCategory": null,
     "RemovedIfLeavesArea": false,
@@ -3590,7 +3776,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 15,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Buckler"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3625,7 +3812,8 @@
     "CanTransferSkin": false,
     "ItemStance": {
       "RowIndex": 16,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "ThrownOneHandAxe"
     },
     "CanScourge": false,
     "CanUpgradeRarity": false,
@@ -3660,7 +3848,8 @@
     "CanTransferSkin": false,
     "ItemStance": {
       "RowIndex": 17,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "ThrownTwoHandAxe"
     },
     "CanScourge": false,
     "CanUpgradeRarity": false,
@@ -3711,7 +3900,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 63,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "TrapTool"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3730,7 +3920,8 @@
     "CanTransferSkin": true,
     "ItemStance": {
       "RowIndex": 2,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "Wand"
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3780,11 +3971,13 @@
     "Name": "Currency",
     "TradeMarketCategory": {
       "RowIndex": 39,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "Currency"
     },
     "ItemClassCategory": {
       "RowIndex": 6,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Currency"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3850,11 +4043,13 @@
     "Name": "Inscribed Ultimatum",
     "TradeMarketCategory": {
       "RowIndex": 38,
-      "TableName": "TradeMarketCategory"
+      "TableName": "TradeMarketCategory",
+      "Id": "MiscMapItems"
     },
     "ItemClassCategory": {
       "RowIndex": 33,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "MiscMapItem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3889,7 +4084,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 65,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "UncutSkillGem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3924,7 +4120,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 65,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "UncutSkillGem"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -3975,7 +4172,8 @@
     "CanTransferSkin": false,
     "ItemStance": {
       "RowIndex": 18,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "Id": "ThrownShield"
     },
     "CanScourge": false,
     "CanUpgradeRarity": false,
@@ -3994,7 +4192,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 67,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "SoulCore"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -4029,7 +4228,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 68,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "TowerAugment"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],
@@ -4064,7 +4264,8 @@
     "TradeMarketCategory": null,
     "ItemClassCategory": {
       "RowIndex": 70,
-      "TableName": "ItemClassCategories"
+      "TableName": "ItemClassCategories",
+      "Id": "Omen"
     },
     "RemovedIfLeavesArea": false,
     "Unk005": [],

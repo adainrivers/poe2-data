@@ -8,27 +8,33 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 1,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "ChillingTower1"
       },
       {
         "RowIndex": 6,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "ShockingTower1"
       },
       {
         "RowIndex": 11,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "BuffTower1"
       },
       {
         "RowIndex": 16,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "StunningTower1"
       },
       {
         "RowIndex": 21,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "MinionTower1"
       },
       {
         "RowIndex": 26,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "FlameTower1"
       }
     ],
     "Unk005": 1487001455,
@@ -50,7 +56,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 2,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "ChillingTower2"
       }
     ],
     "Unk005": -1090896293,
@@ -60,50 +67,61 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9810,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_chilling_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9809,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9811,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_chill_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9812,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_duration_+%"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 3416,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "chill_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 193,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "chill_duration_+%"
       }
     ],
     "Unk013": false
@@ -117,7 +135,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 3,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "ChillingTower3"
       }
     ],
     "Unk005": 1371628040,
@@ -127,50 +146,61 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9810,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_chilling_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9809,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9811,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_chill_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9812,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_duration_+%"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 3416,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "chill_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 193,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "chill_duration_+%"
       }
     ],
     "Unk013": false
@@ -184,11 +214,13 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 4,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "FreezingTower"
       },
       {
         "RowIndex": 5,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "IcePrisonTower"
       }
     ],
     "Unk005": -48389433,
@@ -198,50 +230,61 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9810,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_chilling_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9809,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9811,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_chill_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9812,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_chilling_tower_duration_+%"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 3416,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "chill_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 193,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "chill_duration_+%"
       }
     ],
     "Unk013": false
@@ -260,58 +303,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9814,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_freezebolt_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9813,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_freezebolt_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9815,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_freezebolt_tower_full_damage_cold_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9816,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_freezebolt_tower_projectiles_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9815,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_freezebolt_tower_full_damage_cold_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 167,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_additional_projectiles"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -330,58 +386,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9818,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_glacialcage_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9817,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_glacialcage_tower_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9819,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_glacialcage_tower_enemy_damage_taken_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9820,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_glacialcage_tower_cooldown_recovery_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 209,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_effect_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9819,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_glacialcage_tower_enemy_damage_taken_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 3219,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cooldown_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -395,7 +464,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 7,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "ShockingTower2"
       }
     ],
     "Unk005": 1459477666,
@@ -405,66 +475,81 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9800,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_shocking_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9801,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocking_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9821,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_full_damage_lightning_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9822,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_shock_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9823,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_shock_repeats_with_area_effect_+%"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9821,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_full_damage_lightning_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 3417,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "shock_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9892,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "shock_nova_skill_area_of_effect_+%_per_repeat"
       }
     ],
     "Unk013": true
@@ -478,7 +563,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 8,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "ShockingTower3"
       }
     ],
     "Unk005": 1368253867,
@@ -488,66 +574,81 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9800,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_shocking_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9801,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocking_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9821,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_full_damage_lightning_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9822,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_shock_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9823,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_shock_repeats_with_area_effect_+%"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9821,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_full_damage_lightning_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 3417,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "shock_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9892,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "shock_nova_skill_area_of_effect_+%_per_repeat"
       }
     ],
     "Unk013": true
@@ -561,11 +662,13 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 9,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "LightningStormTower"
       },
       {
         "RowIndex": 10,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "ArcingTower"
       }
     ],
     "Unk005": 94056515,
@@ -575,66 +678,81 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9800,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_shocking_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9801,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocking_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9821,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_full_damage_lightning_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9822,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_shock_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9823,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_shock_repeats_with_area_effect_+%"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9821,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_shocknova_tower_full_damage_lightning_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 3417,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "shock_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9892,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "shock_nova_skill_area_of_effect_+%_per_repeat"
       }
     ],
     "Unk013": true
@@ -653,58 +771,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9826,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_lightningstorm_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9825,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_lightningstorm_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9885,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_storm_fireball_delay_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9828,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_lightningstorm_tower_area_of_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9827,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_lightningstorm_tower_delay_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 206,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_area_of_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": true
@@ -723,58 +854,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9830,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_arc_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9829,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_arc_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9831,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_arc_tower_additional_repeats"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9832,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_arc_tower_additional_chains"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 2203,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_spell_repeat_count"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 166,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_chains"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -788,7 +932,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 12,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "BuffTower2"
       }
     ],
     "Unk005": -1750551302,
@@ -798,58 +943,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9834,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_empowering_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9833,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9835,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9836,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 4363,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9836,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": true
@@ -863,7 +1021,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 13,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "BuffTower3"
       }
     ],
     "Unk005": -2021019078,
@@ -873,58 +1032,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9834,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_empowering_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9833,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9835,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9836,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 4363,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9836,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": true
@@ -938,11 +1110,13 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 14,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "BuffPlayersTower"
       },
       {
         "RowIndex": 15,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "WeakenEnemiesTower"
       }
     ],
     "Unk005": 1692746775,
@@ -952,58 +1126,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9834,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_empowering_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9833,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9835,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9836,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 4363,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9836,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_empowering_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": true
@@ -1022,58 +1209,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9839,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_imbuing_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9838,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_imbuing_tower_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9840,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_imbuing_tower_grant_critical_strike_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9841,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_imbuing_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 4363,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9840,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_imbuing_tower_grant_critical_strike_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9841,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_imbuing_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": true
@@ -1092,58 +1292,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9843,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_smothering_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9842,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_smothering_tower_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9844,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_smothering_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9845,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_smothering_tower_grant_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 4363,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9844,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_smothering_tower_grant_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9845,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_smothering_tower_grant_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": true
@@ -1157,7 +1370,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 17,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "StunningTower2"
       }
     ],
     "Unk005": -239063143,
@@ -1167,58 +1381,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9847,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_seismic_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9846,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9848,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_stun_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9849,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_additional_cascades_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 333,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_stun_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 7319,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "phys_cascade_trap_number_of_additional_cascades"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -1232,7 +1459,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 18,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "StunningTower3"
       }
     ],
     "Unk005": 242248516,
@@ -1242,58 +1470,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9847,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_seismic_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9846,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9848,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_stun_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9849,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_additional_cascades_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 333,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_stun_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 7319,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "phys_cascade_trap_number_of_additional_cascades"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -1307,11 +1548,13 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 19,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "TemporalTower"
       },
       {
         "RowIndex": 20,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "PetrificationTower"
       }
     ],
     "Unk005": -854560930,
@@ -1321,58 +1564,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9847,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_seismic_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9846,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9848,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_stun_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9849,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_seismic_tower_additional_cascades_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 333,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_stun_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 7319,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "phys_cascade_trap_number_of_additional_cascades"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -1391,54 +1647,66 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9852,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_temporal_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9851,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_temporal_tower_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9853,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_temporal_tower_tick_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9854,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_temporal_tower_grant_you_action_speed_-%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 4363,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_buff_effect_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9888,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "temporal_anomaly_tick_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9889,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "temporal_anomaly_allied_action_speed_-%"
       }
     ],
     "Unk013": true
@@ -1457,58 +1725,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9856,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_stonegaze_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9855,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_stonegaze_tower_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9857,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_stonegaze_tower_cooldown_recovery_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9858,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_stonegaze_tower_petrify_tick_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 209,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "skill_effect_duration_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 3219,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cooldown_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9887,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "petrification_tick_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -1522,7 +1803,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 22,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "MinionTower2"
       }
     ],
     "Unk005": 93106736,
@@ -1532,66 +1814,81 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9860,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_summoning_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9859,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9861,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9862,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9863,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minions_summoned_+"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 477,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 602,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 153,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_maximum_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9886,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "additional_number_of_monsters_to_summon_+"
       }
     ],
     "Unk013": false
@@ -1605,7 +1902,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 23,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "MinionTower3"
       }
     ],
     "Unk005": 499014349,
@@ -1615,66 +1913,81 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9860,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_summoning_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9859,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9861,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9862,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9863,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minions_summoned_+"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 477,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 602,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 153,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_maximum_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9886,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "additional_number_of_monsters_to_summon_+"
       }
     ],
     "Unk013": false
@@ -1688,11 +2001,13 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 24,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "FlyingMinionTower"
       },
       {
         "RowIndex": 25,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "TankyMinionTower"
       }
     ],
     "Unk005": 1389469754,
@@ -1702,66 +2017,81 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9860,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_summoning_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9859,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9861,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9862,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minion_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9863,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_summoning_tower_minions_summoned_+"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 477,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 602,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 153,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_maximum_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9886,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "additional_number_of_monsters_to_summon_+"
       }
     ],
     "Unk013": false
@@ -1780,74 +2110,91 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9865,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_scout_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9864,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_scout_tower_minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9866,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_scout_tower_minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9867,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_scout_tower_minion_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9865,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_scout_tower_range_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 477,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 602,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 153,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_maximum_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 11018,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_aggro_radius_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -1866,58 +2213,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9869,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_sentinel_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9868,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_sentinel_tower_minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9870,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_sentinel_tower_minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9871,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_sentinel_tower_minion_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 477,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 602,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_movement_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 153,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "minion_maximum_life_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -1931,7 +2291,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 27,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "FlameTower2"
       }
     ],
     "Unk005": 172162436,
@@ -1941,58 +2302,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9873,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_fireball_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9872,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9874,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9875,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_additional_projectiles_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 167,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_additional_projectiles"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -2006,7 +2380,8 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 28,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "FlameTower3"
       }
     ],
     "Unk005": 1399853640,
@@ -2016,58 +2391,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9873,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_fireball_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9872,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9874,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9875,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_additional_projectiles_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 167,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_additional_projectiles"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -2081,11 +2469,13 @@
     "NextUpgradeOptions": [
       {
         "RowIndex": 29,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "FlamethrowerTower"
       },
       {
         "RowIndex": 30,
-        "TableName": "BlightTowers"
+        "TableName": "BlightTowers",
+        "Id": "MeteorTower"
       }
     ],
     "Unk005": 155134479,
@@ -2095,58 +2485,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9873,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_fireball_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9872,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9874,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9875,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_fireball_tower_additional_projectiles_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 167,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_additional_projectiles"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false
@@ -2165,58 +2568,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9878,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_flamethrower_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9877,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_flamethrower_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9879,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_flamethrower_tower_full_damage_fire_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9880,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_flamethrower_tower_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9879,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_flamethrower_tower_full_damage_fire_enemies"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": true
@@ -2235,58 +2651,71 @@
     "SpendResourceAchievement": null,
     "StatsKey": {
       "RowIndex": 9882,
-      "TableName": "Stats"
+      "TableName": "Stats",
+      "Id": "blight_meteor_tower_range_+%"
     },
     "StatsKeys": [
       {
         "RowIndex": 9881,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_meteor_tower_damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9883,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_meteor_tower_always_stun"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9884,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blight_meteor_tower_additional_meteor_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "StatsKeys2": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 191,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "always_stun"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 9890,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_storm_additional_fireballs_per_wave_+"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk013": false

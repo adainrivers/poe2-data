@@ -3,17 +3,20 @@
     "RowIndex": 0,
     "BuffDefinitions": {
       "RowIndex": 799,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "abberath_minion_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 466,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -26,7 +29,8 @@
     "RowIndex": 1,
     "BuffDefinitions": {
       "RowIndex": 818,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "arcane_surge"
     },
     "Unk001": [],
     "StatsKeys": [],
@@ -40,13 +44,15 @@
     "RowIndex": 2,
     "BuffDefinitions": {
       "RowIndex": 845,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_action_speed_aura"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 338,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 25,
@@ -59,7 +65,8 @@
     "RowIndex": 3,
     "BuffDefinitions": {
       "RowIndex": 847,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_channel_buff"
     },
     "Unk001": [
       1,
@@ -68,7 +75,8 @@
     "StatsKeys": [
       {
         "RowIndex": 466,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk003": 0,
@@ -81,25 +89,30 @@
     "RowIndex": 4,
     "BuffDefinitions": {
       "RowIndex": 849,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_projectile_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 167,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_additional_projectiles"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 166,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_chains"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -112,25 +125,30 @@
     "RowIndex": 5,
     "BuffDefinitions": {
       "RowIndex": 851,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_damage_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 466,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -143,29 +161,35 @@
     "RowIndex": 6,
     "BuffDefinitions": {
       "RowIndex": 1023,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "bestiary_legendary_enrage"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 70,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "attack_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       }
     ],
     "Unk003": 0,
@@ -178,21 +202,25 @@
     "RowIndex": 7,
     "BuffDefinitions": {
       "RowIndex": 844,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "abyss_monsters_damage_taken"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 6032,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "monster_damage_taken_lerp_+%_final_min"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 6033,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "monster_damage_taken_lerp_+%_final_max"
       }
     ],
     "Unk003": 0,
@@ -205,7 +233,8 @@
     "RowIndex": 8,
     "BuffDefinitions": {
       "RowIndex": 1083,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "delve_antilight"
     },
     "Unk001": [
       1
@@ -221,7 +250,8 @@
     "RowIndex": 9,
     "BuffDefinitions": {
       "RowIndex": 1194,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "synthesis_turret_charge_projectile_target"
     },
     "Unk001": [],
     "StatsKeys": [],
@@ -235,17 +265,20 @@
     "RowIndex": 10,
     "BuffDefinitions": {
       "RowIndex": 1241,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "necromancer_skeleton_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 171,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_movement_velocity_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -258,13 +291,15 @@
     "RowIndex": 11,
     "BuffDefinitions": {
       "RowIndex": 1318,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "blight_npc_tower_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       }
     ],
     "Unk003": 0,
@@ -277,17 +312,20 @@
     "RowIndex": 12,
     "BuffDefinitions": {
       "RowIndex": 1329,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "blight_ice_monster_absorb_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 698,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_actor_scale_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -300,13 +338,15 @@
     "RowIndex": 13,
     "BuffDefinitions": {
       "RowIndex": 1365,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_immunity"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 134,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cannot_be_damaged"
       }
     ],
     "Unk003": 0,
@@ -319,13 +359,15 @@
     "RowIndex": 14,
     "BuffDefinitions": {
       "RowIndex": 1369,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_eyrie_hurricane"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1910,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "cold_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 200,
@@ -338,13 +380,15 @@
     "RowIndex": 15,
     "BuffDefinitions": {
       "RowIndex": 1369,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_eyrie_hurricane"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1910,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "cold_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 200,
@@ -357,13 +401,15 @@
     "RowIndex": 16,
     "BuffDefinitions": {
       "RowIndex": 1369,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_eyrie_hurricane"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1910,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "cold_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 200,
@@ -376,13 +422,15 @@
     "RowIndex": 17,
     "BuffDefinitions": {
       "RowIndex": 1369,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_eyrie_hurricane"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1910,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "cold_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 200,
@@ -395,13 +443,15 @@
     "RowIndex": 18,
     "BuffDefinitions": {
       "RowIndex": 1369,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_eyrie_hurricane"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1910,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "cold_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 200,
@@ -414,29 +464,35 @@
     "RowIndex": 19,
     "BuffDefinitions": {
       "RowIndex": 1341,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_death_zone"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 5663,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5664,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5666,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 74,
@@ -449,29 +505,35 @@
     "RowIndex": 20,
     "BuffDefinitions": {
       "RowIndex": 1342,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_death_zone_core"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 5663,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5664,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5666,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 55,
@@ -484,29 +546,35 @@
     "RowIndex": 21,
     "BuffDefinitions": {
       "RowIndex": 1380,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_death_zone_minion"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 5663,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5664,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5666,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 74,
@@ -519,29 +587,35 @@
     "RowIndex": 22,
     "BuffDefinitions": {
       "RowIndex": 1381,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_death_zone_core_minion"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 5663,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5664,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5666,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 55,
@@ -554,29 +628,35 @@
     "RowIndex": 23,
     "BuffDefinitions": {
       "RowIndex": 852,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_damage_buff_uber"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 24,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "damage_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 466,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 70,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "attack_speed_+%"
       }
     ],
     "Unk003": 0,
@@ -589,7 +669,8 @@
     "RowIndex": 24,
     "BuffDefinitions": {
       "RowIndex": 848,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_channel_buff_uber"
     },
     "Unk001": [
       1,
@@ -599,7 +680,8 @@
     "StatsKeys": [
       {
         "RowIndex": 466,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk003": 0,
@@ -612,29 +694,35 @@
     "RowIndex": 25,
     "BuffDefinitions": {
       "RowIndex": 850,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_projectile_buff_uber"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 167,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_additional_projectiles"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 166,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "number_of_chains"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5906,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "projectile_base_number_of_targets_to_pierce"
       }
     ],
     "Unk003": 0,
@@ -647,13 +735,15 @@
     "RowIndex": 26,
     "BuffDefinitions": {
       "RowIndex": 846,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_action_speed_aura_uber"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 338,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 35,
@@ -666,17 +756,20 @@
     "RowIndex": 27,
     "BuffDefinitions": {
       "RowIndex": 853,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "harbinger_lightning_buff_uber"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 582,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_reduce_enemy_lightning_resistance_%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -689,13 +782,15 @@
     "RowIndex": 28,
     "BuffDefinitions": {
       "RowIndex": 1570,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "pirate_boss_ghostfire_degen"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1909,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 23,
@@ -708,13 +803,15 @@
     "RowIndex": 29,
     "BuffDefinitions": {
       "RowIndex": 1570,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "pirate_boss_ghostfire_degen"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1909,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 11,
@@ -727,21 +824,25 @@
     "RowIndex": 30,
     "BuffDefinitions": {
       "RowIndex": 1628,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_golden_coin_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 466,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 145,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_item_found_quantity_+%"
       }
     ],
     "Unk003": 16,
@@ -754,13 +855,15 @@
     "RowIndex": 31,
     "BuffDefinitions": {
       "RowIndex": 1631,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "maven_boss_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 338,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 0,
@@ -773,7 +876,8 @@
     "RowIndex": 32,
     "BuffDefinitions": {
       "RowIndex": 1648,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_toxic_grasping_vines_aura"
     },
     "Unk001": [
       -8
@@ -781,7 +885,8 @@
     "StatsKeys": [
       {
         "RowIndex": 1913,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "chaos_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 120,
@@ -794,13 +899,15 @@
     "RowIndex": 33,
     "BuffDefinitions": {
       "RowIndex": 1652,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_totem_defences"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 466,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_damage_taken_+%"
       }
     ],
     "Unk003": 28,
@@ -813,13 +920,15 @@
     "RowIndex": 34,
     "BuffDefinitions": {
       "RowIndex": 1630,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_generic_speed_buff"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 338,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "action_speed_-%"
       }
     ],
     "Unk003": 120,
@@ -832,17 +941,20 @@
     "RowIndex": 35,
     "BuffDefinitions": {
       "RowIndex": 1659,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_es_recharge"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 133,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "energy_shield_delay_-%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -855,13 +967,15 @@
     "RowIndex": 36,
     "BuffDefinitions": {
       "RowIndex": 1570,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "pirate_boss_ghostfire_degen"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1909,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 23,
@@ -874,13 +988,15 @@
     "RowIndex": 37,
     "BuffDefinitions": {
       "RowIndex": 1570,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "pirate_boss_ghostfire_degen"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1909,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 11,
@@ -893,13 +1009,15 @@
     "RowIndex": 38,
     "BuffDefinitions": {
       "RowIndex": 1691,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ultimatum_pale_ape_degen_aura"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 2493,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_physical_damage_%_of_maximum_life_taken_per_minute"
       }
     ],
     "Unk003": 14,
@@ -912,13 +1030,15 @@
     "RowIndex": 39,
     "BuffDefinitions": {
       "RowIndex": 1692,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ultimatum_pale_ape_degen_aura_ruin"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 2493,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_physical_damage_%_of_maximum_life_taken_per_minute"
       }
     ],
     "Unk003": 14,
@@ -976,7 +1096,8 @@
     "RowIndex": 40,
     "BuffDefinitions": {
       "RowIndex": 1719,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "projectile_bull_thorns"
     },
     "Unk001": [],
     "StatsKeys": [],
@@ -990,13 +1111,15 @@
     "RowIndex": 41,
     "BuffDefinitions": {
       "RowIndex": 1794,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "expedition_vorana_storm"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1907,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "physical_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 150,
@@ -1009,17 +1132,20 @@
     "RowIndex": 42,
     "BuffDefinitions": {
       "RowIndex": 1900,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "monster_mod_mana_siphoner"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 3223,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "mana_degeneration_per_minute_%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 38,
@@ -1032,25 +1158,30 @@
     "RowIndex": 43,
     "BuffDefinitions": {
       "RowIndex": 1920,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "archnemesis_echoist"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 70,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "attack_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 210,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_cast_speed_+%"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -1063,29 +1194,35 @@
     "RowIndex": 44,
     "BuffDefinitions": {
       "RowIndex": 1342,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "atlas_orion_death_zone_core"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 5663,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "physical_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5664,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "fire_skill_dot_area_damage_to_deal_per_minute"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       },
       {
         "RowIndex": 5666,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "lightning_skill_dot_area_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 48,
@@ -1098,13 +1235,15 @@
     "RowIndex": 45,
     "BuffDefinitions": {
       "RowIndex": 2036,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "sanctum_vortex_degen"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 1913,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "chaos_damage_to_deal_per_minute"
       }
     ],
     "Unk003": 15,
@@ -1117,7 +1256,8 @@
     "RowIndex": 46,
     "BuffDefinitions": {
       "RowIndex": 441,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "divine_storm"
     },
     "Unk001": [
       1
@@ -1133,7 +1273,8 @@
     "RowIndex": 47,
     "BuffDefinitions": {
       "RowIndex": 1731,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "spider_web_tether"
     },
     "Unk001": [
       10
@@ -1149,7 +1290,8 @@
     "RowIndex": 48,
     "BuffDefinitions": {
       "RowIndex": 2013,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "pitiful_fabrication_buff"
     },
     "Unk001": [
       20,
@@ -1166,7 +1308,8 @@
     "RowIndex": 49,
     "BuffDefinitions": {
       "RowIndex": 2283,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "corrupt_venarius_poem_buff"
     },
     "Unk001": [
       -20,
@@ -1183,13 +1326,15 @@
     "RowIndex": 50,
     "BuffDefinitions": {
       "RowIndex": 2294,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "skeleton_cleric_heal"
     },
     "Unk001": [],
     "StatsKeys": [
       {
         "RowIndex": 119,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "base_life_regeneration_rate_per_minute"
       }
     ],
     "Unk003": 0,
@@ -1202,7 +1347,8 @@
     "RowIndex": 51,
     "BuffDefinitions": {
       "RowIndex": 2296,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "reaver_enrage_buff"
     },
     "Unk001": [
       0
@@ -1210,11 +1356,13 @@
     "StatsKeys": [
       {
         "RowIndex": 18562,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "reaver_enrage_decay_rate_increase_+%_final"
       },
       {
         "RowIndex": 0,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "level"
       }
     ],
     "Unk003": 0,
@@ -1229,7 +1377,8 @@
     "RowIndex": 52,
     "BuffDefinitions": {
       "RowIndex": 502,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "withered"
     },
     "Unk001": [],
     "StatsKeys": [],

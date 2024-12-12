@@ -32,7 +32,8 @@
     "Id": "FrostTouched",
     "Unk001": {
       "RowIndex": 6454,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisModColdShield"
     },
     "Unk002": {
       "RowIndex": 9,
@@ -42,7 +43,8 @@
     "Unk004": [
       {
         "RowIndex": 1032,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "cold_exposure"
       }
     ],
     "Unk005": [],
@@ -54,7 +56,8 @@
     "Id": "Freezer",
     "Unk001": {
       "RowIndex": 6455,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisModColdSphere"
     },
     "Unk002": {
       "RowIndex": 8,
@@ -110,7 +113,8 @@
     "Id": "FlameTouched",
     "Unk001": {
       "RowIndex": 6450,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisModFireShield"
     },
     "Unk002": {
       "RowIndex": 9,
@@ -120,7 +124,8 @@
     "Unk004": [
       {
         "RowIndex": 1031,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "fire_exposure"
       }
     ],
     "Unk005": [],
@@ -132,7 +137,8 @@
     "Id": "Igniter",
     "Unk001": {
       "RowIndex": 6451,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisModFireSphere"
     },
     "Unk002": {
       "RowIndex": 8,
@@ -157,7 +163,8 @@
     "Unk005": [
       {
         "RowIndex": 593,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/Daemon/Archnemesis/ArcaneEnchantedDaemon"
       }
     ],
     "Unk006": [],
@@ -182,7 +189,8 @@
     "Id": "StormTouched",
     "Unk001": {
       "RowIndex": 6452,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisModLightShield"
     },
     "Unk002": {
       "RowIndex": 9,
@@ -192,7 +200,8 @@
     "Unk004": [
       {
         "RowIndex": 1033,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "lightning_exposure"
       }
     ],
     "Unk005": [],
@@ -204,7 +213,8 @@
     "Id": "Shocker",
     "Unk001": {
       "RowIndex": 6453,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisModLightSphere"
     },
     "Unk002": {
       "RowIndex": 8,
@@ -257,7 +267,8 @@
     "Id": "SteelAttuned",
     "Unk001": {
       "RowIndex": 6456,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisModPhysShield"
     },
     "Unk002": {
       "RowIndex": 9,
@@ -304,7 +315,8 @@
     "Unk005": [
       {
         "RowIndex": 653,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/Daemon/Archnemesis/ArchnemesisDefenderReckoningDaemon"
       }
     ],
     "Unk006": [],
@@ -417,13 +429,15 @@
     "Unk004": [
       {
         "RowIndex": 1737,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "monster_mod_periodic_enrage"
       }
     ],
     "Unk005": [
       {
         "RowIndex": 618,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/PeriodicEnrage"
       }
     ],
     "Unk006": [],
@@ -439,17 +453,20 @@
     "Unk005": [
       {
         "RowIndex": 647,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/Totems/MonsterTotemArchnemesisObelisk"
       }
     ],
     "Unk006": [
       {
         "RowIndex": 6436,
-        "TableName": "MiscAnimated"
+        "TableName": "MiscAnimated",
+        "Id": "ArchnemesisObeliskNovaSmall"
       },
       {
         "RowIndex": 0,
-        "TableName": "MiscAnimated"
+        "TableName": "MiscAnimated",
+        "Id": "NPCQuestMarker"
       }
     ],
     "Unk007": []
@@ -488,7 +505,8 @@
     "Unk004": [
       {
         "RowIndex": 1739,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "archnemesis_trickster"
       }
     ],
     "Unk005": [],
@@ -518,11 +536,13 @@
     "Unk004": [
       {
         "RowIndex": 1735,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "monster_mod_rejuvenation"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "invisible"
       }
     ],
     "Unk005": [],
@@ -549,17 +569,20 @@
     "Unk004": [
       {
         "RowIndex": 68,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "curse_elemental_weakness_talisman"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "invisible"
       }
     ],
     "Unk005": [
       {
         "RowIndex": 643,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/LeagueArchnemesis/HexPole"
       }
     ],
     "Unk006": [],
@@ -590,7 +613,8 @@
     "Unk006": [
       {
         "RowIndex": 5037,
-        "TableName": "MiscAnimated"
+        "TableName": "MiscAnimated",
+        "Id": "RitualChaosGreenVines"
       }
     ],
     "Unk007": []
@@ -616,7 +640,8 @@
     "Unk005": [
       {
         "RowIndex": 650,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/SaplingMonster/TwigMonsterArchnemesis"
       }
     ],
     "Unk006": [],
@@ -646,7 +671,8 @@
     "Id": "GlacialCage",
     "Unk001": {
       "RowIndex": 6460,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisModGlacialCage"
     },
     "Unk002": {
       "RowIndex": 10,
@@ -699,7 +725,8 @@
     "Id": "Prismatic",
     "Unk001": {
       "RowIndex": 6567,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "ArchnemesisPrismatic"
     },
     "Unk002": {
       "RowIndex": 9,
@@ -967,7 +994,8 @@
     "Unk005": [
       {
         "RowIndex": 606,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/ManaSiphoner"
       }
     ],
     "Unk006": [],
@@ -986,13 +1014,15 @@
     "Unk005": [
       {
         "RowIndex": 607,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/OnDeathFireExplosion"
       }
     ],
     "Unk006": [
       {
         "RowIndex": 8779,
-        "TableName": "MiscAnimated"
+        "TableName": "MiscAnimated",
+        "Id": "MonsterModFireBeacon"
       }
     ],
     "Unk007": []
@@ -1010,13 +1040,15 @@
     "Unk005": [
       {
         "RowIndex": 608,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/OnDeathColdExplosion_"
       }
     ],
     "Unk006": [
       {
         "RowIndex": 8780,
-        "TableName": "MiscAnimated"
+        "TableName": "MiscAnimated",
+        "Id": "MonsterModColdBeacon"
       }
     ],
     "Unk007": []
@@ -1034,13 +1066,15 @@
     "Unk005": [
       {
         "RowIndex": 609,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/OnDeathLightningExplosion"
       }
     ],
     "Unk006": [
       {
         "RowIndex": 8781,
-        "TableName": "MiscAnimated"
+        "TableName": "MiscAnimated",
+        "Id": "MonsterModLightningBeacon"
       }
     ],
     "Unk007": []
@@ -1058,7 +1092,8 @@
     "Unk005": [
       {
         "RowIndex": 613,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/PeriodicallyImmuneMinions"
       }
     ],
     "Unk006": [],
@@ -1077,11 +1112,13 @@
     "Unk005": [
       {
         "RowIndex": 569,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/GroundOnDeath/BurningGroundDaemon"
       },
       {
         "RowIndex": 0,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Any"
       }
     ],
     "Unk006": [],
@@ -1100,11 +1137,13 @@
     "Unk005": [
       {
         "RowIndex": 567,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/GroundOnDeath/ShockedGroundDaemon"
       },
       {
         "RowIndex": 0,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Any"
       }
     ],
     "Unk006": [],
@@ -1123,11 +1162,13 @@
     "Unk005": [
       {
         "RowIndex": 571,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/GroundOnDeath/ColdSnapGroundDaemon"
       },
       {
         "RowIndex": 0,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Any"
       }
     ],
     "Unk006": [],
@@ -1143,7 +1184,8 @@
     "Unk005": [
       {
         "RowIndex": 597,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/Daemon/Archnemesis/FlameWalkerDaemon"
       }
     ],
     "Unk006": [],
@@ -1159,7 +1201,8 @@
     "Unk005": [
       {
         "RowIndex": 598,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/Daemon/Archnemesis/FrostWalkerDaemon"
       }
     ],
     "Unk006": [],
@@ -1175,7 +1218,8 @@
     "Unk005": [
       {
         "RowIndex": 599,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/Daemon/Archnemesis/LightningWalkerDaemon"
       }
     ],
     "Unk006": [],
@@ -1193,17 +1237,20 @@
     "Unk004": [
       {
         "RowIndex": 1735,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "monster_mod_rejuvenation"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "invisible"
       }
     ],
     "Unk005": [
       {
         "RowIndex": 617,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/HealingNova"
       }
     ],
     "Unk006": [],
@@ -1218,7 +1265,8 @@
     "Unk004": [
       {
         "RowIndex": 1728,
-        "TableName": "BuffVisuals"
+        "TableName": "BuffVisuals",
+        "Id": "monster_mod_flask_drain"
       }
     ],
     "Unk005": [],
@@ -1238,7 +1286,8 @@
     "Unk005": [
       {
         "RowIndex": 634,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMod/RevivingMinions"
       }
     ],
     "Unk006": [],
@@ -1290,7 +1339,8 @@
     "Unk005": [
       {
         "RowIndex": 573,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/ShroudWalker/ShroudWalker"
       }
     ],
     "Unk006": [],
@@ -1309,7 +1359,8 @@
     "Unk005": [
       {
         "RowIndex": 616,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/CorpseExploder"
       }
     ],
     "Unk006": [],
@@ -1325,7 +1376,8 @@
     "Unk005": [
       {
         "RowIndex": 602,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/MagmaBarrier"
       }
     ],
     "Unk006": [],
@@ -1341,7 +1393,8 @@
     "Unk005": [
       {
         "RowIndex": 637,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMod/Bombadier"
       }
     ],
     "Unk006": [],
@@ -1360,7 +1413,8 @@
     "Unk005": [
       {
         "RowIndex": 595,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/GlacialPrison"
       }
     ],
     "Unk006": [],
@@ -1379,7 +1433,8 @@
     "Unk005": [
       {
         "RowIndex": 596,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/Flamewaller"
       }
     ],
     "Unk006": [],
@@ -1398,7 +1453,8 @@
     "Unk005": [
       {
         "RowIndex": 574,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/LightningStorms"
       }
     ],
     "Unk006": [],
@@ -1417,7 +1473,8 @@
     "Unk005": [
       {
         "RowIndex": 646,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMod/LivingCrystals"
       }
     ],
     "Unk006": [],
@@ -1436,7 +1493,8 @@
     "Unk005": [
       {
         "RowIndex": 575,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "Id": "Metadata/Monsters/MonsterMods/VolatilePlants"
       }
     ],
     "Unk006": [],

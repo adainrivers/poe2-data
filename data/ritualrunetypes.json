@@ -4,20 +4,23 @@
     "Id": "Blood1",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 100,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 2,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "OutsideFirst"
       }
     ],
     "ModsKey": [],
@@ -30,11 +33,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 4,
     "Achievements": [],
@@ -42,7 +47,8 @@
     "Description": "Waves of Blood pass through the Ritual Site",
     "DaemonSpawningDataKey": {
       "RowIndex": 0,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "BloodWaves"
     },
     "Unk018": false
   },
@@ -51,20 +57,23 @@
     "Id": "Blood2",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 0,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 1,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "Circle"
       }
     ],
     "ModsKey": [],
@@ -77,11 +86,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 4,
     "Achievements": [],
@@ -89,7 +100,8 @@
     "Description": "Crimson Wolves strike from the Darkness",
     "DaemonSpawningDataKey": {
       "RowIndex": 5,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "CrimsonWolf"
     },
     "Unk018": false
   },
@@ -98,20 +110,23 @@
     "Id": "Blood3",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 0,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 0,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "SpawnOutsideRandom"
       }
     ],
     "ModsKey": [],
@@ -124,11 +139,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 4,
     "Achievements": [],
@@ -136,7 +153,8 @@
     "Description": "Exploding Corpses rise into the Ritual Site",
     "DaemonSpawningDataKey": {
       "RowIndex": 7,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "CorpseFissures"
     },
     "Unk018": false
   },
@@ -145,20 +163,23 @@
     "Id": "Locust1",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 0,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 2,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "OutsideFirst"
       }
     ],
     "ModsKey": [],
@@ -171,11 +192,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 4,
     "Achievements": [],
@@ -183,7 +206,8 @@
     "Description": "Swarms of Locusts fill the Ritual Site",
     "DaemonSpawningDataKey": {
       "RowIndex": 1,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "OrbitingInsects"
     },
     "Unk018": false
   },
@@ -192,20 +216,23 @@
     "Id": "Rats1",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 100,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 3,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "SpawnInsideRandom"
       }
     ],
     "ModsKey": [],
@@ -218,11 +245,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 6,
     "Achievements": [],
@@ -230,7 +259,8 @@
     "Description": "Tornadoes of Rats traverse the Ritual Site",
     "DaemonSpawningDataKey": {
       "RowIndex": 2,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "RatTornado"
     },
     "Unk018": false
   },
@@ -239,20 +269,23 @@
     "Id": "Infection1",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 100,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 3,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "SpawnInsideRandom"
       }
     ],
     "ModsKey": [],
@@ -265,11 +298,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 4,
     "Achievements": [],
@@ -277,7 +312,8 @@
     "Description": "Chaotic Boils grow and explode when Touched",
     "DaemonSpawningDataKey": {
       "RowIndex": 3,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "PurplePustules"
     },
     "Unk018": false
   },
@@ -286,20 +322,23 @@
     "Id": "Miasma1",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 100,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 0,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "SpawnOutsideRandom"
       }
     ],
     "ModsKey": [],
@@ -312,11 +351,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 5,
     "Achievements": [],
@@ -324,7 +365,8 @@
     "Description": "Chaotic Plants release explosive Pods",
     "DaemonSpawningDataKey": {
       "RowIndex": 4,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "TreeRoots"
     },
     "Unk018": false
   },
@@ -333,20 +375,23 @@
     "Id": "Miasma2",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 100,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 1,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "Circle"
       }
     ],
     "ModsKey": [],
@@ -359,11 +404,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 5,
     "Achievements": [],
@@ -371,7 +418,8 @@
     "Description": "Clouds of Elemental Disturbance slow you, lower your Elemental Resistances\nand enhance Monster Resistances",
     "DaemonSpawningDataKey": {
       "RowIndex": 8,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "CreepingFog"
     },
     "Unk018": false
   },
@@ -380,20 +428,23 @@
     "Id": "Frog1",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 0,
     "LevelMin": 65,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 4,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "InsideFirst"
       }
     ],
     "ModsKey": [],
@@ -406,11 +457,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 0,
     "Achievements": [],
@@ -418,7 +471,8 @@
     "Description": "Giant plaguebringing Toads emerge from the Darkness",
     "DaemonSpawningDataKey": {
       "RowIndex": 6,
-      "TableName": "DaemonSpawningData"
+      "TableName": "DaemonSpawningData",
+      "Id": "ToadPortals"
     },
     "Unk018": false
   },
@@ -427,20 +481,23 @@
     "Id": "HuntingGroundsQuestArea",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 0,
     "LevelMin": 0,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 2,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "OutsideFirst"
       }
     ],
     "ModsKey": [],
@@ -453,11 +510,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1561,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "HuntingGroundRitual"
     },
     "Unk013": 0,
     "Achievements": [],
@@ -471,20 +530,23 @@
     "Id": "CanopyQuestArea",
     "MiscAnimatedKey1": {
       "RowIndex": 4982,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualRuneGeneric1"
     },
     "SpawnWeight": 0,
     "LevelMin": 0,
     "LevelMax": 100,
     "BuffDefinitionsKey": {
       "RowIndex": 1660,
-      "TableName": "BuffDefinitions"
+      "TableName": "BuffDefinitions",
+      "Id": "ritual_blank_buff"
     },
     "BuffStatValues": [],
     "SpawnPatterns": [
       {
         "RowIndex": 2,
-        "TableName": "RitualSpawnPatterns"
+        "TableName": "RitualSpawnPatterns",
+        "Id": "OutsideFirst"
       }
     ],
     "ModsKey": [],
@@ -497,11 +559,13 @@
     ],
     "MiscAnimatedKey2": {
       "RowIndex": 8760,
-      "TableName": "MiscAnimated"
+      "TableName": "MiscAnimated",
+      "Id": "RitualShrineBase"
     },
     "EnvironmentsKey": {
       "RowIndex": 1562,
-      "TableName": "Environments"
+      "TableName": "Environments",
+      "Id": "CanopyRitual"
     },
     "Unk013": 0,
     "Achievements": [],

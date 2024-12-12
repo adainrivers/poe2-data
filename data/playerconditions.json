@@ -5,7 +5,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1836,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "fortification"
       }
     ],
     "Unk002": false,
@@ -27,7 +28,8 @@
     "StatsKeys": [
       {
         "RowIndex": 3442,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "is_burning"
       }
     ],
     "Unk006": false,
@@ -41,7 +43,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 705,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "covered_in_spiders"
       }
     ],
     "Unk002": false,
@@ -59,7 +62,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 766,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "spider_god_spiders"
       }
     ],
     "Unk002": false,
@@ -77,7 +81,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 766,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "spider_god_spiders"
       }
     ],
     "Unk002": false,
@@ -95,7 +100,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 649,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "goddess_beam"
       }
     ],
     "Unk002": false,
@@ -113,7 +119,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 664,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "phoenix_firebomb"
       }
     ],
     "Unk002": false,
@@ -131,7 +138,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 901,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "grasping_vines_buff"
       }
     ],
     "Unk002": false,
@@ -153,7 +161,8 @@
     "StatsKeys": [
       {
         "RowIndex": 1778,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "current_corrupted_blood_stacks"
       }
     ],
     "Unk006": false,
@@ -167,7 +176,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 419,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "piety_fire_form_stacking_damage_taken"
       }
     ],
     "Unk002": false,
@@ -185,11 +195,13 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 505,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "offering_of_judgement_fire"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ignited"
       }
     ],
     "Unk002": false,
@@ -207,15 +219,18 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 756,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "doedre2_red_aura"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ignited"
       },
       {
         "RowIndex": 757,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "doedre2_green_aura"
       }
     ],
     "Unk002": false,
@@ -237,7 +252,8 @@
     "StatsKeys": [
       {
         "RowIndex": 2260,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "current_rampage_stacks"
       }
     ],
     "Unk006": false,
@@ -255,7 +271,8 @@
     "StatsKeys": [
       {
         "RowIndex": 5502,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "has_shrine_effect"
       }
     ],
     "Unk006": false,
@@ -273,7 +290,8 @@
     "StatsKeys": [
       {
         "RowIndex": 700,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "curse_count"
       }
     ],
     "Unk006": false,
@@ -291,7 +309,8 @@
     "StatsKeys": [
       {
         "RowIndex": 700,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "curse_count"
       }
     ],
     "Unk006": false,
@@ -305,7 +324,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 93,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "curse_vulnerability"
       }
     ],
     "Unk002": false,
@@ -323,7 +343,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 288,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "seawitch_lightning_beam"
       }
     ],
     "Unk002": false,
@@ -341,31 +362,38 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 444,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "massive_storm"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ignited"
       },
       {
         "RowIndex": 445,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "tiny_storm"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ignited"
       },
       {
         "RowIndex": 437,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "diamond_storm"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ignited"
       },
       {
         "RowIndex": 439,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "replenishing_storm"
       }
     ],
     "Unk002": false,
@@ -383,7 +411,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1071,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "omnitect_cone_debuff"
       }
     ],
     "Unk002": false,
@@ -401,7 +430,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 25,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "invisible_kitava_fire_debuff"
       }
     ],
     "Unk002": false,
@@ -419,7 +449,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 811,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ground_maelstrom_chill_lunaris"
       }
     ],
     "Unk002": false,
@@ -437,7 +468,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1176,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ground_consecration_enemy"
       }
     ],
     "Unk002": false,
@@ -455,7 +487,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 330,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "rampage_stack"
       }
     ],
     "Unk002": false,
@@ -477,7 +510,8 @@
     "StatsKeys": [
       {
         "RowIndex": 1992,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "is_bleeding"
       }
     ],
     "Unk006": false,
@@ -491,7 +525,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 870,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "quicksand_display_buff"
       }
     ],
     "Unk002": false,
@@ -509,7 +544,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 127,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "mortal_call"
       }
     ],
     "Unk002": false,
@@ -570,7 +606,8 @@
     "StatsKeys": [
       {
         "RowIndex": 936,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "blinded"
       }
     ],
     "Unk006": false,
@@ -588,7 +625,8 @@
     "StatsKeys": [
       {
         "RowIndex": 3295,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "is_taunted"
       }
     ],
     "Unk006": false,
@@ -602,7 +640,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1534,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "heist_danai_volatile_attraction"
       }
     ],
     "Unk002": false,
@@ -620,7 +659,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 564,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "talisman_degen"
       }
     ],
     "Unk002": false,
@@ -638,7 +678,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 831,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "doedre_pillar_red_aura"
       }
     ],
     "Unk002": false,
@@ -656,7 +697,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 832,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "doedre_pillar_green_aura"
       }
     ],
     "Unk002": false,
@@ -674,7 +716,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 833,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "doedre_pillar_purple_aura"
       }
     ],
     "Unk002": false,
@@ -692,7 +735,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 268,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "shrine_godmode"
       }
     ],
     "Unk002": false,
@@ -710,7 +754,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1906,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "shrine_greed"
       }
     ],
     "Unk002": false,
@@ -728,7 +773,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 83,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "curse_temporal_chains"
       }
     ],
     "Unk002": false,
@@ -746,7 +792,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 87,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "curse_lightning_weakness"
       }
     ],
     "Unk002": false,
@@ -764,7 +811,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 131,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "molten_shell_damage_absorption"
       }
     ],
     "Unk002": false,
@@ -782,7 +830,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1681,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "trialmaster_tether_debuff_display"
       }
     ],
     "Unk002": false,
@@ -800,7 +849,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 178,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "beartrap_debuff"
       }
     ],
     "Unk002": false,
@@ -818,7 +868,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1645,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "behemoth_swamp_gas"
       }
     ],
     "Unk002": false,
@@ -836,7 +887,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 299,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "sea_witch_screech_debuff"
       }
     ],
     "Unk002": false,
@@ -854,7 +906,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 16,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "righteous_fire_aura"
       }
     ],
     "Unk002": false,
@@ -872,7 +925,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1784,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "expedition_uhtred_reduced_action_speed"
       }
     ],
     "Unk002": false,
@@ -890,7 +944,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1783,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "expedition_uhtred_reduced_maximum_cold_resistance"
       }
     ],
     "Unk002": false,
@@ -912,7 +967,8 @@
     "StatsKeys": [
       {
         "RowIndex": 3530,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "is_poisoned"
       }
     ],
     "Unk006": false,
@@ -926,7 +982,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1794,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "expedition_vorana_storm"
       }
     ],
     "Unk002": false,
@@ -944,7 +1001,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1804,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "olroth_ground_sap"
       }
     ],
     "Unk002": false,
@@ -962,7 +1020,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1954,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "cleansing_fire_altar_debuff"
       }
     ],
     "Unk002": false,
@@ -984,7 +1043,8 @@
     "StatsKeys": [
       {
         "RowIndex": 1763,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "is_chilled"
       }
     ],
     "Unk006": false,
@@ -998,7 +1058,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1882,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "blackstar_sunlight"
       }
     ],
     "Unk002": false,
@@ -1016,7 +1077,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1883,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "blackstar_moonlight"
       }
     ],
     "Unk002": false,
@@ -1034,7 +1096,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1956,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "infinite_hunger_corrosion"
       }
     ],
     "Unk002": false,
@@ -1052,11 +1115,13 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1663,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "maven_rotating_beam_debuff"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ignited"
       }
     ],
     "Unk002": false,
@@ -1074,7 +1139,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1948,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "cleansing_fire_snake_debuff"
       }
     ],
     "Unk002": false,
@@ -1092,7 +1158,8 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 1355,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "atlas_orion_meteor_ground"
       }
     ],
     "Unk002": false,
@@ -1110,11 +1177,13 @@
     "BuffDefinitionsKeys": [
       {
         "RowIndex": 639,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "vortex"
       },
       {
         "RowIndex": 0,
-        "TableName": "BuffDefinitions"
+        "TableName": "BuffDefinitions",
+        "Id": "ignited"
       }
     ],
     "Unk002": true,
@@ -1136,7 +1205,8 @@
     "StatsKeys": [
       {
         "RowIndex": 7943,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "player_in_breach"
       }
     ],
     "Unk006": false,
@@ -1154,7 +1224,8 @@
     "StatsKeys": [
       {
         "RowIndex": 5502,
-        "TableName": "Stats"
+        "TableName": "Stats",
+        "Id": "has_shrine_effect"
       }
     ],
     "Unk006": false,
@@ -1170,7 +1241,8 @@
     "BuffStacks": 1,
     "CharactersKey": {
       "RowIndex": 1,
-      "TableName": "Characters"
+      "TableName": "Characters",
+      "Id": "Metadata/Characters/Int/IntFour"
     },
     "StatsKeys": [],
     "Unk006": false,
@@ -1186,7 +1258,8 @@
     "BuffStacks": 1,
     "CharactersKey": {
       "RowIndex": 2,
-      "TableName": "Characters"
+      "TableName": "Characters",
+      "Id": "Metadata/Characters/Dex/DexFour"
     },
     "StatsKeys": [],
     "Unk006": false,
@@ -1202,7 +1275,8 @@
     "BuffStacks": 1,
     "CharactersKey": {
       "RowIndex": 0,
-      "TableName": "Characters"
+      "TableName": "Characters",
+      "Id": "Metadata/Characters/Str/StrFour"
     },
     "StatsKeys": [],
     "Unk006": false,
@@ -1218,7 +1292,8 @@
     "BuffStacks": 1,
     "CharactersKey": {
       "RowIndex": 5,
-      "TableName": "Characters"
+      "TableName": "Characters",
+      "Id": "Metadata/Characters/StrInt/StrIntFour"
     },
     "StatsKeys": [],
     "Unk006": false,
@@ -1234,7 +1309,8 @@
     "BuffStacks": 1,
     "CharactersKey": {
       "RowIndex": 3,
-      "TableName": "Characters"
+      "TableName": "Characters",
+      "Id": "Metadata/Characters/StrDex/StrDexFour"
     },
     "StatsKeys": [],
     "Unk006": false,
@@ -1250,7 +1326,8 @@
     "BuffStacks": 1,
     "CharactersKey": {
       "RowIndex": 4,
-      "TableName": "Characters"
+      "TableName": "Characters",
+      "Id": "Metadata/Characters/DexInt/DexIntFour"
     },
     "StatsKeys": [],
     "Unk006": false,
