@@ -1,8 +1,14 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/fire_resist_aura",
   "Entries": {
-    "base_fire_damage_resistance_%": {
+    "skill_granted_fire_damage_resistance_%": {
       "Descriptions": [
+        {
+          "Operator": "1|# table_only",
+          "Description": "[Fire] Resistance granted@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
         {
           "Operator": "1|#",
           "Description": "[Allies|Allies] gain {0}% additional [Fire|Fire] Resistance",

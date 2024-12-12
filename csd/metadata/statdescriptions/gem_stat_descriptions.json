@@ -4173,13 +4173,13 @@
       "Descriptions": [
         {
           "Operator": "1|99",
-          "Description": "Killing Blows from Supported Skills against [Ignite|Ignited]\\nenemies have {0}% chance to cause the enemy to explode",
+          "Description": "Enemies [Ignite|Ignited] by Supported Skills have {0}% chance to\\nexplode on death",
           "IsCanonical": false,
           "Parameters": {}
         },
         {
           "Operator": "100|#",
-          "Description": "Killing Blows from Supported Skills against [Ignite|Ignited]\\nenemies cause the enemy to explode",
+          "Description": "Enemies [Ignite|Ignited] by Supported Skills explode on death",
           "IsCanonical": false,
           "Parameters": {}
         }

@@ -13232,12 +13232,25 @@
     "Id": "Metadata/NPC/Hideout/BloodPriestFemale",
     "Name": "Atalui, Blood Priestess",
     "Metadata": "Metadata/NPC/Hideout/BloodPriestFemale",
-    "Unk003": null,
+    "Unk003": {
+      "RowIndex": 2169,
+      "TableName": null
+    },
     "NPCMasterKey": null,
     "ShortName": "Atalui, Blood Priestess",
-    "Unk006": 0,
-    "NPCAudios1": [],
-    "NPCAudios2": [],
+    "Unk006": 10,
+    "NPCAudios1": [
+      {
+        "RowIndex": 272,
+        "TableName": "NPCAudio"
+      }
+    ],
+    "NPCAudios2": [
+      {
+        "RowIndex": 273,
+        "TableName": "NPCAudio"
+      }
+    ],
     "HASH16": 3084,
     "Unk010": {
       "RowIndex": 458,
@@ -13252,7 +13265,10 @@
       "TableName": "NPCDialogueStyles"
     },
     "Unk013": false,
-    "Unk014": null,
+    "Unk014": {
+      "RowIndex": 0,
+      "TableName": null
+    },
     "Gender": null,
     "Unk016": false
   },

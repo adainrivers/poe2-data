@@ -1,8 +1,16 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/despair",
   "Entries": {
-    "base_chaos_damage_resistance_%": {
+    "skill_granted_chaos_damage_resistance_%": {
       "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Chaos] Resistance removed@{0}%",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        },
         {
           "Operator": "#",
           "Description": "[Curse|Cursed] enemies have {0:+d}% to [Chaos|Chaos] Resistance",

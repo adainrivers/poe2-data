@@ -519,13 +519,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Traps deal {0}% increased Damage",
+          "Description": "Bosses deal {0}% increased Damage",
           "IsCanonical": false,
           "Parameters": {}
         },
         {
           "Operator": "#|-1",
-          "Description": "Traps deal {0}% reduced Damage",
+          "Description": "Bosses deal {0}% reduced Damage",
           "IsCanonical": false,
           "Parameters": {
             "negate": 1
@@ -658,6 +658,24 @@
           "Description": "{0}% chance for Resolve Mitigation to be doubled when Hit by an Enemy",
           "IsCanonical": false,
           "Parameters": {}
+        }
+      ]
+    },
+    "map_sanctum_traps_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Traps deal {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Traps deal {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
         }
       ]
     },

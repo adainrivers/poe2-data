@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    "cast_on_block_gain_X_energy_on_block": {
+    "cast_on_block_gain_X_centienergy_on_block": {
       "Descriptions": [
         {
           "Operator": "# table_only",
@@ -7609,19 +7609,23 @@
         }
       ]
     },
-    "cast_on_crit_gain_X_energy_on_crit": {
+    "cast_on_crit_gain_X_centienergy_per_monster_power_on_crit": {
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "[Energy] gained on [Critical|Critical Hit]@{0}",
+          "Description": "[Energy] gained per [Power] of enemies [Critical|Critically Hit]@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] when you deal a [Critical|Critical Hit] with a Skill",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you\\n[Critical|Critically Hit] with Skills",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
@@ -7641,7 +7645,7 @@
         }
       ]
     },
-    "cast_on_damage_taken_gain_X_energy_when_hit": {
+    "cast_on_damage_taken_gain_X_centienergy_when_hit": {
       "Descriptions": [
         {
           "Operator": "# table_only",
@@ -7657,7 +7661,7 @@
         }
       ]
     },
-    "cast_on_death_gain_X_energy_on_death": {
+    "cast_on_death_gain_X_centienergy_on_death": {
       "Descriptions": [
         {
           "Operator": "#",
@@ -7667,19 +7671,23 @@
         }
       ]
     },
-    "cast_on_dodge_roll_gain_X_energy_per_unit_travelled_while_dodge_rolling": {
+    "cast_on_dodge_roll_gain_X_centienergy_per_unit_travelled_while_dodge_rolling": {
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Energy] gained per metre rolled@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
           "Description": "Gain {0} [Energy] per metre travelled while dodge rolling",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
@@ -7699,39 +7707,47 @@
         }
       ]
     },
-    "cast_on_freeze_gain_X_energy_on_freeze": {
+    "cast_on_freeze_gain_X_centienergy_per_monster_power_on_freeze": {
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "[Energy] gained on [Freeze]@{0}",
+          "Description": "[Energy] gained per [Power] of [Frozen] enemies@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} Energy when you [Freeze] an enemy with a [HitDamage|Hit] from a Skill, once per Skill use",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\\n[HitDamage|Hits] from Skills",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
-    "cast_on_ignite_gain_X_energy_on_ignite": {
+    "cast_on_ignite_gain_X_centienergy_per_monster_power_on_ignite": {
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "[Energy] gained on [Ignite]@{0}",
+          "Description": "[Energy] gained per [Power] of [Ignite|Ignited] enemies@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] when you [Ignite] an enemy with a [HitDamage|Hit] from a Skill, once per Skill use",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Ignite] with [HitDamage|Hits] from Skills, modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Ignite] will deal",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
-    "cast_on_melee_kill_gain_X_energy_on_melee_kill": {
+    "cast_on_melee_kill_gain_X_centienergy_per_monster_power_on_melee_kill": {
       "Descriptions": [
         {
           "Operator": "# table_only",
@@ -7747,7 +7763,7 @@
         }
       ]
     },
-    "cast_on_melee_stun_gain_X_energy_on_heavy_stun": {
+    "cast_on_melee_stun_gain_X_centienergy_per_monster_power_on_heavy_stun": {
       "Descriptions": [
         {
           "Operator": "# table_only",
@@ -7763,7 +7779,7 @@
         }
       ]
     },
-    "cast_on_melee_stun_gain_X_energy_on_stun": {
+    "cast_on_melee_stun_gain_X_centienergy_per_monster_power_on_stun": {
       "Descriptions": [
         {
           "Operator": "# table_only",
@@ -7795,23 +7811,27 @@
         }
       ]
     },
-    "cast_on_shock_gain_X_energy_on_shock": {
+    "cast_on_shock_gain_X_centienergy_per_monster_power_on_shock": {
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "[Energy] gained on [Shock]@{0}",
+          "Description": "[Energy] gained per [Power] of [Shock|Shocked] enemies@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy|Energy] when you [Shock|Shock] an enemy with a [HitDamage|Hit] from a Skill, once per Skill use",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\\n[HitDamage|Hits] from Skills",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
-    "cast_when_stunned_gain_X_energy_when_stunned": {
+    "cast_when_stunned_gain_X_centienergy_when_stunned": {
       "Descriptions": [
         {
           "Operator": "# table_only",
@@ -8193,7 +8213,7 @@
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "Explosion chance on [Ignite|Ignited] kill@{0}%",
+          "Description": "Explosion chance on [Ignite|Ignited] death@{0}%",
           "IsCanonical": false,
           "Parameters": {}
         }
@@ -10307,51 +10327,63 @@
         }
       ]
     },
-    "elemental_invocation_gain_X_energy_on_freeze": {
+    "elemental_invocation_gain_X_centienergy_per_monster_power_on_freeze": {
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "[Energy] gained on [Freeze]@{0}",
+          "Description": "[Energy] gained per [Power] of [Frozen] enemies@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] when you [Freeze] an enemy",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\\n[HitDamage|Hits] from Skills",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
-    "elemental_invocation_gain_X_energy_on_ignite": {
+    "elemental_invocation_gain_X_centienergy_per_monster_power_on_ignite": {
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "[Energy] gained on [Ignite]@{0}",
+          "Description": "[Energy] gained per [Power] of [Ignite|Ignited] enemies@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] when you [Ignite] an enemy",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Ignite] with [HitDamage|Hits] from Skills, modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Ignite] will deal",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
-    "elemental_invocation_gain_X_energy_on_shock": {
+    "elemental_invocation_gain_X_centienergy_per_monster_power_on_shock": {
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "[Energy] gained on [Shock]@{0}",
+          "Description": "[Energy] gained per [Power] of [Shock|Shocked] enemies@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] when you [Shock] an enemy",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\\n[HitDamage|Hits] from Skills",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
@@ -10546,6 +10578,20 @@
           "Description": "[Energy] gain modifier@{0}%",
           "IsCanonical": false,
           "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Energy] gained",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Energy] gained",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
         }
       ]
     },
@@ -13485,19 +13531,23 @@
         }
       ]
     },
-    "melee_kill_invocation_gain_X_energy_per_monster_power_on_melee_kill": {
+    "melee_kill_invocation_gain_X_centienergy_per_monster_power_on_melee_kill": {
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Energy] gained per enemy [Power] on [Melee] kill@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         },
         {
           "Operator": "#",
           "Description": "Gains {0} [Energy] per [Power] of enemies you\\nkill with [Melee] [Attack|Attacks]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
         }
       ]
     },
@@ -15993,7 +16043,7 @@
       "Descriptions": [
         {
           "Operator": "0|# table_only",
-          "Description": "Covered in [Oil] [Fire] [Exposure] Total [Resistance] modifier@{0}%",
+          "Description": "Covered in [Oil] [Fire] [Exposure] Total [Resistances|Resistance] modifier@{0}%",
           "IsCanonical": false,
           "Parameters": {
             "negate": 1

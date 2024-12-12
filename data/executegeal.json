@@ -24058,7 +24058,7 @@
       "Metadata/Monsters/IgnagdukBogWitch/objects/BoneWall",
       "Metadata/Monsters/IgnagdukBogWitch/objects/BoneWallQuick"
     ],
-    "ScriptCommand": "triggerer.If( TypeContains( \"Metadata/Monsters/IgnagdukBogWitch/objects/Effigy\" ), { SetStateTo( burning, 2 ); }, { SetStateTo( explode, 3 ); } );",
+    "ScriptCommand": "triggerer.If( TypeContains( \"Metadata/Monsters/IgnagdukBogWitch/objects/Effigy\" ), { SetStateTo( burning, 2 ); }, { SetStateTo( explode, 4 ); } );",
     "Unk028": [
       0,
       7471220,

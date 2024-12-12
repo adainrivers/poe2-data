@@ -33,24 +33,6 @@
         }
       ]
     },
-    "base_cold_damage_resistance_%": {
-      "Descriptions": [
-        {
-          "Operator": "# table_only",
-          "Description": "[Cold|Cold] Resistance removed@{0}%",
-          "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
-        },
-        {
-          "Operator": "#",
-          "Description": "[Curse|Cursed] enemies have {0:+d}% to [Cold|Cold] Resistance",
-          "IsCanonical": false,
-          "Parameters": {}
-        }
-      ]
-    },
     "base_skill_effect_duration": {
       "Descriptions": [
         {
@@ -80,6 +62,24 @@
           "Parameters": {
             "milliseconds_to_seconds_2dp_if_required": 1
           }
+        }
+      ]
+    },
+    "skill_granted_cold_damage_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Cold|Cold] Resistance removed@{0}%",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "[Curse|Cursed] enemies have {0:+d}% to [Cold|Cold] Resistance",
+          "IsCanonical": false,
+          "Parameters": {}
         }
       ]
     }

@@ -59618,8 +59618,8 @@
   {
     "RowIndex": 6624,
     "Id": "RelicAltarWindowInfo",
-    "Text": "<bigger>{<title>{Trial of the Sekhemas}}\r\nThe Trial of the Sekhemas will pit you against ancient tests. Those that endure these tests can reap great rewards. The Trials require a Barya to participate.\r\n\r\nCompleting these trials can earn Ascendancy Passive Points.\r\n\r\nDamage you take in the Trial impacts your [Honour]. Lost Honour persists between trials.\r\nLosing all your Honour fails the Trial. This is not considered dying for your character.\r\n\r\n<bigger>{<title>{Relics}}\r\nRelics influence various aspects of ",
-    "XBoxText": "<bigger>{<title>{Trial of the Sekhemas}}\r\nThe Trial of the Sekhemas will pit you against ancient tests. Those that endure these tests can reap great rewards. The Trials require a Barya to participate.\r\n\r\nCompleting these trials can earn Ascendancy Passive Points.\r\n\r\nDamage you take in the Trial impacts your [Honour]. Lost Honour persists between trials.\r\nLosing all your Honour fails the Trial. This is not considered dying for your character.\r\n\r\n<bigger>{<title>{Relics}}\r\nRelics influence various aspects of ",
+    "Text": "<bigger>{<title>{Trial of the Sekhemas}}\r\nThe Trial of the Sekhemas will pit you against ancient tests. Those that endure these tests can reap great rewards. The Trials require a Barya to participate.\r\n\r\nCompleting these trials can earn [AscendancyPoints|Ascendancy Skill Points].\r\n\r\nDamage you take in the Trial impacts your [Honour]. Lost Honour persists between trials.\r\nLosing all your Honour fails the Trial. This is not considered dying for your character.\r\n\r\n<bigger>{<title>{Relics}}\r\nRelics influence va",
+    "XBoxText": "<bigger>{<title>{Trial of the Sekhemas}}\r\nThe Trial of the Sekhemas will pit you against ancient tests. Those that endure these tests can reap great rewards. The Trials require a Barya to participate.\r\n\r\nCompleting these trials can earn [AscendancyPoints|Ascendancy Skill Points].\r\n\r\nDamage you take in the Trial impacts your [Honour]. Lost Honour persists between trials.\r\nLosing all your Honour fails the Trial. This is not considered dying for your character.\r\n\r\n<bigger>{<title>{Relics}}\r\nRelics influence va",
     "XBoxText2": "",
     "HASH32": -2065025434,
     "PlaystationText": ""
@@ -68690,7 +68690,7 @@
   {
     "RowIndex": 7632,
     "Id": "ItemDescriptionSoulCore",
-    "Text": "Place into an empty Rune Socket in a [MartialWeapon|Martial Weapon] or Armour to apply its effect to that item. Once socketed it cannot be removed.",
+    "Text": "Place into an empty Rune Socket in a [MartialWeapon|Martial Weapon] or Armour to apply its effect to that item. Once socketed it cannot be removed or replaced.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -17833895,
@@ -72200,7 +72200,7 @@
   {
     "RowIndex": 8022,
     "Id": "InscribedKeyWindowInfo",
-    "Text": "<bigger>{<title>{Ultimatum}}\r\nOffer an Inscribed Ultimatum to partake in the Trialmaster's Trials.\r\n\r\nCompleting these trials can earn Ascendancy Passive Points.\r\n\r\nAt each trial you will earn a reward, but also have to select a modifier to make the trials more difficult.\r\nRewards can be taken only when the final trial has been completed.\r\nIf you die within the trials you cannot return and forfeit all earned rewards.",
+    "Text": "<bigger>{<title>{Ultimatum}}\r\nOffer an Inscribed Ultimatum to partake in the Trialmaster's Trials.\r\n\r\nCompleting these trials can earn [AscendancyPoints|Ascendancy Skill Points].\r\n\r\nAt each trial you will earn a reward, but also have to select a modifier to make the trials more difficult.\r\nRewards can be taken only when the final trial has been completed.\r\nIf you die within the trials you cannot return and forfeit all earned rewards.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 43764759,
@@ -74261,7 +74261,7 @@
   {
     "RowIndex": 8251,
     "Id": "PassiveTreeAscendancyPointsTitle",
-    "Text": "Ascendancy Points:",
+    "Text": "[AscendancyPoints|Ascendancy Points]:",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -464875967,
@@ -75165,6 +75165,42 @@
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -2076084541,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8352,
+    "Id": "AscendancyToBeHad",
+    "Text": "Completing this Trial will allow you to choose your Ascendancy Class",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 204994156,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8353,
+    "Id": "AscendancyPointsToBeHad",
+    "Text": "Completing this Ascension Trial will grant additional [AscendancyPoints|Ascendancy Skill Points]",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 2029128288,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8354,
+    "Id": "AscendancyPointsToBeHadTrialMaster",
+    "Text": "Completing the secret challenge behind the door at the end of this Trial\nwill grant additional [AscendancyPoints|Ascendancy Skill Points]",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 978803356,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8355,
+    "Id": "AscendancyPointsNotToBeHad",
+    "Text": "Completing this Ascension Trial will not grant additional [AscendancyPoints|Ascendancy Skill Points]",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 1267411395,
     "PlaystationText": ""
   }
 ]
