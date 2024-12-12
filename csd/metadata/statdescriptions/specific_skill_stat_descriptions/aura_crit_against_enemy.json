@@ -1,0 +1,65 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/aura_crit_against_enemy",
+  "Entries": {
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "[CriticalWeakness|Critical Weakness] duration is {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "[CriticalWeakness|Critical Weakness] duration is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "critical_chance_against_aura_apply_brittle_every_x_ms": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[CriticalWeakness|Critical Weakness] frequency@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "1000",
+          "Description": "Applies [CriticalWeakness|Critical Weakness] to enemies every {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Applies [CriticalWeakness|Critical Weakness] to enemies every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[CriticalWeakness|Critical Weakness] duration@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

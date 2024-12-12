@@ -1,0 +1,21 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/cold_resist_aura",
+  "Entries": {
+    "base_cold_damage_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|# table_only",
+          "Description": "[Cold|Cold] Resistance granted@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "[Allies|Allies] gain {0}% additional [Cold|Cold] Resistance",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

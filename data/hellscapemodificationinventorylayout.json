@@ -1,0 +1,84 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "DefaultSlot",
+    "Column": 0,
+    "Row": 0,
+    "IsMapSlot": false,
+    "Unk004": 4119,
+    "Width": 2,
+    "Height": 4,
+    "Stat": null,
+    "StatValue": 0,
+    "UnlockedWith": null,
+    "Quest": null
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ExtraSlot1",
+    "Column": 2,
+    "Row": 0,
+    "IsMapSlot": false,
+    "Unk004": 4119,
+    "Width": 2,
+    "Height": 4,
+    "Stat": {
+      "RowIndex": 14081,
+      "TableName": "Stats"
+    },
+    "StatValue": 1,
+    "UnlockedWith": {
+      "RowIndex": 4,
+      "TableName": "HellscapePassives"
+    },
+    "Quest": null
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ExtraSlot2",
+    "Column": 4,
+    "Row": 0,
+    "IsMapSlot": false,
+    "Unk004": 1160,
+    "Width": 2,
+    "Height": 4,
+    "Stat": null,
+    "StatValue": 0,
+    "UnlockedWith": null,
+    "Quest": null
+  },
+  {
+    "RowIndex": 3,
+    "Id": "MapSlot1",
+    "Column": 0,
+    "Row": 4,
+    "IsMapSlot": true,
+    "Unk004": 1157,
+    "Width": 1,
+    "Height": 1,
+    "Stat": null,
+    "StatValue": 0,
+    "UnlockedWith": null,
+    "Quest": null
+  },
+  {
+    "RowIndex": 4,
+    "Id": "MapSlot2",
+    "Column": 1,
+    "Row": 4,
+    "IsMapSlot": true,
+    "Unk004": 1157,
+    "Width": 1,
+    "Height": 1,
+    "Stat": {
+      "RowIndex": 14082,
+      "TableName": "Stats"
+    },
+    "StatValue": 1,
+    "UnlockedWith": {
+      "RowIndex": 6,
+      "TableName": "HellscapePassives"
+    },
+    "Quest": null
+  }
+]

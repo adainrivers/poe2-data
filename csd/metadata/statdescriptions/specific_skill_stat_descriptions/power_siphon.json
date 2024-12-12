@@ -1,0 +1,30 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/power_siphon",
+  "Entries": {
+    "spells_have_culling_strike": {
+      "Descriptions": []
+    },
+    "chance_to_gain_1_more_charge_%": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Additional [Charges|Power Charge] chance@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to grant an additional [Charges|Power Charge] on [CullingStrike|Cull]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Grants an additional [Charges|Power Charge] on [CullingStrike|Cull]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

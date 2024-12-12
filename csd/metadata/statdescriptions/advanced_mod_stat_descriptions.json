@@ -1,0 +1,305 @@
+{
+  "Path": "metadata/statdescriptions/advanced_mod_stat_descriptions",
+  "Entries": {
+    "local_jewel_variable_ring_radius_value": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Only affects Passives in Very Small Ring(Very Small-Massive Ring)",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2",
+          "Description": "Only affects Passives in Small Ring(Very Small-Massive Ring)",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "3",
+          "Description": "Only affects Passives in Medium-Small Ring(Very Small-Massive Ring)",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "4",
+          "Description": "Only affects Passives in Medium Ring(Very Small-Massive Ring)",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "5",
+          "Description": "Only affects Passives in Medium-Large Ring(Very Small-Massive Ring)",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "6",
+          "Description": "Only affects Passives in Large Ring(Very Small-Massive Ring)",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "7",
+          "Description": "Only affects Passives in Very Large Ring(Very Small-Massive Ring)",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "8",
+          "Description": "Only affects Passives in Massive Ring(Very Small-Massive Ring)",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "area_damage_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Area Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Area Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "channelled_skill_damage_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Channelling Skills deal {0}% increased Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Channelling Skills deal {0}% reduced Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "elemental_damage_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Elemental Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Elemental Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "elemental_resistance_%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d}% to all Elemental Resistances per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "mana_cost_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Mana Cost of Skills per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Mana Cost of Skills per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "mana_regeneration_rate_per_minute_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Regenerate {0} Mana per Second per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "per_minute_to_per_second": 1
+          }
+        }
+      ]
+    },
+    "minion_accuracy_rating_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Minions have +{0} to Accuracy Rating per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "minion_attack_and_cast_speed_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Minion [Attack] and Cast Speed per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Minion [Attack] and Cast Speed per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "non_curse_aura_effect_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased effect of Non-Curse Auras per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced effect of Non-Curse Auras per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "non_damaging_ailment_effect_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [BuffMagnitude|Magnitude] of Non-Damaging Ailments you inflict per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [BuffMagnitude|Magnitude] of Non-Damaging Ailments you inflict per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "self_curse_duration_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Duration of [Curse|Curses] on you per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Duration of [Curse|Curses] on you per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "self_elemental_status_duration_-%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% reduced Elemental Ailment Duration on you per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% increased Elemental Ailment Duration on you per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "shield_defences_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Defences from Equipped Shield per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Defences from Equipped Shield per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sigil_damage_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Brand Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Brand Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "totem_damage_+%_per_10_devotion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Totem Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Totem Damage per 10 Devotion",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    }
+  }
+}

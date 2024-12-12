@@ -1,0 +1,75 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/spiral_volley",
+  "Entries": {
+    "spiral_volley_X_chains_per_frenzy_charge_consumed": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Chain|Chains] per [Charges|Frenzy Charge] Consumed@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1",
+          "Description": "[Chain|Chains] once per [Charges|Frenzy Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "[Chain|Chains] {0} times per [Charges|Frenzy Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "spiral_volley_damage_+%_final_per_frenzy_charge_consumed": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More Damage per [Charges|Frenzy Charge] Consumed@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Damage per [Charges|Frenzy Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Damage per [Charges|Frenzy Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "spiral_volley_damage_+%_final_when_frenzy_charges_consumed": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More Damage if [Charges|Frenzy Charge] Consumed@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Damage if a [Charges|Frenzy Charge] was Consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Damage if a [Charges|Frenzy Charge] was Consumed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/add_buff_to_target",
+  "Entries": {
+    "base_life_regeneration_rate_per_minute": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Life Regeneration granted@{0}",
+          "IsCanonical": false,
+          "Parameters": {
+            "per_minute_to_per_second_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Regeneration duration@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

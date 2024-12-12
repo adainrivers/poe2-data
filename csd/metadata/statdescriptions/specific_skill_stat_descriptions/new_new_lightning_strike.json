@@ -1,0 +1,107 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/new_new_lightning_strike",
+  "Entries": {
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cone length@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Cone length is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Cone length is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "lightning_strike_damage_+%_final_per_power_charge": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More Damage per [Charges|Power Charge] Consumed@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Damage per [Charges|Power Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Damage per [Charges|Power Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "lightning_strike_damage_+%_final_when_charged": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More Damage if [Charges|Power Charge] Consumed@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Damage if a [Charges|Power Charge] was Consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Damage if a [Charges|Power Charge] was Consumed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "lightning_strike_base_number_of_projectiles_per_power_charge": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Projectile|Projectiles] per [Charges|Power Charge] Consumed@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1",
+          "Description": "Fires {0} [Projectile|Projectile] per [Charges|Power Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Fires {0} [Projectile|Projectiles] per [Charges|Power Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

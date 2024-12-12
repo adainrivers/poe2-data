@@ -1,0 +1,65 @@
+{
+  "Path": "metadata/items/relics/abstractrelic",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "description_text",
+          "Value": "ItemDescriptionSanctumRelic",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/sanctum_relic_stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "inventory_type",
+          "Value": "Relics",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "unique",
+          "Children": []
+        },
+        {
+          "Key": "no_level_requirement",
+          "Value": true,
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

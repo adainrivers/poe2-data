@@ -1,0 +1,3412 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AccountNameAlreadyExists",
+    "Text": "An account with this name already exists."
+  },
+  {
+    "RowIndex": 1,
+    "Id": "AccountNameInvalid",
+    "Text": "Account name must be at least 3 characters in length and is restricted to the characters a-z, 0-9 and _"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "EmailInvalid",
+    "Text": "This is not a valid email address."
+  },
+  {
+    "RowIndex": 3,
+    "Id": "EmailAlreadyExists",
+    "Text": "An account with this email address already exists."
+  },
+  {
+    "RowIndex": 4,
+    "Id": "AccountDoesNotExist",
+    "Text": "The specified account does not exist."
+  },
+  {
+    "RowIndex": 5,
+    "Id": "InvalidPassword",
+    "Text": "The password is not correct for this account."
+  },
+  {
+    "RowIndex": 6,
+    "Id": "AlreadyLoggedOn",
+    "Text": "The operation could not be completed because this account was already logged on by someone else."
+  },
+  {
+    "RowIndex": 7,
+    "Id": "InvalidProtocolVersion",
+    "Text": "There has been a patch that you need to update to. Please restart Path of Exile."
+  },
+  {
+    "RowIndex": 8,
+    "Id": "NotAllowedGameLogin",
+    "Text": "Access to the game is not currently enabled on this account."
+  },
+  {
+    "RowIndex": 9,
+    "Id": "OtherAccountLoggedOn",
+    "Text": "Another person has logged into this account."
+  },
+  {
+    "RowIndex": 10,
+    "Id": "AccountNotLoggedIn",
+    "Text": "This operation requires the account to be logged in."
+  },
+  {
+    "RowIndex": 11,
+    "Id": "Timeout",
+    "Text": "The operation timed out."
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Disconnected",
+    "Text": "Disconnected from server."
+  },
+  {
+    "RowIndex": 13,
+    "Id": "TerrainGenerationOutOfSync",
+    "Text": "The terrain generator for the client is out of sync with the server. Please create a new instance and try again."
+  },
+  {
+    "RowIndex": 14,
+    "Id": "UnexpectedDisconnect",
+    "Text": "An unexpected disconnection occurred."
+  },
+  {
+    "RowIndex": 15,
+    "Id": "CharacterDoesNotExist",
+    "Text": "The specified character does not exist."
+  },
+  {
+    "RowIndex": 16,
+    "Id": "NotCharacterOwner",
+    "Text": "An attempt was made to retreive a character that this account is not the owner of."
+  },
+  {
+    "RowIndex": 17,
+    "Id": "LinkedItemDoesNotExist",
+    "Text": "The specified linked item does not exist."
+  },
+  {
+    "RowIndex": 18,
+    "Id": "DatabaseError",
+    "Text": "An unexpected database error occurred. Try again."
+  },
+  {
+    "RowIndex": 19,
+    "Id": "TransferredToInstance",
+    "Text": "Account has been transfered to another instance."
+  },
+  {
+    "RowIndex": 20,
+    "Id": "CharacterNameAlreadyExists",
+    "Text": "A character with this name already exists."
+  },
+  {
+    "RowIndex": 21,
+    "Id": "CharacterNameInvalid",
+    "Text": "The character name contains invalid characters. Valid names only contain letters and underscores."
+  },
+  {
+    "RowIndex": 22,
+    "Id": "CharacterNameTooShort",
+    "Text": "The character name is too short."
+  },
+  {
+    "RowIndex": 23,
+    "Id": "CharacterNameTooLong",
+    "Text": "The character name is too long."
+  },
+  {
+    "RowIndex": 24,
+    "Id": "CharacterInvalidClass",
+    "Text": "Invalid character class."
+  },
+  {
+    "RowIndex": 25,
+    "Id": "LeagueDoesNotExist",
+    "Text": "This league does not exist."
+  },
+  {
+    "RowIndex": 26,
+    "Id": "InvalidCharacterFlags",
+    "Text": "Invalid character flags."
+  },
+  {
+    "RowIndex": 27,
+    "Id": "LeagueNameAlreadyExists",
+    "Text": "A league with this name already exists."
+  },
+  {
+    "RowIndex": 28,
+    "Id": "LeagueNameInvalid",
+    "Text": "This is not a valid league name."
+  },
+  {
+    "RowIndex": 29,
+    "Id": "LeagueDescriptionInvalid",
+    "Text": "This is not a valid league description."
+  },
+  {
+    "RowIndex": 30,
+    "Id": "AlreadyInParty",
+    "Text": "The operation could not be completed because you are already in a party."
+  },
+  {
+    "RowIndex": 31,
+    "Id": "NotItemOwner",
+    "Text": "Your character is not the owner of this item."
+  },
+  {
+    "RowIndex": 32,
+    "Id": "NotAPartyMember",
+    "Text": "The target of this operation was not a party member."
+  },
+  {
+    "RowIndex": 33,
+    "Id": "PartyPromotionRequired",
+    "Text": "You cannot perform this operation because you are not the party leader"
+  },
+  {
+    "RowIndex": 34,
+    "Id": "PartyDoesNotExist",
+    "Text": "The party does not exist."
+  },
+  {
+    "RowIndex": 35,
+    "Id": "PartyLeaderOnlyCanOpenMapPortals",
+    "Text": "Only the Party Leader may open Map Portals. The Party Leader can promote other players to Party Leader from the Party UI."
+  },
+  {
+    "RowIndex": 36,
+    "Id": "ServiceDoesNotExist",
+    "Text": "The service does not exist."
+  },
+  {
+    "RowIndex": 37,
+    "Id": "CommandInvalid",
+    "Text": "The service does not respond to this command, or there was an error in the syntax."
+  },
+  {
+    "RowIndex": 38,
+    "Id": "DestinationUnreachable",
+    "Text": "Unable to make contact with service."
+  },
+  {
+    "RowIndex": 39,
+    "Id": "NotInPartyWith",
+    "Text": "You must be in a party with this player."
+  },
+  {
+    "RowIndex": 40,
+    "Id": "NotInParty",
+    "Text": "You are not in this party."
+  },
+  {
+    "RowIndex": 41,
+    "Id": "InstanceFull",
+    "Text": "The instance is full."
+  },
+  {
+    "RowIndex": 42,
+    "Id": "InvalidInstanceTransfer",
+    "Text": "Transfer to this instance is not allowed using this method."
+  },
+  {
+    "RowIndex": 43,
+    "Id": "PortalDoesNotExist",
+    "Text": "The other side of the portal disconnected."
+  },
+  {
+    "RowIndex": 44,
+    "Id": "OutOfYourLeague",
+    "Text": "That character is in a different League."
+  },
+  {
+    "RowIndex": 45,
+    "Id": "DownForMaintenance",
+    "Text": "The realm is currently down for maintenance. Try again later."
+  },
+  {
+    "RowIndex": 46,
+    "Id": "InstanceAuthenticationInvalid",
+    "Text": "Your authentication for instance transfer was invalid."
+  },
+  {
+    "RowIndex": 47,
+    "Id": "PartyFull",
+    "Text": "Your party is full."
+  },
+  {
+    "RowIndex": 48,
+    "Id": "TooManyCharacters",
+    "Text": "You have no character slots left."
+  },
+  {
+    "RowIndex": 49,
+    "Id": "InvalidActivationKey",
+    "Text": "Invalid activation key."
+  },
+  {
+    "RowIndex": 50,
+    "Id": "EmailValidationRequired",
+    "Text": "An account has been created with this email address already. You must verify your account by email before logging in."
+  },
+  {
+    "RowIndex": 51,
+    "Id": "MissingRequiredField",
+    "Text": "Please fill out all required fields."
+  },
+  {
+    "RowIndex": 52,
+    "Id": "InvalidArgument",
+    "Text": "An argument was invalid."
+  },
+  {
+    "RowIndex": 53,
+    "Id": "GameComplete",
+    "Text": "The game has ended."
+  },
+  {
+    "RowIndex": 54,
+    "Id": "LeagueHasEnded",
+    "Text": "The league has ended. You cannot create characters in it anymore."
+  },
+  {
+    "RowIndex": 55,
+    "Id": "LeagueClosedForEntry",
+    "Text": "Entry to this league has closed."
+  },
+  {
+    "RowIndex": 56,
+    "Id": "AlreadyOnIgnoreList",
+    "Text": "This account is already on your ignore list."
+  },
+  {
+    "RowIndex": 57,
+    "Id": "NotOnIgnoreList",
+    "Text": "This account is not on your ignore list."
+  },
+  {
+    "RowIndex": 58,
+    "Id": "IgnoreListFull",
+    "Text": "Your ignore list is full."
+  },
+  {
+    "RowIndex": 59,
+    "Id": "AddToIgnoreListFailed",
+    "Text": "Unable to add {0} to ignore list because: {1}"
+  },
+  {
+    "RowIndex": 60,
+    "Id": "AddedToIgnoreList",
+    "Text": "{0} has been added to your ignore list."
+  },
+  {
+    "RowIndex": 61,
+    "Id": "RemoveFromIgnoreListFailed",
+    "Text": "Unable to remove {0} from ignore list because: {1}"
+  },
+  {
+    "RowIndex": 62,
+    "Id": "RemovedFromIgnoreList",
+    "Text": "{0} has been removed from your ignore list."
+  },
+  {
+    "RowIndex": 63,
+    "Id": "FailedToClearIgnoreList",
+    "Text": "Unable to clear ignore list because: {0}"
+  },
+  {
+    "RowIndex": 64,
+    "Id": "IgnoreListCleared",
+    "Text": "Your ignore list has been cleared."
+  },
+  {
+    "RowIndex": 65,
+    "Id": "FailedToAddNamedFriend",
+    "Text": "Unable to add {0} to friends list because: {1}"
+  },
+  {
+    "RowIndex": 66,
+    "Id": "FailedToAddUnnamedFriend",
+    "Text": "Unable to add account to friends list because: {0}"
+  },
+  {
+    "RowIndex": 67,
+    "Id": "FailedToAcceptFriend",
+    "Text": "Unable to accept friend request because: {0}"
+  },
+  {
+    "RowIndex": 68,
+    "Id": "FailedToRemoveFriend",
+    "Text": "Unable to remove friend because: {0}"
+  },
+  {
+    "RowIndex": 69,
+    "Id": "TriedToFriendSelf",
+    "Text": "You cannot add yourself as a friend."
+  },
+  {
+    "RowIndex": 70,
+    "Id": "AccountBanned",
+    "Text": "Your account has been banned by an administrator."
+  },
+  {
+    "RowIndex": 71,
+    "Id": "AccountChildLocked",
+    "Text": "Your account has been locked by parents."
+  },
+  {
+    "RowIndex": 72,
+    "Id": "LoginRateLimited",
+    "Text": "You have attempted to log in too often within a short time period. Try again later."
+  },
+  {
+    "RowIndex": 73,
+    "Id": "AccountLocked",
+    "Text": "Your account has been locked. Please contact support."
+  },
+  {
+    "RowIndex": 74,
+    "Id": "NotAccountOwner",
+    "Text": "Operation cannot be performed because this instance is not the owner of the account."
+  },
+  {
+    "RowIndex": 75,
+    "Id": "TemporaryLockout",
+    "Text": "Your account has been temporarily locked while an administrator works with it."
+  },
+  {
+    "RowIndex": 76,
+    "Id": "Kicked",
+    "Text": "You have been kicked from the server by an administrator."
+  },
+  {
+    "RowIndex": 77,
+    "Id": "StashTabDoesNotExist",
+    "Text": "The specified stash tab does not exist."
+  },
+  {
+    "RowIndex": 78,
+    "Id": "LeaguePasswordInvalid",
+    "Text": "The password is not correct for this league."
+  },
+  {
+    "RowIndex": 79,
+    "Id": "InstanceRateLimited",
+    "Text": "You have been kicked for performing too many actions too fast."
+  },
+  {
+    "RowIndex": 80,
+    "Id": "FriendsListFull",
+    "Text": "Your friends list has reached maximum size."
+  },
+  {
+    "RowIndex": 81,
+    "Id": "NotOnFriendsList",
+    "Text": "This account is not on your friend list."
+  },
+  {
+    "RowIndex": 82,
+    "Id": "AlreadyOnFriendsList",
+    "Text": "This account is already on your friends list."
+  },
+  {
+    "RowIndex": 83,
+    "Id": "LeagueUnavailableToNonBeta",
+    "Text": "This league is only available to Beta players."
+  },
+  {
+    "RowIndex": 84,
+    "Id": "InstanceDoesNotExist",
+    "Text": "The instance does not exist."
+  },
+  {
+    "RowIndex": 85,
+    "Id": "Muted",
+    "Text": "You cannot do this action while muted."
+  },
+  {
+    "RowIndex": 86,
+    "Id": "Ignored",
+    "Text": "You have been ignored by the target player."
+  },
+  {
+    "RowIndex": 87,
+    "Id": "PvPMatchDoesNotExist",
+    "Text": "This PvP match type does not exist."
+  },
+  {
+    "RowIndex": 88,
+    "Id": "ItemDoesNotExist",
+    "Text": "The specified item does not exist."
+  },
+  {
+    "RowIndex": 89,
+    "Id": "NeedNormalStashTab",
+    "Text": "You must have at least one normal stash tab to upgrade."
+  },
+  {
+    "RowIndex": 90,
+    "Id": "NotEnoughCredit",
+    "Text": "You don't have enough credit to purchase this item."
+  },
+  {
+    "RowIndex": 91,
+    "Id": "PackagePurchaseIncomplete",
+    "Text": "Your purchase did not complete successfully. Please contact support."
+  },
+  {
+    "RowIndex": 92,
+    "Id": "MultiplePurchasesNotAllowed",
+    "Text": "You may only purchase this microtransaction once."
+  },
+  {
+    "RowIndex": 93,
+    "Id": "CantDeleteWithMicrotransactions",
+    "Text": "Please remove all cosmetic effects from items on this character first. You can do this in the Microtransaction stash."
+  },
+  {
+    "RowIndex": 94,
+    "Id": "NotEnoughRoomForItem",
+    "Text": "Not enough room for item."
+  },
+  {
+    "RowIndex": 95,
+    "Id": "SavedCredentialsNewLocation",
+    "Text": "You are logging in from a new location. Please re-enter your password."
+  },
+  {
+    "RowIndex": 96,
+    "Id": "SavedCredentialsBad",
+    "Text": "Your saved credentials are out of date. Please re-enter your password."
+  },
+  {
+    "RowIndex": 97,
+    "Id": "LoginRequiresUnlockCode",
+    "Text": "Your account has been locked until you can provide an unlock code from your email."
+  },
+  {
+    "RowIndex": 98,
+    "Id": "UnlockCodeIncorrect",
+    "Text": "The unlock code you have provided is incorrect."
+  },
+  {
+    "RowIndex": 99,
+    "Id": "UnlockEmailTooSoon",
+    "Text": "It has been too soon since the last account unlock email was sent."
+  },
+  {
+    "RowIndex": 100,
+    "Id": "DailyDealDoesNotExist",
+    "Text": "Deal does not exist."
+  },
+  {
+    "RowIndex": 101,
+    "Id": "MicrotransactionDoesNotExist",
+    "Text": "Microtransaction does not exist."
+  },
+  {
+    "RowIndex": 102,
+    "Id": "AccountNameDisallowed",
+    "Text": "Account name disallowed."
+  },
+  {
+    "RowIndex": 103,
+    "Id": "BannedLoginIp",
+    "Text": "Your IP has been banned. Please contact support if you think this is a mistake."
+  },
+  {
+    "RowIndex": 104,
+    "Id": "GeneralFailure",
+    "Text": "An unexpected problem has occurred."
+  },
+  {
+    "RowIndex": 105,
+    "Id": "CurrencyTradingPrevented",
+    "Text": "You cannot trade currency or unique items to other players until you have reached level 25 on at least one character on your account."
+  },
+  {
+    "RowIndex": 106,
+    "Id": "SteamAssociateEmailSent",
+    "Text": "An email has been sent to confirm that you own this account. Please click the link in your email to continue."
+  },
+  {
+    "RowIndex": 107,
+    "Id": "EmailAlreadyInUse",
+    "Text": "This email address already has a Path of Exile account associated with it."
+  },
+  {
+    "RowIndex": 108,
+    "Id": "AccountAlreadyHasEmail",
+    "Text": "This account already has an email address associated with it."
+  },
+  {
+    "RowIndex": 109,
+    "Id": "NoAssociatedEmail",
+    "Text": "This account does not have an email address associated with it."
+  },
+  {
+    "RowIndex": 110,
+    "Id": "SteamIdAlreadyInUse",
+    "Text": "This Steam account already has a Path of Exile account associated with it."
+  },
+  {
+    "RowIndex": 111,
+    "Id": "AccountAlreadyHasSteam",
+    "Text": "This account already has a Steam account associated with it."
+  },
+  {
+    "RowIndex": 112,
+    "Id": "NoAssociatedSteamId",
+    "Text": "This account does not have a Steam account associated with it."
+  },
+  {
+    "RowIndex": 113,
+    "Id": "EpicIdAlreadyInUse",
+    "Text": "This Epic account already has a Path of Exile account associated with it."
+  },
+  {
+    "RowIndex": 114,
+    "Id": "AccountAlreadyHasEpic",
+    "Text": "This account already has an Epic account associated with it."
+  },
+  {
+    "RowIndex": 115,
+    "Id": "NoAssociatedEpicId",
+    "Text": "This account does not have an Epic account associated with it."
+  },
+  {
+    "RowIndex": 116,
+    "Id": "KakaoIdAlreadyInUse",
+    "Text": "This Kakao account already has a Path of Exile account associated with it."
+  },
+  {
+    "RowIndex": 117,
+    "Id": "AccountAlreadyHasKakao",
+    "Text": "This account already has a Kakao account associated with it."
+  },
+  {
+    "RowIndex": 118,
+    "Id": "NoAssociatedKakaoId",
+    "Text": "This account does not have a Kakao account associated with it."
+  },
+  {
+    "RowIndex": 119,
+    "Id": "SonyIdAlreadyInUse",
+    "Text": "This Sony account already has a Path of Exile account associated with it."
+  },
+  {
+    "RowIndex": 120,
+    "Id": "AccountAlreadyHasSony",
+    "Text": "This account already has a Sony account associated with it."
+  },
+  {
+    "RowIndex": 121,
+    "Id": "NoAssociatedSonyId",
+    "Text": "This account does not have a Sony account associated with it."
+  },
+  {
+    "RowIndex": 122,
+    "Id": "XboxIdAlreadyInUse",
+    "Text": "This Xbox account already has a Path of Exile account associated with it."
+  },
+  {
+    "RowIndex": 123,
+    "Id": "AccountAlreadyHasXbox",
+    "Text": "This account already has an Xbox account associated with it."
+  },
+  {
+    "RowIndex": 124,
+    "Id": "NoAssociatedXboxId",
+    "Text": "This account does not have an Xbox account associated with it."
+  },
+  {
+    "RowIndex": 125,
+    "Id": "QqNumberAlreadyInUse",
+    "Text": "This WeGame account already has a Path of Exile account associated with it."
+  },
+  {
+    "RowIndex": 126,
+    "Id": "AccountAlreadyHasQq",
+    "Text": "This account already has a WeGame account associated with it."
+  },
+  {
+    "RowIndex": 127,
+    "Id": "NoAssociatedQqNumber",
+    "Text": "This account does not have a WeGame account associated with it."
+  },
+  {
+    "RowIndex": 128,
+    "Id": "MapDeviceBusy",
+    "Text": "Activation failed. The device is busy."
+  },
+  {
+    "RowIndex": 129,
+    "Id": "MapDeviceTooManyItems",
+    "Text": "Activation failed."
+  },
+  {
+    "RowIndex": 130,
+    "Id": "MapDeviceTooManyItemsSound",
+    "Text": "Activation failed. You hear a sound in the distance."
+  },
+  {
+    "RowIndex": 131,
+    "Id": "MapDeviceNotMap",
+    "Text": "Activation failed. There is no map in the map device."
+  },
+  {
+    "RowIndex": 132,
+    "Id": "MapDeviceCreateInstanceFailed",
+    "Text": "Activation failed. Unable to open portals to area."
+  },
+  {
+    "RowIndex": 133,
+    "Id": "MapDeviceCancelled",
+    "Text": "Activation cancelled."
+  },
+  {
+    "RowIndex": 134,
+    "Id": "MapDeviceEmpty",
+    "Text": "Activation failed. The device requires a map."
+  },
+  {
+    "RowIndex": 135,
+    "Id": "PlayerDisconnected",
+    "Text": "{0} has left the area."
+  },
+  {
+    "RowIndex": 136,
+    "Id": "PlayerJoined",
+    "Text": "{0} has joined the area."
+  },
+  {
+    "RowIndex": 137,
+    "Id": "EnteredArea",
+    "Text": "You have entered {0}."
+  },
+  {
+    "RowIndex": 138,
+    "Id": "LeagueNotYetStarted",
+    "Text": "The league has not yet started and so you cannot move. Once the league has started, you will be able to move."
+  },
+  {
+    "RowIndex": 139,
+    "Id": "LeagueAlreadyEnded",
+    "Text": "This league has already ended."
+  },
+  {
+    "RowIndex": 140,
+    "Id": "LadderRankAlive",
+    "Text": "{1}. {0} Level {2} {3} Exp: {4}"
+  },
+  {
+    "RowIndex": 141,
+    "Id": "LadderRankDead",
+    "Text": "{1}. {0} (Dead) Level {2} {3} Exp: {4}"
+  },
+  {
+    "RowIndex": 142,
+    "Id": "LadderRankTimed",
+    "Text": "{1}. {0} Level {2} {3} Time: {4}"
+  },
+  {
+    "RowIndex": 143,
+    "Id": "LevelUp",
+    "Text": "{0} ({1}) is now level {2}"
+  },
+  {
+    "RowIndex": 144,
+    "Id": "AlreadyInPVPQueue",
+    "Text": "You must cancel your PvP queue first."
+  },
+  {
+    "RowIndex": 145,
+    "Id": "MissingRequiredQuestState",
+    "Text": "You do not have the required quest state."
+  },
+  {
+    "RowIndex": 146,
+    "Id": "FailedToJoinAnyInstances",
+    "Text": "Error: Failed to join any instances."
+  },
+  {
+    "RowIndex": 147,
+    "Id": "FailedToJoinInstance",
+    "Text": "Error: Failed to join instance because: {0}"
+  },
+  {
+    "RowIndex": 148,
+    "Id": "FailedToConnectToInstance",
+    "Text": "Failed to connect to instance"
+  },
+  {
+    "RowIndex": 149,
+    "Id": "FailedToApplyCurrency",
+    "Text": "Failed to apply item: {0}"
+  },
+  {
+    "RowIndex": 150,
+    "Id": "TooManyGlobalItemLinks",
+    "Text": "You may not send more than {0} items in global chat."
+  },
+  {
+    "RowIndex": 151,
+    "Id": "MutedUntilSeconds",
+    "Text": "Your account has been muted by a GM. You will be able to talk again in {0}."
+  },
+  {
+    "RowIndex": 152,
+    "Id": "MutedUntilSecondsConsole",
+    "Text": "Your account has been muted by a GM. You will be able to talk again in {0}. If you would like to discuss this, please send a PM to \"Support\" via the website."
+  },
+  {
+    "RowIndex": 153,
+    "Id": "ObaPlayerJoined",
+    "Text": "You must be brave or stupid to think you might loot my treasure and live. Either way, I applaud you!"
+  },
+  {
+    "RowIndex": 154,
+    "Id": "ObaDoorUnlocked",
+    "Text": "Proceed, exile, and seize what you can, while you can."
+  },
+  {
+    "RowIndex": 155,
+    "Id": "ObaBeginDeathCount",
+    "Text": "The corruption is growing. Hurry now, before it consumes you as it did me."
+  },
+  {
+    "RowIndex": 156,
+    "Id": "ObaFinalCountdown",
+    "Text": "{0}"
+  },
+  {
+    "RowIndex": 157,
+    "Id": "ObaKillPlayer",
+    "Text": "Bah! You are unworthy to bear my legacy. Feed the corruption with your corpse. "
+  },
+  {
+    "RowIndex": 158,
+    "Id": "Oba75PercentOxygen",
+    "Text": "The Nightmare has your scent. Now it hungers for your flesh."
+  },
+  {
+    "RowIndex": 159,
+    "Id": "Oba50PercentOxygen",
+    "Text": "Is your cup half empty or half full, exile?"
+  },
+  {
+    "RowIndex": 160,
+    "Id": "Oba25PercentOxygen",
+    "Text": "Disappointing. It seems corruption will get the better of you after all. "
+  },
+  {
+    "RowIndex": 161,
+    "Id": "CowardsTrialNextWave",
+    "Text": "The darkness looms forebodingly..."
+  },
+  {
+    "RowIndex": 162,
+    "Id": "CowardsTrialRoomClear",
+    "Text": "The room grows still and quiet..."
+  },
+  {
+    "RowIndex": 163,
+    "Id": "CowardsTrialLevelClear",
+    "Text": "The oppressive atmosphere slowly dissipates..."
+  },
+  {
+    "RowIndex": 164,
+    "Id": "VaalKillOversoul",
+    "Text": "You need to kill the Vaal Oversoul."
+  },
+  {
+    "RowIndex": 165,
+    "Id": "VaalDeliverAmulets",
+    "Text": "You need to give the bandit amulets to Eramir and acquire the Apex."
+  },
+  {
+    "RowIndex": 166,
+    "Id": "VaalAcquireAmulets",
+    "Text": "You need to acquire the amulets of the bandit lords."
+  },
+  {
+    "RowIndex": 167,
+    "Id": "VaalGetApexDex",
+    "Text": "You need to take the Apex from Kraityn."
+  },
+  {
+    "RowIndex": 168,
+    "Id": "VaalGetApexStr",
+    "Text": "You need to take the Apex from Oak."
+  },
+  {
+    "RowIndex": 169,
+    "Id": "VaalGetApexInt",
+    "Text": "You need to take the Apex from Alira."
+  },
+  {
+    "RowIndex": 170,
+    "Id": "VaalGetApexTown",
+    "Text": "You need to take the Apex from Eramir."
+  },
+  {
+    "RowIndex": 171,
+    "Id": "MonsterRemaining1",
+    "Text": "1 monster remains."
+  },
+  {
+    "RowIndex": 172,
+    "Id": "MonstersRemainingN",
+    "Text": "{0} monsters remain."
+  },
+  {
+    "RowIndex": 173,
+    "Id": "MonstersRemainingMoreThan50",
+    "Text": "More than 50 monsters remain."
+  },
+  {
+    "RowIndex": 174,
+    "Id": "PlayerDeathCount1",
+    "Text": "You have died 1 time."
+  },
+  {
+    "RowIndex": 175,
+    "Id": "PlayerDeathCountN",
+    "Text": "You have died {0} times."
+  },
+  {
+    "RowIndex": 176,
+    "Id": "PlayerKillCountN",
+    "Text": "You have killed {0} monsters."
+  },
+  {
+    "RowIndex": 177,
+    "Id": "PvPStats1v1",
+    "Text": "1v1 W/L/D: {0}/{1}/{2}"
+  },
+  {
+    "RowIndex": 178,
+    "Id": "PvPStats3v3",
+    "Text": "3v3 W/L/D: {0}/{1}/{2}"
+  },
+  {
+    "RowIndex": 179,
+    "Id": "PvPPlayerJoinedTeam",
+    "Text": "{0} has joined the {1} team."
+  },
+  {
+    "RowIndex": 180,
+    "Id": "PvPNotEnoughPlayers",
+    "Text": "Match failed to start. Not enough players joined."
+  },
+  {
+    "RowIndex": 181,
+    "Id": "PvPPlayerKilled",
+    "Text": "{0} has been killed by {1}."
+  },
+  {
+    "RowIndex": 182,
+    "Id": "PvPPartyTooLarge",
+    "Text": "Unable to join PvP: too many party members for this PvP type."
+  },
+  {
+    "RowIndex": 183,
+    "Id": "PvPPlayerAlreadyInQueue",
+    "Text": "Unable to join PvP: You are already queued for PvP."
+  },
+  {
+    "RowIndex": 184,
+    "Id": "PvPPartyMemberAlreadyInQueue",
+    "Text": "Unable to join PvP: A party member is already queued for PvP."
+  },
+  {
+    "RowIndex": 185,
+    "Id": "PvPPlayerTooFarQuest",
+    "Text": "Unable to join PvP: You have progressed beyond the quest limit for this PvP type."
+  },
+  {
+    "RowIndex": 186,
+    "Id": "PvPPartyMemberTooFarQuest",
+    "Text": "Unable to join PvP: A party member has progressed beyond the quest limit for this PvP type."
+  },
+  {
+    "RowIndex": 187,
+    "Id": "PvPPlayerTooHighLevel",
+    "Text": "Unable to join PvP: You are above the level cap for this PvP type."
+  },
+  {
+    "RowIndex": 188,
+    "Id": "PvPPartyMemberTooHighLevel",
+    "Text": "Unable to join PvP: A party member is above the level cap for this PvP type."
+  },
+  {
+    "RowIndex": 189,
+    "Id": "PvPPlayerHasAscendancy",
+    "Text": "Unable to join PvP: You have chosen an Ascendancy class, which is not allowed for this PvP type."
+  },
+  {
+    "RowIndex": 190,
+    "Id": "PvPPartyMemberHasAscendancy",
+    "Text": "Unable to join PvP: A party member has chosen an Ascendancy class, which is not allowed for this PvP type."
+  },
+  {
+    "RowIndex": 191,
+    "Id": "PvPJoinFail",
+    "Text": "Unable to join PvP queue because: {0}"
+  },
+  {
+    "RowIndex": 192,
+    "Id": "PvPQueueCancelled",
+    "Text": "PvP Queue cancelled."
+  },
+  {
+    "RowIndex": 193,
+    "Id": "PvPQueueCancelledBy",
+    "Text": "PvP Queue cancelled by {0}."
+  },
+  {
+    "RowIndex": 194,
+    "Id": "PvPMatchListUnreachable",
+    "Text": "Unable to get PvP match list because: {0}"
+  },
+  {
+    "RowIndex": 195,
+    "Id": "PvPDisabled",
+    "Text": "PvP is disabled here."
+  },
+  {
+    "RowIndex": 196,
+    "Id": "PlayerSuicide",
+    "Text": "{0} has committed suicide."
+  },
+  {
+    "RowIndex": 197,
+    "Id": "PlayerSlain",
+    "Text": "{0} has been slain."
+  },
+  {
+    "RowIndex": 198,
+    "Id": "NoCharacterSpecified",
+    "Text": "Please specify a character name."
+  },
+  {
+    "RowIndex": 199,
+    "Id": "WhoIsOffline",
+    "Text": "{0} is a level {2} {3} in the {1} league who is not currently online."
+  },
+  {
+    "RowIndex": 200,
+    "Id": "WhoIsOnline",
+    "Text": "{0} is a level {2} {3} in the {1} league and is currently playing in {4}."
+  },
+  {
+    "RowIndex": 201,
+    "Id": "ItemOnCursorLevel",
+    "Text": "Item on cursor is level {0}."
+  },
+  {
+    "RowIndex": 202,
+    "Id": "NoItemOnCursor",
+    "Text": "There is no item on the cursor."
+  },
+  {
+    "RowIndex": 203,
+    "Id": "ItemOnCursorHasNoLevel",
+    "Text": "Item on cursor doesn't have a level (it needs to be one that can get mods)."
+  },
+  {
+    "RowIndex": 204,
+    "Id": "FixMyHelmetSuccess",
+    "Text": "Helmet updated."
+  },
+  {
+    "RowIndex": 205,
+    "Id": "OperationFailed",
+    "Text": "Operation failed."
+  },
+  {
+    "RowIndex": 206,
+    "Id": "FixMyHelmetAlreadyFixed",
+    "Text": "That helmet already has the correct visual identity."
+  },
+  {
+    "RowIndex": 207,
+    "Id": "FixMyHelmetUnique",
+    "Text": "The helmet on the cursor is Unique."
+  },
+  {
+    "RowIndex": 208,
+    "Id": "FixMyHelmetNotHelmet",
+    "Text": "The item on the cursor is not a helmet."
+  },
+  {
+    "RowIndex": 209,
+    "Id": "ItemHasMicrotransaction",
+    "Text": "You cannot do this to an item with a microtransaction effect. Please remove the microtransaction effect and try again."
+  },
+  {
+    "RowIndex": 210,
+    "Id": "BugReportNumber",
+    "Text": "Your bug report reference number is {0}."
+  },
+  {
+    "RowIndex": 211,
+    "Id": "PlayedTime",
+    "Text": "You have played for {0}."
+  },
+  {
+    "RowIndex": 212,
+    "Id": "CharacterAge",
+    "Text": "Your character was created {0} ago."
+  },
+  {
+    "RowIndex": 213,
+    "Id": "CharacterAgeUnknown",
+    "Text": "Your character has no record of creation time."
+  },
+  {
+    "RowIndex": 214,
+    "Id": "HelpCtrlClick",
+    "Text": "Ctrl-click an area transition or waypoint to create a new area instance"
+  },
+  {
+    "RowIndex": 215,
+    "Id": "ReceivedRespecPoint1",
+    "Text": "You have received a Passive Respec Point."
+  },
+  {
+    "RowIndex": 216,
+    "Id": "ReceivedRespecPointN",
+    "Text": "You have received {0} Passive Respec Points."
+  },
+  {
+    "RowIndex": 217,
+    "Id": "ReceivedPassivePoint1",
+    "Text": "You have received a Passive Skill Point."
+  },
+  {
+    "RowIndex": 218,
+    "Id": "ReceivedPassivePointN",
+    "Text": "You have received {0} Passive Skill Points."
+  },
+  {
+    "RowIndex": 219,
+    "Id": "ReceivedStatBonus",
+    "Text": "You have received {0}."
+  },
+  {
+    "RowIndex": 220,
+    "Id": "LeagueTradeDisabled",
+    "Text": "You cannot trade in this League."
+  },
+  {
+    "RowIndex": 221,
+    "Id": "TradeItemOnCursor",
+    "Text": "You cannot trade with an item on the cursor."
+  },
+  {
+    "RowIndex": 222,
+    "Id": "TradePlayerBusy",
+    "Text": "That player is currently busy."
+  },
+  {
+    "RowIndex": 223,
+    "Id": "TradeAccepted",
+    "Text": "Trade accepted."
+  },
+  {
+    "RowIndex": 224,
+    "Id": "TradeCancelled",
+    "Text": "Trade cancelled."
+  },
+  {
+    "RowIndex": 225,
+    "Id": "YouWereIgnored",
+    "Text": "That player has ignored you."
+  },
+  {
+    "RowIndex": 226,
+    "Id": "AchievementServerUnreachable",
+    "Text": "Error: Unable to connect to achievement server."
+  },
+  {
+    "RowIndex": 227,
+    "Id": "DestroyCursorItem",
+    "Text": "Item on cursor destroyed."
+  },
+  {
+    "RowIndex": 228,
+    "Id": "DestroyItemInTrade",
+    "Text": "You cannot destroy items in trade."
+  },
+  {
+    "RowIndex": 229,
+    "Id": "DestroyQuestItem",
+    "Text": "You cannot destroy quest items."
+  },
+  {
+    "RowIndex": 230,
+    "Id": "DestroyMicrotransactions",
+    "Text": "You cannot destroy items with microtransaction effects on them."
+  },
+  {
+    "RowIndex": 231,
+    "Id": "DestroyBanditRespec",
+    "Text": "This item cannot be destroyed, but you can sell it to an NPC for a refund."
+  },
+  {
+    "RowIndex": 232,
+    "Id": "CannotCreatePublicPartyYet",
+    "Text": "You must reach the first town before you can create public parties."
+  },
+  {
+    "RowIndex": 233,
+    "Id": "PublicPartyListUnreachable",
+    "Text": "Unable to get public party list because: {0}"
+  },
+  {
+    "RowIndex": 234,
+    "Id": "FullPassiveSkillRefund",
+    "Text": "Your passive skills have been refunded."
+  },
+  {
+    "RowIndex": 235,
+    "Id": "FullAtlasPassiveSkillRefund",
+    "Text": "Your Atlas passive skills have been refunded."
+  },
+  {
+    "RowIndex": 236,
+    "Id": "TeleportFailed",
+    "Text": "Teleport failed: could not place player at destination."
+  },
+  {
+    "RowIndex": 237,
+    "Id": "TutorialShowItems",
+    "Text": "Hold Alt to show items on the ground."
+  },
+  {
+    "RowIndex": 238,
+    "Id": "FinishedDescent",
+    "Text": "Congratulations, you have conquered Descent!"
+  },
+  {
+    "RowIndex": 239,
+    "Id": "JoinedGlobalChannel",
+    "Text": "You have joined global chat channel {1} {0}."
+  },
+  {
+    "RowIndex": 240,
+    "Id": "JoinedTradeChannel",
+    "Text": "You have joined trade chat channel {1} {0}."
+  },
+  {
+    "RowIndex": 241,
+    "Id": "ShopPackageDoesNotExist",
+    "Text": "Shop package does not exist."
+  },
+  {
+    "RowIndex": 242,
+    "Id": "ShopPackagePurchaseFailed",
+    "Text": "Failed to purchase package."
+  },
+  {
+    "RowIndex": 243,
+    "Id": "ShopPackageTransactionDoesNotExist",
+    "Text": "Shop transaction does not exist."
+  },
+  {
+    "RowIndex": 244,
+    "Id": "DownForMaintenanceTemp",
+    "Text": "The server you were on was brought down for maintenance. Please log in again."
+  },
+  {
+    "RowIndex": 245,
+    "Id": "GuildNameTooLong",
+    "Text": "The guild name is too long."
+  },
+  {
+    "RowIndex": 246,
+    "Id": "GuildTagTooLong",
+    "Text": "The guild tag is too long."
+  },
+  {
+    "RowIndex": 247,
+    "Id": "AccountAlreadyInGuild",
+    "Text": "This account is already in a guild."
+  },
+  {
+    "RowIndex": 248,
+    "Id": "GuildDoesNotExist",
+    "Text": "The specified guild was not found."
+  },
+  {
+    "RowIndex": 249,
+    "Id": "GuildMustBeOfficer",
+    "Text": "You must be a guild officer or leader to perform this action."
+  },
+  {
+    "RowIndex": 250,
+    "Id": "NotInGuild",
+    "Text": "Account is not a member of this guild."
+  },
+  {
+    "RowIndex": 251,
+    "Id": "GuildFull",
+    "Text": "The guild is full and can not have any more members added."
+  },
+  {
+    "RowIndex": 252,
+    "Id": "GuildMustBeLeader",
+    "Text": "You must be the guild leader to perform this action."
+  },
+  {
+    "RowIndex": 253,
+    "Id": "DisallowedOnSelf",
+    "Text": "You can't do this to yourself."
+  },
+  {
+    "RowIndex": 254,
+    "Id": "TooManyGuildInvites",
+    "Text": "This character is already invited to too many guilds."
+  },
+  {
+    "RowIndex": 255,
+    "Id": "GuildStatusMessageTooLong",
+    "Text": "This guild status message is too long."
+  },
+  {
+    "RowIndex": 256,
+    "Id": "NotEnoughPointsForTransaction",
+    "Text": "You don't have enough points to complete this transaction."
+  },
+  {
+    "RowIndex": 257,
+    "Id": "GuildMustBeMember",
+    "Text": "You must be a guild member to perform this action."
+  },
+  {
+    "RowIndex": 258,
+    "Id": "RemoteStashAlreadyLocked",
+    "Text": "The remote stash is already locked. Try again soon."
+  },
+  {
+    "RowIndex": 259,
+    "Id": "RemoteStashOperationRequiresLock",
+    "Text": "The remote stash requires a lock before this operation can be performed"
+  },
+  {
+    "RowIndex": 260,
+    "Id": "BadGuildStashPermissions",
+    "Text": "You don't have permission to perform this action on this guild stash."
+  },
+  {
+    "RowIndex": 261,
+    "Id": "MaximumGuildSlots",
+    "Text": "You are not allowed to have any more guild slots."
+  },
+  {
+    "RowIndex": 262,
+    "Id": "GuildTagTooShort",
+    "Text": "Guild tag must be a minimum of 3 characters."
+  },
+  {
+    "RowIndex": 263,
+    "Id": "GuildKickDisabledForAccount",
+    "Text": "You can not kick this account from the guild because they have gifted microtransaction credit too recently."
+  },
+  {
+    "RowIndex": 264,
+    "Id": "FriendNoteTooLong",
+    "Text": "This friend note is too long."
+  },
+  {
+    "RowIndex": 265,
+    "Id": "TooHighLevelForCap",
+    "Text": "This area has a level cap of {0}."
+  },
+  {
+    "RowIndex": 266,
+    "Id": "PlayerWins",
+    "Text": "{0} wins!"
+  },
+  {
+    "RowIndex": 267,
+    "Id": "TooLowLevelToSendWhisper",
+    "Text": "You can't send whispers until you are level {0}"
+  },
+  {
+    "RowIndex": 268,
+    "Id": "TooLowLevelToSendChat",
+    "Text": "You can't talk in {0} chat until you are level {1}"
+  },
+  {
+    "RowIndex": 269,
+    "Id": "ReachedRegularChatLimit",
+    "Text": "Please wait before sending another chat message."
+  },
+  {
+    "RowIndex": 270,
+    "Id": "ReachedTradeChatLimit",
+    "Text": "Please wait before sending another message in trade chat."
+  },
+  {
+    "RowIndex": 271,
+    "Id": "PortalEffectChanged",
+    "Text": "Your character will now use the {0}."
+  },
+  {
+    "RowIndex": 272,
+    "Id": "PortraitFrameChanged",
+    "Text": "Your character will now use the {0}. You must log out and in again for the change to take effect."
+  },
+  {
+    "RowIndex": 273,
+    "Id": "CharacterPortraitChanged",
+    "Text": "Your character will now use the {0}. You must log out and in again for the change to take effect."
+  },
+  {
+    "RowIndex": 274,
+    "Id": "NoHideout",
+    "Text": "This player has no Hideout in this league."
+  },
+  {
+    "RowIndex": 275,
+    "Id": "FailedToUseItem",
+    "Text": "Failed to use item: {0}"
+  },
+  {
+    "RowIndex": 276,
+    "Id": "ObaCompleted",
+    "Text": "Haha! You are a mighty adventurer indeed. Use what I have given you and spread my legacy throughout all of Wraeclast."
+  },
+  {
+    "RowIndex": 277,
+    "Id": "ArenaScoreTitle",
+    "Text": "Current rankings: (Kills/Deaths)"
+  },
+  {
+    "RowIndex": 278,
+    "Id": "ArenaScore",
+    "Text": "{1}: {0} ({2}/{3})"
+  },
+  {
+    "RowIndex": 279,
+    "Id": "LostPassivePoint1",
+    "Text": "You have lost a Passive Skill Point."
+  },
+  {
+    "RowIndex": 280,
+    "Id": "LostPassivePointN",
+    "Text": "You have lost {0} Passive Skill Points."
+  },
+  {
+    "RowIndex": 281,
+    "Id": "LostStatBonus",
+    "Text": "You have lost {0}."
+  },
+  {
+    "RowIndex": 282,
+    "Id": "FFALadderUpdate",
+    "Text": "You are now #{0} in the arena."
+  },
+  {
+    "RowIndex": 283,
+    "Id": "CraftingFailed",
+    "Text": "Crafting failed: {0}"
+  },
+  {
+    "RowIndex": 284,
+    "Id": "SpectatorJoined",
+    "Text": "{0} is now spectating."
+  },
+  {
+    "RowIndex": 285,
+    "Id": "LeagueStartingSoonGlobal",
+    "Text": "The next race event starts in {1}. To enter, go to the character selection screen and click Join on the \"{0}\" league. Information about this event is available in the Events/Leagues forum."
+  },
+  {
+    "RowIndex": 286,
+    "Id": "LeagueStartingSoonLocal",
+    "Text": "The league is starting in {0}."
+  },
+  {
+    "RowIndex": 287,
+    "Id": "LeagueStartingNow",
+    "Text": "The league has now started!"
+  },
+  {
+    "RowIndex": 288,
+    "Id": "LeagueEndingMinutes",
+    "Text": "The league is ending in {0}."
+  },
+  {
+    "RowIndex": 289,
+    "Id": "LeagueFinished",
+    "Text": "The league has finished!"
+  },
+  {
+    "RowIndex": 290,
+    "Id": "LeagueFirstToReachLevel",
+    "Text": "{0} is the first character to reach level {1}!"
+  },
+  {
+    "RowIndex": 291,
+    "Id": "LeagueFirstToEnterArea",
+    "Text": "{0} is the first character to enter {1}!"
+  },
+  {
+    "RowIndex": 292,
+    "Id": "LeagueFirstToEnterDelveLevelSolo",
+    "Text": "{0} is the first character to solo delve to depth {1}!"
+  },
+  {
+    "RowIndex": 293,
+    "Id": "LeagueFirstToEnterDelveLevelParty",
+    "Text": "{0} is the first character to delve to depth {1}!"
+  },
+  {
+    "RowIndex": 294,
+    "Id": "LeagueFirstToFullyClear",
+    "Text": "{0} is the first character to fully clear {1}!"
+  },
+  {
+    "RowIndex": 295,
+    "Id": "LeagueFirstToDoQuest",
+    "Text": "{0} is the first character to {1}!"
+  },
+  {
+    "RowIndex": 296,
+    "Id": "RealmRestartingSoon",
+    "Text": "The realm is restarting in {0}."
+  },
+  {
+    "RowIndex": 297,
+    "Id": "RealmShuttingDownSown",
+    "Text": "The realm is shutting down in {0}."
+  },
+  {
+    "RowIndex": 298,
+    "Id": "RealmRestarting",
+    "Text": "Beginning realm restart..."
+  },
+  {
+    "RowIndex": 299,
+    "Id": "RealmShuttingDown",
+    "Text": "Beginning realm shutdown..."
+  },
+  {
+    "RowIndex": 300,
+    "Id": "RealmRestartDeployPatchNotification",
+    "Text": "We are restarting the realm to deploy the {0} update. Its patch notes are in the Patch Notes forum. Downtime will be approximately {2}. {1}"
+  },
+  {
+    "RowIndex": 301,
+    "Id": "RealmMaintenanceNotification",
+    "Text": "We are shutting the realm down for maintenance. Downtime will be approximately {1}. {0}"
+  },
+  {
+    "RowIndex": 302,
+    "Id": "CharacterOffline",
+    "Text": "That character is not online."
+  },
+  {
+    "RowIndex": 303,
+    "Id": "CharacterNameOffline",
+    "Text": "{0} is not online."
+  },
+  {
+    "RowIndex": 304,
+    "Id": "CharacterDifferentLeague",
+    "Text": "That character is in a different league."
+  },
+  {
+    "RowIndex": 305,
+    "Id": "NotMutualFriends",
+    "Text": "That account has not accepted you as a friend."
+  },
+  {
+    "RowIndex": 306,
+    "Id": "CharacterNotInPvP",
+    "Text": "That character is not currently engaged in PvP."
+  },
+  {
+    "RowIndex": 307,
+    "Id": "SpectateFollow",
+    "Text": "You are now queued to spectate that account."
+  },
+  {
+    "RowIndex": 308,
+    "Id": "HideoutDoodadLimitReached",
+    "Text": "Cannot place another Hideout object. You are limited to 750 objects in your Hideout at one time."
+  },
+  {
+    "RowIndex": 309,
+    "Id": "HardcoreDeathAnnouncement",
+    "Text": "{0} (Level {1}) has died at position {2} on the ladder."
+  },
+  {
+    "RowIndex": 310,
+    "Id": "InteractErrorIncaBossSpawner",
+    "Text": "It seems to require a triangular key."
+  },
+  {
+    "RowIndex": 311,
+    "Id": "InteractErrorMalachaiPortal",
+    "Text": "You have not killed Malachai, or were not in the area when he was killed."
+  },
+  {
+    "RowIndex": 312,
+    "Id": "InteractErrorMervielExit",
+    "Text": "You have not killed Merveil, or were not in the area when she was killed."
+  },
+  {
+    "RowIndex": 313,
+    "Id": "InteractErrorHillockGate",
+    "Text": "You must kill Hillock first."
+  },
+  {
+    "RowIndex": 314,
+    "Id": "InteractErrorTowerTransition",
+    "Text": "You have not killed Dominus, or were not in the area when he was killed."
+  },
+  {
+    "RowIndex": 315,
+    "Id": "InteractErrorMineEntranceSeal",
+    "Text": "The entrance to the Mines is blocked by Deshret's Seal."
+  },
+  {
+    "RowIndex": 316,
+    "Id": "InteractErrorLockedDoor",
+    "Text": "The door is locked."
+  },
+  {
+    "RowIndex": 317,
+    "Id": "InteractErrorTowerKey",
+    "Text": "The Tower Key has not been used to unlock the door."
+  },
+  {
+    "RowIndex": 318,
+    "Id": "InteractErrorPoisonTree",
+    "Text": "Tree roots block your path.\r\nPerhaps they can be opened\r\nat a later time."
+  },
+  {
+    "RowIndex": 319,
+    "Id": "InteractErrorUndyingBlockage",
+    "Text": "The way is blocked."
+  },
+  {
+    "RowIndex": 320,
+    "Id": "InteractErrorLocked",
+    "Text": "It's locked."
+  },
+  {
+    "RowIndex": 321,
+    "Id": "InteractErrorBlockageTransition",
+    "Text": "The way is blocked."
+  },
+  {
+    "RowIndex": 322,
+    "Id": "InteractErrorSpikeBlockage",
+    "Text": "It seems to require some kind of key."
+  },
+  {
+    "RowIndex": 323,
+    "Id": "InteractErrorGlyphWall",
+    "Text": "This wall seems to require three strangely shaped objects."
+  },
+  {
+    "RowIndex": 324,
+    "Id": "InteractErrorWaterCave",
+    "Text": "You must find a way to lower the water first."
+  },
+  {
+    "RowIndex": 325,
+    "Id": "InteractErrorNotYourCraftingTable",
+    "Text": "You cannot use other people's crafting benches."
+  },
+  {
+    "RowIndex": 326,
+    "Id": "InteractErrorNotYourMapDevice",
+    "Text": "You cannot use other people's map devices."
+  },
+  {
+    "RowIndex": 327,
+    "Id": "InteractErrorCoreTransition",
+    "Text": "You must kill all three of Malachai's guardians to access the Black Core."
+  },
+  {
+    "RowIndex": 328,
+    "Id": "InteractErrorCoreTransitionOrgans",
+    "Text": "You must kill all three of Malachai's guardians and deliver the organs to Piety to access the Black Core."
+  },
+  {
+    "RowIndex": 329,
+    "Id": "InteractErrorPietyGateTransition",
+    "Text": "You must deal with Piety first."
+  },
+  {
+    "RowIndex": 330,
+    "Id": "InteractErrorVinktarSquareGateLocked",
+    "Text": "The gate is surging with the power of the Guardians."
+  },
+  {
+    "RowIndex": 331,
+    "Id": "NotAllowedInPlayersHideout",
+    "Text": "You cannot currently access this player's area."
+  },
+  {
+    "RowIndex": 332,
+    "Id": "CantChangeToHideoutFromHere",
+    "Text": "You can't go to this area from here."
+  },
+  {
+    "RowIndex": 333,
+    "Id": "StrMissionStartPointRocks",
+    "Text": "The entrance has collapsed"
+  },
+  {
+    "RowIndex": 334,
+    "Id": "LoginTokenExpired",
+    "Text": "Your credentials have expired. Please restart the game."
+  },
+  {
+    "RowIndex": 335,
+    "Id": "IgnoredPvP",
+    "Text": "You have been ignored."
+  },
+  {
+    "RowIndex": 336,
+    "Id": "LocalChatDisabledWhileSpectating",
+    "Text": "Local chat is disabled while spectating PvP."
+  },
+  {
+    "RowIndex": 337,
+    "Id": "AbandonDailyNotInHideout",
+    "Text": "You can only use this command inside your Hideout."
+  },
+  {
+    "RowIndex": 338,
+    "Id": "NoDailyActive",
+    "Text": "You don't have a daily mission open."
+  },
+  {
+    "RowIndex": 339,
+    "Id": "GrandmasterSaved",
+    "Text": "Grandmaster file has been saved. Grinding Gear Games staff will be notified."
+  },
+  {
+    "RowIndex": 340,
+    "Id": "LeagueFinishTimeRaceCompleted",
+    "Text": "You completed the objective of this race. Check the ladder thread to see your ranking."
+  },
+  {
+    "RowIndex": 341,
+    "Id": "LeagueFinishTimeRaceLogin",
+    "Text": "You've already completed this race's objective with this character."
+  },
+  {
+    "RowIndex": 342,
+    "Id": "CharacterNotFriendOrGuildmate",
+    "Text": "That account is not a mutual friend or guildmate."
+  },
+  {
+    "RowIndex": 343,
+    "Id": "MapDeviceDisabled",
+    "Text": "The Map Device is disabled in this league."
+  },
+  {
+    "RowIndex": 344,
+    "Id": "PVPTeamDoesNotExist",
+    "Text": "This PvP team is not registered for this event"
+  },
+  {
+    "RowIndex": 345,
+    "Id": "ForwardedToMasterShard",
+    "Text": "This request was forwarded to the master database. This request should be dropped with no response."
+  },
+  {
+    "RowIndex": 346,
+    "Id": "PVPTournamentFinished",
+    "Text": "The tournament is complete."
+  },
+  {
+    "RowIndex": 347,
+    "Id": "ErrorNotInHideout",
+    "Text": "You must be in your Hideout to do this."
+  },
+  {
+    "RowIndex": 348,
+    "Id": "ErrorHideoutSuperceded",
+    "Text": "Hideout modifications are currently disabled. Please create a new Hideout instance and try again."
+  },
+  {
+    "RowIndex": 349,
+    "Id": "ErrorCannotModifyGuildHideout",
+    "Text": "You do not have permission to modify the Guild Hideout."
+  },
+  {
+    "RowIndex": 350,
+    "Id": "ClaimCraftingBenchSuccess",
+    "Text": "Adding crafting bench to Hideout stash."
+  },
+  {
+    "RowIndex": 351,
+    "Id": "CharacterIsPVPOnly",
+    "Text": "PvP-only characters may not do this."
+  },
+  {
+    "RowIndex": 352,
+    "Id": "StoppedSpectateFollow",
+    "Text": "You are no longer queued to spectate."
+  },
+  {
+    "RowIndex": 353,
+    "Id": "CannotTradeItemLockedToCharacter",
+    "Text": "Item cannot be traded or modified."
+  },
+  {
+    "RowIndex": 354,
+    "Id": "CannotTradeItemLockedToAccount",
+    "Text": "Item cannot be traded."
+  },
+  {
+    "RowIndex": 355,
+    "Id": "PvPRelocatingArena",
+    "Text": "You are being moved to another PvP arena to rebalance player numbers."
+  },
+  {
+    "RowIndex": 356,
+    "Id": "MapCraftingFailedCost",
+    "Text": "You don't have enough currency."
+  },
+  {
+    "RowIndex": 357,
+    "Id": "MapCraftingFailedTrade",
+    "Text": "Failed to open map. Cannot consume items while trade window is open."
+  },
+  {
+    "RowIndex": 358,
+    "Id": "PvPMustHaveFullParty",
+    "Text": "Your party isn't large enough to play in this PvP match."
+  },
+  {
+    "RowIndex": 359,
+    "Id": "WithdrawnFromPVPTournament",
+    "Text": "You have withdrawn from this PvP tournament."
+  },
+  {
+    "RowIndex": 360,
+    "Id": "SpectatingDisabled",
+    "Text": "Spectating is disabled for this match."
+  },
+  {
+    "RowIndex": 361,
+    "Id": "ChestLocked",
+    "Text": "This chest is locked."
+  },
+  {
+    "RowIndex": 362,
+    "Id": "HideoutPortalLocked",
+    "Text": "Map Portals have been locked."
+  },
+  {
+    "RowIndex": 363,
+    "Id": "PVPCTFOwnFlag",
+    "Text": "Bring another team's flag back here to gain a point."
+  },
+  {
+    "RowIndex": 364,
+    "Id": "SpiderChestLocked",
+    "Text": "You hear skittering nearby..."
+  },
+  {
+    "RowIndex": 365,
+    "Id": "AFKModeEnabled",
+    "Text": "AFK mode is now ON. Autoreply \"{0}\""
+  },
+  {
+    "RowIndex": 366,
+    "Id": "AFKModeDisabled",
+    "Text": "AFK mode is now OFF."
+  },
+  {
+    "RowIndex": 367,
+    "Id": "DNDModeEnabled",
+    "Text": "DND mode is now ON. Autoreply \"{0}\""
+  },
+  {
+    "RowIndex": 368,
+    "Id": "DNDModeDisabled",
+    "Text": "DND mode is now OFF."
+  },
+  {
+    "RowIndex": 369,
+    "Id": "AutoReplyEnabled",
+    "Text": "Autoreply set \"{0}\""
+  },
+  {
+    "RowIndex": 370,
+    "Id": "IncaApexDoorLocked",
+    "Text": "This door cannot be opened at this time."
+  },
+  {
+    "RowIndex": 371,
+    "Id": "CharacterNameExistsButCanExpire",
+    "Text": "Creating this character would expire the character name of another character."
+  },
+  {
+    "RowIndex": 372,
+    "Id": "CharacterIsNotExpired",
+    "Text": "This character's name is not expired."
+  },
+  {
+    "RowIndex": 373,
+    "Id": "CharacterIsExpired",
+    "Text": "This character's name has been taken by another player due to inactivity on this account. It must be renamed."
+  },
+  {
+    "RowIndex": 374,
+    "Id": "OrphanedInstance",
+    "Text": "Game server lost contact with the realm."
+  },
+  {
+    "RowIndex": 375,
+    "Id": "ErrorLabyrinthLocked",
+    "Text": "This Labyrinth has already been opened, so it can no longer be joined. Visit a new Aspirants' Plaza to start a new Labyrinth."
+  },
+  {
+    "RowIndex": 376,
+    "Id": "ErrorZanaMissionLocked",
+    "Text": "You have already visited this unstable area before, and cannot access it again."
+  },
+  {
+    "RowIndex": 377,
+    "Id": "InteractErrorDoorRequiresGoldenKey",
+    "Text": "This door is locked. You need a Golden Key to open it."
+  },
+  {
+    "RowIndex": 378,
+    "Id": "InteractErrorDoorRequiresSilverKey",
+    "Text": "This door is locked. You need a Silver Key to open it."
+  },
+  {
+    "RowIndex": 379,
+    "Id": "InteractErrorDoorRequiresBronzeKey",
+    "Text": "This door is locked. You need a Bronze Key to open it."
+  },
+  {
+    "RowIndex": 380,
+    "Id": "TooManyCharacterSlots",
+    "Text": "You can not have more than 255 character slots on a single account."
+  },
+  {
+    "RowIndex": 381,
+    "Id": "EchoClientString",
+    "Text": "{0}"
+  },
+  {
+    "RowIndex": 382,
+    "Id": "ErrorCannotWhisperIgnored",
+    "Text": "You cannot whisper people on your ignore list."
+  },
+  {
+    "RowIndex": 383,
+    "Id": "AccountIsOnline",
+    "Text": "This account is currently online."
+  },
+  {
+    "RowIndex": 384,
+    "Id": "IzaroChestLocked",
+    "Text": "This chest is locked. A Treasure Key is required to open it."
+  },
+  {
+    "RowIndex": 385,
+    "Id": "ProfanityCheckFailed",
+    "Text": "The text you entered contains profanity."
+  },
+  {
+    "RowIndex": 386,
+    "Id": "ErrorCannotChangeAscendancyClass",
+    "Text": "You may not change your Ascendancy class in this League."
+  },
+  {
+    "RowIndex": 387,
+    "Id": "TencentAasLoginDenied",
+    "Text": "You are a minor and can't login."
+  },
+  {
+    "RowIndex": 388,
+    "Id": "TencentAasNotification",
+    "Text": "You've been playing for {0} hours, please consider taking a rest."
+  },
+  {
+    "RowIndex": 389,
+    "Id": "TencentAasAlarm",
+    "Text": "You have played for more than three hours and are a minor. You can't login until you have had a five hour rest."
+  },
+  {
+    "RowIndex": 390,
+    "Id": "LeagueDisallowsCharacterDeletion",
+    "Text": "This league doesn't allow character deletion at the moment."
+  },
+  {
+    "RowIndex": 391,
+    "Id": "ErrorCannotAccessMapLabyrinth",
+    "Text": "You have not yet completed the Map Labyrinth Trials."
+  },
+  {
+    "RowIndex": 392,
+    "Id": "ErrorCannotSealProphecy",
+    "Text": "Failed to seal Prophecy."
+  },
+  {
+    "RowIndex": 393,
+    "Id": "InviteErrorAlreadyInParty",
+    "Text": "Party invite failed. That character is already in a party."
+  },
+  {
+    "RowIndex": 394,
+    "Id": "TencentCannotAccessMapDevice",
+    "Text": "Complete The Lord's Labyrinth to gain access to the Map Device. Travel to the Sarn Encampment and click on the Ascendancy Plaque to find out more about the Labyrinth. Finish the Trials of Ascendancy and defeat Emperor Izaro in his Labyrinth to gain access to endgame maps."
+  },
+  {
+    "RowIndex": 395,
+    "Id": "DailyPortalBlocked",
+    "Text": "Cannot open daily mission: Portal location is blocked. Use Edit Mode to move the master to a new location and try again."
+  },
+  {
+    "RowIndex": 396,
+    "Id": "OfferDoesNotExist",
+    "Text": "The offer no longer exists."
+  },
+  {
+    "RowIndex": 397,
+    "Id": "OfferInWrongState",
+    "Text": "The offer is in an invalid state for this action."
+  },
+  {
+    "RowIndex": 398,
+    "Id": "OfferContainsUntradeableItems",
+    "Text": "The offer can not be submitted because it contains untradeable items."
+  },
+  {
+    "RowIndex": 399,
+    "Id": "NoOffersOnYourOwnItems",
+    "Text": "You can not make an offer on this item because you already own it."
+  },
+  {
+    "RowIndex": 400,
+    "Id": "PublicListingLockedDueToLevel",
+    "Text": "You cannot publicly list items for sale until you have had at least one character at level 25 on your account."
+  },
+  {
+    "RowIndex": 401,
+    "Id": "OffersLockedDueToLevel",
+    "Text": "You cannot make offers on items until you have had at least one character at level 25 on your account."
+  },
+  {
+    "RowIndex": 402,
+    "Id": "AccountNoLongerHasItem",
+    "Text": "The player no longer has the listed item."
+  },
+  {
+    "RowIndex": 403,
+    "Id": "TooManyBuyerOffers",
+    "Text": "You can only have 10 active offers at a time, please resolve active offers to create new ones."
+  },
+  {
+    "RowIndex": 404,
+    "Id": "TooManySellerOffers",
+    "Text": "The seller has too many offers on thier items. Try again later."
+  },
+  {
+    "RowIndex": 405,
+    "Id": "AlreadyHaveOfferOnItem",
+    "Text": "You already have an offer in progress for this item."
+  },
+  {
+    "RowIndex": 406,
+    "Id": "SentOfferTooRecently",
+    "Text": "You have submitted an offer to this account too recently."
+  },
+  {
+    "RowIndex": 407,
+    "Id": "EventErrorLevelTooLow",
+    "Text": "You must be at least level {0} to enter this event."
+  },
+  {
+    "RowIndex": 408,
+    "Id": "EnteredPathOfEnduranceLevel",
+    "Text": "You have reached Level {0}"
+  },
+  {
+    "RowIndex": 409,
+    "Id": "EventEndsIn",
+    "Text": "This event ends in {0}"
+  },
+  {
+    "RowIndex": 410,
+    "Id": "GuildTagAlreadyExists",
+    "Text": "That guild tag is already in use."
+  },
+  {
+    "RowIndex": 411,
+    "Id": "GlobalChatOnCooldown",
+    "Text": "Please wait a few seconds before using Global Chat again."
+  },
+  {
+    "RowIndex": 412,
+    "Id": "InteractErrorKaruiDoorLocked",
+    "Text": "The gate is locked, but it appears to be missing an eye..."
+  },
+  {
+    "RowIndex": 413,
+    "Id": "LabyrinthErrorPartyTooBigTencent",
+    "Text": "You may only enter the Labyrinth with {0} or fewer players in your party."
+  },
+  {
+    "RowIndex": 414,
+    "Id": "InteractErrorNoSignOfPurity",
+    "Text": "You need the Sign of Purity to activate this."
+  },
+  {
+    "RowIndex": 415,
+    "Id": "InteractErrorCannotAccessEndgame",
+    "Text": "You cannot access endgame content until you have completed the campaign."
+  },
+  {
+    "RowIndex": 416,
+    "Id": "CharacterNameContainsProfanity",
+    "Text": "This Character name is restricted."
+  },
+  {
+    "RowIndex": 417,
+    "Id": "ConsoleDisconnectedBecauseActiveUserChanged",
+    "Text": "Disconnected because the active user signed out"
+  },
+  {
+    "RowIndex": 418,
+    "Id": "ConsoleDisconnectedBecauseSuspending",
+    "Text": "Disconnected because the game was suspended"
+  },
+  {
+    "RowIndex": 419,
+    "Id": "InteractErrorNeedSunMoonOrbs",
+    "Text": "You need the Sun and Moon Orbs to activate this."
+  },
+  {
+    "RowIndex": 420,
+    "Id": "TheBeaconLever",
+    "Text": "The torch doesn't have enough fuel to ignite."
+  },
+  {
+    "RowIndex": 421,
+    "Id": "OnlyOneAllowedInHideout",
+    "Text": "You can not place more than one of this type of item in your Hideout."
+  },
+  {
+    "RowIndex": 422,
+    "Id": "AccountLoggedInOnOtherRealm",
+    "Text": "You cannot be logged in on the beta and regular Path of Exile realms at the same time."
+  },
+  {
+    "RowIndex": 423,
+    "Id": "KitavaArenaLocked",
+    "Text": "It is unsafe to portal to this area."
+  },
+  {
+    "RowIndex": 424,
+    "Id": "InteractErrorBeaconMissingFlag",
+    "Text": "You need the Black Flag from the Cavern of Anger to use the Beacon."
+  },
+  {
+    "RowIndex": 425,
+    "Id": "InteractErrorGreustShrine",
+    "Text": "An ancient Azmeri shrine. Maybe Helena knows something about it."
+  },
+  {
+    "RowIndex": 426,
+    "Id": "PantheonFailedToCreateSoulItem",
+    "Text": "The Captured Soul failed to generate in the Map Device."
+  },
+  {
+    "RowIndex": 427,
+    "Id": "PantheonCannotConsumeVessel",
+    "Text": "Activation failed. The Boss in this map cannot have its Soul captured."
+  },
+  {
+    "RowIndex": 428,
+    "Id": "PantheonCannotConsumeVesselAlreadyCaptured",
+    "Text": "Activation failed. You have already captured the Soul of this Map's Boss."
+  },
+  {
+    "RowIndex": 429,
+    "Id": "ExitToLoginFailed",
+    "Text": "Failed to connect to login server. Please login and try again."
+  },
+  {
+    "RowIndex": 430,
+    "Id": "MessageDoesNotExist",
+    "Text": "The specified message does not exist."
+  },
+  {
+    "RowIndex": 431,
+    "Id": "MessageTooLong",
+    "Text": "The message is too long."
+  },
+  {
+    "RowIndex": 432,
+    "Id": "AreaErrorLevelTooLow",
+    "Text": "You must be at least Level {0} to access this area."
+  },
+  {
+    "RowIndex": 433,
+    "Id": "AreaErrorLevelTooLowGeneric",
+    "Text": "You have not reached a high enough Level to access this area."
+  },
+  {
+    "RowIndex": 434,
+    "Id": "TradeMarketCloseOfferWithItems",
+    "Text": "You still have items present in the offer, remove these items to close the offer."
+  },
+  {
+    "RowIndex": 435,
+    "Id": "TradeMarketSendOfferWithNoItems",
+    "Text": "You cannot submit an offer without any currency items offered."
+  },
+  {
+    "RowIndex": 436,
+    "Id": "XboxLoginErrorNoLiveAccess",
+    "Text": "Cannot log in because Xbox Live cannot be accessed."
+  },
+  {
+    "RowIndex": 437,
+    "Id": "ConsoleLoginErrorNoInternetConnection",
+    "Text": "Cannot log in because there is no Internet connection."
+  },
+  {
+    "RowIndex": 438,
+    "Id": "ErrorChatIsFull",
+    "Text": "Failed to join requested chat channel because it is full."
+  },
+  {
+    "RowIndex": 439,
+    "Id": "LoginConnectionLimitReached",
+    "Text": "The login server is currently too busy. Please try again later."
+  },
+  {
+    "RowIndex": 440,
+    "Id": "TooManyObjects",
+    "Text": "Too many objects requested, please contact support."
+  },
+  {
+    "RowIndex": 441,
+    "Id": "SubtabAlreadyExists",
+    "Text": "This subtab already exists."
+  },
+  {
+    "RowIndex": 442,
+    "Id": "MaxInventoryColumns",
+    "Text": "You have reached the maximum number of inventory columns allowed. CHINA ONLY NOT FOR WORLDWIDE REALM"
+  },
+  {
+    "RowIndex": 443,
+    "Id": "IncorrectInventoryColumnUpgrade",
+    "Text": "You are trying to purchase the inventory upgrade for the incorrect number of existing slots. CHINA ONLY NOT FOR WORLDWIDE REALM"
+  },
+  {
+    "RowIndex": 444,
+    "Id": "GenericRateLimit",
+    "Text": "Requested failed because you have made too many requests in a short time."
+  },
+  {
+    "RowIndex": 445,
+    "Id": "RequestInProgress",
+    "Text": "A request is already in progress. Please try again soon."
+  },
+  {
+    "RowIndex": 446,
+    "Id": "ItemNotInStash",
+    "Text": "The item is not in the given stash."
+  },
+  {
+    "RowIndex": 447,
+    "Id": "BestiaryNetChanged",
+    "Text": "Your character will now use {0} to capture Beasts."
+  },
+  {
+    "RowIndex": 448,
+    "Id": "ErrorPlayerHasNoMenagerie",
+    "Text": "That player does not have a Menagerie."
+  },
+  {
+    "RowIndex": 449,
+    "Id": "MicrotransactionNotAvailableInLeague",
+    "Text": "You are not allowed to buy this microtransaction in this league."
+  },
+  {
+    "RowIndex": 450,
+    "Id": "CaptureMonsterSuccess",
+    "Text": "Captured Beast: {0}"
+  },
+  {
+    "RowIndex": 451,
+    "Id": "DeletedExcessBestiaryUnique",
+    "Text": "Your Menagerie was full so an older Beast ({0}) was removed to make space."
+  },
+  {
+    "RowIndex": 452,
+    "Id": "DeletedExcessBestiaryRare",
+    "Text": "Your Menagerie was full so an older Beast ({0}; {1}) was removed to make space."
+  },
+  {
+    "RowIndex": 453,
+    "Id": "PlayersRemainingN",
+    "Text": "{0} players remain."
+  },
+  {
+    "RowIndex": 454,
+    "Id": "AccountNotVerifiedChatError",
+    "Text": "You must verify your account before you can chat."
+  },
+  {
+    "RowIndex": 455,
+    "Id": "TooLowLevelToChooseChatIndex",
+    "Text": "You can't choose a specific chat channel until you are level {0}."
+  },
+  {
+    "RowIndex": 456,
+    "Id": "IncursionLockedDoorError",
+    "Text": "You do not have the item required to open this passage."
+  },
+  {
+    "RowIndex": 457,
+    "Id": "IncursionDestructibleWallError",
+    "Text": "You have no explosives."
+  },
+  {
+    "RowIndex": 458,
+    "Id": "InstanceExpiredError",
+    "Text": "Cannot connect to instance. That subarea has expired because it is no longer the most recent child instance for this area."
+  },
+  {
+    "RowIndex": 459,
+    "Id": "InstanceTerminatedError",
+    "Text": "Cannot connect to instance. That subarea no longer exists."
+  },
+  {
+    "RowIndex": 460,
+    "Id": "FailedToLoadDelveMap",
+    "Text": "Failed to load Delve map data: {0}"
+  },
+  {
+    "RowIndex": 461,
+    "Id": "DelveInProgressError",
+    "Text": "You cannot join a Delve that is currently in progress."
+  },
+  {
+    "RowIndex": 462,
+    "Id": "LoginRequiresUnlockCodeStrict",
+    "Text": "Your account has been locked until you can provide an unlock code from your email (strict)."
+  },
+  {
+    "RowIndex": 463,
+    "Id": "DelveSocketableCurrencySameFossilError",
+    "Text": "You cannot socket identical Fossils into the same Resonator"
+  },
+  {
+    "RowIndex": 464,
+    "Id": "GenericSocketError",
+    "Text": "You cannot socket the current item"
+  },
+  {
+    "RowIndex": 465,
+    "Id": "OfferNotYetReadyForAccept",
+    "Text": "The offer is in a state where it is waiting for a previous submit to be resolved. Try again later."
+  },
+  {
+    "RowIndex": 466,
+    "Id": "InteractErrorEssence",
+    "Text": "Something else is keeping this Essence imprisoned."
+  },
+  {
+    "RowIndex": 467,
+    "Id": "NotEnoughIngredients",
+    "Text": "You don't have enough ingredients for this action."
+  },
+  {
+    "RowIndex": 468,
+    "Id": "ConsoleDisconnectedBecauseActiveUserSignedOut",
+    "Text": "Disconnected because the active user signed out"
+  },
+  {
+    "RowIndex": 469,
+    "Id": "PS4LoginErrorNoPSNAccess",
+    "Text": "Cannot log in because \"PlayStation Network\" cannot be reached."
+  },
+  {
+    "RowIndex": 470,
+    "Id": "PS4LoginErrorOutOfMemory",
+    "Text": "Cannot log in because we are out of memory."
+  },
+  {
+    "RowIndex": 471,
+    "Id": "PS4LoginErrorSignedOut",
+    "Text": "Cannot log in because you are signed out."
+  },
+  {
+    "RowIndex": 472,
+    "Id": "PS4LoginErrorNotSignedUp",
+    "Text": "Cannot log in because you are not signed up."
+  },
+  {
+    "RowIndex": 473,
+    "Id": "PS4LoginErrorAgeRestriction",
+    "Text": "Cannot log in because of an age restriction."
+  },
+  {
+    "RowIndex": 474,
+    "Id": "PS4LoginErrorLoggedOut",
+    "Text": "Cannot log in because you are logged out."
+  },
+  {
+    "RowIndex": 475,
+    "Id": "PS4LoginErrorLatestSystemSoftwareExist",
+    "Text": "Cannot log in because a new version of the system software update file exists."
+  },
+  {
+    "RowIndex": 476,
+    "Id": "PS4LoginErrorLatestSystemSoftwareExistForTitle",
+    "Text": "Cannot log in because a required new version of the system software update file exists for this application."
+  },
+  {
+    "RowIndex": 477,
+    "Id": "PS4LoginErrorLatestPatchPackageExists",
+    "Text": "Cannot log in because a new version of the patch package exists."
+  },
+  {
+    "RowIndex": 478,
+    "Id": "PS4LoginErrorLatestPatchPackageDownloaded",
+    "Text": "Cannot log in because a new version of the downloaded patch package exists."
+  },
+  {
+    "RowIndex": 479,
+    "Id": "PS4LoginErrorPatchNotChecked",
+    "Text": "Cannot log in because could not check if a new version update file is available.  Please try again."
+  },
+  {
+    "RowIndex": 480,
+    "Id": "HideoutExportFailed",
+    "Text": "You must be in a Hideout to export a Hideout template."
+  },
+  {
+    "RowIndex": 481,
+    "Id": "HideoutImportSuccess",
+    "Text": "Hideout template imported successfully."
+  },
+  {
+    "RowIndex": 482,
+    "Id": "HideoutImportFailed",
+    "Text": "Failed to import Hideout template."
+  },
+  {
+    "RowIndex": 483,
+    "Id": "HideoutImportFailedMustBeInHideout",
+    "Text": "You must be in your Hideout to import a Hideout template."
+  },
+  {
+    "RowIndex": 484,
+    "Id": "HideoutImportFailedWrongHideout",
+    "Text": "You must first set your Hideout to {0} in order to import this Hideout template."
+  },
+  {
+    "RowIndex": 485,
+    "Id": "TencentTradeMarketNotExactPrice",
+    "Text": "Your offer does not match the exact price for this item."
+  },
+  {
+    "RowIndex": 486,
+    "Id": "TencentTradeMarketTooManyCompletedOffers",
+    "Text": "You have too many completed trades in your Trade Market to make this offer."
+  },
+  {
+    "RowIndex": 487,
+    "Id": "IncursionRecipeUnlockRejected",
+    "Text": "Crafting recipe already unlocked"
+  },
+  {
+    "RowIndex": 488,
+    "Id": "FailedToReclaimSomeHideoutDoodads",
+    "Text": "Failed to reclaim one or more Hideout doodads. Please create a new Hideout instance and try again."
+  },
+  {
+    "RowIndex": 489,
+    "Id": "FailedToLoadHideoutDoodads",
+    "Text": "Failed to load Hideout doodad list."
+  },
+  {
+    "RowIndex": 490,
+    "Id": "HideoutImportWarningGeneric",
+    "Text": "Warning: {0} doodads could not be imported."
+  },
+  {
+    "RowIndex": 491,
+    "Id": "HideoutImportWarningUnowned",
+    "Text": "Warning: {0} doodads could not be imported because you do not own any spare ones."
+  },
+  {
+    "RowIndex": 492,
+    "Id": "HideoutImportWarningBlocked",
+    "Text": "Warning: {0} doodads could not be imported because the specified location was blocked."
+  },
+  {
+    "RowIndex": 493,
+    "Id": "HideoutReclaimAllSuccess",
+    "Text": "All Hideout doodads have been reclaimed."
+  },
+  {
+    "RowIndex": 494,
+    "Id": "AreaTransitionPartyError",
+    "Text": "You must be in a party with the area owner to access this area."
+  },
+  {
+    "RowIndex": 495,
+    "Id": "AreaTransitionOwnerError",
+    "Text": "The area owner must be present to access this area."
+  },
+  {
+    "RowIndex": 496,
+    "Id": "BestiaryErrorNoData",
+    "Text": "Failed to retrieve Bestiary data."
+  },
+  {
+    "RowIndex": 497,
+    "Id": "BestiaryErrorFailedToCaptureMonster",
+    "Text": "Failed to save captured monster: {0}"
+  },
+  {
+    "RowIndex": 498,
+    "Id": "PS4BadRedeemToken",
+    "Text": "Bad redeem token"
+  },
+  {
+    "RowIndex": 499,
+    "Id": "CurrencyTradingPrevented2",
+    "Text": "You cannot trade currency or unique items to other players until you have verified your account."
+  },
+  {
+    "RowIndex": 500,
+    "Id": "PublicListingLockedDueToVerified",
+    "Text": "You cannot publicly list items for sale until you have verified your account."
+  },
+  {
+    "RowIndex": 501,
+    "Id": "OffersLockedDueToVerified",
+    "Text": "You cannot make offers on items until you have verified your account."
+  },
+  {
+    "RowIndex": 502,
+    "Id": "SynthesisPortalFullyDecayed",
+    "Text": "This area has decayed."
+  },
+  {
+    "RowIndex": 503,
+    "Id": "SynthesisTooManyMemories",
+    "Text": "You have placed too many memories, please remove some before attempting to place more."
+  },
+  {
+    "RowIndex": 504,
+    "Id": "SynthesisOtherMemoryInstance",
+    "Text": "You cannot place memories in another persons Memory Nexus or Memory Expanse."
+  },
+  {
+    "RowIndex": 505,
+    "Id": "ConsoleDisconnectedBecauseNoInternetConnection",
+    "Text": "Disconnected because there is no Internet connection."
+  },
+  {
+    "RowIndex": 506,
+    "Id": "PS4DisconnectedBecauseNoPSNAccess",
+    "Text": "Disconnected because \"PlayStation Network\" cannot be reached."
+  },
+  {
+    "RowIndex": 507,
+    "Id": "XboxDisconnectedBecauseNoXboxLiveAccess",
+    "Text": "Disconnected because Xbox Live cannot be accessed."
+  },
+  {
+    "RowIndex": 508,
+    "Id": "PS4CannotLogInUGMRestriction",
+    "Text": "Cannot log in due to parental controls."
+  },
+  {
+    "RowIndex": 509,
+    "Id": "SynthesisMaxGlobalModsReached",
+    "Text": "You have reached the maximum number of Memory Modifiers on your Synthesis Map."
+  },
+  {
+    "RowIndex": 510,
+    "Id": "BetrayalCannotAccessLab",
+    "Text": "You have another Betrayal Job in progress. Complete the other encounter or make any remaining choices to enable this entrance."
+  },
+  {
+    "RowIndex": 511,
+    "Id": "SynthesisCannotApplyGlobalMod",
+    "Text": "The selected Memory and the Memories placed next to it cannot apply any more Memory Modifiers."
+  },
+  {
+    "RowIndex": 512,
+    "Id": "KakaoAPIError",
+    "Text": "Failed to authorise with Kakao authentication server."
+  },
+  {
+    "RowIndex": 513,
+    "Id": "KakaoRequireLogin",
+    "Text": "You must log in to your Kakao account again."
+  },
+  {
+    "RowIndex": 514,
+    "Id": "MapDeviceCannotUseFragmentWithMap",
+    "Text": "Activation failed. {0} cannot be used with a Map."
+  },
+  {
+    "RowIndex": 515,
+    "Id": "MapDeviceFragmentNeedsRecipe",
+    "Text": "Activation failed. {0} must be used with other Map Fragments from the same set."
+  },
+  {
+    "RowIndex": 516,
+    "Id": "MapDeviceFragmentNeedsRecipeOrMap",
+    "Text": "Activation failed. {0} must be used with a Map, or with other Map Fragments from the same set."
+  },
+  {
+    "RowIndex": 517,
+    "Id": "MapDeviceDuplicateFragments",
+    "Text": "Activation failed. You cannot use multiple Map Fragments of the same type."
+  },
+  {
+    "RowIndex": 518,
+    "Id": "EmailLoginDisabledKakao",
+    "Text": "This login method has been disabled for this account. Please login via http://poe.game.daum.net"
+  },
+  {
+    "RowIndex": 519,
+    "Id": "EmailLoginDisabled",
+    "Text": "This login method has been disabled for this account."
+  },
+  {
+    "RowIndex": 520,
+    "Id": "GatewayDisallowedForThisLoginType",
+    "Text": "This login gateway is not available for this login method."
+  },
+  {
+    "RowIndex": 521,
+    "Id": "UnacceptableChatMessage",
+    "Text": "Unacceptable message contents."
+  },
+  {
+    "RowIndex": 522,
+    "Id": "ChannelOnlyAllowsASCII",
+    "Text": "Unacceptable message contents. Please use only standard ASCII characters in this channel."
+  },
+  {
+    "RowIndex": 523,
+    "Id": "ActionRejectedDueToPerPlayerFreeze",
+    "Text": "You have died recently and cannot perform actions for {0}."
+  },
+  {
+    "RowIndex": 524,
+    "Id": "PerPlayerDeathFreezeRemoved",
+    "Text": "You can now perform actions."
+  },
+  {
+    "RowIndex": 525,
+    "Id": "LeagueDisallowsManualMigration",
+    "Text": "You cannot migrate from this league at the moment."
+  },
+  {
+    "RowIndex": 526,
+    "Id": "RecycleMicroItemNotFound",
+    "Text": "Microtransaction can not be found."
+  },
+  {
+    "RowIndex": 527,
+    "Id": "RecycleMicroCannotRemoveMicro",
+    "Text": "Microtransaction can not be removed."
+  },
+  {
+    "RowIndex": 528,
+    "Id": "RecycleMicroNoValue",
+    "Text": "Microtransaction has no value."
+  },
+  {
+    "RowIndex": 529,
+    "Id": "RecycleMicroGeneric",
+    "Text": "Cannot complete action at this time."
+  },
+  {
+    "RowIndex": 530,
+    "Id": "TradeBanError",
+    "Text": "You cannot do that at this time. Your account is banned from trade actions."
+  },
+  {
+    "RowIndex": 531,
+    "Id": "InteractErrorCoreTransitionMap",
+    "Text": "You must kill all three of Eater of Souls' guardians to access the Black Core."
+  },
+  {
+    "RowIndex": 532,
+    "Id": "CombineMTXTimeLimitedError",
+    "Text": "Cannot combine time-limited Microtransactions."
+  },
+  {
+    "RowIndex": 533,
+    "Id": "SalvageMTXTimeLimitedError",
+    "Text": "Cannot salvage time-limited Microtransactions"
+  },
+  {
+    "RowIndex": 534,
+    "Id": "ItemIsInLeagueInventory",
+    "Text": "You can't do this operation on an item in a league inventory"
+  },
+  {
+    "RowIndex": 535,
+    "Id": "MetamorphosisCannotOpenUIError",
+    "Text": "Metamorph samples can only be combined by the instance owner."
+  },
+  {
+    "RowIndex": 536,
+    "Id": "PurchaseLimitReached",
+    "Text": "You've reached the purchase limit for this item."
+  },
+  {
+    "RowIndex": 537,
+    "Id": "EpicAssociateEmailSent",
+    "Text": "An email has been sent to confirm that you own this account. Please click the link in your email to continue."
+  },
+  {
+    "RowIndex": 538,
+    "Id": "DestroyHarvestInfrastructure",
+    "Text": "You cannot destroy Harvest Infrastructure items."
+  },
+  {
+    "RowIndex": 539,
+    "Id": "CharacterActionDeniedHarvestItems",
+    "Text": "You must remove all Harvest Infrastructure items from your character before performing this action."
+  },
+  {
+    "RowIndex": 540,
+    "Id": "HarvestOshabiFightOnlyInMaps",
+    "Text": "The Encounter can only be started from a Map"
+  },
+  {
+    "RowIndex": 541,
+    "Id": "ConsoleGuildTagProfanityError",
+    "Text": "The guild tag you are trying to set contains a restricted phrase. Please retry with a different tag."
+  },
+  {
+    "RowIndex": 542,
+    "Id": "ConsoleGuildNameProfanityError",
+    "Text": "The guild name you are trying to set contains a restricted phrase. Please retry with a different name."
+  },
+  {
+    "RowIndex": 543,
+    "Id": "ConsoleGuildStashTabProfanityError",
+    "Text": "The stash tab name you are trying to set contains a restricted phrase. Please retry with a different name."
+  },
+  {
+    "RowIndex": 544,
+    "Id": "TradeErrorItemStolenFromHeist",
+    "Text": "Item cannot be traded."
+  },
+  {
+    "RowIndex": 545,
+    "Id": "HeistAlarmError",
+    "Text": "Error: cannot join a Heist area that is in Lockdown"
+  },
+  {
+    "RowIndex": 546,
+    "Id": "HeistHubAccessError",
+    "Text": "You must use a Rogue's Marker to access the Rogues' Harbour."
+  },
+  {
+    "RowIndex": 547,
+    "Id": "NotHeistOwner",
+    "Text": "Error: You are not the owner of this Heist"
+  },
+  {
+    "RowIndex": 548,
+    "Id": "ReceivedAtlasRespecPoint1",
+    "Text": "You have received an Atlas Passive Respec Point."
+  },
+  {
+    "RowIndex": 549,
+    "Id": "ReceivedAtlasRespecPointN",
+    "Text": "You have received {0} Atlas Passive Respec Points."
+  },
+  {
+    "RowIndex": 550,
+    "Id": "ReceivedAtlasPassivePoint1",
+    "Text": "You have received an Atlas Skill Point."
+  },
+  {
+    "RowIndex": 551,
+    "Id": "ReceivedAtlasPassivePointN",
+    "Text": "You have received {0} Atlas Skill Points."
+  },
+  {
+    "RowIndex": 552,
+    "Id": "MavenNotEnoughBosses",
+    "Text": "Activation failed. You have not collected enough bosses from this Atlas Region."
+  },
+  {
+    "RowIndex": 553,
+    "Id": "MavenCitadelNotUnlocked",
+    "Text": "Activation failed. You have not unlocked the Citadel for this Atlas Region."
+  },
+  {
+    "RowIndex": 554,
+    "Id": "StashAffinityFailedNoRoom",
+    "Text": "Your Stash Tab with the {0} Affinity does not have enough space for this item."
+  },
+  {
+    "RowIndex": 555,
+    "Id": "FailedToAddMavenToMap",
+    "Text": "Failed to add the Maven to Map because: {0}"
+  },
+  {
+    "RowIndex": 556,
+    "Id": "RitualFragmentNotValidForUse",
+    "Text": "Activation failed. Blood-Soaked Effigies can only be used in Ritual League."
+  },
+  {
+    "RowIndex": 557,
+    "Id": "MapDeviceInvalidQuestState",
+    "Text": "Activation failed. You do not have the required quest state."
+  },
+  {
+    "RowIndex": 558,
+    "Id": "MapDeviceFull",
+    "Text": "Your Map Device is full."
+  },
+  {
+    "RowIndex": 559,
+    "Id": "AccountNotVerified",
+    "Text": "Account is not verified."
+  },
+  {
+    "RowIndex": 560,
+    "Id": "UltimatumTrialStarted",
+    "Text": "You cannot join a trial that has already begun."
+  },
+  {
+    "RowIndex": 561,
+    "Id": "RoyaleMatchEndedWonReward",
+    "Text": "Winner winner, Rhoa Dinner!\n Tier {0} Rhoa Dinner has been added to your Hideout Decorations."
+  },
+  {
+    "RowIndex": 562,
+    "Id": "RoyaleMatchEndedWon",
+    "Text": "Winner winner, Rhoa Dinner!\n Next Hideout Decoration reward in {0} victories."
+  },
+  {
+    "RowIndex": 563,
+    "Id": "RoyaleMatchEndedWonMax",
+    "Text": "Winner winner, Rhoa Dinner!"
+  },
+  {
+    "RowIndex": 564,
+    "Id": "RoyaleMatchEnded",
+    "Text": "{0} has won the match!"
+  },
+  {
+    "RowIndex": 565,
+    "Id": "RoyaleMatchEndedTeam",
+    "Text": "{0} and {1} have won the match!"
+  },
+  {
+    "RowIndex": 566,
+    "Id": "TradeNoteBlacklistedCharactersError",
+    "Text": "Your Trade Note contains illegal characters, please try again."
+  },
+  {
+    "RowIndex": 567,
+    "Id": "ExpeditionDetonatorNotInstanceOwner",
+    "Text": "Only the player who is the instance owner can interact with explosives or the detonator."
+  },
+  {
+    "RowIndex": 568,
+    "Id": "ActionTemporarilyDisabled",
+    "Text": "This action has been temporarily disabled."
+  },
+  {
+    "RowIndex": 569,
+    "Id": "CannotAccessGuildHideout",
+    "Text": "You cannot access that player's Guild Hideout because you are not a member of their Guild."
+  },
+  {
+    "RowIndex": 570,
+    "Id": "SettingDeliveryDetailsFailed",
+    "Text": "Failed to set Delivery Details: "
+  },
+  {
+    "RowIndex": 571,
+    "Id": "ExpeditionCurrencyNotification",
+    "Text": "Added {0}x {1} to your Expedition Locker"
+  },
+  {
+    "RowIndex": 572,
+    "Id": "GuildStashDisabled",
+    "Text": "The guild stash has been temporarily disabled."
+  },
+  {
+    "RowIndex": 573,
+    "Id": "TencentItcServerError",
+    "Text": "The ITC server reported an error."
+  },
+  {
+    "RowIndex": 574,
+    "Id": "OperationCancelled",
+    "Text": "Operation cancelled."
+  },
+  {
+    "RowIndex": 575,
+    "Id": "ConvertMapsPartialSuccess",
+    "Text": "Some maps could not be converted either due to lack of space, or no valid conversion found."
+  },
+  {
+    "RowIndex": 576,
+    "Id": "CannotPromoteEmptyStashToActive",
+    "Text": "You cannot promote an empty stash to active."
+  },
+  {
+    "RowIndex": 577,
+    "Id": "CannotFindActiveStashToReplace",
+    "Text": "Cannot find empty active stash of this type to replace. Please make sure you have loaded one and try again."
+  },
+  {
+    "RowIndex": 578,
+    "Id": "TencentUicServerError",
+    "Text": "Connection failed, please try again later."
+  },
+  {
+    "RowIndex": 579,
+    "Id": "PlayerKillCount1",
+    "Text": "You have killed 1 monster."
+  },
+  {
+    "RowIndex": 580,
+    "Id": "PlayerKillCountCapped",
+    "Text": "You have killed an uncountable number of monsters."
+  },
+  {
+    "RowIndex": 581,
+    "Id": "TencentActionFailedMarketBanned",
+    "Text": "Your actions have breached the terms of service and have negatively affected the normal operation of the game. You are banned from using the trade market for {0}."
+  },
+  {
+    "RowIndex": 582,
+    "Id": "TencentGlobalStatusError",
+    "Text": "System is under maintenance, please try again later."
+  },
+  {
+    "RowIndex": 583,
+    "Id": "WhisperFailed",
+    "Text": "Failed to send whisper to {0} because: {1}"
+  },
+  {
+    "RowIndex": 584,
+    "Id": "HideoutExportFailedLackingPermission",
+    "Text": "You do not have permission to export this Hideout."
+  },
+  {
+    "RowIndex": 585,
+    "Id": "CurrencyTradingPreventedDueToReview",
+    "Text": "You cannot trade currency or unique items to other players until your account has been reviewed. This process can take up to 24 hours."
+  },
+  {
+    "RowIndex": 586,
+    "Id": "PublicListingLockedDueToReview",
+    "Text": "You cannot publicly list items for sale until your account has been reviewed. This process can take up to 24 hours."
+  },
+  {
+    "RowIndex": 587,
+    "Id": "InteractErrorNotYourLakeStampingDevice",
+    "Text": "You cannot use this Mirrored Tablet."
+  },
+  {
+    "RowIndex": 588,
+    "Id": "SanctumStabilityError",
+    "Text": "Error: cannot join Sanctum area with no Resolve"
+  },
+  {
+    "RowIndex": 589,
+    "Id": "FeedbackNumber",
+    "Text": "Thanks for your feedback! Your reference number is {0}"
+  },
+  {
+    "RowIndex": 590,
+    "Id": "LootAllocationOptionDisabledInHardMode",
+    "Text": "Cannot set Item Allocation Mode in Ruthless leagues."
+  },
+  {
+    "RowIndex": 591,
+    "Id": "ExtraInventoryColumnsDisabledInHardMode",
+    "Text": "[DNT]Extra inventory columns are disabled in Ruthless leagues. CHINA ONLY NOT FOR WORLDWIDE REALM"
+  },
+  {
+    "RowIndex": 592,
+    "Id": "PathOfEnduranceDisabledInHardMode",
+    "Text": "[DNT]Path of Endurance is disabled in Ruthless leagues."
+  },
+  {
+    "RowIndex": 593,
+    "Id": "RelicCannotPlaceItemSanctumInProgressError",
+    "Text": "Relics cannot be changed while you have an active Sanctum."
+  },
+  {
+    "RowIndex": 594,
+    "Id": "CoinFlipHeads",
+    "Text": "{0} flips Heads!"
+  },
+  {
+    "RowIndex": 595,
+    "Id": "CoinFlipTails",
+    "Text": "{0} flips Tails!"
+  },
+  {
+    "RowIndex": 596,
+    "Id": "HideoutPvpInvalidPosition",
+    "Text": "The PvP arena is too close to your waypoint, PvP is disabled."
+  },
+  {
+    "RowIndex": 597,
+    "Id": "HideoutPvpEnded",
+    "Text": "Match ended, {0} wins!"
+  },
+  {
+    "RowIndex": 598,
+    "Id": "HideoutPvpEndedDraw",
+    "Text": "Match ended in a draw."
+  },
+  {
+    "RowIndex": 599,
+    "Id": "HideoutPvpCancelled",
+    "Text": "Match cancelled."
+  },
+  {
+    "RowIndex": 600,
+    "Id": "HideoutPvpDefeated",
+    "Text": "{0} was defeated!"
+  },
+  {
+    "RowIndex": 601,
+    "Id": "AccountNeedsToBeOffline",
+    "Text": "This operation requires the account to be offline."
+  },
+  {
+    "RowIndex": 602,
+    "Id": "AccountTransferInProgress",
+    "Text": "This account is currently transferring between instances. Try again soon."
+  },
+  {
+    "RowIndex": 603,
+    "Id": "SanctumAlreadyOpenedError",
+    "Text": "This Sanctum has already been opened, so it can no longer be joined."
+  },
+  {
+    "RowIndex": 604,
+    "Id": "CXInvalidRequest",
+    "Text": "Invalid request."
+  },
+  {
+    "RowIndex": 605,
+    "Id": "CXOrderDoesNotExist",
+    "Text": "Order does not exist."
+  },
+  {
+    "RowIndex": 606,
+    "Id": "CXOrderAlreadyClosed",
+    "Text": "Order is already closed."
+  },
+  {
+    "RowIndex": 607,
+    "Id": "CXOrderIsNotClosed",
+    "Text": "Order must be closed first."
+  },
+  {
+    "RowIndex": 608,
+    "Id": "CXMarketDisabled",
+    "Text": "The market is closed."
+  },
+  {
+    "RowIndex": 609,
+    "Id": "CXPendingTransactionOpen",
+    "Text": "Pending transaction in progress."
+  },
+  {
+    "RowIndex": 610,
+    "Id": "CXPendingChangeRollback",
+    "Text": "Pending transaction rolled back."
+  },
+  {
+    "RowIndex": 611,
+    "Id": "CXNoPendingCommit",
+    "Text": "No pending transaction found."
+  },
+  {
+    "RowIndex": 612,
+    "Id": "CXTooManyOrders",
+    "Text": "You have too many orders."
+  },
+  {
+    "RowIndex": 613,
+    "Id": "CXQueryOrderRateLimited",
+    "Text": "You must wait before querying more trades."
+  },
+  {
+    "RowIndex": 614,
+    "Id": "CXGenericQueryFailure",
+    "Text": "Trade query failed."
+  },
+  {
+    "RowIndex": 615,
+    "Id": "CXGenericOrderFailure",
+    "Text": "Failed to place order."
+  },
+  {
+    "RowIndex": 616,
+    "Id": "CXCouldNotFindSellItems",
+    "Text": "Could not find the items you are trying to sell."
+  },
+  {
+    "RowIndex": 617,
+    "Id": "InstanceClosingSoon",
+    "Text": "This instance will close in a few minutes. Please move to another area to avoid being disconnected."
+  },
+  {
+    "RowIndex": 618,
+    "Id": "NotEnoughGoldStorage",
+    "Text": "You cannot store this amount of gold."
+  },
+  {
+    "RowIndex": 619,
+    "Id": "AccountNotAuthorizedOnServer",
+    "Text": "This account is not authorized to access this server."
+  },
+  {
+    "RowIndex": 620,
+    "Id": "CharacterSentToVoidLeague",
+    "Text": "{0} (Level 100) was sent to the Void!"
+  },
+  {
+    "RowIndex": 621,
+    "Id": "MustMigrateGarena",
+    "Text": "This account must first be migrated from Garena to Hotcool."
+  },
+  {
+    "RowIndex": 622,
+    "Id": "GuildLeaderCannotLeave",
+    "Text": "You must promote another guild member to Leader before you can leave your guild."
+  },
+  {
+    "RowIndex": 623,
+    "Id": "NoHideoutSet",
+    "Text": "You do not have a hideout."
+  },
+  {
+    "RowIndex": 624,
+    "Id": "NotImplemented",
+    "Text": "Not implemented."
+  },
+  {
+    "RowIndex": 625,
+    "Id": "SonyWebApiBadRequest",
+    "Text": "Bad request."
+  },
+  {
+    "RowIndex": 626,
+    "Id": "SonyWebApiNotAuthorized",
+    "Text": "Not authorized."
+  },
+  {
+    "RowIndex": 627,
+    "Id": "SonyWebApiForbidden",
+    "Text": "Forbidden."
+  },
+  {
+    "RowIndex": 628,
+    "Id": "SonyWebApiAccessTokenExpired",
+    "Text": "Access token is expired."
+  },
+  {
+    "RowIndex": 629,
+    "Id": "SonyWebApiNotPermitted",
+    "Text": "No privileges to perform the operation."
+  },
+  {
+    "RowIndex": 630,
+    "Id": "SonyWebApiContextIdAlreadyRegistered",
+    "Text": "The specified ContextId has already been registered."
+  },
+  {
+    "RowIndex": 631,
+    "Id": "SonyWebApiServiceUnavailable",
+    "Text": "Service Unavailable."
+  },
+  {
+    "RowIndex": 632,
+    "Id": "SonyWebApiSessionManagerAlreadyJoinedPlayerSession",
+    "Text": "Already a member of the Player Session."
+  },
+  {
+    "RowIndex": 633,
+    "Id": "SonyWebApiSessionManagerPlayerSessionDoesNotExist",
+    "Text": "Player Session does not exist."
+  },
+  {
+    "RowIndex": 634,
+    "Id": "SonyWebApiSessionManagerBlockedUserExists",
+    "Text": "Blocked user exists."
+  },
+  {
+    "RowIndex": 635,
+    "Id": "SonyWebApiSessionManagerNotPermittedToJoinPlayerSession",
+    "Text": "Not permitted to join the session."
+  },
+  {
+    "RowIndex": 636,
+    "Id": "SonyWebApiSessionManagerNotMemberOfSession",
+    "Text": "Member not joined session."
+  },
+  {
+    "RowIndex": 637,
+    "Id": "SonyWebApiSessionManagerBlocked",
+    "Text": "Blocked."
+  },
+  {
+    "RowIndex": 638,
+    "Id": "SonyWebApiSessionManagerSessionFull",
+    "Text": "\tThe session is full."
+  },
+  {
+    "RowIndex": 639,
+    "Id": "MapDeviceMissingRecipeRequirement",
+    "Text": "Activation failed. To challenge the unleashed boss you must have defeated the regular version of this boss once before."
+  },
+  {
+    "RowIndex": 640,
+    "Id": "ReliquaryVaultKeyMissing",
+    "Text": "This mechanism is locked, you need a key to open it."
+  },
+  {
+    "RowIndex": 641,
+    "Id": "MapCraftingFailedCraftNoExtraContent",
+    "Text": "Activation failed. Extra Content cannot be added to this Map."
+  },
+  {
+    "RowIndex": 642,
+    "Id": "StopwatchElapsedTime",
+    "Text": "Elapsed Time: {0}"
+  },
+  {
+    "RowIndex": 643,
+    "Id": "StopwatchSplitTime",
+    "Text": "This Split: {0}"
+  },
+  {
+    "RowIndex": 644,
+    "Id": "AncestralTrialRosterFull",
+    "Text": "Maximum number of Warriors and Field Items reached. Please sell existing ones in order to purchase new ones."
+  },
+  {
+    "RowIndex": 645,
+    "Id": "AncestralTrialInventoryFull",
+    "Text": "Maximum number of Equipment Items reached. Please sell existing ones in order to purchase new ones."
+  },
+  {
+    "RowIndex": 646,
+    "Id": "LeagueFirstToAncestorRank",
+    "Text": "{0} is the first character to reach {1} Ranking in the Trial of the Ancestors!"
+  },
+  {
+    "RowIndex": 647,
+    "Id": "AncestralTrialMatchInProgress",
+    "Text": "Cannot enter the Halls of the Dead while a Trial of the Ancestors is in progress."
+  },
+  {
+    "RowIndex": 648,
+    "Id": "MapLethalAfterTimeBeginDeathCount",
+    "Text": "You must flee! The foundational memories of this place are dissolving!"
+  },
+  {
+    "RowIndex": 649,
+    "Id": "MapLethalAfterTimeFinalCountdown",
+    "Text": " {0}"
+  },
+  {
+    "RowIndex": 650,
+    "Id": "MapLethalAfterTimeKillPlayer",
+    "Text": "This place can no longer support life. I can only hope that you have already escaped."
+  },
+  {
+    "RowIndex": 651,
+    "Id": "MapLethalAfterTime75Percent",
+    "Text": "As I feared, this is not a stable map. You have already expended a quarter of your time here."
+  },
+  {
+    "RowIndex": 652,
+    "Id": "MapLethalAfterTime50Percent",
+    "Text": "The integrity of the area has fractured by half."
+  },
+  {
+    "RowIndex": 653,
+    "Id": "MapLethalAfterTime25Percent",
+    "Text": "Time is almost up. A mere quarter remains!"
+  },
+  {
+    "RowIndex": 654,
+    "Id": "MapLethalAfterTimeCompletion",
+    "Text": "The danger has passed. This place is safe now... or as safe as the Atlas can be."
+  },
+  {
+    "RowIndex": 655,
+    "Id": "MapLethalAfterTimeEntrance",
+    "Text": "My dear Zana, you must not linger in this place. It is more dream than real. I will imprint what warnings I can."
+  },
+  {
+    "RowIndex": 656,
+    "Id": "MapDeviceCannotUseFragmentWithMapTier",
+    "Text": "Activation failed. {0} cannot apply to a Map of this tier."
+  },
+  {
+    "RowIndex": 657,
+    "Id": "CharacterNotUsableInCouchCoop",
+    "Text": "This Character cannot be used in Couch Co-Op"
+  },
+  {
+    "RowIndex": 658,
+    "Id": "ReceivedWeaponSpecialisationPoint1",
+    "Text": "You have received a Weapon Set Passive Skill Point."
+  },
+  {
+    "RowIndex": 659,
+    "Id": "ReceivedWeaponSpecialisationPointN",
+    "Text": "You have received {0} Weapon Set Passive Skill Points."
+  },
+  {
+    "RowIndex": 660,
+    "Id": "DemoComplete",
+    "Text": "Congratulations, you have finished the demo! Thanks for playing!"
+  },
+  {
+    "RowIndex": 661,
+    "Id": "DemoDisconnectWarning",
+    "Text": "You will be returned to the title screen in 20 seconds..."
+  },
+  {
+    "RowIndex": 662,
+    "Id": "DemoTimeUp",
+    "Text": "Your time is up. Thanks for playing!"
+  },
+  {
+    "RowIndex": 663,
+    "Id": "InteractErrorSacrificialHeart",
+    "Text": "It seems to require some kind of heart."
+  },
+  {
+    "RowIndex": 664,
+    "Id": "InteractErrorSacrificialDagger",
+    "Text": "It seems to require some kind of dagger."
+  },
+  {
+    "RowIndex": 665,
+    "Id": "CannotRejoinAreaAfterDeath",
+    "Text": "You cannot rejoin this area after dying."
+  },
+  {
+    "RowIndex": 666,
+    "Id": "INTLFailedToGetLoginInfo",
+    "Text": "Failed to get login information"
+  },
+  {
+    "RowIndex": 667,
+    "Id": "InteractErrorDoorIsOneWay",
+    "Text": "[DNT] The door does not open from this side."
+  },
+  {
+    "RowIndex": 668,
+    "Id": "InteractErrorDoorRequiresKey1",
+    "Text": "[DNT] The Martyr Relief is flecked with gold, as though it once held a golden sceptre."
+  },
+  {
+    "RowIndex": 669,
+    "Id": "InteractErrorDoorRequiresKey2",
+    "Text": "[DNT] The Painter Relief is flecked with gold, as though it once held a golden palette."
+  },
+  {
+    "RowIndex": 670,
+    "Id": "InteractErrorDoorRequiresKey3",
+    "Text": "[DNT] The Scholar relief is flecked with gold, as though it once held a golden tome."
+  },
+  {
+    "RowIndex": 671,
+    "Id": "InteractErrorDoorRequiresKey4",
+    "Text": "[DNT] The Bard relief is flecked with gold, as though it once held a golden lyre."
+  },
+  {
+    "RowIndex": 672,
+    "Id": "InteractErrorDominusSecretPassage",
+    "Text": "[DNT] The bust of Dominus is flecked with gold, as though it once wore a golden crown."
+  },
+  {
+    "RowIndex": 673,
+    "Id": "QuestRewardConsumeMessage",
+    "Text": "Removed from Inventory:\r\n{0}"
+  },
+  {
+    "RowIndex": 674,
+    "Id": "CannotDisenchantEquippedItem",
+    "Text": "Cannot disenchant this item because it is equipped."
+  },
+  {
+    "RowIndex": 675,
+    "Id": "CrossplayRequestRejected",
+    "Text": "Request rejected due to your cross platform limitations."
+  },
+  {
+    "RowIndex": 676,
+    "Id": "CrossplayRequestRejectedByCounterpart",
+    "Text": "Request rejected due to counterpart cross platform limitations."
+  },
+  {
+    "RowIndex": 677,
+    "Id": "CrossplayRequestIgnored",
+    "Text": "Incoming request ignored due to your cross platform limitations."
+  },
+  {
+    "RowIndex": 678,
+    "Id": "AccountMergeFailed",
+    "Text": "Failed to merge accounts."
+  },
+  {
+    "RowIndex": 679,
+    "Id": "AccountUnmergeFailed",
+    "Text": "Failed to unmerge accounts."
+  },
+  {
+    "RowIndex": 680,
+    "Id": "AccountNameUnavailable",
+    "Text": "This account name is unavailable."
+  },
+  {
+    "RowIndex": 681,
+    "Id": "NotEnoughPortalsForParty",
+    "Text": "Not enough portals for entry."
+  }
+]

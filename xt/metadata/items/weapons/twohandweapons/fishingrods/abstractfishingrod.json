@@ -1,0 +1,179 @@
+{
+  "Path": "metadata/items/weapons/twohandweapons/fishingrods/abstractfishingrod",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "remove_tag",
+          "Value": "weapon",
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "fishing_rod",
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "twohand",
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "weapon",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Sockets",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "socket_info",
+          "Value": "1:5:100 2:5:100",
+          "Children": []
+        },
+        {
+          "Key": "socket_info",
+          "Value": "1:5:100",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "AttributeRequirements",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "strength_requirement",
+          "Value": 100,
+          "Children": []
+        },
+        {
+          "Key": "dexterity_requirement",
+          "Value": 0,
+          "Children": []
+        },
+        {
+          "Key": "intelligence_requirement",
+          "Value": 0,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "inventory_type",
+          "Value": "Weapon",
+          "Children": []
+        },
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "mod_stat_description_list",
+          "Value": "Metadata/StatDescriptions/advanced_mod_stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "normal",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "rare",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "unique",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Wieldable",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Weapon",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "minimum_attack_distance",
+          "Value": 0,
+          "Children": []
+        },
+        {
+          "Key": "maximum_attack_distance",
+          "Value": 3,
+          "Children": []
+        },
+        {
+          "Key": "minimum_damage",
+          "Value": 5,
+          "Children": []
+        },
+        {
+          "Key": "maximum_damage",
+          "Value": 10,
+          "Children": []
+        },
+        {
+          "Key": "weapon_speed",
+          "Value": 833,
+          "Children": []
+        },
+        {
+          "Key": "critical_chance",
+          "Value": 500,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Quality",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "max_quality",
+          "Value": 20,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    }
+  ]
+}

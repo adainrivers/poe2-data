@@ -1,0 +1,47 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/archmage",
+  "Entries": {
+    "archmage_all_damage_%_to_gain_as_lightning_to_grant_to_non_channelling_spells_per_100_max_mana": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Non-Channelling [Spell|Spells] [Gain] {0}% of Damage as extra [Lightning] damage for each 100 maximum Mana you have",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "archmage_max_mana_permyriad_to_add_to_non_channelled_spell_mana_cost": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Non-Channelling [Spell|Spells] cost an additional {0}% of your maximum Mana",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "archmage_non_channelled_spell_mana_cost_+": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Non-Channelling [Spell] additional Mana cost@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "archmage_all_damage_%_to_gain_as_lightning_to_grant_to_non_channelling_spells": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Non-Channelling [Spell] damage [Gain|Gained] as [Lightning]@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

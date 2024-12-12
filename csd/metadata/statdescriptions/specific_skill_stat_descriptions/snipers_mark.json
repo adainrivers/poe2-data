@@ -1,0 +1,56 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/snipers_mark",
+  "Entries": {
+    "active_skill_base_secondary_area_of_effect_radius": {
+      "Descriptions": []
+    },
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Maximum [Mark] duration is {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Maximum [Mark] duration is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "enemy_additional_critical_strike_multiplier_against_self": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[CriticalDamageBonus|Critical Damage Bonus] applied@+{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Next [Critical|Critical Hit] against Marked Enemy has {0:+d}% to [CriticalDamageBonus|Critical Damage Bonus]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Maximum [Mark] duration@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/mana_drain",
+  "Entries": {
+    "mana_drain_base_mana_leech_amount": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[ManaLeech|Leeches] {0} Mana",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "mana_drain_total_mana_leech_amount": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Mana [ManaLeech|Leeched] per cast@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

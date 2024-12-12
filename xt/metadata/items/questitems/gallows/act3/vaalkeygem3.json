@@ -1,0 +1,60 @@
+{
+  "Path": "metadata/items/questitems/gallows/act3/vaalkeygem3",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "tag",
+          "Value": "quest_item",
+          "Children": []
+        },
+        {
+          "Key": "x_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "quest_item",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Quest",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "grant_flag",
+          "Value": "SmallSoulCoreHeld3",
+          "Children": []
+        },
+        {
+          "Key": "remove_flag",
+          "Value": "SmallSoulCoreUsed3",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

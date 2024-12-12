@@ -1,0 +1,29 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channel_stampede/statset_2",
+  "Entries": {
+    "active_skill_base_secondary_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Detonates [JaggedGround|Jagged Ground] within {0} metre radius of Slam and each patch of [JaggedGround|Jagged Ground] detonated",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_secondary_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[JaggedGround|Jagged Ground] detonation radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

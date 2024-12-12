@@ -1,0 +1,75 @@
+{
+  "Path": "metadata/items/relics/abstractspecialrelic",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "x_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 2,
+          "Children": []
+        },
+        {
+          "Key": "description_text",
+          "Value": "ItemDescriptionSanctumSpecialRelic",
+          "Children": []
+        },
+        {
+          "Key": "always_account_bound",
+          "Value": true,
+          "Children": []
+        },
+        {
+          "Key": "propagates_account_bound_when_vendored",
+          "Value": false,
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/sanctum_relic_stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "inventory_type",
+          "Value": "SanctumSpecialRelic",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

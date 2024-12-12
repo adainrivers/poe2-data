@@ -1,0 +1,223 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "MissionFish",
+    "ArmFiles": [
+      "Metadata/Terrain/Missions/Fish/mission_room.arm"
+    ],
+    "TdtFiles": [
+      "Metadata/Terrain/Islands/Tiles/Island/Volcano/Pools_02.tdt"
+    ],
+    "Unk003": false,
+    "Unk004": [],
+    "Unk005": [
+      0
+    ],
+    "Unk006": null,
+    "WorldAreasKey": null,
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Shrine",
+    "ArmFiles": [
+      "Metadata/Terrain/generic_shrine.arm"
+    ],
+    "TdtFiles": [],
+    "Unk003": false,
+    "Unk004": [],
+    "Unk005": [
+      8
+    ],
+    "Unk006": null,
+    "WorldAreasKey": null,
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ExpeditionEncounter",
+    "ArmFiles": [
+      "Metadata/Terrain/Gallows/Leagues/Expedition/encounter.arm"
+    ],
+    "TdtFiles": [],
+    "Unk003": false,
+    "Unk004": [],
+    "Unk005": [
+      0
+    ],
+    "Unk006": null,
+    "WorldAreasKey": null,
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ExpeditionBossSideArea",
+    "ArmFiles": [
+      "Metadata/Terrain/Gallows/Leagues/Expedition/ExpeditionTerrainFeatures/Kalguur_Boss_Entrance_01.arm"
+    ],
+    "TdtFiles": [
+      "Metadata/Terrain/Leagues/Expedition/Tiles/TerrainFeatures/KalguurBossEntrance_01.tdt"
+    ],
+    "Unk003": false,
+    "Unk004": [
+      "link"
+    ],
+    "Unk005": [
+      8
+    ],
+    "Unk006": null,
+    "WorldAreasKey": {
+      "RowIndex": 369,
+      "TableName": "WorldAreas"
+    },
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ExpeditionSideAreaKalguur",
+    "ArmFiles": [
+      "Metadata/Terrain/Gallows/Leagues/Expedition/ExpeditionTerrainFeatures/Kalguur_Entrance_01.arm"
+    ],
+    "TdtFiles": [
+      "Metadata/Terrain/Leagues/Expedition/Tiles/TerrainFeatures/KalguurEntrance_01.tdt"
+    ],
+    "Unk003": false,
+    "Unk004": [
+      "link"
+    ],
+    "Unk005": [
+      8
+    ],
+    "Unk006": null,
+    "WorldAreasKey": {
+      "RowIndex": 368,
+      "TableName": "WorldAreas"
+    },
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ExpeditionSideAreaCavern",
+    "ArmFiles": [
+      "Metadata/Terrain/Gallows/Leagues/Expedition/ExpeditionTerrainFeatures/Cavern_Entrance_01.arm"
+    ],
+    "TdtFiles": [
+      "Metadata/Terrain/Leagues/Expedition/Tiles/TerrainFeatures/CavernEntrance_01.tdt"
+    ],
+    "Unk003": false,
+    "Unk004": [
+      "link"
+    ],
+    "Unk005": [
+      8
+    ],
+    "Unk006": null,
+    "WorldAreasKey": {
+      "RowIndex": 367,
+      "TableName": "WorldAreas"
+    },
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ExpeditionSideAreaPrecursor",
+    "ArmFiles": [
+      "Metadata/Terrain/Gallows/Leagues/Expedition/ExpeditionTerrainFeatures/Precursor_Entrance_01.arm"
+    ],
+    "TdtFiles": [
+      "Metadata/Terrain/Leagues/Expedition/Tiles/TerrainFeatures/PrecursorEntrance_01.tdt"
+    ],
+    "Unk003": false,
+    "Unk004": [
+      "link"
+    ],
+    "Unk005": [
+      8
+    ],
+    "Unk006": null,
+    "WorldAreasKey": {
+      "RowIndex": 370,
+      "TableName": "WorldAreas"
+    },
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ExpeditionSideAreaShrike",
+    "ArmFiles": [
+      "Metadata/Terrain/Gallows/Leagues/Expedition/ExpeditionTerrainFeatures/Shrike_Entrance_01.arm"
+    ],
+    "TdtFiles": [
+      "Metadata/Terrain/Leagues/Expedition/Tiles/TerrainFeatures/ShrikeEntrance_01.tdt"
+    ],
+    "Unk003": false,
+    "Unk004": [
+      "link"
+    ],
+    "Unk005": [
+      8
+    ],
+    "Unk006": null,
+    "WorldAreasKey": {
+      "RowIndex": 371,
+      "TableName": "WorldAreas"
+    },
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 8,
+    "Id": "ExpeditionSideAreaVolcano",
+    "ArmFiles": [
+      "Metadata/Terrain/Gallows/Leagues/Expedition/ExpeditionTerrainFeatures/Volcano_Entrance_01.arm"
+    ],
+    "TdtFiles": [
+      "Metadata/Terrain/Leagues/Expedition/Tiles/TerrainFeatures/VolcanoEntrance_01.tdt"
+    ],
+    "Unk003": false,
+    "Unk004": [
+      "link"
+    ],
+    "Unk005": [
+      8
+    ],
+    "Unk006": null,
+    "WorldAreasKey": {
+      "RowIndex": 373,
+      "TableName": "WorldAreas"
+    },
+    "Unk008": false,
+    "Unk009": 39
+  },
+  {
+    "RowIndex": 9,
+    "Id": "ExpeditionSideAreaSiren",
+    "ArmFiles": [
+      "Metadata/Terrain/Gallows/Leagues/Expedition/ExpeditionTerrainFeatures/Siren_Entrance_01.arm"
+    ],
+    "TdtFiles": [
+      "Metadata/Terrain/Leagues/Expedition/Tiles/TerrainFeatures/SirenEntrance_01.tdt"
+    ],
+    "Unk003": false,
+    "Unk004": [
+      "link"
+    ],
+    "Unk005": [
+      8
+    ],
+    "Unk006": null,
+    "WorldAreasKey": {
+      "RowIndex": 372,
+      "TableName": "WorldAreas"
+    },
+    "Unk008": false,
+    "Unk009": 39
+  }
+]

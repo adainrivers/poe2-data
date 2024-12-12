@@ -1,0 +1,88 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/glacial_cascade_attack",
+  "Entries": {
+    "base_secondary_skill_effect_duration": {
+      "Descriptions": []
+    },
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Burst radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Burst radius is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Burst radius is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "cascade_attack_base_total_distance": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Wave length is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Wave length is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "cascade_attack_total_distance": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Wave length@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "upheaval_number_of_spikes": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Bursts@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Causes {0} Bursts",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

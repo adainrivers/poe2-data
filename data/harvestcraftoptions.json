@@ -1,0 +1,1796 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ReforgeFire",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftingfire>{Fire} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "fire ON rare",
+    "Unk005": [],
+    "HASH16": -23579,
+    "Description": "Reforge a Rare item with random modifiers, including a Fire modifier",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ReforgeCold",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftingcold>{Cold} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "cold ON rare",
+    "Unk005": [],
+    "HASH16": -28242,
+    "Description": "Reforge a Rare item with random modifiers, including a Cold modifier",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ReforgeLightning",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftinglightning>{Lightning} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "lightning ON rare",
+    "Unk005": [],
+    "HASH16": 14935,
+    "Description": "Reforge a Rare item with random modifiers, including a Lightning modifier",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ReforgePhysical",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftingphysical>{Physical} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "physical ON rare",
+    "Unk005": [],
+    "HASH16": 28183,
+    "Description": "Reforge a Rare item with random modifiers, including a Physical modifier",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ReforgeLife",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftinglife>{Life} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "life ON rare",
+    "Unk005": [],
+    "HASH16": 20366,
+    "Description": "Reforge a Rare item with random modifiers, including a Life modifier",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ReforgeDefences",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftingdefences>{Defence} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "defences ON rare",
+    "Unk005": [],
+    "HASH16": 23252,
+    "Description": "Reforge a Rare item with random modifiers, including a Defence modifier",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ReforgeChaos",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftingchaos>{Chaos} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "chaos ON rare",
+    "Unk005": [],
+    "HASH16": -98,
+    "Description": "Reforge a Rare item with random modifiers, including a Chaos modifier",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 100,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ReforgeAttack",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including an <craftingattack>{Attack} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "attack ON rare",
+    "Unk005": [],
+    "HASH16": 32708,
+    "Description": "Reforge a Rare item with random modifiers, including an Attack modifier",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 8,
+    "Id": "ReforgeSpell",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftingcaster>{Caster} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "caster ON rare",
+    "Unk005": [],
+    "HASH16": 23060,
+    "Description": "Reforge a Rare item with random modifiers, including a Caster modifier",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 9,
+    "Id": "ReforgeSpeed",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftingspeed>{Speed} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "speed ON rare",
+    "Unk005": [],
+    "HASH16": 21212,
+    "Description": "Reforge a Rare item with random modifiers, including a Speed modifier",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 150,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ReforgeCritical",
+    "Text": "<white>{Reforge} a Rare item with random modifiers, including a <craftingcrit>{Critical} modifier",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "critical ON rare",
+    "Unk005": [],
+    "HASH16": 23575,
+    "Description": "Reforge a Rare item with random modifiers, including a Critical modifier",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 150,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ReforgeMoreLikely",
+    "Text": "<white>{Reforge} a <white>{Rare} item, being <white>{more likely} to receive the same modifier types",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_current_tags_affinity_multiplier",
+    "Parameters": "900",
+    "Unk005": [],
+    "HASH16": -31724,
+    "Description": "Reforge a Rare item, being more likely to receive the same modifier types",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 12,
+    "Id": "ReforgeLessLikely",
+    "Text": "<white>{Reforge} a <white>{Rare} item, being <white>{less likely} to receive the same modifier types",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_current_tags_affinity_multiplier",
+    "Parameters": "-90",
+    "Unk005": [],
+    "HASH16": -29703,
+    "Description": "Reforge a Rare item, being less likely to receive the same modifier types",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 13,
+    "Id": "RerollCorruptedMap",
+    "Text": "<white>{Sacrifice} a Rare <white>{Corrupted Map}. Create a new Corrupted Map of the same tier and rarity.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "sacrifice_corrupted_map_for_new_corrupted_map",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": 24110,
+    "Description": "Sacrifice a Rare Corrupted Map. Create a new Corrupted Map of the same tier and rarity.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 14,
+    "Id": "RerollFossils",
+    "Text": "<white>{Change} a stack of <white>{Fossils} into a different type of Fossil. The new Fossil type may have a smaller stack size. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "delvefossils",
+    "Unk005": [],
+    "HASH16": 13053,
+    "Description": "Change a stack of Fossils into a different type of Fossil. The new Fossil type may have a smaller stack size. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 15,
+    "Id": "RerollOils",
+    "Text": "<white>{Change} a stack of <white>{Oils} into a different colour of Oil. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "mushrune",
+    "Unk005": [],
+    "HASH16": 28656,
+    "Description": "Change a stack of Oils into a different colour of Oil. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 16,
+    "Id": "RerollCatalysts",
+    "Text": "<white>{Change} a stack of <white>{Catalysts} into a different type of Catalyst. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "metamorphcatalystsspecial",
+    "Unk005": [],
+    "HASH16": 2794,
+    "Description": "Change a stack of Catalysts into a different type of Catalyst. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 17,
+    "Id": "RerollEssences",
+    "Text": "<white>{Change} a stack of <white>{Essences} into a different type of the same tier. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_essences_for_other_essence_of_same_tier",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": 15838,
+    "Description": "Change a stack of Essences into a different type of the same tier. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 18,
+    "Id": "RerollTimelessSplinters",
+    "Text": "<white>{Change} a stack of <white>{Timeless Splinters} or a <white>{Timeless Emblem} into Splinters or an Emblem of another type. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestTimelessSplinterExchange HarvestTimelessEmblemExchange",
+    "Unk005": [],
+    "HASH16": 32762,
+    "Description": "Change a stack of Timeless Splinters or a Timeless Emblem into Splinters or an Emblem of another type. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 4,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 19,
+    "Id": "RerollBreachSplinters",
+    "Text": "<white>{Change} a stack of <white>{Breach Splinters} or a normal or Flawless <white>{Breachstone} into Splinters or a Breachstone of another type. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestBreachSplinterExchange HarvestBreachStoneExchange\r\nHarvestBreachStoneExchange5",
+    "Unk005": [],
+    "HASH16": -15939,
+    "Description": "Change a stack of Breach Splinters or a normal or Flawless Breachstone into Splinters or a Breachstone of another type. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 4,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 20,
+    "Id": "RerollScarabs",
+    "Text": "<white>{Change} a stack of <white>{Scarabs} to a different type of the same rarity. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "change_scarab_into_other_of_same_tier",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -23124,
+    "Description": "Change a stack of Scarabs to a different type of the same rarity. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 21,
+    "Id": "RerollDeliriumOrbs",
+    "Text": "<white>{Change} a stack of <white>{Delirium Orbs} into a different type of Delirium Orb. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "afflictionorbs",
+    "Unk005": [],
+    "HASH16": 32501,
+    "Description": "Change a stack of Delirium Orbs into a different type of Delirium Orb. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 22,
+    "Id": "RerollDivinationCards",
+    "Text": "<white>{Change} a <white>{Divination Card} into another random Divination Card",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_into_new_div_card",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -31678,
+    "Description": "Change a Divination Card into another random Divination Card",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 23,
+    "Id": "ChangeColdToFireResist",
+    "Text": "<white>{Change} a modifier that grants <craftingcold>{Cold} Resistance into a similar-tier modifier that grants <craftingfire>{Fire} Resistance",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold fire",
+    "Unk005": [],
+    "HASH16": -27935,
+    "Description": "Change a modifier that grants Cold Resistance into a similar-tier modifier that grants Fire Resistance",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 24,
+    "Id": "ChangeLightningToFireResist",
+    "Text": "<white>{Change} a modifier that grants <craftinglightning>{Lightning} Resistance into a similar-tier modifier that grants <craftingfire>{Fire} Resistance",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning fire",
+    "Unk005": [],
+    "HASH16": -10882,
+    "Description": "Change a modifier that grants Lightning Resistance into a similar-tier modifier that grants Fire Resistance",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 25,
+    "Id": "ChangeFireToColdResist",
+    "Text": "<white>{Change} a modifier that grants <craftingfire>{Fire} Resistance into a similar-tier modifier that grants <craftingcold>{Cold} Resistance",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire cold",
+    "Unk005": [],
+    "HASH16": 15550,
+    "Description": "Change a modifier that grants Fire Resistance into a similar-tier modifier that grants Cold Resistance",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 26,
+    "Id": "ChangeLightningToColdResist",
+    "Text": "<white>{Change} a modifier that grants <craftinglightning>{Lightning} Resistance into a similar-tier modifier that grants <craftingcold>{Cold} Resistance",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning cold",
+    "Unk005": [],
+    "HASH16": 27983,
+    "Description": "Change a modifier that grants Lightning Resistance into a similar-tier modifier that grants Cold Resistance",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 27,
+    "Id": "ChangeFireToLightningResist",
+    "Text": "<white>{Change} a modifier that grants <craftingfire>{Fire} Resistance into a similar-tier modifier that grants <craftinglightning>{Lightning} Resistance",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire lightning",
+    "Unk005": [],
+    "HASH16": 5400,
+    "Description": "Change a modifier that grants Fire Resistance into a similar-tier modifier that grants Lightning Resistance",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ChangeColdToLightningResist",
+    "Text": "<white>{Change} a modifier that grants <craftingcold>{Cold} Resistance into a similar-tier modifier that grants <craftinglightning>{Lightning} Resistance",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold lightning",
+    "Unk005": [],
+    "HASH16": 25638,
+    "Description": "Change a modifier that grants Cold Resistance into a similar-tier modifier that grants Lightning Resistance",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 29,
+    "Id": "FlaskDurationEnchant",
+    "Text": "<white>{Enchant} a <white>{Flask} with a modifier that grants <enchanted>{increased Duration}. The magnitude of this effect decreases with each use",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentDurationLoweredOnUse1_",
+    "Unk005": [],
+    "HASH16": -252,
+    "Description": "Enchant a Flask with a modifier that grants increased Duration. The magnitude of this effect decreases with each use",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 30,
+    "Id": "FlaskChargeEnchant",
+    "Text": "<white>{Enchant} a <white>{Flask} with a modifier that grants <enchanted>{increased Maximum Charges}. The magnitude of this effect decreases with each use",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentMaximumChargesLoweredOnUse3_",
+    "Unk005": [],
+    "HASH16": -5223,
+    "Description": "Enchant a Flask with a modifier that grants increased Maximum Charges. The magnitude of this effect decreases with each use",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 31,
+    "Id": "FlaskEffectEnchant",
+    "Text": "<white>{Enchant} a <white>{Flask} with a modifier that grants <enchanted>{increased Effect}. The magnitude of this effect decreases with each use",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentEffectLoweredOnUse2",
+    "Unk005": [],
+    "HASH16": 10125,
+    "Description": "Enchant a Flask with a modifier that grants increased Effect. The magnitude of this effect decreases with each use",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 32,
+    "Id": "FlaskReducedEnchant",
+    "Text": "<white>{Enchant} a <white>{Flask} with a modifier that grants <enchanted>{reduced Charges used}. The magnitude of this effect decreases with each use",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentChargesUsedLoweredOnUse4",
+    "Unk005": [],
+    "HASH16": -4863,
+    "Description": "Enchant a Flask with a modifier that grants reduced Charges used. The magnitude of this effect decreases with each use",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 33,
+    "Id": "RerollShaperFragment",
+    "Text": "<white>{Change} a stack of <white>{Shaper Fragments} into other random Shaper Fragments. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestShaperFragmentExchange",
+    "Unk005": [],
+    "HASH16": -10216,
+    "Description": "Change a Shaper Fragment into another random Shaper Fragment. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 34,
+    "Id": "RerollElderFragment",
+    "Text": "<white>{Change} a stack of <white>{Elder Fragments} into other random Elder Fragments. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestElderFragmentExchange",
+    "Unk005": [],
+    "HASH16": 23189,
+    "Description": "Change an Elder Fragment into another random Elder Fragment. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 35,
+    "Id": "RerollConquerorFragment",
+    "Text": "<white>{Change} a stack of <white>{Conqueror Fragments} into other random Conqueror Fragments. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestConquerorFragmentExchange",
+    "Unk005": [],
+    "HASH16": -5205,
+    "Description": "Change a Conqueror Fragment into another random Conqueror Fragment. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 36,
+    "Id": "RerollAtziriFragment",
+    "Text": "<white>{Change} a stack of <white>{Sacrifice} or <white>{Mortal Fragments} into other random Fragments of that type. Cost is proportional to stack size.",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestSacrificeFragmentExchange HarvestMortalSacrificeFragmentExchange",
+    "Unk005": [],
+    "HASH16": -20408,
+    "Description": "Change a Sacrifice or Mortal Fragment into another random Fragment of that type. Cost is proportional to stack size.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 37,
+    "Id": "DivinationCardGamble",
+    "Text": "<white>{Sacrifice} up to half a stack of <white>{Divination Cards} to receive between 0 and twice that amount of the same Card",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_num_div_cards",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -25855,
+    "Description": "Sacrifice up to half a stack of Divination Cards to receive between 0 and twice that amount of the same Card",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 1500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 38,
+    "Id": "MapNoSextantEnchant",
+    "Text": "<white>{Enchant} a non-Unique <white>{Map} with <enchanted>{Map has 50% chance to not consume Sextant Uses}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_mod_to_map",
+    "Parameters": "sextant",
+    "Unk005": [],
+    "HASH16": -25153,
+    "Description": "Enchant a non-Unique Map with Map has 50% chance to not consume Sextant Uses",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 2500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 39,
+    "Id": "GemExperienceLens",
+    "Text": "<white>{Sacrifice} a <white>{Corrupted Gem} to gain 50% of the gem's total experience stored as a <white>{Facetor's Lens}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "sacrifice_gem_for_currency",
+    "Parameters": "experience 50",
+    "Unk005": [],
+    "HASH16": 10753,
+    "Description": "Sacrifice a Corrupted Gem to gain 50% of the gem's total experience stored as a Facetor's Lens",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 4000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 40,
+    "Id": "RerollInfluenceType",
+    "Text": "<white>{Randomise} the <white>{Influence} types on an Influenced Normal, Magic or Rare <white>{Item}, as well as <white>{reforging} the item with new random modifiers",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_influence_types",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre Quiver Gloves Boots Body_Armour Helmet Shield Amulet Ring Belt",
+    "Unk005": [],
+    "HASH16": -21746,
+    "Description": "Randomise the Influence types on an Influenced Normal, Magic or Rare Item, as well as reforging the item with new random modifiers",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 1000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 41,
+    "Id": "LifeBodyEnchant",
+    "Text": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Maximum Life per 2% quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedLife",
+    "Unk005": [],
+    "HASH16": 17730,
+    "Description": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Maximum Life per 2% quality",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 42,
+    "Id": "ManaBodyEnchant",
+    "Text": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Maximum Mana per 2% quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedMana",
+    "Unk005": [],
+    "HASH16": 21682,
+    "Description": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Maximum Mana per 2% quality",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 43,
+    "Id": "StrengthBodyEnchant",
+    "Text": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Strength per 2% quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityStrength",
+    "Unk005": [],
+    "HASH16": 14593,
+    "Description": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Strength per 2% quality",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 44,
+    "Id": "DexterityBodyEnchant",
+    "Text": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Dexterity per 2% quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityDexterity",
+    "Unk005": [],
+    "HASH16": -29172,
+    "Description": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Dexterity per 2% quality",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 45,
+    "Id": "IntelligenceBodyEnchant",
+    "Text": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1 Intelligence per 2% quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIntelligence_",
+    "Unk005": [],
+    "HASH16": 23036,
+    "Description": "Enchant a Body Armour. Quality does not increase its Defences, grants +1 Intelligence per 2% quality",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 46,
+    "Id": "FireResistBodyEnchant",
+    "Text": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1% to Fire Resistance per 2% quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityFireResistance",
+    "Unk005": [],
+    "HASH16": 21330,
+    "Description": "Enchant a Body Armour. Quality does not increase its Defences, grants +1% to Fire Resistance per 2% quality",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 47,
+    "Id": "ColdResistBodyEnchant",
+    "Text": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1% to Cold Resistance per 2% quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityColdResistance",
+    "Unk005": [],
+    "HASH16": -976,
+    "Description": "Enchant a Body Armour. Quality does not increase its Defences, grants +1% to Cold Resistance per 2% quality",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 48,
+    "Id": "LightningResistBodyEnchant",
+    "Text": "<white>{Enchant} a <white>{Body Armour}. Quality does not increase its Defences, grants <enchanted>{+1% to Lightning Resistance per 2% quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityLightningResistance",
+    "Unk005": [],
+    "HASH16": 17121,
+    "Description": "Enchant a Body Armour. Quality does not increase its Defences, grants +1% to Lightning Resistance per 2% quality",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 49,
+    "Id": "WeaponRangeEnchant",
+    "Text": "<white>{Enchant} a <white>{Melee Weapon}. Quality does not increase its Physical Damage, has <enchanted>{+1 Weapon Range per 10% Quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalMeleeWeaponRange_",
+    "Unk005": [],
+    "HASH16": -21229,
+    "Description": "Enchant a Melee Weapon. Quality does not increase its Physical Damage, has +1 Weapon Range per 10% Quality",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 50,
+    "Id": "WeaponAreaEnchant",
+    "Text": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, grants <enchanted>{1% increased Area of Effect per 4% Quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAreaOfEffect_",
+    "Unk005": [],
+    "HASH16": 8767,
+    "Description": "Enchant a Weapon. Quality does not increase its Physical Damage, grants 1% increased Area of Effect per 4% Quality",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WeaponAccuracyEnchant",
+    "Text": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, grants <enchanted>{1% increased Accuracy per 2% Quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAccuracyRatingIncrease_",
+    "Unk005": [],
+    "HASH16": -6758,
+    "Description": "Enchant a Weapon. Quality does not increase its Physical Damage, grants 1% increased Accuracy per 2% Quality",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 52,
+    "Id": "WeaponAttackSpeedEnchant",
+    "Text": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, has <enchanted>{1% increased Attack Speed per 8% Quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalIncreasedAttackSpeed",
+    "Unk005": [],
+    "HASH16": -11016,
+    "Description": "Enchant a Weapon. Quality does not increase its Physical Damage, has 1% increased Attack Speed per 8% Quality",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 53,
+    "Id": "WeaponCriticalEnchant",
+    "Text": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, has <enchanted>{1% increased Critical Strike Chance per 4% Quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalCriticalStrikeChance__",
+    "Unk005": [],
+    "HASH16": 22104,
+    "Description": "Enchant a Weapon. Quality does not increase its Physical Damage, has 1% increased Critical Strike Chance per 4% Quality",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 54,
+    "Id": "WeaponElementalEnchant",
+    "Text": "<white>{Enchant} a <white>{Weapon}. Quality does not increase its Physical Damage, grants <enchanted>{1% increased Elemental Damage per 2% Quality}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityElementalDamagePercent",
+    "Unk005": [],
+    "HASH16": -13278,
+    "Description": "Enchant a Weapon. Quality does not increase its Physical Damage, grants 1% increased Elemental Damage per 2% Quality",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 55,
+    "Id": "ReforgeWhiteSocket",
+    "Text": "<white>{Reforge} the colour of a random <white>{socket} on an item, turning it <white>{White}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "modify_socket_colors",
+    "Parameters": "W",
+    "Unk005": [],
+    "HASH16": 29639,
+    "Description": "Reforge the colour of a random socket on an item, turning it White",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 12500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 56,
+    "Id": "AugmentFire",
+    "Text": "<white>{Add} a new <craftingfire>{Fire} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR fire noinfluence",
+    "Unk005": [],
+    "HASH16": 18538,
+    "Description": "Add a new Fire modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AugmentCold",
+    "Text": "<white>{Add} a new <craftingcold>{Cold} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR cold noinfluence",
+    "Unk005": [],
+    "HASH16": 5398,
+    "Description": "Add a new Cold modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 58,
+    "Id": "AugmentLightning",
+    "Text": "<white>{Add} a new <craftinglightning>{Lightning} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR lightning noinfluence",
+    "Unk005": [],
+    "HASH16": -31624,
+    "Description": "Add a new Lightning modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 59,
+    "Id": "AugmentPhysical",
+    "Text": "<white>{Add} a new <craftingphysical>{Physical} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR physical noinfluence",
+    "Unk005": [],
+    "HASH16": 30284,
+    "Description": "Add a new Physical modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 60,
+    "Id": "AugmentLife",
+    "Text": "<white>{Add} a new <craftinglife>{Life} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR life noinfluence",
+    "Unk005": [],
+    "HASH16": 20827,
+    "Description": "Add a new Life modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 61,
+    "Id": "AugmentDefences",
+    "Text": "<white>{Add} a new <craftingdefences>{Defence} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR defences noinfluence",
+    "Unk005": [],
+    "HASH16": -25086,
+    "Description": "Add a new Defence modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 62,
+    "Id": "AugmentChaos",
+    "Text": "<white>{Add} a new <craftingchaos>{Chaos} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR chaos noinfluence",
+    "Unk005": [],
+    "HASH16": 16260,
+    "Description": "Add a new Chaos modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 63,
+    "Id": "AugmentAttack",
+    "Text": "<white>{Add} a new <craftingattack>{Attack} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR attack noinfluence",
+    "Unk005": [],
+    "HASH16": -9969,
+    "Description": "Add a new Attack modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 64,
+    "Id": "AugmentSpell",
+    "Text": "<white>{Add} a new <craftingcaster>{Caster} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR caster noinfluence",
+    "Unk005": [],
+    "HASH16": -8685,
+    "Description": "Add a new Caster modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 65,
+    "Id": "AugmentSpeed",
+    "Text": "<white>{Add} a new <craftingspeed>{Speed} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR speed noinfluence",
+    "Unk005": [],
+    "HASH16": -8802,
+    "Description": "Add a new Speed modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 20000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 66,
+    "Id": "AugmentCritical",
+    "Text": "<white>{Add} a new <craftingcrit>{Critical} modifier and <white>{remove} another random modifier from a non-Influenced item",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR critical noinfluence",
+    "Unk005": [],
+    "HASH16": 22594,
+    "Description": "Add a new Critical modifier and remove another random modifier from a non-Influenced item",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 20000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 67,
+    "Id": "BossSynthesis1",
+    "Text": "<white>{Synthesise} an item, giving random Synthesised implicits. Cannot be used on Unique, Influenced, Synthesised or Fractured items",
+    "Tier": {
+      "RowIndex": 3,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_synthesized_implicits",
+    "Parameters": "12 3 1",
+    "Unk005": [],
+    "HASH16": -9469,
+    "Description": "Synthesise an item, giving random Synthesised implicits. Cannot be used on Unique, Influenced, Synthesised or Fractured items",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 68,
+    "Id": "BossInfluence1",
+    "Text": "<white>{Reforge} an <white>{Influenced} Rare item with random modifiers, including a <white>{Influence} modifier",
+    "Tier": {
+      "RowIndex": 3,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_influence_mod",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -30265,
+    "Description": "Reforge an Influenced Rare item with random modifiers, including a Influence modifier",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems"
+      }
+    ],
+    "Unk014": 1
+  }
+]

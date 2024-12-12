@@ -1,0 +1,41 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/sorcery_ward",
+  "Entries": {
+    "spell_uncastable_if_triggerable": {
+      "Descriptions": []
+    },
+    "no_cost": {
+      "Descriptions": []
+    },
+    "aegis_recharge_delay_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1|# table_only",
+          "Description": "Barrier recharge delay@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "1|#",
+          "Description": "Barrier recharges after {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "aegis_unique_shield_max_value_from_%_armour_evasion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[ElementalDamage|Elemental Damage] from [HitDamage|Hits] is taken from the Barrier before your Life, Mana or [EnergyShield|Energy Shield]\\nBarrier can take [ElementalDamage|Elemental Damage] up to {0}% of your [Armour] and [Evasion|Evasion Rating]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

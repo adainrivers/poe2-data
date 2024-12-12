@@ -1,0 +1,76 @@
+{
+  "Path": "metadata/items/memorylines/memorylinebase",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "x_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "description_text",
+          "Value": "MemoryLinesDescription",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/atlas_stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Usable",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "use_type",
+          "Value": "ApplyToAtlas",
+          "Children": []
+        },
+        {
+          "Key": "action",
+          "Value": "add_memory_line",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

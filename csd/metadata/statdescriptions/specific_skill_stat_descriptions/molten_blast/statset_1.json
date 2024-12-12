@@ -1,0 +1,18 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/molten_blast/statset_1",
+  "Entries": {
+    "base_skill_effect_duration": {
+      "Descriptions": []
+    },
+    "total_number_of_projectiles_to_fire": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Projectile|Projectiles] fired per explosion@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

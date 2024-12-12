@@ -1,0 +1,69 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/incinerate_player/statset_0",
+  "Entries": {
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cone length@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Cone length is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Cone length is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "incinerate_damage_+%_final_per_stage": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More damage per stage@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Deals {0}% more damage per stage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "incinerate_maximum_stages": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Maximum stages@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "{0} maximum stages",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

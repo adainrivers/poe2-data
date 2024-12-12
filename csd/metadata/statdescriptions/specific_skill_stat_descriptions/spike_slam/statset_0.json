@@ -1,0 +1,61 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/spike_slam/statset_0",
+  "Entries": {
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Emerge damage radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Deals damage along the fissure's path and in a\\n{0} metre radius around the emerging spike",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Spike duration is {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Spike duration is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Spike duration@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

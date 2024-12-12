@@ -1,0 +1,84 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/mana_tempest",
+  "Entries": {
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": []
+    },
+    "mana_costing_lightning_spells_number_of_additional_beam_chains": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Lightning] [Spell] [Chain|Chains] granted@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1",
+          "Description": "Buff causes [Lightning] [Spell|Spells] that cost Mana to [Chain] an additional time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Buff causes [Lightning] [Spell|Spells] that cost Mana to [Chain] {0} additional times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "mana_costing_lightning_spells_number_of_additional_beam_splits": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Additional [Chain] targets granted@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1",
+          "Description": "Buff causes [Lightning|Lightning] [Spell|Spells] that cost Mana to also [Chain|Chain] to {0:+d} target when [Chain|Chaining], but not [Chain|Chain] further from them",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Buff causes [Lightning|Lightning] [Spell|Spells] that cost Mana to also [Chain|Chain] to {0:+d} targets when [Chain|Chaining], but not [Chain|Chain] further from them",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "mana_costing_lightning_spells_projectiles_fork": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Causes [Lightning|Lightning] [Spell] [Projectile|Projectiles] to [Fork|Fork]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "[Projectile|Projectiles] from [Empowered] [Lightning|Lightning] [Spell|Spells] [Fork|Fork]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "mana_tempest_mana_cost_%_to_add_to_cost_per_second": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Mana cost inherited from skills used@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "{0}% of Mana Spent while in the storm is\\nadded to this Skill's Mana Cost per Second",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

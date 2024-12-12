@@ -1,0 +1,65 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ghost_dance",
+  "Entries": {
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0} second duration between gaining Ghost Shrouds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "display_skill_ghost_dance_grants_energy_shield_when_hit": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[EnergyShield|Energy Shield] recovered@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "virtual_ghost_dance_max_stacks": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Maximum Ghost Shrouds@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Maximum {0} Ghost Shrouds",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "skill_base_ghost_dance_grants_%_evasion_as_energy_shield_when_hit": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "When [HitDamage|Hit], [Consume] a Ghost Shroud to\\nrecover [EnergyShield|Energy Shield] equal to {0}% of your [Evasion]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Duration between Ghost Shrouds@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

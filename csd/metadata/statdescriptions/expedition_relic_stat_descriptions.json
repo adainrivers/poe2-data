@@ -1,0 +1,2135 @@
+{
+  "Path": "metadata/statdescriptions/expedition_relic_stat_descriptions",
+  "Entries": {
+    "additional_maximum_all_resistances_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters have {0:+d}% to all maximum Resistances",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "all_damage_can_freeze": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "All Damage from Monsters' Hits can Freeze",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "all_damage_can_ignite": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "All Damage from Monsters' Hits can Ignite",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "all_damage_can_poison": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[DamageTypes|All Damage] from Monsters' [HitDamage|Hits] [Contributes|Contributes] to [Poison] Magnitude",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "all_damage_can_shock": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "All Damage from Monsters' [HitDamage|Hits] can [Shock]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "always_crit": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters' [HitDamage|Hits] are always [Critical|Critical Hits]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "apply_X_random_curses_on_hit": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "[Runic] Monsters apply a random [Curse] on [HitDamage|Hit]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "[Runic] Monsters apply {0} random [Curse] on [HitDamage|Hit]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "apply_deathgeas_on_hit": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Runic] Monsters apply Death Geas on Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "apply_petrification_for_X_seconds_on_hit": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Runic] Monsters inflict [Petrify|Petrification] for {0} seconds on [HitDamage|Hit]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "armour_break_physical_damage_%_dealt_as_armour_break": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[ArmourBreak|Break Armour] equal to {0}% of [Physical|Physical Damage] dealt",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "attack_speed_+%_when_on_low_life": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased [Attack] Speed while on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced [Attack] Speed while on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "attacks_impale_on_hit_%_chance": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "Monsters have {0}% chance to Impale Enemies on Hit with [Attack|Attacks]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Monsters Impale Enemies on Hit with [Attack|Attacks]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "avoid_damage_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% chance to Avoid All Damage from [HitDamage|Hits]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_avoid_chill_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% chance to Avoid being [Chill|Chilled]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_avoid_freeze_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% chance to Avoid being [Freeze|Frozen]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_avoid_ignite_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% chance to Avoid being [Ignite|Ignited]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_avoid_shock_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% chance to Avoid being [Shock|Shocked]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_bleed_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased Bleeding Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced Bleeding Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_chance_to_ignite_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "Monsters' Hits have {0}% chance to Ignite",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Monsters' Hits always Ignite",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_chance_to_shock_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "Monsters' Hits have {0}% chance to Shock",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Monsters' Hits always Shock",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_cold_immunity": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<nemesismod>{{Monsters are Immune to [Cold] Damage}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_damage_taken_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters take {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters take {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_fire_immunity": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<nemesismod>{{Monsters are Immune to [Fire] Damage}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_lightning_immunity": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<nemesismod>{{Monsters are Immune to [Lightning] Damage}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_maximum_spell_block_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters have {0:+d}% to maximum Chance to Block Spell Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_poison_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased [Poison] Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced [Poison] Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_reduce_enemy_cold_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters [Penetration|Penetrate] {0}% [Resistances|Cold Resistance]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_reduce_enemy_fire_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters [Penetration|Penetrate] {0}% [Resistances|Fire Resistance]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_reduce_enemy_lightning_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters [Penetration|Penetrate] {0}% [Resistances|Lightning Resistance]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_spell_block_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters have {0:+d}% Chance to Block Spell Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_cannot_have_life_leeched_from": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Life cannot be [LifeLeech|Leeched] from Monsters",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_cannot_have_mana_leeched_from": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Mana cannot be Leeched from Monsters",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "cast_speed_+%_when_on_low_life": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased Cast Speed while on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced Cast Speed while on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "chaos_immunity": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<nemesismod>{{Monsters are Immune to [Chaos] Damage}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "critical_strike_chance_against_enemies_on_full_life_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased [Critical|Critical Hit] Chance against Enemies on Full Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced [Critical|Critical Hit] Chance against Enemies on Full Life",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_when_on_low_life": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters deal {0}% increased Damage while on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters deal {0}% reduced Damage while on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "enemy_phys_reduction_%_penalty_vs_hit": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters' Hits Overwhelm {0}% Physical Damage Reduction",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "freeze_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased [Freeze] Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced [Freeze] Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "global_always_hit": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters' [HitDamage|Hits] can't be [Evasion|Evaded]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "global_poison_on_hit": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters [Poison] on [HitDamage|Hit]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "guardian_gain_life_regeneration_per_minute_%_for_1_second_every_10_seconds": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Every 4 seconds, [Runic] Monsters Regenerate {0}% of Life over one second",
+          "IsCanonical": false,
+          "Parameters": {
+            "per_minute_to_per_second": 1
+          }
+        }
+      ]
+    },
+    "hexproof": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters are [Hexproof]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "hit_damage_freeze_multiplier_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased [Freeze|Freeze] Buildup",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced [Freeze|Freeze] Buildup",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "ignite_chance_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased chance to [Ignite]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced chance to [Ignite]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "ignite_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased [Ignite] Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced [Ignite] Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "immune_to_curses": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters are Immune to [Curse|Curses]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "impale_debuff_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased Impale Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced Impale Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "kill_enemy_on_hit_if_under_20%_life": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters Kill things with 20% or lower Life on Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "additional_maximum_block_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters have {0:+d}% to maximum Chance to Block [Attack] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "monster_base_block_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters have {0:+d}% Chance to Block [Attack] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters deal {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters deal {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "monster_gain_base_ward_equal_to_total_maximum_life_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters have base Ward equal to {0}% of their maximum Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "monster_grants_no_flask_charges": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters do not grant [Flask] Charges when Slain",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "maximum_life_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased Maximum Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced Maximum Life",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_movement_velocity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "attack_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_cast_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "movement_velocity_+%_when_on_low_life": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased Movement Speed while on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced Movement Speed while on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "never_take_critical_strike": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[HitDamage|Hits] against Monsters cannot be [Critical|Critical Hits]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "non_skill_base_all_damage_%_to_gain_as_chaos": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters [Gain] {0}% of Damage as Extra [Chaos] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "non_skill_base_all_damage_%_to_gain_as_cold": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters [Gain] {0}% of Damage as Extra [Cold] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "non_skill_base_all_damage_%_to_gain_as_fire": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters [Gain] {0}% of Damage as Extra [Fire] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "non_skill_base_all_damage_%_to_gain_as_lightning": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters [Gain] {0}% of Damage as Extra [Lightning] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "non_skill_base_physical_damage_%_to_gain_as_chaos": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters gain {0}% of Physical Damage as Extra Chaos Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "physical_immunity": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<nemesismod>{{Monsters are Immune to [Physical] Damage}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "reduce_enemy_chaos_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters Penetrate {0}% Chaos Resistance",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "remove_%_of_current_energy_shield_on_hit": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters' Hits remove {0}% of current [EnergyShield|Energy Shield]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "remove_%_of_current_mana_on_hit": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters' Hits remove {0}% of current Mana",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "resist_all_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters have {0:+d}% to all [Resistances]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "shock_chance_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased chance to [Shock]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced chance to [Shock]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "shock_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters inflict [Shock] with {0}% increased [BuffMagnitude|Magnitude]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters inflict [Shock] with {0}% reduced [BuffMagnitude|Magnitude]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "chest_item_quantity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{{0}% increased Quantity of Items Found in Excavated Chests}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Quantity of Items Found in Excavated Chests}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "chest_item_rarity_+%_final_from_mod": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{{0}% increased Rarity of Items Found in Excavated Chests}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Rarity of Items Found in Excavated Chests}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "expedition_chest_currency_drop_quantity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{{0}% increased Quantity of Artifacts found in Excavated Chests}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Quantity of Artifacts found in Excavated Chests}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "expedition_chest_logbook_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{{0}% increased Quantity of Expedition Logbooks found in Excavated Chests}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Quantity of Expedition Logbooks found in Excavated Chests}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_abyss": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Abyssal Jewel}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Abyssal Jewel}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_atzirifragments": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Sacrifice Fragment}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Sacrifice Fragment}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_blightoils": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Oil}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Oil}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_breachsplinters": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Breach Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Breach Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_currency": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Currency Items}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Currency Items}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_deliriumsplinters": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Simulacrum Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Simulacrum Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_divination": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Divination Card}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Divination Card}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_enchant": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Enchanted Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Enchanted Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_essences": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Essence}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Essence}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_fossils": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Fossil}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Fossil}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_fractured_item": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Fractured Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Fractured Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_gems": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional valuable Gem}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional valuable Gem}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_gems2": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Gem}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Gem}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_harbingercurrency": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Currency Shards}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Currency Shards}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_heistcontracts": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Heist Contract}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Heist Contract}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_incubators": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Incubator}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Incubator}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_influenced_item": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Influenced Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Influenced Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_legionsplinters": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Legion Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Legion Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_maps": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Map}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Map}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_metamorphcatalysts": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Catalyst}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Catalyst}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_rare_armour": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Rare Armour Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Rare Armour Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_rare_jewellery": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Rare Jewellery Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Rare Jewellery Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_rare_weapon": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Rare Weapon}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Rare Weapon}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_scarabs": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Scarab}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Scarab}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_stackeddecks": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Stacked Deck}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Stacked Deck}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_talisman": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Talisman}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Talisman}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_uniques": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain an additional Unique Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain an additional Unique Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_vendorcurrencyfaction1": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Broken Circle Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Broken Circle Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_vendorcurrencyfaction2": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Black Scythe Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Black Scythe Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_vendorcurrencyfaction3": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Order Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Order Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_chest_%_to_drop_vendorcurrencyfaction4": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Excavated Chests have {0}% chance to contain additional Sun Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Excavated Chests contain additional Sun Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_abyss": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional Abyssal Jewel}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop an additional Abyssal Jewel}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_atzirifragments": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Sacrifice Fragment}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Sacrifice Fragment}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_blightoils": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Oil}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Oil}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_breachsplinters": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop additional Breach Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop additional Breach Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "monster_items_drop_corrupted_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<enchanted>{{Items dropped by Monsters have {0}% chance to be Corrupted}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_currency": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Currency Items}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop additional Currency Items}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_deliriumsplinters": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop additional Simulacrum Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop additional Simulacrum Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_divination": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Divination Card}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Divination Card}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_enchant": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Enchanted Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Enchanted Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_essences": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Essence}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Essence}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_fossils": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Fossil}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Fossil}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_fractured_item": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Fractured Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Fractured Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "dropped_items_are_fully_linked": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{Items dropped by Runic Monsters are fully Linked}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_gems": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional valuable Gem}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional valuable Gem}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_gems2": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Gem}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Gem}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_harbingercurrency": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop additional Currency Shards}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop additional Currency Shards}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_heistcontracts": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Heist Contract}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Heist Contract}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_incubators": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Incubator}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Incubator}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_influenced_item": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Influenced Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Influenced Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_legionsplinters": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop additional Legion Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop additional Legion Splinters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_maps": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Map}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Map}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_metamorphcatalysts": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Catalyst}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Catalyst}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_rare_armour": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional Rare Armour Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop an additional Rare Armour Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_rare_jewellery": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional [Rarity|Rare] Jewellery Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop an additional [Rarity|Rare] Jewellery Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_rare_weapon": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional [Rarity|Rare] Weapon}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop an additional Rare Weapon}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_scarabs": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Scarab}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Scarab}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_stackeddecks": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Stacked Deck}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Stacked Deck}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_talisman": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{Runic Monsters have {0}% chance to drop an additional Talisman}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{Runic Monsters drop an additional Talisman}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_uniques": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop an additional [Rarity|Unique] Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop an additional [Rarity|Unique] Item}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_vendorcurrencyfaction1": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Broken Circle Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop additional Broken Circle Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_vendorcurrencyfaction2": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Black Scythe Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop additional Black Scythe Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_vendorcurrencyfaction3": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Order Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop additional Order Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_elite_%_to_drop_vendorcurrencyfaction4": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "<enchanted>{{[Runic] Monsters have {0}% chance to drop additional Sun Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "<enchanted>{{[Runic] Monsters drop additional Sun Artifacts}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_monsters_currency_drop_quantity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{{0}% increased Quantity of Artifacts dropped by Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Quantity of Artifacts dropped by Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_monsters_logbook_chance_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{{0}% increased Quantity of [ContainsExpedition|Expedition] [Logbook|Logbooks] dropped by [Runic] Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Quantity of [ContainsExpedition|Expedition] [Logbook|Logbooks] dropped by [Runic] Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "expedition_twinned_elites": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{[Runic] Monsters are Duplicated}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_expedition_monster_spawn_additional_missing_life_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<enchanted>{{Monsters spawn with an additional {0}% of Life missing}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_pack_size_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{{0}% increased Pack size}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Pack size}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_number_of_rare_packs_+%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<enchanted>{{{0}% increased number of Rare Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "from_league_item_quantity_+%_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<enchanted>{{{0}% increased Quantity of Items Dropped by Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Quantity of Items Dropped by Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "from_league_item_rarity_+%_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<enchanted>{{{0}% increased Rarity of Items Dropped by Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{{0}% reduced Rarity of Items Dropped by Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "map_number_of_magic_packs_+%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "<enchanted>{{{0}% increased number of Magic Monsters}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "monster_slain_experience_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "<enchanted>{{Monsters grant {0}% increased Experience}}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "<enchanted>{{Monsters grant {0}% reduced Experience}}",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    }
+  }
+}

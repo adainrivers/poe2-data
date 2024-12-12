@@ -1,0 +1,133 @@
+{
+  "Path": "metadata/items/flasks/abstractlifeflask",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "tag",
+          "Value": "life_flask",
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "flask",
+          "Children": []
+        },
+        {
+          "Key": "x_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 2,
+          "Children": []
+        },
+        {
+          "Key": "description_text",
+          "Value": "ItemDescriptionFlask",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Quality",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "max_quality",
+          "Value": 20,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Charges",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "max_charges",
+          "Value": 2,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "normal",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "disable_rarity",
+          "Value": "rare",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "unique",
+          "Children": []
+        },
+        {
+          "Key": "inventory_type",
+          "Value": "Flask",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Usable",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "use_type",
+          "Value": "Usable",
+          "Children": []
+        },
+        {
+          "Key": "action",
+          "Value": "flask",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Flask",
+      "Value": null,
+      "Children": []
+    }
+  ]
+}

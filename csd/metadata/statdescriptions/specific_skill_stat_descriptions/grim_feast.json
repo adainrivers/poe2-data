@@ -1,0 +1,53 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/grim_feast",
+  "Entries": {
+    "grim_feast_energy_shield_gain_per_globe": {
+      "Descriptions": [
+        {
+          "Operator": "1|# table_only",
+          "Description": "[EnergyShield|Energy Shield] recovered per Remnant@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "Grim Remnants recover {0} [EnergyShield|Energy Shield]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "grim_feast_energy_shield_gain_+%_final_from_minions": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Grim Remnants from [Minion|Minions] grant {0}% more [EnergyShield|Energy Shield]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "grim_remnant_chance_to_spawn_orb_on_enemy_and_minion_death_in_presence_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|# table_only",
+          "Description": "Remnant spawn on death chance@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to spawn a Remnant when an enemy or [Reviving] [Minion] dies in your [Presence]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Spawn a Remnant when an enemy or [Reviving] [Minion] dies in your [Presence]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/charged_staff",
+  "Entries": {
+    "charged_staff_buff_duration_per_stack_ms": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Buff duration per [Charges|Power Charge]@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Buff duration is {0} seconds per [Charges|Power Charge] Consumed",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/rapid_shot_incendiary",
+  "Entries": {
+    "base_skill_effect_duration": {
+      "Descriptions": []
+    },
+    "rapid_shot_all_damage_%_to_gain_as_fire_per_stack": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Damage [Gain|Gained] as extra [Fire] per Heat@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Rapid Shots [Gain] {0}% of Damage as extra [Fire] Damage per Heat",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "rapid_shot_charge_up_time_as_%_of_attack_time": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Attack time required to charge@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Charges for {0}% of Attack Time before firing if used when you have no Heat",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "rapid_shot_heat_gained_per_minue_while_performing": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Heat gained per second@{0}",
+          "IsCanonical": false,
+          "Parameters": {
+            "per_minute_to_per_second_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "60",
+          "Description": "Gain Heat once per second while firing",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Gain Heat {0} times per second while firing",
+          "IsCanonical": false,
+          "Parameters": {
+            "per_minute_to_per_second_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "rapid_shot_next_grenade_all_damage_%_to_gain_as_fire_per_stack": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Grenade] Damage [Gain|Gained] as extra [Fire] per Heat@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "[Grenade|Grenades] [Gain] {0}% of Damage as extra [Fire] Damage per Heat",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

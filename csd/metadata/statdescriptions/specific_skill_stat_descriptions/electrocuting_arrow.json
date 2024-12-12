@@ -1,0 +1,40 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/electrocuting_arrow",
+  "Entries": {
+    "active_skill_base_secondary_area_of_effect_radius": {
+      "Descriptions": []
+    },
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Arrow duration is {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Arrow duration is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Arrow duration@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1837 @@
+{
+  "Path": "metadata/statdescriptions/sentinel_stat_descriptions",
+  "Entries": {
+    "%_chance_to_duplicate_dropped_sentinels": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{}% chance for found Sentinels to be Duplicated",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_spawns_worms": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Spawns Worms",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_anger_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Anger Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_cold_resist_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Purity of Ice Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_determination_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Determination Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_discipline_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Discipline Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_fire_resist_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Purity of Fire Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_grace_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Grace Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_haste_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Haste Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_hatred_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Hatred Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_lightning_resist_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Purity of Lightning Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_malevolence_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Malevolence Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_purity_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Purity of Elements Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_wrath_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Wrath Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_display_sentinel_uses_level_x_zealotry_aura": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Grants Level {0} Zealotry Aura",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_sentinel_cannot_tag_anything": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Cannot Empower Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_sentinel_drone_charge_+": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{:+d} to Charge",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_sentinel_drone_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{}% increased Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{}% reduced Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "local_sentinel_duration_+": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "{:+d} second to Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "{:+d} seconds to Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_sentinel_only_one_use": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowers many enemies in one shot",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_sentinel_only_tag_rare": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Can only empower Rare enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_sentinel_only_tag_rare_or_unique": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Can only empower Rare or Unique enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_sentinel_tag_limit_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{}% increased number of Empowered Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{}% reduced number of Empowered Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "local_sentinel_tag_limit_+": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowers {:+d} Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "normal_sentinels_drop_as_magic": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Found Normal-rarity Sentinels from Monsters you kill are upgraded to Magic rarity\\nFound Normal-rarity Sentinels from Chests you open are upgraded to Magic rarity",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "number_of_chains": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Beams Chain an additional time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Beams Chain {:+d} times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_a_cannot_tag_normal": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Stalker Sentinels do not Empower Normal rarity enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_a_cast_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Stalker Sentinels have {0}% increased Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Stalker Sentinels have {0}% reduced Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_a_chaining_range_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Stalker Sentinels have {0}% increased Chaining range",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Stalker Sentinels have {0}% reduced Chaining range",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_a_chance_for_reward_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Stalker Sentinels have {0}% increased chance to add Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Stalker Sentinels have {0}% reduced chance to add Rewards",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_a_chance_to_not_consume_charge_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Stalker Sentinels have {0}% chance to not consume Charge on use",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Stalker Sentinels do not consume Charge on use",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_a_duplicate_non_unique_monsters_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "Stalker Sentinels have {0}% chance to duplicate non-unique Enemies when they are Empowered",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100",
+          "Description": "Stalker Sentinels duplicate non-unique Enemies when they are Empowered",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_a_number_of_beams": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Stalker Sentinels fire an additional Beam",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Stalker Sentinels fire {0} additional Beams",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_a_number_of_chains": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Stalker Sentinel Beams Chain an additional time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Stalker Sentinel Beams Chain {:+d} times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_a_tag_limit_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased number of Enemies Empowered by Stalker Sentinels",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced number of Enemies Empowered by Stalker Sentinels",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_b_can_be_deployed_x_additional_times": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Pandemonium Sentinels can be Deployed an additional time each area",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Pandemonium Sentinels can be Deployed {:+d} additional times each area",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_b_cast_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Pandemonium Sentinels have {0}% increased Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Pandemonium Sentinels have {0}% reduced Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_b_chaining_range_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Pandemonium Sentinels have {0}% increased Chaining range",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Pandemonium Sentinels have {0}% reduced Chaining range",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_b_dont_consume_charge_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Pandemonium Sentinels have {0}% chance to not consume Charge on use",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Pandemonium Sentinels do not consume Charge on use",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_b_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Pandemonium Sentinels have {0}% increased Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Pandemonium Sentinels have {0}% reduced Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_b_number_of_beams": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Pandemonium Sentinels fire an additional Beam",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Pandemonium Sentinels fire {0} additional Beams",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_b_number_of_chains": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Pandemonium Sentinel Beams Chain an additional time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Pandemonium Sentinel Beams Chain {:+d} times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_b_restore_flask_charges_and_souls_on_deploy": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Pandemonium Sentinels restore all of the Character's [Flask] Charges on Deployment\\nPandemonium Sentinels grant maximum Vaal Souls to one of the Character's Vaal Skills on Deployment",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_b_spawn_packs_on_deploy": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Pandemonium Sentinels spawn packs of Monsters on Deployment",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_b_tag_limit_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased number of Enemies Empowered by Pandemonium Sentinels",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced number of Enemies Empowered by Pandemonium Sentinels",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_c_can_be_redeployed_after_dismissal": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Apex Sentinels can be re-deployed after being dismissed",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_c_cannot_tag_rare": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Apex Sentinels do not Empower Rare rarity enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_c_cast_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Apex Sentinels have {0}% increased Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Apex Sentinels have {0}% reduced Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_c_chance_to_not_consume_charge_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Apex Sentinels have {0}% chance to not consume Charge on use",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Apex Sentinels do not consume Charge on use",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_c_difficulty_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Apex Sentinels have {0}% increased Empowerment",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Apex Sentinels have {0}% reduced Empowerment",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_c_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Apex Sentinels have {0}% increased Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Apex Sentinels have {0}% reduced Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_c_reward_count_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Apex Sentinels grant {0}% increased Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Apex Sentinels grant {0}% reduced Rewards",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_c_tag_duplicate_reward_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "Enemies Empowered by Apex Sentinels have {0}% chance for Rewards to be doubled",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Enemies Empowered by Apex Sentinels have Rewards doubled",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_c_tag_limit_+": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Apex Sentinels can Empower an additional Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Apex Sentinels can Empower {0} additional Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_c_tagged_onslaught": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Enemies Empowered by Apex Sentinels have Onslaught",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_c_tagged_resist_all_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Enemies Empowered by Apex Sentinels have {:+d}% to all Resistances",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_can_cleanse_corrupted_fish": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Cleanses Corrupted Fish",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_can_purify_corrupted_water": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Purifies Corrupted Water",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_chance_for_reward_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased chance to add Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced chance to add Rewards",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_debilatate_tagged_monsters_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Debilitates Empowered Enemies for 1 second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Debilitates Empowered Enemies for {} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_destroyed_on_tagging_specific_monster": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Destroyed on Empowering target Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_drone_aggro_range_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Sentinels have {0}% increased Aggro Radius",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Sentinels have {0}% reduced Aggro Radius",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_cast_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Sentinels have {0}% increased Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Sentinels have {0}% reduced Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_chance_to_not_consume_charge_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Sentinels have {0}% chance to not consume Charge on use",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Sentinels do not consume Charge on use",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_drone_difficulty_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Sentinels have {0}% increased Empowerment",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Sentinels have {0}% reduced Empowerment",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Sentinels have {0}% increased Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Sentinels have {0}% reduced Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_accelerating_shrine_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Acceleration Shrine for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Acceleration Shrine for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_adrenaline_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Adrenaline for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Adrenaline for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_diamond_shrine_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Diamond Shrine for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Diamond Shrine for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_echoing_shrine_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Echoing Shrine for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Echoing Shrine for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_endurance_charge_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Endurance Charges for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Endurance Charges for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_frenzy_charge_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Frenzy Charges for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Frenzy Charges for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_gloom_shrine_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Gloom Shrine for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Gloom Shrine for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_impenetrable_shrine_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Impenetrable Shrine for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Impenetrable Shrine for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_massive_shrine_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Massive Shrine for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Massive Shrine for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_power_charge_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Power Charges for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Power Charges for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_resistance_shrine_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Resistance Shrine for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Resistance Shrine for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_resonating_shrine_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Charged Shrine for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Charged Shrine for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_tailwind_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Tailwind for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Tailwind for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_drone_player_gains_unholy_might_on_summon_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Character Gains Unholy Might for 1 second on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Character Gains Unholy Might for {} seconds on deployment",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_map_quantity_applies_to_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Map Item Quantity affects number of rewards from Empowered Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_monster_gives_mods_to_killer_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "When a Character Kills an Empowered Rare Monster,\\nthey have {0}% chance to gain its Modifiers for 20 seconds",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "When a Character Kills an Empowered Rare Monster,\\nthey gain its Modifiers for 20 seconds",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_petrify_tagged_monsters_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Petrifies Empowered Enemies for 1 second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Petrifies Empowered Enemies for {} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_power_core_duplicate_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance for found Power Cores to be Duplicated",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Found Power Cores are Duplicated",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_refresh_on_use_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to be Deployable an additional time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Can be Deployed an additional time",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_reward_count_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Rewards",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_reward_sentinel_type_chance_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Rewards are {0}% more likely to be Sentinel Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Rewards are {0}% less likely to be Sentinel Rewards",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_rewards_more_likely_less_common_types": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Rewards are more likely to be less common types",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tag_abyss_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have an Abyss Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_armour_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have an Armour Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_beam_number_of_beams": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Fires an additional Beam",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Fires {0} additional Beams",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tag_blight_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Blight Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_breach_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Breach Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_currency_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Currency Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_delirium_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Delirium Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_difficulty_+permillage_final_per_previous_tag": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{}% more Empowerment for each Enemy Empowered",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{}% less Empowerment for each Enemy Empowered",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_divinationcards_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Divination Card Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_duplicate_reward_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance for Rewards to be Doubled",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Rewards are Doubled",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tag_essence_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have an Essence Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_expedition_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have an Expedition Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_fossils_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Fossil Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_fragments_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Fragment Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_gems_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Gem Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_harbinger_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Harbinger Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_heist_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Heist Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_legion_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Legion Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_maps_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Map Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_metamorphosis_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Metamorphosis Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_no_drops": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Enemies do not drop Items",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tag_no_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Enemies cannot gain Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tag_reward_chance_+permillage_per_previous_tag": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{}% increased chance to add a Reward for each Enemy Empowered",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{}% reduced chance to add a Reward for each Enemy Empowered",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_ritual_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Ritual Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_scarabs_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Scarab Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_sentinel_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Sentinel Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_trinkets_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Jewellery Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_unique_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Unique Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tag_upgrade_target_to_rare_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{}% chance to upgrade Normal Rarity Enemies to be Rare when they are Empowered",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tag_weapon_reward_chance_permillage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Empowered Enemies to have a Weapon Reward",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tagged_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Empowered Enemies gain {}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Empowered Enemies gain {}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tagged_item_quantity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Empowered Monsters have {0}% increased Quantity of Items Found",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Empowered Monsters have {0}% reduced Quantity of Items Found",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tagged_item_rarity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Empowered Monsters have {0}% increased Rarity of Items Found",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Empowered Monsters have {0}% reduced Rarity of Items Found",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sentinel_tagged_monsters_drop_x_currency_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Monsters drop {} Currency Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tagged_monsters_drop_x_divination_card_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Monsters drop {} Divination Card Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tagged_monsters_drop_x_fragment_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Monsters drop {} Fragment Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tagged_monsters_drop_x_map_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Monsters drop {} Map Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tagged_monsters_drop_x_scarab_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Monsters drop {} Scarab Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tagged_monsters_drop_x_sentinel_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Monsters drop {} Sentinel Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tagged_monsters_drop_x_unique_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Empowered Monsters drop {} Unique Rewards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sentinel_tagged_sentinel_experience_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Empowered Monsters grant {0}% increased Sentinel Power",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Empowered Monsters grant {0}% reduced Sentinel Power",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    }
+  }
+}

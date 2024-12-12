@@ -1,0 +1,94 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/siege_cascade_piercing",
+  "Entries": {
+    "total_number_of_projectiles_to_fire": {
+      "Descriptions": []
+    },
+    "active_skill_hit_damage_stun_multiplier_+%_final": {
+      "Descriptions": []
+    },
+    "never_freeze": {
+      "Descriptions": []
+    },
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Target acquisition radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Fires Bolts at every Enemy within a {0} metre radius",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_secondary_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Bolt explosion radius is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Bolt explosion radius is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_secondary_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Bolt explosion radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "siege_cascade_damage_+%_final_vs_immobilised_enemies": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More damage against [Immobilised] enemies@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more damage against [Immobilised] enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less damage against [Immobilised] enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    }
+  }
+}

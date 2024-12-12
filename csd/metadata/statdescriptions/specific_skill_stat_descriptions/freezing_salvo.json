@@ -1,0 +1,77 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/freezing_salvo",
+  "Entries": {
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Impact radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Impact radius is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Impact radius is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "freezing_salvo_maximum_number_of_seals": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Maximum accumulated missiles@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Accumulates up to {0} additional missiles",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "freezing_salvo_seals_gain_base_interval_ms": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Accumulates a missile every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "freezing_salvo_seals_gain_interval_ms": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Missile accumulation interval@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

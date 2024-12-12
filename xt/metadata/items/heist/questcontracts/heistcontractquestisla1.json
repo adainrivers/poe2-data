@@ -1,0 +1,60 @@
+{
+  "Path": "metadata/items/heist/questcontracts/heistcontractquestisla1",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Quest",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "grant_flag",
+          "Value": "HaveHeistContractQuestIsla1",
+          "Children": []
+        },
+        {
+          "Key": "league_remove_flag",
+          "Value": "HeistMissionCompleteIsla1",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "HeistContract",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "x_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "quest_item",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

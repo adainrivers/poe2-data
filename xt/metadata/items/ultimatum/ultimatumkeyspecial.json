@@ -1,0 +1,55 @@
+{
+  "Path": "metadata/items/ultimatum/ultimatumkeyspecial",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "description_text",
+          "Value": "ItemFunctionUltimatumKey",
+          "Children": []
+        },
+        {
+          "Key": "pickup_quest_flag",
+          "Value": "UtlimatumKeyPickedUp",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/stat_descriptions.csd",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1574 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "IsMagic",
+    "StatsKey": {
+      "RowIndex": 1902,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 1,
+    "Id": "IsRare",
+    "StatsKey": {
+      "RowIndex": 1902,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 2,
+    "StatMax": 2,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 2,
+    "Id": "IsUnique",
+    "StatsKey": {
+      "RowIndex": 1902,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 3,
+    "StatMax": 3,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 3,
+    "Id": "IsTwinned",
+    "StatsKey": {
+      "RowIndex": 947,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 4,
+    "Id": "IsUnidentified",
+    "StatsKey": {
+      "RowIndex": 1319,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 5,
+    "Id": "IsCorrupted",
+    "StatsKey": {
+      "RowIndex": 2447,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 6,
+    "Id": "Has4ExplicitMods",
+    "StatsKey": {
+      "RowIndex": 4329,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 4,
+    "StatMax": 4,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 7,
+    "Id": "Has5ExplicitMods",
+    "StatsKey": {
+      "RowIndex": 4329,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 5,
+    "StatMax": 5,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 8,
+    "Id": "Has8ExplicitMods",
+    "StatsKey": {
+      "RowIndex": 4329,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 8,
+    "StatMax": 8,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Has10TotalMods",
+    "StatsKey": {
+      "RowIndex": 6143,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 10,
+    "StatMax": 10,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 10,
+    "Id": "Has3Leaguestones",
+    "StatsKey": {
+      "RowIndex": 5596,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 3,
+    "StatMax": 3,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 11,
+    "Id": "HasZanaMod",
+    "StatsKey": {
+      "RowIndex": 7266,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 12,
+    "Id": "HasCraftedMods",
+    "StatsKey": {
+      "RowIndex": 7267,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 13,
+    "Id": "HasShaperInfluence",
+    "StatsKey": {
+      "RowIndex": 6469,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 14,
+    "Id": "HasElderInfluence",
+    "StatsKey": {
+      "RowIndex": 6469,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 2,
+    "StatMax": 2,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 15,
+    "Id": "HasShaperOrElderInfluence",
+    "StatsKey": {
+      "RowIndex": 6469,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 1,
+    "StatMax": 2,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 16,
+    "Id": "IsWhiteTier",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 1,
+    "StatMax": 5,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 17,
+    "Id": "IsYellowTier",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 6,
+    "StatMax": 10,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 18,
+    "Id": "IsRedTier",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 11,
+    "StatMax": 16,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 19,
+    "Id": "IsTier15",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 15,
+    "StatMax": 15,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 20,
+    "Id": "IsTier16",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 16,
+    "StatMax": 16,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 21,
+    "Id": "HasSextantMod",
+    "StatsKey": {
+      "RowIndex": 5629,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 22,
+    "Id": "HasNemesisSextant",
+    "StatsKey": {
+      "RowIndex": 4753,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 23,
+    "Id": "HasGroundHasteSextant",
+    "StatsKey": {
+      "RowIndex": 4869,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 24,
+    "Id": "HasNoReflectSextant",
+    "StatsKey": {
+      "RowIndex": 4894,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 25,
+    "Id": "HasExtraTeamMonstersSextant",
+    "StatsKey": {
+      "RowIndex": 4902,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 26,
+    "Id": "HasBodyguardsSextant",
+    "StatsKey": {
+      "RowIndex": 4931,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 27,
+    "Id": "HasBarrelSextant1",
+    "StatsKey": {
+      "RowIndex": 4928,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 28,
+    "Id": "HasBarrelSextant2",
+    "StatsKey": {
+      "RowIndex": 4955,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 29,
+    "Id": "HasBarrelSextant3",
+    "StatsKey": {
+      "RowIndex": 4956,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 30,
+    "Id": "HasBarrelSextant4",
+    "StatsKey": {
+      "RowIndex": 4957,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 31,
+    "Id": "HasBarrelSextant5",
+    "StatsKey": {
+      "RowIndex": 4958,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 32,
+    "Id": "HasBarrelSextant6",
+    "StatsKey": {
+      "RowIndex": 4959,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 33,
+    "Id": "HasConvertOnDeathSextant",
+    "StatsKey": {
+      "RowIndex": 4901,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 34,
+    "Id": "HasOnslaughtIfHitRecentlySextant",
+    "StatsKey": {
+      "RowIndex": 4853,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 35,
+    "Id": "HasQualityAffectsRaritySextant",
+    "StatsKey": {
+      "RowIndex": 4886,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 36,
+    "Id": "HasCorruptedDropsSextant",
+    "StatsKey": {
+      "RowIndex": 4888,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 37,
+    "Id": "HasMinStrongboxRaritySextant",
+    "StatsKey": {
+      "RowIndex": 4954,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 38,
+    "Id": "HasPossessedRustedScarabSextant",
+    "StatsKey": {
+      "RowIndex": 8821,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 39,
+    "Id": "HasPossessedPolishedScarabSextant",
+    "StatsKey": {
+      "RowIndex": 8822,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 40,
+    "Id": "HasPossessedGildedScarabSextant",
+    "StatsKey": {
+      "RowIndex": 8823,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 41,
+    "Id": "HasPossessedWingedScarabSextant",
+    "StatsKey": {
+      "RowIndex": 8824,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 42,
+    "Id": "HasPossessedUniqueDropSextant",
+    "StatsKey": {
+      "RowIndex": 8825,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 43,
+    "Id": "HasPossessedMapDropSextant",
+    "StatsKey": {
+      "RowIndex": 8826,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 44,
+    "Id": "HasShrineDurationSextant",
+    "StatsKey": {
+      "RowIndex": 5509,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 45,
+    "Id": "HasCurrencyShardSextant",
+    "StatsKey": {
+      "RowIndex": 8830,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 46,
+    "Id": "HasVaalMonstersSextant",
+    "StatsKey": {
+      "RowIndex": 8854,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 47,
+    "Id": "HasBeyondSextant",
+    "StatsKey": {
+      "RowIndex": 8845,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 48,
+    "Id": "HasTormentBetrayersSextant",
+    "StatsKey": {
+      "RowIndex": 8883,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 49,
+    "Id": "HasTormentHereticsSextant",
+    "StatsKey": {
+      "RowIndex": 8884,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 50,
+    "Id": "HasTormentGraverobbersSextant",
+    "StatsKey": {
+      "RowIndex": 8882,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 51,
+    "Id": "HasCorruptEssenceSextant",
+    "StatsKey": {
+      "RowIndex": 9278,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 52,
+    "Id": "HasTempests",
+    "StatsKey": {
+      "RowIndex": 3000,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 53,
+    "Id": "HasLegionSextant",
+    "StatsKey": {
+      "RowIndex": 8842,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 54,
+    "Id": "HasQuality",
+    "StatsKey": {
+      "RowIndex": 4887,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 20,
+    "StatMax": 20,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 55,
+    "Id": "IsDeliriumMap",
+    "StatsKey": {
+      "RowIndex": 10901,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 56,
+    "Id": "IsMaximumDelirium",
+    "StatsKey": {
+      "RowIndex": 10901,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 100,
+    "StatMax": 100,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AwakeningLevel8",
+    "StatsKey": {
+      "RowIndex": 10116,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 8,
+    "StatMax": 8,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 58,
+    "Id": "ContainsElderGuardian",
+    "StatsKey": {
+      "RowIndex": 6201,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 59,
+    "Id": "IsBlightedMap",
+    "StatsKey": {
+      "RowIndex": 9729,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 60,
+    "Id": "IsUberBlightedMap",
+    "StatsKey": {
+      "RowIndex": 14119,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 61,
+    "Id": "IsT10PlusHellscapeMap",
+    "StatsKey": {
+      "RowIndex": 14419,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 10,
+    "StatMax": 10,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 62,
+    "Id": "HasIncreasedAreaOfEffect",
+    "StatsKey": {
+      "RowIndex": 3122,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 63,
+    "Id": "HasMinusMaxResistances",
+    "StatsKey": {
+      "RowIndex": 975,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": -1,
+    "StatMax": -1,
+    "Unk005": true
+  },
+  {
+    "RowIndex": 64,
+    "Id": "HasAdditionalProjectiles",
+    "StatsKey": {
+      "RowIndex": 962,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 65,
+    "Id": "HasAttackSpeed",
+    "StatsKey": {
+      "RowIndex": 958,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 66,
+    "Id": "HasCastSpeed",
+    "StatsKey": {
+      "RowIndex": 959,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 67,
+    "Id": "HasMovementSpeed",
+    "StatsKey": {
+      "RowIndex": 957,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 68,
+    "Id": "Has4SextantMods",
+    "StatsKey": {
+      "RowIndex": 5629,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 4,
+    "StatMax": 4,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 69,
+    "Id": "HasTangleInfluence",
+    "StatsKey": {
+      "RowIndex": 9978,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 70,
+    "Id": "HasCleansingFireInfluence",
+    "StatsKey": {
+      "RowIndex": 9978,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 2,
+    "StatMax": 2,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 71,
+    "Id": "HasHeightOfHubrisAffectingArea",
+    "StatsKey": {
+      "RowIndex": 15597,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 72,
+    "Id": "Has70PercentBossAoE",
+    "StatsKey": {
+      "RowIndex": 3132,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 70,
+    "StatMax": 70,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 73,
+    "Id": "IsTier14Plus",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 14,
+    "StatMax": 14,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 74,
+    "Id": "Expedition5Remnants",
+    "StatsKey": {
+      "RowIndex": 14004,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 5,
+    "StatMax": 5,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 75,
+    "Id": "Expedition15Remnants",
+    "StatsKey": {
+      "RowIndex": 14004,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 15,
+    "StatMax": 15,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 76,
+    "Id": "IsLastMapOfAMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16163,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 77,
+    "Id": "IsFirstMapOfMemoryLineTier14Plus",
+    "StatsKey": {
+      "RowIndex": 16164,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 14,
+    "StatMax": 14,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 78,
+    "Id": "IsAnyMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 79,
+    "Id": "IsAbyssMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 80,
+    "Id": "IsAmbushMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 2,
+    "StatMax": 2,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 81,
+    "Id": "IsAnarchyMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 3,
+    "StatMax": 3,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 82,
+    "Id": "IsBestiaryMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 4,
+    "StatMax": 4,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 83,
+    "Id": "IsBetrayalMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 5,
+    "StatMax": 5,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 84,
+    "Id": "IsBlightMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 6,
+    "StatMax": 6,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 85,
+    "Id": "IsBreachMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 7,
+    "StatMax": 7,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 86,
+    "Id": "IsDeliriumMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 8,
+    "StatMax": 8,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 87,
+    "Id": "IsDominationMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 9,
+    "StatMax": 9,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 88,
+    "Id": "IsEssenceMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 10,
+    "StatMax": 10,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 89,
+    "Id": "IsExpeditionMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 11,
+    "StatMax": 11,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 90,
+    "Id": "IsHarvestMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 12,
+    "StatMax": 12,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 91,
+    "Id": "IsHeistMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 13,
+    "StatMax": 13,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 92,
+    "Id": "IsIncursionMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 14,
+    "StatMax": 14,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 93,
+    "Id": "IsLegionMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 15,
+    "StatMax": 15,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 94,
+    "Id": "IsMetamorphMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 16,
+    "StatMax": 16,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 95,
+    "Id": "IsRitualMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 17,
+    "StatMax": 17,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 96,
+    "Id": "IsTormentMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 18,
+    "StatMax": 18,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 97,
+    "Id": "IsHarbingerMemoryLine",
+    "StatsKey": {
+      "RowIndex": 16165,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 19,
+    "StatMax": 19,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 98,
+    "Id": "AtLeast100Quantity",
+    "StatsKey": {
+      "RowIndex": 1004,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 100,
+    "StatMax": 100,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 99,
+    "Id": "AtLeast80Quantity",
+    "StatsKey": {
+      "RowIndex": 1004,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 80,
+    "StatMax": 80,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 100,
+    "Id": "SextantMinimumRarity",
+    "StatsKey": {
+      "RowIndex": 4954,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 2,
+    "StatMax": 2,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 101,
+    "Id": "SextantEnragedStrongbox",
+    "StatsKey": {
+      "RowIndex": 4917,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 25,
+    "StatMax": 25,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 102,
+    "Id": "SextantBossHarbinger",
+    "StatsKey": {
+      "RowIndex": 8835,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 103,
+    "Id": "SextantBossBodyguards",
+    "StatsKey": {
+      "RowIndex": 4931,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 104,
+    "Id": "SextantHealingPacks",
+    "StatsKey": {
+      "RowIndex": 4897,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 4,
+    "StatMax": 4,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 105,
+    "Id": "SextantConvertPacks",
+    "StatsKey": {
+      "RowIndex": 4901,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 4,
+    "StatMax": 4,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 106,
+    "Id": "SextantHereticGhost",
+    "StatsKey": {
+      "RowIndex": 8884,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 107,
+    "Id": "SextantBetrayerGhost",
+    "StatsKey": {
+      "RowIndex": 8883,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 108,
+    "Id": "SextantGraverobberGhost",
+    "StatsKey": {
+      "RowIndex": 8882,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 109,
+    "Id": "SextantGloomShrine",
+    "StatsKey": {
+      "RowIndex": 9320,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 110,
+    "Id": "SextantResonatingShrine",
+    "StatsKey": {
+      "RowIndex": 9319,
+      "TableName": "Stats"
+    },
+    "Unk002": true,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 111,
+    "Id": "IsAlvaMemoryLine",
+    "StatsKey": {
+      "RowIndex": 17856,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 3,
+    "StatMax": 3,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 112,
+    "Id": "IsNikoMemoryLine",
+    "StatsKey": {
+      "RowIndex": 17856,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 5,
+    "StatMax": 5,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 113,
+    "Id": "IsEinharMemoryLine",
+    "StatsKey": {
+      "RowIndex": 17856,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 2,
+    "StatMax": 2,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 114,
+    "Id": "IsKiracMemoryLine",
+    "StatsKey": {
+      "RowIndex": 17856,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 7,
+    "StatMax": 7,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 115,
+    "Id": "Tier1",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 1,
+    "StatMax": 1,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 116,
+    "Id": "Tier2",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 2,
+    "StatMax": 2,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 117,
+    "Id": "Tier3",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 3,
+    "StatMax": 3,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 118,
+    "Id": "Tier4",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 4,
+    "StatMax": 4,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 119,
+    "Id": "Tier5",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 5,
+    "StatMax": 5,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 120,
+    "Id": "Tier6",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 6,
+    "StatMax": 6,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 121,
+    "Id": "Tier7",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 7,
+    "StatMax": 7,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 122,
+    "Id": "Tier8",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 8,
+    "StatMax": 8,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 123,
+    "Id": "Tier9",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 9,
+    "StatMax": 9,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 124,
+    "Id": "Tier10",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 10,
+    "StatMax": 10,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 125,
+    "Id": "Tier11",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 11,
+    "StatMax": 11,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 126,
+    "Id": "Tier12",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 12,
+    "StatMax": 12,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 127,
+    "Id": "Tier13",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 13,
+    "StatMax": 13,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 128,
+    "Id": "Tier14",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 14,
+    "StatMax": 14,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 129,
+    "Id": "Tier15",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 15,
+    "StatMax": 15,
+    "Unk005": false
+  },
+  {
+    "RowIndex": 130,
+    "Id": "Tier16",
+    "StatsKey": {
+      "RowIndex": 9474,
+      "TableName": "Stats"
+    },
+    "Unk002": false,
+    "StatMin": 16,
+    "StatMax": 16,
+    "Unk005": false
+  }
+]

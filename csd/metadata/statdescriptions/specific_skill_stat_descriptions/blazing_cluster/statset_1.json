@@ -1,0 +1,40 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/blazing_cluster/statset_1",
+  "Entries": {
+    "total_number_of_projectiles_to_fire": {
+      "Descriptions": []
+    },
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Explosion radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Explosion radius is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Explosion radius is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

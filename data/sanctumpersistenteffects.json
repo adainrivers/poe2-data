@@ -1,0 +1,4885 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AfflictionMonsterMoreDamage",
+    "Stats": [
+      {
+        "RowIndex": 15391,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "Honed Claws",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHonedClawsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHonedClaws",
+    "BoonDesc": "",
+    "CurseDesc": "Monsters deal 30% more Damage",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62326
+  },
+  {
+    "RowIndex": 1,
+    "Id": "BoonMonsterLessDamage",
+    "Stats": [
+      {
+        "RowIndex": 15390,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -20
+    ],
+    "Name": "Fright Mask",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFrightMaskIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFrightMask",
+    "BoonDesc": "Monsters deal 20% less Damage",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 15442
+  },
+  {
+    "RowIndex": 2,
+    "Id": "AfflictionTrapDamageMajor",
+    "Stats": [
+      {
+        "RowIndex": 19329,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Deadly Snare",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHeightenedSecurityIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHeightenedSecurity",
+    "BoonDesc": "",
+    "CurseDesc": "Traps deal Triple Damage",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41921
+  },
+  {
+    "RowIndex": 3,
+    "Id": "AfflictionTrapDamage",
+    "Stats": [
+      {
+        "RowIndex": 19330,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      100
+    ],
+    "Name": "Dark Pit",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDarkPitIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDarkPit",
+    "BoonDesc": "",
+    "CurseDesc": "Traps deal 100% increased Damage",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62584
+  },
+  {
+    "RowIndex": 4,
+    "Id": "AfflictionLessSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16329,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "Low Rivers",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLowRiversIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLowRivers",
+    "BoonDesc": "",
+    "CurseDesc": "50% less [SacredWater|Sacred Water] found",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 21680
+  },
+  {
+    "RowIndex": 5,
+    "Id": "AfflictionLessDamage",
+    "Stats": [
+      {
+        "RowIndex": 16330,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -40
+    ],
+    "Name": "Blunt Sword",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBluntSwordIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBluntSword",
+    "BoonDesc": "",
+    "CurseDesc": "You and your Minions deal 40% less Damage",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 40008
+  },
+  {
+    "RowIndex": 6,
+    "Id": "AfflictionTrapSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16321,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Rapid Quicksand",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRapidQuicksandIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRapidQuicksand",
+    "BoonDesc": "",
+    "CurseDesc": "Traps are faster",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 56047
+  },
+  {
+    "RowIndex": 7,
+    "Id": "AfflictionTrapVolatiles",
+    "Stats": [
+      {
+        "RowIndex": 16323,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "[UNUSED]",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseAnomalyAttractorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseAnomalyAttractor",
+    "BoonDesc": "",
+    "CurseDesc": "Rooms spawn [Volatiles|Volatile] Anomalies",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 8,
+    "Id": "BoonMovementSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5555,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      40
+    ],
+    "Name": "Hare Foot",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHareFootIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHareFoot",
+    "BoonDesc": "40% increased Movement Speed",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13820
+  },
+  {
+    "RowIndex": 9,
+    "Id": "BoonMoreSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16387,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "Flooding Rivers",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiver",
+    "BoonDesc": "50% more [SacredWater|Sacred Water] found",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44476
+  },
+  {
+    "RowIndex": 10,
+    "Id": "BoonGainSacredWaterWhenDamaged",
+    "Stats": [
+      {
+        "RowIndex": 16388,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "Reparations",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentGiftIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentGift",
+    "BoonDesc": "Gain 2 [SacredWater|Sacred Water] when you take Damage from an Enemy [HitDamage|Hit]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 46242
+  },
+  {
+    "RowIndex": 11,
+    "Id": "AfflictionLoseSacredWaterWhenDamaged",
+    "Stats": [
+      {
+        "RowIndex": 16390,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      20
+    ],
+    "Name": "Leaking Waterskin",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLeakingWaterskinIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLeakingWaterskin",
+    "BoonDesc": "",
+    "CurseDesc": "Lose 20 [SacredWater|Sacred Water] when you take Damage from an Enemy [HitDamage|Hit]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 61003
+  },
+  {
+    "RowIndex": 12,
+    "Id": "AfflictionLoseSacredWaterOnRoomComplete",
+    "Stats": [
+      {
+        "RowIndex": 16391,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "Gate Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionGateTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionGateToll",
+    "BoonDesc": "",
+    "CurseDesc": "Lose 30 [SacredWater|Sacred Water] on room completion",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35767
+  },
+  {
+    "RowIndex": 13,
+    "Id": "AfflictionNoSacredWaterFromMonsters",
+    "Stats": [
+      {
+        "RowIndex": 16392,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Monsters no longer drop [SacredWater|Sacred Water]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 14,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      250,
+      8
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 15,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage after completing {1} Rooms",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 15,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms7",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      250,
+      7
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 16,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage after completing {1} Rooms",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 16,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms6",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      250,
+      6
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 17,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage after completing {1} Rooms",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 17,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms5",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      250,
+      5
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 18,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage after completing {1} Rooms",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 18,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms4",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      250,
+      4
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 19,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage after completing {1} Rooms",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 19,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms3",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      250,
+      3
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 20,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage after completing {1} Rooms",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 20,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms2",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      250,
+      2
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 21,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage after completing {1} Rooms",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 21,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms1",
+    "Stats": [
+      {
+        "RowIndex": 17035,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      250
+    ],
+    "Name": "Death Toll",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage after completing the next Room",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 22,
+    "Id": "AfflictionNoSacredWaterFromChests",
+    "Stats": [
+      {
+        "RowIndex": 16393,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Exhausted Wells",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionExhaustedWellsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionExhaustedWells",
+    "BoonDesc": "",
+    "CurseDesc": "Chests no longer grant [SacredWater|Sacred Water]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35912
+  },
+  {
+    "RowIndex": 23,
+    "Id": "AfflictionMonsterLife",
+    "Stats": [
+      {
+        "RowIndex": 955,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "Spiked Shell",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedShellIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedShell",
+    "BoonDesc": "",
+    "CurseDesc": "Monsters have 50% increased Maximum Life",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13875
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AfflictionMonsterPercentageDamage",
+    "Stats": [
+      {
+        "RowIndex": 19327,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      5
+    ],
+    "Name": "Hungry Fangs",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHungryFangsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHungryFangs",
+    "BoonDesc": "",
+    "CurseDesc": "Monsters remove 5% of your Life, Mana and [EnergyShield|Energy Shield] on [HitDamage|Hit]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 359
+  },
+  {
+    "RowIndex": 25,
+    "Id": "AfflictionCannotRestoreHonour",
+    "Stats": [
+      {
+        "RowIndex": 16394,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Branded Balbalakh",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionBrandedBalbalakhIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionBrandedBalbalakh",
+    "BoonDesc": "",
+    "CurseDesc": "Cannot restore [Honour]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 19039
+  },
+  {
+    "RowIndex": 26,
+    "Id": "AfflictionReducedHonourRestored",
+    "Stats": [
+      {
+        "RowIndex": 16397,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "Suspected Sympathiser",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionSuspectedSympathiserIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionSuspectedSympathiser",
+    "BoonDesc": "",
+    "CurseDesc": "50% reduced [Honour] restored",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9350
+  },
+  {
+    "RowIndex": 27,
+    "Id": "BoonSanctumHonourRestored",
+    "Stats": [
+      {
+        "RowIndex": 16397,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "Honoured Challenger",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentHeroineIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentHeroine",
+    "BoonDesc": "50% increased [Honour] restored",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 4682
+  },
+  {
+    "RowIndex": 28,
+    "Id": "AfflictionViewRoomsAhead",
+    "Stats": [
+      {
+        "RowIndex": 16398,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -1
+    ],
+    "Name": "Black Smoke",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBlackSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBlackSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "You can see one fewer room ahead on the Trial Map",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34448
+  },
+  {
+    "RowIndex": 29,
+    "Id": "BoonViewRoomsAhead",
+    "Stats": [
+      {
+        "RowIndex": 16398,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Scrying Crystal",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonScryingCrystalIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonScryingCrystal",
+    "BoonDesc": "You can see an additional room ahead on the Trial Map",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44243
+  },
+  {
+    "RowIndex": 30,
+    "Id": "AfflictionMerchantCost",
+    "Stats": [
+      {
+        "RowIndex": 16403,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "Trade Tariff",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTradeTarifffIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTradeTarifff",
+    "BoonDesc": "",
+    "CurseDesc": "50% increased Merchant prices",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34561
+  },
+  {
+    "RowIndex": 31,
+    "Id": "BoonMerchantCost",
+    "Stats": [
+      {
+        "RowIndex": 16403,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "Silver Tongue",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSilverTongueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSilverTongue",
+    "BoonDesc": "50% reduced Merchant prices",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24536
+  },
+  {
+    "RowIndex": 32,
+    "Id": "BoonDisableTraps",
+    "Stats": [
+      {
+        "RowIndex": 16402,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Imperial Seal",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonImperialSealIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonImperialSeal",
+    "BoonDesc": "Traps are Disabled",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44836
+  },
+  {
+    "RowIndex": 33,
+    "Id": "BoonIgnoreXHitsEachRoom",
+    "Stats": [
+      {
+        "RowIndex": 16408,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Garukhan's Favour",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGarukhanStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGarukhanStatue",
+    "BoonDesc": "Ignore the first Damage taken from an Enemy [HitDamage|Hit] in each room",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 38171
+  },
+  {
+    "RowIndex": 34,
+    "Id": "AfflictionLoseAllSacredWaterOnFloorComplete",
+    "Stats": [
+      {
+        "RowIndex": 16409,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Winter Drought",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWinterDroughtIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWinterDrought",
+    "BoonDesc": "",
+    "CurseDesc": "Lose all [SacredWater|Sacred Water] on floor completion",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 20573
+  },
+  {
+    "RowIndex": 35,
+    "Id": "BoonRestoreHonourOnRoomComplete",
+    "Stats": [
+      {
+        "RowIndex": 16410,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      7
+    ],
+    "Name": "Earned Honour",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWarriorStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWarriorStatue",
+    "BoonDesc": "Restore {0} of your [Honour] on room completion",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24603
+  },
+  {
+    "RowIndex": 36,
+    "Id": "BoonDamageCooldown",
+    "Stats": [
+      {
+        "RowIndex": 20182,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Ahkeli's Guard",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSmallClayGolemIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSmallClayGolem",
+    "BoonDesc": "You cannot be Damaged for 1 second after taking Damage from an Enemy [HitDamage|Hit]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 47837
+  },
+  {
+    "RowIndex": 37,
+    "Id": "BoonRestoreHonourOnPercentHealth",
+    "Stats": [
+      {
+        "RowIndex": 16451,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      20,
+      50
+    ],
+    "Name": "Glowing Orb",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGlowOrbIcon",
+    "Unk005": 0,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGlowOrb",
+    "BoonDesc": "The next time you go below 20% of Maximum Life, restore all Life, [EnergyShield|Energy Shield] and 50% of [Honour]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 3157
+  },
+  {
+    "RowIndex": 38,
+    "Id": "AfflictionHideRoomAll",
+    "Stats": [
+      {
+        "RowIndex": 16583,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Veiled Sight",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseVeiledSightIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseVeiledSight",
+    "BoonDesc": "",
+    "CurseDesc": "Rooms are unknown on the Trial Map",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 43384
+  },
+  {
+    "RowIndex": 39,
+    "Id": "AfflictionHideRoomEncounter",
+    "Stats": [
+      {
+        "RowIndex": 16584,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Red Smoke",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRedSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRedSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "Room types are unknown on the Trial Map",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 17084
+  },
+  {
+    "RowIndex": 40,
+    "Id": "AfflictionHideRoomReward",
+    "Stats": [
+      {
+        "RowIndex": 16585,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Golden Smoke",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGoldenSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGoldenSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "Rewards are unknown on the Trial Map",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 1198
+  },
+  {
+    "RowIndex": 41,
+    "Id": "AfflictionHideRoomAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16586,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Purple Smoke",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CursePurpleSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CursePurpleSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "[Afflictions] are unknown on the Trial Map",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28906
+  },
+  {
+    "RowIndex": 42,
+    "Id": "AfflictionHonurLossIsFatal3",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Ghastly Scythe",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 43,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScythe",
+    "BoonDesc": "",
+    "CurseDesc": "Losing [Honour] ends the Trial\r\n(removed after 3 rooms)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 43,
+    "Id": "AfflictionHonourLossIsFatal2",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Ghastly Scythe",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": {
+      "RowIndex": 44,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "Losing [Honour] ends the Trial\r\n(removed after 2 rooms)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 42,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 44,
+    "Id": "AfflictionHonourLossIsFatal1",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Ghastly Scythe",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "Losing [Honour] ends the Trial\r\n(removed after 1 room)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 42,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 45,
+    "Id": "BoonDefyDeathWithLessLife",
+    "Stats": [
+      {
+        "RowIndex": 20213,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Orbala's Leathers",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmourIcon",
+    "Unk005": 12,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmour",
+    "BoonDesc": "Upon reaching 0 [Honour], revive once with 50% less [Honour]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44077
+  },
+  {
+    "RowIndex": 46,
+    "Id": "PenaltyDefiedDeathWithLessHonour",
+    "Stats": [
+      {
+        "RowIndex": 20982,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "Orbala's Leathers",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmourIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmour",
+    "BoonDesc": "50% less Maximum [Honour]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": {
+      "RowIndex": 45,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44077
+  },
+  {
+    "RowIndex": 47,
+    "Id": "BoonDefyDeath",
+    "Stats": [
+      {
+        "RowIndex": 20215,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Sekhema's Cloak",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyDescryIcon",
+    "Unk005": 2,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyDescry",
+    "BoonDesc": "Upon reaching 0 [Honour], revive once with full [Honour]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34499
+  },
+  {
+    "RowIndex": 48,
+    "Id": "BoonPreventMinorAfflictions",
+    "Stats": [
+      {
+        "RowIndex": 16596,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Dekhara's Necklace",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonDekharasResolveIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonDekharasResolve",
+    "BoonDesc": "You cannot receive any more Minor [Afflictions]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13598
+  },
+  {
+    "RowIndex": 49,
+    "Id": "AfflictionPreventBoons",
+    "Stats": [
+      {
+        "RowIndex": 16597,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Unassuming Brick",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnassumingBrickIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnassumingBrick",
+    "BoonDesc": "",
+    "CurseDesc": "You cannot gain any more [Boons]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 50613
+  },
+  {
+    "RowIndex": 50,
+    "Id": "BoonImmuneForNextRoom",
+    "Stats": [
+      {
+        "RowIndex": 19321,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Moment's Peace",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonClothFragmentTreeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonClothFragmentTree",
+    "BoonDesc": "You cannot be Damaged until you complete the next room",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 30866
+  },
+  {
+    "RowIndex": 51,
+    "Id": "AfflictionLose%LifeAndEnergyShieldOnRoomCompletion",
+    "Stats": [
+      {
+        "RowIndex": 17035,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "Spiked Exit",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedEntranceIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedEntrance",
+    "BoonDesc": "",
+    "CurseDesc": "Take {0} [Physical] Damage on Room Completion",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 53929
+  },
+  {
+    "RowIndex": 52,
+    "Id": "AfflictionNoMinimap",
+    "Stats": [
+      {
+        "RowIndex": 16661,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1,
+      -90
+    ],
+    "Name": "Tattered Blindfold",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTatteredBlindfoldIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTatteredBlindfold",
+    "BoonDesc": "",
+    "CurseDesc": "90% reduced Light Radius\r\nMinimap is hidden",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48875
+  },
+  {
+    "RowIndex": 53,
+    "Id": "AfflictionCannotGainSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16662,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Unquenched Thirst",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUnquenchedThirstIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUnquenchedThirst",
+    "BoonDesc": "",
+    "CurseDesc": "You cannot gain [SacredWater|Sacred Water]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 38381
+  },
+  {
+    "RowIndex": 54,
+    "Id": "AfflictionDamageTakenOnLowLife",
+    "Stats": [
+      {
+        "RowIndex": 20679,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      100
+    ],
+    "Name": "Dishonoured Tattoo",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionDishonouredTattooIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionDishonouredTattoo",
+    "BoonDesc": "",
+    "CurseDesc": "100% increased Damage Taken while on [LowLife|Low Life]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 5501
+  },
+  {
+    "RowIndex": 55,
+    "Id": "BoonDoubleSacredWaterThisFloor",
+    "Stats": [
+      {
+        "RowIndex": 16664,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Diverted River",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverBentRiverIcon",
+    "Unk005": 4,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverBentRiver",
+    "BoonDesc": "[SacredWater|Sacred Water] found on this floor is doubled",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45401
+  },
+  {
+    "RowIndex": 56,
+    "Id": "BoonDoubleSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16663,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Raincaller",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonRaincallingStaffIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonRaincallingStaff",
+    "BoonDesc": "[SacredWater|Sacred Water] found is doubled",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 31580
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AfflictionWrongRoom",
+    "Stats": [
+      {
+        "RowIndex": 16665,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      33
+    ],
+    "Name": "Deceptive Mirror",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseMirrorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseMirror",
+    "BoonDesc": "",
+    "CurseDesc": "You are not always taken to the room you select",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 14131
+  },
+  {
+    "RowIndex": 58,
+    "Id": "AfflictionNoHonourRecoveredThisFloor",
+    "Stats": [
+      {
+        "RowIndex": 16394,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Haemorrhage",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionHaemorrhageIcon",
+    "Unk005": 3,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionHaemorrhage",
+    "BoonDesc": "",
+    "CurseDesc": "You cannot restore [Honour] (removed after killing the next Boss)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34171
+  },
+  {
+    "RowIndex": 59,
+    "Id": "BoonRevealWholeFloor",
+    "Stats": [
+      {
+        "RowIndex": 16668,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "All-Seeing Eye",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAllSeeingEyeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAllSeeingEye",
+    "BoonDesc": "The Trial Map is fully revealed",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9121
+  },
+  {
+    "RowIndex": 60,
+    "Id": "BoonTrapSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16342,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Lustrous Pearl",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousPearlIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousPearl",
+    "BoonDesc": "Traps are slower",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 51140
+  },
+  {
+    "RowIndex": 61,
+    "Id": "BoonMonsterReducedActionSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16901,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      15
+    ],
+    "Name": "Viscous Ichor",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonViciousIchorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonViciousIchor",
+    "BoonDesc": "Monsters have 15% reduced Action Speed",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 57507
+  },
+  {
+    "RowIndex": 62,
+    "Id": "BoonMonsterReducedSanctumDamage",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "Wooden Effigy",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWoodenEffigyIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWoodenEffigy",
+    "BoonDesc": "[UNUSED]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 46977
+  },
+  {
+    "RowIndex": 63,
+    "Id": "BoonMonsterReducedMaximumLife",
+    "Stats": [
+      {
+        "RowIndex": 955,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -30
+    ],
+    "Name": "Sanguine Vial",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSanguineVialIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSanguineVial",
+    "BoonDesc": "Monsters have 30% less Maximum Life",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41741
+  },
+  {
+    "RowIndex": 64,
+    "Id": "BoonPlayerMoreDamage",
+    "Stats": [
+      {
+        "RowIndex": 16934,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "Ornate Dagger",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFancyDaggerIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFancyDagger",
+    "BoonDesc": "You and your minions deal 50% more Damage",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 29924
+  },
+  {
+    "RowIndex": 65,
+    "Id": "BoonInstaKillGuards10",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      10
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBlade",
+    "BoonDesc": "The next 10 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 66,
+    "Id": "BoonInstaKillGuards9",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      9
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next 9 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 67,
+    "Id": "BoonInstaKillGuards8",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      8
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next 8 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 68,
+    "Id": "BoonInstaKillGuards7",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      7
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next 7 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 69,
+    "Id": "BoonInstaKillGuards6",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      6
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next 6 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 70,
+    "Id": "BoonInstaKillGuards5",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      5
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next 5 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 71,
+    "Id": "BoonInstaKillGuards4",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      4
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next 4 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 72,
+    "Id": "BoonInstaKillGuards3",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      3
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next 3 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 73,
+    "Id": "BoonInstaKillGuards2",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next 2 non-Boss Monsters you [HitDamage|Hit] are killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 74,
+    "Id": "BoonInstaKillGuards1",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Assassin's Blade",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "The next non-Boss Monster you [HitDamage|Hit] is killed Instantly",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 75,
+    "Id": "BoonIncreasedRelicEffect",
+    "Stats": [
+      {
+        "RowIndex": 16788,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "Enchanted Urn",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonEnchantedUrnIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonEnchantedUrn",
+    "BoonDesc": "30% increased Effect of your Non-[ItemRarity|Unique] [Relic|Relics]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 38167
+  },
+  {
+    "RowIndex": 76,
+    "Id": "BoonHonourRestoredOnEnterBossRoom",
+    "Stats": [
+      {
+        "RowIndex": 16858,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      60
+    ],
+    "Name": "Adrenaline Vial",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAdrenalineVialIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAdrenalineVial",
+    "BoonDesc": "Restore {0} of your [Honour] on entering a Boss Room",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59406
+  },
+  {
+    "RowIndex": 77,
+    "Id": "BoonDuplicateARandomDeferredReward",
+    "Stats": [
+      {
+        "RowIndex": 20180,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Mirror of Fortune",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMirrorOfFortuneIcon",
+    "Unk005": 11,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMirrorOfFortune",
+    "BoonDesc": "The next [SekhemaKeys|Key] you pick up is duplicated",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45428
+  },
+  {
+    "RowIndex": 78,
+    "Id": "BoonMaximumHonour",
+    "Stats": [
+      {
+        "RowIndex": 20983,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      25
+    ],
+    "Name": "Orbala Statuette",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonOrbalaStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonOrbalaStatue",
+    "BoonDesc": "You have 25% more Maximum [Honour]",
+    "CurseDesc": "",
+    "Unk012": 1,
+    "Unk013": 125,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 2,
+    "Unk019": 125,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 54204
+  },
+  {
+    "RowIndex": 79,
+    "Id": "BoonRandomMinorBoonOnFountainUse",
+    "Stats": [
+      {
+        "RowIndex": 16744,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Holy Water",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyWaterIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyWater",
+    "BoonDesc": "Gain a random Minor [Boons|Boon] when you venerate a Maraketh Shrine",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28826
+  },
+  {
+    "RowIndex": 80,
+    "Id": "BoonRestoreHonourOnFountainUse",
+    "Stats": [
+      {
+        "RowIndex": 16746,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "Fountain of Youth",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFountainOfYouthIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFountainOfYouth",
+    "BoonDesc": "Restore {0} of your [Honour] when you venerate a Maraketh Shrine",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 40142
+  },
+  {
+    "RowIndex": 81,
+    "Id": "BoonNextMinorBoonConvertedToMajor",
+    "Stats": [
+      {
+        "RowIndex": 16740,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Silver Chalice",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSliverChaliceIcon",
+    "Unk005": 8,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSliverChalice",
+    "BoonDesc": "The next Minor [Boons|Boon] you gain is converted into a random Major [Boons|Boon]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 51458
+  },
+  {
+    "RowIndex": 82,
+    "Id": "BoonTrapsReducedDamage",
+    "Stats": [
+      {
+        "RowIndex": 19330,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "Black Pearl",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBlackPearlIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBlackPearl",
+    "BoonDesc": "Traps deal 50% reduced Damage",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41498
+  },
+  {
+    "RowIndex": 83,
+    "Id": "BoonNextMerchantItemFree",
+    "Stats": [
+      {
+        "RowIndex": 16859,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Balbala's Gift",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBalbalasMaskIcon",
+    "Unk005": 10,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBalbalasMask",
+    "BoonDesc": "Your next purchase from the Merchant has no cost",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 52622
+  },
+  {
+    "RowIndex": 84,
+    "Id": "BoonCanRerollMerchantShop",
+    "Stats": [
+      {
+        "RowIndex": 16860,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Chipped Dice",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonChippedDiceIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonChippedDice",
+    "BoonDesc": "The Merchant's Shop can be Rerolled",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 60796
+  },
+  {
+    "RowIndex": 85,
+    "Id": "BoonGoldPerRoomRemovedAtMerchant",
+    "Stats": [
+      {
+        "RowIndex": 16819,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      10
+    ],
+    "Name": "Upward Path",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldTrophyIcon",
+    "Unk005": 10,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldTrophy",
+    "BoonDesc": "Your [SacredWater|Sacred Water] found is increased by 10% on room completion\r\n(removed when you purchase something from the Merchant)",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 3716
+  },
+  {
+    "RowIndex": 86,
+    "Id": "BoonDuplicateAllKeyFound",
+    "Stats": [
+      {
+        "RowIndex": 20180,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Sacred Mirror",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSacredMirrorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSacredMirror",
+    "BoonDesc": "[SekhemaKeys|Keys] you pick up are duplicated",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 27130
+  },
+  {
+    "RowIndex": 87,
+    "Id": "BoonNextAfflictionConvertedToMinorBoon",
+    "Stats": [
+      {
+        "RowIndex": 16742,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Crystal Shard",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonCrystalShardIcon",
+    "Unk005": 7,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonCrystalShard",
+    "BoonDesc": "The next [Afflictions|Affliction] you gain is converted into a random Minor [Boons|Boon]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30042
+  },
+  {
+    "RowIndex": 88,
+    "Id": "BoonMoreDefences",
+    "Stats": [
+      {
+        "RowIndex": 18484,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "Lustrous Lacquer",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousLacquerIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousLacquer",
+    "BoonDesc": "You have 50% more [Defences]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 379
+  },
+  {
+    "RowIndex": 89,
+    "Id": "AfflictionReducedEffectOfRelics",
+    "Stats": [
+      {
+        "RowIndex": 16788,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "Forgotten Traditions",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionForgottenTraditionsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionForgottenTraditions",
+    "BoonDesc": "",
+    "CurseDesc": "50% reduced Effect of your Non-[ItemRarity|Unique] [Relic|Relics]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 18125
+  },
+  {
+    "RowIndex": 90,
+    "Id": "AfflictionMaximumNumberOfBoons",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "[UNUSED]",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTightCollarIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTightCollar",
+    "BoonDesc": "",
+    "CurseDesc": "You can have a maximum of 5 [Boons]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 91,
+    "Id": "AfflictionMerchantFewerChoices",
+    "Stats": [
+      {
+        "RowIndex": 16817,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "Season of Famine",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnhallowedAmuletIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnhallowedAmulet",
+    "BoonDesc": "",
+    "CurseDesc": "The Merchant offers 50% fewer choices",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35605
+  },
+  {
+    "RowIndex": 92,
+    "Id": "AfflictionAfflictionOnGainAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16743,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Myriad Aspersions",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionMyriadAspersionsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionMyriadAspersions",
+    "BoonDesc": "",
+    "CurseDesc": "When you gain an [Afflictions|Affliction], gain an additional random Minor [Afflictions|Affliction]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 56996
+  },
+  {
+    "RowIndex": 93,
+    "Id": "AfflictionAfflictionOnUseFountain",
+    "Stats": [
+      {
+        "RowIndex": 16745,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Costly Aid",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionCostlyAidIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionCostlyAid",
+    "BoonDesc": "",
+    "CurseDesc": "Gain a random Minor [Afflictions|Affliction] when you venerate a Maraketh Shrine",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32085
+  },
+  {
+    "RowIndex": 94,
+    "Id": "AfflictionMonstersBindingChainsOnHit",
+    "Stats": [
+      {
+        "RowIndex": 16904,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "Chains of Binding",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChainOfBindingIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChainOfBinding",
+    "BoonDesc": "",
+    "CurseDesc": "Monsters inflict [BindingChains|Binding Chains] on [HitDamage|Hit]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 25062
+  },
+  {
+    "RowIndex": 95,
+    "Id": "AfflictionMonstersVolatileOnDeath",
+    "Stats": [
+      {
+        "RowIndex": 16910,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "[UNUSED]",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseConcealedAnomalyIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseConcealedAnomaly",
+    "BoonDesc": "",
+    "CurseDesc": "Guards release a [Volatiles|Volatile] Anomaly on Death",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 96,
+    "Id": "AfflictionMonstersEnfeebled",
+    "Stats": [
+      {
+        "RowIndex": 965,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Untouchable",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUntouchableIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUntouchable",
+    "BoonDesc": "",
+    "CurseDesc": "You are [Curse|Cursed] with [Enfeeble]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9853
+  },
+  {
+    "RowIndex": 97,
+    "Id": "AfflictionMonstersKnockback",
+    "Stats": [
+      {
+        "RowIndex": 16902,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Rusted Mallet",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRustedMalletIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRustedMallet",
+    "BoonDesc": "",
+    "CurseDesc": "Monsters always [Knockback]\r\nMonsters have increased [Knockback] Distance",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30450
+  },
+  {
+    "RowIndex": 98,
+    "Id": "AfflictionLessMaxHonour",
+    "Stats": [
+      {
+        "RowIndex": 20984,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -25
+    ],
+    "Name": "Weakened Flesh",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWeakenedFleshIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWeakenedFlesh",
+    "BoonDesc": "",
+    "CurseDesc": "25% less Maximum [Honour]",
+    "Unk012": 1,
+    "Unk013": 75,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 2,
+    "Unk019": 75,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24131
+  },
+  {
+    "RowIndex": 99,
+    "Id": "AfflictionMonsterSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5454,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      25,
+      1
+    ],
+    "Name": "Fiendish Wings",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseFiendishWingsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseFiendishWings",
+    "BoonDesc": "",
+    "CurseDesc": "Monsters' Action Speed cannot be slowed below base\r\nMonsters have 25% increased Attack, Cast and Movement Speed",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28313
+  },
+  {
+    "RowIndex": 100,
+    "Id": "AfflictionGuardsHavePet",
+    "Stats": [
+      {
+        "RowIndex": 16908,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "[UNUSED]",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGargoyleTotemIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGargoyleTotem",
+    "BoonDesc": "",
+    "CurseDesc": "Guards are accompanied by a Gargoyle",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 101,
+    "Id": "AfflictionEveryRoomIsAfflicted",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "[UNUSED]",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseNameIllusionIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseNameIllusion",
+    "BoonDesc": "",
+    "CurseDesc": "Every room grants a random Minor [Afflictions|Affliction]\r\n([Afflictions|Afflictions] granted this way are removed on room completion)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 102,
+    "Id": "AfflictionChestsExplodeWhenOpened",
+    "Stats": [
+      {
+        "RowIndex": 16909,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "[UNUSED]",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorruptedLockpickIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorruptedLockpick",
+    "BoonDesc": "",
+    "CurseDesc": "Chests in rooms explode when opened",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 103,
+    "Id": "AfflictionReducedMovementSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5555,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -25
+    ],
+    "Name": "Worn Sandals",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseWornSandalsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseWornSandals",
+    "BoonDesc": "",
+    "CurseDesc": "25% reduced Movement Speed",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30473
+  },
+  {
+    "RowIndex": 104,
+    "Id": "AfflictionRelicsHaveNoEffect",
+    "Stats": [
+      {
+        "RowIndex": 16789,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Orb of Negation",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseOrbOfNegationIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseOrbOfNegation",
+    "BoonDesc": "",
+    "CurseDesc": "Non-[ItemRarity|Unique] [Relic|Relics] have no Effect",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 43834
+  },
+  {
+    "RowIndex": 105,
+    "Id": "AfflictionMerchantOneItem",
+    "Stats": [
+      {
+        "RowIndex": 16818,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Tradition's Demand",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTraditionsDemandIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTraditionsDemand",
+    "BoonDesc": "",
+    "CurseDesc": "The Merchant only offers one choice",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 55120
+  },
+  {
+    "RowIndex": 106,
+    "Id": "AfflictionMonsterPetrifyOnHit",
+    "Stats": [
+      {
+        "RowIndex": 16903,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      4
+    ],
+    "Name": "Chiselled Stone",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChiselledStoneIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChiselledStone",
+    "BoonDesc": "",
+    "CurseDesc": "Monsters [Petrify] on Hit",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6958
+  },
+  {
+    "RowIndex": 107,
+    "Id": "AfflictionBoonConveretedToMinorAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16741,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Glass Shard",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGlassShardIcon",
+    "Unk005": 6,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGlassShard",
+    "BoonDesc": "",
+    "CurseDesc": "The next [Boons|Boon] you gain is converted into a random Minor [Afflictions|Affliction]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45600
+  },
+  {
+    "RowIndex": 108,
+    "Id": "AfflictionNoEvasion",
+    "Stats": [
+      {
+        "RowIndex": 19324,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Iron Manacles",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseIronManaclesIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseIronManacles",
+    "BoonDesc": "",
+    "CurseDesc": "You have no [Evasion]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35578
+  },
+  {
+    "RowIndex": 109,
+    "Id": "AfflictionNoArmour",
+    "Stats": [
+      {
+        "RowIndex": 19322,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Sharpened Arrowhead",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSharpenedArrowheadIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSharpenedArrowhead",
+    "BoonDesc": "",
+    "CurseDesc": "You have no [Armour]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48487
+  },
+  {
+    "RowIndex": 110,
+    "Id": "AfflictionNoEnergyShield",
+    "Stats": [
+      {
+        "RowIndex": 19323,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Shattered Shield",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseShatteredShieldIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseShatteredShield",
+    "BoonDesc": "",
+    "CurseDesc": "You have no [EnergyShield|Energy Shield]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16335
+  },
+  {
+    "RowIndex": 111,
+    "Id": "AfflictionNoDefences",
+    "Stats": [
+      {
+        "RowIndex": 19326,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "Corrosive Concoction",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorrosiveConcoctionIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorrosiveConcoction",
+    "BoonDesc": "",
+    "CurseDesc": "You have no [Defences]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 55502
+  },
+  {
+    "RowIndex": 112,
+    "Id": "PactOpenChestsWithNoKey",
+    "Stats": [
+      {
+        "RowIndex": 20683,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1,
+      100
+    ],
+    "Name": "Pledge to the Guileful",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentCanOpenChestWithoutKey",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/CanOpenChestWithoutKey",
+    "BoonDesc": "Can Open 1 Reward Chest in each Room without using a Key",
+    "CurseDesc": "Take {0} Physical Damage on opening a Key Chest without using a Key",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62382
+  },
+  {
+    "RowIndex": 113,
+    "Id": "PactEasierBosses",
+    "Stats": [
+      {
+        "RowIndex": 16609,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      100,
+      -50
+    ],
+    "Name": "Pledge to the Powerful",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentBossDealLessDamage",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/BossDealLessDamage",
+    "BoonDesc": "50% less [Honour] lost in Boss Rooms",
+    "CurseDesc": "100% more [Honour] lost in non-Boss Rooms",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 27532
+  },
+  {
+    "RowIndex": 114,
+    "Id": "PactNoGoldGainReducedPrices",
+    "Stats": [
+      {
+        "RowIndex": 18202,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      -50,
+      1
+    ],
+    "Name": "Pledge to the Deserted",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentMerchantCheaperNoSacredWaterDrop",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/MerchantCheaperNoSacredWaterDrop",
+    "BoonDesc": "50% less Merchant prices",
+    "CurseDesc": "Monsters do not drop [SacredWater|Sacred Water]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 60079
+  },
+  {
+    "RowIndex": 115,
+    "Id": "PactKeyOnAffliction",
+    "Stats": [
+      {
+        "RowIndex": 21079,
+        "TableName": "Stats"
+      },
+      {
+        "RowIndex": 0,
+        "TableName": "Stats"
+      }
+    ],
+    "StatValues": [
+      1,
+      -10
+    ],
+    "Name": "Pledge to the Afflicted",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentGainKeyWhenAfflicted",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/GainKeyWhenAfflicted",
+    "BoonDesc": "Gain a Key when you are Afflicted",
+    "CurseDesc": "10% reduced [Honour] Restored",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48548
+  },
+  {
+    "RowIndex": 116,
+    "Id": "HiddenFlagIsQuestSanctum",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "",
+    "Icon": "",
+    "Unk005": 13,
+    "Unk006": false,
+    "EffectCategory": {
+      "RowIndex": 0,
+      "TableName": "SanctumPersistentEffectCategories"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 0
+  }
+]

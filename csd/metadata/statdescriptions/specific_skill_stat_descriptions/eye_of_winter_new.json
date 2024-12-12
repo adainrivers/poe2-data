@@ -1,0 +1,21 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/eye_of_winter_new",
+  "Entries": {
+    "eye_of_winter_damage_+%_final_per_ground_effect_type": {
+      "Descriptions": [
+        {
+          "Operator": "1|# table_only",
+          "Description": "Damage [Gain|Gained] from [ElementalGround|Ground Surfaces]@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "[Gain|Gains] {0}% of damage as the corresponding [ElementalDamage|Type] when\\npassing over a Ground Surface",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

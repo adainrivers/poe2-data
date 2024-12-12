@@ -1,0 +1,330 @@
+{
+  "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+  "Entries": {
+    "action_speed_-%": {
+      "Descriptions": []
+    },
+    "damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Allies deal {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Enemies deal {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_movement_velocity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "You and nearby Allies have {0}% increased Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "You and nearby Allies have {0}% reduced Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "chance_to_be_ignited_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Enemies have {0:+d}% chance to be Ignited when Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_be_frozen_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Enemies have {0:+d}% chance to be Frozen when Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_be_shocked_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Enemies have {0:+d}% chance to be Shocked when Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "inquisitor_aura_elemental_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Enemies deal {0}% more Elemental Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Enemies deal {0}% less Elemental Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "elemental_damage_taken_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Enemies take {0}% increased Elemental Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Enemies take {0}% reduced Elemental Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_cold_damage_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Nearby Enemies have {0:+d}% to [Cold|Cold] Resistance",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_chaos_damage_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Nearby Enemies have {0:+d}% to [Chaos|Chaos] Resistance",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "life_regeneration_rate_per_minute_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "You and nearby Allies Regenerate {0}% of Life per second",
+          "IsCanonical": false,
+          "Parameters": {
+            "per_minute_to_per_second_2dp": 1
+          }
+        }
+      ]
+    },
+    "life_regeneration_rate_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Enemies have {0}% increased Life Regeneration rate",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Enemies have {0}% reduced Life Regeneration rate",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "hit_damage_+%_while_chilled": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Chilled Enemies deal {0}% increased Damage with Hits",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Chilled Enemies deal {0}% reduced Damage with Hits",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_over_time_+%_while_hindered": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Hindered Enemies deal {0}% increased Damage over Time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Hindered Enemies deal {0}% reduced Damage over Time",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_critical_strike_multiplier_+": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Enemies have {0}% increased [CriticalDamageBonus|Critical Damage Bonus]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Enemies have {0}% reduced [CriticalDamageBonus|Critical Damage Bonus]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "attack_cast_movement_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Allies have {0}% increased Attack, Cast and Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Allies have {0}% reduced Attack, Cast and Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_skill_area_of_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Allies have {0}% increased Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Allies have {0}% reduced Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "chance_to_intimidate_on_hit_%": {
+      "Descriptions": [
+        {
+          "Operator": "#|99",
+          "Description": "Nearby Allies have {0}% chance to Intimidate Enemies for 4 seconds on Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Nearby Allies Intimidate Enemies for 4 seconds on Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_unnerve_on_hit_%": {
+      "Descriptions": [
+        {
+          "Operator": "#|99",
+          "Description": "Nearby Allies have {0}% chance to Unnerve Enemies for 4 seconds on Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Nearby Allies Unnerve Enemies for 4 seconds on Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "has_tailwind": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "You and nearby Allies have Tailwind",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_cooldown_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Nearby Enemies have {0}% increased [CooldownRecovery|Cooldown Recovery Rate]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Nearby Enemies have {0}% reduced [CooldownRecovery|Cooldown Recovery Rate]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "blinded": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Nearby Enemies are Blinded",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "global_cannot_crit": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Nearby Enemies cannot deal [Critical|Critical Hits]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

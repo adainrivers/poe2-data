@@ -1,0 +1,61 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/emergency_reload",
+  "Entries": {
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Maximum [Buff] duration is {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Maximum [Buff] duration is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "emergency_reload_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Empowered] bolt more damage@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "[Buff] [Empowered|Empowers] loaded bolts with {0}% more damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "[Buff] [Empowered|Empowers] loaded bolts with {0}% less damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Maximum [Buff] duration@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

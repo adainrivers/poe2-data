@@ -1,0 +1,1042 @@
+[
+  {
+    "RowIndex": 0,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 16,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Add a Veiled Mod to a Rare item",
+    "ServerCommand": "add_veiled_mods 0",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 1,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 16,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Add a Veiled Mod to a Rare item, with a low chance of adding a second Veiled Mod",
+    "ServerCommand": "add_veiled_mods 5",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 2,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 16,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Add a Veiled Modifier to a Rare item, with a chance of adding a second Veiled Modifier",
+    "ServerCommand": "add_veiled_mods 15",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 3,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 16,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Replace a random Modifier on a Rare item with a Veiled Modifier",
+    "ServerCommand": "replace_mod_with_veiled_mod",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 4,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 11,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Swap a Divination Card with a new random one",
+    "ServerCommand": "swap_divination_card BetrayalDivCardSwap1",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 5,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 11,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Swap a Divination Card with a new random one",
+    "ServerCommand": "swap_divination_card BetrayalDivCardSwap2",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 6,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 11,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Swap a Divination Card with a new random one",
+    "ServerCommand": "swap_divination_card BetrayalDivCardSwap3",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 7,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 11,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Swap a Divination Card with a new random one",
+    "ServerCommand": "swap_divination_card BetrayalDivCardSwap3",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 8,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Modify a Map's quality to 25%",
+    "ServerCommand": "set_quality map 25",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 9,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Modify a Map's quality to 30%",
+    "ServerCommand": "set_quality map 30",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 10,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Modify a Map's quality to 35%",
+    "ServerCommand": "set_quality map 35",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 11,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Modify a Map's quality to 35%",
+    "ServerCommand": "set_quality map 35",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 12,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Modify an Armour Piece's quality to 24%",
+    "ServerCommand": "set_quality armour 24",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 13,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Modify an Armour Piece's quality to 26%",
+    "ServerCommand": "set_quality armour 26",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 14,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Modify an Armour Piece's quality to 28%",
+    "ServerCommand": "set_quality armour 28",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 15,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Modify an Armour Piece's quality to 30%",
+    "ServerCommand": "set_quality armour 30",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 16,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Modify a Weapon's quality to 24%",
+    "ServerCommand": "set_quality weapon 24",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 17,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Modify a Weapon's quality to 26%",
+    "ServerCommand": "set_quality weapon 26",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 18,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Modify a Weapon's quality to 28%",
+    "ServerCommand": "set_quality weapon 28",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 19,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Modify a Weapon's quality to 30%",
+    "ServerCommand": "set_quality weapon 30",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 20,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Modify a Flask's quality to 22%",
+    "ServerCommand": "set_quality flask 22",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 21,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Modify a Flask's quality to 24%",
+    "ServerCommand": "set_quality flask 24",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 22,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Modify a Flask's quality to 26%",
+    "ServerCommand": "set_quality flask 26",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 23,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Modify a Flask's quality to 28%",
+    "ServerCommand": "set_quality flask 28",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 24,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 7,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Reforge the colours of sockets on an item 50 times, using the outcome with the greatest number of less-common socket colours",
+    "ServerCommand": "modify_sockets_N_times 50 colours",
+    "Unk005": [],
+    "Description2": "Modify a Flask's quality to 22%",
+    "ServerCommand2": "set_quality flask 22"
+  },
+  {
+    "RowIndex": 25,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 7,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Reforge the number of sockets on an item 50 times, using the outcome with the greatest number of sockets",
+    "ServerCommand": "modify_sockets_N_times 50 sockets",
+    "Unk005": [],
+    "Description2": "Modify a Flask's quality to 24%",
+    "ServerCommand2": "set_quality flask 24"
+  },
+  {
+    "RowIndex": 26,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 7,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Reforge the links between sockets on an item 50 times, using the outcome with the greatest number of linked sockets",
+    "ServerCommand": "modify_sockets_N_times 50 links",
+    "Unk005": [],
+    "Description2": "Modify a Flask's quality to 26%",
+    "ServerCommand2": "set_quality flask 26"
+  },
+  {
+    "RowIndex": 27,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 7,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Reforge the links between sockets on an item 50 times, using the outcome with the greatest number of linked sockets",
+    "ServerCommand": "modify_sockets_N_times 50 links",
+    "Unk005": [],
+    "Description2": "Modify a Flask's quality to 28%",
+    "ServerCommand2": "set_quality flask 28"
+  },
+  {
+    "RowIndex": 28,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 12,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Transform a non-unique Amulet into a Tier 1 Talisman",
+    "ServerCommand": "transform_into_talisman 1",
+    "Unk005": [
+      {
+        "RowIndex": 8349,
+        "TableName": null
+      }
+    ],
+    "Description2": "Transform a non-unique Amulet into a Tier 1 Talisman",
+    "ServerCommand2": "transform_into_talisman 1"
+  },
+  {
+    "RowIndex": 29,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 12,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Transform a non-unique Amulet into a Tier 2 Talisman",
+    "ServerCommand": "transform_into_talisman 2",
+    "Unk005": [
+      {
+        "RowIndex": 8349,
+        "TableName": null
+      }
+    ],
+    "Description2": "Transform a non-unique Amulet into a Tier 2 Talisman",
+    "ServerCommand2": "transform_into_talisman 2"
+  },
+  {
+    "RowIndex": 30,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 12,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Transform a non-unique Amulet into a Tier 3 Talisman",
+    "ServerCommand": "transform_into_talisman 3",
+    "Unk005": [
+      {
+        "RowIndex": 8349,
+        "TableName": null
+      }
+    ],
+    "Description2": "Transform a non-unique Amulet into a Tier 3 Talisman",
+    "ServerCommand2": "transform_into_talisman 3"
+  },
+  {
+    "RowIndex": 31,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 12,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Transform a non-unique Amulet into a Tier 3 Talisman",
+    "ServerCommand": "transform_into_talisman 3",
+    "Unk005": [
+      {
+        "RowIndex": 8349,
+        "TableName": null
+      }
+    ],
+    "Description2": "Transform a non-unique Amulet into a Tier 3 Talisman",
+    "ServerCommand2": "transform_into_talisman 3"
+  },
+  {
+    "RowIndex": 32,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Add 20m experience to a Gem",
+    "ServerCommand": "add_gem_experience 20000000",
+    "Unk005": [],
+    "Description2": "Add 10m experience to a Gem",
+    "ServerCommand2": "add_gem_experience 10000000"
+  },
+  {
+    "RowIndex": 33,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Add 70m experience to a Gem",
+    "ServerCommand": "add_gem_experience 70000000",
+    "Unk005": [],
+    "Description2": "Add 35m experience to a Gem",
+    "ServerCommand2": "add_gem_experience 35000000"
+  },
+  {
+    "RowIndex": 34,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Add 200m experience to a Gem",
+    "ServerCommand": "add_gem_experience 200000000",
+    "Unk005": [],
+    "Description2": "Add 70m experience to a Gem",
+    "ServerCommand2": "add_gem_experience 70000000"
+  },
+  {
+    "RowIndex": 35,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Add 200m experience to a Gem",
+    "ServerCommand": "add_gem_experience 200000000",
+    "Unk005": [],
+    "Description2": "Add 150m experience to a Gem",
+    "ServerCommand2": "add_gem_experience 150000000"
+  },
+  {
+    "RowIndex": 36,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "Modify an item to have 1 White Socket",
+    "ServerCommand": "roll_white_sockets 0",
+    "Unk005": [],
+    "Description2": "Reforge the links between sockets on an item 10 times, using the outcome with the greatest number of linked sockets",
+    "ServerCommand2": "modify_sockets_N_times 10 links"
+  },
+  {
+    "RowIndex": 37,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "Modify an item to have 1-2 White Sockets",
+    "ServerCommand": "roll_white_sockets 1",
+    "Unk005": [],
+    "Description2": "Reforge the links between sockets on an item 15 times, using the outcome with the greatest number of linked sockets",
+    "ServerCommand2": "modify_sockets_N_times 15 links"
+  },
+  {
+    "RowIndex": 38,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "Modify an item to have 1-3 White Sockets",
+    "ServerCommand": "roll_white_sockets 2",
+    "Unk005": [],
+    "Description2": "Reforge the links between sockets on an item 20 times, using the outcome with the greatest number of linked sockets",
+    "ServerCommand2": "modify_sockets_N_times 20 links"
+  },
+  {
+    "RowIndex": 39,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "Modify an item to have 1-6 White Sockets",
+    "ServerCommand": "roll_white_sockets 5",
+    "Unk005": [],
+    "Description2": "Reforge the links between sockets on an item 30 times, using the outcome with the greatest number of linked sockets",
+    "ServerCommand2": "modify_sockets_N_times 30 links"
+  },
+  {
+    "RowIndex": 40,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Reforge the colours of sockets on an item 10 times, using the outcome with the greatest number of less-common socket colours",
+    "ServerCommand2": "modify_sockets_N_times 10 colours"
+  },
+  {
+    "RowIndex": 41,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Reforge the colours of sockets on an item 20 times, using the outcome with the greatest number of less-common socket colours",
+    "ServerCommand2": "modify_sockets_N_times 20 colours"
+  },
+  {
+    "RowIndex": 42,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Reforge the colours of sockets on an item 30 times, using the outcome with the greatest number of less-common socket colours",
+    "ServerCommand2": "modify_sockets_N_times 30 colours"
+  },
+  {
+    "RowIndex": 43,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Reforge the colours of sockets on an item 40 times, using the outcome with the greatest number of less-common socket colours",
+    "ServerCommand2": "modify_sockets_N_times 40 colours"
+  },
+  {
+    "RowIndex": 44,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Reforge the number of sockets on an item 10 times, using the outcome with the greatest number of sockets",
+    "ServerCommand2": "modify_sockets_N_times 10 sockets"
+  },
+  {
+    "RowIndex": 45,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Reforge the number of sockets on an item 20 times, using the outcome with the greatest number of sockets",
+    "ServerCommand2": "modify_sockets_N_times 20 sockets"
+  },
+  {
+    "RowIndex": 46,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Reforge the number of sockets on an item 30 times, using the outcome with the greatest number of sockets",
+    "ServerCommand2": "modify_sockets_N_times 30 sockets"
+  },
+  {
+    "RowIndex": 47,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Reforge the number of sockets on an item 40 times, using the outcome with the greatest number of sockets",
+    "ServerCommand2": "modify_sockets_N_times 40 sockets"
+  },
+  {
+    "RowIndex": 48,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify an Armour Piece's quality to 22%",
+    "ServerCommand2": "set_quality armour 22"
+  },
+  {
+    "RowIndex": 49,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify an Armour Piece's quality to 24%",
+    "ServerCommand2": "set_quality armour 24"
+  },
+  {
+    "RowIndex": 50,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify an Armour Piece's quality to 26%",
+    "ServerCommand2": "set_quality armour 26"
+  },
+  {
+    "RowIndex": 51,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify an Armour Piece's quality to 28%",
+    "ServerCommand2": "set_quality armour 28"
+  },
+  {
+    "RowIndex": 52,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify a Weapon's quality to 22%",
+    "ServerCommand2": "set_quality weapon 22"
+  },
+  {
+    "RowIndex": 53,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify a Weapon's quality to 24%",
+    "ServerCommand2": "set_quality weapon 24"
+  },
+  {
+    "RowIndex": 54,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify a Weapon's quality to 26%",
+    "ServerCommand2": "set_quality weapon 26"
+  },
+  {
+    "RowIndex": 55,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify a Weapon's quality to 28%",
+    "ServerCommand2": "set_quality weapon 28"
+  },
+  {
+    "RowIndex": 56,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 14,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify a Map's quality to 22%",
+    "ServerCommand2": "set_quality map 22"
+  },
+  {
+    "RowIndex": 57,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 14,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify a Map's quality to 24%",
+    "ServerCommand2": "set_quality map 24"
+  },
+  {
+    "RowIndex": 58,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 14,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify a Map's quality to 26%",
+    "ServerCommand2": "set_quality map 26"
+  },
+  {
+    "RowIndex": 59,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 14,
+      "TableName": "BetrayalTargets"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Modify a Map's quality to 28%",
+    "ServerCommand2": "set_quality map 28"
+  }
+]

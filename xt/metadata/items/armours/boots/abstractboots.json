@@ -1,0 +1,122 @@
+{
+  "Path": "metadata/items/armours/boots/abstractboots",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "x_size",
+          "Value": 2,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 2,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "boots",
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "armour",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "inventory_type",
+          "Value": "Boots",
+          "Children": []
+        },
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "mod_stat_description_list",
+          "Value": "Metadata/StatDescriptions/advanced_mod_stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "normal",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "rare",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "unique",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "AttributeRequirements",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Quality",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "max_quality",
+          "Value": 20,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Armour",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Sockets",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "socket_info",
+          "Value": "1:5:100",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    }
+  ]
+}

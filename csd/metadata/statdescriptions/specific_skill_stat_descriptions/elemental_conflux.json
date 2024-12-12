@@ -1,0 +1,53 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/elemental_conflux",
+  "Entries": {
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0} second duration between [ElementalDamage|Element] randomisations",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Duration between randomisations@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "skill_elemental_conflux_active_element_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More damage granted@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "[Buff] grants {0}% more damage with the affected [ElementalDamage|Element]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "[Buff] grants {0}% less damage with the affected [ElementalDamage|Element]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    }
+  }
+}

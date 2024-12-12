@@ -1,0 +1,61 @@
+{
+  "Path": "metadata/items/delve/delvestackablesocketablecurrency",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Stack",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Sockets",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "lock_sockets_when_full",
+          "Value": true,
+          "Children": []
+        },
+        {
+          "Key": "socket_info",
+          "Value": "0:1:1 1:9999:100 2:9999:90 3:9999:80 4:9999:30 5:9999:20 6:9999:5",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Usable",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "usable_when_sockets_locked",
+          "Value": true,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "AttributeRequirements",
+      "Value": null,
+      "Children": []
+    }
+  ]
+}

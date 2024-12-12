@@ -1,0 +1,147 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/rain_of_arrows_new",
+  "Entries": {
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Rain radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Rain radius is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Rain radius is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_secondary_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "Arrow impact radius is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Arrow impact radius is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_secondary_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Impact radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "base_number_of_arrow_rains_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} arrow rain",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Maximum {0} arrow rains",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "number_of_arrow_rains_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Arrow Rain Maximum@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "rain_of_arrows_delay_per_arrow": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Arrow landing interval@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "One arrow lands every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "rain_of_arrows_projectile_count_multiplier_if_any_frenzy_charge_spent": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More arrows fired if [Charges|Frenzy Charge] Consumed@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Fires {0}% more Arrows if a [Charges|Frenzy Charge] was consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "rain_of_arrows_projectile_count_multiplier_per_frenzy_charge": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More arrows fired per [Charges|Frenzy Charge] Consumed@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Fires {0}% more Arrows per [Charges|Frenzy Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

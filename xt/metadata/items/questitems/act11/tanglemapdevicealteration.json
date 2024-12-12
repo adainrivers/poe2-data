@@ -1,0 +1,76 @@
+{
+  "Path": "metadata/items/questitems/act11/tanglemapdevicealteration",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "description_text",
+          "Value": "ItemDescriptionTangleAlteration",
+          "Children": []
+        },
+        {
+          "Key": "x_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "quest_item",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Usable",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "action",
+          "Value": "upgrade_map_device",
+          "Children": []
+        },
+        {
+          "Key": "use_type",
+          "Value": "Appliable",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Stack",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "function_text",
+          "Value": "ItemFunctionTangleAlteration",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Quest",
+      "Value": null,
+      "Children": []
+    }
+  ]
+}

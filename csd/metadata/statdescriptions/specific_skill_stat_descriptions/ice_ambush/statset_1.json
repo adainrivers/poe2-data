@@ -1,0 +1,49 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ice_ambush/statset_1",
+  "Entries": {
+    "frost_wall_maximum_life": {
+      "Descriptions": []
+    },
+    "base_skill_effect_duration": {
+      "Descriptions": []
+    },
+    "skill_ground_effect_duration": {
+      "Descriptions": []
+    },
+    "base_number_of_frozen_locus_allowed": {
+      "Descriptions": []
+    },
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[ChilledGround|Chilled Ground] radius@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "[ChilledGround|Chilled Ground] radius is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "[ChilledGround|Chilled Ground] radius is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

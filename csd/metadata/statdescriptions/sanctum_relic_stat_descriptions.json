@@ -1,0 +1,981 @@
+{
+  "Path": "metadata/statdescriptions/sanctum_relic_stat_descriptions",
+  "Entries": {
+    "map_sanctum_boss_drop_unique_1": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Zarokh, the Eternal drops Blessed Bonds",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_sanctum_boss_drop_unique_5": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Zarokh, the Eternal drops Against the Darkness",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_avoid_sanctum_damage_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance to Avoid Resolve loss from Enemy Hits",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "gain_x_sanctum_gold_on_room_completion": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Gain {0} [SacredWater|Sacred Water] when you complete a Room",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_additional_player_maximum_resistances_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d}% to all [MaximumResistances|Maximum Resistances]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_lycia2_aureus_converted_to_experience": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Aureus Coins are converted to Experience upon defeating the Herald of the Scourge",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_lycia2_aureus_converted_to_relics": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Aureus Coins are converted to Relics upon defeating the Herald of the Scourge",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_lycia2_aureus_converted_to_tainted_currency": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Aureus Coins are converted to Tainted Currency upon defeating the Herald of the Scourge",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_lycia2_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Zarokh, the Eternal deals {0}% more Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Zarokh, the Eternal deals {0}% less Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_lycia2_damage_taken_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Zarokh, the Eternal takes {0}% more Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Zarokh, the Eternal takes {0}% less Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_lycia2_drop_additional_sanctified_relic_corruption_currency": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "The Herald of the Scourge drops an additional Invocation",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "The Herald of the Scourge drops {0} additional Invocations",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_lycia2_drop_additional_sanctum_key": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Zarokh, the Eternal drops an additional Barya",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Zarokh, the Eternal drops {0} additional Baryas",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_lycia2_duplicate_up_to_x_deferred_rewards": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Duplicates up to {} random Offer Reward upon defeating the Herald of the Scourge",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Duplicates up to {} random Offer Rewards upon defeating the Herald of the Scourge",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_monster_attack_cast_and_movement_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters have {0}% increased [Attack], Cast and Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters have {0}% reduced [Attack], Cast and Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_monster_damage_taken_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters take {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters take {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_monsters_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Monsters deal {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Monsters deal {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_player_armour_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Armour]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Armour]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_player_base_additional_physical_damage_reduction_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% additional Physical Damage Reduction",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_player_base_self_critical_strike_multiplier_-%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Hits against you have {0}% reduced [CriticalDamageBonus|Critical Damage Bonus]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Hits against you have {0}% increased [CriticalDamageBonus|Critical Damage Bonus]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_player_base_slow_potency_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_player_defences_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Defences]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "% reduced [Defences]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_player_defences_are_zero": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "You have no [Defences]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_player_dodge_roll_base_travel_distance": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "{0:+d} metre to Dodge Roll distance",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "{0:+d} metres to Dodge Roll distance",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "map_player_energy_shield_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased maximum [EnergyShield|Energy Shield]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced maximum [EnergyShield|Energy Shield]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_player_evasion_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Evasion|Evasion] Rating",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Evasion|Evasion] Rating",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_player_maximum_life_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased maximum Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced maximum Life",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_players_movement_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_players_resist_all_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d}% to All [Resistances]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_sanctum_avoid_resolve_damage_from_melee_hits_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased chance to avoid [Honour] loss from Enemy [Melee] Hits",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% decreased chance to avoid [Honour] loss from Enemy [Melee] Hits",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_avoid_resolve_damage_from_projectile_hits_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased chance to Avoid Resolve Loss from Enemy Projectile Hits",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% increased chance to Avoid Resolve Loss from Enemy Projectile Hits",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% chance to Avoid Resolve loss from Enemy Hits if you've been Hit recently",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% chance to Avoid Resolve loss from Enemy Hits if you've been Hit recently",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_boss_damage_taken_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Bosses take {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Bosses take {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_boss_drop_unique_2": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Zarokh, the Eternal drops Temporalis",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_sanctum_boss_drop_unique_3": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Zarokh, the Eternal drops Sekhema's Resolve",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_sanctum_boss_drop_unique_4": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Zarokh, the Eternal drops Sandstorm Visage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_sanctum_boss_sanctum_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Traps deal {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Traps deal {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_guard_damage_taken_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Rarity|Rare] Monsters take {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "[Rarity|Rare] Monsters take {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_guard_sanctum_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Rarity|Rare] Monsters deal {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "[Rarity|Rare] Monsters deal {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_key_drop_chance_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased quantity of [SekhemaKeys|Keys] dropped by Monsters",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced quantity of [SekhemaKeys|Keys] dropped by Monsters",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_relic_drop_chance_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased quantity of [Relic|Relics] dropped by Monsters",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced quantity of [Relic|Relics] dropped by Monsters",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_resolve_aegis_absorption_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Resolve Aegis",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Resolve Aegis",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_resolve_aegis_recovery_rate_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Resolve Aegis Recovers {0}% faster while not losing Resolve",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Resolve Aegis Recovers {0}% slower while not losing Resolve",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_sanctum_resolve_damage_reduction_based_on_+%_of_armour": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Resolve Mitigation from Enemy Hits is based on {0:+d}% of [Armour]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_sanctum_resolve_damage_reduction_doubled_when_hit_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Resolve Mitigation to be doubled when Hit by an Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_additional_key_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "When you gain a [SekhemaKeys|Key] {0}% chance to gain another",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "When you gain a [SekhemaKeys|Key] gain another",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_additional_max_honour_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d}% to [MaximumResistances|Maximum] [Honour] [Resistances|Resistance]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_avoid_affliction_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to Avoid gaining an [Afflictions|Affliction]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Cannot gain [Afflictions]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_cannot_restore_honour": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Cannot restore [Honour]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_chance_to_prevent_zero_honour_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance if you were to lose all your [Honour] to have 1 [Honour] instead",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_chance_to_upgrade_key_on_floor_completed_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance for each of your [SekhemaKeys|Keys] to upgrade on completing a Floor",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Your [SekhemaKeys|Keys] to upgrade on completing a Floor",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_damage_aegis_max_absorption": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0} Resolve Aegis",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_damage_taken_+%_final_from_armour": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% Resolve Mitigation from Enemy Hits",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sanctum_fountain_double_gold_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Fountains have {0}% chance to grant double [SacredWater|Sacred Water]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_hide_room_all": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Rooms are unknown on the Trial Map",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_honour_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d}% to [Honour] [Resistances|Resistance]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_honour_restored_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Honour] restored",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Honour] restored",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sanctum_map_reveal_extra_room_each_floor": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "An additional Room is revealed on the Trial Map",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "{0} additional Rooms are revealed on the Trial Map",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_max_honour_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased maximum [Honour]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced maximum [Honour]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sanctum_maximum_honour_is_1": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Maximum [Honour] is 1",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_merchant_additional_options": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "The Merchant has an additional Choice",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "The Merchant has {0} additional Choices",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_merchant_gold_cost_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Merchant Prices",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Merchant Prices",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "sanctum_monster_double_gold_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Monsters have {0}% chance to drop double [SacredWater|Sacred Water]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_prevent_boons": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Cannot have Boons",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_restore_honour_on_boss_kill": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Restore {0} [Honour] on killing a Boss",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_restore_honour_on_fountain_use": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Restore {0} [Honour] on venerating a Maraketh Shrine",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_restore_honour_on_gain_key": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Restore {0} [Honour] on picking up a [SekhemaKeys|Key]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_restore_honour_on_room_completion": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Restore {0} [Honour] on room completion",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "sanctum_starting_gold": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Gain {0} [SacredWater|Sacred Water] at the start of the Trial",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_unique_relic_sanctum_level_restriction": {
+      "Descriptions": [
+        {
+          "Operator": "76|#",
+          "Description": "Cannot be used with Trials below level {}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "local_unique_relic_destroyed_on_sanctum_start": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "This item is destroyed when applied to a Trial",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

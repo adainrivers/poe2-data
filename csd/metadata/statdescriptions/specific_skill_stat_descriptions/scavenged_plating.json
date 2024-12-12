@@ -1,0 +1,80 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/scavenged_plating",
+  "Entries": {
+    "base_secondary_skill_effect_duration": {
+      "Descriptions": []
+    },
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Scavenged Plating duration is {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Scavenged Plating duration is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "scavenged_plating_armour_+%_final_per_stack": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "More [Armour] per Scavenged Plating@{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more [Armour] per Scavenged Plating",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less [Armour] per Scavenged Plating",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "scavenged_plating_maximum_stacks_display": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Maximum Scavenged Plating@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Maximum {0} Scavenged Plating",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Scavenged Plating duration@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

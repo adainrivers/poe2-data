@@ -1,0 +1,96 @@
+{
+  "Path": "metadata/items/rings/abstractring",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "x_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "ring",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "inventory_type",
+          "Value": "Ring",
+          "Children": []
+        },
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "mod_stat_description_list",
+          "Value": "Metadata/StatDescriptions/advanced_mod_stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "normal",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "rare",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "unique",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Sockets",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "socket_info",
+          "Value": "0:1:1 1:9999:100 2:9999:90 3:9999:80 4:9999:30 5:9999:20 6:9999:5",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    }
+  ]
+}

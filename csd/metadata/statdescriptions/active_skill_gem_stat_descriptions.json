@@ -1,0 +1,4163 @@
+{
+  "Path": "metadata/statdescriptions/active_skill_gem_stat_descriptions",
+  "Entries": {
+    "off_hand_base_weapon_attack_duration_ms": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Base Off Hand [Attack] time is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "active_skill_attack_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Deals {0}% more [Attack] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Deals {0}% less [Attack] Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "supplementary_stat_container_attack_speed_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_attack_damage_final_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Deals {0}% more [Attack] Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Deals {0}% less [Attack] Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred_and_negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Deals {0}% more Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Deals {0}% less Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_minion_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Minions deal {0}% of Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "multiplicative_damage_modifier": 1
+          }
+        }
+      ]
+    },
+    "active_skill_minion_physical_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[Minion|Minions] deal {0}% of [Physical] Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "multiplicative_damage_modifier": 1
+          }
+        }
+      ]
+    },
+    "active_skill_physical_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Deals {0}% more Physical Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Deals {0}% less Physical Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "physical_damage_+%_per_frenzy_charge": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Physical Damage per Frenzy Charge",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Physical Damage per Frenzy Charge",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_number_of_zombies_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} Raised Zombie",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} Raised Zombies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_spectres_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} Raised Spectre",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Maximum {0} Raised Spectres",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_skeletons_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} Summoned Skeleton",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|#",
+          "Description": "Maximum {0} Summoned Skeletons",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_raging_spirits_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} Summoned Raging Spirit",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} Summoned Raging Spirits",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_aura_area_of_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Aura Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Aura Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "aura_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Aura] [BuffEffect|Effect]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Aura] [BuffEffect|Effect]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "tornado_maximum_number_of_hits": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "During initial Duration, can be hit by your Projectiles up to {0} times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "offering_skill_effect_duration_per_corpse": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Additional {0} seconds Base Duration per extra corpse Consumed",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "base_buff_duration_ms_+_per_removable_endurance_charge": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d} seconds to Buff Duration per Endurance Charge removed",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "buff_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Buff and Debuff Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Buff and Debuff Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "skill_effect_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Skill Effect Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Skill Effect Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "display_minion_base_maximum_life": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Minions have {0} base maximum Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_area_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Area Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Area Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_spell_repeat_count": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Spell Repeats once",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Spell Repeats {0} times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_golems_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} Summoned Golem",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Maximum {0} Summoned Golems",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "attack_skills_additional_ballista_totems_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d} to maximum number of Summoned Ballista Totems",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_totems_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} [Totem]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} [Totem|Totems]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "eye_of_winter_base_explosion_shards": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Fires {0} Shard [Projectile|Projectiles] in a Spiral when [Projectile|Projectile] ends\\nModifiers to number of [Projectile|Projectiles] only apply\\nto the final Spiral",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_sigil_repeat_frequency_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Activates every {0} second while Attached",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Activates every {0} seconds while Attached",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "sigil_repeat_frequency_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Activation frequency",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Activation frequency",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "additive_cast_speed_modifiers_apply_to_sigil_repeat_frequency": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_melee_attack_repeat_count": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "This [Attack] Repeats {0} additional time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "This [Attack] Repeats {0} additional times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "accuracy_rating": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d} to Accuracy Rating",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "accuracy_rating_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Accuracy Rating",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Accuracy Rating",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_attack_damage_+%_final_with_two_handed_weapon": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more [Attack] Damage with Two Handed Weapons",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less [Attack] Damage with Two Handed Weapons",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_attack_speed_+%_final_with_two_handed_weapon": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more [Attack] Speed with Two Handed Weapons",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less [Attack] Speed with Two Handed Weapons",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_cold_damage_%_to_convert_to_fire": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Conversion|Converts] {0}% of [Cold] Damage to [Fire] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_base_fire_damage_%_to_convert_to_chaos": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[DNT] Converts {0}% of Fire Damage to Chaos Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_base_lightning_damage_%_to_convert_to_chaos": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[DNT] Converts {0}% of Lightning Damage to Chaos Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_base_physical_damage_%_to_convert_to_chaos": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Conversion|Converts] {0}% of [Physical|Physical] Damage to [Chaos|Chaos] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_base_physical_damage_%_to_convert_to_fire": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Conversion|Converts] {0}% of [Physical|Physical] Damage to [Fire|Fire] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_base_physical_damage_%_to_convert_to_lightning": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Conversion|Converts] {0}% of [Physical] Damage to [Lightning] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_base_stored_corpse_cost": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Requires {0} stored [Corpse|Corpse] per Zombie raised",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Requires {0} stored [Corpse|Corpses] per Zombie raised",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_brands_allowed_on_enemy_+": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Can have an additional Brand Attached to an Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Can have {0} additional Brands Attached to an Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_cast_speed_+%_applies_to_attack_speed_at_%_of_original_value": {
+      "Descriptions": [
+        {
+          "Operator": "100",
+          "Description": "Increases and Reductions to Cast Speed apply to this Skill's [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Increases and Reductions to Cast Speed apply to this Skill's [Attack] Speed at {0}% of their value",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_cast_speed_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_critical_strike_chance_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more [Critical|Critical Hit] Chance",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less [Critical|Critical Hit] Chance",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_poison_duration_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Poison Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Poison Duration",
+          "IsCanonical": true,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_quality_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{}% more Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{}% less Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "active_skill_quality_duration_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Skill Effect Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Skill Effect Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "add_power_charge_on_kill_%_chance": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% chance to gain a Power Charge on Kill",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "added_cast_time_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "[AddedAttackCastTime|{0:+d} second] to [Total] Cast Time",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "[AddedAttackCastTime|{0:+d} seconds] to [Total] Cast Time",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "additional_base_critical_strike_chance": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d}% to [Critical|Critical Hit] Chance",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "additive_mine_duration_modifiers_apply_to_buff_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Increases and Reductions to Mine Duration also apply to this Skill's Buff Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "alt_attack_container_main_hand_base_weapon_attack_duration_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "[Totem] base attack time is {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "[Totem] base attack time is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "ancestor_totem_buff_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Effect of Ancestor Totem Buff",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Effect of Ancestor Totem Buff",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "ancestor_totem_parent_activation_range_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Activation range",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Activation range",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "arc_chain_hit_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[DNT] {0}% more Damage when Chaining",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "[DNT] {0}% less Damage when Chaining",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "area_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Area Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Area Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "area_of_effect_+%_while_dead": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Area of Effect while Dead",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Area of Effect while Dead",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "arsonist_destructive_link_%_of_life_as_fire_damage": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Deals additional [Fire] Damage equal to {0}% of [Minion]'s maximum Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "attack_and_cast_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Attack] and Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Attack] and Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "attack_and_cast_speed_+%_during_onslaught": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Attack] and Cast Speed during Onslaught",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Attack] and Cast Speed during Onslaught",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "attack_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "attack_speed_+%_granted_from_skill": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "attacks_chance_to_blind_on_hit_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to [Blind|Blind] Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "[Blind|Blinds] Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "avoid_interruption_while_using_this_skill_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to Ignore Stuns While Using this Skill",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Ignore Stuns While Using this Skill",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "ball_lightning_base_hit_frequency_ms": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Hits enemies in range every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "base_added_cooldown_count": {
+      "Descriptions": [
+        {
+          "Operator": "-1|1",
+          "Description": "{0:+d} Cooldown Use",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "{0:+d} Cooldown Uses",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_blackhole_tick_rate_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Pulses every {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Pulses every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "base_blade_vortex_hit_rate_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Hits Enemies every {0} Seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "base_bleed_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Bleeding Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Bleeding Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_cast_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_chance_to_ignite_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to Ignite",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Always Ignite",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_chance_to_shock_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to Shock",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Always Shock",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_cost_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Cost",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Cost",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_critical_strike_multiplier_+": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [CriticalDamageBonus|Critical Damage Bonus]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [CriticalDamageBonus|Critical Damage Bonus]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_curse_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Curse] Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Curse] Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_galvanic_field_beam_delay_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Fires a beam every {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Fires a beam every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "base_global_chance_to_knockback_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% chance to [Knockback|Knock Enemies Back] on hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_killed_monster_dropped_item_rarity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Rarity of Items Dropped by Slain Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Rarity of Items Dropped by Slain Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_knockback_distance": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Knockback|Knocks Back] Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_life_cost_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Life Cost",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Life Cost",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_life_gain_per_target": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Gain {0} Life per Enemy Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Lose {0} Life per Enemy Hit",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_life_reservation_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Life Reservation",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Life Reservation",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_mana_cost_-%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% reduced Mana Cost",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% increased Mana Cost",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_mana_reservation_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Mana Reservation",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Mana Reservation",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_mine_detonation_time_ms": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Base Mine Detonation Time is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "base_number_of_arrows": {
+      "Descriptions": [
+        {
+          "Operator": "2|#",
+          "Description": "Fires {0} Arrows",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_bone_offerings_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} Bone Offering Spike",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} Bone Offering Spikes",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_champions_of_light_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} Summoned Sentinel of Purity",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Maximum {0} Summoned Sentinels of Purity",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_pain_offerings_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} Pain Offering Spike",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} Pain Offering Spikes",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_power_offerings_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} Soul Offering Spike",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} Soul Offering Spikes",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_relics_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} Summoned Holy Relic",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Maximum {0} Summoned Holy Relics",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_number_of_skeletal_constructs_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} Bone Construct",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} Bone Constructs",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_poison_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Poison] Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Poison] Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_projectile_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Projectile|Projectile] Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Projectile|Projectile] Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_reduce_enemy_cold_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Penetration|Penetrates] {0}% [Resistances|Cold Resistance]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_reduce_enemy_fire_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Penetration|Penetrates] {0}% [Resistances|Fire Resistance]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_reduce_enemy_lightning_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Penetration|Penetrates] {0}% [Resistances|Lightning Resistance]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_reservation_efficiency_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Reservation Efficiency",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Reservation Efficiency",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_reservation_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Reservation",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Reservation",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_skill_area_of_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_stun_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Stun Duration on Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Stun Duration on Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_use_life_in_place_of_mana": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Spend Life instead of Mana for Effects of this Skill",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_weapon_trap_rotation_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased rotation speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced rotation speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_weapon_trap_total_rotation_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Rotates {0} times",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "berserk_base_rage_loss_per_second": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Lose {0} Rage per second",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "bladefall_blade_left_in_ground_for_every_X_volleys": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Leaves a Lingering Blade in the ground for every Volley",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Leaves a Lingering Blade in the ground for every {0} Volleys",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "bladefall_number_of_volleys": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "1 Volley",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "{0} Volleys",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "blades_left_in_ground_+%_final_if_not_hand_cast": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Leaves {0}% more Lingering Blades in the ground if you don't Cast this Spell yourself",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Leaves {0}% fewer Lingering Blades in the ground if you don't Cast this Spell yourself",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "blasphemy_base_spirit_reservation_per_socketed_curse": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Reserves {0} [Spirit] per socketed [Curse]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "blind_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Blinding duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Blinding duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "blood_spears_additional_number_of_spears_if_changed_stance_recently": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Creates {0} additional Spikes if you've changed Stance [Recently]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "blood_spears_base_number_of_spears": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Creates {0} Spikes",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Creates {0} fewer Spikes",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "blood_spears_damage_+%_final_in_blood_stance": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Damage while in Blood Stance",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Damage while in Blood Stance",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "burn_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Burning Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Burning Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "chance_%_when_poison_to_also_poison_another_enemy": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to also Poison a nearby Enemy when you inflict Poison",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Poison a nearby Enemy when you inflict Poison",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_double_stun_duration_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance to double Stun Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_fork_extra_projectile_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Projectiles have {0}% chance for an additional Projectile when [Fork|Forking]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_fortify_on_melee_hit_+%": {
+      "Descriptions": [
+        {
+          "Operator": "100|#",
+          "Description": "[Melee] Hits Fortify",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1|99",
+          "Description": "[Melee] Hits have {0}% chance to Fortify",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_gain_frenzy_charge_on_killing_frozen_enemy_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to gain a Frenzy Charge on Killing a Frozen Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Gain a Frenzy Charge on Killing a Frozen Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_place_an_additional_mine_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance when throwing Mines to throw up to 1 additional Mine",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chance_to_scorch_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance to Scorch",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Always Scorch",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "chaos_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Chaos Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Chaos Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "chill_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Chill|Chill] Duration on Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Chill|Chill] Duration on Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "chill_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [BuffMagnitude|Magnitude] of Chills you inflict",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [BuffMagnitude|Magnitude] of Chills you inflict",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "circle_of_power_skill_cost_mana_cost_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Mana Cost of your Skills while in Area",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Mana Cost of your Skills while in Area",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "cold_ailment_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [BuffMagnitude|Magnitude] of Cold Ailments you inflict",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [BuffMagnitude|Magnitude] of Cold Ailments you inflict",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "cold_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Cold Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Cold Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "consecrated_ground_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% increased Effect of Consecrated Ground",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "consecrated_ground_enemy_damage_taken_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Consecrated Ground applies {0}% increased Damage taken to Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Consecrated Ground applies {0}% reduced Damage taken to Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "consecrated_ground_area_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Consecrated Ground Area",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Consecrated Ground Area",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "contagion_spread_on_hit_affected_enemy_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% chance to Spread when affected Enemy is Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Spread when affected Enemy is Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "conversation_trap_converted_enemy_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Converted Enemies deal {0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Converted Enemies deal {0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "conversion_trap_converted_enemies_chance_to_taunt_on_hit_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Converted Enemies have {0}% chance to Taunt on Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Converted Enemies Taunt on Hit",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "corpse_erruption_base_maximum_number_of_geyers": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Maximum of {0} Geysers at a time",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "cremation_fires_projectiles_faster_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Fires [Projectile|Projectiles] {0}% faster",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Fires [Projectile|Projectiles] {0}% slower",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "critical_hit_damaging_ailment_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [BuffMagnitude|Magnitude] of Damaging Ailments you inflict with [Critical|Critical Hits]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [BuffMagnitude|Magnitude] of Damaging Ailments you inflict with [Critical|Critical Hits]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "critical_multiplier_+%_per_100_max_es_on_shield": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{:+d}% to [CriticalDamageBonus|Critical Damage Bonus] per 100 Maximum [EnergyShield|Energy Shield] on Shield",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "critical_strike_chance_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Critical|Critical Hit] Chance",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Critical|Critical Hit] Chance",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "cyclone_max_stages_movement_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Movement Speed while at maximum Stages",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Movement Speed while at maximum Stages",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_over_time_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage over Time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage over Time",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_per_endurance_charge": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage per Endurance Charge",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage per Endurance Charge",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_per_frenzy_charge": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage per Frenzy Charge",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage per Frenzy Charge",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_per_power_charge": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage per [Charges|Power Charge]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage per [Charges|Power Charge]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_vs_enemies_on_full_life": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_vs_enemies_per_freeze_shock_ignite": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage with Hits per Freeze, Shock or Ignite on Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage with Hits per Freeze, Shock or Ignite on Enemy",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_vs_frozen_enemies": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage with Hits against [Frozen] Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage with Hits against [Frozen] Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_on_full_energy_shield": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage while on Full [EnergyShield|Energy Shield]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage while on Full [EnergyShield|Energy Shield]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_when_on_full_life": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage when on Full Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage when on Full Life",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_+%_when_on_low_life": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage when on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage when on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_vs_cursed_enemies_per_enemy_curse_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage with Hits per [Curse] on Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage with Hits per [Curse] on Enemy",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "damage_vs_enemies_on_low_life_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "dash_grants_phasing_after_use_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Grants Phasing for {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_1dp": 1
+          }
+        }
+      ]
+    },
+    "display_base_intensity_loss": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "This Spell loses 1 Intensity every 0.25 seconds while moving, or immediately if you teleport",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "display_consume_corpse_storage_limit": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Can store up to 10 [Corpse|Corpses]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "display_frost_fury_additive_cast_speed_modifiers_apply_to_fire_speed": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Increases and Reductions to Cast Speed also apply to Projectile Frequency",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "divine_tempest_base_number_of_nearby_enemies_to_zap": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Damages {0} nearby Enemies when you gain Stages",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "dot_multiplier_+": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0:+d}% to Damage over Time Multiplier",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "elemental_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Elemental Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Elemental Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "empower_barrage_damage_-%_final_with_repeated_projectiles": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Repeats deal {0}% less damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Repeats deal {0}% more damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "enemy_phys_reduction_%_penalty_vs_hit": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[Overwhelm|Overwhelm] {0}% [Physical|Physical] Damage Reduction",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "ethereal_knives_blade_left_in_ground_for_every_X_projectiles": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Leaves a Lingering Blade in the ground for every Projectile fired",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Leaves a Lingering Blade in the ground for every {0} Projectiles fired",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "faster_bleed_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Bleeding you inflict deals Damage {0}% faster",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "faster_burn_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Ignite|Ignites] you inflict deal Damage {0}% faster",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "[Ignite|Ignites] you inflict deal Damage {0}% slower",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "faster_poison_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Poisons you inflict deal Damage {0}% faster",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "fire_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Fire Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Fire Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "firestorm_explosion_area_of_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased explosion Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced explosion Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "flame_link_added_fire_damage_from_life_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Linked target gains Added Fire Damage equal to {0}% of your Maximum Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "fortify_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Fortification Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Fortification Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "freeze_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Freeze] Duration on Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Freeze] Duration on Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "freezing_bolt_chill_maximum_magnitude_override": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[Chill] can [Slow] by up to {0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "galvanic_field_beam_frequency_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Fires Beams with {0}% increased Frequency",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Fires Beams with {0}% reduced Frequency",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "galvanic_field_maximum_number_of_spheres": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} [Orb]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} [Orb|Orbs]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "global_chance_to_blind_on_hit_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance to Blind enemies on hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "global_reduce_enemy_block_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% reduced Enemy Block Chance",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "golem_buff_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Buff Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Buff Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "herald_of_thunder_bolt_base_frequency": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Storm Hits an Enemy every {0} Seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "hit_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Damage with Hits",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Damage with Hits",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "hydro_sphere_base_pulse_frequency_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Pulses every {0} seconds while Frozen, Shocked, Brittle or Sapped",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds": 1
+          }
+        }
+      ]
+    },
+    "hydro_sphere_pulse_frequency_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Pulse Frequency",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Pulse Frequency",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "ice_ambusher_initial_stack_count": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[IceCrystals|Crystal] has {0} initial stages",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "ice_ambusher_stack_decay_rate_ms": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[IceCrystals|Crystal] loses a stage every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "ignite_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Ignite] Duration on Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Ignite] Duration on Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "intensity_loss_frequency_while_moving_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Loses Intensity with {0}% increased frequency while moving",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Loses Intensity with {0}% reduced frequency while moving",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "kinetic_wand_base_number_of_zig_zags": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Projectile changes direction {0} times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "knockback_distance_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Knockback] Distance",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Knockback] Distance",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "lightning_ailment_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [BuffMagnitude|Magnitude] of Lightning Ailments you inflict",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [BuffMagnitude|Magnitude] of Lightning Ailments you inflict",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "lightning_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Lightning Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Lightning Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "lightning_storm_max_number_of_storms": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} Lightning Storm",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} Lightning Storms",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "lightning_tower_trap_base_interval_duration_ms": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Strikes every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "lingering_illusion_clone_base_maximum_life_%_of_owner_maximum_life": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Illusions have {0}% of your maximum Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "magma_orb_%_chance_to_big_explode_instead_of_chaining": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance to Detonate for Double Damage instead of Chaining",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "maim_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Effect of Maim",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Effect of Maim",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "mana_gain_per_target": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Gain {0} Mana per Enemy Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Lose {0} Mana per Enemy Hit",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "maximum_life_+%_for_corpses_you_create": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Corpses Spawned have {0}% increased Maximum Life",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Corpses Spawned have {0}% reduced Maximum Life",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "melee_attack_number_of_spirit_strikes": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "[Melee] Strikes target {0} additional nearby Enemy",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "[Melee] Strikes target {0} additional nearby Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "melee_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Melee] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Melee] Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "melee_damage_vs_bleeding_enemies_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Melee] Damage against Bleeding Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Melee] Damage against Bleeding Enemies",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "melee_physical_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Melee] Physical Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Melee] Physical Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "mine_detonation_radius_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Mine Detonation Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Mine Detonation Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "mine_detonation_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Mines have {0}% increased Detonation Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Mines have {0}% reduced Detonation Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "mine_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Mine duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Mine duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "mine_laying_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Mine Throwing Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Mine Throwing Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "minion_chance_to_deal_double_damage_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[Minion|Minions] have {0}% chance to deal Double Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "minion_elemental_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[Minion|Minions] from this Skill have {0:+d}% to all Elemental [Resistances]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "modifiers_to_number_of_projectiles_instead_apply_to_splitting": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Modifiers to number of Projectiles instead apply to\\nthe number of targets Projectile Splits towards",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "non_curse_aura_effect_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Aura effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Aura effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "number_of_additional_arrows": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Fires an additional Arrow",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Fires {0} additional Arrows",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "number_of_chains": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[Chain|Chains] {0} Times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "number_of_additional_remote_mines_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Can have up to {0} additional Remote Mine placed at a time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Can have up to {0} additional Remote Mines placed at a time",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "number_of_additional_traps_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Can have up to {0} additional Trap placed at a time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Can have up to {0} additional Traps placed at a time",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "number_of_additional_traps_to_throw": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Throw up to 1 additional Trap",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Throw up to {0} additional Traps",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "number_of_animated_weapons_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} Animated Weapon",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Maximum {0} Animated Weapons",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "number_of_projectiles_to_fire_+%_final_per_steel_ammo_consumed": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Fires {0}% more [Projectile|Projectiles] per Steel Shard consumed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Fires {0}% less [Projectile|Projectiles] per Steel Shard consumed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "base_number_of_reapers_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} Summoned Reaper",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Maximum {0} Summoned Reapers",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "orb_of_storms_base_bolt_frequency_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Fires a bolt every second, and when you use a [Lightning|Lightning] Skill near the [Orb|Orb]",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Fires a bolt every {0} seconds, and when you use a [Lightning|Lightning] Skill near the [Orb|Orb]",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "orb_of_storms_base_channelling_bolt_frequency_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Fires every second while Channelling a [Lightning|Lightning] Skill near the [Orb|Orb]",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Fires every {0} seconds while Channelling a [Lightning|Lightning] Skill near the [Orb|Orb]",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "orb_of_storms_base_maximum_number_of_orbs": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} [Orb]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} [Orb|Orbs]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "phys_cascade_trap_base_interval_duration_ms": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Releases waves every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds": 1
+          }
+        }
+      ]
+    },
+    "physical_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Physical Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Physical Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "placing_traps_cooldown_recovery_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Cooldown Recovery Rate for throwing Traps",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Cooldown Recovery Rate for throwing Traps",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "poison_duration_is_skill_duration": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Poison inflicted by this Skill is affected by Modifiers to Skill Effect Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "precision_grants_area_of_effect_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "You and nearby Allies have {0}% more Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "You and nearby Allies have {0}% less Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "primary_projectile_chains_+": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Primary Projectile Chains {0:+d} Time",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Primary Projectile Chains {0:+d} Times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "prismatic_rain_beam_base_frequency_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Arrows fire Beams every {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Arrows fire Beams every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "projectile_base_number_of_targets_to_pierce": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Projectiles Pierce an additional Target",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Projectiles Pierce {0} additional Targets",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "projectile_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Projectile Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Projectile Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "projectile_number_to_split": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Projectiles Split towards {0} targets",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "projectiles_fork": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Projectiles Fork",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "rain_of_arrows_additional_sequences": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Fires an additional sequence of arrows",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Fires {0} additional sequences of arrows",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "reave_additional_max_stacks": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "+{0} to maximum Stages",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "reduce_enemy_chaos_resistance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Penetrates {0}% Chaos Resistance",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "reduce_enemy_dodge_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% reduced Enemy chance to Dodge",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "regenerate_x_life_over_1_second_on_skill_use_or_trigger": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Regenerate {0} Life over 1 second",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "ritual_of_power_maximum_number_of_rituals": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Limit {0} active rituals",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "seismic_trap_frequency_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased wave frequency",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced wave frequency",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "shapeshift_to_bear_added_attack_time_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "{0:+d} second to Total [Attack] Time if not already a Bear",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "{0:+d} seconds to Total [Attack] Time if not already a Bear",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "shapeshift_to_bear_added_cast_time_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "{0:+d} second to Total Use Time if not already a Bear",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "{0:+d} seconds to Total Use Time if not already a Bear",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "shock_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Shock] Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Shock] Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "skill_base_chaos_damage_%_maximum_energy_shield": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Deals {0}% of your maximum [EnergyShield|Energy Shield] as base [Chaos|Chaos] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "skill_base_chaos_damage_%_maximum_life": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Deals {0}% of your maximum Life as base [Chaos|Chaos] Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "skill_raging_spirit_per_x_radius": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "[Fire] Area [Spell|Spells] summon a Spirit per {0} metres of radius\\n[Projectile|Projectiles] from [Fire] [Spell|Spells] summon a Spirit on hit",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp": 1
+          }
+        }
+      ]
+    },
+    "skill_raging_spirits_max_per_action": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Maximum {0} Spirit summoned per [Spell] cast",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Maximum {0} Spirits summoned per [Spell] cast",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "snapping_adder_chance_to_release_projectile_when_hit_%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{}% chance to Fire a caught Projectile when Hit",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "spear_wall_cm_per_spear": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Creates 1 Spear per {0} metre of Radius",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Creates 1 Spear per {0} metres of Radius",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "spectral_spiral_weapon_base_number_of_bounces": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Bounces up to {0} time\\nModifiers to number of Projectiles instead apply to the number of Bounces",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Bounces up to {0} times\\nModifiers to number of Projectiles instead apply to the number of Bounces",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "spell_cast_time_added_to_cooldown_if_triggered": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "This Spell's Cast Time is added to its Cooldown if Triggered",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "spell_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Spell Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Spell Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "static_strike_number_of_beam_targets": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0} maximum Beam Targets",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "storm_blade_damage_+%_final_with_two_hand_weapon": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Two Handed Energy Blades have {0}% more Lightning Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "active_skill_display_does_intensity_stuff": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "This Spell gains Intensity when you Cast it, to a maximum of 3",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "support_trap_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Trap Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Trap Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "tempest_bell_area_of_effect_+%_final_per_1_unit_of_knockback": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Area of Effect per 0.1 metres of\\n[Knockback] the triggering Hit would have caused",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Area of Effect per 0.1 metres of\\n[Knockback] the triggering Hit would have caused",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "tornado_only_primary_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased initial Duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced initial Duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "tornado_shot_num_of_secondary_projectiles": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Fires {0} secondary [Projectile|Projectile]",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Fires {0} secondary [Projectile|Projectiles]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "totems_explode_on_death_for_%_life_as_physical": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Totems Explode on Death, dealing {0}% of their Life as Physical Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "totems_regenerate_%_life_per_minute": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "[Totem|Totems] Regenerate {0}% of Life per second",
+          "IsCanonical": false,
+          "Parameters": {
+            "per_minute_to_per_second": 1
+          }
+        }
+      ]
+    },
+    "trap_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Trap Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Trap Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "trap_duration_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Trap duration",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Trap duration",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "trap_throwing_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Trap Throwing Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Trap Throwing Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "trap_trigger_radius_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Trap Trigger Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Trap Trigger Area of Effect",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "unearth_base_corpse_level": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Spawns corpses with Level {0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "vaal_lightning_arrow_number_of_redirects": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Projectiles change direction {0} time\\nProjectiles can Hit targets each time they change direction",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Projectiles change direction {0} times\\nProjectiles can Hit targets each time they change direction",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "vaal_lightning_arrow_fork_and_chain_modifiers_apply_to_number_of_redirects": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Modifiers which would cause Projectiles to Fork or\\nChain instead cause them to change direction additional times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "vaal_storm_call_base_delay_ms": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Strikes an Enemy every {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Strikes an Enemy every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp": 1
+          }
+        }
+      ]
+    },
+    "volatile_dead_base_number_of_corpses_to_consume": {
+      "Descriptions": [
+        {
+          "Operator": "2|#",
+          "Description": "Consumes up to {0} corpses",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "volatile_dead_max_cores_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Maximum of {0} Orbs at a time",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "warcry_speed_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Warcry|Warcry] Speed",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Warcry|Warcry] Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "weapon_elemental_damage_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Elemental Damage with Weapons",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Elemental Damage with Weapons",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "weapon_trap_rotation_speed_+%_if_dual_wielding": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased rotation speed if Dual Wielding",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced rotation speed if Dual Wielding",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "weapon_trap_total_rotation_%_if_dual_wielding": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Rotates {0:+d} times if Dual Wielding",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

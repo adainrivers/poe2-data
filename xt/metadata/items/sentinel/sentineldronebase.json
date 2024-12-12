@@ -1,0 +1,85 @@
+{
+  "Path": "metadata/items/sentinel/sentineldronebase",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "x_size",
+          "Value": 2,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 2,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "sentinel_drone",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/sentinel_stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "inventory_type",
+          "Value": "SentinelDroneInventory",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "normal",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "rare",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "unique",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "SentinelDrone",
+      "Value": null,
+      "Children": []
+    }
+  ]
+}

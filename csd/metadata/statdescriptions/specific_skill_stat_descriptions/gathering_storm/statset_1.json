@@ -1,0 +1,40 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/gathering_storm/statset_1",
+  "Entries": {
+    "added_attack_time_ms": {
+      "Descriptions": []
+    },
+    "active_skill_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[ShockedGround|Shocked Ground] width@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": [
+        {
+          "Operator": "10",
+          "Description": "[ShockedGround|Shocked Ground] width is {0} metre",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "[ShockedGround|Shocked Ground] width is {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}

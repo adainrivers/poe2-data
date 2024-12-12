@@ -1,0 +1,144 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+  "Entries": {
+    "active_skill_base_area_of_effect_radius": {
+      "Descriptions": []
+    },
+    "base_number_of_tornado_shots_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "1",
+          "Description": "Limit {0} Tornado",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Limit {0} Tornadoes",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "base_skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "1000",
+          "Description": "Maximum Tornado duration is {0} second",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Maximum Tornado duration is {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "number_of_tornado_shots_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Tornado Limit@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "skill_effect_duration": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Maximum Tornado duration@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "tornado_shot_number_of_hits_allowed": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Number of [HitDamage|Hits] before Tornado disappears@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "1",
+          "Description": "Tornado disappears after being [HitDamage|Hit] once",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "2|#",
+          "Description": "Tornado disappears after being [HitDamage|Hit] {0} times",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "tornado_shot_projectile_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Copied [Projectile|Projectiles] damage penalty@{0}%",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        },
+        {
+          "Operator": "1|#",
+          "Description": "Copied [Projectile|Projectiles] deal {0}% more damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Copied [Projectile|Projectiles] deal {0}% less damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "tornado_shot_projectile_range": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Copied [Projectile|Projectiles] maximum range@{0}m",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "#",
+          "Description": "Copied [Projectile|Projectiles] have a maximum travel distance of {0} metres",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_ten_1dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "total_number_of_projectiles_to_fire": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Copied [Projectile|Projectiles] fired@{0}",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

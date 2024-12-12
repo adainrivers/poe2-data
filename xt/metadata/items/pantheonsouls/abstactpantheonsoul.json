@@ -1,0 +1,45 @@
+{
+  "Path": "metadata/items/pantheonsouls/abstactpantheonsoul",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "description_text",
+          "Value": "ItemDescriptionPantheonSoul",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Usable",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "use_type",
+          "Value": "Usable",
+          "Children": []
+        },
+        {
+          "Key": "action",
+          "Value": "unlock_pantheon_power",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

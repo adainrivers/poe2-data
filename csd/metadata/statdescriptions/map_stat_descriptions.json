@@ -1,0 +1,596 @@
+{
+  "Path": "metadata/statdescriptions/map_stat_descriptions",
+  "Entries": {
+    "map_summon_exploding_buff_storms": {
+      "Descriptions": []
+    },
+    "map_tempest_base_ground_fire_damage_to_deal_per_minute": {
+      "Descriptions": []
+    },
+    "map_tempest_ground_ice": {
+      "Descriptions": []
+    },
+    "map_tempest_ground_lightning": {
+      "Descriptions": []
+    },
+    "map_tempest_base_ground_desecration_damage_to_deal_per_minute": {
+      "Descriptions": []
+    },
+    "map_storm_duration_+%_final": {
+      "Descriptions": []
+    },
+    "map_storm_delay_+%_final": {
+      "Descriptions": []
+    },
+    "map_storm_area_of_effect_+%": {
+      "Descriptions": []
+    },
+    "map_storm_buff_duration_+%": {
+      "Descriptions": []
+    },
+    "map_tempest_random_monster_drops_unique": {
+      "Descriptions": []
+    },
+    "map_tempest_random_monster_drops_map": {
+      "Descriptions": []
+    },
+    "map_tempest_random_monster_drops_vaal_fragment": {
+      "Descriptions": []
+    },
+    "map_tempest_fish_school_size_+%": {
+      "Descriptions": []
+    },
+    "map_tempest_ground_effect_patches_per_100_tiles": {
+      "Descriptions": []
+    },
+    "map_storm_buff_duration_+%_on_low_life_target": {
+      "Descriptions": []
+    },
+    "map_tempest_ground_effect_radius": {
+      "Descriptions": []
+    },
+    "map_hidden_experience_gain_+%": {
+      "Descriptions": []
+    },
+    "map_hidden_pack_size_+%": {
+      "Descriptions": []
+    },
+    "map_hidden_rare_monsters_have_nemesis_mod": {
+      "Descriptions": []
+    },
+    "map_hidden_spawn_extra_exiles": {
+      "Descriptions": []
+    },
+    "map_hidden_spawn_extra_torment_spirits": {
+      "Descriptions": []
+    },
+    "map_hidden_magic_pack_mod_rules": {
+      "Descriptions": []
+    },
+    "map_hidden_monsters_additional_fire_resistance": {
+      "Descriptions": []
+    },
+    "map_hidden_monsters_additional_cold_resistance": {
+      "Descriptions": []
+    },
+    "map_hidden_monsters_additional_lightning_resistance": {
+      "Descriptions": []
+    },
+    "map_hidden_monsters_poison_on_hit": {
+      "Descriptions": []
+    },
+    "map_hidden_monsters_%_physical_damage_to_gain_as_fire": {
+      "Descriptions": []
+    },
+    "map_hidden_monsters_%_physical_damage_to_gain_as_cold": {
+      "Descriptions": []
+    },
+    "map_hidden_monsters_%_physical_damage_to_gain_as_lightning": {
+      "Descriptions": []
+    },
+    "map_hidden_monsters_%_physical_damage_to_gain_as_chaos": {
+      "Descriptions": []
+    },
+    "map_hidden_packs_are_totems": {
+      "Descriptions": []
+    },
+    "map_unidentified_maps_item_quantity_+%": {
+      "Descriptions": []
+    },
+    "map_contains_x_additional_rare_packs_if_rare": {
+      "Descriptions": []
+    },
+    "map_contains_x_additional_magic_packs_if_magic": {
+      "Descriptions": []
+    },
+    "map_corrupted_bosses_drop_x_additional_vaal_items": {
+      "Descriptions": []
+    },
+    "local_extra_max_charges": {
+      "Descriptions": []
+    },
+    "map_adds_X_extra_synthesis_mods": {
+      "Descriptions": []
+    },
+    "map_adds_X_extra_synthesis_special_mods": {
+      "Descriptions": []
+    },
+    "map_doesnt_consume_sextant_use": {
+      "Descriptions": []
+    },
+    "map_random_zana_mod": {
+      "Descriptions": []
+    },
+    "heist_npc_blueprint_reveal_cost_+%": {
+      "Descriptions": []
+    },
+    "heist_npc_display_huck_combat": {
+      "Descriptions": []
+    },
+    "heist_contract_no_travel_cost": {
+      "Descriptions": []
+    },
+    "heist_contract_npc_cost_+%": {
+      "Descriptions": []
+    },
+    "heist_contract_gang_cost_+%": {
+      "Descriptions": []
+    },
+    "heist_contract_travel_cost_+%": {
+      "Descriptions": []
+    },
+    "heist_contract_gang_takes_no_cut": {
+      "Descriptions": []
+    },
+    "heist_contract_total_cost_+%_final": {
+      "Descriptions": []
+    },
+    "local_explicit_mod_effect_+%": {
+      "Descriptions": []
+    },
+    "map_chance_to_not_consume_sextant_use_%": {
+      "Descriptions": []
+    },
+    "map_item_drop_quantity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Quantity of Items found in this Area",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Quantity of Items found in this Area",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_item_drop_rarity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Rarity] of Items found in this Area",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Rarity] of Items found in this Area",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "modifiers_to_map_item_drop_quantity_also_apply_to_map_item_drop_rarity": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "This Area's Modifiers to Quantity of Items found also apply to [Rarity]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_pack_size_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Pack size",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Pack size",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_is_unidentified": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Area is unidentified",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_is_corrupted": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Area is corrupted",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "metamorphosis_boss_damage_+%_final_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Damage",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "metamorphosis_boss_life_+%_final_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more maximum Life",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less maximum Life",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "metamorphosis_boss_actor_scale_+%_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Character Size",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Character Size",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "metamorphosis_boss_attack_speed_+%_final_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less [Attack] Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "metamorphosis_boss_cast_speed_+%_final_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Cast Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "metamorphosis_boss_move_speed_+%_final_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Movement Speed",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "from_league_item_quantity_+%_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Item Quantity",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Item Quantity",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "metamorphosis_boss_item_quantity_+%_final_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Item Quantity",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Item Quantity",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "from_league_item_rarity_+%_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [ItemRarity|Item Rarity]",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [ItemRarity|Item Rarity]",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1,
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "metamorphosis_boss_extra_reward_%_chance_permyriad": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% chance for Double Rewards",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred": 1
+          }
+        }
+      ]
+    },
+    "display_map_labyrinth_trial_gives_offering": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Awards an Offering to the Goddess",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_abyssal_troves_contain_additional_abyssal_jewel_%_chance": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "Abyssal Troves in your Maps have a {0}% chance to contain an additional Abyssal Jewel",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Abyssal Troves in your Maps contain an additional Abyssal Jewel",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_all_monster_packs_magic_and_allow_rare_chance_%": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "Area has {0}% chance for all Monsters to be at least Magic",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Monsters in Area are at least Magic",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_blight_chest_%_chance_for_additional_drop": {
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "{0}% chance for Blight Chests to contain an additional Reward",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "100|#",
+          "Description": "Blight Chests contain an additional Reward",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_deal_no_damage_if_less_than_X_players_nearby": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Players can only deal Damage when near {0} other Players",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_dropped_maps_rarity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased [Rarity] of [Waystone|Waystones] found in this Area",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced [Rarity] of [Waystone|Waystones] found in this Area",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    },
+    "map_friendly_fire": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Other Players are classified as Enemies",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_labyrinth_trial_gives_upgraded_offering": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Awards an Improved Offering to the Goddess",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_map_item_drop_chance_+%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% increased [Waystone|Waystones] found in Area",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_players_and_monsters_have_polarity": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Players can only deal Damage to Monsters of matching Polarity",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_tower_augment_quantity_+%": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% increased [PrecursorTablet|Precursor Tablets] found in Area",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_upgraded_vaal_side_area_monster_damage_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "{0}% more Monster Damage",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "map_vaal_vessel_gives_mortal_fragment": {
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Vaal Vessel contains Mortal Fragments",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

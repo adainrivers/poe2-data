@@ -1,0 +1,71 @@
+{
+  "Path": "metadata/items/gems/activeskillgem",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "description_text",
+          "Value": "ItemDescriptionActiveSkillGem",
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "gem",
+          "Children": []
+        },
+        {
+          "Key": "x_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "y_size",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "SkillGem",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Sockets",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "socket_info",
+          "Value": "2:0:100 3:5:30 4:30:5 5:50:1 6:9999:1",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "Quality",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "max_quality",
+          "Value": 20,
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

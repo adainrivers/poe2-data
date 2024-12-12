@@ -1,0 +1,70 @@
+{
+  "Path": "metadata/items/mapfragments/maven/mavenmapoutsidetopleft5",
+  "Extends": null,
+  "Key": null,
+  "Value": null,
+  "Children": [
+    {
+      "Key": "Base",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "description_text",
+          "Value": "ItemFunctionMavenMapCraftable",
+          "Children": []
+        },
+        {
+          "Key": "description_text",
+          "Value": "ItemFunctionMavenMap",
+          "Children": []
+        },
+        {
+          "Key": "base_level",
+          "Value": 1,
+          "Children": []
+        },
+        {
+          "Key": "tag",
+          "Value": "default",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Key": "LocalStats",
+      "Value": null,
+      "Children": []
+    },
+    {
+      "Key": "Mods",
+      "Value": null,
+      "Children": [
+        {
+          "Key": "stat_description_list",
+          "Value": "Metadata/StatDescriptions/stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "mod_stat_description_list",
+          "Value": "Metadata/StatDescriptions/advanced_mod_stat_descriptions.csd",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "normal",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "magic",
+          "Children": []
+        },
+        {
+          "Key": "enable_rarity",
+          "Value": "rare",
+          "Children": []
+        }
+      ]
+    }
+  ]
+}

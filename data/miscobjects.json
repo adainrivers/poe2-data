@@ -1,0 +1,6632 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "LegacyWaypointEffect",
+    "EffectVirtualPath": "Metadata/Effects/Environment/waypoint/new/WaypointEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -938457162,
+    "Unk004": 1,
+    "Unk005": 1418994860
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Doodad",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Doodad",
+    "PreloadGroupsKeys": [],
+    "Unk003": 706408584,
+    "Unk004": 1,
+    "Unk005": 606705012
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Stash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Stash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1477282030,
+    "Unk004": 1,
+    "Unk005": 1182202488
+  },
+  {
+    "RowIndex": 3,
+    "Id": "GuildStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/GuildStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -97027105,
+    "Unk004": 1,
+    "Unk005": -302795644
+  },
+  {
+    "RowIndex": 4,
+    "Id": "DefaultWaypoint",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Waypoint",
+    "PreloadGroupsKeys": [],
+    "Unk003": 552129418,
+    "Unk004": 1,
+    "Unk005": 608223434
+  },
+  {
+    "RowIndex": 5,
+    "Id": "AreaTransition",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/AreaTransition",
+    "PreloadGroupsKeys": [],
+    "Unk003": 726109394,
+    "Unk004": 1,
+    "Unk005": -503683403
+  },
+  {
+    "RowIndex": 6,
+    "Id": "Checkpoint",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Checkpoint",
+    "PreloadGroupsKeys": [],
+    "Unk003": -106532551,
+    "Unk004": 1,
+    "Unk005": -1753851336
+  },
+  {
+    "RowIndex": 7,
+    "Id": "Shrine",
+    "EffectVirtualPath": "Metadata/Shrines/Shrine",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1437128725,
+    "Unk004": 4,
+    "Unk005": -1751575936
+  },
+  {
+    "RowIndex": 8,
+    "Id": "Sector",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Sector",
+    "PreloadGroupsKeys": [],
+    "Unk003": 942138868,
+    "Unk004": 4,
+    "Unk005": 802365645
+  },
+  {
+    "RowIndex": 9,
+    "Id": "AreaTransitionDoodad",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/AreaTransitionDoodad",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 24,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 1707275484,
+    "Unk004": 4,
+    "Unk005": 1904559485
+  },
+  {
+    "RowIndex": 10,
+    "Id": "AreaTransitionBlockage",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/AreaTransitionBlockage",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 24,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 343817293,
+    "Unk004": 4,
+    "Unk005": 1017271834
+  },
+  {
+    "RowIndex": 11,
+    "Id": "DoodadLayerDoodad",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/DoodadLayerDoodad",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1929453020,
+    "Unk004": 4,
+    "Unk005": -1157594891
+  },
+  {
+    "RowIndex": 12,
+    "Id": "TutorialArrow",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TutorialArrow",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1984325775,
+    "Unk004": 1,
+    "Unk005": 1095568763
+  },
+  {
+    "RowIndex": 13,
+    "Id": "ReviveIcon",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/ReviveIcon",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1022098763,
+    "Unk004": 1,
+    "Unk005": -589955059
+  },
+  {
+    "RowIndex": 14,
+    "Id": "DeathIcon",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/DeathIcon",
+    "PreloadGroupsKeys": [],
+    "Unk003": -583707958,
+    "Unk004": 1,
+    "Unk005": -418199011
+  },
+  {
+    "RowIndex": 15,
+    "Id": "InfernalBlowExplode",
+    "EffectVirtualPath": "Metadata/Effects/Spells/infernal_blow/InfernalBlowExplosion",
+    "PreloadGroupsKeys": [],
+    "Unk003": 567876608,
+    "Unk004": 3,
+    "Unk005": 1953903615
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Shatter",
+    "EffectVirtualPath": "Metadata/Effects/Spells/shatter/Shatter",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1646981244,
+    "Unk004": 2,
+    "Unk005": 1917692696
+  },
+  {
+    "RowIndex": 17,
+    "Id": "FrostWallSegment",
+    "EffectVirtualPath": "Metadata/Effects/Spells/frostwall/FrostWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1667146716,
+    "Unk004": 4,
+    "Unk005": 249790074
+  },
+  {
+    "RowIndex": 18,
+    "Id": "FrostWallNewSegment",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/FrostWall/FrostWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1190324927,
+    "Unk004": 4,
+    "Unk005": 729834390
+  },
+  {
+    "RowIndex": 19,
+    "Id": "WorldItem",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/WorldItem",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1418889786,
+    "Unk004": 1,
+    "Unk005": -1300817318
+  },
+  {
+    "RowIndex": 20,
+    "Id": "MapDeviceQuest",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/MapDevice",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 44,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 561515709,
+    "Unk004": 4,
+    "Unk005": -276986577
+  },
+  {
+    "RowIndex": 21,
+    "Id": "FireBossExplode",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/rare_explode/fire",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1665864013,
+    "Unk004": 3,
+    "Unk005": -356763154
+  },
+  {
+    "RowIndex": 22,
+    "Id": "RootSpiderHole",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/act2/root_spider/emerge/Hole",
+    "PreloadGroupsKeys": [],
+    "Unk003": -326478754,
+    "Unk004": 4,
+    "Unk005": -1876164068
+  },
+  {
+    "RowIndex": 23,
+    "Id": "ChaosExplode",
+    "EffectVirtualPath": "Metadata/Effects/Spells/chaos_explode/ChaosExplode",
+    "PreloadGroupsKeys": [],
+    "Unk003": -115837266,
+    "Unk004": 3,
+    "Unk005": 578270409
+  },
+  {
+    "RowIndex": 24,
+    "Id": "BridgeMarker",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/BridgeMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -67371637,
+    "Unk004": 4,
+    "Unk005": 1114588475
+  },
+  {
+    "RowIndex": 25,
+    "Id": "Effect",
+    "EffectVirtualPath": "Metadata/Effects/Effect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2139835176,
+    "Unk004": 1,
+    "Unk005": -200876473
+  },
+  {
+    "RowIndex": 26,
+    "Id": "ServerEffect",
+    "EffectVirtualPath": "Metadata/Effects/ServerEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1648314647,
+    "Unk004": 1,
+    "Unk005": 1085362608
+  },
+  {
+    "RowIndex": 27,
+    "Id": "PermanentEffect",
+    "EffectVirtualPath": "Metadata/Effects/PermanentEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1868935107,
+    "Unk004": 1,
+    "Unk005": -1739835127
+  },
+  {
+    "RowIndex": 28,
+    "Id": "BeamEffect",
+    "EffectVirtualPath": "Metadata/Effects/BeamEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -173099009,
+    "Unk004": 1,
+    "Unk005": -810353414
+  },
+  {
+    "RowIndex": 29,
+    "Id": "ServerResumingEffect",
+    "EffectVirtualPath": "Metadata/Effects/ServerResumingEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 839646389,
+    "Unk004": 2,
+    "Unk005": -275409809
+  },
+  {
+    "RowIndex": 30,
+    "Id": "MultiplexPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/MultiplexPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1600303822,
+    "Unk004": 2,
+    "Unk005": -394714071
+  },
+  {
+    "RowIndex": 31,
+    "Id": "LoopEffect",
+    "EffectVirtualPath": "Metadata/Effects/LoopEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1609411448,
+    "Unk004": 4,
+    "Unk005": -913693711
+  },
+  {
+    "RowIndex": 32,
+    "Id": "InsectMinionHole",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/act2/root_spider/emerge/HoleSmall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 327236885,
+    "Unk004": 4,
+    "Unk005": 1906524155
+  },
+  {
+    "RowIndex": 33,
+    "Id": "SandstormRotateObject",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/ElderGuardian/ChaosPhysical/sandstorm/SandstormRotateObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": 89582683,
+    "Unk004": 4,
+    "Unk005": -1220168624
+  },
+  {
+    "RowIndex": 34,
+    "Id": "ArchitectMapDeviceSpawner",
+    "EffectVirtualPath": "Metadata/Projectiles/IncursionMapDeviceSpawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1763102241,
+    "Unk004": 4,
+    "Unk005": -998326289
+  },
+  {
+    "RowIndex": 35,
+    "Id": "DelayedTriggerSkillObjectLightningEpic",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/delayed_skill_trigger/beacon_lightning_epic",
+    "PreloadGroupsKeys": [],
+    "Unk003": 614040851,
+    "Unk004": 4,
+    "Unk005": 1214939500
+  },
+  {
+    "RowIndex": 36,
+    "Id": "DelvePathNode",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Delve/Objects/DelvePathNode",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1160182057,
+    "Unk004": 4,
+    "Unk005": -1187502745
+  },
+  {
+    "RowIndex": 37,
+    "Id": "DelvePathEndpoint",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Delve/Objects/DelvePathEndpoint",
+    "PreloadGroupsKeys": [],
+    "Unk003": -616175816,
+    "Unk004": 4,
+    "Unk005": 1558029244
+  },
+  {
+    "RowIndex": 38,
+    "Id": "RainOfSporesBloomPod",
+    "EffectVirtualPath": "Metadata/Effects/Spells/rain_of_spores/BloomPod",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1639651818,
+    "Unk004": 4,
+    "Unk005": 1789114098
+  },
+  {
+    "RowIndex": 39,
+    "Id": "ToolGizmo",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Gizmo",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1439949816,
+    "Unk004": 4,
+    "Unk005": -2086885020
+  },
+  {
+    "RowIndex": 40,
+    "Id": "MavenBrainVoidsand",
+    "EffectVirtualPath": "Metadata/Monsters/TheCollector/Voidsand",
+    "PreloadGroupsKeys": [],
+    "Unk003": 968302665,
+    "Unk004": 4,
+    "Unk005": 181905077
+  },
+  {
+    "RowIndex": 41,
+    "Id": "BlightPump",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Blight/Objects/BlightPump",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 49,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -2092000448,
+    "Unk004": 4,
+    "Unk005": 1128982670
+  },
+  {
+    "RowIndex": 42,
+    "Id": "ShatterSmall",
+    "EffectVirtualPath": "Metadata/Effects/Spells/shatter/ShatterSmall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1713641240,
+    "Unk004": 3,
+    "Unk005": 610793864
+  },
+  {
+    "RowIndex": 43,
+    "Id": "ShatterLarge",
+    "EffectVirtualPath": "Metadata/Effects/Spells/shatter/ShatterLarge",
+    "PreloadGroupsKeys": [],
+    "Unk003": -419376306,
+    "Unk004": 3,
+    "Unk005": -1352847664
+  },
+  {
+    "RowIndex": 44,
+    "Id": "ShatterEpic",
+    "EffectVirtualPath": "Metadata/Effects/Spells/shatter/ShatterEpic",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1865831112,
+    "Unk004": 3,
+    "Unk005": 13473451
+  },
+  {
+    "RowIndex": 45,
+    "Id": "BlightIceWallSegment",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/League_Blight/Tower_Skills/ice/ice_prison/FrostWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1528121303,
+    "Unk004": 4,
+    "Unk005": -1304967513
+  },
+  {
+    "RowIndex": 46,
+    "Id": "ApparitionEffectEyrieDemon",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Aura/EyrieDemon/EyrieApparition",
+    "PreloadGroupsKeys": [],
+    "Unk003": 84422266,
+    "Unk004": 3,
+    "Unk005": 184240864
+  },
+  {
+    "RowIndex": 47,
+    "Id": "MicrotransactionOrionDemon",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Aura/OrionDemon/OrionDemon",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1705896123,
+    "Unk004": 3,
+    "Unk005": -63806079
+  },
+  {
+    "RowIndex": 48,
+    "Id": "MicrotransactionCrusaderDemon",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Aura/CrusaderApp/CrusaderApparition",
+    "PreloadGroupsKeys": [],
+    "Unk003": -154222137,
+    "Unk004": 3,
+    "Unk005": 2095987762
+  },
+  {
+    "RowIndex": 49,
+    "Id": "MicrotransactionBasiliskDemon",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Aura/BasiliskDemon/BasiliskDemon",
+    "PreloadGroupsKeys": [],
+    "Unk003": 464624771,
+    "Unk004": 3,
+    "Unk005": -1105156018
+  },
+  {
+    "RowIndex": 50,
+    "Id": "MicrotransactionJudicatorDemon",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Aura/JudicatorDemon/JudicatorDemon",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2088639490,
+    "Unk004": 3,
+    "Unk005": 313469033
+  },
+  {
+    "RowIndex": 51,
+    "Id": "MicrotransactionJudicatorGauntlet",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Aura/Judicator/Judicator",
+    "PreloadGroupsKeys": [],
+    "Unk003": -304379281,
+    "Unk004": 3,
+    "Unk005": 1247189657
+  },
+  {
+    "RowIndex": 52,
+    "Id": "GroundBlade",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/GroundBlade",
+    "PreloadGroupsKeys": [],
+    "Unk003": -688515235,
+    "Unk004": 4,
+    "Unk005": -1262020487
+  },
+  {
+    "RowIndex": 53,
+    "Id": "AfflictionColdDemonIceSpike",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueAffliction/AfflictionColdDemonIceSpikeObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1852749994,
+    "Unk004": 4,
+    "Unk005": 1486088762
+  },
+  {
+    "RowIndex": 54,
+    "Id": "AfflictionDemonLightningGigaBallGround",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueAffliction/AfflictionLightningDemonGigaBallGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2037192812,
+    "Unk004": 4,
+    "Unk005": -1101951394
+  },
+  {
+    "RowIndex": 55,
+    "Id": "AfflictionBossLightningVolatile",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueAffliction/Demons/FinalBossDeathZones/LightningVolatileObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": 571837573,
+    "Unk004": 4,
+    "Unk005": -1944164188
+  },
+  {
+    "RowIndex": 56,
+    "Id": "AfflictionWindDaemonServerMarker",
+    "EffectVirtualPath": "Metadata/Monsters/Daemon/AfflictionFogWindDaemonServerMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -407556488,
+    "Unk004": 4,
+    "Unk005": 1378586881
+  },
+  {
+    "RowIndex": 57,
+    "Id": "SpikeSlamSpike",
+    "EffectVirtualPath": "Metadata/Effects/Spells/warrior_earthshatter/spike",
+    "PreloadGroupsKeys": [],
+    "Unk003": -279644615,
+    "Unk004": 4,
+    "Unk005": 1865426240
+  },
+  {
+    "RowIndex": 58,
+    "Id": "HarvestScatteredVines1",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Harvest/VinesDoodadObject",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 51,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -1764076071,
+    "Unk004": 4,
+    "Unk005": 677962978
+  },
+  {
+    "RowIndex": 59,
+    "Id": "ServerOnlyGroundEffect",
+    "EffectVirtualPath": "Metadata/Effects/Spells/ground_effects/ServerOnlyGroundEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1050403295,
+    "Unk004": 1,
+    "Unk005": 595206468
+  },
+  {
+    "RowIndex": 60,
+    "Id": "FillGroundEffect",
+    "EffectVirtualPath": "Metadata/Effects/Spells/ground_effects/FillGroundEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 316014466,
+    "Unk004": 1,
+    "Unk005": -166484780
+  },
+  {
+    "RowIndex": 61,
+    "Id": "ClientGroundEffect",
+    "EffectVirtualPath": "Metadata/Effects/Spells/ground_effects/ClientOnlyGroundEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -140464413,
+    "Unk004": 1,
+    "Unk005": 1986625798
+  },
+  {
+    "RowIndex": 62,
+    "Id": "ServerGroundEffect",
+    "EffectVirtualPath": "Metadata/Effects/Spells/ground_effects/VisibleServerGroundEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1773597000,
+    "Unk004": 1,
+    "Unk005": -1846330856
+  },
+  {
+    "RowIndex": 63,
+    "Id": "CrownOfThornsGround",
+    "EffectVirtualPath": "Metadata/Effects/Spells/ground_effects/crown_of_thorns/CrownOfThornsGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 471599983,
+    "Unk004": 4,
+    "Unk005": -1113029786
+  },
+  {
+    "RowIndex": 64,
+    "Id": "CircleOfPowerEffect",
+    "EffectVirtualPath": "Metadata/Monsters/Anomalies/CircleOfPower",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1989017005,
+    "Unk004": 4,
+    "Unk005": 860762157
+  },
+  {
+    "RowIndex": 65,
+    "Id": "FirewallEffect",
+    "EffectVirtualPath": "Metadata/Monsters/Anomalies/Firewall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 233793866,
+    "Unk004": 4,
+    "Unk005": -1819660325
+  },
+  {
+    "RowIndex": 66,
+    "Id": "CurseZoneBase",
+    "EffectVirtualPath": "Metadata/Monsters/CurseZones/CurseZoneBase",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1713250123,
+    "Unk004": 4,
+    "Unk005": -1385123371
+  },
+  {
+    "RowIndex": 67,
+    "Id": "HeistPathNode",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Heist/Objects/HeistPathNode",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1996321959,
+    "Unk004": 4,
+    "Unk005": -1214444386
+  },
+  {
+    "RowIndex": 68,
+    "Id": "HeistPathStart",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Heist/Objects/HeistPathStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1425945050,
+    "Unk004": 4,
+    "Unk005": 257288231
+  },
+  {
+    "RowIndex": 69,
+    "Id": "HeistPathEndpoint",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Heist/Objects/HeistPathEndpoint",
+    "PreloadGroupsKeys": [],
+    "Unk003": 30402300,
+    "Unk004": 4,
+    "Unk005": 1812660011
+  },
+  {
+    "RowIndex": 70,
+    "Id": "HeistPathGoal",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Heist/Objects/HeistPathGoal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1931360402,
+    "Unk004": 4,
+    "Unk005": 1597110152
+  },
+  {
+    "RowIndex": 71,
+    "Id": "HeistThugOilGround",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/League_Heist/thugs/torch/OilGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1044121613,
+    "Unk004": 4,
+    "Unk005": -23331114
+  },
+  {
+    "RowIndex": 72,
+    "Id": "TeleportMarker",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TeleportMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1171505017,
+    "Unk004": 4,
+    "Unk005": 1890630643
+  },
+  {
+    "RowIndex": 73,
+    "Id": "SwampBehemothPod1",
+    "EffectVirtualPath": "Metadata/Monsters/BeehiveBehemoth/Objects/FungusPod1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 742050223,
+    "Unk004": 4,
+    "Unk005": 365926524
+  },
+  {
+    "RowIndex": 74,
+    "Id": "SwampBehemothPod2",
+    "EffectVirtualPath": "Metadata/Monsters/BeehiveBehemoth/Objects/FungusPod2",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1702844406,
+    "Unk004": 4,
+    "Unk005": -473463602
+  },
+  {
+    "RowIndex": 75,
+    "Id": "SwampBehemothPod3",
+    "EffectVirtualPath": "Metadata/Monsters/BeehiveBehemoth/Objects/FungusPod3",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1049854418,
+    "Unk004": 4,
+    "Unk005": 1164840534
+  },
+  {
+    "RowIndex": 76,
+    "Id": "MicrotransactionWarlordStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/WarlordStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1819186575,
+    "Unk004": 1,
+    "Unk005": 788132797
+  },
+  {
+    "RowIndex": 77,
+    "Id": "MicrotransactionWarlordGuildStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/WarlordGuildStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": 835800797,
+    "Unk004": 1,
+    "Unk005": 139911489
+  },
+  {
+    "RowIndex": 78,
+    "Id": "UltimatumChallengeInteractable",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Ultimatum/Objects/UltimatumChallengeInteractable",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 55,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 176937671,
+    "Unk004": 4,
+    "Unk005": 911384056
+  },
+  {
+    "RowIndex": 79,
+    "Id": "InvisibleDevourerHole",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/League_Ultimatum/mechanics/InvisibleDevourerHole",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 55,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 1183865031,
+    "Unk004": 4,
+    "Unk005": -632696975
+  },
+  {
+    "RowIndex": 80,
+    "Id": "TrialmasterTetherSpike",
+    "EffectVirtualPath": "Metadata/Monsters/TrialMaster/Objects/TetherSpike",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 55,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 352027166,
+    "Unk004": 4,
+    "Unk005": 785253876
+  },
+  {
+    "RowIndex": 81,
+    "Id": "TrialmasterTetherBeam",
+    "EffectVirtualPath": "Metadata/Monsters/TrialMaster/Objects/TetherBeam",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 55,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -796155783,
+    "Unk004": 4,
+    "Unk005": 1261309182
+  },
+  {
+    "RowIndex": 82,
+    "Id": "TrialmasterTimestopProjectileMarker",
+    "EffectVirtualPath": "Metadata/Monsters/TrialMaster/Objects/TimestopProjectileMarker",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 55,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -1903688066,
+    "Unk004": 4,
+    "Unk005": 978821170
+  },
+  {
+    "RowIndex": 83,
+    "Id": "TrialmasterTimestopSlamMarker",
+    "EffectVirtualPath": "Metadata/Monsters/TrialMaster/Objects/TimestopSlamMarker",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 55,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -1821875021,
+    "Unk004": 4,
+    "Unk005": -1315936178
+  },
+  {
+    "RowIndex": 84,
+    "Id": "TrialmasterTeleport",
+    "EffectVirtualPath": "Metadata/Monsters/TrialMaster/Objects/TimestopTeleport",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 55,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 1328449756,
+    "Unk004": 4,
+    "Unk005": 1277620991
+  },
+  {
+    "RowIndex": 85,
+    "Id": "TrialMasterGroundSpear",
+    "EffectVirtualPath": "Metadata/Monsters/TrialMaster/Objects/TrialMasterGroundSpear",
+    "PreloadGroupsKeys": [],
+    "Unk003": 625359538,
+    "Unk004": 4,
+    "Unk005": -2142146120
+  },
+  {
+    "RowIndex": 86,
+    "Id": "DoodadNoBlocking",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/DoodadNoBlocking",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1907065122,
+    "Unk004": 4,
+    "Unk005": -540451080
+  },
+  {
+    "RowIndex": 87,
+    "Id": "DoodadNoOverlap",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/DoodadNoOverlap",
+    "PreloadGroupsKeys": [],
+    "Unk003": 924170744,
+    "Unk004": 4,
+    "Unk005": -642865695
+  },
+  {
+    "RowIndex": 88,
+    "Id": "DoodadNoOverlap3",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/DoodadNoOverlap3",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1503493041,
+    "Unk004": 4,
+    "Unk005": -1850113039
+  },
+  {
+    "RowIndex": 89,
+    "Id": "DoodadNoWobble",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/DoodadNoWobble",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1442993876,
+    "Unk004": 4,
+    "Unk005": 1143359933
+  },
+  {
+    "RowIndex": 90,
+    "Id": "TileUpperDoodad",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TileUpperDoodad",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1021149406,
+    "Unk004": 4,
+    "Unk005": 1749112481
+  },
+  {
+    "RowIndex": 91,
+    "Id": "TileUpperDoodadNoOverlap",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TileUpperDoodadNoOverlap",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1410711279,
+    "Unk004": 4,
+    "Unk005": -542684573
+  },
+  {
+    "RowIndex": 92,
+    "Id": "UltimatumTrialMasterBossCutscene",
+    "EffectVirtualPath": "Metadata/NPC/League/Ultimatum/UltimatumNPCBossEndScene",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 55,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 69416948,
+    "Unk004": 4,
+    "Unk005": -974610552
+  },
+  {
+    "RowIndex": 93,
+    "Id": "MicrotransactionApollyonStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/ApollyonStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -346644243,
+    "Unk004": 1,
+    "Unk005": -85433169
+  },
+  {
+    "RowIndex": 94,
+    "Id": "MicrotransactionApollyonGuildStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/ApollyonGuildStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1274781722,
+    "Unk004": 1,
+    "Unk005": -157700468
+  },
+  {
+    "RowIndex": 95,
+    "Id": "ExpeditionMarker",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionMarker",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 56,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -148658819,
+    "Unk004": 4,
+    "Unk005": 1674208320
+  },
+  {
+    "RowIndex": 96,
+    "Id": "ExpeditionExplosive",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionExplosive",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 56,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -490739283,
+    "Unk004": 4,
+    "Unk005": -10366031
+  },
+  {
+    "RowIndex": 97,
+    "Id": "ExpeditionConnectorPole",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionConnectorPole",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 56,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -374957473,
+    "Unk004": 4,
+    "Unk005": -900485420
+  },
+  {
+    "RowIndex": 98,
+    "Id": "ExpeditionExplosiveFuse",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionExplosiveFuse",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 56,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 492492991,
+    "Unk004": 4,
+    "Unk005": 1814878675
+  },
+  {
+    "RowIndex": 99,
+    "Id": "ExpeditionRelic",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionRelic",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 56,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -456228823,
+    "Unk004": 4,
+    "Unk005": 44589000
+  },
+  {
+    "RowIndex": 100,
+    "Id": "ExpeditionPlacementIndicator",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionPlacementIndicator",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 56,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -949663606,
+    "Unk004": 4,
+    "Unk005": -1938920161
+  },
+  {
+    "RowIndex": 101,
+    "Id": "ExpeditionArbalestSnipeObject",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/ExpeditionArbalestSnipeObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2011989504,
+    "Unk004": 4,
+    "Unk005": 1706361689
+  },
+  {
+    "RowIndex": 102,
+    "Id": "ExpeditionBoneCultistEgg",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionBoneCultistEgg",
+    "PreloadGroupsKeys": [],
+    "Unk003": 723706605,
+    "Unk004": 4,
+    "Unk005": -559614205
+  },
+  {
+    "RowIndex": 103,
+    "Id": "ExpeditionCultistSpawnGround",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionArbalestSpawnGround",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 56,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 1917636675,
+    "Unk004": 4,
+    "Unk005": 359613403
+  },
+  {
+    "RowIndex": 104,
+    "Id": "ExpeditionArmourVolatile",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/League_Expedition/general/armored_caster/LightningBall",
+    "PreloadGroupsKeys": [],
+    "Unk003": -492648912,
+    "Unk004": 4,
+    "Unk005": 980008052
+  },
+  {
+    "RowIndex": 105,
+    "Id": "MicrotransactionMidnightPactStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/MidnightPactStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1245891165,
+    "Unk004": 1,
+    "Unk005": -1295195896
+  },
+  {
+    "RowIndex": 106,
+    "Id": "MicrotransactionMidnightPactGuildStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/MidnightPactGuildStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1864834208,
+    "Unk004": 1,
+    "Unk005": -410931900
+  },
+  {
+    "RowIndex": 107,
+    "Id": "OlrothEmbeddedSword",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpedition/Olroth/Objects/OlrothSwordWallEmbed",
+    "PreloadGroupsKeys": [],
+    "Unk003": 649381106,
+    "Unk004": 4,
+    "Unk005": -1087526671
+  },
+  {
+    "RowIndex": 108,
+    "Id": "OlrothCrackedGround",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpeditionNew/Olroth/Objects/OlrothCrackedGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2078057680,
+    "Unk004": 4,
+    "Unk005": -364162847
+  },
+  {
+    "RowIndex": 109,
+    "Id": "OlrothExplosiveFuse",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpedition/Olroth/Objects/ExpeditionExplosiveFuseOlroth",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1512737762,
+    "Unk004": 4,
+    "Unk005": 586923370
+  },
+  {
+    "RowIndex": 110,
+    "Id": "TwigMonsterPod",
+    "EffectVirtualPath": "Metadata/Monsters/SaplingMonster/Objects/seed_Thorn",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1439089658,
+    "Unk004": 4,
+    "Unk005": 711661724
+  },
+  {
+    "RowIndex": 111,
+    "Id": "ArchnemesisGlacialCageCentre",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueArchnemesis/GlacialCageCentre",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1504985595,
+    "Unk004": 4,
+    "Unk005": 816845031
+  },
+  {
+    "RowIndex": 112,
+    "Id": "InfiniteHungerSludgeGround",
+    "EffectVirtualPath": "Metadata/Terrain/EndGame/MapAtlasPrimordial/PrimordialBoss1/Objects/InfiniteHungerSludge",
+    "PreloadGroupsKeys": [],
+    "Unk003": 781925685,
+    "Unk004": 4,
+    "Unk005": -2138096781
+  },
+  {
+    "RowIndex": 113,
+    "Id": "GEALMonsterMarkerServer",
+    "EffectVirtualPath": "Metadata/Monsters/GEALMonsters/Objects/GEALMonsterMarkerServer",
+    "PreloadGroupsKeys": [],
+    "Unk003": -847429097,
+    "Unk004": 4,
+    "Unk005": -339156656
+  },
+  {
+    "RowIndex": 114,
+    "Id": "MudBurrowerHole",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act1_FOUR/MudBurrower/mudburrower_chasm",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1072768048,
+    "Unk004": 4,
+    "Unk005": -196751142
+  },
+  {
+    "RowIndex": 115,
+    "Id": "MudBurrowerBodyHole",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act1_FOUR/MudBurrower/mudburrower_chasm_body",
+    "PreloadGroupsKeys": [],
+    "Unk003": 580972933,
+    "Unk004": 4,
+    "Unk005": -1823630207
+  },
+  {
+    "RowIndex": 116,
+    "Id": "FungalMine1",
+    "EffectVirtualPath": "Metadata/Monsters/FungusZombie/FungalBurstMushrooms/FungalBurstCascade1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 265900346,
+    "Unk004": 4,
+    "Unk005": 582020517
+  },
+  {
+    "RowIndex": 117,
+    "Id": "FungalMine2",
+    "EffectVirtualPath": "Metadata/Monsters/FungusZombie/FungalBurstMushrooms/FungalBurstCascade2",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1864965459,
+    "Unk004": 4,
+    "Unk005": -1903767965
+  },
+  {
+    "RowIndex": 118,
+    "Id": "FungalMine3",
+    "EffectVirtualPath": "Metadata/Monsters/FungusZombie/FungalBurstMushrooms/FungalBurstCascade3",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2134643811,
+    "Unk004": 4,
+    "Unk005": 1049590954
+  },
+  {
+    "RowIndex": 119,
+    "Id": "FlankMarker",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/PathMarkers/FlankMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2133198551,
+    "Unk004": 4,
+    "Unk005": 1535703783
+  },
+  {
+    "RowIndex": 120,
+    "Id": "SandstormSwipeStorm",
+    "EffectVirtualPath": "Metadata/Effects/Spells/sandstorm_swipe/sandstorm_swipe_storm",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1924550505,
+    "Unk004": 4,
+    "Unk005": 2067791894
+  },
+  {
+    "RowIndex": 121,
+    "Id": "SaltGolemFissure",
+    "EffectVirtualPath": "Metadata/Monsters/SaltGolem/GroundFissure",
+    "PreloadGroupsKeys": [],
+    "Unk003": 324062747,
+    "Unk004": 4,
+    "Unk005": 684087096
+  },
+  {
+    "RowIndex": 122,
+    "Id": "SandGolemSpike",
+    "EffectVirtualPath": "Metadata/Monsters/MudGolem/Effects/Ao/sand_slam",
+    "PreloadGroupsKeys": [],
+    "Unk003": 934426287,
+    "Unk004": 4,
+    "Unk005": 2008373564
+  },
+  {
+    "RowIndex": 123,
+    "Id": "MastodonBoneSpike1",
+    "EffectVirtualPath": "Metadata/Monsters/MastodonBoss/effects/MastodonSpikes",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1800022404,
+    "Unk004": 4,
+    "Unk005": -406833356
+  },
+  {
+    "RowIndex": 124,
+    "Id": "MastodonBoneSpike2",
+    "EffectVirtualPath": "Metadata/Monsters/MastodonBoss/effects/MastodonSpikes2",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1999320407,
+    "Unk004": 4,
+    "Unk005": -1920639351
+  },
+  {
+    "RowIndex": 125,
+    "Id": "BalbalaFireGround",
+    "EffectVirtualPath": "Metadata/Monsters/Balbala/ArenaObjects/BalbalaFireGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 242395977,
+    "Unk004": 4,
+    "Unk005": -909293786
+  },
+  {
+    "RowIndex": 126,
+    "Id": "ForsakenGroundEffect",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act2_FOUR/ForsakenSon/ao/forsaken_grd",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1369452634,
+    "Unk004": 4,
+    "Unk005": 646545996
+  },
+  {
+    "RowIndex": 127,
+    "Id": "BoneStorm",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act2_FOUR/MastadonBoss/ao/bone_storm",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2116894925,
+    "Unk004": 4,
+    "Unk005": 2129725491
+  },
+  {
+    "RowIndex": 128,
+    "Id": "DjinnDebris1",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act2_FOUR/WaterDjinn/debris_drop_04",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1357474173,
+    "Unk004": 4,
+    "Unk005": -961656222
+  },
+  {
+    "RowIndex": 129,
+    "Id": "DjinnDebris2",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act2_FOUR/WaterDjinn/debris_drop_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1575765371,
+    "Unk004": 4,
+    "Unk005": -1145134074
+  },
+  {
+    "RowIndex": 130,
+    "Id": "DjinnDebris3",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act2_FOUR/WaterDjinn/debris_drop_03",
+    "PreloadGroupsKeys": [],
+    "Unk003": 887552670,
+    "Unk004": 4,
+    "Unk005": -1439005179
+  },
+  {
+    "RowIndex": 131,
+    "Id": "MastodonFirestormMarker",
+    "EffectVirtualPath": "Metadata/Monsters/BoneCultists/BoneCultists_Necromancer/ArenaObjects/MeteorMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1225776260,
+    "Unk004": 4,
+    "Unk005": 573659534
+  },
+  {
+    "RowIndex": 132,
+    "Id": "MastodonLightningMarker",
+    "EffectVirtualPath": "Metadata/Monsters/BoneCultists/BoneCultists_Necromancer/ArenaObjects/StormcallArenaMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 971160135,
+    "Unk004": 4,
+    "Unk005": 279386381
+  },
+  {
+    "RowIndex": 133,
+    "Id": "FarudinSpearArenaSpear",
+    "EffectVirtualPath": "Metadata/Monsters/Mutewind/BanditWoman/objects/FarudinArenaSpear",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2017317900,
+    "Unk004": 4,
+    "Unk005": -458351353
+  },
+  {
+    "RowIndex": 134,
+    "Id": "FarudinSpearCascadeSpear",
+    "EffectVirtualPath": "Metadata/Monsters/Mutewind/BanditWoman/objects/FarudinCascadeSpear",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1825705850,
+    "Unk004": 4,
+    "Unk005": 387631436
+  },
+  {
+    "RowIndex": 135,
+    "Id": "FarudinSpearCascadeSpearElite",
+    "EffectVirtualPath": "Metadata/Monsters/Mutewind/BanditWoman/objects/FarudinCascadeSpearElite",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1282042554,
+    "Unk004": 4,
+    "Unk005": 162767496
+  },
+  {
+    "RowIndex": 136,
+    "Id": "FireWakeSpearFlames",
+    "EffectVirtualPath": "Metadata/Effects/Spells/spear_firewake/FireWake",
+    "PreloadGroupsKeys": [],
+    "Unk003": -860193767,
+    "Unk004": 4,
+    "Unk005": -606230530
+  },
+  {
+    "RowIndex": 137,
+    "Id": "FarudinSpearArenaSpearFlipped",
+    "EffectVirtualPath": "Metadata/Monsters/Mutewind/BanditWoman/objects/FarudinArenaSpearFlipped",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1597396603,
+    "Unk004": 4,
+    "Unk005": 1176469076
+  },
+  {
+    "RowIndex": 138,
+    "Id": "DoodadScrollNoJostle",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/DoodadScrollNoJostle",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1377526410,
+    "Unk004": 4,
+    "Unk005": 933072751
+  },
+  {
+    "RowIndex": 139,
+    "Id": "DoodadNoScrollNoJostle",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/DoodadNoScrollNoJostle",
+    "PreloadGroupsKeys": [],
+    "Unk003": -795216413,
+    "Unk004": 4,
+    "Unk005": 1098859161
+  },
+  {
+    "RowIndex": 140,
+    "Id": "DoodadScrollNoJostleExtendTallwall",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/DoodadScrollNoJostle_extend_tallwall",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2110326447,
+    "Unk004": 4,
+    "Unk005": -1612926355
+  },
+  {
+    "RowIndex": 141,
+    "Id": "DoodadNoScrollNoJostleExtendTallwall",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/DoodadNoScrollNoJostle_extend_tallwall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1077310514,
+    "Unk004": 4,
+    "Unk005": -161422716
+  },
+  {
+    "RowIndex": 142,
+    "Id": "Caravan1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartRear",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1637258831,
+    "Unk004": 4,
+    "Unk005": -1015893744
+  },
+  {
+    "RowIndex": 143,
+    "Id": "Caravan2",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartCenter",
+    "PreloadGroupsKeys": [],
+    "Unk003": 704516800,
+    "Unk004": 4,
+    "Unk005": 1671024622
+  },
+  {
+    "RowIndex": 144,
+    "Id": "Caravan3",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartFront",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1292846581,
+    "Unk004": 4,
+    "Unk005": 1934930162
+  },
+  {
+    "RowIndex": 145,
+    "Id": "Caravan4",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartWaypoint",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1082411037,
+    "Unk004": 4,
+    "Unk005": -340100702
+  },
+  {
+    "RowIndex": 146,
+    "Id": "Caravan5",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartWaypointFront",
+    "PreloadGroupsKeys": [],
+    "Unk003": -770396496,
+    "Unk004": 4,
+    "Unk005": 534106994
+  },
+  {
+    "RowIndex": 147,
+    "Id": "Caravan6",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartQuarters01",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1783086608,
+    "Unk004": 4,
+    "Unk005": -1980053386
+  },
+  {
+    "RowIndex": 148,
+    "Id": "Caravan7",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartQuarters02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1702737172,
+    "Unk004": 4,
+    "Unk005": -35117314
+  },
+  {
+    "RowIndex": 149,
+    "Id": "Caravan8",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartArmourBack",
+    "PreloadGroupsKeys": [],
+    "Unk003": 806632065,
+    "Unk004": 4,
+    "Unk005": 1474561227
+  },
+  {
+    "RowIndex": 150,
+    "Id": "Caravan9",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CartArmourFront",
+    "PreloadGroupsKeys": [],
+    "Unk003": 904410973,
+    "Unk004": 4,
+    "Unk005": 2042822033
+  },
+  {
+    "RowIndex": 151,
+    "Id": "Caravan0",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/Caravan",
+    "PreloadGroupsKeys": [],
+    "Unk003": -494372924,
+    "Unk004": 4,
+    "Unk005": 916086940
+  },
+  {
+    "RowIndex": 152,
+    "Id": "Caravan10",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/CaravanBoss",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1334563355,
+    "Unk004": 4,
+    "Unk005": 1873507830
+  },
+  {
+    "RowIndex": 153,
+    "Id": "BalbalaCloneRune",
+    "EffectVirtualPath": "Metadata/Monsters/Balbala/ArenaObjects/clone_rune",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2099374361,
+    "Unk004": 4,
+    "Unk005": 794619008
+  },
+  {
+    "RowIndex": 154,
+    "Id": "PerennialKingCorruptionGround",
+    "EffectVirtualPath": "Metadata/Effects/Spells/ground_effects/crown_of_thorns/CrownOfThornsGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 471599983,
+    "Unk004": 4,
+    "Unk005": -1754093743
+  },
+  {
+    "RowIndex": 155,
+    "Id": "RattleCageFissure",
+    "EffectVirtualPath": "Metadata/Monsters/SaltGolem/GroundFissureBoss",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1922892610,
+    "Unk004": 4,
+    "Unk005": 2121584919
+  },
+  {
+    "RowIndex": 156,
+    "Id": "VolcanicQuakeFissure",
+    "EffectVirtualPath": "Metadata/Monsters/SaltGolem/GroundFissureVolcanic",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1772473633,
+    "Unk004": 4,
+    "Unk005": 1496641978
+  },
+  {
+    "RowIndex": 157,
+    "Id": "CrossbowIncendiaryFire",
+    "EffectVirtualPath": "Metadata/Monsters/SaltGolem/GroundFissureBoss",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1922892610,
+    "Unk004": 4,
+    "Unk005": 2110185530
+  },
+  {
+    "RowIndex": 158,
+    "Id": "CrossbowPermafrostWall",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/FrostWall/CrossbowPermafrostWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1098986734,
+    "Unk004": 4,
+    "Unk005": -1436495169
+  },
+  {
+    "RowIndex": 159,
+    "Id": "TitanBossStalagmite",
+    "EffectVirtualPath": "Metadata/Monsters/TitanBoss/BrainStalagmite",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1598650319,
+    "Unk004": 4,
+    "Unk005": 1410868930
+  },
+  {
+    "RowIndex": 160,
+    "Id": "IgnagdukBoneWallSegment",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/BoneWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": -489207111,
+    "Unk004": 4,
+    "Unk005": -1293722494
+  },
+  {
+    "RowIndex": 161,
+    "Id": "IgnagdukBoneWallSegmentQuick",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/BoneWallQuick",
+    "PreloadGroupsKeys": [],
+    "Unk003": -250647529,
+    "Unk004": 4,
+    "Unk005": -823689299
+  },
+  {
+    "RowIndex": 162,
+    "Id": "BlackJawSlamCrack1",
+    "EffectVirtualPath": "Metadata/Monsters/BlackJawSuperunique/objects/TripleSlamCrack1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1946430453,
+    "Unk004": 4,
+    "Unk005": -63324076
+  },
+  {
+    "RowIndex": 163,
+    "Id": "BlackJawSlamCrack2",
+    "EffectVirtualPath": "Metadata/Monsters/BlackJawSuperunique/objects/TripleSlamCrack2",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1340401693,
+    "Unk004": 4,
+    "Unk005": -345950026
+  },
+  {
+    "RowIndex": 164,
+    "Id": "BlackJawSlamCrack3",
+    "EffectVirtualPath": "Metadata/Monsters/BlackJawSuperunique/objects/TripleSlamCrack3",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1706962980,
+    "Unk004": 4,
+    "Unk005": 1728686761
+  },
+  {
+    "RowIndex": 165,
+    "Id": "IgnagdukBoneWallCorridorSegment",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/BoneWallCorridor",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2030295923,
+    "Unk004": 4,
+    "Unk005": 382844250
+  },
+  {
+    "RowIndex": 166,
+    "Id": "IgnagdukBoneWallCorridorSegment2",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/BoneWallCorridor",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2030295923,
+    "Unk004": 4,
+    "Unk005": -1569965037
+  },
+  {
+    "RowIndex": 167,
+    "Id": "IgnagdukBoneWallCorridorSegment3",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/BoneWallCorridor",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2030295923,
+    "Unk004": 4,
+    "Unk005": 902002229
+  },
+  {
+    "RowIndex": 168,
+    "Id": "IgnagdukBoneWallCorridorSegment4",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/BoneWallCorridor",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2030295923,
+    "Unk004": 4,
+    "Unk005": 256791576
+  },
+  {
+    "RowIndex": 169,
+    "Id": "IgnagdukFlameWallSegment",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/FlameWallSegment",
+    "PreloadGroupsKeys": [],
+    "Unk003": -592220494,
+    "Unk004": 4,
+    "Unk005": -301005318
+  },
+  {
+    "RowIndex": 170,
+    "Id": "VaalArchivistFireRune",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Living/objects/ArchivistRuneFire",
+    "PreloadGroupsKeys": [],
+    "Unk003": -306054884,
+    "Unk004": 4,
+    "Unk005": -1482586273
+  },
+  {
+    "RowIndex": 171,
+    "Id": "VaalArchivistLightningRune",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Living/objects/ArchivistRuneLightning",
+    "PreloadGroupsKeys": [],
+    "Unk003": -941415099,
+    "Unk004": 4,
+    "Unk005": 1363024356
+  },
+  {
+    "RowIndex": 172,
+    "Id": "VaalArchivistFlamewall",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Living/objects/FlameWallSegment",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1326035946,
+    "Unk004": 4,
+    "Unk005": 1743712257
+  },
+  {
+    "RowIndex": 173,
+    "Id": "VaalArchivistSnakeRune",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Living/objects/ArchivistRuneSnake",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2078250004,
+    "Unk004": 4,
+    "Unk005": -1538148863
+  },
+  {
+    "RowIndex": 174,
+    "Id": "VaalArchivistMonkeyRune",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Living/objects/ArchivistRuneMonkey",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2025994040,
+    "Unk004": 4,
+    "Unk005": 1108172350
+  },
+  {
+    "RowIndex": 175,
+    "Id": "VaalArchivistJaguarRune",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Living/objects/ArchivistRuneJaguar",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1609849146,
+    "Unk004": 4,
+    "Unk005": -169493745
+  },
+  {
+    "RowIndex": 176,
+    "Id": "VaalGuardOilGround",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/VaalGuards/OilGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 912361361,
+    "Unk004": 4,
+    "Unk005": -239183466
+  },
+  {
+    "RowIndex": 177,
+    "Id": "ProcessionBowArrowDown",
+    "EffectVirtualPath": "Metadata/Monsters/Procession/Procession04/rain_of_arrow_down",
+    "PreloadGroupsKeys": [],
+    "Unk003": 789791420,
+    "Unk004": 4,
+    "Unk005": 199766503
+  },
+  {
+    "RowIndex": 178,
+    "Id": "LegionnaireCausticRainOfArrowDown",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/ViperLegionnaire/rain_of_arrow_caustic",
+    "PreloadGroupsKeys": [],
+    "Unk003": 234232869,
+    "Unk004": 4,
+    "Unk005": 216626288
+  },
+  {
+    "RowIndex": 179,
+    "Id": "LegionnaireSmokeRainOfArrow",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/ViperLegionnaire/rain_of_arrow_smoke",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1052991296,
+    "Unk004": 4,
+    "Unk005": -1023923695
+  },
+  {
+    "RowIndex": 180,
+    "Id": "VaalZealotLightningBlast",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Zealots/Spear/Lightning/objects/lightnintblast",
+    "PreloadGroupsKeys": [],
+    "Unk003": -781048483,
+    "Unk004": 4,
+    "Unk005": -2083756443
+  },
+  {
+    "RowIndex": 181,
+    "Id": "VaalArchitectofTimeRune",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/VaalTimeScientist/objects/TimeRune",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1628896976,
+    "Unk004": 4,
+    "Unk005": -2131787129
+  },
+  {
+    "RowIndex": 182,
+    "Id": "LegionnaireSmokeGround",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/ViperLegionnaire/LegionnaireSmokeGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1372958298,
+    "Unk004": 4,
+    "Unk005": 1282628357
+  },
+  {
+    "RowIndex": 183,
+    "Id": "ViperHumanWall",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/ViperNapuatzi/ViperHumanWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1236698167,
+    "Unk004": 4,
+    "Unk005": -1922254463
+  },
+  {
+    "RowIndex": 184,
+    "Id": "BloodBathersFireWakeSpearFlames",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act3_FOUR/BloodBatherSpear/ao/BloodBathersFireWake",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1890041258,
+    "Unk004": 4,
+    "Unk005": -651636140
+  },
+  {
+    "RowIndex": 185,
+    "Id": "HusbandMonsterFireWakeSpearFlames",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act1_FOUR/HusbandBoss/flame_wake/HusbandMonsterFireWake",
+    "PreloadGroupsKeys": [],
+    "Unk003": 893279371,
+    "Unk004": 4,
+    "Unk005": -1306581341
+  },
+  {
+    "RowIndex": 186,
+    "Id": "Chimera_Corrupted_Ground",
+    "EffectVirtualPath": "Metadata/Monsters/Chimera/ChimeraSpawner/Chimera_Spawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": -724651079,
+    "Unk004": 4,
+    "Unk005": 1954929380
+  },
+  {
+    "RowIndex": 187,
+    "Id": "QueenOfFilthMushroomSpawnPoint",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_11/Objects/QueenOfFilthMushroomBlood",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1753776568,
+    "Unk004": 4,
+    "Unk005": 1675135642
+  },
+  {
+    "RowIndex": 188,
+    "Id": "VaalHumanoidLightningArrow",
+    "EffectVirtualPath": "Metadata/Monsters/VaalHumanoids/VaalHumanoidBow/objects/LightningArrow",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1857125423,
+    "Unk004": 4,
+    "Unk005": -849809177
+  },
+  {
+    "RowIndex": 189,
+    "Id": "GullGoliathSlamSpikes",
+    "EffectVirtualPath": "Metadata/Monsters/GullGoliath/objects/slam_spikes",
+    "PreloadGroupsKeys": [],
+    "Unk003": -40994322,
+    "Unk004": 4,
+    "Unk005": -1473490326
+  },
+  {
+    "RowIndex": 190,
+    "Id": "GoblinVoltaxicStorm",
+    "EffectVirtualPath": "Metadata/Monsters/Goblins/objects/voltaxic_storm",
+    "PreloadGroupsKeys": [],
+    "Unk003": 678269534,
+    "Unk004": 4,
+    "Unk005": -1706696088
+  },
+  {
+    "RowIndex": 191,
+    "Id": "WaveSprayEmitterPoint",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Environment/WaveSprayEmitterPoint",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1967311393,
+    "Unk004": 4,
+    "Unk005": 1711189835
+  },
+  {
+    "RowIndex": 192,
+    "Id": "WaveSprayEmitterMedium",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Environment/WaveSprayEmitterMedium",
+    "PreloadGroupsKeys": [],
+    "Unk003": 975743884,
+    "Unk004": 4,
+    "Unk005": 1668606991
+  },
+  {
+    "RowIndex": 193,
+    "Id": "WaveSprayEmitterLong",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Environment/WaveSprayEmitterLong",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1489815477,
+    "Unk004": 4,
+    "Unk005": -1339415148
+  },
+  {
+    "RowIndex": 194,
+    "Id": "WaterElementalWaterGeyser",
+    "EffectVirtualPath": "Metadata/Monsters/LiquidElementals/objects/water_geyser",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1896817285,
+    "Unk004": 4,
+    "Unk005": -110634354
+  },
+  {
+    "RowIndex": 195,
+    "Id": "Chest",
+    "EffectVirtualPath": "Metadata/Chests/Chest",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1648619741,
+    "Unk004": 4,
+    "Unk005": -2022029209
+  },
+  {
+    "RowIndex": 196,
+    "Id": "PermanentServerEffect",
+    "EffectVirtualPath": "Metadata/Effects/PermanentServerEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1494471944,
+    "Unk004": 4,
+    "Unk005": 1066532367
+  },
+  {
+    "RowIndex": 197,
+    "Id": "SleepableServerEffect",
+    "EffectVirtualPath": "Metadata/Effects/SleepableServerEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 147346500,
+    "Unk004": 4,
+    "Unk005": -28927078
+  },
+  {
+    "RowIndex": 198,
+    "Id": "SleepableServerBeamEffect",
+    "EffectVirtualPath": "Metadata/Effects/SleepableServerBeamEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 978925438,
+    "Unk004": 4,
+    "Unk005": -695718942
+  },
+  {
+    "RowIndex": 199,
+    "Id": "Door",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Door",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1399266459,
+    "Unk004": 4,
+    "Unk005": -1050879506
+  },
+  {
+    "RowIndex": 200,
+    "Id": "DoorTriggerableNotarget",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/DoorTriggerableNotarget",
+    "PreloadGroupsKeys": [],
+    "Unk003": -884443446,
+    "Unk004": 4,
+    "Unk005": -768153504
+  },
+  {
+    "RowIndex": 201,
+    "Id": "PortalTransition",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/PortalTransition",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1475979710,
+    "Unk004": 4,
+    "Unk005": 2110316081
+  },
+  {
+    "RowIndex": 202,
+    "Id": "BossTargetMarkerSerialized",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/BossTargetMarkerSerialized",
+    "PreloadGroupsKeys": [],
+    "Unk003": -403977946,
+    "Unk004": 4,
+    "Unk005": -1548521086
+  },
+  {
+    "RowIndex": 203,
+    "Id": "BossTargetMarkerSerialized2",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/BossTargetMarkerSerialized2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1837574200,
+    "Unk004": 4,
+    "Unk005": 153269663
+  },
+  {
+    "RowIndex": 204,
+    "Id": "CooldownMarkerSerialised",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/CooldownMarkerSerialised",
+    "PreloadGroupsKeys": [],
+    "Unk003": 970688955,
+    "Unk004": 4,
+    "Unk005": 1545750353
+  },
+  {
+    "RowIndex": 205,
+    "Id": "IncaDoorLight",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Lights/IncaDoorLight",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1012101947,
+    "Unk004": 4,
+    "Unk005": 772127726
+  },
+  {
+    "RowIndex": 206,
+    "Id": "LibraryDoorLightSpawned",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Lights/LibraryDoorLightSpawned",
+    "PreloadGroupsKeys": [],
+    "Unk003": -81788562,
+    "Unk004": 4,
+    "Unk005": -1420405314
+  },
+  {
+    "RowIndex": 207,
+    "Id": "ScepterDoorLight",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Lights/ScepterDoorLight",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2123218793,
+    "Unk004": 4,
+    "Unk005": -1319544766
+  },
+  {
+    "RowIndex": 208,
+    "Id": "ScepterDoorLightSpawned",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Lights/ScepterDoorLightSpawned",
+    "PreloadGroupsKeys": [],
+    "Unk003": -371793627,
+    "Unk004": 4,
+    "Unk005": 390657953
+  },
+  {
+    "RowIndex": 209,
+    "Id": "HydraTurret1",
+    "EffectVirtualPath": "Metadata/Monsters/Hydra/HydraTurret1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -799130696,
+    "Unk004": 4,
+    "Unk005": -1740881657
+  },
+  {
+    "RowIndex": 210,
+    "Id": "NPC",
+    "EffectVirtualPath": "Metadata/NPC/NPC",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1200689704,
+    "Unk004": 4,
+    "Unk005": 757446359
+  },
+  {
+    "RowIndex": 211,
+    "Id": "NPCBlocker",
+    "EffectVirtualPath": "Metadata/NPC/Blocker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1980547395,
+    "Unk004": 4,
+    "Unk005": 599582228
+  },
+  {
+    "RowIndex": 212,
+    "Id": "RedFlag",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/CTF/Objects/RedFlag",
+    "PreloadGroupsKeys": [],
+    "Unk003": 137131977,
+    "Unk004": 4,
+    "Unk005": -1463383473
+  },
+  {
+    "RowIndex": 213,
+    "Id": "BlueFlag",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/CTF/Objects/BlueFlag",
+    "PreloadGroupsKeys": [],
+    "Unk003": -885567876,
+    "Unk004": 4,
+    "Unk005": 1140352444
+  },
+  {
+    "RowIndex": 214,
+    "Id": "GreenFlag",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/CTF/Objects/GreenFlag",
+    "PreloadGroupsKeys": [],
+    "Unk003": -354094196,
+    "Unk004": 4,
+    "Unk005": -1161383155
+  },
+  {
+    "RowIndex": 215,
+    "Id": "ServerDoodad",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/ServerDoodad",
+    "PreloadGroupsKeys": [],
+    "Unk003": -443687430,
+    "Unk004": 4,
+    "Unk005": -1960791569
+  },
+  {
+    "RowIndex": 216,
+    "Id": "HideoutDoodad",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/HideoutDoodad",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2070549867,
+    "Unk004": 4,
+    "Unk005": 1452666912
+  },
+  {
+    "RowIndex": 217,
+    "Id": "StrDexIntMappingDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/StrDexIntMappingDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": -293601907,
+    "Unk004": 4,
+    "Unk005": 17655265
+  },
+  {
+    "RowIndex": 218,
+    "Id": "HideoutCraftingBench",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBench",
+    "PreloadGroupsKeys": [],
+    "Unk003": 60453592,
+    "Unk004": 4,
+    "Unk005": -1558566125
+  },
+  {
+    "RowIndex": 219,
+    "Id": "HideoutPowerSourcePrimevalCapture",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/HideoutPowerSource_PrimevalCapture",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1490944268,
+    "Unk004": 4,
+    "Unk005": 1404148064
+  },
+  {
+    "RowIndex": 220,
+    "Id": "HideoutPoweredLightPrimeval",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/HideoutPoweredLight_Primeval",
+    "PreloadGroupsKeys": [],
+    "Unk003": -767608318,
+    "Unk004": 4,
+    "Unk005": 1446030516
+  },
+  {
+    "RowIndex": 221,
+    "Id": "ServerBeamEffect",
+    "EffectVirtualPath": "Metadata/Effects/ServerBeamEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2090266547,
+    "Unk004": 4,
+    "Unk005": 1666387856
+  },
+  {
+    "RowIndex": 222,
+    "Id": "ServerRandomEffect",
+    "EffectVirtualPath": "Metadata/Effects/ServerRandomEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 885898904,
+    "Unk004": 4,
+    "Unk005": 1975111951
+  },
+  {
+    "RowIndex": 223,
+    "Id": "ServerChicken",
+    "EffectVirtualPath": "Metadata/Critters/Chicken/ServerChicken",
+    "PreloadGroupsKeys": [],
+    "Unk003": 991917580,
+    "Unk004": 4,
+    "Unk005": 768606335
+  },
+  {
+    "RowIndex": 224,
+    "Id": "ColosseumDoubleDoorsSpawner",
+    "EffectVirtualPath": "Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumDoubleDoorsSpawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1094035947,
+    "Unk004": 4,
+    "Unk005": 1184271453
+  },
+  {
+    "RowIndex": 225,
+    "Id": "ColosseumTrapDoorSpawnerSand",
+    "EffectVirtualPath": "Metadata/Terrain/Mountain/Arena/Colosseum/Objects/ColosseumTrapDoorSpawnerSand",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2089114364,
+    "Unk004": 4,
+    "Unk005": -1016220683
+  },
+  {
+    "RowIndex": 226,
+    "Id": "SummonEffect",
+    "EffectVirtualPath": "Metadata/Terrain/StoneCircles/SummonEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1954860790,
+    "Unk004": 4,
+    "Unk005": 1684461222
+  },
+  {
+    "RowIndex": 227,
+    "Id": "Smashable",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Smashable",
+    "PreloadGroupsKeys": [],
+    "Unk003": -928111383,
+    "Unk004": 4,
+    "Unk005": 11043083
+  },
+  {
+    "RowIndex": 228,
+    "Id": "SmashableNoHighlight",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/SmashableNoHighlight",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1000491677,
+    "Unk004": 4,
+    "Unk005": 1485617522
+  },
+  {
+    "RowIndex": 229,
+    "Id": "SmashableNoHighlightBlocking",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/SmashableNoHighlightBlocking",
+    "PreloadGroupsKeys": [],
+    "Unk003": 833807511,
+    "Unk004": 4,
+    "Unk005": 1439400939
+  },
+  {
+    "RowIndex": 230,
+    "Id": "SmashableNoHighlightResetBlocking",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/SmashableNoHighlightResetBlocking",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1903880999,
+    "Unk004": 4,
+    "Unk005": 1308299126
+  },
+  {
+    "RowIndex": 231,
+    "Id": "SmashableNoHighlightHitbox",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/SmashableNoHighlightHitbox",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1321336709,
+    "Unk004": 4,
+    "Unk005": -625468694
+  },
+  {
+    "RowIndex": 232,
+    "Id": "SmashableNoHighlightResetHitbox",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/SmashableNoHighlightResetHitbox",
+    "PreloadGroupsKeys": [],
+    "Unk003": -982052389,
+    "Unk004": 4,
+    "Unk005": 1230753622
+  },
+  {
+    "RowIndex": 233,
+    "Id": "TargetMarker2",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TargetMarker2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1844390017,
+    "Unk004": 4,
+    "Unk005": -666960189
+  },
+  {
+    "RowIndex": 234,
+    "Id": "IncursionGrenadeMortarTriggerNovaSmall",
+    "EffectVirtualPath": "Metadata/Projectiles/IncursionGrenadeMortarTriggerNovaSmall",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1532523086,
+    "Unk004": 4,
+    "Unk005": -1966403192
+  },
+  {
+    "RowIndex": 235,
+    "Id": "IncursionGrenadeMortarTriggerNova",
+    "EffectVirtualPath": "Metadata/Projectiles/IncursionGrenadeMortarTriggerNova",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1414414122,
+    "Unk004": 4,
+    "Unk005": -714173636
+  },
+  {
+    "RowIndex": 236,
+    "Id": "TreasurePile",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/TreasurePile",
+    "PreloadGroupsKeys": [],
+    "Unk003": -919325396,
+    "Unk004": 4,
+    "Unk005": 181167540
+  },
+  {
+    "RowIndex": 237,
+    "Id": "HeistStashHideout",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Heist/HeistStash_Hideout",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1574223219,
+    "Unk004": 4,
+    "Unk005": -267854907
+  },
+  {
+    "RowIndex": 238,
+    "Id": "RitualRuneObject",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Ritual/RitualRuneObject",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 53,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -1496317588,
+    "Unk004": 4,
+    "Unk005": 796599582
+  },
+  {
+    "RowIndex": 239,
+    "Id": "RitualRuneInteractable",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Ritual/RitualRuneInteractable",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 53,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -627129234,
+    "Unk004": 4,
+    "Unk005": -313826935
+  },
+  {
+    "RowIndex": 240,
+    "Id": "RitualBlocker",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Ritual/RitualBlocker",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 53,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -1500900342,
+    "Unk004": 4,
+    "Unk005": 1670143995
+  },
+  {
+    "RowIndex": 241,
+    "Id": "RitualRuneLight",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Ritual/RitualRuneLight",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 53,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -2037097018,
+    "Unk004": 4,
+    "Unk005": -1162651323
+  },
+  {
+    "RowIndex": 242,
+    "Id": "RitualBloodPool",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Ritual/BloodPool",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 53,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -574299181,
+    "Unk004": 4,
+    "Unk005": 950505012
+  },
+  {
+    "RowIndex": 243,
+    "Id": "CraftingSiloHideout",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Harvest/CraftingSilo_Hideout",
+    "PreloadGroupsKeys": [],
+    "Unk003": 45087824,
+    "Unk004": 4,
+    "Unk005": 1485393562
+  },
+  {
+    "RowIndex": 244,
+    "Id": "ExpeditionStashHideout",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionStash_Hideout",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1399230278,
+    "Unk004": 4,
+    "Unk005": 10820019
+  },
+  {
+    "RowIndex": 245,
+    "Id": "HideoutRhoaDinner",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/HideoutRhoaDinner",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1952682949,
+    "Unk004": 4,
+    "Unk005": 293976007
+  },
+  {
+    "RowIndex": 246,
+    "Id": "SpawnerDarknessEffect",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpedition/ReaperBoss/Objects/SpawnerDarknessEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2110744432,
+    "Unk004": 4,
+    "Unk005": -929698599
+  },
+  {
+    "RowIndex": 247,
+    "Id": "ExpeditionNPCHome",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpedition/NPC/Home",
+    "PreloadGroupsKeys": [],
+    "Unk003": -87164547,
+    "Unk004": 4,
+    "Unk005": -782806747
+  },
+  {
+    "RowIndex": 248,
+    "Id": "ExpeditionTujenGrenadeBomb",
+    "EffectVirtualPath": "Metadata/Projectiles/ExpeditionTujenGrenadeBomb",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1819175011,
+    "Unk004": 4,
+    "Unk005": 1571806793
+  },
+  {
+    "RowIndex": 249,
+    "Id": "OlrothAddSpawnerPhase1",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpedition/Olroth/Objects/OlrothAddSpawnerPhase1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -858405198,
+    "Unk004": 4,
+    "Unk005": -466955031
+  },
+  {
+    "RowIndex": 250,
+    "Id": "OlrothAddSpawnerPhase2",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpedition/Olroth/Objects/OlrothAddSpawnerPhase2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1192060314,
+    "Unk004": 4,
+    "Unk005": 1658488004
+  },
+  {
+    "RowIndex": 251,
+    "Id": "VoranaSmokeAppearEffect",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpedition/ReaperBoss/Objects/VoranaSmokeAppearEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1215832220,
+    "Unk004": 4,
+    "Unk005": 325611135
+  },
+  {
+    "RowIndex": 252,
+    "Id": "TeleportBlue",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/TeleportBlue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1870632540,
+    "Unk004": 4,
+    "Unk005": 2141875015
+  },
+  {
+    "RowIndex": 253,
+    "Id": "TeleportRed",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/TeleportRed",
+    "PreloadGroupsKeys": [],
+    "Unk003": -299012610,
+    "Unk004": 4,
+    "Unk005": 2128980291
+  },
+  {
+    "RowIndex": 254,
+    "Id": "TeleportYellow",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/TeleportYellow",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1177116511,
+    "Unk004": 4,
+    "Unk005": 237533034
+  },
+  {
+    "RowIndex": 255,
+    "Id": "TeleportOrange",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/TeleportOrange",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2060521272,
+    "Unk004": 4,
+    "Unk005": 796450375
+  },
+  {
+    "RowIndex": 256,
+    "Id": "TeleportPurple",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/TeleportPurple",
+    "PreloadGroupsKeys": [],
+    "Unk003": 415222739,
+    "Unk004": 4,
+    "Unk005": -354600099
+  },
+  {
+    "RowIndex": 257,
+    "Id": "TeleportGreen",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/TeleportGreen",
+    "PreloadGroupsKeys": [],
+    "Unk003": -179645604,
+    "Unk004": 4,
+    "Unk005": 146559381
+  },
+  {
+    "RowIndex": 258,
+    "Id": "TeleportWhite",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/TeleportWhite",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1478173906,
+    "Unk004": 4,
+    "Unk005": 254062556
+  },
+  {
+    "RowIndex": 259,
+    "Id": "MudBurrowerBodyBoss",
+    "EffectVirtualPath": "Metadata/Monsters/MudBurrower/MudBurrowerBodyBoss",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1624320796,
+    "Unk004": 4,
+    "Unk005": -264040635
+  },
+  {
+    "RowIndex": 260,
+    "Id": "HideoutMaleMannequin",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/MannequinMale",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1932860061,
+    "Unk004": 4,
+    "Unk005": 632426568
+  },
+  {
+    "RowIndex": 261,
+    "Id": "SanctumMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Sanctum/Objects/SanctumMapDevice",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 62,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -1648451465,
+    "Unk004": 4,
+    "Unk005": -475635090
+  },
+  {
+    "RowIndex": 262,
+    "Id": "Sanctum1_Ritual_01_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor1_Ritual_01_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1877719861,
+    "Unk004": 4,
+    "Unk005": 398904018
+  },
+  {
+    "RowIndex": 263,
+    "Id": "Sanctum1_Ritual_02_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor1_Ritual_02_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -231918569,
+    "Unk004": 4,
+    "Unk005": -1098763781
+  },
+  {
+    "RowIndex": 264,
+    "Id": "Sanctum1_Ritual_03_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor1_Ritual_03_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1901982310,
+    "Unk004": 4,
+    "Unk005": -326617168
+  },
+  {
+    "RowIndex": 265,
+    "Id": "Sanctum1_Ritual_Large_01_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor1_Ritual_Large_01_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1537598400,
+    "Unk004": 4,
+    "Unk005": 900922720
+  },
+  {
+    "RowIndex": 266,
+    "Id": "Sanctum2_Ritual_01_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor2_Ritual_01_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -689663629,
+    "Unk004": 4,
+    "Unk005": 1188236527
+  },
+  {
+    "RowIndex": 267,
+    "Id": "Sanctum2_Ritual_02_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor2_Ritual_02_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2045608469,
+    "Unk004": 4,
+    "Unk005": -485914313
+  },
+  {
+    "RowIndex": 268,
+    "Id": "Sanctum2_Ritual_03_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor2_Ritual_03_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -110846424,
+    "Unk004": 4,
+    "Unk005": 1549807535
+  },
+  {
+    "RowIndex": 269,
+    "Id": "Sanctum2_Ritual_Large_01_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor2_Ritual_Large_01_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1102186165,
+    "Unk004": 4,
+    "Unk005": -799384192
+  },
+  {
+    "RowIndex": 270,
+    "Id": "Sanctum2_Ritual_Large_02_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor2_Ritual_Large_02_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1803177516,
+    "Unk004": 4,
+    "Unk005": -800291018
+  },
+  {
+    "RowIndex": 271,
+    "Id": "Sanctum3_Ritual_01_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor3_Ritual_01_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 463595212,
+    "Unk004": 4,
+    "Unk005": -1137570805
+  },
+  {
+    "RowIndex": 272,
+    "Id": "Sanctum3_Ritual_02_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor3_Ritual_02_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1527135428,
+    "Unk004": 4,
+    "Unk005": -1049279645
+  },
+  {
+    "RowIndex": 273,
+    "Id": "Sanctum3_Ritual_03_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor3_Ritual_03_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -140321363,
+    "Unk004": 4,
+    "Unk005": 692942876
+  },
+  {
+    "RowIndex": 274,
+    "Id": "Sanctum3_Ritual_Large_01_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor3_Ritual_Large_01_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 103766629,
+    "Unk004": 4,
+    "Unk005": -498626051
+  },
+  {
+    "RowIndex": 275,
+    "Id": "Sanctum3_Ritual_Large_02_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor3_Ritual_Large_02_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 491008278,
+    "Unk004": 4,
+    "Unk005": -2044571452
+  },
+  {
+    "RowIndex": 276,
+    "Id": "Sanctum4_Ritual_01_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor4_Ritual_01_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2092306198,
+    "Unk004": 4,
+    "Unk005": 1726629840
+  },
+  {
+    "RowIndex": 277,
+    "Id": "Sanctum4_Ritual_02_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor4_Ritual_02_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1906514749,
+    "Unk004": 4,
+    "Unk005": -1258384132
+  },
+  {
+    "RowIndex": 278,
+    "Id": "Sanctum4_Ritual_03_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor4_Ritual_03_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1625325314,
+    "Unk004": 4,
+    "Unk005": -1398384326
+  },
+  {
+    "RowIndex": 279,
+    "Id": "Sanctum4_Ritual_Large_01_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor4_Ritual_Large_01_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 7094447,
+    "Unk004": 4,
+    "Unk005": -2044385424
+  },
+  {
+    "RowIndex": 280,
+    "Id": "Sanctum4_Ritual_Large_02_02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Spawners/SanctumSpawnerFloor4_Ritual_Large_02_02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1724452113,
+    "Unk004": 4,
+    "Unk005": -1498940114
+  },
+  {
+    "RowIndex": 281,
+    "Id": "SanctumGasTrap",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Hazards/PressurePlate_PoisonGas",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1637109781,
+    "Unk004": 4,
+    "Unk005": 1532930991
+  },
+  {
+    "RowIndex": 282,
+    "Id": "FusingResultVisuals",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Microtransactions/VisualFusingEffect/FusingEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1351337794,
+    "Unk004": 4,
+    "Unk005": 906988460
+  },
+  {
+    "RowIndex": 283,
+    "Id": "HideoutProximityLight",
+    "EffectVirtualPath": "Metadata/Effects/Environment/hideout/lights/ProximityHideoutLight",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1192384936,
+    "Unk004": 4,
+    "Unk005": -1464883864
+  },
+  {
+    "RowIndex": 284,
+    "Id": "SanctumMote",
+    "EffectVirtualPath": "Metadata/Terrain/Leagues/Sanctum/Objects/SanctumMote",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 62,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -41234925,
+    "Unk004": 4,
+    "Unk005": 1025184537
+  },
+  {
+    "RowIndex": 285,
+    "Id": "ChessPieceBase",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/ChessPieceBase",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1115989538,
+    "Unk004": 4,
+    "Unk005": 2041599791
+  },
+  {
+    "RowIndex": 286,
+    "Id": "HideoutDeliriumObject",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/DeliriumObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1198862070,
+    "Unk004": 4,
+    "Unk005": 751496618
+  },
+  {
+    "RowIndex": 287,
+    "Id": "MicrotransactionSunMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/SunMapDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": -54800004,
+    "Unk004": 4,
+    "Unk005": 851133628
+  },
+  {
+    "RowIndex": 288,
+    "Id": "MicrotransactionSunMapDeviceButton",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/SunMapDeviceButton",
+    "PreloadGroupsKeys": [],
+    "Unk003": -515690723,
+    "Unk004": 4,
+    "Unk005": 52567558
+  },
+  {
+    "RowIndex": 289,
+    "Id": "MicrotransactionBloodlordMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/PetBlenderMapDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": 493098612,
+    "Unk004": 4,
+    "Unk005": -1965219615
+  },
+  {
+    "RowIndex": 290,
+    "Id": "MicrotransactionAristocratPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/AristocratPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -288069063,
+    "Unk004": 4,
+    "Unk005": 1460445175
+  },
+  {
+    "RowIndex": 291,
+    "Id": "MicrotransactionBloodlordMapDeviceButton",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/BloodlordMapDeviceButton",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1646580211,
+    "Unk004": 4,
+    "Unk005": 157492182
+  },
+  {
+    "RowIndex": 292,
+    "Id": "MicrotransactionFistBumpEffect",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Rings/fist_bump_ring/FistBumpEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": 594211385,
+    "Unk004": 4,
+    "Unk005": -135806498
+  },
+  {
+    "RowIndex": 293,
+    "Id": "HideoutAtlasDoodad",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/HideoutAtlasDoodad",
+    "PreloadGroupsKeys": [],
+    "Unk003": 417064995,
+    "Unk004": 4,
+    "Unk005": 805456086
+  },
+  {
+    "RowIndex": 294,
+    "Id": "MicrotransactionForgemasterAnvil",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Misc/forgemaster_armour/ForgemasterAnvil",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1740013019,
+    "Unk004": 4,
+    "Unk005": -526403812
+  },
+  {
+    "RowIndex": 295,
+    "Id": "DragonHoardStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/DragonHoardStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -458136940,
+    "Unk004": 4,
+    "Unk005": -279525699
+  },
+  {
+    "RowIndex": 296,
+    "Id": "DragonHoardGuildStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/DragonHoardGuildStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -590727172,
+    "Unk004": 4,
+    "Unk005": -2063913221
+  },
+  {
+    "RowIndex": 297,
+    "Id": "HoodedMentorController",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_4/Objects/HoodedMentorController",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1359977251,
+    "Unk004": 4,
+    "Unk005": -1696161126
+  },
+  {
+    "RowIndex": 298,
+    "Id": "CorpseChestCrimsonShore",
+    "EffectVirtualPath": "Metadata/Chests/CorpseChests_95702/CorpseChest_CrimsonShore",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1513169672,
+    "Unk004": 4,
+    "Unk005": 84161771
+  },
+  {
+    "RowIndex": 299,
+    "Id": "TutorialArborealZombie",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_1/Objects/TutorialArborealZombie",
+    "PreloadGroupsKeys": [],
+    "Unk003": -349978383,
+    "Unk004": 4,
+    "Unk005": -61229644
+  },
+  {
+    "RowIndex": 300,
+    "Id": "WallSeals",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_2/Objects/WallSeals",
+    "PreloadGroupsKeys": [],
+    "Unk003": 245634794,
+    "Unk004": 4,
+    "Unk005": 1256828727
+  },
+  {
+    "RowIndex": 301,
+    "Id": "SmallScarabSpawner",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_4/Objects/SmallScarabSpawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": -240226891,
+    "Unk004": 4,
+    "Unk005": -471327334
+  },
+  {
+    "RowIndex": 302,
+    "Id": "PillarBreakable",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_4_2/Objects/PillarBreakable",
+    "PreloadGroupsKeys": [],
+    "Unk003": 171732350,
+    "Unk004": 4,
+    "Unk005": -1943122882
+  },
+  {
+    "RowIndex": 303,
+    "Id": "TowerFadeProxFar",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_8/Objects/TowerFadeProxFar",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1727672579,
+    "Unk004": 4,
+    "Unk005": 1903728511
+  },
+  {
+    "RowIndex": 304,
+    "Id": "BridgeFadeProx",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_8/Objects/BridgeFadeProx",
+    "PreloadGroupsKeys": [],
+    "Unk003": -702966886,
+    "Unk004": 4,
+    "Unk005": -1992084419
+  },
+  {
+    "RowIndex": 305,
+    "Id": "EinharPath1",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/PathMarkers/EinharPath1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1748387443,
+    "Unk004": 4,
+    "Unk005": -454232753
+  },
+  {
+    "RowIndex": 306,
+    "Id": "EinharPath2",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/PathMarkers/EinharPath2",
+    "PreloadGroupsKeys": [],
+    "Unk003": 811160805,
+    "Unk004": 4,
+    "Unk005": -1732702755
+  },
+  {
+    "RowIndex": 307,
+    "Id": "EinharPath3",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/PathMarkers/EinharPath3",
+    "PreloadGroupsKeys": [],
+    "Unk003": 809011975,
+    "Unk004": 4,
+    "Unk005": -2085817090
+  },
+  {
+    "RowIndex": 308,
+    "Id": "LarkPortal",
+    "EffectVirtualPath": "Metadata/Monsters/Lark/Objects/LarkPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1217784490,
+    "Unk004": 4,
+    "Unk005": 1022172916
+  },
+  {
+    "RowIndex": 309,
+    "Id": "LarkPortalSpawner",
+    "EffectVirtualPath": "Metadata/Monsters/Lark/Objects/LarkPortalSpawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": -447571094,
+    "Unk004": 4,
+    "Unk005": 1102273068
+  },
+  {
+    "RowIndex": 310,
+    "Id": "GroundTrailMarker",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/GroundTrailMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2025164564,
+    "Unk004": 4,
+    "Unk005": 716733281
+  },
+  {
+    "RowIndex": 311,
+    "Id": "ForsakenSonCenser",
+    "EffectVirtualPath": "Metadata/Monsters/ForsakenSon/BossArenaObjects/ForsakenSonCenser",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1583573888,
+    "Unk004": 4,
+    "Unk005": -933916101
+  },
+  {
+    "RowIndex": 312,
+    "Id": "SnakePot1",
+    "EffectVirtualPath": "Metadata/Monsters/SerpentClanMonster/objects/SnakePot1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1177472812,
+    "Unk004": 4,
+    "Unk005": -1250080545
+  },
+  {
+    "RowIndex": 313,
+    "Id": "SnakePot2",
+    "EffectVirtualPath": "Metadata/Monsters/SerpentClanMonster/objects/SnakePot2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1528683549,
+    "Unk004": 4,
+    "Unk005": 669443742
+  },
+  {
+    "RowIndex": 314,
+    "Id": "SnakePot4",
+    "EffectVirtualPath": "Metadata/Monsters/SerpentClanMonster/objects/SnakePot4",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1158038660,
+    "Unk004": 4,
+    "Unk005": -528656273
+  },
+  {
+    "RowIndex": 315,
+    "Id": "GuardFormationMarker",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_3/Objects/GuardFormationMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1488405791,
+    "Unk004": 4,
+    "Unk005": 1938606835
+  },
+  {
+    "RowIndex": 316,
+    "Id": "TwilightOrderPortalMob",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act2_FOUR/TwilightOrder/portal_mob",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1220179891,
+    "Unk004": 4,
+    "Unk005": 1869724657
+  },
+  {
+    "RowIndex": 317,
+    "Id": "TwilightOrderPortal",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act2_FOUR/TwilightOrder/portal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1567375656,
+    "Unk004": 4,
+    "Unk005": -1824191460
+  },
+  {
+    "RowIndex": 318,
+    "Id": "RamGiantWheelObject",
+    "EffectVirtualPath": "Metadata/Monsters/RamGiant/RamGiantWheelObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": 647015515,
+    "Unk004": 4,
+    "Unk005": 865070311
+  },
+  {
+    "RowIndex": 319,
+    "Id": "TreeNodeMarker",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_3/Objects/TreeNodeMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -505228444,
+    "Unk004": 4,
+    "Unk005": 1236323722
+  },
+  {
+    "RowIndex": 320,
+    "Id": "VaalSkitterbotGrenade",
+    "EffectVirtualPath": "Metadata/Monsters/VaalConstructs/Skitterbot/objects/VaalSkitterbotGrenade",
+    "PreloadGroupsKeys": [],
+    "Unk003": -69950936,
+    "Unk004": 4,
+    "Unk005": 1034865132
+  },
+  {
+    "RowIndex": 321,
+    "Id": "VaalConstructReviveMarker",
+    "EffectVirtualPath": "Metadata/Monsters/VaalConstructs/VaalConstructReviveMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2050131038,
+    "Unk004": 4,
+    "Unk005": -928281011
+  },
+  {
+    "RowIndex": 322,
+    "Id": "SnakeManSpawner1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_4/Objects/SnakeManSpawner1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 608020167,
+    "Unk004": 4,
+    "Unk005": 1382297963
+  },
+  {
+    "RowIndex": 323,
+    "Id": "NPCInteractionTarget",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/NPCInteractionTarget",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2024763809,
+    "Unk004": 4,
+    "Unk005": -910123722
+  },
+  {
+    "RowIndex": 324,
+    "Id": "IgnagdukBogWitchEffigy",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/Effigy",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1325586612,
+    "Unk004": 4,
+    "Unk005": 639533493
+  },
+  {
+    "RowIndex": 325,
+    "Id": "VaalLightSource9",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalFire/VaalLightSource9",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1372811938,
+    "Unk004": 4,
+    "Unk005": -1193988322
+  },
+  {
+    "RowIndex": 326,
+    "Id": "VaalLightSource10",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalFire/VaalLightSource10",
+    "PreloadGroupsKeys": [],
+    "Unk003": 635409531,
+    "Unk004": 4,
+    "Unk005": 1743608142
+  },
+  {
+    "RowIndex": 327,
+    "Id": "VaalLightSource11",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalFire/VaalLightSource11",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1861023335,
+    "Unk004": 4,
+    "Unk005": -2009960201
+  },
+  {
+    "RowIndex": 328,
+    "Id": "VaalLightSource20",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalFire/VaalLightSource20",
+    "PreloadGroupsKeys": [],
+    "Unk003": -30197778,
+    "Unk004": 4,
+    "Unk005": -162790659
+  },
+  {
+    "RowIndex": 329,
+    "Id": "VaalLightSource21",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Jungle/VaalProps/VaalFire/VaalLightSource21",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1034316447,
+    "Unk004": 4,
+    "Unk005": -1934768103
+  },
+  {
+    "RowIndex": 330,
+    "Id": "FlowingMetalLight",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_9/Objects/FlowingMetal_Light",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2042313843,
+    "Unk004": 4,
+    "Unk005": -1046469921
+  },
+  {
+    "RowIndex": 331,
+    "Id": "DrownedCrewReviveMarker",
+    "EffectVirtualPath": "Metadata/Monsters/DrownedCrew/DrownedCrewReviveMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -646078565,
+    "Unk004": 4,
+    "Unk005": 650152355
+  },
+  {
+    "RowIndex": 332,
+    "Id": "VaalBloodPriestReviveMarker",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Living/BloodPriests/VaalBloodPriestReviveMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -647993104,
+    "Unk004": 4,
+    "Unk005": -385340249
+  },
+  {
+    "RowIndex": 333,
+    "Id": "AggoratGlyph01",
+    "EffectVirtualPath": "Metadata/NPC/Four_Act3/AggoratPresentGlyph01",
+    "PreloadGroupsKeys": [],
+    "Unk003": -589522224,
+    "Unk004": 4,
+    "Unk005": 289335885
+  },
+  {
+    "RowIndex": 334,
+    "Id": "AggoratGlyph02",
+    "EffectVirtualPath": "Metadata/NPC/Four_Act3/AggoratPresentGlyph02",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1127570995,
+    "Unk004": 4,
+    "Unk005": -527754980
+  },
+  {
+    "RowIndex": 335,
+    "Id": "AggoratGlyph03",
+    "EffectVirtualPath": "Metadata/NPC/Four_Act3/AggoratPresentGlyph03",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2090402962,
+    "Unk004": 4,
+    "Unk005": -54382646
+  },
+  {
+    "RowIndex": 336,
+    "Id": "AggoratGlyph04",
+    "EffectVirtualPath": "Metadata/NPC/Four_Act3/AggoratPresentGlyph04",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1274419851,
+    "Unk004": 4,
+    "Unk005": -9775888
+  },
+  {
+    "RowIndex": 337,
+    "Id": "QueenOfFilthMushroom",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_11/Objects/QueenOfFilthMushroom",
+    "PreloadGroupsKeys": [],
+    "Unk003": 766510317,
+    "Unk004": 4,
+    "Unk005": 1937637433
+  },
+  {
+    "RowIndex": 338,
+    "Id": "PirateGrenadeGround",
+    "EffectVirtualPath": "Metadata/Projectiles/PirateGrenadeGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1957738881,
+    "Unk004": 4,
+    "Unk005": -2076482776
+  },
+  {
+    "RowIndex": 339,
+    "Id": "SeismicCrystalTrap",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_17/Objects/SeismicCrystalTrap",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1666556016,
+    "Unk004": 4,
+    "Unk005": -283813281
+  },
+  {
+    "RowIndex": 340,
+    "Id": "CascadeSpikes1",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act4_FOUR/MutantBird/ao/Objects/CascadeSpikes1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 697523687,
+    "Unk004": 4,
+    "Unk005": 1419863730
+  },
+  {
+    "RowIndex": 341,
+    "Id": "CascadeSpikesCluster",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act4_FOUR/MutantBird/ao/Objects/CascadeSpikesCluster",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1244202088,
+    "Unk004": 4,
+    "Unk005": -2117503990
+  },
+  {
+    "RowIndex": 342,
+    "Id": "AnchormanAnchorImpact",
+    "EffectVirtualPath": "Metadata/Monsters/Anchorman/Objects/AnchormanAnchorImpact",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1402350294,
+    "Unk004": 4,
+    "Unk005": -320280530
+  },
+  {
+    "RowIndex": 343,
+    "Id": "AnchormanCracks",
+    "EffectVirtualPath": "Metadata/Monsters/Anchorman/Objects/AnchormanCracks",
+    "PreloadGroupsKeys": [],
+    "Unk003": 15881323,
+    "Unk004": 4,
+    "Unk005": 1691579007
+  },
+  {
+    "RowIndex": 344,
+    "Id": "AnchormanImpactCrack",
+    "EffectVirtualPath": "Metadata/Monsters/Anchorman/Objects/AnchormanImpactCrack",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1405129967,
+    "Unk004": 4,
+    "Unk005": 510900356
+  },
+  {
+    "RowIndex": 345,
+    "Id": "GunpowderLines",
+    "EffectVirtualPath": "Metadata/Monsters/Pirates/objects/GunpowderLines",
+    "PreloadGroupsKeys": [],
+    "Unk003": 21413317,
+    "Unk004": 4,
+    "Unk005": -617679222
+  },
+  {
+    "RowIndex": 346,
+    "Id": "ZNecromancerReviveMarker",
+    "EffectVirtualPath": "Metadata/Monsters/NecromancerRemakeBook/zNecromancerReviveMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1502213509,
+    "Unk004": 4,
+    "Unk005": -818278133
+  },
+  {
+    "RowIndex": 347,
+    "Id": "PaleHulkTentacle",
+    "EffectVirtualPath": "Metadata/Monsters/TarHulk/PaleHulkTentacle",
+    "PreloadGroupsKeys": [],
+    "Unk003": 633405604,
+    "Unk004": 4,
+    "Unk005": -1459526213
+  },
+  {
+    "RowIndex": 348,
+    "Id": "ArenaBeastBossFissureLine",
+    "EffectVirtualPath": "Metadata/Monsters/Goblins/objects/ArenaBeastBossFissureLine",
+    "PreloadGroupsKeys": [],
+    "Unk003": -821259529,
+    "Unk004": 4,
+    "Unk005": -1117716697
+  },
+  {
+    "RowIndex": 349,
+    "Id": "ArenaBeastBossFissureLineStart",
+    "EffectVirtualPath": "Metadata/Monsters/Goblins/objects/ArenaBeastBossFissureLineStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": -32317044,
+    "Unk004": 4,
+    "Unk005": 2081556580
+  },
+  {
+    "RowIndex": 350,
+    "Id": "ArenaBeastBossFissureLineEnd",
+    "EffectVirtualPath": "Metadata/Monsters/Goblins/objects/ArenaBeastBossFissureLineEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": 676978978,
+    "Unk004": 4,
+    "Unk005": -2059625205
+  },
+  {
+    "RowIndex": 351,
+    "Id": "GoblinGiantBossSulphiteLump",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act4/4_1_2/Objects/SulphurMunchNode",
+    "PreloadGroupsKeys": [],
+    "Unk003": -982094551,
+    "Unk004": 4,
+    "Unk005": -550557268
+  },
+  {
+    "RowIndex": 352,
+    "Id": "SirenBossTrackingWaterOrb",
+    "EffectVirtualPath": "Metadata/Monsters/SirenMonster/objects/TrackingEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1603265964,
+    "Unk004": 4,
+    "Unk005": 323288094
+  },
+  {
+    "RowIndex": 353,
+    "Id": "SirenBossMirrorWall",
+    "EffectVirtualPath": "Metadata/Monsters/SirenMonster/objects/SirenMirror",
+    "PreloadGroupsKeys": [],
+    "Unk003": 936005550,
+    "Unk004": 4,
+    "Unk005": -1948486446
+  },
+  {
+    "RowIndex": 354,
+    "Id": "TotemWallArchers",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act4/4_4_1/Objects/TotemWallArchers",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2037043576,
+    "Unk004": 4,
+    "Unk005": 1270988835
+  },
+  {
+    "RowIndex": 355,
+    "Id": "TotemWallCaster",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act4/4_4_1/Objects/TotemWallCaster",
+    "PreloadGroupsKeys": [],
+    "Unk003": 219739463,
+    "Unk004": 4,
+    "Unk005": 1943465788
+  },
+  {
+    "RowIndex": 356,
+    "Id": "TotemWallHorn",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act4/4_4_1/Objects/TotemWallHorn",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1257013496,
+    "Unk004": 4,
+    "Unk005": 1517785118
+  },
+  {
+    "RowIndex": 357,
+    "Id": "SudokuTotemVolcanicFissurePath",
+    "EffectVirtualPath": "Metadata/Monsters/SudokuTotemBoss/Objects/SudokuTotemVolcanicSlamPath",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1732890260,
+    "Unk004": 4,
+    "Unk005": -809219850
+  },
+  {
+    "RowIndex": 358,
+    "Id": "SudokuTotemVolcanicFissurePathStart",
+    "EffectVirtualPath": "Metadata/Monsters/SudokuTotemBoss/Objects/SudokuTotemVolcanicSlamPathStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1503506623,
+    "Unk004": 4,
+    "Unk005": 659085622
+  },
+  {
+    "RowIndex": 359,
+    "Id": "SudokuTotemVolcanicFissurePathEnd",
+    "EffectVirtualPath": "Metadata/Monsters/SudokuTotemBoss/Objects/SudokuTotemVolcanicSlamPathEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": -850293677,
+    "Unk004": 4,
+    "Unk005": 1658814820
+  },
+  {
+    "RowIndex": 360,
+    "Id": "SudokuTotemVolcanicFissure",
+    "EffectVirtualPath": "Metadata/Monsters/SudokuTotemBoss/Objects/SudokuTotemVolcanicSlam",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2005211316,
+    "Unk004": 4,
+    "Unk005": -1150300002
+  },
+  {
+    "RowIndex": 361,
+    "Id": "YamaFutureClonePath",
+    "EffectVirtualPath": "Metadata/Monsters/YamaBoss/objects/YamaFutureClonePath",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1667317161,
+    "Unk004": 4,
+    "Unk005": -1916575428
+  },
+  {
+    "RowIndex": 362,
+    "Id": "YamaFutureClonePathStart",
+    "EffectVirtualPath": "Metadata/Monsters/YamaBoss/objects/YamaFutureClonePathStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1831857325,
+    "Unk004": 4,
+    "Unk005": -1866640841
+  },
+  {
+    "RowIndex": 363,
+    "Id": "YamaFutureClonePathEnd",
+    "EffectVirtualPath": "Metadata/Monsters/YamaBoss/objects/YamaFutureClonePathEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1214409761,
+    "Unk004": 4,
+    "Unk005": 121792717
+  },
+  {
+    "RowIndex": 364,
+    "Id": "YamaFutureClone",
+    "EffectVirtualPath": "Metadata/Monsters/YamaBoss/objects/YamaFutureClone",
+    "PreloadGroupsKeys": [],
+    "Unk003": 304397970,
+    "Unk004": 4,
+    "Unk005": 2005962373
+  },
+  {
+    "RowIndex": 365,
+    "Id": "BloodFeverPustule",
+    "EffectVirtualPath": "Metadata/Monsters/BloodFeverKarui/BloodFeverBloater/Objects/BloodFeverPustule",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1448633803,
+    "Unk004": 4,
+    "Unk005": 1532476412
+  },
+  {
+    "RowIndex": 366,
+    "Id": "BloodFeverPustuleController",
+    "EffectVirtualPath": "Metadata/Monsters/BloodFeverKarui/BloodFeverBloater/Objects/BloodFeverBloaterPathController",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1460245236,
+    "Unk004": 4,
+    "Unk005": 813500917
+  },
+  {
+    "RowIndex": 367,
+    "Id": "BloodFeverGroundPathStart",
+    "EffectVirtualPath": "Metadata/Monsters/BloodFeverKarui/BloodFeverBloater/Objects/BloodFeverBloaterPathStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": -286847179,
+    "Unk004": 4,
+    "Unk005": -303057293
+  },
+  {
+    "RowIndex": 368,
+    "Id": "BloodFeverPustulePath",
+    "EffectVirtualPath": "Metadata/Monsters/BloodFeverKarui/BloodFeverBloater/Objects/BloodFeverBloaterPath",
+    "PreloadGroupsKeys": [],
+    "Unk003": 498063530,
+    "Unk004": 4,
+    "Unk005": -1061909144
+  },
+  {
+    "RowIndex": 369,
+    "Id": "BloodFeverPustulePathEnd",
+    "EffectVirtualPath": "Metadata/Monsters/BloodFeverKarui/BloodFeverBloater/Objects/BloodFeverBloaterPathEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2143153959,
+    "Unk004": 4,
+    "Unk005": -1318971795
+  },
+  {
+    "RowIndex": 370,
+    "Id": "BloodFeverCaptainAnchor",
+    "EffectVirtualPath": "Metadata/Monsters/BloodFeverKarui/BloodFeverCaptainBoss/objects/BloodFeverCaptainHookToss",
+    "PreloadGroupsKeys": [],
+    "Unk003": 173319976,
+    "Unk004": 4,
+    "Unk005": -327024874
+  },
+  {
+    "RowIndex": 371,
+    "Id": "RingOfIceStatue",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TemplarRingOfIceStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1286638703,
+    "Unk004": 4,
+    "Unk005": -578915881
+  },
+  {
+    "RowIndex": 372,
+    "Id": "MicrotransactionMasqueradePortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/MasqueradePortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 19529457,
+    "Unk004": 4,
+    "Unk005": 93959970
+  },
+  {
+    "RowIndex": 373,
+    "Id": "SanctumTorchBomb",
+    "EffectVirtualPath": "Metadata/Projectiles/SanctumThugTorchBomb",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1356473569,
+    "Unk004": 4,
+    "Unk005": -1232197226
+  },
+  {
+    "RowIndex": 374,
+    "Id": "MtxDeliriumDemon",
+    "EffectVirtualPath": "Metadata/Effects/Environment/hideout/delirium/attachment/MtxAfflictionDemon",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1882633813,
+    "Unk004": 4,
+    "Unk005": 666500503
+  },
+  {
+    "RowIndex": 375,
+    "Id": "BeehiveBehemothTreeMarkerStandalone",
+    "EffectVirtualPath": "Metadata/Monsters/BeehiveBehemoth/Objects/TreeMarkerStandalone",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1611744983,
+    "Unk004": 4,
+    "Unk005": -324995431
+  },
+  {
+    "RowIndex": 376,
+    "Id": "MicrotransactionDeliriumHideoutVisualSplitDemon",
+    "EffectVirtualPath": "Metadata/Effects/Environment/hideout/delirium/attachment/MtxAfflictionDemon",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1882633813,
+    "Unk004": 4,
+    "Unk005": -533627446
+  },
+  {
+    "RowIndex": 377,
+    "Id": "SanctumLocker",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Sanctum/SanctumLocker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1241943106,
+    "Unk004": 4,
+    "Unk005": 1107591867
+  },
+  {
+    "RowIndex": 378,
+    "Id": "SanctumLockerHideout",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Sanctum/SanctumLocker_Hideout",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1891522764,
+    "Unk004": 4,
+    "Unk005": -1302364121
+  },
+  {
+    "RowIndex": 379,
+    "Id": "MicrotransactionMasqueradePortalRed",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/MasqueradePortalRed",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1483339433,
+    "Unk004": 4,
+    "Unk005": -250071696
+  },
+  {
+    "RowIndex": 380,
+    "Id": "MicrotransactionMasqueradePortalPurple",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/MasqueradePortalPurple",
+    "PreloadGroupsKeys": [],
+    "Unk003": -652520971,
+    "Unk004": 4,
+    "Unk005": -180881254
+  },
+  {
+    "RowIndex": 381,
+    "Id": "MicrotransactionMasqueradePortalOrange",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/MasqueradePortalOrange",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1321758022,
+    "Unk004": 4,
+    "Unk005": 2036156941
+  },
+  {
+    "RowIndex": 382,
+    "Id": "HideoutScourgeObject",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/ScourgeObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": -231977594,
+    "Unk004": 4,
+    "Unk005": 1937868861
+  },
+  {
+    "RowIndex": 383,
+    "Id": "MicrotransactionChronomancerPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/ChronomancerPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2083653273,
+    "Unk004": 4,
+    "Unk005": -584217793
+  },
+  {
+    "RowIndex": 384,
+    "Id": "MicrotransactionChronomancerPortalHelper",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/ChronomancerPortalHelper",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1756631122,
+    "Unk004": 4,
+    "Unk005": -1964384618
+  },
+  {
+    "RowIndex": 385,
+    "Id": "MicrotransactionPoltergeistPortalSpirit",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/SoulWellPortal/attachments/PossessingSpirits",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1390956949,
+    "Unk004": 4,
+    "Unk005": 361766520
+  },
+  {
+    "RowIndex": 386,
+    "Id": "MicrotransactionPoltergeistPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/PoltergeistPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1144995700,
+    "Unk004": 4,
+    "Unk005": 338478509
+  },
+  {
+    "RowIndex": 387,
+    "Id": "MicrotransactionChessBoard",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/ChessBoard",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1198098917,
+    "Unk004": 4,
+    "Unk005": 392094347
+  },
+  {
+    "RowIndex": 388,
+    "Id": "AtlasHideoutZoomController",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/AtlasHideout/Objects/OptDeviceZoom",
+    "PreloadGroupsKeys": [],
+    "Unk003": -101620103,
+    "Unk004": 4,
+    "Unk005": -129090493
+  },
+  {
+    "RowIndex": 389,
+    "Id": "AtlasHideoutTidyController",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/AtlasHideout/Objects/OptDeviceTidy",
+    "PreloadGroupsKeys": [],
+    "Unk003": 597828668,
+    "Unk004": 4,
+    "Unk005": -72241802
+  },
+  {
+    "RowIndex": 390,
+    "Id": "AtlasHideoutBeam",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/AtlasHideout/Objects/AtlasBeam",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1398017885,
+    "Unk004": 4,
+    "Unk005": -719758111
+  },
+  {
+    "RowIndex": 391,
+    "Id": "SanctumStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/SanctumStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2130271872,
+    "Unk004": 4,
+    "Unk005": 72150982
+  },
+  {
+    "RowIndex": 392,
+    "Id": "SanctumGuildStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/SanctumGuildStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1827012220,
+    "Unk004": 4,
+    "Unk005": -2068780343
+  },
+  {
+    "RowIndex": 393,
+    "Id": "MicrotransactionStygianWaypoint",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Waypoints/StygianWaypoint",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1381972332,
+    "Unk004": 4,
+    "Unk005": 2075553019
+  },
+  {
+    "RowIndex": 394,
+    "Id": "MicrotransactionStygianWaypointHelper",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Waypoints/StygianWaypointHelper",
+    "PreloadGroupsKeys": [],
+    "Unk003": -215591397,
+    "Unk004": 4,
+    "Unk005": -1522875767
+  },
+  {
+    "RowIndex": 395,
+    "Id": "HideoutBoxingRing",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Hideouts/BoxingRing/BoxingRing",
+    "PreloadGroupsKeys": [],
+    "Unk003": 471258154,
+    "Unk004": 4,
+    "Unk005": -1070722135
+  },
+  {
+    "RowIndex": 396,
+    "Id": "MicrotransactionChieftainPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/ChieftainApparitionPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -696439813,
+    "Unk004": 4,
+    "Unk005": 1070925563
+  },
+  {
+    "RowIndex": 397,
+    "Id": "HideoutEaterOfWorldsTentacle",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/ArenaEaterOfWorlds/Objects/HideoutTentacle",
+    "PreloadGroupsKeys": [],
+    "Unk003": -375141945,
+    "Unk004": 4,
+    "Unk005": -968487087
+  },
+  {
+    "RowIndex": 398,
+    "Id": "RageSlashVortex",
+    "EffectVirtualPath": "Metadata/Effects/Spells/rage_slash/vortex",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1351848355,
+    "Unk004": 4,
+    "Unk005": -1438462553
+  },
+  {
+    "RowIndex": 399,
+    "Id": "HideoutDemonicCraftingBench",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBenchDemonic",
+    "PreloadGroupsKeys": [],
+    "Unk003": -127106070,
+    "Unk004": 4,
+    "Unk005": -208919570
+  },
+  {
+    "RowIndex": 400,
+    "Id": "HideoutArcaneCraftingBench",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBenchArcane",
+    "PreloadGroupsKeys": [],
+    "Unk003": -607565855,
+    "Unk004": 4,
+    "Unk005": 658240687
+  },
+  {
+    "RowIndex": 401,
+    "Id": "DragonHoardStashAttachedDragon",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Hideout/DragonHoardCurrencyStash/attachments/Dragon",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1397259858,
+    "Unk004": 4,
+    "Unk005": -934736310
+  },
+  {
+    "RowIndex": 402,
+    "Id": "LegendsHideoutStatue",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/LegendsHideoutStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -373353175,
+    "Unk004": 4,
+    "Unk005": -418372811
+  },
+  {
+    "RowIndex": 403,
+    "Id": "ChampionsHideoutStatue",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/ChampionsHideoutStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -137165755,
+    "Unk004": 4,
+    "Unk005": 1852345945
+  },
+  {
+    "RowIndex": 404,
+    "Id": "VictorsHideoutStatue",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/VictorsHideoutStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -708004846,
+    "Unk004": 4,
+    "Unk005": 982463769
+  },
+  {
+    "RowIndex": 405,
+    "Id": "ChallengersHideoutStatue",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Hideout/ChallengersHideoutStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1303911669,
+    "Unk004": 4,
+    "Unk005": 1958098086
+  },
+  {
+    "RowIndex": 406,
+    "Id": "SunApparitionPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/SunApparitionPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1217727980,
+    "Unk004": 4,
+    "Unk005": 1201458823
+  },
+  {
+    "RowIndex": 407,
+    "Id": "SkywardSwordOnKill",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Misc/rarekill_skyward_swords/SkywardSwordsMTX",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1433410649,
+    "Unk004": 4,
+    "Unk005": -1266147498
+  },
+  {
+    "RowIndex": 408,
+    "Id": "BirdDispersionOnKill",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Misc/rarekill_birds_dispersion/BirdDispersionMTX",
+    "PreloadGroupsKeys": [],
+    "Unk003": -866348125,
+    "Unk004": 4,
+    "Unk005": 395573106
+  },
+  {
+    "RowIndex": 409,
+    "Id": "AncestralPortalApparition",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/AncestralMapDeviceApparition",
+    "PreloadGroupsKeys": [],
+    "Unk003": 150540455,
+    "Unk004": 4,
+    "Unk005": -503374210
+  },
+  {
+    "RowIndex": 410,
+    "Id": "CrucibleStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/CrucibleStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": 917952782,
+    "Unk004": 4,
+    "Unk005": -1401307032
+  },
+  {
+    "RowIndex": 411,
+    "Id": "CrucibleGuildStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/CrucibleGuildStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": 536444375,
+    "Unk004": 4,
+    "Unk005": -39088606
+  },
+  {
+    "RowIndex": 412,
+    "Id": "LunarApparitionPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/LunarApparitionPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1331848291,
+    "Unk004": 4,
+    "Unk005": -688411419
+  },
+  {
+    "RowIndex": 413,
+    "Id": "DemonicApparitionPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/DemonicApparitionPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1643518966,
+    "Unk004": 4,
+    "Unk005": -1344033923
+  },
+  {
+    "RowIndex": 414,
+    "Id": "AncestralTrialRespawnTotem",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/AncestralTrial/RespawnTotem",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1199505705,
+    "Unk004": 4,
+    "Unk005": -405407777
+  },
+  {
+    "RowIndex": 415,
+    "Id": "AncestralTrialLeaderTotem",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/AncestralTrial/LeaderTotem",
+    "PreloadGroupsKeys": [],
+    "Unk003": -418956692,
+    "Unk004": 4,
+    "Unk005": 1499542568
+  },
+  {
+    "RowIndex": 416,
+    "Id": "TransitionableTargetMarker",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TransitionableTargetMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1809423872,
+    "Unk004": 4,
+    "Unk005": 1685124250
+  },
+  {
+    "RowIndex": 417,
+    "Id": "TransitionableTargetMarkerAbyss",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TransitionableTargetMarkerAbyss",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2132037788,
+    "Unk004": 4,
+    "Unk005": 96915710
+  },
+  {
+    "RowIndex": 418,
+    "Id": "CrucibleForgePortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/CrucibleFountain_Portal/CrucibleFountainPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -514410262,
+    "Unk004": 4,
+    "Unk005": 1737832460
+  },
+  {
+    "RowIndex": 419,
+    "Id": "BaronBossSword",
+    "EffectVirtualPath": "Metadata/Monsters/Baron/Objects/BaronHumanFormSword",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2018517279,
+    "Unk004": 4,
+    "Unk005": 1146639875
+  },
+  {
+    "RowIndex": 420,
+    "Id": "TwilightOrderAfterImageLeft",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrder/TwilightOrderSoldiers/afterimage/AssassinAfterimageLeft",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1408830744,
+    "Unk004": 4,
+    "Unk005": -1801820242
+  },
+  {
+    "RowIndex": 421,
+    "Id": "TwilightOrderAfterImageRight",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrder/TwilightOrderSoldiers/afterimage/AssassinAfterimageRight",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1841896810,
+    "Unk004": 4,
+    "Unk005": -1171825156
+  },
+  {
+    "RowIndex": 422,
+    "Id": "TwilightOrderAfterImageBack",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrder/TwilightOrderSoldiers/afterimage/AssassinAfterimageBack",
+    "PreloadGroupsKeys": [],
+    "Unk003": 795645229,
+    "Unk004": 4,
+    "Unk005": -2139773828
+  },
+  {
+    "RowIndex": 423,
+    "Id": "TwilightKaruiVolcanicFissure",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrderStigmata/StigmataMace/Objects/TwilightKaruiVolcanicSlam",
+    "PreloadGroupsKeys": [],
+    "Unk003": 951429325,
+    "Unk004": 4,
+    "Unk005": 371871074
+  },
+  {
+    "RowIndex": 424,
+    "Id": "TwilightKaruiVolcanicFissurePath",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrderStigmata/StigmataMace/Objects/TwilightKaruiVolcanicSlamPath",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1211902899,
+    "Unk004": 4,
+    "Unk005": -287204928
+  },
+  {
+    "RowIndex": 425,
+    "Id": "TwilightKaruiVolcanicFissurePathStart",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrderStigmata/StigmataMace/Objects/TwilightKaruiVolcanicSlamPathStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1369684807,
+    "Unk004": 4,
+    "Unk005": 1515330808
+  },
+  {
+    "RowIndex": 426,
+    "Id": "TwilightKaruiVolcanicFissurePathEnd",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrderStigmata/StigmataMace/Objects/TwilightKaruiVolcanicSlamPathEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1712997091,
+    "Unk004": 4,
+    "Unk005": -671440404
+  },
+  {
+    "RowIndex": 427,
+    "Id": "ShipwreckBossSwordnado",
+    "EffectVirtualPath": "Metadata/Monsters/ShipwreckBoss/ShipwreckBossSwordnado",
+    "PreloadGroupsKeys": [],
+    "Unk003": -402817677,
+    "Unk004": 4,
+    "Unk005": 769441931
+  },
+  {
+    "RowIndex": 428,
+    "Id": "ShipwreckBossSwordnadoSword",
+    "EffectVirtualPath": "Metadata/Monsters/ShipwreckBoss/ShipwreckBossGroundSword",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1006778190,
+    "Unk004": 4,
+    "Unk005": 1338094667
+  },
+  {
+    "RowIndex": 429,
+    "Id": "BloodClanTrapperBearTrap",
+    "EffectVirtualPath": "Metadata/Monsters/BloodClan/Objects/BloodClanTrapperBearTrap",
+    "PreloadGroupsKeys": [],
+    "Unk003": -164563548,
+    "Unk004": 4,
+    "Unk005": -1573429485
+  },
+  {
+    "RowIndex": 430,
+    "Id": "BloodClanCasterBlocking",
+    "EffectVirtualPath": "Metadata/Monsters/BloodClan/Objects/BloodClanCasterBlocking",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2067902357,
+    "Unk004": 4,
+    "Unk005": -2129288186
+  },
+  {
+    "RowIndex": 431,
+    "Id": "PerennialKingBeacon",
+    "EffectVirtualPath": "Metadata/Monsters/PerennialKingStage2/PerennialKingBeacon",
+    "PreloadGroupsKeys": [],
+    "Unk003": 822199960,
+    "Unk004": 4,
+    "Unk005": -1488846406
+  },
+  {
+    "RowIndex": 432,
+    "Id": "RootedReviveMarker",
+    "EffectVirtualPath": "Metadata/Monsters/RootedGuys/RootedReviveMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": 494190532,
+    "Unk004": 4,
+    "Unk005": 1253330430
+  },
+  {
+    "RowIndex": 433,
+    "Id": "ImperialGraveyardKnightJunkSword",
+    "EffectVirtualPath": "Metadata/Monsters/ImperialGraveyardKnight/objects/ImperialGraveyardKnightGroundSword",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1142468728,
+    "Unk004": 4,
+    "Unk005": 474451941
+  },
+  {
+    "RowIndex": 434,
+    "Id": "RootedSporeProjectileOrigin",
+    "EffectVirtualPath": "Metadata/Monsters/RootedGuys/RootedGuy04/Objects/RootedSporeProjectileOrigin",
+    "PreloadGroupsKeys": [],
+    "Unk003": -461454058,
+    "Unk004": 4,
+    "Unk005": 1286722520
+  },
+  {
+    "RowIndex": 435,
+    "Id": "WarzoneAlliedPath",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/AlliedPath",
+    "PreloadGroupsKeys": [],
+    "Unk003": 568495187,
+    "Unk004": 4,
+    "Unk005": -126946339
+  },
+  {
+    "RowIndex": 436,
+    "Id": "WarzoneEnemyPath",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/EnemyPath",
+    "PreloadGroupsKeys": [],
+    "Unk003": -530176888,
+    "Unk004": 4,
+    "Unk005": -1301807119
+  },
+  {
+    "RowIndex": 437,
+    "Id": "WarzoneRubble01",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/Rubble/WarzoneRubble01",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1243191600,
+    "Unk004": 4,
+    "Unk005": 2147023675
+  },
+  {
+    "RowIndex": 438,
+    "Id": "WarzoneRubble02",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/Rubble/WarzoneRubble02",
+    "PreloadGroupsKeys": [],
+    "Unk003": 593922862,
+    "Unk004": 4,
+    "Unk005": 531768647
+  },
+  {
+    "RowIndex": 439,
+    "Id": "WarzoneRubble03",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/Rubble/WarzoneRubble03",
+    "PreloadGroupsKeys": [],
+    "Unk003": -30499644,
+    "Unk004": 4,
+    "Unk005": -1820082498
+  },
+  {
+    "RowIndex": 440,
+    "Id": "WarzoneRubble04",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/Rubble/WarzoneRubble04",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2107701403,
+    "Unk004": 4,
+    "Unk005": -530301928
+  },
+  {
+    "RowIndex": 441,
+    "Id": "WarzoneRubble05",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/Rubble/WarzoneRubble05",
+    "PreloadGroupsKeys": [],
+    "Unk003": -143695678,
+    "Unk004": 4,
+    "Unk005": 1575238946
+  },
+  {
+    "RowIndex": 442,
+    "Id": "WarzoneAllySpawner1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/AllySpawner1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1922873585,
+    "Unk004": 4,
+    "Unk005": -800940011
+  },
+  {
+    "RowIndex": 443,
+    "Id": "WarzoneAllySpawner2",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/AllySpawner2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1347255532,
+    "Unk004": 4,
+    "Unk005": -1683087259
+  },
+  {
+    "RowIndex": 444,
+    "Id": "WarzoneEnemySpawner1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_16/Objects/EnemySpawner1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1048459996,
+    "Unk004": 4,
+    "Unk005": -906492137
+  },
+  {
+    "RowIndex": 445,
+    "Id": "BlightedCorePath",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_8_2/Objects/CorePath",
+    "PreloadGroupsKeys": [],
+    "Unk003": -406292300,
+    "Unk004": 4,
+    "Unk005": 342728108
+  },
+  {
+    "RowIndex": 446,
+    "Id": "BlightedCorePathVisual",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_8_2/Objects/CorePathVisual",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1257967881,
+    "Unk004": 4,
+    "Unk005": -132861080
+  },
+  {
+    "RowIndex": 447,
+    "Id": "BlightedCorePathSpawner",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_8_2/Objects/CoreSpawners",
+    "PreloadGroupsKeys": [],
+    "Unk003": 913471205,
+    "Unk004": 4,
+    "Unk005": -1912976638
+  },
+  {
+    "RowIndex": 448,
+    "Id": "VaalStatueBossWallLasers",
+    "EffectVirtualPath": "Metadata/Monsters/VaalBossStatue/Objects/VaalStatueBossWallLasers",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1588382817,
+    "Unk004": 4,
+    "Unk005": 1965445009
+  },
+  {
+    "RowIndex": 449,
+    "Id": "PrisonerBossChainHook",
+    "EffectVirtualPath": "Metadata/Monsters/PrisonerBoss/PrisonerBossHook",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2074569372,
+    "Unk004": 4,
+    "Unk005": 877266883
+  },
+  {
+    "RowIndex": 450,
+    "Id": "GinsengPodGround",
+    "EffectVirtualPath": "Metadata/Projectiles/GinsengPodGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1878620737,
+    "Unk004": 4,
+    "Unk005": 444340689
+  },
+  {
+    "RowIndex": 451,
+    "Id": "TullinaEstatesHome",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_10/Objects/Home",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1813623016,
+    "Unk004": 4,
+    "Unk005": -440558657
+  },
+  {
+    "RowIndex": 452,
+    "Id": "TullinaEstatesAggro",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_10/Objects/HomeAggroRadius",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1559068295,
+    "Unk004": 4,
+    "Unk005": 1269084716
+  },
+  {
+    "RowIndex": 453,
+    "Id": "ForsakenSonFillGroundFire",
+    "EffectVirtualPath": "Metadata/Effects/Spells/ground_effects/fire/ForsakenSonFillGroundFire",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1648415224,
+    "Unk004": 4,
+    "Unk005": 1666864316
+  },
+  {
+    "RowIndex": 454,
+    "Id": "VaalStatueBossGem",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_6_2/Objects/BossPowerGem",
+    "PreloadGroupsKeys": [],
+    "Unk003": 885020752,
+    "Unk004": 4,
+    "Unk005": -1775372693
+  },
+  {
+    "RowIndex": 455,
+    "Id": "ForsakenSonFlameWallSegment",
+    "EffectVirtualPath": "Metadata/Monsters/ForsakenSon/BossArenaObjects/ForsakenSonFlameWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1836099935,
+    "Unk004": 4,
+    "Unk005": 305289932
+  },
+  {
+    "RowIndex": 456,
+    "Id": "RedLight",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_6_2/Objects/RedLight",
+    "PreloadGroupsKeys": [],
+    "Unk003": -88438813,
+    "Unk004": 4,
+    "Unk005": 215457553
+  },
+  {
+    "RowIndex": 457,
+    "Id": "PrisonerIceWall",
+    "EffectVirtualPath": "Metadata/Monsters/PrisonerBoss/PrisonerBossIceWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": -831623364,
+    "Unk004": 4,
+    "Unk005": 945085862
+  },
+  {
+    "RowIndex": 458,
+    "Id": "VaalStatueBossDeathQuestGem",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_6_2/Objects/BossPowerGemQuest",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1080147189,
+    "Unk004": 4,
+    "Unk005": -1508725532
+  },
+  {
+    "RowIndex": 459,
+    "Id": "PrisonerChainAnchor",
+    "EffectVirtualPath": "Metadata/Monsters/PrisonerBoss/PrisonerChainAnchor",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2146519905,
+    "Unk004": 4,
+    "Unk005": 1005900753
+  },
+  {
+    "RowIndex": 460,
+    "Id": "PrisonerArm",
+    "EffectVirtualPath": "Metadata/Monsters/PrisonerBoss/PrisonerArm",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1207080536,
+    "Unk004": 4,
+    "Unk005": -1416264993
+  },
+  {
+    "RowIndex": 461,
+    "Id": "PrisonerArmBackwards",
+    "EffectVirtualPath": "Metadata/Monsters/PrisonerBoss/PrisonerArmBackwards",
+    "PreloadGroupsKeys": [],
+    "Unk003": -992365746,
+    "Unk004": 4,
+    "Unk005": -2105276218
+  },
+  {
+    "RowIndex": 462,
+    "Id": "HyenaMinionPackAggroAudio",
+    "EffectVirtualPath": "Metadata/Monsters/HyenaMonster/HyenaBossFightMinionPackAggro",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2014845135,
+    "Unk004": 4,
+    "Unk005": 2085641847
+  },
+  {
+    "RowIndex": 463,
+    "Id": "GoblinGiantFillGroundVomit",
+    "EffectVirtualPath": "Metadata/Monsters/Goblins/GoblinGiantBoss/GoblinGiantFillGroundVomit",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1368033807,
+    "Unk004": 4,
+    "Unk005": -305104190
+  },
+  {
+    "RowIndex": 464,
+    "Id": "VolcanoGeyser",
+    "EffectVirtualPath": "Metadata/Effects/Spells/druid_volcano/VolcanoObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1308998192,
+    "Unk004": 4,
+    "Unk005": 634716490
+  },
+  {
+    "RowIndex": 465,
+    "Id": "PirateBarrelForPickup",
+    "EffectVirtualPath": "Metadata/Monsters/Pirates/objects/BarrelForPickup",
+    "PreloadGroupsKeys": [],
+    "Unk003": -292226327,
+    "Unk004": 4,
+    "Unk005": 601439868
+  },
+  {
+    "RowIndex": 466,
+    "Id": "TileUpperDoodad_ExtendDistance",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TileUpperDoodad_ExtendDistance",
+    "PreloadGroupsKeys": [],
+    "Unk003": 935897293,
+    "Unk004": 4,
+    "Unk005": 810984779
+  },
+  {
+    "RowIndex": 467,
+    "Id": "HarborGuardBossFlailSpiral",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrder/TwilightOrderHarbourGuard/objects/SpiralFlailProj",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1125301745,
+    "Unk004": 4,
+    "Unk005": -1278434954
+  },
+  {
+    "RowIndex": 468,
+    "Id": "BladestormObject",
+    "EffectVirtualPath": "Metadata/Monsters/Bladestorm/NewBladestorm",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1468429833,
+    "Unk004": 4,
+    "Unk005": -108318950
+  },
+  {
+    "RowIndex": 469,
+    "Id": "FountainStatueBossGoop",
+    "EffectVirtualPath": "Metadata/Monsters/MinibossFountainStatueMess/FountainStatueBossGoop",
+    "PreloadGroupsKeys": [],
+    "Unk003": 521288189,
+    "Unk004": 4,
+    "Unk005": 1486969471
+  },
+  {
+    "RowIndex": 470,
+    "Id": "TwilightOrderHighPriestBossRune",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act5/5_14/Objects/HighPriestRuneSegment",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1564734883,
+    "Unk004": 4,
+    "Unk005": 1428609753
+  },
+  {
+    "RowIndex": 471,
+    "Id": "TwilightOrderHighPriestBossVacuum",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrder/TwilightOrderHighPriest/TwilightOrderHighPriestBossVacuum",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1878640121,
+    "Unk004": 4,
+    "Unk005": 358446817
+  },
+  {
+    "RowIndex": 472,
+    "Id": "FallenGodBossDivineProj",
+    "EffectVirtualPath": "Metadata/Monsters/FallenGodMiniboss/FallenGodMinibossDivineProj",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1622796264,
+    "Unk004": 4,
+    "Unk005": -1036185391
+  },
+  {
+    "RowIndex": 473,
+    "Id": "SanctumHazardProj",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Hazards/BulletHellProj",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1617263231,
+    "Unk004": 4,
+    "Unk005": 912531802
+  },
+  {
+    "RowIndex": 474,
+    "Id": "SpeedTest",
+    "EffectVirtualPath": "Metadata/Utility/PlayerSpeedTest",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1381176172,
+    "Unk004": 4,
+    "Unk005": -2003065001
+  },
+  {
+    "RowIndex": 475,
+    "Id": "OilGrenadeOilGround",
+    "EffectVirtualPath": "Metadata/Effects/Spells/crossbow_oilgrenade/OilGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1271666193,
+    "Unk004": 4,
+    "Unk005": -994088140
+  },
+  {
+    "RowIndex": 476,
+    "Id": "RudjaOilOilPreload",
+    "EffectVirtualPath": "Metadata/Effects/Spells/crossbow_oilgrenade/RudjaOilGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1023361676,
+    "Unk004": 4,
+    "Unk005": 1940710782
+  },
+  {
+    "RowIndex": 477,
+    "Id": "VaalGuardOilPreload",
+    "EffectVirtualPath": "Metadata/Effects/Spells/crossbow_oilgrenade/VaalOilGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1631903247,
+    "Unk004": 4,
+    "Unk005": -1318689010
+  },
+  {
+    "RowIndex": 478,
+    "Id": "CompanionPortal",
+    "EffectVirtualPath": "Metadata/Monsters/Companions/CompanionPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1098331924,
+    "Unk004": 4,
+    "Unk005": -890378780
+  },
+  {
+    "RowIndex": 479,
+    "Id": "FallenGodMinibossGigaSlam",
+    "EffectVirtualPath": "Metadata/Monsters/FallenGodMiniboss/FallenGodMinibossGigaSlam",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1028410554,
+    "Unk004": 4,
+    "Unk005": -1981535394
+  },
+  {
+    "RowIndex": 480,
+    "Id": "BaronBossIcicle",
+    "EffectVirtualPath": "Metadata/Monsters/Baron/Objects/BaronCorruptWolfFormIcicle",
+    "PreloadGroupsKeys": [],
+    "Unk003": -968792933,
+    "Unk004": 4,
+    "Unk005": 1410015584
+  },
+  {
+    "RowIndex": 481,
+    "Id": "BrambleBurrowerBody",
+    "EffectVirtualPath": "Metadata/Monsters/MudBurrower/Objects/BrambleBurrowerBody",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1524683412,
+    "Unk004": 4,
+    "Unk005": 277554172
+  },
+  {
+    "RowIndex": 482,
+    "Id": "BrambleBurrowerTail",
+    "EffectVirtualPath": "Metadata/Monsters/MudBurrower/Objects/BrambleBurrowerTail",
+    "PreloadGroupsKeys": [],
+    "Unk003": -467793898,
+    "Unk004": 4,
+    "Unk005": 491017788
+  },
+  {
+    "RowIndex": 483,
+    "Id": "TempestBell",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monk_bell/tempest_bell",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1468768324,
+    "Unk004": 4,
+    "Unk005": -1731205700
+  },
+  {
+    "RowIndex": 484,
+    "Id": "OrbOfIceSegment",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/FrostWall/OrbOfIce",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1193321933,
+    "Unk004": 4,
+    "Unk005": -1829606784
+  },
+  {
+    "RowIndex": 485,
+    "Id": "HuntingGroundsRitualAltar",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_11/Objects/HuntingGroundsRitualAltar",
+    "PreloadGroupsKeys": [],
+    "Unk003": -869734874,
+    "Unk004": 4,
+    "Unk005": -1984195757
+  },
+  {
+    "RowIndex": 486,
+    "Id": "CanopyRitualAltar",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_12/Objects/CanopyRitualAltar",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2114108510,
+    "Unk004": 4,
+    "Unk005": 560518677
+  },
+  {
+    "RowIndex": 487,
+    "Id": "CanopyBossRitualAltar",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_12/Objects/CanopyBossRitualAltar",
+    "PreloadGroupsKeys": [],
+    "Unk003": -827104950,
+    "Unk004": 4,
+    "Unk005": 720697560
+  },
+  {
+    "RowIndex": 488,
+    "Id": "HusbandFireWake",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act1_FOUR/HusbandBoss/FireWake",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1796941129,
+    "Unk004": 4,
+    "Unk005": 1484399832
+  },
+  {
+    "RowIndex": 489,
+    "Id": "OrbitingLaserTest",
+    "EffectVirtualPath": "Metadata/Monsters/TitanBoss/RotatingLaserShow",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1498966005,
+    "Unk004": 4,
+    "Unk005": 1246479165
+  },
+  {
+    "RowIndex": 490,
+    "Id": "LightningRodRainPillar",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/LightningRod",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1652393526,
+    "Unk004": 4,
+    "Unk005": -1517089863
+  },
+  {
+    "RowIndex": 491,
+    "Id": "CarrionCroneIceSpike",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act1_FOUR/CarrionCrone/IceSpike",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1969329863,
+    "Unk004": 4,
+    "Unk005": 517719441
+  },
+  {
+    "RowIndex": 492,
+    "Id": "HusbandMonsterTomb",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Woods/GraveyardDungeons/BossMedallions/BossMedallion",
+    "PreloadGroupsKeys": [],
+    "Unk003": 666731362,
+    "Unk004": 4,
+    "Unk005": -978799496
+  },
+  {
+    "RowIndex": 493,
+    "Id": "WifeMonsterTomb",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Woods/GraveyardDungeons/BossMedallions/BossMedallionTomb",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2023751843,
+    "Unk004": 4,
+    "Unk005": 730398092
+  },
+  {
+    "RowIndex": 494,
+    "Id": "WifeHusbandGenericTomb",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Woods/GraveyardDungeons/BossMedallions/NormalMedallion",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1175979825,
+    "Unk004": 4,
+    "Unk005": -1293913591
+  },
+  {
+    "RowIndex": 495,
+    "Id": "TitanBossFissureLine",
+    "EffectVirtualPath": "Metadata/Monsters/TitanBoss/TitanBossFissureLine",
+    "PreloadGroupsKeys": [],
+    "Unk003": 254329604,
+    "Unk004": 4,
+    "Unk005": 1788316413
+  },
+  {
+    "RowIndex": 496,
+    "Id": "TitanBossFissureLineStart",
+    "EffectVirtualPath": "Metadata/Monsters/TitanBoss/TitanBossFissureLineStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": 757494883,
+    "Unk004": 4,
+    "Unk005": -134414443
+  },
+  {
+    "RowIndex": 497,
+    "Id": "TitanBossFissureLineEnd",
+    "EffectVirtualPath": "Metadata/Monsters/TitanBoss/TitanBossFissureLineEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1476686192,
+    "Unk004": 4,
+    "Unk005": -1543200581
+  },
+  {
+    "RowIndex": 498,
+    "Id": "ExecutionerTortureDevice",
+    "EffectVirtualPath": "Metadata/Monsters/GuillotineExecutioner/Objects/TortureDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1463804767,
+    "Unk004": 4,
+    "Unk005": -24937813
+  },
+  {
+    "RowIndex": 499,
+    "Id": "BaronCountess",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_15/Objects/Countess",
+    "PreloadGroupsKeys": [],
+    "Unk003": 646149736,
+    "Unk004": 4,
+    "Unk005": -1583831649
+  },
+  {
+    "RowIndex": 500,
+    "Id": "BaronBloodBalls",
+    "EffectVirtualPath": "Metadata/Monsters/Baron/Objects/BaronWolfBloodOrb",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2113800775,
+    "Unk004": 4,
+    "Unk005": 625017074
+  },
+  {
+    "RowIndex": 501,
+    "Id": "PoisonbloomArrowBloom",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/PoisonbloomArrow/Poisonbloom",
+    "PreloadGroupsKeys": [],
+    "Unk003": 434996035,
+    "Unk004": 4,
+    "Unk005": 1864398441
+  },
+  {
+    "RowIndex": 502,
+    "Id": "SolarOrbDegen",
+    "EffectVirtualPath": "Metadata/Monsters/Anomalies/SolarOrb",
+    "PreloadGroupsKeys": [],
+    "Unk003": -295953698,
+    "Unk004": 4,
+    "Unk005": -24007109
+  },
+  {
+    "RowIndex": 503,
+    "Id": "PoisonVineArrowPlant",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/PoisonbloomArrow/VineArrowBloom",
+    "PreloadGroupsKeys": [],
+    "Unk003": 663257451,
+    "Unk004": 4,
+    "Unk005": -613117907
+  },
+  {
+    "RowIndex": 504,
+    "Id": "BaronBossIceWallSegmentL",
+    "EffectVirtualPath": "Metadata/Monsters/Baron/Objects/BaronHumanFormIceWallL",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1391977803,
+    "Unk004": 4,
+    "Unk005": -540843413
+  },
+  {
+    "RowIndex": 505,
+    "Id": "BaronBossIceWallSegmentR",
+    "EffectVirtualPath": "Metadata/Monsters/Baron/Objects/BaronHumanFormIceWallR",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1644100615,
+    "Unk004": 4,
+    "Unk005": 1889118285
+  },
+  {
+    "RowIndex": 506,
+    "Id": "FissureCrack",
+    "EffectVirtualPath": "Metadata/Effects/Spells/warrior_volcanic_fissure/crack",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1921582807,
+    "Unk004": 4,
+    "Unk005": -126109536
+  },
+  {
+    "RowIndex": 507,
+    "Id": "BaronBossCorruptWolfIceGround",
+    "EffectVirtualPath": "Metadata/Monsters/Baron/Objects/BaronCorruptWolfFormGroundIce",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1438093564,
+    "Unk004": 4,
+    "Unk005": 512773570
+  },
+  {
+    "RowIndex": 508,
+    "Id": "CorpsePileDevourer",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_9_2/Objects/CorpsePileDevourer",
+    "PreloadGroupsKeys": [],
+    "Unk003": 253808544,
+    "Unk004": 4,
+    "Unk005": -1866381324
+  },
+  {
+    "RowIndex": 509,
+    "Id": "AzmeriPictBowPodExplode",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/League_Azmeri/monsters/PictFemaleBow/BloomPod",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1259905306,
+    "Unk004": 4,
+    "Unk005": 639276781
+  },
+  {
+    "RowIndex": 510,
+    "Id": "TRAzmeriPodExplode",
+    "EffectVirtualPath": "Metadata/Effects/Spells/monsters_effects/Act1_FOUR/CannibalPict/bow/ao/BloomPod",
+    "PreloadGroupsKeys": [],
+    "Unk003": -71303809,
+    "Unk004": 4,
+    "Unk005": 1116988941
+  },
+  {
+    "RowIndex": 511,
+    "Id": "AzmeriSwampToadSpawner",
+    "EffectVirtualPath": "Metadata/Monsters/CrazedCannibalPicts/CrazedCannibalPicts_Female/Staff/Objects/SwampGroundSpawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1726998111,
+    "Unk004": 4,
+    "Unk005": -846394954
+  },
+  {
+    "RowIndex": 512,
+    "Id": "AzmeriVoodooKingSwampToadSpawner",
+    "EffectVirtualPath": "Metadata/Monsters/VoodooKing/VoodooKingSwampGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1377041394,
+    "Unk004": 4,
+    "Unk005": -1058700164
+  },
+  {
+    "RowIndex": 513,
+    "Id": "PerennialKingObsidianMinigunPortal",
+    "EffectVirtualPath": "Metadata/Monsters/PerennialKingStage2/Objects/PerennialKingObsidianMinigunPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -162575273,
+    "Unk004": 4,
+    "Unk005": -572528598
+  },
+  {
+    "RowIndex": 514,
+    "Id": "PerennialKingDeathMarker",
+    "EffectVirtualPath": "Metadata/Monsters/PerennialKingStage2/Objects/MatriarchMurderMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -383970711,
+    "Unk004": 4,
+    "Unk005": 764436481
+  },
+  {
+    "RowIndex": 515,
+    "Id": "ForgeMasterLava",
+    "EffectVirtualPath": "Metadata/Monsters/VaalForgeMaster/Lava/SunAura",
+    "PreloadGroupsKeys": [],
+    "Unk003": 890881872,
+    "Unk004": 4,
+    "Unk005": -282657261
+  },
+  {
+    "RowIndex": 516,
+    "Id": "PerennialKingObsidianMinigunMarker",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_12_2/Objects/PerennialKingArena2ObsidianMinigunMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1156954990,
+    "Unk004": 4,
+    "Unk005": -1519265646
+  },
+  {
+    "RowIndex": 517,
+    "Id": "QueenOfFilthMushroomLine",
+    "EffectVirtualPath": "Metadata/Monsters/QueenOfFilth/Objects/QueenOfFilthBossMushroomLine",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1124480448,
+    "Unk004": 4,
+    "Unk005": 1904540275
+  },
+  {
+    "RowIndex": 518,
+    "Id": "ForgeMasterBossFissureLine",
+    "EffectVirtualPath": "Metadata/Monsters/VaalForgeMaster/Lava/ForgeMasterFissureLine",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1901559272,
+    "Unk004": 4,
+    "Unk005": 837932155
+  },
+  {
+    "RowIndex": 519,
+    "Id": "ForgeMasterBossFissureLineStart",
+    "EffectVirtualPath": "Metadata/Monsters/VaalForgeMaster/Lava/ForgeMasterFissureLineStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2069930203,
+    "Unk004": 4,
+    "Unk005": -2147074268
+  },
+  {
+    "RowIndex": 520,
+    "Id": "ForgeMasterBossFissureLineEnd",
+    "EffectVirtualPath": "Metadata/Monsters/VaalForgeMaster/Lava/ForgeMasterFissureLineEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1828797635,
+    "Unk004": 4,
+    "Unk005": -1259024535
+  },
+  {
+    "RowIndex": 521,
+    "Id": "DoryaniHumanBossSolarOrb",
+    "EffectVirtualPath": "Metadata/Monsters/Doryani/TrueDoryani/objects/DoryaniHumanBossSolarOrb",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1093909015,
+    "Unk004": 4,
+    "Unk005": -955156054
+  },
+  {
+    "RowIndex": 522,
+    "Id": "Spearstorm",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/spearstorm/Spearstorm",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1656288192,
+    "Unk004": 4,
+    "Unk005": 397405890
+  },
+  {
+    "RowIndex": 523,
+    "Id": "DoryaniHumanBossForkBeamCrystal",
+    "EffectVirtualPath": "Metadata/Monsters/Doryani/TrueDoryani/objects/DoryaniHumanBossForkBeamCrystal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1847092265,
+    "Unk004": 4,
+    "Unk005": -1881750337
+  },
+  {
+    "RowIndex": 524,
+    "Id": "DoryaniHumanBossForkBeamJoint",
+    "EffectVirtualPath": "Metadata/Monsters/Doryani/TrueDoryani/objects/DoryaniHumanBossForkBeamJoint",
+    "PreloadGroupsKeys": [],
+    "Unk003": -446465278,
+    "Unk004": 4,
+    "Unk005": -2040410553
+  },
+  {
+    "RowIndex": 525,
+    "Id": "SanctumDealObject",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_13/Objects/SanctumDealObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1048641097,
+    "Unk004": 4,
+    "Unk005": 937349396
+  },
+  {
+    "RowIndex": 526,
+    "Id": "SanctumDeferralObject",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_13/Objects/SanctumDeferralObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": 409536588,
+    "Unk004": 4,
+    "Unk005": 337903425
+  },
+  {
+    "RowIndex": 527,
+    "Id": "SanctumKeyDispenser",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Rewards/SanctumKeyDispenser",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1705951118,
+    "Unk004": 4,
+    "Unk005": -812727643
+  },
+  {
+    "RowIndex": 528,
+    "Id": "SanctumAscendancyDeviceFloor1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/SanctumAscendancyDeviceFloor1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1195856595,
+    "Unk004": 4,
+    "Unk005": -1776556795
+  },
+  {
+    "RowIndex": 529,
+    "Id": "SanctumAscendancyDeviceFloor2",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/SanctumAscendancyDeviceFloor2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -75483925,
+    "Unk004": 4,
+    "Unk005": -400010984
+  },
+  {
+    "RowIndex": 530,
+    "Id": "SanctumAscendancyDeviceFloor3",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/SanctumAscendancyDeviceFloor3",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1642079562,
+    "Unk004": 4,
+    "Unk005": 674092428
+  },
+  {
+    "RowIndex": 531,
+    "Id": "SanctumAscendancyDeviceFloor4",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/SanctumAscendancyDeviceFloor4",
+    "PreloadGroupsKeys": [],
+    "Unk003": 324215635,
+    "Unk004": 4,
+    "Unk005": -1891864413
+  },
+  {
+    "RowIndex": 532,
+    "Id": "SanctumDecoKeyPlinthBronze",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/ServerDeco/SanctumKeyPlinthBronze",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1476715954,
+    "Unk004": 4,
+    "Unk005": 534285364
+  },
+  {
+    "RowIndex": 533,
+    "Id": "SanctumDecoKeyPlinthGold",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/ServerDeco/SanctumKeyPlinthGold",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1227227323,
+    "Unk004": 4,
+    "Unk005": -258156956
+  },
+  {
+    "RowIndex": 534,
+    "Id": "SanctumDecoKeyPlinthSilver",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/ServerDeco/SanctumKeyPlinthSilver",
+    "PreloadGroupsKeys": [],
+    "Unk003": 746608473,
+    "Unk004": 4,
+    "Unk005": -311802150
+  },
+  {
+    "RowIndex": 535,
+    "Id": "SanctumRewardWaterMinor",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Rewards/SanctumMinorWaterFountain",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1494014514,
+    "Unk004": 4,
+    "Unk005": -1926434457
+  },
+  {
+    "RowIndex": 536,
+    "Id": "SanctumRewardWaterMajor",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Rewards/SanctumMajorWaterFountain",
+    "PreloadGroupsKeys": [],
+    "Unk003": 831490607,
+    "Unk004": 4,
+    "Unk005": 132350386
+  },
+  {
+    "RowIndex": 537,
+    "Id": "SanctumKeyConverter",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Sanctum/Objects/Rewards/SanctumWaterToKeyConverter",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1352380081,
+    "Unk004": 4,
+    "Unk005": 592401794
+  },
+  {
+    "RowIndex": 538,
+    "Id": "UltimatumBloodCircle",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_10/Objects/BloodAltarEncounter/BloodCircle",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1235002950,
+    "Unk004": 4,
+    "Unk005": -8096574
+  },
+  {
+    "RowIndex": 539,
+    "Id": "UltimatumBloodAltar",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_10/Objects/BloodAltarEncounter/BloodAltar",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1413645449,
+    "Unk004": 4,
+    "Unk005": -1361334844
+  },
+  {
+    "RowIndex": 540,
+    "Id": "PerennialKingMultiSpearRock",
+    "EffectVirtualPath": "Metadata/Monsters/PerennialKingStage2/Objects/PerennialKingObsidianMultiSpearRock",
+    "PreloadGroupsKeys": [],
+    "Unk003": 164126812,
+    "Unk004": 4,
+    "Unk005": 1223280399
+  },
+  {
+    "RowIndex": 541,
+    "Id": "PerennialKingElectricFenceSpike",
+    "EffectVirtualPath": "Metadata/Monsters/PerennialKingStage2/Objects/PerennialKingObsidianSwordFencePost",
+    "PreloadGroupsKeys": [],
+    "Unk003": 838290091,
+    "Unk004": 4,
+    "Unk005": -1353421248
+  },
+  {
+    "RowIndex": 542,
+    "Id": "BeastmasterBossBoneCircle",
+    "EffectVirtualPath": "Metadata/Monsters/GoreCharger/Boss/BoneCircle",
+    "PreloadGroupsKeys": [],
+    "Unk003": 487506167,
+    "Unk004": 4,
+    "Unk005": -1232213060
+  },
+  {
+    "RowIndex": 543,
+    "Id": "OldForestCarnivorousPlantVineWall",
+    "EffectVirtualPath": "Metadata/Monsters/CarnivorousPlantEater/OldForest/WallVine",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1746051261,
+    "Unk004": 4,
+    "Unk005": -1611001067
+  },
+  {
+    "RowIndex": 544,
+    "Id": "ViperLegionPillar",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/ViperNapuatzi/Objects/LegionInitiator",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1344260375,
+    "Unk004": 4,
+    "Unk005": 124812107
+  },
+  {
+    "RowIndex": 545,
+    "Id": "SnakeBossFlameBlasts",
+    "EffectVirtualPath": "Metadata/Monsters/GreatSnakeSkeletonBoss/Objects/GiantSnakeBossFlameBlasts",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2126260728,
+    "Unk004": 4,
+    "Unk005": 1797452895
+  },
+  {
+    "RowIndex": 546,
+    "Id": "ViperPlantedSpear",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/ViperNapuatzi/Objects/PlantedSpear",
+    "PreloadGroupsKeys": [],
+    "Unk003": 936711685,
+    "Unk004": 4,
+    "Unk005": -1241608972
+  },
+  {
+    "RowIndex": 547,
+    "Id": "RedValeEncounterController1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_5/Objects/Controller1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1833665745,
+    "Unk004": 4,
+    "Unk005": -1597312002
+  },
+  {
+    "RowIndex": 548,
+    "Id": "RedValeEncounterController2",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_5/Objects/Controller2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -985640349,
+    "Unk004": 4,
+    "Unk005": 1673418348
+  },
+  {
+    "RowIndex": 549,
+    "Id": "RedValeEncounterController3",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_5/Objects/Controller3",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1962810381,
+    "Unk004": 4,
+    "Unk005": -739533779
+  },
+  {
+    "RowIndex": 550,
+    "Id": "SOCarnivorousPlantBossVolatileTrees",
+    "EffectVirtualPath": "Metadata/Monsters/CarnivorousPlantEater/OldForest/TreeVolatileSpawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": 785431425,
+    "Unk004": 4,
+    "Unk005": 1634712627
+  },
+  {
+    "RowIndex": 551,
+    "Id": "SOMonsterModVolatilePlants",
+    "EffectVirtualPath": "Metadata/Monsters/MonsterMods/VolatilePlants/TreeVolatileSpawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": 902568829,
+    "Unk004": 4,
+    "Unk005": 2054218516
+  },
+  {
+    "RowIndex": 552,
+    "Id": "FungusBehemothPod1",
+    "EffectVirtualPath": "Metadata/Monsters/BeehiveBehemoth/Objects/FungusPod1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 742050223,
+    "Unk004": 4,
+    "Unk005": 806728661
+  },
+  {
+    "RowIndex": 553,
+    "Id": "FungusBehemothPod2",
+    "EffectVirtualPath": "Metadata/Monsters/BeehiveBehemoth/Objects/FungusPod2",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1702844406,
+    "Unk004": 4,
+    "Unk005": -1010197584
+  },
+  {
+    "RowIndex": 554,
+    "Id": "FungusBehemothPod3",
+    "EffectVirtualPath": "Metadata/Monsters/BeehiveBehemoth/Objects/FungusPod3",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1049854418,
+    "Unk004": 4,
+    "Unk005": -765246951
+  },
+  {
+    "RowIndex": 555,
+    "Id": "StationaryTitanBossLaserTarget",
+    "EffectVirtualPath": "Metadata/Monsters/TitanBoss/Objects/StationaryTitanBossLaserTarget",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1126523750,
+    "Unk004": 4,
+    "Unk005": -2025753159
+  },
+  {
+    "RowIndex": 556,
+    "Id": "BitterGuyPath",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/PathMarkers/BitterGuyPath",
+    "PreloadGroupsKeys": [],
+    "Unk003": 178863105,
+    "Unk004": 4,
+    "Unk005": 827107309
+  },
+  {
+    "RowIndex": 557,
+    "Id": "PerennialKingAsalaSandStormDefenceMarker",
+    "EffectVirtualPath": "Metadata/Monsters/PerennialKingStage2/Objects/MatriarchSandstormDefence",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1960367041,
+    "Unk004": 4,
+    "Unk005": 1627356657
+  },
+  {
+    "RowIndex": 558,
+    "Id": "SkeletonSnakeHeadSlamBlocking",
+    "EffectVirtualPath": "Metadata/Monsters/GreatSnakeSkeletonBoss/Objects/HeadSlamBlocking",
+    "PreloadGroupsKeys": [],
+    "Unk003": 31749571,
+    "Unk004": 4,
+    "Unk005": 1061793457
+  },
+  {
+    "RowIndex": 559,
+    "Id": "PerennialKingHead",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_town/Objects/PerennialKingHead",
+    "PreloadGroupsKeys": [],
+    "Unk003": -520092870,
+    "Unk004": 4,
+    "Unk005": -789768119
+  },
+  {
+    "RowIndex": 560,
+    "Id": "SkeletonSnakeVomitSlow",
+    "EffectVirtualPath": "Metadata/Monsters/GreatSnakeSkeletonBoss/Objects/VomitSlowZone",
+    "PreloadGroupsKeys": [],
+    "Unk003": -714988999,
+    "Unk004": 4,
+    "Unk005": 1668028753
+  },
+  {
+    "RowIndex": 561,
+    "Id": "RabidDogRareSpawner",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act1/1_13_1/Objects/RabidDogSpawnerRare",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1036886117,
+    "Unk004": 4,
+    "Unk005": 2041247137
+  },
+  {
+    "RowIndex": 562,
+    "Id": "KethDoor",
+    "EffectVirtualPath": "Metadata/Terrain/Doodads/Desert/KethAscendancy/Objects/KethDoor",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1757058547,
+    "Unk004": 4,
+    "Unk005": -382406023
+  },
+  {
+    "RowIndex": 563,
+    "Id": "VaalGoliathDestabilisedGround",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Living/objects/VaalGoliathDestabilisedGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 129354780,
+    "Unk004": 4,
+    "Unk005": -1412797094
+  },
+  {
+    "RowIndex": 564,
+    "Id": "ShieldBarricadeSegment",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/FrostWall/ShieldBarricade",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1312323666,
+    "Unk004": 4,
+    "Unk005": 1510262227
+  },
+  {
+    "RowIndex": 565,
+    "Id": "TwilightOverlordBoulder",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrder/TwilightOrderExcavationOverlord/Objects/TwilightOverlordBoulders",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1667723087,
+    "Unk004": 4,
+    "Unk005": 580267181
+  },
+  {
+    "RowIndex": 566,
+    "Id": "TwilightOverlordUpwardRock",
+    "EffectVirtualPath": "Metadata/Monsters/TwilightOrder/TwilightOrderExcavationOverlord/Objects/TwilightOverlordUpwardRock",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1258742687,
+    "Unk004": 4,
+    "Unk005": -1156625240
+  },
+  {
+    "RowIndex": 567,
+    "Id": "VaalZealotDaggerBanner",
+    "EffectVirtualPath": "Metadata/Monsters/VaalMonsters/Zealots/Dagger/VaalZealotDaggerBannerPlaced",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1305955505,
+    "Unk004": 4,
+    "Unk005": -1717435368
+  },
+  {
+    "RowIndex": 568,
+    "Id": "SunWorshipperOrbitSun",
+    "EffectVirtualPath": "Metadata/Monsters/VaalSunWorshipper/BlackHole/OrbitSun",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1388681331,
+    "Unk004": 4,
+    "Unk005": -412016666
+  },
+  {
+    "RowIndex": 569,
+    "Id": "DoryaniMechZapTarget",
+    "EffectVirtualPath": "Metadata/Monsters/DoryaniMechSuit/DoryaniMechZapTarget",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2005060717,
+    "Unk004": 4,
+    "Unk005": 1482814955
+  },
+  {
+    "RowIndex": 570,
+    "Id": "VaalForgeMasterFissureSpike",
+    "EffectVirtualPath": "Metadata/Monsters/VaalForgeMaster/Objects/FissureSpikes",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1005248436,
+    "Unk004": 4,
+    "Unk005": -388671210
+  },
+  {
+    "RowIndex": 571,
+    "Id": "MarakethSentinelMaceBossIceSpike",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/Objects/IceSpike",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1301422743,
+    "Unk004": 4,
+    "Unk005": 1573729034
+  },
+  {
+    "RowIndex": 572,
+    "Id": "StrongboxIceSpike",
+    "EffectVirtualPath": "Metadata/Monsters/Strongbox/Daemon/IceSpike",
+    "PreloadGroupsKeys": [],
+    "Unk003": 929970826,
+    "Unk004": 4,
+    "Unk005": -1672006991
+  },
+  {
+    "RowIndex": 573,
+    "Id": "SilentSpiresApparitionTrap",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparationMine",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1272651511,
+    "Unk004": 4,
+    "Unk005": 117714620
+  },
+  {
+    "RowIndex": 574,
+    "Id": "VaalForgeMasterFissureTrail",
+    "EffectVirtualPath": "Metadata/Monsters/VaalForgeMaster/Objects/VaalForgeMasterFissureTrail",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1494816498,
+    "Unk004": 4,
+    "Unk005": -1697005929
+  },
+  {
+    "RowIndex": 575,
+    "Id": "SilentSpiresApparitionSummonElipticalOrbitDaemon",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/OrbitProjectile",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1229625682,
+    "Unk004": 4,
+    "Unk005": 2141275976
+  },
+  {
+    "RowIndex": 576,
+    "Id": "VoodooKingSporePod",
+    "EffectVirtualPath": "Metadata/Monsters/VoodooKing/Objects/SporePod",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1762766086,
+    "Unk004": 4,
+    "Unk005": 1071012683
+  },
+  {
+    "RowIndex": 577,
+    "Id": "ViperNapuatziStartHeight",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_14/Objects/BossFormationHeightStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": -342463750,
+    "Unk004": 4,
+    "Unk005": -1013623285
+  },
+  {
+    "RowIndex": 578,
+    "Id": "ViperNapuatziLeftSideInHeight",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_14/Objects/BossFormationHeightLeftSideIn",
+    "PreloadGroupsKeys": [],
+    "Unk003": 116961232,
+    "Unk004": 4,
+    "Unk005": 600580665
+  },
+  {
+    "RowIndex": 579,
+    "Id": "ViperNapuatziRightSideInHeight",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_14/Objects/BossFormationHeightRightSideIn",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1981334866,
+    "Unk004": 4,
+    "Unk005": -1004126843
+  },
+  {
+    "RowIndex": 580,
+    "Id": "ViperNapuatziBothSidesInHeight",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_14/Objects/BossFormationHeightBothSidesIn",
+    "PreloadGroupsKeys": [],
+    "Unk003": 142466586,
+    "Unk004": 4,
+    "Unk005": -1255867524
+  },
+  {
+    "RowIndex": 581,
+    "Id": "MTXLegionCommanderPaleBoss",
+    "EffectVirtualPath": "Metadata/Items/Armours/BodyArmours/LegionCommander/PaleBoss",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1253284512,
+    "Unk004": 4,
+    "Unk005": 914230011
+  },
+  {
+    "RowIndex": 582,
+    "Id": "MTXLegionCommanderPaleElite",
+    "EffectVirtualPath": "Metadata/Items/Armours/BodyArmours/LegionCommander/PaleElite",
+    "PreloadGroupsKeys": [],
+    "Unk003": -902638137,
+    "Unk004": 4,
+    "Unk005": -630228152
+  },
+  {
+    "RowIndex": 583,
+    "Id": "MTXLegionCommanderPaleFodder1",
+    "EffectVirtualPath": "Metadata/Items/Armours/BodyArmours/LegionCommander/PaleFodder1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 808811028,
+    "Unk004": 4,
+    "Unk005": -762807021
+  },
+  {
+    "RowIndex": 584,
+    "Id": "MTXLegionCommanderPaleFodder2",
+    "EffectVirtualPath": "Metadata/Items/Armours/BodyArmours/LegionCommander/PaleFodder2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -486140747,
+    "Unk004": 4,
+    "Unk005": 1719992141
+  },
+  {
+    "RowIndex": 585,
+    "Id": "MTXLegionCommanderDemonBoss",
+    "EffectVirtualPath": "Metadata/Items/Armours/BodyArmours/LegionCommander/DemonBoss",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1232430086,
+    "Unk004": 4,
+    "Unk005": -1681583203
+  },
+  {
+    "RowIndex": 586,
+    "Id": "MTXLegionCommanderDemonElite",
+    "EffectVirtualPath": "Metadata/Items/Armours/BodyArmours/LegionCommander/DemonElite",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1022879031,
+    "Unk004": 4,
+    "Unk005": 1828141397
+  },
+  {
+    "RowIndex": 587,
+    "Id": "MTXLegionCommanderDemonFodder1",
+    "EffectVirtualPath": "Metadata/Items/Armours/BodyArmours/LegionCommander/DemonFodder1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1602022253,
+    "Unk004": 4,
+    "Unk005": 1684236540
+  },
+  {
+    "RowIndex": 588,
+    "Id": "MTXLegionCommanderDemonFodder2",
+    "EffectVirtualPath": "Metadata/Items/Armours/BodyArmours/LegionCommander/DemonFodder2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -79662996,
+    "Unk004": 4,
+    "Unk005": -519350718
+  },
+  {
+    "RowIndex": 589,
+    "Id": "DoryaniHumanBossForkBeamJointAlt",
+    "EffectVirtualPath": "Metadata/Monsters/Doryani/TrueDoryani/objects/DoryaniHumanBossForkBeamJointAlt",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1992672939,
+    "Unk004": 4,
+    "Unk005": -40498766
+  },
+  {
+    "RowIndex": 590,
+    "Id": "BreachEliteFlameWallSegment",
+    "EffectVirtualPath": "Metadata/Monsters/IgnagdukBogWitch/objects/FlameWallSegment",
+    "PreloadGroupsKeys": [],
+    "Unk003": -592220494,
+    "Unk004": 4,
+    "Unk005": 165728149
+  },
+  {
+    "RowIndex": 591,
+    "Id": "ChaosGodOwlBossBatSwarm",
+    "EffectVirtualPath": "Metadata/Monsters/ChaosGodOwlBoss/objects/OwlBossBats",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2074500132,
+    "Unk004": 4,
+    "Unk005": -1759528292
+  },
+  {
+    "RowIndex": 592,
+    "Id": "BreachPortalObject",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Breach/BreachObject",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 28,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -535271191,
+    "Unk004": 4,
+    "Unk005": -594386874
+  },
+  {
+    "RowIndex": 593,
+    "Id": "BreachLargeChestMarker",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Breach/LargeChestMarker",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 28,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": -172029670,
+    "Unk004": 4,
+    "Unk005": 1707634020
+  },
+  {
+    "RowIndex": 594,
+    "Id": "SilentSpiresApparitionTimeTrialCollectable",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/TimeTrialCollectable",
+    "PreloadGroupsKeys": [],
+    "Unk003": 480406497,
+    "Unk004": 4,
+    "Unk005": 2033267572
+  },
+  {
+    "RowIndex": 595,
+    "Id": "VaalForgemasterLavaBlocking",
+    "EffectVirtualPath": "Metadata/Monsters/VaalForgeMaster/Objects/LavaBlocking",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1629644375,
+    "Unk004": 4,
+    "Unk005": -430274296
+  },
+  {
+    "RowIndex": 596,
+    "Id": "DeliriumInitiator",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Delirium/Objects/DeliriumInitiator",
+    "PreloadGroupsKeys": [],
+    "Unk003": 860826231,
+    "Unk004": 4,
+    "Unk005": 52469712
+  },
+  {
+    "RowIndex": 597,
+    "Id": "DeliriumColdDemonIceSpike",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueDelirium/DeliriumColdDemonIceSpikeObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": -96219791,
+    "Unk004": 4,
+    "Unk005": -1365220056
+  },
+  {
+    "RowIndex": 598,
+    "Id": "DeliriumRotatingColdOrbs",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueDelirium/DeliriumMonsterSpinningOrb",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1088853368,
+    "Unk004": 4,
+    "Unk005": 1303603773
+  },
+  {
+    "RowIndex": 599,
+    "Id": "DeliriumDemonLightningGigaBallGround",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueDelirium/DeliriumLightningDemonGigaBallGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2105610439,
+    "Unk004": 4,
+    "Unk005": -512653179
+  },
+  {
+    "RowIndex": 600,
+    "Id": "DeliriumBossLightningVolatile",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueDelirium/Demons/FinalBossDeathZones/LightningVolatileObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": 420513566,
+    "Unk004": 4,
+    "Unk005": 1603295950
+  },
+  {
+    "RowIndex": 601,
+    "Id": "DeliriumWindDaemonServerMarker",
+    "EffectVirtualPath": "Metadata/Monsters/Daemon/DeliriumFogWindDaemonServerMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1833134841,
+    "Unk004": 4,
+    "Unk005": 446617809
+  },
+  {
+    "RowIndex": 602,
+    "Id": "DeliriumWaypointOverride",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Delirium/Objects/WaypointOverride",
+    "PreloadGroupsKeys": [],
+    "Unk003": -159123203,
+    "Unk004": 4,
+    "Unk005": 607180478
+  },
+  {
+    "RowIndex": 603,
+    "Id": "DeliriumDoodad1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Delirium/Objects/Doodad1",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1165467414,
+    "Unk004": 4,
+    "Unk005": 1009921016
+  },
+  {
+    "RowIndex": 604,
+    "Id": "DeliriumStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/DeliriumStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1052744916,
+    "Unk004": 4,
+    "Unk005": 707459278
+  },
+  {
+    "RowIndex": 605,
+    "Id": "DeliriumGuildStash",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StashSkins/DeliriumGuildStash",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1157824318,
+    "Unk004": 4,
+    "Unk005": -1181096176
+  },
+  {
+    "RowIndex": 606,
+    "Id": "DemonClawBossFlameSeed",
+    "EffectVirtualPath": "Metadata/Monsters/AtlasBosses/DemonClawBoss/objects/DemonClawBossFlameSeed",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1103033698,
+    "Unk004": 4,
+    "Unk005": -1193118630
+  },
+  {
+    "RowIndex": 607,
+    "Id": "DemonClawBossFlameWall",
+    "EffectVirtualPath": "Metadata/Monsters/AtlasBosses/DemonClawBoss/objects/DemonClawBossFlameWall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1966887793,
+    "Unk004": 4,
+    "Unk005": -127728735
+  },
+  {
+    "RowIndex": 608,
+    "Id": "GiantSnakeArenaMiddleMap",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act2/2_9_2/Objects/GiantSnakeArenaMiddleMap",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1743194141,
+    "Unk004": 4,
+    "Unk005": -966102163
+  },
+  {
+    "RowIndex": 609,
+    "Id": "MicrotransactionFatesMadnessPortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/FatesMadness/FatesMadnessPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 507375727,
+    "Unk004": 4,
+    "Unk005": 1036738646
+  },
+  {
+    "RowIndex": 610,
+    "Id": "CauldronMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/CauldronMapDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": -663828276,
+    "Unk004": 4,
+    "Unk005": 1839203512
+  },
+  {
+    "RowIndex": 611,
+    "Id": "CauldronMapDevicButton",
+    "EffectVirtualPath": "Metadata/MapDevices/CauldronMapDevice/MapDeviceButton",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1436013015,
+    "Unk004": 4,
+    "Unk005": 1767872045
+  },
+  {
+    "RowIndex": 612,
+    "Id": "WarBanner",
+    "EffectVirtualPath": "Metadata/Effects/Spells/banner/WarBannerGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1198050692,
+    "Unk004": 4,
+    "Unk005": -1069331973
+  },
+  {
+    "RowIndex": 613,
+    "Id": "DefianceBanner",
+    "EffectVirtualPath": "Metadata/Effects/Spells/banner/ArmourEvasionBannerGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": -864769836,
+    "Unk004": 4,
+    "Unk005": -1012875200
+  },
+  {
+    "RowIndex": 614,
+    "Id": "DreadBanner",
+    "EffectVirtualPath": "Metadata/Effects/Spells/banner/DreadBannerGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": -810078763,
+    "Unk004": 4,
+    "Unk005": 2132574328
+  },
+  {
+    "RowIndex": 615,
+    "Id": "RattlecageFissureLine",
+    "EffectVirtualPath": "Metadata/Monsters/SaltGolem/SaltGolemRattlecageFissureLine",
+    "PreloadGroupsKeys": [],
+    "Unk003": -253276210,
+    "Unk004": 4,
+    "Unk005": -1368322362
+  },
+  {
+    "RowIndex": 616,
+    "Id": "RattlecageFissureLineStart",
+    "EffectVirtualPath": "Metadata/Monsters/SaltGolem/SaltGolemRattlecageFissureLineStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": 184918386,
+    "Unk004": 4,
+    "Unk005": -975771635
+  },
+  {
+    "RowIndex": 617,
+    "Id": "RattlecageFissureLineEnd",
+    "EffectVirtualPath": "Metadata/Monsters/SaltGolem/SaltGolemRattlecageFissureLineEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1487322678,
+    "Unk004": 4,
+    "Unk005": -2016927510
+  },
+  {
+    "RowIndex": 618,
+    "Id": "ChaosGodBatPoisonCloud",
+    "EffectVirtualPath": "Metadata/Monsters/ChaosGodTriHeadBat/ChaosGodTriheadBatPoisonCloud",
+    "PreloadGroupsKeys": [],
+    "Unk003": -830578128,
+    "Unk004": 4,
+    "Unk005": -1201946751
+  },
+  {
+    "RowIndex": 619,
+    "Id": "ThroneoftheRulerMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/ThroneoftheRulerMapDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": 411283485,
+    "Unk004": 4,
+    "Unk005": -1648317502
+  },
+  {
+    "RowIndex": 620,
+    "Id": "ThroneoftheRulerMapDeviceButton",
+    "EffectVirtualPath": "Metadata/MapDevices/LumeriusMapDevice/MapDeviceButton",
+    "PreloadGroupsKeys": [],
+    "Unk003": -428808775,
+    "Unk004": 4,
+    "Unk005": -1945882109
+  },
+  {
+    "RowIndex": 621,
+    "Id": "SanctumEffectDamageSource",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Hazards/SanctumEffectDamageSource",
+    "PreloadGroupsKeys": [
+      {
+        "RowIndex": 62,
+        "TableName": "PreloadGroups"
+      }
+    ],
+    "Unk003": 1227942172,
+    "Unk004": 4,
+    "Unk005": -948794988
+  },
+  {
+    "RowIndex": 622,
+    "Id": "AncestralCanoeCraftingBench",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/HideoutCraftingBenchAncestralCanoe",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1888736639,
+    "Unk004": 4,
+    "Unk005": -1663616402
+  },
+  {
+    "RowIndex": 623,
+    "Id": "UtltimatumAscendancyShrine1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_10/Objects/UltimatumTreasureRoomPedestalWave4",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1194492734,
+    "Unk004": 4,
+    "Unk005": -680255019
+  },
+  {
+    "RowIndex": 624,
+    "Id": "UtltimatumAscendancyShrine2",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_10/Objects/UltimatumTreasureRoomPedestalWave7",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1538268513,
+    "Unk004": 4,
+    "Unk005": 124389650
+  },
+  {
+    "RowIndex": 625,
+    "Id": "UtltimatumAscendancyShrine3",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_10/Objects/UltimatumTreasureRoomPedestalWave10",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1665042135,
+    "Unk004": 4,
+    "Unk005": -580867444
+  },
+  {
+    "RowIndex": 626,
+    "Id": "UtltimatumAscendancyShrine4",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_10/Objects/UltimatumTrialmasterPedestal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1783747072,
+    "Unk004": 4,
+    "Unk005": -935963207
+  },
+  {
+    "RowIndex": 627,
+    "Id": "SanctumSentinelTrackingSlamOrb",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/Objects/SentinelTrackingEffect",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1734167622,
+    "Unk004": 4,
+    "Unk005": -1414446259
+  },
+  {
+    "RowIndex": 628,
+    "Id": "StormblastRods",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StormBlastRod",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1939162610,
+    "Unk004": 4,
+    "Unk005": -223268120
+  },
+  {
+    "RowIndex": 629,
+    "Id": "ShakariDeletedPressurePad",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/Shakari/Objects/PressurePlateDeleted",
+    "PreloadGroupsKeys": [],
+    "Unk003": -740058891,
+    "Unk004": 4,
+    "Unk005": 1706945968
+  },
+  {
+    "RowIndex": 630,
+    "Id": "MonsterModGlacialPrison",
+    "EffectVirtualPath": "Metadata/Monsters/MonsterMods/GlacialPrison/GlacialPrisonCentre",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1015677689,
+    "Unk004": 4,
+    "Unk005": 666876192
+  },
+  {
+    "RowIndex": 631,
+    "Id": "ScropionBossGasPressurePad",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/Shakari/Objects/PressurePlateGas",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1814477878,
+    "Unk004": 4,
+    "Unk005": 346522606
+  },
+  {
+    "RowIndex": 632,
+    "Id": "ScropionBossDartPressurePad",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/Shakari/Objects/PressurePlateDart",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1004845175,
+    "Unk004": 4,
+    "Unk005": 653779498
+  },
+  {
+    "RowIndex": 633,
+    "Id": "ScropionBossGasScarabPressurePad",
+    "EffectVirtualPath": "Metadata/Monsters/MarakethSanctumTrial/Boss/Shakari/Objects/PressurePlateScarab",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1830364427,
+    "Unk004": 4,
+    "Unk005": -885856161
+  },
+  {
+    "RowIndex": 634,
+    "Id": "MonsterModFlamewaller",
+    "EffectVirtualPath": "Metadata/Monsters/MonsterMods/Flamewaller/Flamewall",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1302660160,
+    "Unk004": 4,
+    "Unk005": 1377529221
+  },
+  {
+    "RowIndex": 635,
+    "Id": "FountainSupportObject",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/FountainSupport",
+    "PreloadGroupsKeys": [],
+    "Unk003": -555693009,
+    "Unk004": 4,
+    "Unk005": -865473871
+  },
+  {
+    "RowIndex": 636,
+    "Id": "RattlecageVolcano",
+    "EffectVirtualPath": "Metadata/Monsters/SaltGolem/RattlecageVolcano",
+    "PreloadGroupsKeys": [],
+    "Unk003": 704501965,
+    "Unk004": 4,
+    "Unk005": 1861790166
+  },
+  {
+    "RowIndex": 637,
+    "Id": "BloodBurstObject",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/DemonFaction/BloodBurstObject",
+    "PreloadGroupsKeys": [],
+    "Unk003": -948224177,
+    "Unk004": 4,
+    "Unk005": -817345303
+  },
+  {
+    "RowIndex": 638,
+    "Id": "BloodBurstObject2",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/DemonFaction/BloodBurstObject2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1345065866,
+    "Unk004": 4,
+    "Unk005": 482666878
+  },
+  {
+    "RowIndex": 639,
+    "Id": "TornadoShotTornado",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/TornadoShotTornado",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1437646366,
+    "Unk004": 4,
+    "Unk005": 1877614515
+  },
+  {
+    "RowIndex": 640,
+    "Id": "ZodiacDragonMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/ZodiacDragonMapDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1851193291,
+    "Unk004": 4,
+    "Unk005": -571000011
+  },
+  {
+    "RowIndex": 641,
+    "Id": "ZodiacDragonMapDeviceButton",
+    "EffectVirtualPath": "Metadata/MapDevices/ZodiacDragonMapDevice/MapDeviceButton",
+    "PreloadGroupsKeys": [],
+    "Unk003": -335556636,
+    "Unk004": 4,
+    "Unk005": -819504245
+  },
+  {
+    "RowIndex": 642,
+    "Id": "ZigguratLiftInnerBlocker1",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_12/Objects/LiftInnerBlocker1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1833425323,
+    "Unk004": 4,
+    "Unk005": -218063629
+  },
+  {
+    "RowIndex": 643,
+    "Id": "ZigguratLiftInnerBlocker2",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_12/Objects/LiftInnerBlocker2",
+    "PreloadGroupsKeys": [],
+    "Unk003": -701933547,
+    "Unk004": 4,
+    "Unk005": 965170711
+  },
+  {
+    "RowIndex": 644,
+    "Id": "AfflictionRotatingColdOrbs",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueDelirium/DeliriumMonsterSpinningOrb",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1088853368,
+    "Unk004": 4,
+    "Unk005": -1480964951
+  },
+  {
+    "RowIndex": 645,
+    "Id": "CommemorativeHillockStatue",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/HillockStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": 136426690,
+    "Unk004": 4,
+    "Unk005": 149098318
+  },
+  {
+    "RowIndex": 646,
+    "Id": "CommemorativeVaalOversoulStatue",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/VaalOversoulStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1804120126,
+    "Unk004": 4,
+    "Unk005": 1450198157
+  },
+  {
+    "RowIndex": 647,
+    "Id": "CommemorativeDominusStatue",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/DominusStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": 14328107,
+    "Unk004": 4,
+    "Unk005": -838915609
+  },
+  {
+    "RowIndex": 648,
+    "Id": "CommemorativeMalachaiStatue",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MalachaiStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1678224104,
+    "Unk004": 4,
+    "Unk005": -72141451
+  },
+  {
+    "RowIndex": 649,
+    "Id": "CommemorativeKitavaStatue",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/KitavaStatue",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1958740922,
+    "Unk004": 4,
+    "Unk005": -465052022
+  },
+  {
+    "RowIndex": 650,
+    "Id": "MicrotransactionWindowtoTwilightPortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/TwilightWindowPortal/TwilightWindowPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 120347751,
+    "Unk004": 4,
+    "Unk005": 398904323
+  },
+  {
+    "RowIndex": 651,
+    "Id": "ThroneOfTheRulerChair",
+    "EffectVirtualPath": "Metadata/MapDevices/LumeriusMapDevice/LumeriusMapDeviceChair",
+    "PreloadGroupsKeys": [],
+    "Unk003": 497953001,
+    "Unk004": 4,
+    "Unk005": -611599717
+  },
+  {
+    "RowIndex": 652,
+    "Id": "HellscapeFleshEliteBloodOrb_",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueHellscape/FleshFaction/objects/FleshElite1BloodOrbBomb",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1559967657,
+    "Unk004": 4,
+    "Unk005": -75745960
+  },
+  {
+    "RowIndex": 653,
+    "Id": "DemonClawBossPulsingBall",
+    "EffectVirtualPath": "Metadata/Monsters/AtlasBosses/DemonClawBoss/objects/DemonClawBossPulsingBall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 756901154,
+    "Unk004": 4,
+    "Unk005": -1133427657
+  },
+  {
+    "RowIndex": 654,
+    "Id": "DemonClawBossBlackflameArenaSeed",
+    "EffectVirtualPath": "Metadata/Monsters/AtlasBosses/DemonClawBoss/objects/DemonClawBossBlackflameSeed",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1742026884,
+    "Unk004": 4,
+    "Unk005": -759907990
+  },
+  {
+    "RowIndex": 655,
+    "Id": "DemonClawBossChillArenaSeed",
+    "EffectVirtualPath": "Metadata/Monsters/AtlasBosses/DemonClawBoss/objects/DemonClawBossChillSeed",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1151847814,
+    "Unk004": 4,
+    "Unk005": -723541948
+  },
+  {
+    "RowIndex": 656,
+    "Id": "BeyondPortal1",
+    "EffectVirtualPath": "Metadata/Monsters/BeyondDemons/BeyondPortal1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1082805434,
+    "Unk004": 4,
+    "Unk005": 470646219
+  },
+  {
+    "RowIndex": 657,
+    "Id": "BeyondPortal2",
+    "EffectVirtualPath": "Metadata/Monsters/BeyondDemons/BeyondPortal2",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2119099127,
+    "Unk004": 4,
+    "Unk005": -1891039167
+  },
+  {
+    "RowIndex": 658,
+    "Id": "BeyondPortal3",
+    "EffectVirtualPath": "Metadata/Monsters/BeyondDemons/BeyondPortal3",
+    "PreloadGroupsKeys": [],
+    "Unk003": -475113111,
+    "Unk004": 4,
+    "Unk005": 1020995166
+  },
+  {
+    "RowIndex": 659,
+    "Id": "BigVisualBeyondPortal",
+    "EffectVirtualPath": "Metadata/Monsters/BeyondDemons/BeyondPortal3VisualOnly",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1269638409,
+    "Unk004": 4,
+    "Unk005": 865232075
+  },
+  {
+    "RowIndex": 660,
+    "Id": "MicrotransactionRustKingPortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/RustKingPortal/RustKingPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -2120316201,
+    "Unk004": 4,
+    "Unk005": 1930496079
+  },
+  {
+    "RowIndex": 661,
+    "Id": "RitualPurplePustule",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/Daemons/PurplePustules",
+    "PreloadGroupsKeys": [],
+    "Unk003": 960041841,
+    "Unk004": 4,
+    "Unk005": -1842173359
+  },
+  {
+    "RowIndex": 662,
+    "Id": "RitualBloodBall",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/DemonFaction/BloodBall",
+    "PreloadGroupsKeys": [],
+    "Unk003": 233773033,
+    "Unk004": 4,
+    "Unk005": 25304827
+  },
+  {
+    "RowIndex": 663,
+    "Id": "StormCallerInvisObject",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StormcallerRod",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1572469766,
+    "Unk004": 4,
+    "Unk005": -982192653
+  },
+  {
+    "RowIndex": 664,
+    "Id": "RitualTreeRoot1",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/Daemons/TreeRoot1",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1052253523,
+    "Unk004": 4,
+    "Unk005": -630979158
+  },
+  {
+    "RowIndex": 665,
+    "Id": "RitualTreeRoot2",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/Daemons/TreeRoot2",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1493352542,
+    "Unk004": 4,
+    "Unk005": -1356419514
+  },
+  {
+    "RowIndex": 666,
+    "Id": "RitualTreeRoot3",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/Daemons/TreeRoot3",
+    "PreloadGroupsKeys": [],
+    "Unk003": -739980324,
+    "Unk004": 4,
+    "Unk005": -1801698837
+  },
+  {
+    "RowIndex": 667,
+    "Id": "EmptyPlayerRowBoat",
+    "EffectVirtualPath": "Metadata/Terrain/Hideouts/BeaconOfSalvation/Objects/EmptyRowBoat",
+    "PreloadGroupsKeys": [],
+    "Unk003": -357333971,
+    "Unk004": 4,
+    "Unk005": -687003037
+  },
+  {
+    "RowIndex": 668,
+    "Id": "DeliriumSimulacrumLootSpawnMarker",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Leagues/Delirium/Objects/LootSpawnMarker",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1189545983,
+    "Unk004": 4,
+    "Unk005": -1042831750
+  },
+  {
+    "RowIndex": 669,
+    "Id": "EssenceMonolith",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Monolith",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1209225406,
+    "Unk004": 4,
+    "Unk005": 351030111
+  },
+  {
+    "RowIndex": 670,
+    "Id": "EssenceMiniMonolith",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/MiniMonolith",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1595234239,
+    "Unk004": 4,
+    "Unk005": 748067429
+  },
+  {
+    "RowIndex": 671,
+    "Id": "RitualVolatilePlants",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/Daemons/TreeVolatileSpawner",
+    "PreloadGroupsKeys": [],
+    "Unk003": -782689391,
+    "Unk004": 4,
+    "Unk005": -2020803123
+  },
+  {
+    "RowIndex": 672,
+    "Id": "RitualFissureLine",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/Daemons/CorpseFissureDaemonFissureLine",
+    "PreloadGroupsKeys": [],
+    "Unk003": -274611499,
+    "Unk004": 4,
+    "Unk005": 214338385
+  },
+  {
+    "RowIndex": 673,
+    "Id": "RitualFissureLineStart",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/Daemons/CorpseFissureDaemonFissureLineStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1569254038,
+    "Unk004": 4,
+    "Unk005": 1153868500
+  },
+  {
+    "RowIndex": 674,
+    "Id": "RitualFissureLineEnd",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueRitual/Daemons/CorpseFissureDaemonFissureLineEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": -541940234,
+    "Unk004": 4,
+    "Unk005": -380566896
+  },
+  {
+    "RowIndex": 675,
+    "Id": "MicrotransactionTemporalLordPortal",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Portals/TemporalLordPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -593833380,
+    "Unk004": 4,
+    "Unk005": -2092363051
+  },
+  {
+    "RowIndex": 676,
+    "Id": "PastTownAlvaPath",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_town/Objects/VaalEncounter/AlvaPastTownPath",
+    "PreloadGroupsKeys": [],
+    "Unk003": -372358466,
+    "Unk004": 4,
+    "Unk005": -104130020
+  },
+  {
+    "RowIndex": 677,
+    "Id": "ShrineEoW",
+    "EffectVirtualPath": "Metadata/Monsters/Daemon/Shrines/Objects/ShrineRotatingEyeOfWinter",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1057251259,
+    "Unk004": 4,
+    "Unk005": -1673389111
+  },
+  {
+    "RowIndex": 678,
+    "Id": "FireEssenceSolarOrb",
+    "EffectVirtualPath": "Metadata/Monsters/EssenceModDaemons/EssenceModFire1/FireEssenceModSolarOrb",
+    "PreloadGroupsKeys": [],
+    "Unk003": 352058558,
+    "Unk004": 4,
+    "Unk005": -1299266607
+  },
+  {
+    "RowIndex": 679,
+    "Id": "ManaEssenceBlastZone",
+    "EffectVirtualPath": "Metadata/Monsters/EssenceModDaemons/EssenceModMana1/EssenceManaBlastZone",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1831669862,
+    "Unk004": 4,
+    "Unk005": 1083599310
+  },
+  {
+    "RowIndex": 680,
+    "Id": "ChimeraIceWall",
+    "EffectVirtualPath": "Metadata/Monsters/ChimeraWetlandsBoss/Objects/ChimeraBossIceWallSegment",
+    "PreloadGroupsKeys": [],
+    "Unk003": 890124661,
+    "Unk004": 4,
+    "Unk005": 1528412416
+  },
+  {
+    "RowIndex": 681,
+    "Id": "ShellMonsterFissureStart",
+    "EffectVirtualPath": "Metadata/Monsters/ShellMonster/Fissure/FissureLineStart",
+    "PreloadGroupsKeys": [],
+    "Unk003": -467148113,
+    "Unk004": 4,
+    "Unk005": -659988275
+  },
+  {
+    "RowIndex": 682,
+    "Id": "ShellMonsterFissure",
+    "EffectVirtualPath": "Metadata/Monsters/ShellMonster/Fissure/FissureLineMid",
+    "PreloadGroupsKeys": [],
+    "Unk003": 289620445,
+    "Unk004": 4,
+    "Unk005": -699130708
+  },
+  {
+    "RowIndex": 683,
+    "Id": "ShellMonsterFissureEnd",
+    "EffectVirtualPath": "Metadata/Monsters/ShellMonster/Fissure/FissureLineEnd",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2106295606,
+    "Unk004": 4,
+    "Unk005": 1822921674
+  },
+  {
+    "RowIndex": 684,
+    "Id": "ShellMonsterVolcano",
+    "EffectVirtualPath": "Metadata/Monsters/ShellMonster/Fissure/FissureVolcano",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1493619845,
+    "Unk004": 4,
+    "Unk005": 1083810114
+  },
+  {
+    "RowIndex": 685,
+    "Id": "MicrotransactionHallOfTheDeadPortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/AncestorPortal/AncestorPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 130600959,
+    "Unk004": 4,
+    "Unk005": 1588210217
+  },
+  {
+    "RowIndex": 686,
+    "Id": "GiantToadPortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/GiantToadPortal/GiantToadPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 47033334,
+    "Unk004": 4,
+    "Unk005": 1286578042
+  },
+  {
+    "RowIndex": 687,
+    "Id": "AlbinoGiantToadPortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/GiantToadPortal/Albino_GiantToadPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": -131691831,
+    "Unk004": 4,
+    "Unk005": 521013672
+  },
+  {
+    "RowIndex": 688,
+    "Id": "GreenGiantToadPortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/GiantToadPortal/Green_GiantToadPortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 488329649,
+    "Unk004": 4,
+    "Unk005": 1630684062
+  },
+  {
+    "RowIndex": 689,
+    "Id": "FootprintsDelirium",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/foot_prints/delirium/footprints_delirium",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1640658122,
+    "Unk004": 4,
+    "Unk005": -1495728607
+  },
+  {
+    "RowIndex": 690,
+    "Id": "FootprintsBlight",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/foot_prints/blight/footprints_blight",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1104368107,
+    "Unk004": 4,
+    "Unk005": 877691917
+  },
+  {
+    "RowIndex": 691,
+    "Id": "FootprintsHarvest",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/foot_prints/harvest02/footprints_harvest",
+    "PreloadGroupsKeys": [],
+    "Unk003": 310632767,
+    "Unk004": 4,
+    "Unk005": 201215381
+  },
+  {
+    "RowIndex": 692,
+    "Id": "FootprintsSynthesis",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/foot_prints/synthesis/footprints_synthesis",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1228484617,
+    "Unk004": 4,
+    "Unk005": 765174822
+  },
+  {
+    "RowIndex": 693,
+    "Id": "MicrotransactionStopwatchMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/StopwatchMapDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": 432274117,
+    "Unk004": 4,
+    "Unk005": -651969349
+  },
+  {
+    "RowIndex": 694,
+    "Id": "MicrotransactionStopwatchMapDeviceSilver",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/StopwatchMapDeviceSilver",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2012205169,
+    "Unk004": 4,
+    "Unk005": -1563707614
+  },
+  {
+    "RowIndex": 695,
+    "Id": "MicrotransactionStopwatchMapDeviceGold",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/StopwatchMapDeviceGold",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1659161514,
+    "Unk004": 4,
+    "Unk005": -1372318674
+  },
+  {
+    "RowIndex": 696,
+    "Id": "MicrotransactionStopwatchMapDeviceButton",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StopwatchMapDeviceButton",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1780043431,
+    "Unk004": 4,
+    "Unk005": 541576022
+  },
+  {
+    "RowIndex": 697,
+    "Id": "MicrotransactionStopwatchMapDeviceButtonGold",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StopwatchMapDeviceButtonGold",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1886653989,
+    "Unk004": 4,
+    "Unk005": -1642749963
+  },
+  {
+    "RowIndex": 698,
+    "Id": "MicrotransactionStopwatchMapDeviceButtonSilver",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/StopwatchMapDeviceButtonSilver",
+    "PreloadGroupsKeys": [],
+    "Unk003": 36877576,
+    "Unk004": 4,
+    "Unk005": -795997716
+  },
+  {
+    "RowIndex": 699,
+    "Id": "ExpeditionEncasedMonster",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/Expedition/ExpeditionEncasedMonster",
+    "PreloadGroupsKeys": [],
+    "Unk003": 390614066,
+    "Unk004": 4,
+    "Unk005": 477567160
+  },
+  {
+    "RowIndex": 700,
+    "Id": "MicrotransactionZigguratMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/ZigguratMapDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1788960581,
+    "Unk004": 4,
+    "Unk005": 445491447
+  },
+  {
+    "RowIndex": 701,
+    "Id": "MicrotransactionZigguratMapDeviceButton",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/ZigguratMapDeviceButton",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1921652572,
+    "Unk004": 4,
+    "Unk005": -374724429
+  },
+  {
+    "RowIndex": 702,
+    "Id": "DemonClawBossFlameSeedMulti",
+    "EffectVirtualPath": "Metadata/Monsters/AtlasBosses/DemonClawBoss/objects/DemonClawBossFlameSeedMulti",
+    "PreloadGroupsKeys": [],
+    "Unk003": -991516126,
+    "Unk004": 4,
+    "Unk005": 1554744447
+  },
+  {
+    "RowIndex": 703,
+    "Id": "DemonClawBossDegenPlane",
+    "EffectVirtualPath": "Metadata/Monsters/AtlasBosses/DemonClawBoss/objects/DemonClawBossDegenPlane",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1544965657,
+    "Unk004": 4,
+    "Unk005": -727726882
+  },
+  {
+    "RowIndex": 704,
+    "Id": "MtxNethermancerFallenSouls",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/BodyArmours/Nethermancer/FallenSouls",
+    "PreloadGroupsKeys": [],
+    "Unk003": 451847790,
+    "Unk004": 4,
+    "Unk005": -2064379814
+  },
+  {
+    "RowIndex": 705,
+    "Id": "MtxNethermancerRustFallenSouls",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/BodyArmours/Nethermancer/FallenSouls",
+    "PreloadGroupsKeys": [],
+    "Unk003": 451847790,
+    "Unk004": 4,
+    "Unk005": 1216237537
+  },
+  {
+    "RowIndex": 706,
+    "Id": "StatueBossLootProxy",
+    "EffectVirtualPath": "Metadata/Terrain/Gallows/Act3/3_6_2/Objects/BossLootProxyMAP",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1123911260,
+    "Unk004": 4,
+    "Unk005": -184669772
+  },
+  {
+    "RowIndex": 707,
+    "Id": "OlrothRiCoObjects",
+    "EffectVirtualPath": "Metadata/Monsters/LeagueExpeditionNew/Olroth/Objects/OlrothCrystalGround",
+    "PreloadGroupsKeys": [],
+    "Unk003": 219301568,
+    "Unk004": 4,
+    "Unk005": 864391057
+  },
+  {
+    "RowIndex": 708,
+    "Id": "PerchedGargoylePortal",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/PerchedGargoylePortal/GargoylePortal",
+    "PreloadGroupsKeys": [],
+    "Unk003": 396140190,
+    "Unk004": 4,
+    "Unk005": -484775984
+  },
+  {
+    "RowIndex": 709,
+    "Id": "PerchedGargoylePortalGold",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/PerchedGargoylePortal/GargoylePortalGold",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1543790577,
+    "Unk004": 4,
+    "Unk005": 1852958379
+  },
+  {
+    "RowIndex": 710,
+    "Id": "PerchedGargoylePortalMarble",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/PerchedGargoylePortal/GargoylePortalMarble",
+    "PreloadGroupsKeys": [],
+    "Unk003": 176480765,
+    "Unk004": 4,
+    "Unk005": -196527437
+  },
+  {
+    "RowIndex": 711,
+    "Id": "PerchedGargoylePortalOvergrown",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/Town_Portals/PerchedGargoylePortal/GargoylePortalOvergrown",
+    "PreloadGroupsKeys": [],
+    "Unk003": 813980266,
+    "Unk004": 4,
+    "Unk005": 1669877366
+  },
+  {
+    "RowIndex": 712,
+    "Id": "MicrotransactionVaalSerpentGodMapDevice",
+    "EffectVirtualPath": "Metadata/Terrain/Missions/Hideouts/Objects/MapDeviceVariants/VaalSerpentGodMapDevice",
+    "PreloadGroupsKeys": [],
+    "Unk003": 249418623,
+    "Unk004": 4,
+    "Unk005": -1126516037
+  },
+  {
+    "RowIndex": 713,
+    "Id": "MicrotransactionVaalSerpentGodMapDeviceButton",
+    "EffectVirtualPath": "Metadata/MiscellaneousObjects/VaalSerpentGodMapDeviceButton",
+    "PreloadGroupsKeys": [],
+    "Unk003": 167550450,
+    "Unk004": 4,
+    "Unk005": -1977006928
+  },
+  {
+    "RowIndex": 714,
+    "Id": "StrongboxRune",
+    "EffectVirtualPath": "Metadata/Monsters/Strongbox/Daemon/StrongboxChaosrunes",
+    "PreloadGroupsKeys": [],
+    "Unk003": 1934451273,
+    "Unk004": 4,
+    "Unk005": 1830032578
+  },
+  {
+    "RowIndex": 715,
+    "Id": "SpeedEssenceTimeTraps",
+    "EffectVirtualPath": "Metadata/Monsters/EssenceModDaemons/EssenceModSpeed1/SpeedEssenceTimeTrap",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1405853652,
+    "Unk004": 4,
+    "Unk005": 2104004615
+  },
+  {
+    "RowIndex": 716,
+    "Id": "MTXCrabArmourCrabsOnKillNimble",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/on_kill/CrabArmour/NimbleCrabsOnKill",
+    "PreloadGroupsKeys": [],
+    "Unk003": 2033683741,
+    "Unk004": 4,
+    "Unk005": 1715286464
+  },
+  {
+    "RowIndex": 717,
+    "Id": "MTXCrabArmourCrabsOnKillKelp",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/on_kill/CrabArmour/KelpCrabsOnKill",
+    "PreloadGroupsKeys": [],
+    "Unk003": -1538904236,
+    "Unk004": 4,
+    "Unk005": 859746284
+  },
+  {
+    "RowIndex": 718,
+    "Id": "MTXCrabArmourCrabsOnKillKelpBleached",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/on_kill/CrabArmour/KelpBleachedCrabsOnKill",
+    "PreloadGroupsKeys": [],
+    "Unk003": 49696754,
+    "Unk004": 4,
+    "Unk005": -1509917547
+  },
+  {
+    "RowIndex": 719,
+    "Id": "MTXCrabArmourCrabsOnKillCoconut",
+    "EffectVirtualPath": "Metadata/Effects/Microtransactions/on_kill/CrabArmour/CoconutCrabsOnKill",
+    "PreloadGroupsKeys": [],
+    "Unk003": 71468581,
+    "Unk004": 4,
+    "Unk005": -1614622258
+  }
+]

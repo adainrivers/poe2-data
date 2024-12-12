@@ -1,0 +1,25 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/harvester",
+  "Entries": {
+    "harvester_minion_resummon_speed_+%_final": {
+      "Descriptions": [
+        {
+          "Operator": "#|-1 table_only",
+          "Description": "[Minion] [Reviving|Revive] speed penalty@{0}%",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Skills can use your undead [Reviving] [Minion|Minions] in\\nplace of [Corpse|Corpses]\\n[Minion|Minions] [Reviving|Revive] {0}% more slowly",
+          "IsCanonical": false,
+          "Parameters": {
+            "negate": 1
+          }
+        }
+      ]
+    }
+  }
+}

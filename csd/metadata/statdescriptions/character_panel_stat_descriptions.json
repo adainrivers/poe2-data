@@ -1,0 +1,147 @@
+{
+  "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+  "Entries": {
+    "cannot_be_chilled": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cannot be Chilled",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "cannot_be_frozen": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cannot be Frozen",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "cannot_be_ignited": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cannot be Ignited",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "cannot_be_shocked": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cannot be Shocked",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "cannot_gain_bleeding": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Bleeding] cannot be inflicted on you",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "immune_to_chill": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Immune to Chill",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "immune_to_freeze": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Immune to Freeze",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "immune_to_ignite": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Immune to Ignite",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "immune_to_shock": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Immune to Shock",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "thorns_critical_hit_damage_bonus": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Thorns] [CriticalDamageBonus|Critical Damage Bonus]@+{0}%",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "thorns_critical_strike_chance": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "[Thorns] [Critical|Critical Hit] Chance@{0}%",
+          "IsCanonical": false,
+          "Parameters": {
+            "divide_by_one_hundred_2dp_if_required": 1
+          }
+        }
+      ]
+    },
+    "virtual_cannot_be_poisoned": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cannot be [Poison|Poisoned]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "virtual_immune_to_bleeding": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Immune to [Bleeding]",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    },
+    "virtual_immune_to_poison": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Immune to Poison",
+          "IsCanonical": false,
+          "Parameters": {}
+        }
+      ]
+    }
+  }
+}

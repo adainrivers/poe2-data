@@ -1,0 +1,302 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "NormalDoor",
+    "Unk001": "door",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 1,
+    "Id": "LockpickDoorIn",
+    "Unk001": "door_lockpick",
+    "HeistJobsKey1": {
+      "RowIndex": 0,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 2,
+    "Id": "LockpickDoorOut",
+    "Unk001": "door_lockpickout",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": {
+      "RowIndex": 0,
+      "TableName": "HeistJobs"
+    },
+    "Unk004": "security",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 3,
+    "Id": "BruteForceDoorIn",
+    "Unk001": "door_bruteforce",
+    "HeistJobsKey1": {
+      "RowIndex": 1,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 4,
+    "Id": "BruteForceDoorOut",
+    "Unk001": "door_bruteforceout",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": {
+      "RowIndex": 1,
+      "TableName": "HeistJobs"
+    },
+    "Unk004": "security",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 5,
+    "Id": "PerceptionDoorIn",
+    "Unk001": "door_perception",
+    "HeistJobsKey1": {
+      "RowIndex": 2,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 6,
+    "Id": "PerceptionDoorOut",
+    "Unk001": "door_perceptionout",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": {
+      "RowIndex": 2,
+      "TableName": "HeistJobs"
+    },
+    "Unk004": "security",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 7,
+    "Id": "DemolitionDoorIn",
+    "Unk001": "door_demolition",
+    "HeistJobsKey1": {
+      "RowIndex": 3,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 8,
+    "Id": "DemolitionDoorOut",
+    "Unk001": "door_demolitionout",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": {
+      "RowIndex": 3,
+      "TableName": "HeistJobs"
+    },
+    "Unk004": "security",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 9,
+    "Id": "CounterThaumaturgeDoorIn",
+    "Unk001": "door_countermagic",
+    "HeistJobsKey1": {
+      "RowIndex": 4,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 10,
+    "Id": "CounterThaumaturgeDoorIn",
+    "Unk001": "door_mindcontrol",
+    "HeistJobsKey1": {
+      "RowIndex": 4,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [
+      "FloorLever"
+    ],
+    "Unk007": 1,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 11,
+    "Id": "CounterThaumaturgeDoorOut",
+    "Unk001": "door_countermagic",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": {
+      "RowIndex": 4,
+      "TableName": "HeistJobs"
+    },
+    "Unk004": "security",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 12,
+    "Id": "TrapDisarmamentDoorIn",
+    "Unk001": "door_disarmament",
+    "HeistJobsKey1": {
+      "RowIndex": 5,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 13,
+    "Id": "TrapDisarmamentDoorOut",
+    "Unk001": "door_disarmamentout",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": {
+      "RowIndex": 5,
+      "TableName": "HeistJobs"
+    },
+    "Unk004": "security",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 14,
+    "Id": "AgilityDoorIn",
+    "Unk001": "door_agility",
+    "HeistJobsKey1": {
+      "RowIndex": 6,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [
+      "VentIn"
+    ],
+    "Unk006": [
+      "VentOut",
+      "FloorLever"
+    ],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 15,
+    "Id": "AgilityDoorOut",
+    "Unk001": "door",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 16,
+    "Id": "DeceptionDoorIn",
+    "Unk001": "door_deception",
+    "HeistJobsKey1": {
+      "RowIndex": 7,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [
+      "FloorLever"
+    ],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 17,
+    "Id": "DeceptionDoorOut",
+    "Unk001": "door",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 18,
+    "Id": "EngineeringDoorIn",
+    "Unk001": "door_engineering",
+    "HeistJobsKey1": {
+      "RowIndex": 8,
+      "TableName": "HeistJobs"
+    },
+    "HeistJobsKey2": null,
+    "Unk004": "",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  },
+  {
+    "RowIndex": 19,
+    "Id": "EngineeringDoorOut",
+    "Unk001": "door_engineeringout",
+    "HeistJobsKey1": null,
+    "HeistJobsKey2": {
+      "RowIndex": 8,
+      "TableName": "HeistJobs"
+    },
+    "Unk004": "security",
+    "Unk005": [],
+    "Unk006": [],
+    "Unk007": 0,
+    "HeistAreasKey": null
+  }
+]

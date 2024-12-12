@@ -1,0 +1,31 @@
+{
+  "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/shard_despoiler",
+  "Entries": {
+    "reload_ammo_on_effect_consume_with_x_ms_cooldown": {
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Minimum reload interval@{0}s",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        },
+        {
+          "Operator": "1000",
+          "Description": "Instantly reloads your [Crossbow] upon [Consume|Consuming]\\n[Freeze], [Shock], [Ignite], or [ArmourBreak|Fully Broken Armour], no more than\\nonce per second",
+          "IsCanonical": false,
+          "Parameters": {}
+        },
+        {
+          "Operator": "#",
+          "Description": "Instantly reloads your [Crossbow] upon [Consume|Consuming]\\n[Freeze], [Shock], [Ignite], or [ArmourBreak|Fully Broken Armour], no more than\\nonce every {0} seconds",
+          "IsCanonical": false,
+          "Parameters": {
+            "milliseconds_to_seconds_2dp_if_required": 1
+          }
+        }
+      ]
+    }
+  }
+}
