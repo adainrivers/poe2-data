@@ -1,2 +1,2 @@
-# Path of Exiles Data Dumps
+# Path of Exiles 2 Data Dumps
 
