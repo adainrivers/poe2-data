@@ -1,0 +1,506 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Gargantuans",
+    "Name": "Громадины",
+    "BestiaryGroupsKey": {
+      "RowIndex": 3,
+      "TableName": "BestiaryGroups",
+      "Id": "Ursa"
+    },
+    "Name2": "Громадина",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Gargantuans"
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Goatmen",
+    "Name": "Козероги",
+    "BestiaryGroupsKey": {
+      "RowIndex": 1,
+      "TableName": "BestiaryGroups",
+      "Id": "Primates"
+    },
+    "Name2": "Козерог",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Goatman"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "GoatShamans",
+    "Name": "Шаманы козерогов",
+    "BestiaryGroupsKey": {
+      "RowIndex": 1,
+      "TableName": "BestiaryGroups",
+      "Id": "Primates"
+    },
+    "Name2": "Шаман козерогов",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GoatShamans"
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Hellions",
+    "Name": "Адские львы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 0,
+      "TableName": "BestiaryGroups",
+      "Id": "Felines"
+    },
+    "Name2": "Адский лев",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hellions"
+  },
+  {
+    "RowIndex": 4,
+    "Id": "Wolves",
+    "Name": "Волки",
+    "BestiaryGroupsKey": {
+      "RowIndex": 2,
+      "TableName": "BestiaryGroups",
+      "Id": "Canines"
+    },
+    "Name2": "Волк",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 5,
+    "Id": "Apes",
+    "Name": "Приматы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 1,
+      "TableName": "BestiaryGroups",
+      "Id": "Primates"
+    },
+    "Name2": "Примат",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodMonkey"
+  },
+  {
+    "RowIndex": 6,
+    "Id": "Rhoas",
+    "Name": "Роа",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Роа",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Rhoa"
+  },
+  {
+    "RowIndex": 7,
+    "Id": "SandSpitters",
+    "Name": "Песчаные плевуны",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Песчаный плевун",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 8,
+    "Id": "SeaWitches",
+    "Name": "Морские ведьмы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 9,
+      "TableName": "BestiaryGroups",
+      "Id": "Cephalopod"
+    },
+    "Name2": "Морская ведьма",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Seawitch"
+  },
+  {
+    "RowIndex": 9,
+    "Id": "ShieldCrabs",
+    "Name": "Крепкие крабы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Крепкий краб",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/ShieldCrabs"
+  },
+  {
+    "RowIndex": 10,
+    "Id": "Snakes",
+    "Name": "Змеи",
+    "BestiaryGroupsKey": {
+      "RowIndex": 6,
+      "TableName": "BestiaryGroups",
+      "Id": "Reptiles"
+    },
+    "Name2": "Змея",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 11,
+    "Id": "Spawn",
+    "Name": "Выродки",
+    "BestiaryGroupsKey": {
+      "RowIndex": 9,
+      "TableName": "BestiaryGroups",
+      "Id": "Cephalopod"
+    },
+    "Name2": "Выродок",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Spiders",
+    "Name": "Пауки",
+    "BestiaryGroupsKey": {
+      "RowIndex": 8,
+      "TableName": "BestiaryGroups",
+      "Id": "Arachnids"
+    },
+    "Name2": "Паук",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiders"
+  },
+  {
+    "RowIndex": 13,
+    "Id": "Maws",
+    "Name": "Пасти",
+    "BestiaryGroupsKey": {
+      "RowIndex": 11,
+      "TableName": "BestiaryGroups",
+      "Id": "Amphibians"
+    },
+    "Name2": "Пасть",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Chimerals",
+    "Name": "Ящеры",
+    "BestiaryGroupsKey": {
+      "RowIndex": 6,
+      "TableName": "BestiaryGroups",
+      "Id": "Reptiles"
+    },
+    "Name2": "Ящер",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Iguana"
+  },
+  {
+    "RowIndex": 15,
+    "Id": "CarrionQueens",
+    "Name": "Матки трупоедов",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Матка трупоедов",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 16,
+    "Id": "CarrionInsects",
+    "Name": "Насекомые-трупоеды",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Насекомое-трупоед",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Retches",
+    "Name": "Рыгатели",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Рыгатель",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Goliaths",
+    "Name": "Исполины",
+    "BestiaryGroupsKey": {
+      "RowIndex": 4,
+      "TableName": "BestiaryGroups",
+      "Id": "Large Mammals"
+    },
+    "Name2": "Исполин",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiker"
+  },
+  {
+    "RowIndex": 19,
+    "Id": "Devourers",
+    "Name": "Пожиратели",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Пожиратель",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/RootSpider"
+  },
+  {
+    "RowIndex": 20,
+    "Id": "Watchers",
+    "Name": "Смотрители",
+    "BestiaryGroupsKey": {
+      "RowIndex": 9,
+      "TableName": "BestiaryGroups",
+      "Id": "Cephalopod"
+    },
+    "Name2": "Смотритель",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 21,
+    "Id": "PlummetingUrsae",
+    "Name": "Падучие медведи",
+    "BestiaryGroupsKey": {
+      "RowIndex": 3,
+      "TableName": "BestiaryGroups",
+      "Id": "Ursa"
+    },
+    "Name2": "Падучий медведь",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/DropBear"
+  },
+  {
+    "RowIndex": 22,
+    "Id": "Vultures",
+    "Name": "Грифы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Гриф",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Vulture"
+  },
+  {
+    "RowIndex": 23,
+    "Id": "Leapers",
+    "Name": "Прыгуны",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Прыгун",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 24,
+    "Id": "KaruiHounds",
+    "Name": "Гончие каруи",
+    "BestiaryGroupsKey": {
+      "RowIndex": 2,
+      "TableName": "BestiaryGroups",
+      "Id": "Canines"
+    },
+    "Name2": "Гончая каруи",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hound"
+  },
+  {
+    "RowIndex": 25,
+    "Id": "Pitbulls",
+    "Name": "Псы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 2,
+      "TableName": "BestiaryGroups",
+      "Id": "Canines"
+    },
+    "Name2": "Пёс",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Pitbull"
+  },
+  {
+    "RowIndex": 26,
+    "Id": "Cockerels",
+    "Name": "Задиры",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Задира",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Eyepecker"
+  },
+  {
+    "RowIndex": 27,
+    "Id": "Bulls",
+    "Name": "Быки",
+    "BestiaryGroupsKey": {
+      "RowIndex": 4,
+      "TableName": "BestiaryGroups",
+      "Id": "Large Mammals"
+    },
+    "Name2": "Бык",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Bull"
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ApeChieftains",
+    "Name": "Вожаки приматов",
+    "BestiaryGroupsKey": {
+      "RowIndex": 1,
+      "TableName": "BestiaryGroups",
+      "Id": "Primates"
+    },
+    "Name2": "Вожак приматов",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodChieftain"
+  },
+  {
+    "RowIndex": 29,
+    "Id": "Parasites",
+    "Name": "Паразиты",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Паразит",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 30,
+    "Id": "Crabs",
+    "Name": "Крабы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Краб",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 31,
+    "Id": "Hounds",
+    "Name": "Гончие",
+    "BestiaryGroupsKey": {
+      "RowIndex": 2,
+      "TableName": "BestiaryGroups",
+      "Id": "Canines"
+    },
+    "Name2": "Гончая",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 32,
+    "Id": "Lurchers",
+    "Name": "Ползуны",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Ползун",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Lurchers"
+  },
+  {
+    "RowIndex": 33,
+    "Id": "Arachnoscorpions",
+    "Name": "Арахноскорпионы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 8,
+      "TableName": "BestiaryGroups",
+      "Id": "Arachnids"
+    },
+    "Name2": "Арахноскорпион",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 34,
+    "Id": "Rhexes",
+    "Name": "Рексы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Рекс",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 35,
+    "Id": "Scorpions",
+    "Name": "Скорпионы",
+    "BestiaryGroupsKey": {
+      "RowIndex": 8,
+      "TableName": "BestiaryGroups",
+      "Id": "Arachnids"
+    },
+    "Name2": "Скорпион",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 36,
+    "Id": "Lynxes",
+    "Name": "Рыси",
+    "BestiaryGroupsKey": {
+      "RowIndex": 0,
+      "TableName": "BestiaryGroups",
+      "Id": "Felines"
+    },
+    "Name2": "Рысь",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 37,
+    "Id": "Tigers",
+    "Name": "Тигры",
+    "BestiaryGroupsKey": {
+      "RowIndex": 0,
+      "TableName": "BestiaryGroups",
+      "Id": "Felines"
+    },
+    "Name2": "Тигр",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 38,
+    "Id": "SpiderCrabs",
+    "Name": "Крабы-пауки",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Краб-паук",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 39,
+    "Id": "Octopuses",
+    "Name": "Осьминоги",
+    "BestiaryGroupsKey": {
+      "RowIndex": 9,
+      "TableName": "BestiaryGroups",
+      "Id": "Cephalopod"
+    },
+    "Name2": "Осьминог",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 40,
+    "Id": "GemFrog",
+    "Name": "Самоцветные лягушки",
+    "BestiaryGroupsKey": {
+      "RowIndex": 11,
+      "TableName": "BestiaryGroups",
+      "Id": "Amphibians"
+    },
+    "Name2": "Самоцветная лягушка",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 41,
+    "Id": "Frog",
+    "Name": "Лягушки",
+    "BestiaryGroupsKey": {
+      "RowIndex": 11,
+      "TableName": "BestiaryGroups",
+      "Id": "Amphibians"
+    },
+    "Name2": "Лягушка",
+    "Icon": ""
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ResolveArmour",
+    "Stat": {
+      "RowIndex": 18457,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_taken_+%_final_from_armour"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceArmour",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "緩和は決心喪失の一部を阻害する。緩和はアーマーによりスケールされる。"
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ResolveEvasion",
+    "Stat": {
+      "RowIndex": 18458,
+      "TableName": "Stats",
+      "Id": "chance_to_avoid_sanctum_damage_%"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEvasion",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "これは回避力でスケールされる。"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ResolveEnergyShield",
+    "Stat": {
+      "RowIndex": 18459,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_aegis_max_absorption"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShield",
+    "DefenceBrokenIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShieldBroken",
+    "BrokenStat": {
+      "RowIndex": 18460,
+      "TableName": "Stats",
+      "Id": "sanctum_aegis_broken"
+    },
+    "Description": "敵からのヒットにより喪失する決心の最大50%を、決心または勇気よりも先にイージスで受ける\n敵からのヒットにより決心が失われた時、イージスは壊れる。\nイージスは決心または勇気を喪失してから4秒後に即座に復元される。\n決心のイージスは最大エナジーシールドでスケールされる。"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ResolveArmour",
+    "Stat": {
+      "RowIndex": 18457,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_taken_+%_final_from_armour"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceArmour",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "การบรรเทา จะป้องกันการ สูญเสียความมุ่งมั่น ส่วนหนึ่งและจะเพิ่มผลตาม ค่าเกราะ ของคุณ"
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ResolveEvasion",
+    "Stat": {
+      "RowIndex": 18458,
+      "TableName": "Stats",
+      "Id": "chance_to_avoid_sanctum_damage_%"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEvasion",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "ค่านี้เพิ่มผลตาม อัตราการหลบหลีก ของคุณ"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ResolveEnergyShield",
+    "Stat": {
+      "RowIndex": 18459,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_aegis_max_absorption"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShield",
+    "DefenceBrokenIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShieldBroken",
+    "BrokenStat": {
+      "RowIndex": 18460,
+      "TableName": "Stats",
+      "Id": "sanctum_aegis_broken"
+    },
+    "Description": "รับการ สูญเสียความมุ่งมั่น สูงสุด 50% จากการปะทะของศัตรู ด้วยโล่เอจิสก่อน ความมุ่งมั่นหรือแรงบันดาลใจ\nโล่เอจิส จะหมดพลังเมื่อมีการ สูญเสียความมุ่งมั่น จากการปะทะของศัตรู\nโล่เอจิส จะฟื้นตัวขึ้นมาทันทีหลังจากที่ไม่มีการ สูญเสียความมุ่งมั่น ครบ 4 วินาที\nโล่เอจิส เพิ่มผลตาม โล่พลังงานสูงสุด ของคุณ"
+  }
+]

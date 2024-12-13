@@ -1,0 +1,524 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "PerformDance",
+    "Command": "танец",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ShowTimePlayed",
+    "Command": "сыграно",
+    "Unk002": true,
+    "EnglishCommand": "played",
+    "Description": "/сыграно показывает, сколько вы играете данным персонажем",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ShowCharacterAge",
+    "Command": "возраст",
+    "Unk002": true,
+    "EnglishCommand": "age",
+    "Description": "/возраст показывает, как давно вы создали этого персонажа",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ShowMonstersRemaining",
+    "Command": "осталось",
+    "Unk002": true,
+    "EnglishCommand": "remaining",
+    "Description": "/осталось отображает количество оставшихся монстров в области",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ShowDeaths",
+    "Command": "смерти",
+    "Unk002": true,
+    "EnglishCommand": "deaths",
+    "Description": "/смерти отображает количество ваших смертей",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ShowPvPStats",
+    "Command": "пвп",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ShowLadder",
+    "Command": "ладдер",
+    "Unk002": true,
+    "EnglishCommand": "ladder",
+    "Description": "/ладдер отображает топ-10 персонажей в текущем Ладдере",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ForceResync",
+    "Command": "синхрон",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 8,
+    "Id": "DestroyCursorItem",
+    "Command": "уничтожить",
+    "Unk002": true,
+    "EnglishCommand": "destroy",
+    "Description": "/уничтожить уничтожает предмет под курсором (будьте осторожны!)",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Whois",
+    "Command": "инфо",
+    "Unk002": true,
+    "EnglishCommand": "whois",
+    "Description": "/инфо отображает некоторую информацию о персонаже",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ShowHelp",
+    "Command": "помощь",
+    "Unk002": false,
+    "EnglishCommand": "help",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ShowCursorItemLevel",
+    "Command": "уровень",
+    "Unk002": true,
+    "EnglishCommand": "itemlevel",
+    "Description": "/уровень отображает уровень предмета под курсором",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 12,
+    "Id": "FixMyHelmet",
+    "Command": "правшлем",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 13,
+    "Id": "ReportBug",
+    "Command": "баг",
+    "Unk002": true,
+    "EnglishCommand": "bug",
+    "Description": "/баг сообщает о баге и даёт уникальный номер баг-репорта",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Debug",
+    "Command": "дебаг",
+    "Unk002": true,
+    "EnglishCommand": "debug",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Ignore1",
+    "Command": "игнор",
+    "Unk002": false,
+    "EnglishCommand": "ignore",
+    "Description": "/игнор игнорирует аккаунт по имени персонажа",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Ignore2",
+    "Command": "бан",
+    "Unk002": false,
+    "EnglishCommand": "squelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Unignore1",
+    "Command": "разыгнор",
+    "Unk002": false,
+    "EnglishCommand": "unignore",
+    "Description": "/разыгнор прекращает игнорировать аккаунт по имени персонажа",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Unignore2",
+    "Command": "разбан",
+    "Unk002": false,
+    "EnglishCommand": "unsquelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 19,
+    "Id": "ClearIgnoreList",
+    "Command": "очистить_игнор",
+    "Unk002": false,
+    "EnglishCommand": "clear_ignore_list",
+    "Description": "/очистить_игнор удаляет все контакты из списка игнорирования",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 20,
+    "Id": "SetStatus",
+    "Command": "статус",
+    "Unk002": false,
+    "EnglishCommand": "status",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 21,
+    "Id": "InviteToParty",
+    "Command": "пригласить",
+    "Unk002": false,
+    "EnglishCommand": "invite",
+    "Description": "/пригласить Приглашает игрока в вашу группу по имени персонажа",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 22,
+    "Id": "AddFriend",
+    "Command": "добавить_друга",
+    "Unk002": false,
+    "EnglishCommand": "friend",
+    "Description": "/добавить_друга Добавляет друга по имени",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 23,
+    "Id": "RemoveFriend",
+    "Command": "удалить_друга",
+    "Unk002": false,
+    "EnglishCommand": "unfriend",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AcceptFriend",
+    "Command": "принять",
+    "Unk002": false,
+    "EnglishCommand": "accept",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 25,
+    "Id": "KickPartyMember",
+    "Command": "кик",
+    "Unk002": false,
+    "EnglishCommand": "kick",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 26,
+    "Id": "SetPartyDescription",
+    "Command": "описание_группы",
+    "Unk002": false,
+    "EnglishCommand": "party_description",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 27,
+    "Id": "InitiateTrade",
+    "Command": "торговать",
+    "Unk002": false,
+    "EnglishCommand": "tradewith",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ClearMessage1",
+    "Command": "очистить_поле",
+    "Unk002": false,
+    "EnglishCommand": "cls",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 29,
+    "Id": "ClearMessage2",
+    "Command": "очистить",
+    "Unk002": false,
+    "EnglishCommand": "clear",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 30,
+    "Id": "ToggleNoChat1",
+    "Command": "безчата",
+    "Unk002": false,
+    "EnglishCommand": "nochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 31,
+    "Id": "ToggleNoChat2",
+    "Command": "выкл_чат",
+    "Unk002": false,
+    "EnglishCommand": "togglenochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 32,
+    "Id": "AutoReply",
+    "Command": "автоответ",
+    "Unk002": true,
+    "EnglishCommand": "autoreply",
+    "Description": "/autoreply [сообщение] Автоматически отвечает заданным сообщением на личные сообщения.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 33,
+    "Id": "SetAFK",
+    "Command": "афк",
+    "Unk002": true,
+    "EnglishCommand": "afk",
+    "Description": "/афк [сообщение] Авто-ответ на личные сообщения. Любое действие, даже использование чата, снимет статус \"отошёл\".",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 34,
+    "Id": "DoNotDisturb1",
+    "Command": "занят",
+    "Unk002": true,
+    "EnglishCommand": "dnd",
+    "Description": "/dnd [сообщение] Авто-ответ с уведомлением о том, что вы в статусе \"недоступен\". Также, полное игнорирование всех сообщений.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 35,
+    "Id": "DoNotDisturb2",
+    "Command": "занят",
+    "Unk002": true,
+    "EnglishCommand": "donotdisturb",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 36,
+    "Id": "ExitToCharacterSelection",
+    "Command": "выход",
+    "Unk002": false,
+    "EnglishCommand": "exit",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 37,
+    "Id": "SpectatePvP",
+    "Command": "наблюдать",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 38,
+    "Id": "SpectatePvPReturn",
+    "Command": "город",
+    "Unk002": true,
+    "EnglishCommand": "town",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 39,
+    "Id": "SetGlobalChatChannel",
+    "Command": "общий",
+    "Unk002": false,
+    "EnglishCommand": "global",
+    "Description": "/общий X изменяет глобальный чат на канал X.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 40,
+    "Id": "SetTradeChatChannel",
+    "Command": "торговля",
+    "Unk002": false,
+    "EnglishCommand": "trade",
+    "Description": "/торговля X изменяет чат Торговли на канал X.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 41,
+    "Id": "RecheckAchievements",
+    "Command": "достижения",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "/recheck_achievements перепроверяет наличие достижений.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 42,
+    "Id": "WarpToHideout",
+    "Command": "убежище",
+    "Unk002": true,
+    "EnglishCommand": "hideout",
+    "Description": "/hideout телепортирует вас в ваше личное убежище.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 43,
+    "Id": "WarpToGuildHideout",
+    "Command": "гильдия",
+    "Unk002": true,
+    "EnglishCommand": "guild",
+    "Description": "/guild телепортирует вас в убежище вашей гильдии.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 44,
+    "Id": "ResetExperiencePerHour",
+    "Command": "опыт",
+    "Unk002": false,
+    "EnglishCommand": "reset_xp",
+    "Description": "/опыт сбросит счётчик опыта в секунду.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 45,
+    "Id": "WarpToMenagerie",
+    "Command": "зверинец",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 46,
+    "Id": "WarpToDelveMineHub",
+    "Command": "спуск",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 47,
+    "Id": "SaveHideout",
+    "Command": "сохранить_убежище",
+    "Unk002": true,
+    "EnglishCommand": "save_hideout",
+    "Description": "/сохранить_убежище сохранит текущую раскладку убежища в файл, который позднее можно загрузить или поделиться с кем-либо.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 48,
+    "Id": "RecoverOldCraftingBenchItem",
+    "Command": "вернуть_предмет",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 49,
+    "Id": "ForceResyncPlayer",
+    "Command": "синхрон_меня",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 50,
+    "Id": "SetItemFilter",
+    "Command": "фильтр",
+    "Unk002": false,
+    "EnglishCommand": "itemfilter",
+    "Description": "/фильтр позволяет мгновенно переключиться на нужный фильтр предметов по его названию",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WarpToKiracVault",
+    "Command": "",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 52,
+    "Id": "ShowKills",
+    "Command": "убийства",
+    "Unk002": true,
+    "EnglishCommand": "kills",
+    "Description": "/убийства отображает число совершённых вами убийств, дарующих опыт",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 53,
+    "Id": "Feedback",
+    "Command": "отзыв",
+    "Unk002": false,
+    "EnglishCommand": "",
+    "Description": "/отзыв отправляет отзыв команде разработчиков",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 54,
+    "Id": "Flip",
+    "Command": "бросить",
+    "Unk002": true,
+    "EnglishCommand": "flip",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 55,
+    "Id": "LeaveParty",
+    "Command": "покинуть",
+    "Unk002": false,
+    "EnglishCommand": "leave",
+    "Description": "/покинуть Покидает текущую группу",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 56,
+    "Id": "ReloadItemFilter",
+    "Command": "обновитьфильтр",
+    "Unk002": false,
+    "EnglishCommand": "reloaditemfilter",
+    "Description": "",
+    "Unk005": false
+  },
+  {
+    "RowIndex": 57,
+    "Id": "WarpToSanctumEntrance",
+    "Command": "святилище",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  }
+]

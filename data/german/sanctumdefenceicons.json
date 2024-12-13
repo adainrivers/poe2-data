@@ -1,0 +1,45 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ResolveArmour",
+    "Stat": {
+      "RowIndex": 18457,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_taken_+%_final_from_armour"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceArmour",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "Minderung verhindert einen Teil des Willenskraft-Verlustes und skaliert mit Eurer Rüstung"
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ResolveEvasion",
+    "Stat": {
+      "RowIndex": 18458,
+      "TableName": "Stats",
+      "Id": "chance_to_avoid_sanctum_damage_%"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEvasion",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "Skaliert mit Eurem Ausweichwert"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ResolveEnergyShield",
+    "Stat": {
+      "RowIndex": 18459,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_aegis_max_absorption"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShield",
+    "DefenceBrokenIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShieldBroken",
+    "BrokenStat": {
+      "RowIndex": 18460,
+      "TableName": "Stats",
+      "Id": "sanctum_aegis_broken"
+    },
+    "Description": "Bis zu 50% von gegnerischen Treffern verlorene Willenskraft wird von der Obhut entfernt, bevor Willenskraft oder Inspiration verloren geht\nObhut wird gebrochen, wenn Willenskraft durch gegnerische Treffer verloren geht\nObhut wird sofort wiederhergestellt, nachdem 4 Sekunden lang keine Willenskraft verloren geht\nWillenskraft-Obhut skaliert mit Eurem maximalen Energieschild"
+  }
+]

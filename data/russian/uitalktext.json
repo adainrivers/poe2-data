@@ -1,0 +1,884 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Incursion_FirstIncursionGreeting",
+    "UITalkCategoriesKey": 1,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_04.ogg",
+    "Text": "Я придумала, как проложить путь к заброшенному храму. Есть одно заклинание на основе крови ваал. Видишь ли, такая кровь есть и во мне. Это заклинание отправит тебя в прошлое. Оказавшись там, держи портал открытым. Для этого надо перерезать пару подходящих глоток. Чем дольше ты там задержишься, тем больше я вызнаю о местонахождении храма. \r\n\r\nНайдя его в нашем времени, мы с тобой сможем не спеша и полностью его обчистить. Но для этого надо отыскать храм в настоящем, здесь и сейчас. Знай, что прошлое не терпи",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Incursion_FirstIncursionComplete",
+    "UITalkCategoriesKey": 2,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV05.ogg",
+    "Text": "Хорошо, что тебе удалось выжить при первом вмешательстве.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Incursion_FirstIncursionFarewell",
+    "UITalkCategoriesKey": 3,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV09.ogg",
+    "Text": "Видишь ли, заклятья на крови очень капризны. Их следует творить в определённых условиях: в нужные дни недели, при должном схождении звёзд... Всё такое. Я разыщу новое место для проведения следующего ритуала. Как найдёшь меня, так и продолжим!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Incursion_SecondIncursionGreeting",
+    "UITalkCategoriesKey": 4,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV10.ogg",
+    "Text": "Я знала, что ты меня найдёшь. Мы с тобой будто две монетки в одном кошельке. Твоя последняя вылазка чуть приблизила нас к нахождению храма, но впереди ещё долгий путь. Надеюсь, тебе не терпится продолжить!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 4,
+    "Id": "Incursion_SecondIncursionPortal",
+    "UITalkCategoriesKey": 5,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV12.ogg",
+    "Text": "Знакомое здание? В последний раз тебе довелось побывать именно здесь. С каждым новым вмешательством моя карта меняется. Если достаточно разберёмся, то сможем отыскать храм в настоящем!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 5,
+    "Id": "Incursion_GenericIncursionGreeting",
+    "UITalkCategoriesKey": 6,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV11.ogg",
+    "Text": "Вот и ты. Ну что, пора вернуться в прошлое? Чем больше ты убьёшь, тем сильнее изменится моя карта, и тем ближе мы станем к нахождению храма в настоящем.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 6,
+    "Id": "Incursion_GenericIncursionPortal_1",
+    "UITalkCategoriesKey": 7,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV13_A.ogg",
+    "Text": "Вот наш план.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 7,
+    "Id": "Incursion_GenericIncursionPortal_2",
+    "UITalkCategoriesKey": 7,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV13_B.ogg",
+    "Text": "Давай взглянем на планировку.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 8,
+    "Id": "Incursion_GenericIncursionPortal_3",
+    "UITalkCategoriesKey": 7,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV13_C.ogg",
+    "Text": "К любому вмешательству надо как следует готовиться.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Incursion_GenericIncursionPortal_4",
+    "UITalkCategoriesKey": 7,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV13_D.ogg",
+    "Text": "Смотри, куда ты направишься.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 10,
+    "Id": "Incursion_GenericIncursionComplete_1",
+    "UITalkCategoriesKey": 8,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV14_A.ogg",
+    "Text": "Молодец.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 11,
+    "Id": "Incursion_GenericIncursionComplete_2",
+    "UITalkCategoriesKey": 8,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV14_B.ogg",
+    "Text": "Ты молодец.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Incursion_GenericIncursionFarewell",
+    "UITalkCategoriesKey": 9,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV19.ogg",
+    "Text": "С каждым разом очертания храма становятся всё отчётливее! Отыщи меня, тогда и продолжим.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 13,
+    "Id": "Incursion_TempleIsOpenFarewell",
+    "UITalkCategoriesKey": 10,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV20.ogg",
+    "Text": "Теперь понятно, где находится храм! Как следует подготовься к походу. Скажи, как соберёшься выходить. Тогда и отправимся. Я открою другой портал и проведу нас внутрь.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Incursion_TempleOpenGreeting",
+    "UITalkCategoriesKey": 11,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV23.ogg",
+    "Text": "У меня получилось! То есть, у нас. Теперь понятно, где находится храм! Смотри куда идёшь и держи ухо востро. Пусть мы и повлияли на постройку храма, мало ли что могло измениться за две тысячи лет. Никто не знает, что за существа успели обжить эти развалины...",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Incursion_TemplePortal",
+    "UITalkCategoriesKey": 12,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV22.ogg",
+    "Text": "Надеюсь, у тебя вместительные сумки. Сегодня нас ожидает царская награда!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Incursion_ArmourRoom1",
+    "UITalkCategoriesKey": 13,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV39.ogg",
+    "Text": "В этом зале Архитектор железа устроил кузню. Смотри не попадись под руку железнопанцирным.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Incursion_ArmourRoom2",
+    "UITalkCategoriesKey": 14,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV40.ogg",
+    "Text": "Благодаря тебе Атмохва наладил производство доспехов. Все обитатели храма выиграют от его покровительства.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Incursion_ArmourRoom3",
+    "UITalkCategoriesKey": 15,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV41.ogg",
+    "Text": "Твоими стараниями зал наполнится защитниками с крепчайшей бронёй. Ума не приложу, зачем тебе это. Хотя, может быть, мы сможем продать броню на лом.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 19,
+    "Id": "Incursion_BreachRoom1",
+    "UITalkCategoriesKey": 16,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV42.ogg",
+    "Text": "Стало быть, Архитектор разлома остался в живых. Я... честно говоря, даже представить не могу, что он сотворит с этим залом.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 20,
+    "Id": "Incursion_BreachRoom2",
+    "UITalkCategoriesKey": 17,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV43.ogg",
+    "Text": "Что бы Зильквапа ни нашёл в этом зале, благодаря тебе он своего не упустил. Слегка рискованно, но ведь без риска нет награды.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 21,
+    "Id": "Incursion_BreachRoom3",
+    "UITalkCategoriesKey": 18,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV44.ogg",
+    "Text": "Чудно. Безумие Зильквапы пустило в храм мистических…<italic>{тварей}. Ты это специально, или пора аплодировать твоему безрассудству?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 22,
+    "Id": "Incursion_BreedingRoom1",
+    "UITalkCategoriesKey": 19,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV45.ogg",
+    "Text": "Оставить зал этому архитектору — мудрое решение. Чем больше крови мы прольём, тем дольше задержимся в великом храме. А вот и твои трофеи!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 23,
+    "Id": "Incursion_BreedingRoom2",
+    "UITalkCategoriesKey": 20,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV46.ogg",
+    "Text": "Без соперника войско Чолотля станет прирастать ещё быстрее. Уверена, ты справишься и с этим.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 24,
+    "Id": "Incursion_BreedingRoom3",
+    "UITalkCategoriesKey": 21,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV47.ogg",
+    "Text": "Из-за тебя Чолотль превратил зал в прибежище для самых кровожадных ваал. Надеюсь, нам это не аукнется.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 25,
+    "Id": "Incursion_CartographyRoom1",
+    "UITalkCategoriesKey": 22,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV48.ogg",
+    "Text": "Теперь у Архитектора завоеваний есть плацдарм для изучения Рэкласта.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 26,
+    "Id": "Incursion_CartographyRoom2",
+    "UITalkCategoriesKey": 23,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV49.ogg",
+    "Text": "Уромоти с удовольствием пустит ресурсы погибшего соперника на дальнейшее исследование земель для ваал.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 27,
+    "Id": "Incursion_CartographyRoom3",
+    "UITalkCategoriesKey": 24,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV50.ogg",
+    "Text": "Исследования Уромоти приняли невиданный размах. Что же он ищет? Разве <italic>{осталось} хоть что-то неизведанное?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 28,
+    "Id": "Incursion_ChestsRoom1",
+    "UITalkCategoriesKey": 25,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV51.ogg",
+    "Text": "Благодаря тебе у Архитектора складов стало больше места для хранения «находок».",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 29,
+    "Id": "Incursion_ChestsRoom2",
+    "UITalkCategoriesKey": 26,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV52.ogg",
+    "Text": "Когда соперник убрался с пути, у Ваталотли стало куда больше места для хранения странной коллекции.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 30,
+    "Id": "Incursion_ChestsRoom3",
+    "UITalkCategoriesKey": 27,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV53.ogg",
+    "Text": "Со смертью соперника Архитектор складов доверху наполнит зал всевозможными ценностями. Мудрый ход.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 31,
+    "Id": "Incursion_CorruptionRoom1",
+    "UITalkCategoriesKey": 28,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV54.ogg",
+    "Text": "Архитектор осквернения отвёл этот зал под свои гнусные эксперименты.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 32,
+    "Id": "Incursion_CorruptionRoom2",
+    "UITalkCategoriesKey": 29,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV55.ogg",
+    "Text": "Паквате использовал своё возросшее влияние и влил в этот зал новую скверну.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 33,
+    "Id": "Incursion_CorruptionRoom3",
+    "UITalkCategoriesKey": 30,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV56.ogg",
+    "Text": "Его скверна становится всё сильнее. Но ведь для тебя это не новость?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 34,
+    "Id": "Incursion_CurrencyRoom1",
+    "UITalkCategoriesKey": 31,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV57.ogg",
+    "Text": "Зал отошёл Архитектору хранилища? Это <italic>{прекрасная} новость!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 35,
+    "Id": "Incursion_CurrencyRoom2",
+    "UITalkCategoriesKey": 32,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV58.ogg",
+    "Text": "Раз его врага больше нет, Эстазунти сможет набить зал новыми богатствами.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 36,
+    "Id": "Incursion_CurrencyRoom3",
+    "UITalkCategoriesKey": 33,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV59.ogg",
+    "Text": "Давай заключим пари? Ставлю на то, что Эстазунти успел завалить этот зал сокровищами и драгоценностями. Правда ведь чудесная мысль?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 37,
+    "Id": "Incursion_HatcheryRoom1",
+    "UITalkCategoriesKey": 34,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV60.ogg",
+    "Text": "Благодаря тебе в зале обосновался Ситаквалотль, Архитектор роя... проводит там жуткие эксперименты.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 38,
+    "Id": "Incursion_HatcheryRoom2",
+    "UITalkCategoriesKey": 35,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV61.ogg",
+    "Text": "С исчезновением угрозы Ситаквалотль переключился на создание движущихся механизмов из неведомых металлов.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 39,
+    "Id": "Incursion_HatcheryRoom3",
+    "UITalkCategoriesKey": 36,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV62.ogg",
+    "Text": "Так сбрендивший учёный решил объединить металл и насекомых? Хорошо бы к нашему возвращению они давно разбежались.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 40,
+    "Id": "Incursion_FlameRoom1",
+    "UITalkCategoriesKey": 37,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV63.ogg",
+    "Text": "В этом зале Архитектор горна трудится в россыпях искр и клубах пара.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 41,
+    "Id": "Incursion_FlameRoom2",
+    "UITalkCategoriesKey": 38,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV64.ogg",
+    "Text": "Молот Пухварте будет и дальше стучать в изнуряюще жаркой темноте. Скажи, на то были причины?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 42,
+    "Id": "Incursion_FlameRoom3",
+    "UITalkCategoriesKey": 39,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV65.ogg",
+    "Text": "Твои действия позволили Пухварте воплотить свои самые смелые мечты. Кто знает, что за страшные устройства он выковал в этом пламени?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 43,
+    "Id": "Incursion_LightningRoom1",
+    "UITalkCategoriesKey": 40,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV66.ogg",
+    "Text": "Этот зал отошёл Архитектору силы и светится от переполняющей его энергии Шопека.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 44,
+    "Id": "Incursion_LightningRoom2",
+    "UITalkCategoriesKey": 41,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV67.ogg",
+    "Text": "В этом зале эксперименты Шопека с электрическими токами жизни достигли своего апогея.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 45,
+    "Id": "Incursion_LightningRoom3",
+    "UITalkCategoriesKey": 42,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV68.ogg",
+    "Text": "Твоими стараниями Шопек набрался сил. Даже интересно, насколько могущественным он стал в настоящем?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 46,
+    "Id": "Incursion_EmpoweringRoom1",
+    "UITalkCategoriesKey": 43,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV69.ogg",
+    "Text": "О-о, комнатка отошла Квиполатлю! Интересный выбор. Ты никогда не ищешь лёгких путей?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 47,
+    "Id": "Incursion_EmpoweringRoom2",
+    "UITalkCategoriesKey": 44,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV70.ogg",
+    "Text": "Квиполатль готов думать только о сопряжении и теперь может себе это позволить.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 48,
+    "Id": "Incursion_EmpoweringRoom3",
+    "UITalkCategoriesKey": 45,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV71.ogg",
+    "Text": "Великие боги! Ты что, хочешь загнать нас в могилу? Кто знает, какой окажется эта часть храма в будущем!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 49,
+    "Id": "Incursion_ExplosivesRoom1",
+    "UITalkCategoriesKey": 46,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV72.ogg",
+    "Text": "Хайоши интересуют только громкие <italic>{бабахи}. Передача зала ему... может помочь нам.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 50,
+    "Id": "Incursion_ExplosivesRoom2",
+    "UITalkCategoriesKey": 47,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV73.ogg",
+    "Text": "Вы с Хайоши определённо питаете одинаковую страсть к хаосу. Играя ему на руку, ты только увеличиваешь его запас взрывчатки.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 51,
+    "Id": "Incursion_ExplosivesRoom3",
+    "UITalkCategoriesKey": 48,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV74.ogg",
+    "Text": "Теперь сумасшедшему ублюдку хватит взрывчатки, чтобы снести храм целиком.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 52,
+    "Id": "Incursion_GemRoom1",
+    "UITalkCategoriesKey": 49,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV75.ogg",
+    "Text": "Залатль наверняка вознаградит нас за помещение... пусть и сам того не желая.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 53,
+    "Id": "Incursion_GemRoom2",
+    "UITalkCategoriesKey": 50,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV76.ogg",
+    "Text": "Я смотрю, вы с Архитектором волшебства одинаково влюблены в самоцветы.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 54,
+    "Id": "Incursion_GemRoom3",
+    "UITalkCategoriesKey": 51,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV77.ogg",
+    "Text": "Этот зал стоит назвать шкатулкой с каменьями Залатля! Ты хоть понимаешь, сколько они будут стоить в наше время?!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 55,
+    "Id": "Incursion_HealingRoom1",
+    "UITalkCategoriesKey": 52,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV78.ogg",
+    "Text": "Какие благостные токи пронизывают этот зал. Ох и жалко будет, когда Гвателитзи их очернит. Но, пожалуй, что ни делается, всё к лучшему.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 56,
+    "Id": "Incursion_HealingRoom2",
+    "UITalkCategoriesKey": 53,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV79.ogg",
+    "Text": "Это место купается в очаровании... Ах, эти замечательные ваал... И всё же Архитектор плоти может в будущем сыграть нам на руку.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 57,
+    "Id": "Incursion_HealingRoom3",
+    "UITalkCategoriesKey": 54,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV80.ogg",
+    "Text": "Гвателитзи определённо решил устроиться здесь надолго. Будем надеяться, что в наши дни это обернётся чем-нибудь хорошим.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 58,
+    "Id": "Incursion_PoisonRoom1",
+    "UITalkCategoriesKey": 55,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV81.ogg",
+    "Text": "Архитектор токсинов. Фу! Я бы такому творцу эту часть храма не отдала…",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 59,
+    "Id": "Incursion_PoisonRoom2",
+    "UITalkCategoriesKey": 56,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV82.ogg",
+    "Text": "Вижу, растения Такати совсем распоясались. Боги, надеюсь ты знаешь, что делаешь...",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 60,
+    "Id": "Incursion_PoisonRoom3",
+    "UITalkCategoriesKey": 57,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV83.ogg",
+    "Text": "У Такати не осталось врагов. Теперь он может сколько угодно возиться с мерзкими ядами. Не хочется отравиться, знаешь ли.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 61,
+    "Id": "Incursion_QueenRoom1",
+    "UITalkCategoriesKey": 58,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV84.ogg",
+    "Text": "Именем царицы её архитектор забрал этот зал себе.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 62,
+    "Id": "Incursion_QueenRoom2",
+    "UITalkCategoriesKey": 59,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV85.ogg",
+    "Text": "Похоже, Шипокадо исполнен рвения превратить этот зал в царские покои, а ты ему в этом способствуешь.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 63,
+    "Id": "Incursion_QueenRoom3",
+    "UITalkCategoriesKey": 60,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV86.ogg",
+    "Text": "Угадай, чей зад примостится на троне в палатах, которые Царский архитектор обустроил благодаря тебе?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 64,
+    "Id": "Incursion_SacrificeRoom1",
+    "UITalkCategoriesKey": 61,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV87.ogg",
+    "Text": "Ты... Из-за тебя зал достался Архитектору церемоний? Организатору жертвоприношений, которым несть числа?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 65,
+    "Id": "Incursion_SacrificeRoom2",
+    "UITalkCategoriesKey": 62,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV88.ogg",
+    "Text": "Соперник Ахваны мёртв. Теперь архитектор получит больше ресурсов на проведение кровавых жертвоприношений во славу ложных богов и своей глупой царицы.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 66,
+    "Id": "Incursion_SacrificeRoom3",
+    "UITalkCategoriesKey": 63,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV89.ogg",
+    "Text": "Кровь жертв Ахваны — на твоих руках. И этой крови будет много.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 67,
+    "Id": "Incursion_TempestRoom1",
+    "UITalkCategoriesKey": 64,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV90.ogg",
+    "Text": "Этот Топотанте — бурный деятель. Во всех смыслах. Но если хочешь оставить зал ему, то что я могу возразить?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 68,
+    "Id": "Incursion_TempestRoom2",
+    "UITalkCategoriesKey": 65,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV91.ogg",
+    "Text": "Это помещение продувают ветра перемен. Архитектор бурь будет только рад пользоваться плодами твоего гнева.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 69,
+    "Id": "Incursion_TempestRoom3",
+    "UITalkCategoriesKey": 66,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV92.ogg",
+    "Text": "Хочешь дождаться бури тысячелетия? Хоть бы в будущем она не обернулась катастрофой.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 70,
+    "Id": "Incursion_TrapsRoom1",
+    "UITalkCategoriesKey": 67,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV93.ogg",
+    "Text": "С твоим уходом зал достался Архитектору укреплений. Ты ведь понимаешь, зачем нужны укрепления? Мы же собираемся штурмовать храм.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 71,
+    "Id": "Incursion_TrapsRoom2",
+    "UITalkCategoriesKey": 68,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV94.ogg",
+    "Text": "Соперник Мататля пал от твоей руки. Теперь архитектор получит все нужные материалы и доверху наполнит храм ловушками. Нам придётся их обходить.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 72,
+    "Id": "Incursion_TrapsRoom3",
+    "UITalkCategoriesKey": 69,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV95.ogg",
+    "Text": "Мататль не погиб от твоей руки. В благодарность за сохранённую жизнь он всюду расставит ловушки. Мне кажется, твой план не до конца продуман…",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 73,
+    "Id": "Incursion_TrinketsRoom1",
+    "UITalkCategoriesKey": 70,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV96.ogg",
+    "Text": "Архитектор гильдии был известным ювелиром. С таким Ацоатль наверняка засверкает.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 74,
+    "Id": "Incursion_TrinketsRoom2",
+    "UITalkCategoriesKey": 71,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV97.ogg",
+    "Text": "Противник Азкапы мёртв? Я уже слышу звон рассыпающихся по полу украшений. Скорее бы найти храм.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 75,
+    "Id": "Incursion_TrinketsRoom3",
+    "UITalkCategoriesKey": 72,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV98.ogg",
+    "Text": "Азкапа до сих пор жив? Ты знаешь, как сделать женщину <italic>{очень} счастливой. Счастливой и богатой.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 76,
+    "Id": "IncursionWeaponsRoom1",
+    "UITalkCategoriesKey": 73,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV99.ogg",
+    "Text": "Тикаба обожал гладиаторские бои. Если он останется жить, оружия в храме будет предостаточно.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 77,
+    "Id": "IncursionWeaponsRoom2",
+    "UITalkCategoriesKey": 74,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV100.ogg",
+    "Text": "Кровь ваал лучше всего проливать на арене. А лучшим заправилой арен всегда был архитектор Тикаба.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 78,
+    "Id": "IncursionWeaponsRoom3",
+    "UITalkCategoriesKey": 75,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV101.ogg",
+    "Text": "Значит, Тикаба и дальше пребывает в тени своих лучших бойцов арены... Лишь бы вечность наградила нас за твои поступки.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 79,
+    "Id": "IncursionWorkshopRoom1",
+    "UITalkCategoriesKey": 76,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV102.ogg",
+    "Text": "Джиквани был одержим поиском новых и непривычных способов свершения дел. Если оставить такого в живых, это наверняка обернётся чем-нибудь интересным.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 80,
+    "Id": "IncursionWorkshopRoom2",
+    "UITalkCategoriesKey": 77,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV103.ogg",
+    "Text": "Джиквани получил свой титул не за красивые глаза. Он был очень изобретателен и потому оставался на коне... и в живых.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 81,
+    "Id": "IncursionWorkshopRoom3",
+    "UITalkCategoriesKey": 78,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV104.ogg",
+    "Text": "Честно говоря, я ужасно хочу увидеть последствия твоего решения оставить поганца в живых. Секрет? Ладно. Подожду.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 82,
+    "Id": "Incursion_ConnectionsChanged1",
+    "UITalkCategoriesKey": 79,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV18_A_1.ogg",
+    "Text": "Залы соединены новыми переходами!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 83,
+    "Id": "Incursion_ConnectionsChanged2",
+    "UITalkCategoriesKey": 79,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV35_A.ogg",
+    "Text": "О, тебе открылись новые пути!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 84,
+    "Id": "Incursion_ConnectionsChanged3",
+    "UITalkCategoriesKey": 79,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV35_B.ogg",
+    "Text": "Теперь блуждать по храму станет проще!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 85,
+    "Id": "Incursion_ConnectionsChanged4",
+    "UITalkCategoriesKey": 79,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV35_C.ogg",
+    "Text": "Открытые двери помогут нам в будущем.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 86,
+    "Id": "Incursion_GenericNothingChanged1",
+    "UITalkCategoriesKey": 80,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV17_A.ogg",
+    "Text": "Хм-м... Боюсь, в этот раз не повезло. Карта не изменилась. Это не плохо, но ведь и не хорошо. Продолжай пытаться.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 87,
+    "Id": "Incursion_GenericNothingChanged2",
+    "UITalkCategoriesKey": 80,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV17_B.ogg",
+    "Text": "Нет! Никаких изменений. Продолжай пытаться. Чем больше ты изменишь, тем больше мы узнаем.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 88,
+    "Id": "Incursion_GenericNothingChanged3",
+    "UITalkCategoriesKey": 80,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV17_C.ogg",
+    "Text": "Хм-м, никаких изменений. Надеюсь, это тебе и требовалось!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 89,
+    "Id": "Incursion_StrongboxRoom1",
+    "UITalkCategoriesKey": 81,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_13.ogg",
+    "Text": "Зантипи был правильным архитектором! Он постоянно набивал сундуки ценностями, хоть и обкладывал их потом всевозможными ловушками.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 90,
+    "Id": "Incursion_StrongboxRoom2",
+    "UITalkCategoriesKey": 82,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_14.ogg",
+    "Text": "С ростом влияния Зантипи в храме наверняка станет более опасно, но и в сундуках будут лежать сокровища подороже.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 91,
+    "Id": "Incursion_StrongboxRoom3",
+    "UITalkCategoriesKey": 83,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_15.ogg",
+    "Text": "Это же целый зал, битком набитый опасными ларями, которые ломятся от богатств. Ты лучше всех!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 92,
+    "Id": "Incursion_TormentRoom1",
+    "UITalkCategoriesKey": 84,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_09.ogg",
+    "Text": "Цамото обладал искажённым чувством справедливости. Он приберегал казнь только для особо жестоких преступников... а всякую мелочь просто бросал в темницы до конца дней.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 93,
+    "Id": "Incursion_TormentRoom2",
+    "UITalkCategoriesKey": 85,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_10.ogg",
+    "Text": "Наверное, у тебя есть причины желать увеличения темницы Цамото, но я убей не могу понять, какие.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 94,
+    "Id": "Incursion_TormentRoom3",
+    "UITalkCategoriesKey": 86,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_11.ogg",
+    "Text": "Теперь темница Цамото огромна и под завязку набита преступниками. Заключёнными без гроша в кармане. Чудесно. Вот спасибо.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 95,
+    "Id": "Incursion_LegionRoom1",
+    "UITalkCategoriesKey": 87,
+    "OGGFile": "",
+    "Text": "Зал достался Опилоти? Он был крайне жестоким воеводой. Я надеюсь, ты знаешь, что делаешь!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 96,
+    "Id": "Incursion_LegionRoom2",
+    "UITalkCategoriesKey": 88,
+    "OGGFile": "",
+    "Text": "По сегодняшним меркам ваал считаются мирными. Но тех, кому насилие было в радость, среди них тоже хватало. И одному такому человеку ты только что дал как раз то, что он хочет.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 97,
+    "Id": "Incursion_LegionRoom3",
+    "UITalkCategoriesKey": 89,
+    "OGGFile": "",
+    "Text": "Опилоти проливал кровь лучших из своих воинов. Он верил, что этим дарует им бессмертие. Вот скоро и увидим, прав ли он был!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ResolveArmour",
+    "Stat": {
+      "RowIndex": 18457,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_taken_+%_final_from_armour"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceArmour",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "A Mitigação nega uma porção da perda de Determinação e é escalonada com sua Armadura"
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ResolveEvasion",
+    "Stat": {
+      "RowIndex": 18458,
+      "TableName": "Stats",
+      "Id": "chance_to_avoid_sanctum_damage_%"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEvasion",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "Escalonado com sua Evasão"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ResolveEnergyShield",
+    "Stat": {
+      "RowIndex": 18459,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_aegis_max_absorption"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShield",
+    "DefenceBrokenIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShieldBroken",
+    "BrokenStat": {
+      "RowIndex": 18460,
+      "TableName": "Stats",
+      "Id": "sanctum_aegis_broken"
+    },
+    "Description": "Até 50% da perda de Determinação dos Acertos Inimigos é removida da Égide antes da Determinação ou Inspiração\nA Égide é quebrada quando qualquer Determinação for perdida  com Acertos Inimigos\nA Égide é restaurada instantaneamente após 4 segundos sem perda de Determinação\nA Égide da Determinação é escalonada com seu Escudo de Energia máximo"
+  }
+]

@@ -1,0 +1,5157 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AfflictionMonsterMoreDamage",
+    "Stats": [
+      {
+        "RowIndex": 15391,
+        "TableName": "Stats",
+        "Id": "map_monster_damage_+%_final_from_deadly_atlas"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "날카로운 발톱",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHonedClawsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHonedClaws",
+    "BoonDesc": "",
+    "CurseDesc": "몬스터가 주는 피해 30% 증폭",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62326
+  },
+  {
+    "RowIndex": 1,
+    "Id": "BoonMonsterLessDamage",
+    "Stats": [
+      {
+        "RowIndex": 15390,
+        "TableName": "Stats",
+        "Id": "map_monster_damage_+%_final_from_vital_atlas"
+      }
+    ],
+    "StatValues": [
+      -20
+    ],
+    "Name": "섬뜩한 가면",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFrightMaskIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFrightMask",
+    "BoonDesc": "몬스터가 주는 피해 20% 감폭",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 15442
+  },
+  {
+    "RowIndex": 2,
+    "Id": "AfflictionTrapDamageMajor",
+    "Stats": [
+      {
+        "RowIndex": 19329,
+        "TableName": "Stats",
+        "Id": "map_sanctum_traps_always_deal_triple_damage"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "치명적인 올가미",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHeightenedSecurityIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHeightenedSecurity",
+    "BoonDesc": "",
+    "CurseDesc": "덫이 3배의 피해를 줌",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41921
+  },
+  {
+    "RowIndex": 3,
+    "Id": "AfflictionTrapDamage",
+    "Stats": [
+      {
+        "RowIndex": 19330,
+        "TableName": "Stats",
+        "Id": "map_sanctum_traps_damage_+%"
+      }
+    ],
+    "StatValues": [
+      100
+    ],
+    "Name": "어두운 구덩이",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDarkPitIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDarkPit",
+    "BoonDesc": "",
+    "CurseDesc": "덫이 주는 피해 100% 증가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62584
+  },
+  {
+    "RowIndex": 4,
+    "Id": "AfflictionLessSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16329,
+        "TableName": "Stats",
+        "Id": "map_sanctum_currency_found_+%_final_from_sanctum_curse"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "수위가 낮은 강",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLowRiversIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLowRivers",
+    "BoonDesc": "",
+    "CurseDesc": "발견하는 [SacredWater|신성한 물] 50% 감폭",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 21680
+  },
+  {
+    "RowIndex": 5,
+    "Id": "AfflictionLessDamage",
+    "Stats": [
+      {
+        "RowIndex": 16330,
+        "TableName": "Stats",
+        "Id": "map_player_damage_+%_final_from_sanctum_curse"
+      }
+    ],
+    "StatValues": [
+      -40
+    ],
+    "Name": "뭉툭한 검",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBluntSwordIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBluntSword",
+    "BoonDesc": "",
+    "CurseDesc": "플레이어와 플레이어의 소환수가 주는 피해 40% 감폭",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 40008
+  },
+  {
+    "RowIndex": 6,
+    "Id": "AfflictionTrapSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16321,
+        "TableName": "Stats",
+        "Id": "sanctum_hazards_are_faster"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "신속한 유사",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRapidQuicksandIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRapidQuicksand",
+    "BoonDesc": "",
+    "CurseDesc": "덫이 빨라짐",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 56047
+  },
+  {
+    "RowIndex": 7,
+    "Id": "AfflictionTrapVolatiles",
+    "Stats": [
+      {
+        "RowIndex": 16323,
+        "TableName": "Stats",
+        "Id": "sanctum_has_volatiles"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "이형 유인기",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseAnomalyAttractorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseAnomalyAttractor",
+    "BoonDesc": "",
+    "CurseDesc": "방이 [Volatiles|폭발성] 이형 생성",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 8,
+    "Id": "BoonMovementSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5555,
+        "TableName": "Stats",
+        "Id": "map_players_movement_speed_+%"
+      }
+    ],
+    "StatValues": [
+      40
+    ],
+    "Name": "산토끼 발",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHareFootIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHareFoot",
+    "BoonDesc": "이동 속도 40% 증가",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13820
+  },
+  {
+    "RowIndex": 9,
+    "Id": "BoonMoreSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16387,
+        "TableName": "Stats",
+        "Id": "map_sanctum_currency_found_+%_final_from_sanctum_boon"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "범람하는 강",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiver",
+    "BoonDesc": "발견하는 [SacredWater|신성한 물] 50% 증폭",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44476
+  },
+  {
+    "RowIndex": 10,
+    "Id": "BoonGainSacredWaterWhenDamaged",
+    "Stats": [
+      {
+        "RowIndex": 16388,
+        "TableName": "Stats",
+        "Id": "gain_x_sanctum_gold_when_taking_sanctum_hit_damage"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "배상",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentGiftIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentGift",
+    "BoonDesc": "적 [HitDamage|명중]으로 피해를 받으면 [SacredWater|신성한 물] 2개 획득",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 46242
+  },
+  {
+    "RowIndex": 11,
+    "Id": "AfflictionLoseSacredWaterWhenDamaged",
+    "Stats": [
+      {
+        "RowIndex": 16390,
+        "TableName": "Stats",
+        "Id": "lose_x_sanctum_gold_when_taking_sanctum_hit_damage"
+      }
+    ],
+    "StatValues": [
+      20
+    ],
+    "Name": "새는 물주머니",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLeakingWaterskinIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLeakingWaterskin",
+    "BoonDesc": "",
+    "CurseDesc": "적 [HitDamage|명중]으로 피해를 받으면 [SacredWater|신성한 물] 20개 상실",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 61003
+  },
+  {
+    "RowIndex": 12,
+    "Id": "AfflictionLoseSacredWaterOnRoomComplete",
+    "Stats": [
+      {
+        "RowIndex": 16391,
+        "TableName": "Stats",
+        "Id": "lose_x_sanctum_gold_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "통행세",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionGateTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionGateToll",
+    "BoonDesc": "",
+    "CurseDesc": "방 완료 시 [SacredWater|신성한 물] 30개 상실",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35767
+  },
+  {
+    "RowIndex": 13,
+    "Id": "AfflictionNoSacredWaterFromMonsters",
+    "Stats": [
+      {
+        "RowIndex": 16392,
+        "TableName": "Stats",
+        "Id": "sanctum_no_gold_from_monsters"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "몬스터가 [SacredWater|신성한 물]을 떨어뜨리지 않음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 14,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      8
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 15,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms7"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "방 {0}개 완료 후 [Physical|물리] 피해를 {1} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 15,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms7",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      7
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 16,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms6"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "방 {0}개 완료 후 [Physical|물리] 피해를 {1} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 16,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms6",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      6
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 17,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms5"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "방 {0}개 완료 후 [Physical|물리] 피해를 {1} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 17,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms5",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      5
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 18,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms4"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "방 {0}개 완료 후 [Physical|물리] 피해를 {1} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 18,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms4",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      4
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 19,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms3"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "방 {0}개 완료 후 [Physical|물리] 피해를 {1} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 19,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms3",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      3
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 20,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms2"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "방 {0}개 완료 후 [Physical|물리] 피해를 {1} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 20,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms2",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      2
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 21,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms1"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "방 {0}개 완료 후 [Physical|물리] 피해를 {1} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 21,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms1",
+    "Stats": [
+      {
+        "RowIndex": 17035,
+        "TableName": "Stats",
+        "Id": "sanctum_take_damage_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      250
+    ],
+    "Name": "죽음의 대가",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "다음 방 완료 후 [Physical|물리] 피해를 {0} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 22,
+    "Id": "AfflictionNoSacredWaterFromChests",
+    "Stats": [
+      {
+        "RowIndex": 16393,
+        "TableName": "Stats",
+        "Id": "sanctum_no_gold_from_fountains"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "마른 우물",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionExhaustedWellsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionExhaustedWells",
+    "BoonDesc": "",
+    "CurseDesc": "상자에서 [SacredWater|신성한 물]이 나오지 않음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35912
+  },
+  {
+    "RowIndex": 23,
+    "Id": "AfflictionMonsterLife",
+    "Stats": [
+      {
+        "RowIndex": 955,
+        "TableName": "Stats",
+        "Id": "map_monsters_life_+%"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "가시 껍질",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedShellIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedShell",
+    "BoonDesc": "",
+    "CurseDesc": "몬스터의 최대 생명력 50% 증가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13875
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AfflictionMonsterPercentageDamage",
+    "Stats": [
+      {
+        "RowIndex": 19327,
+        "TableName": "Stats",
+        "Id": "map_monster_remove_%_life_mana_es_on_hit"
+      }
+    ],
+    "StatValues": [
+      5
+    ],
+    "Name": "굶주린 송곳니",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHungryFangsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHungryFangs",
+    "BoonDesc": "",
+    "CurseDesc": "몬스터가 [HitDamage|명중] 시 플레이어의 생명력, 마나, [EnergyShield|에너지 보호막] 5% 제거",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 359
+  },
+  {
+    "RowIndex": 25,
+    "Id": "AfflictionCannotRestoreHonour",
+    "Stats": [
+      {
+        "RowIndex": 16394,
+        "TableName": "Stats",
+        "Id": "sanctum_cannot_restore_honour"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "낙인 찍힌 발바라크",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionBrandedBalbalakhIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionBrandedBalbalakh",
+    "BoonDesc": "",
+    "CurseDesc": "[Honour|명예] 회복 불가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 19039
+  },
+  {
+    "RowIndex": 26,
+    "Id": "AfflictionReducedHonourRestored",
+    "Stats": [
+      {
+        "RowIndex": 16397,
+        "TableName": "Stats",
+        "Id": "sanctum_honour_restored_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "동정 용의자",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionSuspectedSympathiserIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionSuspectedSympathiser",
+    "BoonDesc": "",
+    "CurseDesc": "[Honour|명예] 회복량 50% 감소",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9350
+  },
+  {
+    "RowIndex": 27,
+    "Id": "BoonSanctumHonourRestored",
+    "Stats": [
+      {
+        "RowIndex": 16397,
+        "TableName": "Stats",
+        "Id": "sanctum_honour_restored_+%"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "명예로운 도전자",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentHeroineIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentHeroine",
+    "BoonDesc": "[Honour|명예] 회복량 50% 증가",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 4682
+  },
+  {
+    "RowIndex": 28,
+    "Id": "AfflictionViewRoomsAhead",
+    "Stats": [
+      {
+        "RowIndex": 16398,
+        "TableName": "Stats",
+        "Id": "sanctum_map_view_additional_rooms_ahead"
+      }
+    ],
+    "StatValues": [
+      -1
+    ],
+    "Name": "검은 연기",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBlackSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBlackSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "시련 지도에서 미리 볼 수 있는 방 1개 감소",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34448
+  },
+  {
+    "RowIndex": 29,
+    "Id": "BoonViewRoomsAhead",
+    "Stats": [
+      {
+        "RowIndex": 16398,
+        "TableName": "Stats",
+        "Id": "sanctum_map_view_additional_rooms_ahead"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "수정구",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonScryingCrystalIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonScryingCrystal",
+    "BoonDesc": "시련 지도에서 미리 볼 수 있는 방 1개 증가",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44243
+  },
+  {
+    "RowIndex": 30,
+    "Id": "AfflictionMerchantCost",
+    "Stats": [
+      {
+        "RowIndex": 16403,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_gold_cost_+%"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "교역 관세",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTradeTarifffIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTradeTarifff",
+    "BoonDesc": "",
+    "CurseDesc": "상인 가격 50% 증가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34561
+  },
+  {
+    "RowIndex": 31,
+    "Id": "BoonMerchantCost",
+    "Stats": [
+      {
+        "RowIndex": 16403,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_gold_cost_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "언변",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSilverTongueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSilverTongue",
+    "BoonDesc": "상인 가격 50% 감소",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24536
+  },
+  {
+    "RowIndex": 32,
+    "Id": "BoonDisableTraps",
+    "Stats": [
+      {
+        "RowIndex": 16402,
+        "TableName": "Stats",
+        "Id": "sanctum_traps_are_disabled"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "제국의 인장",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonImperialSealIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonImperialSeal",
+    "BoonDesc": "덫 비활성화",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44836
+  },
+  {
+    "RowIndex": 33,
+    "Id": "BoonIgnoreXHitsEachRoom",
+    "Stats": [
+      {
+        "RowIndex": 16408,
+        "TableName": "Stats",
+        "Id": "sanctum_no_damage_from_first_x_hits"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "가루칸의 총애",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGarukhanStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGarukhanStatue",
+    "BoonDesc": "각 방에서 적 [HitDamage|명중]으로 받는 첫 피해 무시",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 38171
+  },
+  {
+    "RowIndex": 34,
+    "Id": "AfflictionLoseAllSacredWaterOnFloorComplete",
+    "Stats": [
+      {
+        "RowIndex": 16409,
+        "TableName": "Stats",
+        "Id": "sanctum_lose_all_gold_on_floor_completion"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "겨울 가뭄",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWinterDroughtIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWinterDrought",
+    "BoonDesc": "",
+    "CurseDesc": "층 완료 시 [SacredWater|신성한 물] 전부 상실",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 20573
+  },
+  {
+    "RowIndex": 35,
+    "Id": "BoonRestoreHonourOnRoomComplete",
+    "Stats": [
+      {
+        "RowIndex": 16410,
+        "TableName": "Stats",
+        "Id": "sanctum_restore_scaled_honour_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      7
+    ],
+    "Name": "스스로 얻은 명예",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWarriorStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWarriorStatue",
+    "BoonDesc": "방 완료 시 [Honour|명예] {0} 회복",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24603
+  },
+  {
+    "RowIndex": 36,
+    "Id": "BoonDamageCooldown",
+    "Stats": [
+      {
+        "RowIndex": 20182,
+        "TableName": "Stats",
+        "Id": "map_players_cannot_be_damaged_for_1_second_after_enemy_hit"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "아켈리의 수호",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSmallClayGolemIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSmallClayGolem",
+    "BoonDesc": "적 [HitDamage|명중]으로 피해를 받은 후 1초 동안 피해를 받지 않음",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 47837
+  },
+  {
+    "RowIndex": 37,
+    "Id": "BoonRestoreHonourOnPercentHealth",
+    "Stats": [
+      {
+        "RowIndex": 16451,
+        "TableName": "Stats",
+        "Id": "sanctum_heal_on_%_health_threshold"
+      },
+      {
+        "RowIndex": 16452,
+        "TableName": "Stats",
+        "Id": "sanctum_heal_on_%_health_%_to_heal"
+      }
+    ],
+    "StatValues": [
+      20,
+      50
+    ],
+    "Name": "빛나는 구슬",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGlowOrbIcon",
+    "Unk005": 0,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGlowOrb",
+    "BoonDesc": "다음번에 생명력이 최대 생명력의 20% 밑으로 떨어지면, 생명력과 [EnergyShield|에너지 보호막]을 모두 회복하고 [Honour|명예] 50% 회복",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 3157
+  },
+  {
+    "RowIndex": 38,
+    "Id": "AfflictionHideRoomAll",
+    "Stats": [
+      {
+        "RowIndex": 16583,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_room_all"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "가려진 눈",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseVeiledSightIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseVeiledSight",
+    "BoonDesc": "",
+    "CurseDesc": "시련 지도에서 방을 확인할 수 없음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 43384
+  },
+  {
+    "RowIndex": 39,
+    "Id": "AfflictionHideRoomEncounter",
+    "Stats": [
+      {
+        "RowIndex": 16584,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_room_encounter"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "붉은 연기",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRedSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRedSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "시련 지도에서 방의 유형을 확인할 수 없음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 17084
+  },
+  {
+    "RowIndex": 40,
+    "Id": "AfflictionHideRoomReward",
+    "Stats": [
+      {
+        "RowIndex": 16585,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_room_reward"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "황금 연기",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGoldenSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGoldenSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "시련 지도에서 보상을 확인할 수 없음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 1198
+  },
+  {
+    "RowIndex": 41,
+    "Id": "AfflictionHideRoomAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16586,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_room_curse"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "보라색 연기",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CursePurpleSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CursePurpleSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "시련 지도에서 [Afflictions|고난]을 확인할 수 없음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28906
+  },
+  {
+    "RowIndex": 42,
+    "Id": "AfflictionHonurLossIsFatal3",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats",
+        "Id": "sanctum_losing_honour_is_fatal"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "무시무시한 낫",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 43,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionHonourLossIsFatal2"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScythe",
+    "BoonDesc": "",
+    "CurseDesc": "[Honour|명예] 상실 시 시련 종료\r\n(방 3개 완료 후 제거)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 43,
+    "Id": "AfflictionHonourLossIsFatal2",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats",
+        "Id": "sanctum_losing_honour_is_fatal"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "무시무시한 낫",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 44,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionHonourLossIsFatal1"
+    },
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "[Honour|명예] 상실 시 시련 종료\r\n(방 2개 완료 후 제거)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 42,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionHonurLossIsFatal3"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 44,
+    "Id": "AfflictionHonourLossIsFatal1",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats",
+        "Id": "sanctum_losing_honour_is_fatal"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "무시무시한 낫",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "[Honour|명예] 상실 시 시련 종료\r\n(방 1개 완료 후 제거)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 42,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionHonurLossIsFatal3"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 45,
+    "Id": "BoonDefyDeathWithLessLife",
+    "Stats": [
+      {
+        "RowIndex": 20213,
+        "TableName": "Stats",
+        "Id": "sanctum_revive_once_with_50percent_life_and_es"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "오발라의 가죽",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmourIcon",
+    "Unk005": 12,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmour",
+    "BoonDesc": "[Honour|명예]가 0이 되면 50% 감폭된 [Honour|명예]를 가지고 1회 부활",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44077
+  },
+  {
+    "RowIndex": 46,
+    "Id": "PenaltyDefiedDeathWithLessHonour",
+    "Stats": [
+      {
+        "RowIndex": 20982,
+        "TableName": "Stats",
+        "Id": "sanctum_max_honour_+%_final_from_death_defy_boon"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "오발라의 가죽",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmourIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmour",
+    "BoonDesc": "최대 [Honour|명예] 50% 감폭",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": {
+      "RowIndex": 45,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonDefyDeathWithLessLife"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44077
+  },
+  {
+    "RowIndex": 47,
+    "Id": "BoonDefyDeath",
+    "Stats": [
+      {
+        "RowIndex": 20215,
+        "TableName": "Stats",
+        "Id": "sanctum_revive_once"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "세케마의 망토",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyDescryIcon",
+    "Unk005": 2,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyDescry",
+    "BoonDesc": "[Honour|명예]가 0이 되면 [Honour|명예]가 가득 찬 상태로 1회 부활",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34499
+  },
+  {
+    "RowIndex": 48,
+    "Id": "BoonPreventMinorAfflictions",
+    "Stats": [
+      {
+        "RowIndex": 16596,
+        "TableName": "Stats",
+        "Id": "sanctum_prevent_minor_afflictions"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "데카라의 목걸이",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonDekharasResolveIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonDekharasResolve",
+    "BoonDesc": "보조 [Afflictions|고난] 획득 불가",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13598
+  },
+  {
+    "RowIndex": 49,
+    "Id": "AfflictionPreventBoons",
+    "Stats": [
+      {
+        "RowIndex": 16597,
+        "TableName": "Stats",
+        "Id": "sanctum_prevent_boons"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "겸손한 친구",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnassumingBrickIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnassumingBrick",
+    "BoonDesc": "",
+    "CurseDesc": "[Boons|은혜] 획득 불가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 50613
+  },
+  {
+    "RowIndex": 50,
+    "Id": "BoonImmuneForNextRoom",
+    "Stats": [
+      {
+        "RowIndex": 19321,
+        "TableName": "Stats",
+        "Id": "map_player_base_cannot_be_damaged"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "찰나의 평화",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonClothFragmentTreeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonClothFragmentTree",
+    "BoonDesc": "다음 방을 완료할 때까지 피해를 받지 않음",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 30866
+  },
+  {
+    "RowIndex": 51,
+    "Id": "AfflictionLose%LifeAndEnergyShieldOnRoomCompletion",
+    "Stats": [
+      {
+        "RowIndex": 17035,
+        "TableName": "Stats",
+        "Id": "sanctum_take_damage_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "가시투성이 출구",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedEntranceIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedEntrance",
+    "BoonDesc": "",
+    "CurseDesc": "방 완료 시 [Physical|물리] 피해 {0} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 53929
+  },
+  {
+    "RowIndex": 52,
+    "Id": "AfflictionNoMinimap",
+    "Stats": [
+      {
+        "RowIndex": 16661,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_minimap"
+      },
+      {
+        "RowIndex": 16666,
+        "TableName": "Stats",
+        "Id": "map_player_light_radius_+%"
+      }
+    ],
+    "StatValues": [
+      1,
+      -90
+    ],
+    "Name": "해진 안대",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTatteredBlindfoldIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTatteredBlindfold",
+    "BoonDesc": "",
+    "CurseDesc": "시야 반경 90% 감소\r\n미니맵 숨김",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48875
+  },
+  {
+    "RowIndex": 53,
+    "Id": "AfflictionCannotGainSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16662,
+        "TableName": "Stats",
+        "Id": "sanctum_cannot_gain_gold"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "채워지지 않는 갈증",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUnquenchedThirstIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUnquenchedThirst",
+    "BoonDesc": "",
+    "CurseDesc": "[SacredWater|신성한 물] 획득 불가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 38381
+  },
+  {
+    "RowIndex": 54,
+    "Id": "AfflictionDamageTakenOnLowLife",
+    "Stats": [
+      {
+        "RowIndex": 20679,
+        "TableName": "Stats",
+        "Id": "map_player_damage_taken_+%_on_low_life"
+      }
+    ],
+    "StatValues": [
+      100
+    ],
+    "Name": "명예 잃은 문신",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionDishonouredTattooIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionDishonouredTattoo",
+    "BoonDesc": "",
+    "CurseDesc": "[LowLife|낮은 생명력] 상태일 때 받는 피해 100% 증가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 5501
+  },
+  {
+    "RowIndex": 55,
+    "Id": "BoonDoubleSacredWaterThisFloor",
+    "Stats": [
+      {
+        "RowIndex": 16664,
+        "TableName": "Stats",
+        "Id": "sanctum_double_gold_this_floor"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "방향을 바꾼 강",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverBentRiverIcon",
+    "Unk005": 4,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverBentRiver",
+    "BoonDesc": "이 층에서 발견하는 [SacredWater|신성한 물] 2배",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45401
+  },
+  {
+    "RowIndex": 56,
+    "Id": "BoonDoubleSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16663,
+        "TableName": "Stats",
+        "Id": "sanctum_double_gold"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "비 소환사",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonRaincallingStaffIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonRaincallingStaff",
+    "BoonDesc": "발견하는 [SacredWater|신성한 물] 2배",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 31580
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AfflictionWrongRoom",
+    "Stats": [
+      {
+        "RowIndex": 16665,
+        "TableName": "Stats",
+        "Id": "sanctum_wrong_room_%_chance"
+      }
+    ],
+    "StatValues": [
+      33
+    ],
+    "Name": "기만하는 거울",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseMirrorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseMirror",
+    "BoonDesc": "",
+    "CurseDesc": "일정 확률로 선택하지 않은 방으로 이동",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 14131
+  },
+  {
+    "RowIndex": 58,
+    "Id": "AfflictionNoHonourRecoveredThisFloor",
+    "Stats": [
+      {
+        "RowIndex": 16394,
+        "TableName": "Stats",
+        "Id": "sanctum_cannot_restore_honour"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "실혈",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionHaemorrhageIcon",
+    "Unk005": 3,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionHaemorrhage",
+    "BoonDesc": "",
+    "CurseDesc": "[Honour|명예] 회복 불가 (다음 보스 처치 시 제거)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34171
+  },
+  {
+    "RowIndex": 59,
+    "Id": "BoonRevealWholeFloor",
+    "Stats": [
+      {
+        "RowIndex": 16668,
+        "TableName": "Stats",
+        "Id": "sanctum_reveal_full_floor"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "전시안",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAllSeeingEyeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAllSeeingEye",
+    "BoonDesc": "시련 지도가 완전히 밝혀짐",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9121
+  },
+  {
+    "RowIndex": 60,
+    "Id": "BoonTrapSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16342,
+        "TableName": "Stats",
+        "Id": "sanctum_hazards_are_slower"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "빛나는 진주",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousPearlIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousPearl",
+    "BoonDesc": "덫이 느려짐",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 51140
+  },
+  {
+    "RowIndex": 61,
+    "Id": "BoonMonsterReducedActionSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16901,
+        "TableName": "Stats",
+        "Id": "map_monsters_action_speed_-%"
+      }
+    ],
+    "StatValues": [
+      15
+    ],
+    "Name": "점성 있는 영액",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonViciousIchorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonViciousIchor",
+    "BoonDesc": "몬스터의 동작 속도 15% 감소",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 57507
+  },
+  {
+    "RowIndex": 62,
+    "Id": "BoonMonsterReducedSanctumDamage",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "나무 제웅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWoodenEffigyIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWoodenEffigy",
+    "BoonDesc": "몬스터가 투지에 주는 영향 25% 감폭",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 46977
+  },
+  {
+    "RowIndex": 63,
+    "Id": "BoonMonsterReducedMaximumLife",
+    "Stats": [
+      {
+        "RowIndex": 955,
+        "TableName": "Stats",
+        "Id": "map_monsters_life_+%"
+      }
+    ],
+    "StatValues": [
+      -30
+    ],
+    "Name": "핏빛 시약",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSanguineVialIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSanguineVial",
+    "BoonDesc": "몬스터의 최대 생명력 30% 감폭",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41741
+  },
+  {
+    "RowIndex": 64,
+    "Id": "BoonPlayerMoreDamage",
+    "Stats": [
+      {
+        "RowIndex": 16934,
+        "TableName": "Stats",
+        "Id": "map_player_damage_+%_final_from_sanctum_boon"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "화려한 단검",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFancyDaggerIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFancyDagger",
+    "BoonDesc": "플레이어와 플레이어의 소환수가 주는 피해 50% 증폭",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 29924
+  },
+  {
+    "RowIndex": 65,
+    "Id": "BoonInstaKillGuards10",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      10
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBlade",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 10마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 66,
+    "Id": "BoonInstaKillGuards9",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      9
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 9마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 67,
+    "Id": "BoonInstaKillGuards8",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      8
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 8마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 68,
+    "Id": "BoonInstaKillGuards7",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      7
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 7마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 69,
+    "Id": "BoonInstaKillGuards6",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      6
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 6마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 70,
+    "Id": "BoonInstaKillGuards5",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      5
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 5마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 71,
+    "Id": "BoonInstaKillGuards4",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      4
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 4마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 72,
+    "Id": "BoonInstaKillGuards3",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      3
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 3마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 73,
+    "Id": "BoonInstaKillGuards2",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터 2마리가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 74,
+    "Id": "BoonInstaKillGuards1",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "암살자의 칼날",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "다음으로 [HitDamage|명중]하는 비-보스 몬스터가 즉사",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 75,
+    "Id": "BoonIncreasedRelicEffect",
+    "Stats": [
+      {
+        "RowIndex": 16788,
+        "TableName": "Stats",
+        "Id": "sanctum_non_unique_relic_effect_+%"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "인챈트된 단지",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonEnchantedUrnIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonEnchantedUrn",
+    "BoonDesc": "비-[ItemRarity|고유] [Relic|유물]의 효과 30% 증가",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 38167
+  },
+  {
+    "RowIndex": 76,
+    "Id": "BoonHonourRestoredOnEnterBossRoom",
+    "Stats": [
+      {
+        "RowIndex": 16858,
+        "TableName": "Stats",
+        "Id": "sanctum_restore_scaled_honour_on_entering_boss_room"
+      }
+    ],
+    "StatValues": [
+      60
+    ],
+    "Name": "아드레날린 시약",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAdrenalineVialIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAdrenalineVial",
+    "BoonDesc": "보스 방 입장 시 [Honour|명예] {0} 회복",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59406
+  },
+  {
+    "RowIndex": 77,
+    "Id": "BoonDuplicateARandomDeferredReward",
+    "Stats": [
+      {
+        "RowIndex": 20180,
+        "TableName": "Stats",
+        "Id": "sanctum_keys_are_duplicated_on_pickup"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "행운의 거울",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMirrorOfFortuneIcon",
+    "Unk005": 11,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMirrorOfFortune",
+    "BoonDesc": "다음으로 습득하는 [SekhemaKeys|열쇠]가 복제됨",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45428
+  },
+  {
+    "RowIndex": 78,
+    "Id": "BoonMaximumHonour",
+    "Stats": [
+      {
+        "RowIndex": 20983,
+        "TableName": "Stats",
+        "Id": "sanctum_max_honour_+%_final_from_boon"
+      }
+    ],
+    "StatValues": [
+      25
+    ],
+    "Name": "오발라 조각상",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonOrbalaStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonOrbalaStatue",
+    "BoonDesc": "최대 [Honour|명예] 25% 증폭",
+    "CurseDesc": "",
+    "Unk012": 1,
+    "Unk013": 125,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 2,
+    "Unk019": 125,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 54204
+  },
+  {
+    "RowIndex": 79,
+    "Id": "BoonRandomMinorBoonOnFountainUse",
+    "Stats": [
+      {
+        "RowIndex": 16744,
+        "TableName": "Stats",
+        "Id": "sanctum_gain_random_minor_boon_on_fountain_use"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "성수",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyWaterIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyWater",
+    "BoonDesc": "마라케스 성소 숭배 시 무작위 보조 [Boons|은혜] 1개 획득",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28826
+  },
+  {
+    "RowIndex": 80,
+    "Id": "BoonRestoreHonourOnFountainUse",
+    "Stats": [
+      {
+        "RowIndex": 16746,
+        "TableName": "Stats",
+        "Id": "sanctum_restore_scaled_honour_on_fountain_use"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "젊음의 분수",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFountainOfYouthIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFountainOfYouth",
+    "BoonDesc": "마라케스 성소 숭배 시 [Honour|명예] {0} 회복",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 40142
+  },
+  {
+    "RowIndex": 81,
+    "Id": "BoonNextMinorBoonConvertedToMajor",
+    "Stats": [
+      {
+        "RowIndex": 16740,
+        "TableName": "Stats",
+        "Id": "sanctum_next_minor_boon_converted_to_major_boon"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "은 성배",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSliverChaliceIcon",
+    "Unk005": 8,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSliverChalice",
+    "BoonDesc": "다음으로 획득하는 보조 [Boons|은혜]가 무작위 주요 [Boons|은혜]로 전환",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 51458
+  },
+  {
+    "RowIndex": 82,
+    "Id": "BoonTrapsReducedDamage",
+    "Stats": [
+      {
+        "RowIndex": 19330,
+        "TableName": "Stats",
+        "Id": "map_sanctum_traps_damage_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "검은 진주",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBlackPearlIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBlackPearl",
+    "BoonDesc": "덫이 주는 피해 50% 감소",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41498
+  },
+  {
+    "RowIndex": 83,
+    "Id": "BoonNextMerchantItemFree",
+    "Stats": [
+      {
+        "RowIndex": 16859,
+        "TableName": "Stats",
+        "Id": "sanctum_next_merchant_purchase_is_free"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "발바라의 선물",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBalbalasMaskIcon",
+    "Unk005": 10,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBalbalasMask",
+    "BoonDesc": "다음번 상인에게서 구입 시 비용 없음",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 52622
+  },
+  {
+    "RowIndex": 84,
+    "Id": "BoonCanRerollMerchantShop",
+    "Stats": [
+      {
+        "RowIndex": 16860,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_enable_reroll"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "이 빠진 주사위",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonChippedDiceIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonChippedDice",
+    "BoonDesc": "상인의 상점 무작위 변경 가능",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 60796
+  },
+  {
+    "RowIndex": 85,
+    "Id": "BoonGoldPerRoomRemovedAtMerchant",
+    "Stats": [
+      {
+        "RowIndex": 16819,
+        "TableName": "Stats",
+        "Id": "sanctum_gold_%_interest_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      10
+    ],
+    "Name": "위로 가는 길",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldTrophyIcon",
+    "Unk005": 10,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldTrophy",
+    "BoonDesc": "방 완료 시 발견하는 [SacredWater|신성한 물] 10% 증가\r\n(상인에게서 구입 시 제거됨)",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 3716
+  },
+  {
+    "RowIndex": 86,
+    "Id": "BoonDuplicateAllKeyFound",
+    "Stats": [
+      {
+        "RowIndex": 20180,
+        "TableName": "Stats",
+        "Id": "sanctum_keys_are_duplicated_on_pickup"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "성스러운 거울",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSacredMirrorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSacredMirror",
+    "BoonDesc": "습득하는 [SekhemaKeys|열쇠]가 복제됨",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 27130
+  },
+  {
+    "RowIndex": 87,
+    "Id": "BoonNextAfflictionConvertedToMinorBoon",
+    "Stats": [
+      {
+        "RowIndex": 16742,
+        "TableName": "Stats",
+        "Id": "sanctum_next_affliction_converted_to_minor_boon"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "수정 파편",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonCrystalShardIcon",
+    "Unk005": 7,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonCrystalShard",
+    "BoonDesc": "다음으로 획득하는 [Afflictions|고난]이 무작위 보조 [Boons|은혜]로 전환",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30042
+  },
+  {
+    "RowIndex": 88,
+    "Id": "BoonMoreDefences",
+    "Stats": [
+      {
+        "RowIndex": 18484,
+        "TableName": "Stats",
+        "Id": "map_player_global_defences_+%_final_from_sanctum_boon"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "빛나는 광택제",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousLacquerIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousLacquer",
+    "BoonDesc": "[Defences|방어] 50% 증폭",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 379
+  },
+  {
+    "RowIndex": 89,
+    "Id": "AfflictionReducedEffectOfRelics",
+    "Stats": [
+      {
+        "RowIndex": 16788,
+        "TableName": "Stats",
+        "Id": "sanctum_non_unique_relic_effect_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "잊힌 전통",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionForgottenTraditionsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionForgottenTraditions",
+    "BoonDesc": "",
+    "CurseDesc": "비-[ItemRarity|고유] [Relic|유물]의 효과 50% 감소",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 18125
+  },
+  {
+    "RowIndex": 90,
+    "Id": "AfflictionMaximumNumberOfBoons",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "꽉 끼는 목줄",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTightCollarIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTightCollar",
+    "BoonDesc": "",
+    "CurseDesc": "[Boons|은혜]를 최대 5개까지 보유 가능",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 91,
+    "Id": "AfflictionMerchantFewerChoices",
+    "Stats": [
+      {
+        "RowIndex": 16817,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_options_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "기근의 계절",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnhallowedAmuletIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnhallowedAmulet",
+    "BoonDesc": "",
+    "CurseDesc": "상인이 제안하는 선택지 수 50% 감소",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35605
+  },
+  {
+    "RowIndex": 92,
+    "Id": "AfflictionAfflictionOnGainAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16743,
+        "TableName": "Stats",
+        "Id": "sanctum_gain_random_minor_affliction_on_gaining_affliction"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "중상모략",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionMyriadAspersionsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionMyriadAspersions",
+    "BoonDesc": "",
+    "CurseDesc": "[Afflictions|고난] 획득 시 추가로 무작위 보조 [Afflictions|고난] 1개 획득",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 56996
+  },
+  {
+    "RowIndex": 93,
+    "Id": "AfflictionAfflictionOnUseFountain",
+    "Stats": [
+      {
+        "RowIndex": 16745,
+        "TableName": "Stats",
+        "Id": "sanctum_gain_random_minor_affliction_on_fountain_use"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "비싼 원조",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionCostlyAidIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionCostlyAid",
+    "BoonDesc": "",
+    "CurseDesc": "마라케스 성소 숭배 시 무작위 보조 [Afflictions|고난] 1개 획득",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32085
+  },
+  {
+    "RowIndex": 94,
+    "Id": "AfflictionMonstersBindingChainsOnHit",
+    "Stats": [
+      {
+        "RowIndex": 16904,
+        "TableName": "Stats",
+        "Id": "map_monsters_binding_chains_for_X_seconds_on_hit"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "속박의 사슬",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChainOfBindingIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChainOfBinding",
+    "BoonDesc": "",
+    "CurseDesc": "몬스터가 [HitDamage|명중] 시 [BindingChains|속박의 사슬] 유발",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 25062
+  },
+  {
+    "RowIndex": 95,
+    "Id": "AfflictionMonstersVolatileOnDeath",
+    "Stats": [
+      {
+        "RowIndex": 16910,
+        "TableName": "Stats",
+        "Id": "map_sanctum_guards_volatile_on_death"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "감춰진 이형",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseConcealedAnomalyIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseConcealedAnomaly",
+    "BoonDesc": "",
+    "CurseDesc": "수호병 사망 시 [Volatiles|폭발성] 이형 생성",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 96,
+    "Id": "AfflictionMonstersEnfeebled",
+    "Stats": [
+      {
+        "RowIndex": 965,
+        "TableName": "Stats",
+        "Id": "map_player_has_level_X_enfeeble"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "무적",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUntouchableIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUntouchable",
+    "BoonDesc": "",
+    "CurseDesc": "[Enfeeble|쇠약화] [Curse|저주]에 걸림",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9853
+  },
+  {
+    "RowIndex": 97,
+    "Id": "AfflictionMonstersKnockback",
+    "Stats": [
+      {
+        "RowIndex": 16902,
+        "TableName": "Stats",
+        "Id": "map_monsters_knockback"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "녹슨 망치",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRustedMalletIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRustedMallet",
+    "BoonDesc": "",
+    "CurseDesc": "몬스터가 항상 [Knockback|밀어냄]\r\n몬스터의 [Knockback|밀어내기] 거리 증가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30450
+  },
+  {
+    "RowIndex": 98,
+    "Id": "AfflictionLessMaxHonour",
+    "Stats": [
+      {
+        "RowIndex": 20984,
+        "TableName": "Stats",
+        "Id": "sanctum_max_honour_+%_final_from_curse"
+      }
+    ],
+    "StatValues": [
+      -25
+    ],
+    "Name": "약화된 살점",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWeakenedFleshIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWeakenedFlesh",
+    "BoonDesc": "",
+    "CurseDesc": "최대 [Honour|명예] 25% 감폭",
+    "Unk012": 1,
+    "Unk013": 75,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 2,
+    "Unk019": 75,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24131
+  },
+  {
+    "RowIndex": 99,
+    "Id": "AfflictionMonsterSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5454,
+        "TableName": "Stats",
+        "Id": "map_monster_attack_cast_and_movement_speed_+%"
+      },
+      {
+        "RowIndex": 5078,
+        "TableName": "Stats",
+        "Id": "map_monsters_movement_speed_cannot_be_reduced_below_base"
+      }
+    ],
+    "StatValues": [
+      25,
+      1
+    ],
+    "Name": "마귀 날개",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseFiendishWingsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseFiendishWings",
+    "BoonDesc": "",
+    "CurseDesc": "몬스터의 동작 속도가 기본 동작 속도 밑으로 내려가지 않음\r\n몬스터의 공격, 시전, 이동 속도 25% 증가",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28313
+  },
+  {
+    "RowIndex": 100,
+    "Id": "AfflictionGuardsHavePet",
+    "Stats": [
+      {
+        "RowIndex": 16908,
+        "TableName": "Stats",
+        "Id": "map_sanctum_guards_have_pets"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "가고일 토템",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGargoyleTotemIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGargoyleTotem",
+    "BoonDesc": "",
+    "CurseDesc": "수호병이 가고일 대동",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 101,
+    "Id": "AfflictionEveryRoomIsAfflicted",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "혼령의 환상",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseNameIllusionIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseNameIllusion",
+    "BoonDesc": "",
+    "CurseDesc": "모든 방이 무작위 보조 [Afflictions|고난] 1개 부여\r\n(이 효과로 부여된 [Afflictions|고난]은 방 완료 시 제거됨)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 102,
+    "Id": "AfflictionChestsExplodeWhenOpened",
+    "Stats": [
+      {
+        "RowIndex": 16909,
+        "TableName": "Stats",
+        "Id": "map_sanctum_chests_explode"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "타락한 자물쇠 따개",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorruptedLockpickIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorruptedLockpick",
+    "BoonDesc": "",
+    "CurseDesc": "방의 상자를 열면 폭발함",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 103,
+    "Id": "AfflictionReducedMovementSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5555,
+        "TableName": "Stats",
+        "Id": "map_players_movement_speed_+%"
+      }
+    ],
+    "StatValues": [
+      -25
+    ],
+    "Name": "낡은 샌들",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseWornSandalsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseWornSandals",
+    "BoonDesc": "",
+    "CurseDesc": "이동 속도 25% 감소",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30473
+  },
+  {
+    "RowIndex": 104,
+    "Id": "AfflictionRelicsHaveNoEffect",
+    "Stats": [
+      {
+        "RowIndex": 16789,
+        "TableName": "Stats",
+        "Id": "sanctum_relics_disabled"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "부정의 구슬",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseOrbOfNegationIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseOrbOfNegation",
+    "BoonDesc": "",
+    "CurseDesc": "비-[ItemRarity|고유] [Relic|유물]의 효과를 받지 않음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 43834
+  },
+  {
+    "RowIndex": 105,
+    "Id": "AfflictionMerchantOneItem",
+    "Stats": [
+      {
+        "RowIndex": 16818,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_only_one_option"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "관례의 요구",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTraditionsDemandIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTraditionsDemand",
+    "BoonDesc": "",
+    "CurseDesc": "상인이 1개의 선택지만 제안함",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 55120
+  },
+  {
+    "RowIndex": 106,
+    "Id": "AfflictionMonsterPetrifyOnHit",
+    "Stats": [
+      {
+        "RowIndex": 16903,
+        "TableName": "Stats",
+        "Id": "map_monsters_petrification_for_X_seconds_on_hit"
+      }
+    ],
+    "StatValues": [
+      4
+    ],
+    "Name": "깎아놓은 돌",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChiselledStoneIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChiselledStone",
+    "BoonDesc": "",
+    "CurseDesc": "몬스터가 명중 시 [Petrify|석화] 유발",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6958
+  },
+  {
+    "RowIndex": 107,
+    "Id": "AfflictionBoonConveretedToMinorAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16741,
+        "TableName": "Stats",
+        "Id": "sanctum_next_boon_converted_to_minor_affliction"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "유리 파편",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGlassShardIcon",
+    "Unk005": 6,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGlassShard",
+    "BoonDesc": "",
+    "CurseDesc": "다음으로 획득하는 [Boons|은혜]가 무작위 보조 [Afflictions|고난]으로 전환",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45600
+  },
+  {
+    "RowIndex": 108,
+    "Id": "AfflictionNoEvasion",
+    "Stats": [
+      {
+        "RowIndex": 19324,
+        "TableName": "Stats",
+        "Id": "map_player_no_evasion_rating"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "철제 수갑",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseIronManaclesIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseIronManacles",
+    "BoonDesc": "",
+    "CurseDesc": "[Evasion|회피]가 없음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35578
+  },
+  {
+    "RowIndex": 109,
+    "Id": "AfflictionNoArmour",
+    "Stats": [
+      {
+        "RowIndex": 19322,
+        "TableName": "Stats",
+        "Id": "map_player_no_physical_damage_reduction_rating"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "날카로운 화살촉",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSharpenedArrowheadIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSharpenedArrowhead",
+    "BoonDesc": "",
+    "CurseDesc": "[Armour|방어도]가 없음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48487
+  },
+  {
+    "RowIndex": 110,
+    "Id": "AfflictionNoEnergyShield",
+    "Stats": [
+      {
+        "RowIndex": 19323,
+        "TableName": "Stats",
+        "Id": "map_player_no_energy_shield"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "조각난 방패",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseShatteredShieldIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseShatteredShield",
+    "BoonDesc": "",
+    "CurseDesc": "[EnergyShield|에너지 보호막]이 없음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16335
+  },
+  {
+    "RowIndex": 111,
+    "Id": "AfflictionNoDefences",
+    "Stats": [
+      {
+        "RowIndex": 19326,
+        "TableName": "Stats",
+        "Id": "map_player_defences_are_zero"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "부식성 혼합물",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorrosiveConcoctionIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorrosiveConcoction",
+    "BoonDesc": "",
+    "CurseDesc": "[Defences|방어]가 없음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 55502
+  },
+  {
+    "RowIndex": 112,
+    "Id": "PactOpenChestsWithNoKey",
+    "Stats": [
+      {
+        "RowIndex": 20683,
+        "TableName": "Stats",
+        "Id": "sanctum_open_chests_without_key_each_reward_room"
+      },
+      {
+        "RowIndex": 20684,
+        "TableName": "Stats",
+        "Id": "sanctum_take_damage_on_opening_chest_without_key"
+      }
+    ],
+    "StatValues": [
+      1,
+      100
+    ],
+    "Name": "교활한 자와의 맹약",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentCanOpenChestWithoutKey",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "Pact"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/CanOpenChestWithoutKey",
+    "BoonDesc": "방마다 열쇠를 사용하지 않고 보상 상자를 1개 열 수 있음",
+    "CurseDesc": "열쇠를 사용하지 않고 열쇠 상자를 열면 물리 피해를 {0} 받음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62382
+  },
+  {
+    "RowIndex": 113,
+    "Id": "PactEasierBosses",
+    "Stats": [
+      {
+        "RowIndex": 16609,
+        "TableName": "Stats",
+        "Id": "sanctum_damage_taken_+%_final_in_non_boss_encounters"
+      },
+      {
+        "RowIndex": 16610,
+        "TableName": "Stats",
+        "Id": "sanctum_damage_taken_+%_final_in_boss_encounters"
+      }
+    ],
+    "StatValues": [
+      100,
+      -50
+    ],
+    "Name": "강력한 자와의 맹약",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentBossDealLessDamage",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "Pact"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/BossDealLessDamage",
+    "BoonDesc": "보스 방에서 상실하는 [Honour|명예] 50% 감폭",
+    "CurseDesc": "비-보스 방에서 상실하는 [Honour|명예] 100% 증폭",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 27532
+  },
+  {
+    "RowIndex": 114,
+    "Id": "PactNoGoldGainReducedPrices",
+    "Stats": [
+      {
+        "RowIndex": 18202,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_gold_cost_+%_final"
+      },
+      {
+        "RowIndex": 16392,
+        "TableName": "Stats",
+        "Id": "sanctum_no_gold_from_monsters"
+      }
+    ],
+    "StatValues": [
+      -50,
+      1
+    ],
+    "Name": "버려진 자와의 맹약",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentMerchantCheaperNoSacredWaterDrop",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "Pact"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/MerchantCheaperNoSacredWaterDrop",
+    "BoonDesc": "상인 가격 50% 감폭",
+    "CurseDesc": "몬스터가 [SacredWater|신성한 물]을 떨어뜨리지 않음",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 60079
+  },
+  {
+    "RowIndex": 115,
+    "Id": "PactKeyOnAffliction",
+    "Stats": [
+      {
+        "RowIndex": 21079,
+        "TableName": "Stats",
+        "Id": "sanctum_gain_random_key_on_gaining_affliction"
+      },
+      {
+        "RowIndex": 16397,
+        "TableName": "Stats",
+        "Id": "sanctum_honour_restored_+%"
+      }
+    ],
+    "StatValues": [
+      1,
+      -10
+    ],
+    "Name": "고통받는 자와의 맹약",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentGainKeyWhenAfflicted",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "Pact"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/GainKeyWhenAfflicted",
+    "BoonDesc": "고난이 적용될 시 열쇠 1개 획득",
+    "CurseDesc": "[Honour|명예] 회복량 10% 감소",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48548
+  },
+  {
+    "RowIndex": 116,
+    "Id": "HiddenFlagIsQuestSanctum",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "",
+    "Icon": "",
+    "Unk005": 13,
+    "Unk006": false,
+    "EffectCategory": {
+      "RowIndex": 0,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "None"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 0
+  }
+]

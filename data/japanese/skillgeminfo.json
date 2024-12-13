@@ -1,0 +1,2156 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Blight&ArcaneSurge",
+    "Description": "ブライトでマナを一定以上消費すると、一時的なバフを付与する。バフにより、ブライトのスペルダメージと、スペルを維持するためのマナ自動回復が増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+Arcane%20Surge.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 102,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+ArcaneSurge.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Blight&ControlledDestruction",
+    "Description": "スペルダメージの上昇を付与するが、クリティカル率が低下する。しかし、ブライトはクリティカルを与えることができないのでコントールドデストラクションはデメリットなしにスペルダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+Controlled%20Destruction.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Blight&Efficacy",
+    "Description": "ブライトの継続ダメージとスペルダメージが増加する。スキルエフェクトの持続時間を増加させることでブライトの敵に対するデバフ持続時間も増やすことができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+Efficacy.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+Efficacy.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Blight&SwiftAffliction",
+    "Description": "ブライトのデバフ効果時間を減少させるが、代わりにブライトのスペル継続ダメージが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+SwiftAffliction.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+SwiftAffliction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 4,
+    "Id": "Blight&IncreasedAreaOfEffect",
+    "Description": "ブライトの効果範囲が増加し、一度により多くの敵をターゲットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+IncreasedArea%20of%20Effect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+IncreasedArea.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 5,
+    "Id": "FreezingPulse&LMP",
+    "Description": "フリージングパルスが放つ投射物の数が増加し、一度により多くの敵にヒットする。\n\nレベルが上がり投射物追加（大）サポートジェムを手に入れれば、より広範囲の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+LesserMultipleProjectiles.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+LMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 6,
+    "Id": "FreezingPulse&ColdPenetration",
+    "Description": "敵の冷気ダメージへの耐性を下げ、敵がフリージングパルスから受ける冷気ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+ColdPenetration.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+ColdPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 7,
+    "Id": "FreezingPulse&ControlledDestruction",
+    "Description": "フリージングパルスのスペルダメージが上昇するが、クリティカル率が低下する。このサポートによるダメージはクリティカルに左右されず、直接的で安定したダメージ増加を可能にする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+ControlledDestruction.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 8,
+    "Id": "FreezingPulse&FasterProjectiles",
+    "Description": "フリージングパルスの投射物のスピードと、最大到達距離を増加させる。これにより、フリージングパルスが遠くの敵もヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+FasterProjectiles.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 8,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+FasterProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 9,
+    "Id": "FreezingPulse&SpellEcho",
+    "Description": "フリージングパルスを追加でもう一度繰り返すとともに、キャストスピードも大幅に増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+SpellEcho.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+SpellEcho.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 10,
+    "Id": "FreezingPulse&Volley",
+    "Description": "フリージングパルスの投射物の数が増加する。投射物は平行に発射され、一度により多くの敵にヒットする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+Volley.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+Volley.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 11,
+    "Id": "LightingTendrils&AddedLightningDamage",
+    "Description": "ライトニングテンドリルによる、フラット雷ダメージが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/Lighting%20Tendrils+AddedLightningDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 12,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+AddedLightningDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 12,
+    "Id": "LightingTendrils&ControlledDestruction",
+    "Description": "ライトニングテンドリルのスペルダメージが上昇するが、クリティカル率が低下する。このサポートによるスペルダメージの上昇はクリティカルに左右されず、直接的で安定したダメージ増加を可能にする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ControlledDestruction.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 13,
+    "Id": "LightingTendrils&ElementalFocus",
+    "Description": "ライトニングテンドリルが敵に対して感電などの元素状態異常を付与できなくなるが、ライトニングテンドリルの元素ダメージを大きく増加させることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightingTendrils+ElementalFocus.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 14,
+    "Id": "LightingTendrils&LightningPenetration",
+    "Description": "敵の雷ダメージへの耐性を下げ、敵がライトニングテンドリルから受ける雷ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 49,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+LightningPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 15,
+    "Id": "MagmaOrb&Combustion",
+    "Description": "ローリングマグマによる火ダメージが上昇し、敵に対する発火率を上げるとともに、発火した敵の炎耐性を減少させる。全ての火系スキルにとって万能なサポートである。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 16,
+    "Id": "MagmaOrb&LMP",
+    "Description": "ローリングマグマが放つ投射物の数が増加し、一度により多くの敵にヒットする。\n\nレベルが上がり投射物追加（大）サポートジェムを手に入れれば、より広い範囲の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 17,
+    "Id": "MagmaOrb&FirePenetration",
+    "Description": "敵の火ダメージへの耐性を下げ、敵がローリングマグマから受ける火ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 47,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 18,
+    "Id": "MagmaOrb&SpellEcho",
+    "Description": "ローリングマグマを追加でもう一度繰り返すとともに、キャストスピードも大幅に増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 19,
+    "Id": "MagmaOrb&SlowerProjectiles",
+    "Description": "ローリングマグマのダメージを増加させ、各連鎖間の距離を減少させる。これにより、一つのオーブをモンスターの群れに複数回当てることが可能になる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 20,
+    "Id": "MagmaOrb&Empower",
+    "Description": "ローリングマグマのジェムレベルを上げることで、追加基礎火ダメージを与えるとともに連鎖回数を追加する可能性もある。このジェムはドロップのみで手に入るため、とてもレアである。このジェムのレベルを上げるには時間がかかるので、ゲーム初期にはそれほど有用ではない。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 21,
+    "Id": "Fireball&BurningDamage",
+    "Description": "ファイヤーボールによる発火の継続ダメージを大幅に増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+BurningDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+BurningDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 22,
+    "Id": "Fireball&Combustion",
+    "Description": "ファイヤーボールによる火ダメージを上昇させ、敵の発火率を上げるとともに、発火した敵の炎耐性を減少させる。全ての火系スキルにとって万能なサポートである。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+Combustion.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+Combustion.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 23,
+    "Id": "Fireball&ControlledDestruction",
+    "Description": "ファイヤーボールのスペルダメージが上昇するが、クリティカル率が低下する。このサポートによるスペルダメージの上昇はクリティカルに左右されず、直接的で安定したダメージ増加を可能にする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 24,
+    "Id": "Fireball&DeadlyAilments",
+    "Description": "ファイヤーボールのヒットダメージが減少する代わりに、状態異常ダメージが増加する。これにより、ファイヤーボールを使用し発火による継続ダメージを伸ばすことに重点を置くキャラクターを強くすることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+DeadlyAilments.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+DeadlyAilments.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 25,
+    "Id": "Fireball&FirePenetration",
+    "Description": "敵の火ダメージへの耐性を下げ、敵がファイヤーボールから受ける火ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+FirePenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 47,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+FirePenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 26,
+    "Id": "Fireball&IgniteProliferate",
+    "Description": "ファイヤーボールにより敵に発火を付与する確率を上げるとともに、近くの敵に発火を伝搬することを可能にする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+IgniteProliferation.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 94,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+IgniteProliferation.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 27,
+    "Id": "Fireball&LMP",
+    "Description": "ファイヤーボールが放つ投射物の数が増加し、一度により多くの敵にヒットする。\n\nレベルが上がり投射物追加（大）サポートジェムを手に入れれば、より広い範囲の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+LesserMultipleProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+LMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 28,
+    "Id": "Fireball&SpellEcho",
+    "Description": "ファイヤーボールを追加でもう一度繰り返すとともに、キャストスピードも大幅に増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+SpellEcho.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+SpellEcho.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 29,
+    "Id": "Fireball&SwiftAffliction",
+    "Description": "敵に対する発火の合計持続時間が減少するが、発火が与えるダメージが増加することで、発火を素早く強烈に燃焼させることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+SwiftAffliction.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+SwiftAffliction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 30,
+    "Id": "RaiseZombie&FasterAttacks",
+    "Description": "ゾンビミニオンのアタックスピードが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+FasterAttacks.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 6,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+FasterAttacks.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 31,
+    "Id": "RaiseZombie&MeleeSplash",
+    "Description": "ゾンビの基本アタックが、範囲攻撃に変化する。これにより、基本アタックが複数の敵を同時にヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 32,
+    "Id": "RaiseZombie&MinionDamage",
+    "Description": "ゾンビミニオンのダメージが上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MinionDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MinionDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 33,
+    "Id": "RaiseZombie&MinionHealth",
+    "Description": "ゾンビミニオンの最大ライフが増加し、攻撃力の高い敵に耐えられるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MinionHealth.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MinionLife.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 34,
+    "Id": "RaiseZombie&Multistrike",
+    "Description": "ゾンビミニオンのグランドスラム範囲攻撃を追加であと2回繰り返す。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 35,
+    "Id": "RaiseZombie&MinionTotemResistance",
+    "Description": "ゾンビの受ける元素ダメージを減少させることで、元素ダメージを与える敵の攻撃に耐えられるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+TotemandElementalResist.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 57,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombie+MinionResist.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 36,
+    "Id": "GlacialHammer&AncestralCall",
+    "Description": "グレイシャルハンマーが、近くの敵を追加で2体ターゲットできるようになる。このサポートを近接スプラッシュサポートと一緒に使用することで、広範囲の重複ダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 37,
+    "Id": "GlacialHammer&IceBite",
+    "Description": "グレイシャルハンマーに、フラット冷気ダメージ、凍結確率の増加、凍結した敵を倒すことによってフレンジーチャージを得る可能性、そしてフレンジーチャージごとの追加冷気ダメージを付与する。この効果は、グレイシャルハンマーが本来持っている、低ライフの凍結した敵を打ち砕く能力と相乗効果がある。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Icebite.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 71,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+IceBite.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 38,
+    "Id": "GlacialHammer&MeleePhysical",
+    "Description": "グレイシャルハンマーの近接物理ダメージが上昇する。物理ダメージの50%が冷気ダメージに変換されるため、このサポートはグレイシャルハンマーによる冷気ダメージも増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 39,
+    "Id": "GlacialHammer&MeleeSplash",
+    "Description": "グレイシャルハンマーにより、近くの敵にスプラッシュダメージを与えることができるようになる。このサポートをアンセストラルコールサポートと一緒に使用することで、広範囲の重複ダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 40,
+    "Id": "GlacialHammer&Multistrike",
+    "Description": "グレイシャルハンマーを追加で2回繰り返すとともに、アタックスピードも大きく増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 41,
+    "Id": "GlacialHammer&ColdPenetration",
+    "Description": "冷気耐性突破サポートは敵の冷気ダメージへの耐性を下げ、敵がグレイシャルハンマーから受ける冷気ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+ColdPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+ColdPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 42,
+    "Id": "EtheralKnives&ControlledDestruction",
+    "Description": "イシリアルナイフのスペルダメージが上昇するが、クリティカル率が低下する。このサポートによるスペルダメージの上昇はクリティカルに左右されず、直接的で安定したダメージ増加を可能にする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 43,
+    "Id": "EtheralKnives&FasterCasting",
+    "Description": "イシリアルナイフのキャストスピードを増加させることで、頻繁に使用できるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+FasterCasting.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 28,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+FasterCasting.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 44,
+    "Id": "EtheralKnives&FasterProjectiles",
+    "Description": "イシリアルナイフの投擲スピードを増加させることで、より遠くまで投射物が届くようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+FasterProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 8,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+FasterProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 45,
+    "Id": "EtheralKnives&PhysicalToLightning",
+    "Description": "イシリアルナイフの物理ダメージの50%を雷ダメージに変換し、また物理ダメージに基づいて追加雷ダメージを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 46,
+    "Id": "EtheralKnives&Pierce",
+    "Description": "イシリアルナイフの投射物が多数の敵を通り抜けることで、より多くの敵にヒットするようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+Pierce.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 23,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+Pierce.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 47,
+    "Id": "EtheralKnives&SpellEcho",
+    "Description": "イシリアルナイフを追加でもう一度繰り返すとともに、キャストスピードも大幅に増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+SpellEcho.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+SpellEcho.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 48,
+    "Id": "ExplosiveTrap&TrapMineDamage",
+    "Description": "エクスプローシブトラップのダメージが上昇する。同時にトラップ投擲スピードにペナルティを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosireTrap+TrapandMineDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+TrapandMineDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 49,
+    "Id": "ExplosiveTrap&ClusterTraps",
+    "Description": "エクスプローシブトラップを追加であと2つ投げることが出来るようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ClusterTraps.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ClusterTrap.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 50,
+    "Id": "ExplosiveTrap&ChargedTraps",
+    "Description": "エクスプローシブトラップが敵によって発動した際、まれにフレンジーとパワーチャージを得る。1フレンジーごとに投擲スピード、1パワーチャージごとにクリティカルダメージ倍率が増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ChargedTraps.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ChargedTrap.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 51,
+    "Id": "ExplosiveTrap&ControlledDestruction",
+    "Description": "エクスプローシブトラップのスペルダメージが上昇するが、クリティカル率が低下する。このサポートによるスペルダメージの上昇はクリティカルに左右されず、直接的で安定したダメージ増加を可能にする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 52,
+    "Id": "ExplosiveTrap&ElementalFocus",
+    "Description": "エクスプローシブトラップによって発火などの元素状態異常を与えることができなくなるが、元素ダメージが大きく増加する。エクスプローシブトラップによる物理ダメージを全て元素ダメージに変換することで、このサポートの利点が最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ElementalFocus.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ElementalFocus.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 53,
+    "Id": "ExplosiveTrap&PhysicalToLightning",
+    "Description": "エクスプローシブトラップの物理ダメージの50%を雷ダメージに変換し、また物理ダメージに基づいて追加雷ダメージを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 54,
+    "Id": "FrostBlades&AncestralCall",
+    "Description": "フロストブレードが、近くの敵を追加であと2体ターゲットできるようになる。つまり、近くに最低でも3体敵がいれば、ブレードの投射物が3倍になる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/FrostBlades+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 55,
+    "Id": "FrostBlades&ColdPenetration",
+    "Description": "敵の冷気ダメージへの耐性を下げ、敵がフロストブレードから受ける冷気ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+ColdPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+ColdPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 56,
+    "Id": "FrostBlades&ElementalDamageWithAttacks",
+    "Description": "フロストブレードの元素ダメージを数倍にする。フロストブレードによる物理ダメージを全て元素ダメージに変換することで、このサポートの利点が最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+ElementalDamagewithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/FrostBlade+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 57,
+    "Id": "FrostBlades&MeleePhysical",
+    "Description": "フロストブレードの物理ダメージが上昇する。物理ダメージの60%が冷気ダメージに変換されるため、フロストブレードによる冷気ダメージも増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 58,
+    "Id": "FrostBlades&Multistrike",
+    "Description": "フロストブレードをあと2回繰り返し、アタックスピードも大きく増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 59,
+    "Id": "FrostBlades&SlowerProjectiles",
+    "Description": "フロストブレードの最大投擲範囲が減少するが、投擲ダメージが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+SlowerProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 60,
+    "Id": "ViperStrike&MeleeSplash",
+    "Description": "ヴァイパーストライクが近くの敵にスプラッシュダメージを与えるようになる。アンセストラルコールと組み合わせることで、広い範囲に重複ダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 61,
+    "Id": "ViperStrike&AncestralCall",
+    "Description": "ヴァイパーストライクが追加で近くの敵2体にヒットする。近接スプラッシュサポートと組み合わせることで、広い範囲に重複ダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 62,
+    "Id": "ViperStrike&DeadlyAilments",
+    "Description": "ヒットによるダメージが減少し、代わりに元素ダメージが上昇する。これにより、ヴァイパーストライクが継続して与える毒ダメージが多大になる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+DeadlyAilments.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+DeadlyAilments.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 63,
+    "Id": "ViperStrike&MeleePhysical",
+    "Description": "ヴァイパーストライクの物理ダメージが上昇する。出血と毒付与によるダメージ量も増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 64,
+    "Id": "ViperStrike&Multistrike",
+    "Description": "ヴァイパーストライクをあと2回繰り返し、アタックスピードも大きく増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 65,
+    "Id": "ViperStrike&VileToxins",
+    "Description": "ヴァイパーストライクによる毒ダメージが増加する。また、敵に毒を付与する度に、ヴァイパーストライクのダメージが5%上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+VileToxins.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+VileToxins.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 66,
+    "Id": "SpectralThrow&ChanceToBleed",
+    "Description": "スペクトラルスローによる出血状態異常付与の確率が増加する。出血は継続的に物理ダメージを与え、動いている敵により大きなダメージを与える。また、スペクトラルスローに少量の物理フラットダメージも付与する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 67,
+    "Id": "SpectralThrow&LMP",
+    "Description": "スペクトラルスローが放つ投射物の数が増加し、一度により多くの敵にヒットする。\n\nレベルが上がり、投射物追加（大）サポートジェムを手に入れれば、より広い範囲の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+LesserMultipleProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+LowerMultipleProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 68,
+    "Id": "SpectralThrow&Maim",
+    "Description": "スペクトラルスローが敵にヒットすると、まれに敵を重傷状態にする。重傷状態の敵は移動スピードが減少し、受ける物理ダメージが上昇する。また、スペクトラルスロー自体の物理ダメージも上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+Maim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+Maim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 69,
+    "Id": "SpectralThrow&PhysicalToLightning",
+    "Description": "スペクトラルスローの物理ダメージの50%を雷ダメージに変換し、また物理ダメージに基づいて追加雷ダメージを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 70,
+    "Id": "SpectralThrow&PhysicalProjectileAttack",
+    "Description": "スペクトラルスローの物理ダメージが上昇する。出血と毒付与によるダメージ量も上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ProjectileDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ProjectileDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 71,
+    "Id": "SpectralThrow&SlowerProjectiles",
+    "Description": "スペクトラルスローの最大投擲範囲が減少することで、投射物がより短い時間で手元に戻るようになり、同じ敵を2回ヒットすることができるようになる。また、投擲ダメージも上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+SlowerProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 72,
+    "Id": "IceShot&ColdPenetration",
+    "Description": "敵の冷気ダメージへの耐性を下げ、敵がアイスショットから受ける冷気ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+ColdPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/IceShot+ColdPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 73,
+    "Id": "IceShot&LMP",
+    "Description": "アイスショットが放つ投射物の数が増加し、一度により多くの敵にヒットする。\n\nレベルが上がり、投射物追加（大）サポートジェムを手に入れれば、より広い範囲の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+LesserMultipleProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+LesserMultipleProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 74,
+    "Id": "IceShot&MirageArcher",
+    "Description": "アイスショットが敵にヒットすると、頭上に亡霊が出現し、アイスショットのコピーを放つ。亡霊によって放たれたコピーはスピードが遅く、ダメージも減少する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+MirageArcher.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+MirageArcher.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 75,
+    "Id": "IceShot&Pierce",
+    "Description": "アイスショットの投射物が多数の敵を通り抜けることで、より多くの敵にヒットするようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+Pierce.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 23,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+Pierce.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 76,
+    "Id": "IceShot&SlowerProjectiles",
+    "Description": "アイスショットの投擲スピードが減少するが、投擲ダメージが上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+SlowerProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 77,
+    "Id": "IceShot&ElementalDamageWithAttacks",
+    "Description": "アイスショットの元素ダメージが数倍になる。アイスショットの物理ダメージを全て元素ダメージに変換することで、このサポートのメリットが最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+WeaponElementalDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 78,
+    "Id": "ShrapnelShot&LMP",
+    "Description": "シュラプネルショットの放つ矢の数が増加し、一度により多くの敵にヒットする。\n\nレベルが上がり、、投射物追加（大）サポートジェムを手に入れれば、より広い範囲の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LesserMultipleProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LesserMultipleProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 79,
+    "Id": "ShrapnelShot&LightningPenetration",
+    "Description": "敵の雷ダメージへの耐性を下げ、敵がシュラプネルショットから受ける雷ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 49,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 80,
+    "Id": "ShrapnelShot&MirageArcher",
+    "Description": "シュラプネルショットが敵にヒットすると、頭上に亡霊が出現し、シュラプネルショットのコピーを放つ。亡霊によって放たれたコピーはスピードが遅く、ダメージも減少する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+MirageArcher.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+MirageArcher.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 81,
+    "Id": "ShrapnelShot&PhysicalToLightning",
+    "Description": "シュラプネルショットの物理ダメージの50%を雷ダメージに変換し、また物理ダメージに基づいて追加雷ダメージを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 82,
+    "Id": "ShrapnelShot&SlowerProjectiles",
+    "Description": "シュラプネルショットの投擲スピードが減少するが、投擲ダメージが上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+SlowerProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 83,
+    "Id": "ShrapnelShot&ElementalDamageWithAttacks",
+    "Description": "シュラプネルショットによる元素ダメージが数倍になる。シュラプネルショットの物理ダメージを全て元素ダメージに変換することで、このサポートのメリットが最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+WeaponElementalDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 84,
+    "Id": "SplitArrow&AddedFireDamage",
+    "Description": "物理ダメージに基づいて追加火ダメージを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+AddedFireDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 5,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+AddedFireDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 85,
+    "Id": "SplitArrow&ElementalDamageWithAttacks",
+    "Description": "スプリットアローによる元素ダメージが数倍になる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+ElementalDamagewithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ElementalDamagewithAttacks.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 86,
+    "Id": "SplitArrow&MirageArcher",
+    "Description": "スプリットアローが敵にヒットすると、頭上に亡霊が出現し、スプリットアローのコピーを放つ。亡霊によって放たれたコピーはスピードが遅く、ダメージも減少する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+MirageArcher.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+MirageArcher.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 87,
+    "Id": "SplitArrow&PhysicalProjectileAttackDamage",
+    "Description": "スプリットアローの物理ダメージが上昇する。出血と毒付与によるダメージ量も上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicalProjectileAttackDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ViciousProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 88,
+    "Id": "SplitArrow&PhysicalToLightning",
+    "Description": "スプリットアローの物理ダメージの50%を雷ダメージに変換し、また物理ダメージに基づいて追加雷ダメージを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 89,
+    "Id": "SplitArrow&Pierce",
+    "Description": "スプリットアローの投射物が多数の敵を通り抜けることで、より多くの敵にヒットするようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+Pierce.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 23,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+Pierce.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 90,
+    "Id": "GroundSlam&Brutality",
+    "Description": "グラウンドスラムの物理ダメージが上昇するが、代わりに混沌または元素ダメージを与えられなくなる。物理攻撃力の高い武器と併用すると良い。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Brutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Brutality.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 91,
+    "Id": "GroundSlam&ChanceToBleed",
+    "Description": "グラウンドスラムによる出血状態異常付与の確率が増加する。出血は継続的に物理ダメージを与え、動いている敵により大きなダメージを与える。また、グラウンドスラムに少量の物理フラットダメージも付与する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 92,
+    "Id": "GroundSlam&IncreasedAreaOfEffect",
+    "Description": "グラウンドスラムの効果範囲が増加し、一度により多数の敵をターゲットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+IncreasedAreaofEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+IncreasedAreaofEffect.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 93,
+    "Id": "GroundSlam&Maim",
+    "Description": "グラウンドスラムが敵にヒットすると、まれに敵を重傷状態にする。重傷状態の敵は移動スピードが減少し、受ける物理ダメージが上昇する。また、グラウンドスラム自体の物理ダメージも上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Maim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Maim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 94,
+    "Id": "GroundSlam&MeleePhysicalDamage",
+    "Description": "グランドスラムの近接物理ダメージが上昇する。出血と毒付与によるダメージ量も上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 95,
+    "Id": "GroundSlam&Multistrike",
+    "Description": "グランドスラムを追加で2回繰り返し、アタックスピードも大きく増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 96,
+    "Id": "HeavyStrike&AncestralCall",
+    "Description": "ヘビーストライクが、近くの敵を追加で2体ターゲットにすることができるようになる。このサポートを近接スプラッシュサポートと一緒に使用することで、広範囲の重複ダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 97,
+    "Id": "HeavyStrike&Brutality",
+    "Description": "ヘビーストライクの物理ダメージが上昇するが、代わりに混沌または元素ダメージを与えられなくなる。物理攻撃力の高い武器と併用すると良い。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+Brutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+Brutality.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 98,
+    "Id": "HeavyStrike&ChanceToBleed",
+    "Description": "ヘビーストライクによる出血状態異常付与の確率が増加する。出血は継続的に物理ダメージを与え、動いている敵により大きなダメージを与える。また、ヘビーストライクに少量の物理フラットダメージも付与する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 99,
+    "Id": "HeavyStrike&MeleePhysicalDamage",
+    "Description": "ヘビーストライクの物理ダメージが上昇する。出血と毒付与によるダメージ量も上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 100,
+    "Id": "HeavyStrike&MeleeSplash",
+    "Description": "ヘビーストライクが近くの敵にスプラッシュダメージを与えるようになる。アンセストラルコールと組み合わせることで、広い範囲に重複ダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 101,
+    "Id": "HeavyStrike&Multistrike",
+    "Description": "ヘビーストライクを追加で2回繰り返し、アタックスピードも大きく増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 102,
+    "Id": "Cleave&ChanceToBleed",
+    "Description": "クリーヴによる出血状態異常付与の確率が増加する。出血は継続的に物理ダメージを与え、動いている敵により大きなダメージを与える。また、クリーヴに少量の物理フラットダメージも付与する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 103,
+    "Id": "Cleave&ConcentratedEffect",
+    "Description": "クリーヴの効果範囲が減少するかわりに、範囲ダメージ量が大きく増加する。手ごわい個々の敵と戦う場合に有効である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+ConcentratedEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 36,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+ConcentratedEffect.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 104,
+    "Id": "Cleave&IncreasedAreaOfEffect",
+    "Description": "クリーヴの効果範囲が増加し、一度に多数の敵をターゲットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+IncreasedAreaofEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+IncreasedArea.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 105,
+    "Id": "Cleave&Maim",
+    "Description": "クリーヴが敵にヒットすると、まれに敵を重傷状態にする。重傷状態の敵は移動スピードが減少し、受ける物理ダメージが上昇する。また、クリーヴ自体の物理ダメージも上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+Maim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+Maim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 106,
+    "Id": "Cleave&MeleePhysical",
+    "Description": "クリーヴの近接物理ダメージが上昇する。出血と毒付与によるダメージ量も上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 107,
+    "Id": "Cleave&Multistrike",
+    "Description": "クリーヴを追加で2回繰り返し、アタックスピードも大きく増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 108,
+    "Id": "DoubleStrike&AncestralCall",
+    "Description": "ダブルストライクが、近くの敵を追加で2体ターゲットできるようになる。このサポートを近接スプラッシュサポートと一緒に使用することで、広範囲の重複ダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 109,
+    "Id": "DoubleStrike&ChanceToBleed",
+    "Description": "ダブルストライクによる出血状態異常付与の確率が増加する。出血は継続的に物理ダメージを与え、動いている敵により大きなダメージを与える。また、ダブルストライクに少量の物理フラットダメージも付与する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 110,
+    "Id": "DoubleStrike&MeleePhysical",
+    "Description": "ダブルストライクの近接物理ダメージが上昇する。出血と毒付与によるダメージ量も上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/DoubleStrike+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 111,
+    "Id": "DoubleStrike&Fortify",
+    "Description": "すべてのヒットから受けるダメージを軽減するバフを適用すると同時にダブルストライクによる近接物理ダメージを増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+Fortify.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+Fortify.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 112,
+    "Id": "DoubleStrike&MeleeSplash",
+    "Description": "ダブルストライクが近くの敵にスプラッシュダメージを与えるようになる。アンセストラルコールと組み合わせることで、広い範囲に重複ダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 113,
+    "Id": "DoubleStrike&Multistrike",
+    "Description": "ダブルストライクを追加で2回繰り返し、アタックスピードも大きく増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 114,
+    "Id": "MoltenStrike&AncestralCall",
+    "Description": "モルテンストライクが、近くの敵2体を追加でターゲットできるようになる。つまり、近くに最低でも敵が3体いれば、モルテンストライクの投射物が3倍に増える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 115,
+    "Id": "MoltenStrike&ConcerntratedEffect",
+    "Description": "モルテンストライクの投射物の広がりが減少するが、与える範囲ダメージが大きく増加する。手ごわい個々の敵と戦う場合に有効である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 36,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 116,
+    "Id": "MoltenStrike&ElementalDamageWithAttacks",
+    "Description": "モルテンストライクの元素ダメージが数倍になる。モルテンストライクの物理ダメージを全て元素ダメージに変換することで、このサポートのメリットが最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ElementalDamagewithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 117,
+    "Id": "MoltenStrike&MeleePhysical",
+    "Description": "モルテンストライクの物理ダメージが上昇する。物理ダメージの60%が火ダメージに変換されるため、モルテンストライクによる火ダメージも増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 118,
+    "Id": "MoltenStrike&Multistrike",
+    "Description": "モルテンストライクを追加で2回繰り返し、アタックスピードも大きく増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 119,
+    "Id": "MoltenStrike&ElementalFocus",
+    "Description": "モルテンストライクによって発火などの元素状態異常を起こすことができなくなるが、元素ダメージが大きく増加する。モルテンストライクの物理ダメージを全て元素ダメージに変換することで、このサポートのメリットが最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ElementalFocus.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ElementalFocus.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 120,
+    "Id": "Blight&VoidManipulation",
+    "Description": "混沌ダメージが上昇するが、ブライトの元素ダメージが低下する。ブライトはそもそも混沌ダメージしか与えることができないため、虚空制御をデメリット無しで使用することができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+VoidManipulation.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+VoidManipulation.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 121,
+    "Id": "LightningTendrils&ConcentratedEffect",
+    "Description": "ライトニングテンドリルの効果範囲が減少するかわりに、範囲ダメージ量が大きく増加する。倒すのが手ごわい個々の敵と戦う場合に有効である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrils+ConcentratedEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 36,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+ConcentratedEffect.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 122,
+    "Id": "LightningTendrils&IncreasedAreaOfEffect",
+    "Description": "ライトニングテンドリルの効果範囲が増加し、一度により多数の敵をターゲットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrils+IncreasedAOE.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+IncreasedAOE.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 123,
+    "Id": "CausticArrow&Pierce",
+    "Description": "コースティックアローの投射物が、複数の腐食領域を作りながら多数の敵を通り抜けることで、より多くの敵に同時にダメージを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Pierce.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 23,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Pierce.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 124,
+    "Id": "CausticArrow&LMP",
+    "Description": "コースティックアローの放つ矢の数が増加し、同時に複数の腐食領域を作ることで、より広範囲にダメージを与える。\n\nレベルが上がり投射物追加（大）サポートジェムを手に入れれば、より広い範囲の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+LMP.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+LMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 125,
+    "Id": "CausticArrow&MirageArcher",
+    "Description": "コースティックアローが敵にヒットすると、頭上に亡霊が出現し、コースティックアローのコピーを放つ。亡霊によって放たれたコピーはスピードが遅く、ダメージも減少する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+MirageArcher.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+MirageArcher.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 126,
+    "Id": "CausticArrow&ViciousProjectiles",
+    "Description": "コースティックアローのヒットによる物理ダメージと、継続混沌ダメージが大きく増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+ViciousProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+ViciousProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 127,
+    "Id": "CausticArrow&WitheringTouch",
+    "Description": "物理ダメージに基づいて、追加混沌ダメージを与える。また、まれに衰弱を引き起こし、スタックごとに敵に与える混沌ダメージが6%増加する (最大15スタックまで)。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+WitheringTouch.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 104,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+WitheringTouch.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 128,
+    "Id": "CausticArrow&Poison",
+    "Description": "コースティックアローがヒットすると、毒の状態異常を引き起こす確率が高くなる。毒は継続混沌ダメージを与えるため、コースティックアローの腐食領域と同じ恩恵にあずかることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Poison.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Poison.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 129,
+    "Id": "Smite&AncestralCall",
+    "Description": "スマイトが、近くの敵2体を追加でターゲットできるようになる。スマイトは元々範囲攻撃のため、このサポートによりダメージを与える範囲が重なると、ダメージが大きく増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 130,
+    "Id": "Smite&MeleePhysicalDamage",
+    "Description": "スマイトの物理ダメージが上昇する。物理ダメージの50%が雷ダメージに変換されるため、スマイトによる雷ダメージも増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 131,
+    "Id": "Smite&PhysicalToLightning",
+    "Description": "スマイトの物理ダメージの50%を雷ダメージに変換し、物理ダメージに基づいて追加雷ダメージを与える。スキルジェムにより、物理ダメージの50%は既に雷ダメージに変換されているため、結果的にスマイトのダメージは全て雷ダメージになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 132,
+    "Id": "Smite&ElementalDamageWithAttacks",
+    "Description": "スマイトの元素ダメージが数倍になる。スマイトの物理ダメージを全て元素ダメージに変換することで、このサポートのメリットが最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+ElementalDamagewithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 133,
+    "Id": "Smite&Multistrike",
+    "Description": "スマイトを追加で2回繰り返し、アタックスピードも大きく増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 134,
+    "Id": "Smite&ElementalFocus",
+    "Description": "スマイトによって感電などの元素状態異常を起こすことができなくなるが、スマイトの元素ダメージが大きく増加する。スマイトの物理ダメージを全て元素ダメージに変換することで、このサポートのメリットが最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+ElementalFocus.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+ElementalFocus.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 135,
+    "Id": "Frostbolt&AddedColdDamage",
+    "Description": "フロストバイトのフラット冷気ダメージが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+AddedColdDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 9,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Added%20Cold%20Damage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 136,
+    "Id": "Frostbolt&ColdPenetration",
+    "Description": "敵の冷気ダメージへの耐性を下げ、敵がフロストバイトから受ける冷気ダメージを上昇させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+ColdPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Cold%20Penetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 137,
+    "Id": "Frostbolt&Hypothermia",
+    "Description": "フロストバイトによって冷却と凍結を与える確率が上がるともに、冷却された敵により大きなダメージを与えることができるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+Hypothermia.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 72,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Hypothermia.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 138,
+    "Id": "Frostbolt&ControlledDestruction",
+    "Description": "フロストバイトのスペルダメージが上昇するが、クリティカル率が低下する。このサポートによるスペルダメージの上昇はクリティカルに左右されず、直接的で安定したダメージ増加を可能にする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Controlled%20Destruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 139,
+    "Id": "Frostbolt&SpellEcho",
+    "Description": "フロストバイトを追加で2回繰り返し、アタックスピードも大きく増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellEcho.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Echo.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 140,
+    "Id": "Frostbolt&SpellTotem",
+    "Description": "フロストバイトを使用するトーテムを召喚することで、自身のプレイするキャラクターが他の行動を取ることができるようになる。トーテムを複数召喚できるようになると、より強力になる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellTotem.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Totem.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 141,
+    "Id": "Blight&IncreasedDuration",
+    "Description": "ブライトのスロー効果と、継続混沌ダメージデバフ効果の継続時間が増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+IncreasedDuration.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+IncreasedDuration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 142,
+    "Id": "CausticArrow&SwiftAffliction",
+    "Description": "コースティックアローの腐食領域の継続時間が減少するが、与える継続ダメージが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+SwiftAffliction.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+SwiftAffliction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 143,
+    "Id": "CausticArrow&VoidManipulation",
+    "Description": "コースティックアローの混沌ダメージが増加するが、元素ダメージが低下する。腐食領域はもそも混沌ダメージしか与えることができないため、虚空制御をデメリット無しで使用することができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+VoidManipulation.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+VoidManipulation.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 144,
+    "Id": "FreezingPulse&AddedColdDamage",
+    "Description": "フリージングパルスのフラット冷気ダメージが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+AddedColdDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 9,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+AddedColdDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 145,
+    "Id": "FrostBlades&IceBite",
+    "Description": "フロストブレードに、追加冷気ダメージ、凍結確率の増加、凍結した敵を倒すことによってフレンジーチャージを得る可能性を付与する。\n\nフレンジーチャージはプレイヤーのアタックスピード、キャストスピード、そしてダメージを増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/Frostblades+IceBite.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 71,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+Icebite.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 146,
+    "Id": "Frostbolt&FasterCasts",
+    "Description": "フロストボルトのキャストスピードが増加し、投射物がより頻繁に放たれるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+FasterCasts.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 28,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt+FasterCasts.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 147,
+    "Id": "GlacialHammer&Hypothermia",
+    "Description": "グレイシャルハンマーのダメージと、冷却された敵を凍結する確率が増加する。また、グレイシャルハンマーによる冷却のスロー効果も増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Hypothermia.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 72,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+Hypothermia.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 148,
+    "Id": "MagmaOrb&FasterCast",
+    "Description": "ローリングマグマのキャストスピードが増加し、投射物がより頻繁に放たれるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 28,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 149,
+    "Id": "RaiseZombie&MeleePhysicalDamage",
+    "Description": "ゾンビミニオンの物理ダメージが上昇するともに、出血と毒付与によるダメージ量も上昇する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+PhysicalMeleeDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+PhysicalMeleeDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 150,
+    "Id": "SpectralThrow&AddedFireDamage",
+    "Description": "与えた物理ダメージに基づいて、スペクトラルスローに追加火ダメージを付与する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+AddedFireDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 5,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+AddedFireDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 151,
+    "Id": "SplitArrow&FasterAttacks",
+    "Description": "スプリットアローのアタックスピードが増加し、投射物がより頻繁に放たれるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+FasterAttacks.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 6,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 152,
+    "Id": "SplitArrow&ChanceToBleed",
+    "Description": "スプリットアローによる出血状態異常付与の確率が増加する。出血は継続的に物理ダメージを与え、動いている敵にはよりダメージを与える。また、スプリットアローに少量の物理フラットダメージも付与する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+FasterAttacks.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 153,
+    "Id": "PurifyingFlame&AddedFire",
+    "Description": "与えた物理ダメージに基づいて、追加火ダメージを付与する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+AddedFire.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 5,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+AddedFireDamageCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 154,
+    "Id": "PurifyingFlame&PhysToLightning",
+    "Description": "ピュリファイングフレイムの物理ダメージの50%を雷ダメージに変換し、物理ダメージに基づいて追加雷ダメージを与える。スキルジェムにより、物理ダメージの50%は既に火ダメージに変換されているため、結果的にピュリファイングフレイムのダメージは全て元素ダメージになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+PhystoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+PhysicaltoLightningCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 155,
+    "Id": "PurifyingFlame&Intensify",
+    "Description": "ピュリファイングフレイムの効果範囲が上昇し、キャストするごとにインテンシファイスタックを付与する。これにより効果範囲が減少し、ダメージが増加する。何度もキャストすることが可能になり、強敵にダメージを与えることができる。\n\n移動したり、テレポートすると、インテンシファイスタックが徐々に減っていく。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+Int.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+IntensifyCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 156,
+    "Id": "PurifyingFlame&ControlledDestruction",
+    "Description": "ピュリファイングフレイムのスペルダメージが上昇するが、クリティカル率が低下する。このサポートによるスペルダメージの上昇はクリティカルに左右されず、直接的で安定したダメージ増加を可能にする。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+ControlledDestructionCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 157,
+    "Id": "PurifyingFlame&Unleash",
+    "Description": "時間とともに、ピュリファイングフレイムのチャージを与える。スキルを使用するとチャージが消費され、そのスキルの効果を繰り返し放出し、敵に複数回、素早くダメージを与える。チャージを消費して放出されたダメージは、わずかに減少する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+Unleash.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 106,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+UnleashCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 158,
+    "Id": "PurifyingFlame&ElementalFocus",
+    "Description": "ピュリファイングフレイムによって発火などの元素状態異常を与えることができなくなるが、元素ダメージが大きく増加する。ピュリファイングフレイムによる物理ダメージを全て元素ダメージに変換することで、このサポートの利点が最大化する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+EF.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+ElementalFocusCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 159,
+    "Id": "StormblastMine&AddedLightning",
+    "Description": "ストームブラストマインの爆発にフラット雷ダメージを追加する。\n\nよりダメージを与えることで感電力が増加し、感電した敵にさらにダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastAddedLight.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 12,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastAddedLight.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 160,
+    "Id": "StormblastMine&SwiftAssembly",
+    "Description": "高速組立は、ストームブラストマインをサポートし、マインを投げるとまれに追加でもうひとつマインを投げることができるようになる。マインが増えれば、ストームブラストの爆発も増える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastSwiftAssembly.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastSwiftAssembly.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 161,
+    "Id": "StormblastMine&Trap&MineDamage",
+    "Description": "ストームブラストマインの爆発によるダメージが増加する。\n\nよりダメージを与えることで感電力が増加し、感電した敵にさらにダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastTrapMine.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastTrapMine.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 162,
+    "Id": "StormblastMine&LightningPenetration",
+    "Description": "ストームブラストマインの雷ダメージが、雷耐性を突破する。これにより、ボス、レアモンスター、マジックモンスターなどの雷耐性を持つ敵に対して一定のダメージを与えられるようになる。\n\nモンスターが耐性を持つかどうかは、モッドに記載されている。カーソルをモンスターに合わせてモッドを確認しよう。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastLightPen.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 49,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastLightningPen.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 163,
+    "Id": "StormblastMine&ChargedMines",
+    "Description": "チャージドマインがリンクしている間、ストームブラストマインで敵にダメージを与えた際にまれにフレンジーチャージとパワーチャージを付与する。\n\nフレンジーチャージは移動、攻撃、スペルをキャストする際のスピードを増加させる (最大3チャージ) \n\nパワーチャージはチャージごとにクリティカル率を増加させる (最大3チャージ)。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastCharged.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastChargedMines.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 164,
+    "Id": "StormblastMine&IncreasedAoE",
+    "Description": "ストームブラストマインの効果範囲が増加し、爆発が大きくなることで、より多くの敵にヒットするようになる。また爆発前に、より多くの敵により大きなダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastIncreasedAoE.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastIncreasedAoE.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 165,
+    "Id": "StormblastMine&ConcentratedEffect",
+    "Description": "効果濃縮サポートによってストームブラストの爆発が小さくなり、より集中した範囲にダメージを与える。\nつまりヒットする敵の数は減るが、より多くのダメージを与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastConcAoE.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 36,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastConcentratedAoE.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 166,
+    "Id": "CobraLash&LMP",
+    "Description": "コブララッシュの投射物の数が増加し、より広い範囲の敵にヒットする。それぞれの投射物が敵の間を飛び跳ねることで、多数の敵にヒットする。\n\nレベルが上がり投射物追加（大）サポートジェムを手に入れれば、投射物の数が増え、より多数の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashLMP.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashLMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 167,
+    "Id": "CobraLash&Poison",
+    "Description": "コブララッシュの毒付与確率が増加し、また毒によるダメージも上昇する。複数の敵に毒を与えるのに効果的。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashPoison.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashPoison.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 168,
+    "Id": "CobraLash&DeadlyAilments",
+    "Description": "コブララッシュのヒットによるダメージが低下するが、代わりに毒ダメージが大幅に上昇する。\n敵に対してより強い毒を与えるのに効果的。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashDeadlyAilments.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashDeadlyAilments.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 169,
+    "Id": "CobraLash&AddedChaos",
+    "Description": "コブララッシュにフラット混沌ダメージを付与し、敵に与えるダメージを増加させる。\n\n混沌ダメージと物理ダメージを多く与えるヒットは、同時に与える毒ダメージも大きくなるため、ヒットによる混沌ダメージが増加すると、毒ダメージも増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashAddedC.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 19,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashAddedC.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 170,
+    "Id": "CobraLash&VileToxins",
+    "Description": "猛毒はコブララッシュの毒ダメージを増加し、また毒状態異常の敵に対してさらにダメージを与えることができる。ボスのような強敵に毒スタックを付与し、大きなダメージを与えるのに効果的。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashVile.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashVile.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 171,
+    "Id": "CobraLash&UnboundAilments",
+    "Description": "状態異常解放サポートは、コブララッシュによって敵に付与した毒のダメージと持続時間を増加させる。ボスのような強敵に毒スタックを付与し、大きなダメージを与えるのに効果的。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashUnboundAilments.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashUnboundAilments.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 172,
+    "Id": "Perforate&Maim",
+    "Description": "パーフォレイトをこのジェムでサポートすると、敵を重傷状態する。また物理ダメージが上昇し、敵の移動スピードを下げる。これを使えば、敵の動きを遅くして、避けやすくすることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateMaim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateMaim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 173,
+    "Id": "Perforate&MeleePhysicalDamage",
+    "Description": "このジェムにより、パーフォレイトがより大きなダメージを与えることができるようになる。シンプルだが、敵を早く倒す効果的な方法である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateMeleePhysical.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateMeleePhysical.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 174,
+    "Id": "Perforate&CloseCombat",
+    "Description": "近距離戦闘サポートは、近くの敵に与えるダメージを増加させる。パーフォレイトは近くの敵のみにヒットするスキル(サンドスタンス使用中を除く) なので、このサポートはダメージを増加させる効果的な方法である。\n\nこのジェムを使用中は、敵にヒットした後、移動スキルのスピードも速くなる。移動スキルによって危険を回避できる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateClosecombat.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 107,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateCloseCombat.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 175,
+    "Id": "Perforate&Impale",
+    "Description": "物理ダメージが上昇し、串刺しバフによって敵を串刺しにする。\n\n敵を串刺しにすると、ダメージの一部が敵に蓄積し、その後5秒間その敵に対して追加蓄積ダメージを与えることが出来る。同じ敵を2回以上串刺しにし、より大きなダメージを与えることもできる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateImpale.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateImpale.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 176,
+    "Id": "Perforate&Brutality",
+    "Description": "パーフォレイトの物理ダメージが上昇するが、元素ダメージがゼロになる。\n\n雷、火、冷気または混沌ダメージモッドをこのサポートと一緒に使用しないこと。このサポートによってダメージが大きくなるのは物理ダメージのみである。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateBrutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateBrutality.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 177,
+    "Id": "Perforate&Multistrike",
+    "Description": "パーフォレイトのアタックスピードが大幅に増加し、3回素早く続けて攻撃する。2回目と3回目の攻撃はよりダメージが大きくなる。\n\n複数攻撃をしている間は、攻撃を止めたり移動したりできなくなる。このジェムによって与えるダメージは大幅に増加するが、敵に攻撃されている最中に動けなくならないように注意が必要。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateMultiStrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateMultiStrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 178,
+    "Id": "Frostblink&IncreasedAoE",
+    "Description": "フロストブリンクの冷却爆発と冷却領域のサイズが増加する。複数の敵にダメージを与え、敵のスピードを遅くして追ってこないようにするのに効果的。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIncreasedAoE.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TFrostblinkIncreasedAoE.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 179,
+    "Id": "Frostblink&BoneChill",
+    "Description": "酷寒はフロストブリンクの効果を強力にし、敵のスピードをより下げることで、敵から逃れやすくなる。フロストブリンクによって冷却された敵はより大きな冷気ダメージを受けるため、冷気ダメージがメインのスキルの場合に役立つ。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkBonechill.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TFrostblinkBonechill.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 180,
+    "Id": "Steelskin&IncreasedDuration",
+    "Description": "スティールスキンによるボーナスの持続時間を増やし、敵からの攻撃をより多く防ぐ。シンプルだが効果的に防御力を上げる方法である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Steelskin/ESteelskinDuration.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TSteelskinDuration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 181,
+    "Id": "Steelskin&CWDT",
+    "Description": "ダメージを受けると、自動的にスティールスキンが発動する。不意打ちに効果的。\n\nこのジェムにより、スティールスキンを手動で発動することはできなくなり、敵の攻撃を受ける前に発動して防御することもできない。そのため、このジェムを使用する場合は、敵の攻撃を防ぐ他の方法を使う必要がある。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Steelskin/ESteelskinCWDT.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TSteelskinCWDT.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 182,
+    "Id": "GalvanicArrow&PhystoLightning",
+    "Description": "ガルヴァニックアローの物理ダメージを全て雷ダメージに変換する。つまり、ガルヴァニックアローによるダメージの50%が雷ダメージ、50%が物理ダメージのところ、全てが雷ダメージになるということである。\n\nこのジェムによって、ダメージを増やすことが容易になる。もし雷ダメージや元素ダメージを増加させるスキルを使用すれば、ガルヴァニックアローによる雷ダメージの全てが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowPhysToLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage1.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 183,
+    "Id": "GalvanicArrow&ElementalDamagewithAttacks",
+    "Description": "ガルヴァニックアローの元素ダメージを増加し、敵により大きなダメージを与える。\nこのジェムによってガルヴァニックアローの物理ダメージは増加しないが、雷ダメージは増加する。\n\nこのジェムと物理から雷変換サポートジェムを一緒に使用すると、ガルヴァニックアローのダメージ全てが増加するため、効果的である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowElementalDamageWithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage2.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 184,
+    "Id": "GalvanicArrow&LightningPenetration",
+    "Description": "ガルヴァニックアローの雷ダメージが、敵の雷耐性を突破するようになる。\nこのジェムにより、ボス、レアモンスター、マジックモンスターのような雷耐性を持つ敵に対して一定の大きなダメージを与えることができるようになる。\n\nガルヴァニックアローの物理ダメージは、雷耐性に影響を受けないため、耐性を突破することはできない。\n\nモンスターが耐性を持つかどうかは、モッドに記載されている。カーソルをモンスターに合わせてモッドを確認しよう。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowLightPen.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 49,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowLightPen.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 185,
+    "Id": "GalvanicArrow&MirageArcher",
+    "Description": "ガルヴァニックアローが敵にヒットすると、頭上にミラージュアーチャーが召喚される。このミラージュアーチャーは、消えるまで近くの敵にガルヴァニックアローを発射する。\n\nこのジェムの用途は広く、移動中に敵を攻撃したり、対面していない敵を攻撃したり、ダメージを増加させたりすることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowMirage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowMirage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 186,
+    "Id": "GalvanicArrow&Barrage",
+    "Description": "連射サポートジェムによって矢を浴びせ、ガルヴァニックアローが放たれるごとに、雷が起こす。これにより、矢が円錐形に放たれる代わりに、連続して放たれるようになる。\n\nこのジェムはボスのような強い敵に、攻撃の嵐を浴びせるのに効果的。\n矢を放っている間は動けなくなり、敵から逃れらなくなるので、危険な状況で使用するには注意が必要。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowBarrage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 187,
+    "Id": "GalvanicArrow&FasterProjectiles",
+    "Description": "ガルヴァニックアローによって起こる雷のサイズと、矢のスピードが増加する。このジェムは、雷の規模を大きくし、矢をより遠くまで放つことでより多くの敵にヒットするのに効果的。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowFasterProj.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 8,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowFasterProj.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 188,
+    "Id": "KineticBolt&Barrage",
+    "Description": "キネティックボルトを連続で浴びせ、広いエリアの敵に一定のダメージを与える。\n\nキネティックボルトを放っている間は動けなくなる。このジェムによって与えるダメージは大幅に増加するが、敵に攻撃されている最中に動けなくならないように注意が必要。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltBarrage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltBarrage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 189,
+    "Id": "KineticBolt&AddedLightningDamage",
+    "Description": "キネティックボルトとその投射物に雷ダメージを加える。シンプルだが敵を早く倒す貴重な方法である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltLightning.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 12,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 190,
+    "Id": "KineticBolt&AddedColdDamage",
+    "Description": "キネティックボルトとその投射物に冷気ダメージを加える。シンプルだが敵を早く倒す貴重な方法である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltCold.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 9,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltCold.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 191,
+    "Id": "KineticBolt&ElementalDamageWithAttacks",
+    "Description": "キネティックボルトとその投射物の元素ダメージを増加させる。\n\nキネティックボルトはもともと元素ダメージを与えないため、追加の元素ダメージは装備品 (または雷追加、冷気追加サポートジェム) から来るものである。このジェムはそれらのダメージを増加し、敵をより早く倒す。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 192,
+    "Id": "KineticBolt&Inspiration",
+    "Description": "キネティックボルトの消費マナが減少する。また、キネティックボルトの元素ダメージとクリティカル率が攻撃ごとに増加する。\nワンドは強力なクリティカルヒットを与える。クリティカルヒットはより多くのダメージを与え、敵の元素状態異常を引き起こす。\nキネティックボルトはもともと元素ダメージを与えないため、追加の元素ダメージは装備品 (または雷追加、冷気追加サポートジェム) から来るものである。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 14,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 193,
+    "Id": "SplittingSteel&Impale",
+    "Description": "物理ダメージを増加し、敵を串刺しにすることで、追加ヒットと追加ダメージを与える。敵を最大で5回串刺しにし、より多くの追加ダメージを敵に与えることができる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 194,
+    "Id": "SplittingSteel&Brutality",
+    "Description": "スプリッティングスティールの物理ダメージをより増加するが、元素ダメージは与えない。\n\n追加雷、火、冷気、混沌ダメージをこのジェムと一緒に使用すると、その効果はゼロになるため、避けるべきである。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 195,
+    "Id": "SplittingSteel&LMP",
+    "Description": "スプリティングスティールの破片の数が増加し、より多くの敵にヒットする。\n\nレベルが上がり、投射物追加（大）サポートジェムを手に入れれば、投射物の数が2つに増え、より多数の敵をヒットできるようになる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 196,
+    "Id": "SplittingSteel&ViciousProjectiles",
+    "Description": "スプリティングスティールのアタックスピードが減少する代わりに、物理ダメージを大幅に増加する。ダメージを増加させる貴重な方法である。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 197,
+    "Id": "SplittingSteel&Maim",
+    "Description": "このジェムでスプリティングスティールをサポートすれば、敵を重傷状態にし、より多くの物理ダメージを与え、敵の動きを遅くすることが出来る。動きの遅くなった敵は、避けやすい。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 198,
+    "Id": "SplittingSteel&SlowerProjectiles",
+    "Description": "スプリティングスティールの投射物のスピードを遅くすることで、より大きなダメージを与える。コールオブスティールの爆発により放たれた投射物のスピードも遅くなり、より大きなダメージを与える。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 199,
+    "Id": "ShieldCrush&Multistrike",
+    "Description": "攻撃を三回連続して繰り返すことでシールドクラッシュのアタックスピードを大幅に増加させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushMultistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushMultistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 200,
+    "Id": "ShieldCrush&Pulverise",
+    "Description": "このジェムによりサポートするとシールドクラッシュのアタックスピードは遅くなるが、効果範囲と範囲ダメージを増やす。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushPulverize.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushPulverize.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 201,
+    "Id": "ShieldCrush&MeleePhysicalDamage",
+    "Description": "シールドクラッシュのアタックスピードを減らすが、与える近接物理ダメージを増やし、シールドクラッシュで付与した出血と毒のダメージを上げる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushMeleePhysBrutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushMeleePhysBrutality.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 202,
+    "Id": "ShieldCrush&Fortify",
+    "Description": "このジェムがシールドクラッシュをサポートし、シールドクラッシュで敵にヒットを与えた場合に堅牢化を獲得する。シールドクラッシュによるヒットおよび状態異常のダメージが増加する。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushFortify.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushFortify.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 203,
+    "Id": "ShieldCrush&Brutality",
+    "Description": "このジェムによりサポートすると混沌ダメージと元素ダメージを与えられなくなる代わりにシールドクラッシュの物理ダメージを大幅に向上させる。",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushMeleePhysBrutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushMeleePhysBrutality.bk2",
+    "CharactersKeys": []
+  }
+]

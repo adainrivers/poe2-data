@@ -1,0 +1,101 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AdditionalRewards1",
+    "RewardText": "Todos os Tipos de Recompensa possuem uma recompensa adicional",
+    "RewardGroup": 0,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 1,
+    "Id": "RewardsMultiplier2",
+    "RewardText": "Recompensas são Dobradas",
+    "RewardGroup": 1,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 2,
+    "Id": "RewardTypeOverrideDivination",
+    "RewardText": "Todos os Tipos de Recompensa são Cartas de Adivinhação",
+    "RewardGroup": 2,
+    "ScriptArgument": "DivinationCards",
+    "MinLevel": 46,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 3,
+    "Id": "RewardTypeOverrideUniques",
+    "RewardText": "Todos os Tipos de Recompensa são Únicos",
+    "RewardGroup": 2,
+    "ScriptArgument": "Uniques",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 4,
+    "Id": "RewardTypeOverrideCurrency",
+    "RewardText": "Todos os Tipos de Recompensa são Itens Monetários",
+    "RewardGroup": 2,
+    "ScriptArgument": "Currency",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 5,
+    "Id": "MinionsHaveRewards",
+    "RewardText": "Lacaios dos Monstros derrubam um Tipo de Recompensa escolhida aleatoriamente",
+    "RewardGroup": 3,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 6,
+    "Id": "BetterRewards1",
+    "RewardText": "Recompensas são roladas 1 vez adicional, escolhendo o resultado mais raro",
+    "RewardGroup": 4,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 7,
+    "Id": "BetterRewards2",
+    "RewardText": "Recompensas são roladas 2 vez adicional, escolhendo o resultado mais raro",
+    "RewardGroup": 4,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 8,
+    "Id": "BetterRewards4",
+    "RewardText": "Recompensas são roladas 4 vez adicional, escolhendo o resultado mais raro",
+    "RewardGroup": 4,
+    "ScriptArgument": "4",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 9,
+    "Id": "BetterRewards8",
+    "RewardText": "Recompensas são roladas 6 vez adicional, escolhendo o resultado mais raro",
+    "RewardGroup": 4,
+    "ScriptArgument": "6",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 10,
+    "Id": "CorruptedRewards",
+    "RewardText": "Itens derrubados dos Monstros e seus Lacaios são Corrompidos",
+    "RewardGroup": 5,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  }
+]

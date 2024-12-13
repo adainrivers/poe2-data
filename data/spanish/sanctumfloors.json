@@ -1,0 +1,110 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Caverns",
+    "Area": {
+      "RowIndex": 124,
+      "TableName": "WorldAreas",
+      "Id": "Sanctum_1"
+    },
+    "Title": {
+      "RowIndex": 6628,
+      "TableName": "ClientStrings",
+      "Id": "SanctumMapFirstFloorTitle"
+    },
+    "RoomIcon": "Art/2DArt/UIImages/InGame/Sanctum/RoomMapBase",
+    "BossIcon": "Art/2DArt/UIImages/InGame/Sanctum/RattlecageBossIcon",
+    "Description": "Contiene a Rompesuelos, el Terremoto",
+    "Summary": {
+      "RowIndex": 6773,
+      "TableName": "ClientStrings",
+      "Id": "SanctumMapFirstFloorRunEndedSummary"
+    },
+    "Itemised": {
+      "RowIndex": 1657,
+      "TableName": "BaseItemTypes",
+      "Id": "Metadata/Items/Sanctum/SanctumFloor1"
+    }
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Ruins",
+    "Area": {
+      "RowIndex": 128,
+      "TableName": "WorldAreas",
+      "Id": "Sanctum_2"
+    },
+    "Title": {
+      "RowIndex": 6629,
+      "TableName": "ClientStrings",
+      "Id": "SanctumMapSecondFloorTitle"
+    },
+    "RoomIcon": "Art/2DArt/UIImages/InGame/Sanctum/RoomMapBase2",
+    "BossIcon": "Art/2DArt/UIImages/InGame/Sanctum/StatuesBossIcon",
+    "Description": "Contiene a los Centinelas de terracota",
+    "Summary": {
+      "RowIndex": 6774,
+      "TableName": "ClientStrings",
+      "Id": "SanctumMapSecondFloorRunEndedSummary"
+    },
+    "Itemised": {
+      "RowIndex": 1658,
+      "TableName": "BaseItemTypes",
+      "Id": "Metadata/Items/Sanctum/SanctumFloor2"
+    }
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Depths",
+    "Area": {
+      "RowIndex": 132,
+      "TableName": "WorldAreas",
+      "Id": "Sanctum_3"
+    },
+    "Title": {
+      "RowIndex": 6630,
+      "TableName": "ClientStrings",
+      "Id": "SanctumMapThirdFloorTitle"
+    },
+    "RoomIcon": "Art/2DArt/UIImages/InGame/Sanctum/RoomMapBase3",
+    "BossIcon": "Art/2DArt/UIImages/InGame/Sanctum/ScorpionBossIcon",
+    "Description": "Contiene a Ashar, la Madre de las arenas",
+    "Summary": {
+      "RowIndex": 6775,
+      "TableName": "ClientStrings",
+      "Id": "SanctumMapThirdFloorRunEndedSummary"
+    },
+    "Itemised": {
+      "RowIndex": 1659,
+      "TableName": "BaseItemTypes",
+      "Id": "Metadata/Items/Sanctum/SanctumFloor3"
+    }
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Abyss",
+    "Area": {
+      "RowIndex": 136,
+      "TableName": "WorldAreas",
+      "Id": "Sanctum_4"
+    },
+    "Title": {
+      "RowIndex": 6631,
+      "TableName": "ClientStrings",
+      "Id": "SanctumMapFourthFloorTitle"
+    },
+    "RoomIcon": "Art/2DArt/UIImages/InGame/Sanctum/RoomMapBase4",
+    "BossIcon": "Art/2DArt/UIImages/InGame/Sanctum/DjinnBossIcon",
+    "Description": "Contiene a Zarokh, el Temporal",
+    "Summary": {
+      "RowIndex": 6776,
+      "TableName": "ClientStrings",
+      "Id": "SanctumMapFourthFloorRunEndedSummary"
+    },
+    "Itemised": {
+      "RowIndex": 1660,
+      "TableName": "BaseItemTypes",
+      "Id": "Metadata/Items/Sanctum/SanctumFloor4"
+    }
+  }
+]

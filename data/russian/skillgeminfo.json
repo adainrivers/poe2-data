@@ -1,0 +1,2156 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Blight&ArcaneSurge",
+    "Description": "Дает временный положительный эффект после расхода некоторого количества маны Мором. Положительный эффект дает Мору больше урона от чар и регенерацию маны для поддержания сотворения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+Arcane%20Surge.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 102,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+ArcaneSurge.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Blight&ControlledDestruction",
+    "Description": "Дает больше урона от чар, но снижает шанс критического удара. Однако, невозможность нанести критический удар Мором означает, что Контролируемое разрушение даст больше урона от чар без каких-либо недостатков.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+Controlled%20Destruction.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Blight&Efficacy",
+    "Description": "Увеличивает постепенный урон и урон от чар Мора. Увеличенная длительность эффекта умения также увеличивает длительность отрицательного эффекта Мора на врагах.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+Efficacy.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+Efficacy.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Blight&SwiftAffliction",
+    "Description": "Уменьшает общую длительность отрицательного эффекта Мора, но в качестве компенсации увеличивает постепенный урон от Мора.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+SwiftAffliction.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+SwiftAffliction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 4,
+    "Id": "Blight&IncreasedAreaOfEffect",
+    "Description": "Увеличивает область действия Мора, что позволяет единовременно поразить большее количество целей.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+IncreasedArea%20of%20Effect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+IncreasedArea.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 5,
+    "Id": "FreezingPulse&LMP",
+    "Description": "Увеличивает количество снарядов Волны холода, позволяя ей единовременно поразить больше целей.\n\nНа более высоких уровнях возьмите камень поддержки Много дополнительных снарядов, чтобы нанести удары врагам в большей области.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+LesserMultipleProjectiles.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+LMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 6,
+    "Id": "FreezingPulse&ColdPenetration",
+    "Description": "Уменьшает вражеское сопротивление холоду, заставляя их получать больше урона от холода от Волны холода.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+ColdPenetration.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+ColdPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 7,
+    "Id": "FreezingPulse&ControlledDestruction",
+    "Description": "Дает больше урона от чар Волне холода, но снижает шанс критического удара. Свойство \"больше урона от чар\", которое дает этот камень поддержки, обеспечивает прямое и стабильное увеличение урона, не зависящее от критических ударов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+ControlledDestruction.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 8,
+    "Id": "FreezingPulse&FasterProjectiles",
+    "Description": "Повышает скорость снарядов Волны холода, увеличивая максимальную дальность полета снарядов. Это позволит Волне холода поразить врагов, находящихся вдали.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+FasterProjectiles.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 8,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+FasterProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 9,
+    "Id": "FreezingPulse&SpellEcho",
+    "Description": "Ещё один раз повторно сотворяет Волну холода и значительно повышает скорость её сотворения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+SpellEcho.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+SpellEcho.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 10,
+    "Id": "FreezingPulse&Volley",
+    "Description": "Увеличивает количество снарядов Волны холода. Снаряды летят параллельно друг другу, что позволяет единовременно поразить большое количество целей.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+Volley.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+Volley.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 11,
+    "Id": "LightingTendrils&AddedLightningDamage",
+    "Description": "Увеличивает количество плоского урона от молнии, который наносят ваши Побеги молний.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/Lighting%20Tendrils+AddedLightningDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 12,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+AddedLightningDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 12,
+    "Id": "LightingTendrils&ControlledDestruction",
+    "Description": "Дает больше урона от чар Побегам молний, но снижает шанс критического удара. Свойство \"больше урона от чар\", которое дает этот камень поддержки, обеспечивает прямое и стабильное увеличение урона, не зависящее от критических ударов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ControlledDestruction.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 13,
+    "Id": "LightingTendrils&ElementalFocus",
+    "Description": "Ваши Побеги молний не смогут накладывать на врагов стихийные состояния, такие как шок. Однако, урон от стихий Побегов молний будет существенно увеличен.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightingTendrils+ElementalFocus.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 14,
+    "Id": "LightingTendrils&LightningPenetration",
+    "Description": "Уменьшает вражеское сопротивление молнии, заставляя их получать больше урона от молнии от Побегов молний.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 49,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+LightningPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 15,
+    "Id": "MagmaOrb&Combustion",
+    "Description": "Дарует Ползучей магме больше урона от огня, дополнительный шанс поджечь врагов, и уменьшает сопротивление подожжённых врагов огню. Этот камень поддержки отлично подойдёт к любому огненному умению.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 16,
+    "Id": "MagmaOrb&LMP",
+    "Description": "Увеличивает количество снарядов Ползучей магмы, позволяя ей одновременно поражать больше целей.\n\nНа более высоких уровнях возьмите камень поддержки Много дополнительных снарядов, чтобы наносить удары врагам в большей области.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 17,
+    "Id": "MagmaOrb&FirePenetration",
+    "Description": "Уменьшает вражеское сопротивление огню, заставляя врагов получать больше урона от огня от Ползучей магмы.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 47,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 18,
+    "Id": "MagmaOrb&SpellEcho",
+    "Description": "Ещё один раз повторно сотворяет Ползучую магму и значительно повышает скорость её сотворения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 19,
+    "Id": "MagmaOrb&SlowerProjectiles",
+    "Description": "Увеличивает урон Ползучей магмы и уменьшает дальность полёта снаряда между каждым нанесением удара по цепи, позволяя одному шару несколько раз поразить одну и ту же группу монстров.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 20,
+    "Id": "MagmaOrb&Empower",
+    "Description": "Повышает уровень камня Ползучая магма, даёт дополнительный базовый урон от огня и открывает возможность нанесения дополнительных ударов по цепи. Это очень редкий камень, который может только выпасть. Повышение уровня этого камня занимает много времени, что делает его не очень полезным на ранних стадиях игры.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 21,
+    "Id": "Fireball&BurningDamage",
+    "Description": "Значительно увеличивает постепенный урон от поджогов, накладываемых Огненным шаром.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+BurningDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+BurningDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 22,
+    "Id": "Fireball&Combustion",
+    "Description": "Дает Огненному шару больше урона от огня, дополнительный шанс поджечь врагов и снижает сопротивлению огню подожжённых врагов. Этот камень поддержки отлично подойдет к любому огненному умению.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+Combustion.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+Combustion.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 23,
+    "Id": "Fireball&ControlledDestruction",
+    "Description": "Дает больше урона от чар Огненному шару, но снижает шанс критического удара. Свойство \"больше урона от чар\", которое дает этот камень поддержки, обеспечивает прямое и стабильное увеличение урона, не зависящее от критических ударов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 24,
+    "Id": "Fireball&DeadlyAilments",
+    "Description": "Уменьшает урон от ударов Огненного шара, давая взамен больше урона от состояний. Этот камень особенно подойдет для персонажей с Огненным шаром, которые хотят сделать упор на увеличение постепенного урона от поджогов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+DeadlyAilments.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+DeadlyAilments.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 25,
+    "Id": "Fireball&FirePenetration",
+    "Description": "Уменьшает вражеское сопротивление огню, заставляя их получать больше урона от огня от Огненного шара.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+FirePenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 47,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+FirePenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 26,
+    "Id": "Fireball&IgniteProliferate",
+    "Description": "Повышает шанс наложения поджога от Огненного шара на врагов, одновременно позволяя поджогу распространяться на врагов поблизости.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+IgniteProliferation.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 94,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+IgniteProliferation.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 27,
+    "Id": "Fireball&LMP",
+    "Description": "Увеличивает количество снарядов Огненного шара, позволяя ему единовременно поразить больше целей.\n\nНа более высоких уровнях возьмите камень поддержки Много дополнительных снарядов, чтобы нанести удары врагам в большей области.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+LesserMultipleProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+LMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 28,
+    "Id": "Fireball&SpellEcho",
+    "Description": "Ещё один раз повторно сотворяет Огненный шар и значительно повышает скорость его сотворения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+SpellEcho.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+SpellEcho.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 29,
+    "Id": "Fireball&SwiftAffliction",
+    "Description": "Уменьшает общую длительность поджога на врагах, но повышает урон от поджога, позволяя вашим поджогам гореть быстрее и сильнее.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Fireball/Fireball+SwiftAffliction.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Fireball/Fireball+SwiftAffliction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 30,
+    "Id": "RaiseZombie&FasterAttacks",
+    "Description": "Повышает скорость атаки ваших приспешников-зомби.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+FasterAttacks.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 6,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+FasterAttacks.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 31,
+    "Id": "RaiseZombie&MeleeSplash",
+    "Description": "Превращает базовую атаку ваших приспешников-зомби в атаку по области. Это значит, что зомби смогут поразить своей базовой атакой сразу нескольких врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 32,
+    "Id": "RaiseZombie&MinionDamage",
+    "Description": "Дает больше урона вашим приспешникам-зомби.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MinionDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MinionDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 33,
+    "Id": "RaiseZombie&MinionHealth",
+    "Description": "Увеличивает максимум здоровья ваших приспешников-зомби, позволяя им дольше оставаться в живых в битвах с сильными противниками.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MinionHealth.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MinionLife.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 34,
+    "Id": "RaiseZombie&Multistrike",
+    "Description": "Позволяет вашим зомби ещё два раза повторить их мощную сотрясающую атаку по области.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 35,
+    "Id": "RaiseZombie&MinionTotemResistance",
+    "Description": "Снижает получаемый вашими зомби урон от стихий, позволяя им дольше оставаться в живых в битвах с врагами, наносящими урон от стихий.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+TotemandElementalResist.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 57,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombie+MinionResist.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 36,
+    "Id": "GlacialHammer&AncestralCall",
+    "Description": "Позволяет Леденящему молоту выбрать целью двух дополнительных врагов поблизости. Добавление Раскатистого удара в пару к этому камню поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 37,
+    "Id": "GlacialHammer&IceBite",
+    "Description": "Добавляет Леденящему молоту плоский урон от холода, повышенный шанс заморощить, шанс получить заряды ярости при убийстве замороженных врагов, и добавляет урон от холода за каждый заряд ярости на вас. Эти свойства отлично сочетаются со встроенной в Леденящий молот способностью разбивать замороженных врагов при малом количестве здоровья.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Icebite.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 71,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+IceBite.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 38,
+    "Id": "GlacialHammer&MeleePhysical",
+    "Description": "Дает Леденящему молоту больше физического урона в ближнем бою. Поскольку 50% физического урона становится уроном от холода, этот камень поддержки также увеличивает урон от холода, который наносит Леденящий молот.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 39,
+    "Id": "GlacialHammer&MeleeSplash",
+    "Description": "Позволяет вашему Леденящему молоту наносить урон в области по ближайшим целям. Добавление Зова предков в пару к этому камню поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 40,
+    "Id": "GlacialHammer&Multistrike",
+    "Description": "Позволяет Леденящему молоту повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 41,
+    "Id": "GlacialHammer&ColdPenetration",
+    "Description": "Уменьшает вражеское сопротивление холоду, заставляя их получать больше урона от холода от Леденящего молота.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+ColdPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+ColdPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 42,
+    "Id": "EtheralKnives&ControlledDestruction",
+    "Description": "Дает больше урона от чар Бесплотным ножам, но снижает шанс критического удара. Свойство \"больше урона от чар\", которое дает этот камень поддержки, обеспечивает прямое и стабильное увеличение урона, не зависящее от критических ударов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 43,
+    "Id": "EtheralKnives&FasterCasting",
+    "Description": "Повышает скорость сотворения Бесплотных ножей, позволяя чаще их использовать.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+FasterCasting.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 28,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+FasterCasting.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 44,
+    "Id": "EtheralKnives&FasterProjectiles",
+    "Description": "Повышает скорость снарядов Бесплотных ножей, увеличивая максимальную дальность полета снарядов. В паре с камнем поддержки Пронзание, Ускорение снарядов позволит вашим снарядам пролетать сквозь группы врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+FasterProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 8,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+FasterProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 45,
+    "Id": "EtheralKnives&PhysicalToLightning",
+    "Description": "Переводит 50% физического урона Бесплотных ножей в урон от молнии, а также дает дополнительный урон от молнии на основании вашего физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 46,
+    "Id": "EtheralKnives&Pierce",
+    "Description": "Позволяет снарядам Бесплотных ножей пролетать через дополнительных монстров и поражать ударами больше врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+Pierce.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 23,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+Pierce.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 47,
+    "Id": "EtheralKnives&SpellEcho",
+    "Description": "Ещё один раз повторно сотворяет Бесплотные ножи и значительно повышает скорость их сотворения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+SpellEcho.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+SpellEcho.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 48,
+    "Id": "ExplosiveTrap&TrapMineDamage",
+    "Description": "Дает больше урона вашей Взрывной ловушке, немного снижая скорость её броска.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosireTrap+TrapandMineDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+TrapandMineDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 49,
+    "Id": "ExplosiveTrap&ClusterTraps",
+    "Description": "Позволяет вам бросить 2 дополнительных Взрывных ловушки за один раз.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ClusterTraps.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ClusterTrap.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 50,
+    "Id": "ExplosiveTrap&ChargedTraps",
+    "Description": "Дает шанс получить заряды ярости и энергии, когда враги вызывают срабатывание вашей Взрывной ловушки. Также повышает скорость броска ловушки за заряд ярости и увеличивает множительно критического удара за заряд энергии.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ChargedTraps.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ChargedTrap.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 51,
+    "Id": "ExplosiveTrap&ControlledDestruction",
+    "Description": "Дает больше урона от чар Взрывной ловушке, но снижает шанс критического удара. Свойство \"больше урона от чар\", которое дает этот камень поддержки, обеспечивает прямое и стабильное увеличение урона, не зависящее от критических ударов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ControlledDestruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 52,
+    "Id": "ExplosiveTrap&ElementalFocus",
+    "Description": "Ваша Взрывная ловушка не сможет накладывать на врагов стихийные состояния, такие как поджог. Однако, урон от стихий Взрывной ловушки будет существенно увеличен. Перевод всего физического урона от Взрывной ловушки в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ElementalFocus.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ElementalFocus.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 53,
+    "Id": "ExplosiveTrap&PhysicalToLightning",
+    "Description": "Переводит 50% физического урона Взрывной ловушки в урон от молнии, а также дает дополнительный урон от молнии на основании вашего физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 54,
+    "Id": "FrostBlades&AncestralCall",
+    "Description": "Позволяет Ледяным клинкам выбрать целью двух дополнительных врагов поблизости. Если рядом находятся хотя бы три врага, количество клинков-снарядов может быть увеличено втрое.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/FrostBlades+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 55,
+    "Id": "FrostBlades&ColdPenetration",
+    "Description": "Уменьшает вражеское сопротивление холоду, заставляя их получать больше урона от холода от Ледяных клинков.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+ColdPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+ColdPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 56,
+    "Id": "FrostBlades&ElementalDamageWithAttacks",
+    "Description": "Умножает урон от стихий, который наносят Ледяные клинки. Перевод всего физического урона от Ледяных клинков в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+ElementalDamagewithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/FrostBlade+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 57,
+    "Id": "FrostBlades&MeleePhysical",
+    "Description": "Дает Ледяным клинкам больше физического урона в ближнем бою. Поскольку 60% физического урона становится уроном от холода, этот камень поддержки также увеличивает урон от холода, который наносят Ледяные клинки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 58,
+    "Id": "FrostBlades&Multistrike",
+    "Description": "Позволяет Ледяным клинкам повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 59,
+    "Id": "FrostBlades&SlowerProjectiles",
+    "Description": "Уменьшает максимальную дальность снарядов Ледяных клинков, одновременно давая больше урона клинкам-снарядам.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+SlowerProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 60,
+    "Id": "ViperStrike&MeleeSplash",
+    "Description": "Позволяет вашему Удару гадюки наносить урон в области по ближайшим целям. Добавление Зова предков в пару к этому камню поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 61,
+    "Id": "ViperStrike&AncestralCall",
+    "Description": "Позволяет Удару гадюки выбрать целью двух дополнительных врагов поблизости. Добавление Раскатистого удара в пару к этому камню поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 62,
+    "Id": "ViperStrike&DeadlyAilments",
+    "Description": "Уменьшает урон от ударов, но дает больше урона от состояний, что позволяет яду, наложенному Ударом гадюки, наносить больше постепенного урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+DeadlyAilments.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+DeadlyAilments.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 63,
+    "Id": "ViperStrike&MeleePhysical",
+    "Description": "Дает Удару гадюки больше физического урона в ближнем бою. Этот камень поддержки также повышает урон от яда и кровотечения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 64,
+    "Id": "ViperStrike&Multistrike",
+    "Description": "Позволяет Удару гадюки повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 65,
+    "Id": "ViperStrike&VileToxins",
+    "Description": "Увеличивает урон от яда, накладываемого Ударом гадюки. В дополнение, удары, нанесенные Ударом гадюки, наносят на 5% больше урона за каждый заряд яда на враге.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+VileToxins.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+VileToxins.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 66,
+    "Id": "SpectralThrow&ChanceToBleed",
+    "Description": "Повышает шанс наложить на врагов кровотечение от Призрачного броска. Кровотечение наносит постепенный физический урон, при этом передвигающиеся цели получат больше урона. Этот камень поддержки также добавляет Призрачному броску небольшое количество плоского физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 67,
+    "Id": "SpectralThrow&LMP",
+    "Description": "Увеличивает количество снарядов Призрачного броска, позволяя ему единовременно поразить больше целей.\n\nНа более высоких уровнях возьмите камень поддержки Много дополнительных снарядов, чтобы нанести удары врагам в большей области.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+LesserMultipleProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+LowerMultipleProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 68,
+    "Id": "SpectralThrow&Maim",
+    "Description": "Дает Призрачному броску шанс наложить увечья на врагов при нанесении удара. У изувеченных врагов снижена скорость передвижения, и они получают увеличенный физический урон. Этот камень поддержки также дает наносить больше урона от Призрачного броска.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+Maim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+Maim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 69,
+    "Id": "SpectralThrow&PhysicalToLightning",
+    "Description": "Переводит 50% физического урона Призрачного броска в урон от молнии, а также дает дополнительный урон от молнии на основании вашего физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 70,
+    "Id": "SpectralThrow&PhysicalProjectileAttack",
+    "Description": "Дает Призрачному броску наносить больше физического урона. Также дает больше урона от наложенных кровотечений и яда.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ProjectileDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ProjectileDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 71,
+    "Id": "SpectralThrow&SlowerProjectiles",
+    "Description": "Уменьшает максимальную дальность снарядов Призрачного броска, позволяя им вернуться быстрее и второй раз нанести урон врагу. Этот камень поддержки также дает снарядам больше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+SlowerProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 72,
+    "Id": "IceShot&ColdPenetration",
+    "Description": "Уменьшает вражеское сопротивление холоду, заставляя их получать больше урона от холода от Леденящего молота.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+ColdPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/IceShot+ColdPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 73,
+    "Id": "IceShot&LMP",
+    "Description": "Увеличивает количество снарядов Ледяного выстрела, позволяя ему единовременно поразить больше целей.\n\nНа более высоких уровнях возьмите камень поддержки Много дополнительных снарядов, чтобы нанести удары врагам в большей области.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+LesserMultipleProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+LesserMultipleProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 74,
+    "Id": "IceShot&MirageArcher",
+    "Description": "Когда Ледяной выстрел наносит врагу удар, над вами появляется призрак, который использует копию Ледяного выстрела против врагов. Копия реже использует умение и наносит меньше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+MirageArcher.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+MirageArcher.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 75,
+    "Id": "IceShot&Pierce",
+    "Description": "Позволяет снарядам Ледяного выстрела пролетать через дополнительных монстров и поражать ударами больше врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+Pierce.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 23,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+Pierce.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 76,
+    "Id": "IceShot&SlowerProjectiles",
+    "Description": "Снижает скорость снарядов Ледяного выстрела, но дает им больше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+SlowerProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 77,
+    "Id": "IceShot&ElementalDamageWithAttacks",
+    "Description": "Умножает урон от стихий, который наносит Ледяной выстрел. Перевод всего физического урона от Ледяного выстрела в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Iceshot/Iceshot+WeaponElementalDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 78,
+    "Id": "ShrapnelShot&LMP",
+    "Description": "Увеличивает количество снарядов Выстрела шрапнелью, позволяя ему единовременно поразить больше целей.\n\nНа более высоких уровнях возьмите камень поддержки Много дополнительных снарядов, чтобы нанести удары врагам в большей области.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LesserMultipleProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LesserMultipleProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 79,
+    "Id": "ShrapnelShot&LightningPenetration",
+    "Description": "Уменьшает вражеское сопротивление молнии, заставляя их получать больше урона от молнии от Выстрела шрапнелью.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 49,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 80,
+    "Id": "ShrapnelShot&MirageArcher",
+    "Description": "Когда Выстрел шрапнелью наносит врагу удар, над вами появляется призрак, который использует копию Выстрела шрапнелью против врагов. Копия реже использует умение и наносит меньше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+MirageArcher.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+MirageArcher.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 81,
+    "Id": "ShrapnelShot&PhysicalToLightning",
+    "Description": "Переводит 50% физического урона Выстрела шрапнелью в урон от молнии, а также дает дополнительный урон от молнии на основании вашего физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 82,
+    "Id": "ShrapnelShot&SlowerProjectiles",
+    "Description": "Снижает скорость снарядов Выстрела шрапнелью, но дает им больше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+SlowerProjectiles.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+SlowerProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 83,
+    "Id": "ShrapnelShot&ElementalDamageWithAttacks",
+    "Description": "Умножает урон от стихий, который наносит Выстрел шрапнелью. Перевод всего физического урона от Выстрела шрапнелью в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+WeaponElementalDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 84,
+    "Id": "SplitArrow&AddedFireDamage",
+    "Description": "Дает дополнительный урон от огня на основании вашего физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+AddedFireDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 5,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+AddedFireDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 85,
+    "Id": "SplitArrow&ElementalDamageWithAttacks",
+    "Description": "Умножает урон от стихий, который наносит Расколотая стрела.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+ElementalDamagewithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ElementalDamagewithAttacks.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 86,
+    "Id": "SplitArrow&MirageArcher",
+    "Description": "Когда Расколотая стрела наносит врагу удар, над вами появляется призрак, который использует копию Расколотой стрелы против врагов. Копия реже использует умение и наносит меньше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+MirageArcher.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+MirageArcher.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 87,
+    "Id": "SplitArrow&PhysicalProjectileAttackDamage",
+    "Description": "Дает Расколотой стреле наносить больше физического урона. Также дает больше урона от наложенных кровотечений и яда.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicalProjectileAttackDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ViciousProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 88,
+    "Id": "SplitArrow&PhysicalToLightning",
+    "Description": "Переводит 50% физического урона Расколотой стрелы в урон от молнии, а также дает дополнительный урон от молнии на основании вашего физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 89,
+    "Id": "SplitArrow&Pierce",
+    "Description": "Позволяет снарядам Расколотой стрелы пролетать через дополнительных монстров и поражать ударами больше врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+Pierce.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 23,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+Pierce.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 90,
+    "Id": "GroundSlam&Brutality",
+    "Description": "Значительно увеличивает физический урон Сотрясения, однако вы не сможете наносить урон хаосом или урон от стихий. Используйте этот камень поддержки с оружием с хорошим физическим уроном.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Brutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Brutality.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 91,
+    "Id": "GroundSlam&ChanceToBleed",
+    "Description": "Повышает шанс наложить на врагов кровотечение от Сотрясения. Кровотечение наносит постепенный физический урон, при этом передвигающиеся цели получат больше урона. Этот камень поддержки также добавляет Сотрясению небольшое количество плоского физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 92,
+    "Id": "GroundSlam&IncreasedAreaOfEffect",
+    "Description": "Увеличивает область действия Сотрясения, что позволяет единовременно поразить большее количество целей.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+IncreasedAreaofEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+IncreasedAreaofEffect.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 93,
+    "Id": "GroundSlam&Maim",
+    "Description": "Дает Сотрясению шанс наложить увечья на врагов при нанесении удара. У изувеченных врагов снижена скорость передвижения, и они получают увеличенный физический урон. Этот камень поддержки также дает наносить больше урона от Сотрясения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Maim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Maim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 94,
+    "Id": "GroundSlam&MeleePhysicalDamage",
+    "Description": "Дает Тяжёлому удару больше физического урона в ближнем бою. Этот камень поддержки также повышает урон от яда и кровотечения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 95,
+    "Id": "GroundSlam&Multistrike",
+    "Description": "Позволяет Тяжёлому удару повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 96,
+    "Id": "HeavyStrike&AncestralCall",
+    "Description": "Позволяет Тяжёлому удару выбрать целью двух дополнительных врагов поблизости. Добавление Раскатистого удара в пару к этому камню поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 97,
+    "Id": "HeavyStrike&Brutality",
+    "Description": "Значительно увеличивает физический урон Тяжёлого удара, однако вы не сможете наносить урон хаосом или урон от стихий. Используйте этот камень поддержки с оружием с хорошим физическим уроном.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+Brutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+Brutality.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 98,
+    "Id": "HeavyStrike&ChanceToBleed",
+    "Description": "Повышает шанс наложить на врагов кровотечение от Тяжёлого удара. Кровотечение наносит постепенный физический урон, при этом передвигающиеся цели получат больше урона. Этот камень поддержки также добавляет Тяжёлому удару небольшое количество плоского физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 99,
+    "Id": "HeavyStrike&MeleePhysicalDamage",
+    "Description": "Дает Тяжёлому удару больше физического урона в ближнем бою. Этот камень поддержки также повышает урон от яда и кровотечения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 100,
+    "Id": "HeavyStrike&MeleeSplash",
+    "Description": "Позволяет вашему Тяжёлому удару наносить урон в области по ближайшим целям. Добавление Зова предков в пару к этому камню поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 101,
+    "Id": "HeavyStrike&Multistrike",
+    "Description": "Позволяет Тяжёлому удару повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 102,
+    "Id": "Cleave&ChanceToBleed",
+    "Description": "Повышает шанс наложить на врагов кровотечение от Рассечения. Кровотечение наносит постепенный физический урон, при этом передвигающиеся цели получат больше урона. Этот камень поддержки также добавляет Рассечению небольшое количество плоского физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 103,
+    "Id": "Cleave&ConcentratedEffect",
+    "Description": "Уменьшает область действия, но значительно повышает урон по области от Рассечения, что делает этот камень прекрасным выбором в битвах со сложными одиночными монстрами.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+ConcentratedEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 36,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+ConcentratedEffect.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 104,
+    "Id": "Cleave&IncreasedAreaOfEffect",
+    "Description": "Увеличивает область действия Рассечения, что позволяет единовременно поразить большее количество целей.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+IncreasedAreaofEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+IncreasedArea.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 105,
+    "Id": "Cleave&Maim",
+    "Description": "Дает Рассечению шанс наложить увечья на врагов при нанесении удара. У изувеченных врагов снижена скорость передвижения, и они получают увеличенный физический урон. Этот камень поддержки также дает наносить больше урона от Рассечения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+Maim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+Maim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 106,
+    "Id": "Cleave&MeleePhysical",
+    "Description": "Дает Рассечению больше физического урона в ближнем бою. Этот камень поддержки также повышает урон от яда и кровотечения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 107,
+    "Id": "Cleave&Multistrike",
+    "Description": "Позволяет Рассечению повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Cleave/Cleave+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Cleave/Cleave+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 108,
+    "Id": "DoubleStrike&AncestralCall",
+    "Description": "Позволяет Двойному удару выбрать целью двух дополнительных врагов поблизости. Добавление Раскатистого удара в пару к этому камню поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 109,
+    "Id": "DoubleStrike&ChanceToBleed",
+    "Description": "Повышает шанс наложить на врагов кровотечение от Двойного удара. Кровотечение наносит постепенный физический урон, при этом передвигающиеся цели получат больше урона. Этот камень поддержки также добавляет Двойному удару небольшое количество плоского физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 110,
+    "Id": "DoubleStrike&MeleePhysical",
+    "Description": "Дает Двойному удару больше физического урона в ближнем бою. Этот камень поддержки также повышает урон от яда и кровотечения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/DoubleStrike+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 111,
+    "Id": "DoubleStrike&Fortify",
+    "Description": "Накладывает положительный эффект, уменьшающий получаемый урон от всех ударов, одновременно увеличивая физический урон Двойного удара в ближнем бою.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+Fortify.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+Fortify.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 112,
+    "Id": "DoubleStrike&MeleeSplash",
+    "Description": "Позволяет вашему Двойному удару наносить урон в области по ближайшим целям. Добавление Зова предков в пару к этому камню поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+MeleeSplash.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+MeleeSplash.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 113,
+    "Id": "DoubleStrike&Multistrike",
+    "Description": "Позволяет Двойному удару повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 114,
+    "Id": "MoltenStrike&AncestralCall",
+    "Description": "Позволяет Магмовому удару выбрать целью двух дополнительных врагов поблизости. Если рядом находятся хотя бы три врага, количество магмовых снарядов может быть увеличено втрое.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 115,
+    "Id": "MoltenStrike&ConcerntratedEffect",
+    "Description": "Уменьшает область действия снарядов Магмового удара, но значительно повышает их урон по области, что делает этот камень прекрасным выбором в битвах со сложными одиночными монстрами.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 36,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 116,
+    "Id": "MoltenStrike&ElementalDamageWithAttacks",
+    "Description": "Умножает урон от стихий, который наносит Магмовый удар. Перевод всего физического урона от Магмового удара в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ElementalDamagewithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 117,
+    "Id": "MoltenStrike&MeleePhysical",
+    "Description": "Дает Магмовому удару больше физического урона в ближнем бою. Поскольку 60% физического урона становится уроном от огня, этот камень поддержки также увеличивает урон от огня, который наносит Магмовый удар.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 118,
+    "Id": "MoltenStrike&Multistrike",
+    "Description": "Позволяет Магмовому удару повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 119,
+    "Id": "MoltenStrike&ElementalFocus",
+    "Description": "Ваш Магмовый удар не сможет накладывать на врагов стихийные состояния, такие как поджог. Однако, урон от стихий Магмового удара будет существенно увеличен. Перевод всего физического урона от Магмового удара в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ElementalFocus.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ElementalFocus.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 120,
+    "Id": "Blight&VoidManipulation",
+    "Description": "Дает больше урона хаосом, но уменьшает урон от стихий от Мора. Мор наносит только урон хаосом, так что Манипуляция пустотой даст больше урона без каких-либо недостатков.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+VoidManipulation.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+VoidManipulation.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 121,
+    "Id": "LightningTendrils&ConcentratedEffect",
+    "Description": "Уменьшает область действия Побегов молнии, но значительно повышает их урон по области, что делает этот камень прекрасным выбором в битвах со сложными одиночными монстрами.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrils+ConcentratedEffect.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 36,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+ConcentratedEffect.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 122,
+    "Id": "LightningTendrils&IncreasedAreaOfEffect",
+    "Description": "Увеличивает область действия Побегов молнии, что позволяет им единовременно поразить большее количество целей.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrils+IncreasedAOE.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+IncreasedAOE.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 123,
+    "Id": "CausticArrow&Pierce",
+    "Description": "Позволяет снарядам Едкой стрелы пролетать через дополнительных монстров, создавая несколько участков едкой земли, которые единовременно нанесут урон большему количеству врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Pierce.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 23,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Pierce.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 124,
+    "Id": "CausticArrow&LMP",
+    "Description": "Увеличивает количество стрел Едкой стрелы, позволяя ей покрыть большую область, одновременно создав несколько участков едкой земли.\n\nНа более высоких уровнях возьмите камень поддержки Много дополнительных снарядов, чтобы поразить врагов в большей области.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+LMP.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+LMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 125,
+    "Id": "CausticArrow&MirageArcher",
+    "Description": "Когда Едкая стрела наносит врагу удар, над вами появляется призрак, который использует копию Едкой стрелы против врагов. Копия реже использует умение и наносит меньше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+MirageArcher.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+MirageArcher.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 126,
+    "Id": "CausticArrow&ViciousProjectiles",
+    "Description": "Существенно увеличивает как физический урон от ударов, так и постепенный урон хаосом от Едкой стрелы.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+ViciousProjectiles.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+ViciousProjectiles.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 127,
+    "Id": "CausticArrow&WitheringTouch",
+    "Description": "Дает дополнительный урон хаосом на основании вашего физического урона. Также имеет шанс наложить отрицательный эффект Истощения, который заставляет врагов получать увеличенный на 6% урон хаосом за каждый заряд отрицательного эффекта. Всего можно наложить 15 зарядов Истощения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+WitheringTouch.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 104,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+WitheringTouch.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 128,
+    "Id": "CausticArrow&Poison",
+    "Description": "Дает Едкой стреле большой шанс наложить яд при нанесении удара. Яд наносит постепенный урон хаосом, поэтому на него действуют все усиления, влияющие на едкую землю Едкой стрелы.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Poison.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Poison.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 129,
+    "Id": "Smite&AncestralCall",
+    "Description": "Позволяет Каре выбрать целью двух дополнительных врагов поблизости. Поскольку Кара наносит урон по области, то этот камень поддержки приведет к нанесению урона внахлёст по областям большого размера.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+AncestralCall.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+AncestralCall.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 130,
+    "Id": "Smite&MeleePhysicalDamage",
+    "Description": "Дает Каре больше физического урона в ближнем бою. Поскольку 50% физического урона становится уроном от молнии, этот камень поддержки также увеличивает урон от молнии, который наносит Кара.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+MeleePhysicalDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+MeleePhysicalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 131,
+    "Id": "Smite&PhysicalToLightning",
+    "Description": "Переводит 50% физического урона Кары в урон от молнии, а также дает дополнительный урон от молнии на основании вашего физического урона. Поскольку 50% физического урона уже переведены в урон от молнии самим камнем умения, то Кара вместо всего физического урона будет наносить урон от молнии.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+PhysicaltoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+PhysicaltoLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 132,
+    "Id": "Smite&ElementalDamageWithAttacks",
+    "Description": "Умножает урон от стихий, который наносит Кара. Перевод всего физического урона от Кары в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+ElementalDamagewithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+WeaponElementalDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 133,
+    "Id": "Smite&Multistrike",
+    "Description": "Позволяет Каре повторяться ещё два раза, а также существенно повышает скорость атаки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+Multistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+Multistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 134,
+    "Id": "Smite&ElementalFocus",
+    "Description": "Ваша Кара не сможет накладывать на врагов стихийные состояния, такие как шок. Однако, урон от стихий Кары будет существенно увеличен. Перевод всего физического урона от Кары в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Smite/Smite+ElementalFocus.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Smite/Smite+ElementalFocus.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 135,
+    "Id": "Frostbolt&AddedColdDamage",
+    "Description": "Увеличивает количество плоского урона от холода, который наносит ваш Морозный шар.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+AddedColdDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 9,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Added%20Cold%20Damage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 136,
+    "Id": "Frostbolt&ColdPenetration",
+    "Description": "Уменьшает вражеское сопротивление холоду, заставляя их получать больше урона от холода от Морозного шара.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+ColdPenetration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 48,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Cold%20Penetration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 137,
+    "Id": "Frostbolt&Hypothermia",
+    "Description": "Повышает шанс Морозного шара наложить охлаждение и заморозку, а также дает больше урона по охлажденным врагам.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+Hypothermia.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 72,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Hypothermia.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 138,
+    "Id": "Frostbolt&ControlledDestruction",
+    "Description": "Дает больше урона от чар Морозному шару, но снижает шанс критического удара. Свойство \"больше урона от чар\", которое дает этот камень поддержки, обеспечивает прямое и стабильное увеличение урона, не зависящее от критических ударов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Controlled%20Destruction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 139,
+    "Id": "Frostbolt&SpellEcho",
+    "Description": "Ещё один раз повторно сотворяет Морозный шар и значительно повышает скорость его сотворения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellEcho.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 56,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Echo.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 140,
+    "Id": "Frostbolt&SpellTotem",
+    "Description": "Устаналивает тотем, который будет использовать Морозный шар, что позволит вашему персонажу совершать другие действия. Может стать особенно сильным, как только ваш персонаж сможет устанавливать несколько тотемов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellTotem.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Totem.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 141,
+    "Id": "Blight&IncreasedDuration",
+    "Description": "Увеличивает длительность замедляющего эффекта Мора и отрицательного эффекта постепенного урона хаосом на врагах.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Blight/Blight+IncreasedDuration.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Blight/Blight+IncreasedDuration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 142,
+    "Id": "CausticArrow&SwiftAffliction",
+    "Description": "Уменьшает длительность эффекта земли Едкой стрелы, но увеличивает постепенный урон этой земли.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+SwiftAffliction.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+SwiftAffliction.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 143,
+    "Id": "CausticArrow&VoidManipulation",
+    "Description": "Дает больше урона хаосом, но уменьшает урон от стихий от Едкой стрелы. Едкая стрела наносит только урон хаосом, так что Манипуляция пустотой даст больше урона без каких-либо недостатков.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+VoidManipulation.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+VoidManipulation.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 144,
+    "Id": "FreezingPulse&AddedColdDamage",
+    "Description": "Увеличивает количество плоского урона от холода, который наносит ваша Волна холода.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+AddedColdDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 9,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+AddedColdDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 145,
+    "Id": "FrostBlades&IceBite",
+    "Description": "Дает Ледяным клинкам дополнительный урон от холода, повышение шанса заморозить, а также шанс получить заряд ярости при убийстве замороженного врага.\n\nЗаряд ярости повышает скорость атаки, сотворения чар и урон персонажа.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/FrostBlades/Frostblades+IceBite.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 71,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+Icebite.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 146,
+    "Id": "Frostbolt&FasterCasts",
+    "Description": "Повышает скорость сотворения Морозного шара, что позволяет чаще сотворять снаряды.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+FasterCasts.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 28,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt+FasterCasts.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 147,
+    "Id": "GlacialHammer&Hypothermia",
+    "Description": "Повышает урон Леденящего молота и шанс наложить заморозку на охлажденных врагов. Также усиливает замедляющий эффект от охлаждений, накладываемых Леденящим молотом.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Hypothermia.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 72,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+Hypothermia.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 148,
+    "Id": "MagmaOrb&FasterCast",
+    "Description": "Повышает скорость сотворения Ползучей магмы, что позволяет чаще сотворять снаряды.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 28,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 149,
+    "Id": "RaiseZombie&MeleePhysicalDamage",
+    "Description": "Дает атакам ваших приспешников-зомби больше физического урона в ближнем бою. Этот камень поддержки также повышает урон от яда и кровотечения.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+PhysicalMeleeDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+PhysicalMeleeDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 150,
+    "Id": "SpectralThrow&AddedFireDamage",
+    "Description": "Дает ударам вашего Призрачного броска дополнительный урон от огня на основании наносимого физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+AddedFireDamage.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 5,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+AddedFireDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 151,
+    "Id": "SplitArrow&FasterAttacks",
+    "Description": "Повышает скорость атаки Расколотой стрелы, позволяя персонажу чаще выпускать стрелы.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+FasterAttacks.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 6,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ChancetoBleed.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 152,
+    "Id": "SplitArrow&ChanceToBleed",
+    "Description": "Повышает шанс наложить на врагов кровотечение от Расколотой стрелы. Кровотечение наносит постепенный физический урон, при этом передвигающиеся цели получат больше урона. Этот камень поддержки также добавляет Расколотой стреле небольшое количество плоского физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+ChancetoBleed.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 95,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+FasterAttacks.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 153,
+    "Id": "PurifyingFlame&AddedFire",
+    "Description": "Дарует дополнительный урон от огня на основании вашего физического урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+AddedFire.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 5,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+AddedFireDamageCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 154,
+    "Id": "PurifyingFlame&PhysToLightning",
+    "Description": "Преобразует 50% физического урона Очищающего пламени в урон от молнии, а также даёт дополнительный урон от молнии на основании вашего физического урона. Поскольку 50% физического урона изначально становится уроном от огня, этот камень поддержки преобразует весь физический урон Очищающего пламени в урон от стихий.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+PhystoLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+PhysicaltoLightningCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 155,
+    "Id": "PurifyingFlame&Intensify",
+    "Description": "Повышает интенсивность Очищающего пламени с каждым сотворением, сначала увеличивая, а затем постепенно уменьшая его область действия и увеличивая урон для поражения живучих врагов. \n\nЗаряды Интенсивности постепенно исчезают, когда вы двигаетесь с места или телепортируетесь.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+Int.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+IntensifyCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 156,
+    "Id": "PurifyingFlame&ControlledDestruction",
+    "Description": "Дарует Очищающему пламени больше урона от чар, но снижает шанс критического удара. Больший урон от чар, дарованный этим камнем поддержки, позволяет прямо повысить наносимые повреждения, не полагаясь на критические удары.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+ControlledDestruction.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 81,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+ControlledDestructionCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 157,
+    "Id": "PurifyingFlame&Unleash",
+    "Description": "Накапливает заряды Очищающего пламени, которые тратятся при сотворении, высвобождая умение и повторяя его несколько раз. Это позволяет быстро нанести серию ударов по врагам, но урон от каждого удара будет несколько снижен.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+Unleash.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 106,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+UnleashCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 158,
+    "Id": "PurifyingFlame&ElementalFocus",
+    "Description": "Ваше Очищающее пламя не сможет накладывать на врагов стихийные состояния, такие как поджог. Однако урон от стихий Очищающего пламени будет существенно увеличен. Перевод всего физического урона Очищающего пламени в урон от стихий максимизирует преимущества этого камня поддержки.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/PurifyingFlame/PF+EF.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 84,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+ElementalFocusCN.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 159,
+    "Id": "StormblastMine&AddedLightning",
+    "Description": "Добавляет взрывам Штормовой мины дополнительный урон от молнии\nНанесение большего урона также увеличивает силу шока, заставляя врагов под шоком получать больше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastAddedLight.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 12,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastAddedLight.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 160,
+    "Id": "StormblastMine&SwiftAssembly",
+    "Description": "Пока быстрая сборка усиливает Штормовую мину, каждый бросок мины будет иметь шанс бросить дополнительные мины. Больше мин - больше взрывов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastSwiftAssembly.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastSwiftAssembly.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 161,
+    "Id": "StormblastMine&Trap&MineDamage",
+    "Description": "Заставляет Штормовую мину наносить больше урона\n\nНанесение большего урона также увеличивает силу шока, заставляя врагов под шоком получать больше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastTrapMine.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastTrapMine.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 162,
+    "Id": "StormblastMine&LightningPenetration",
+    "Description": "Позволяет урону от молнии Штормовой мины пробивать сопротивление молнии. Это позволяет наносить больше урона врагам с высоким сопротивлением молнии, таким как боссы, редкие и магические монстры.\nВ свойствах монстров указано, если они обладают сопротивлением к молнии. Чтобы увидеть свойства монстров, наведите на них курсор.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastLightPen.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 49,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastLightningPen.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 163,
+    "Id": "StormblastMine&ChargedMines",
+    "Description": "Пока Заряженные мины усиливают Штормовую минут, нанесение урона взрывами Штормовой мины имеет шанс даровать вам заряды ярости и энергии.\n\nЗаряды ярости скорость вашего передвижения, атаки и сотворения чар за каждый заряд (вплоть до 3).\n\nЗаряды энергии увеличивают ваш шанс критического удара с большим уроном за каждый заряд (вплоть до 3).",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastCharged.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastChargedMines.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 164,
+    "Id": "StormblastMine&IncreasedAoE",
+    "Description": "Расширенная область действия увеличивает площадь взрывов вашей Штормовой мины, позволяя им поражать больше врагов. Это также означает, что больше врагов будут получать увеличенный урон до взрыва.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastIncreasedAoE.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastIncreasedAoE.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 165,
+    "Id": "StormblastMine&ConcentratedEffect",
+    "Description": "Средоточие уменьшает площадь взрывов вашей Штормовой мины, позволяя наносить им больше урона в указанной области.\nЭто значит, что они будут поражать меньше врагов, но по пораженным врагам будут наносить больший урон.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/StormblastMine/EStormblastConcAoE.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 36,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TStormblastConcentratedAoE.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 166,
+    "Id": "CobraLash&LMP",
+    "Description": "Увеличивает количество выпущенных Броском кобры снарядов, позволяя поражать больше врагов на большейобласти. Каждый снаряд будет отскакивать между врагами,   нанося урон большим группам монстров.\n\nПолучите камень поддержки Много дополнительных снарядов на более высоком уровне, чтобы выпускать больше снарядов и поражать еще большие группы монстров.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashLMP.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashLMP.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 167,
+    "Id": "CobraLash&Poison",
+    "Description": "Увеличивает шанс Броска кобры отравить врагов и заставляет его наносить больше урона от яда. Это поможет наложить больше смертельных ядов на врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashPoison.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashPoison.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 168,
+    "Id": "CobraLash&DeadlyAilments",
+    "Description": "Позволяет Броску кобры наносить намного больше урона с помощью яда за счет небольшого уменьшения урона при нанесении удара.\nЭто поможет наложить на врагов сильные яды.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashDeadlyAilments.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashDeadlyAilments.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 169,
+    "Id": "CobraLash&AddedChaos",
+    "Description": "Добавляет Броску кобры дополнительный урон хаосом, увеличивая наносимый им урон по врагам.\n\nУвеличение урона хаосом от ваших ударов также увеличивает урон от вашего яда, так как более сильные удары с физическим уроном и уроном хаосом также накладывают более сильные яды.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashAddedC.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 19,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashAddedC.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 170,
+    "Id": "CobraLash&VileToxins",
+    "Description": "Едкие токсины увеличивает урон от яда от Броска кобры и заставляет Бросок кобры наносить больше урона по отравленным врагам. Это полезно при наложения сильных ядов и нанесения большего урона по мощным врагам, таким как боссы.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashVile.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashVile.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 171,
+    "Id": "CobraLash&UnboundAilments",
+    "Description": "Безграничные состояния заставляют яд от Броска кобры наносить больше урона и дольше держаться на врагах. Это полезно при наложении большого количества ядов на мощных врагов, таких как боссы.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/CobraLash/ECobraLashUnboundAilments.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TCobraLashUnboundAilments.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 172,
+    "Id": "Perforate&Maim",
+    "Description": "Усильте Пронзающие шипы этим камнем поддержки, чтобы накладывать Увечье на врагов, позволяющее наносить по ним больше физического урона и замедляющее их передвижение. Используйте это для замедления монстров, чтобы было проще избежать получение урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateMaim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateMaim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 173,
+    "Id": "Perforate&MeleePhysicalDamage",
+    "Description": "Этот камень поддержки позволит Пронзающим шипам наносить больше урона. Простой, но бесценный способ быстро убивать врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateMeleePhysical.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateMeleePhysical.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 174,
+    "Id": "Perforate&CloseCombat",
+    "Description": "Бой вплотную улучшит ваш урон по рядом стоящим монстрам. Так как Пронзающие шипы поражает только врагов вблизи (без стойки песка), этот камень поддержки поможет увеличить ваш урон.\n\nУмения сдвига также становятся быстрее после того, как вы нанесете удар по врагам с этим камнем. Умения сдвига быстро перемещают вас для избежания урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateClosecombat.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 107,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateCloseCombat.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 175,
+    "Id": "Perforate&Impale",
+    "Description": "Наносит больше физического урона и накладывает на врагов отрицательный эффект Прокол.\n\nПроколотые враги сохраняют часть полученного от вас урона. Во время следующих 5 ударов вы наносите дополнительный урон, равный отложенному. Вы можете накладывать на одного и того же врага несколько Проколов для дополнительного урона от атак.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateImpale.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateImpale.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 176,
+    "Id": "Perforate&Brutality",
+    "Description": "Позволяет Пронзающим шипам наносить больше физического урона, но уменьшает до нуля наносимый урон от стихий.\n\nПопробуйте  избегать с этим камнем поддержки свойств, дарующих урон от огня, холода, молнии или хаоса. Этот камень увеличивает только физический урон.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateBrutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateBrutality.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 177,
+    "Id": "Perforate&Multistrike",
+    "Description": "Существенно увеличивает скорость атаки Пронзающих шипов, выполняя сразу три быстрых последовательных атаки, нанося больше урона второй и третьей атаками.\n\nВы не сможете остановиться или перемещаться во время совершения атак. Этот камень существенно увеличивает урон, но будьте осторожны, чтобы не застыть на месте, пока монстры наносят по вам урон.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Perforate/EPerforateMultiStrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TPerforateMultiStrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 178,
+    "Id": "Frostblink&IncreasedAoE",
+    "Description": "Увеличивает площать взрыва холода от Ледяного скачка и размер оставляемой замёрзшей земли. Это полезно при нанесении урона большому количеству врагов и дополнительного замедления, не позволяющего им вас преследовать.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIncreasedAoE.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 11,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TFrostblinkIncreasedAoE.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 179,
+    "Id": "Frostblink&BoneChill",
+    "Description": "Леденящее охлаждение делает охлаждающий эффект Ледяного скачка еще более полезным, еще сильнее замедляя врагов и обеспечивая вашу безопасность. Охлажденные Ледяным скачков враги также будут получать больше урона от холода, что полезно, если ваше основное умение наносит урон от холода.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkBonechill.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TFrostblinkBonechill.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 180,
+    "Id": "Steelskin&IncreasedDuration",
+    "Description": "Позволяет положительному эффекту Стальной кожи длиться дольше, защищая вас от большего количества ударов от врагов. Простой, но полезный способ улучшить вашу защиту.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Steelskin/ESteelskinDuration.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TSteelskinDuration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 181,
+    "Id": "Steelskin&CWDT",
+    "Description": "Автоматически сотворяет Стальную кожу после получения урона. Это полезно при защите от внезапных атак.\n\nС этим камне Стальную кожу невозможно будет применять самостоятельно и ее невозможно  будет использовать для защиты от врага, который только собирается нанести удар. Очень важно найти другой способ защищаться против монстров, если вы собираетесь использовать этот камень.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/Steelskin/ESteelskinCWDT.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "https://down.qq.com/poe/videos/skills/TSteelskinCWDT.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 182,
+    "Id": "GalvanicArrow&PhystoLightning",
+    "Description": "С помощью этого камня весь физический урон Электризующих стрел становится уроном от молнии, из-за чего Электризующая стрела наносит полный урон от молнии вместо 50% урона от молнии и 50% физического урона.\n\nС этим камнем намного легче повышать ваш урон. Если у вас есть умения, увеличивающие урон от молнии или урон от стихий, то этот камень повысит полный урон от молнии, который наносит Электризующая стрела.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowPhysToLightning.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage1.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 183,
+    "Id": "GalvanicArrow&ElementalDamagewithAttacks",
+    "Description": "Увеличивает урон от стихий Электризующей стрелы, нанося более сильные удары врагам.\nЭтот камень не увеличивает физический урон Электризующей стрелы, но повышает урон от молнии. \n\nКамень очень хорош в сочетании с камнем поддержки Физический урон в молнии, поскольку он увеличит весь урон от молнии, наносимый Электризующей стрелой.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowElementalDamageWithAttacks.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage2.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 184,
+    "Id": "GalvanicArrow&LightningPenetration",
+    "Description": "Позволяет урону от молнии Электризующей стрелы пробивать вражеское сопротивление молнии. Так урон от молнии против сопротивляющихся ему врагов, например, боссов, редких и волшебных монстров, не слишком ослабеет.\n\nФизический урон Электризующей стрелы от этого не станет пробивать сопротивление, поскольку на физический урон сопротивление молнии не влияет.\nСвойства монстров показывают, какому урону они сопротивляются. Наведите курсор на монстра, чтобы увидеть его свойства.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowLightPen.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 49,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowLightPen.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 185,
+    "Id": "GalvanicArrow&MirageArcher",
+    "Description": "Призывает Призрачного лучника над вашей головой, когда врага поражает Электризующая стрела. Призрачный лучник будет выпускать Электризующие стрелы в ближайших врагов, пока не исчезнет.\n\nЭтот камень полезен по многим причинам. Используйте его для атаки врагов, находясь в движении, для атаки врагов, к которым вы стоите спиной, и просто чтобы наносить больше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowMirage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowMirage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 186,
+    "Id": "GalvanicArrow&Barrage",
+    "Description": "Выпустите поток стрел с камнем поддержки Стрельба очередями. С каждой пущенной Электризующей стрелой из вашего лука будет вырываться молния. Ваши стрелы перестанут вылетать конусом и вместо этого будут пущены последовательно.\n\nЭто бесценный камень для поражения сильных врагов, например, боссов, шквалом атак.\nБудьте осторожны при использовании. При стрельбе вы не можете двигаться и тем самым подставляете себя опасным врагам.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowBarrage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 187,
+    "Id": "GalvanicArrow&FasterProjectiles",
+    "Description": "Увеличивает размер вспышки молнии Электризующей стрелы и скорость пущенных стрел. Это неоценимый камень для увеличения области удара молнией и повышения дальности стрел, что позволит поразить большее число врагов с каждым выстрелом.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowFasterProj.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 8,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowFasterProj.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 188,
+    "Id": "KineticBolt&Barrage",
+    "Description": "Быстро выпускает очередь Кинетических зарядов, непрерывно нанося урон врагам в большой области. \n\nВы не можете досрочно прекратить очередь или сдвинуться с места при стрельбе. Этот камень увеличивает урон, но будьте осторожны, чтобы не подставить себя под удары нападающих монстров.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltBarrage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltBarrage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 189,
+    "Id": "KineticBolt&AddedLightningDamage",
+    "Description": "Добавляет урон от молнии Кинетическому заряду и его снарядам. Простой, но полезный способ быстрого убийства врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltLightning.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 12,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltLightning.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 190,
+    "Id": "KineticBolt&AddedColdDamage",
+    "Description": "Добавляет урон от холода Кинетическому заряду и его снарядам. Простой, но полезный способ быстрого убийства врагов.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltCold.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 9,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltCold.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 191,
+    "Id": "KineticBolt&ElementalDamageWithAttacks",
+    "Description": "Увеличивает урон от стихий Кинетического заряда и его снарядов.\n\nИзначально Кинетический заряд не наносит стихийного урона. Дополнительный урон от стихий может появиться за счёт снаряжения (или камней поддержки Урон молнией и Урон холодом). Данный камень может повысить такой урон, чтобы убивать врагов быстрее.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltDamage.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltDamage.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 192,
+    "Id": "KineticBolt&Inspiration",
+    "Description": "Сокращает расход маны Кинетическим зарядом. Также увеличивает его урон от стихий и шанс критического удара с каждой атакой.\nОт жезлов можно добиться мощных критических ударов. Критические удары способны нанести врагам больше урона и наложить на них стихийные состояния.\nИзначально Кинетический заряд не наносит стихийного урона. Дополнительный урон от стихий может появиться за счёт снаряжения (или камней поддержки Урон молнией и Урон холодом). Данный камень может повысить такой урон, чтобы убивать врагов быст",
+    "VideoURL1": "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 14,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 193,
+    "Id": "SplittingSteel&Impale",
+    "Description": "Наносите больше физичесого урона и Прокалывайте врагов, нанося противникам дополнительный урон с каждым ударом. Прокол можно наложить до пяти раз, чтобы в результате наносить ещё больше дополнительного урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 194,
+    "Id": "SplittingSteel&Brutality",
+    "Description": "Заставляет Раскалывающую сталь наносить намного больше физического урона, но убирает урон от стихий.\n\nИспользуя этот камень поддержки, старайтесь не добавлять умению урон от молнии, огня, холода или урон хаосом, так как он будет снижен до нуля.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 195,
+    "Id": "SplittingSteel&LMP",
+    "Description": "Увеличивает количество взрывающихся осколков Раскалывающей стали, когда вы выпускаете стальной осколок, поражая больше врагов.\n\nДобудьте камень поддержки Много дополнительных снарядов на более поздних уровнях, чтобы выбрасывать больше снарядов поражать большие группы противников.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 196,
+    "Id": "SplittingSteel&ViciousProjectiles",
+    "Description": "Резко увеличивает физический урон Раскалывающей стали ценой небольшого снижения скорости атаки. Бесценный способ повысить ваш урон.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 197,
+    "Id": "SplittingSteel&Maim",
+    "Description": "Усильте Раскалывающую сталь этим камнем, чтобы накладывать на врагов увечье, нанося им больше физического урона и замедляя их передвижение. Замедлите монстров, чтобы от них было легче увернуться.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 97,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 198,
+    "Id": "SplittingSteel&SlowerProjectiles",
+    "Description": "Замедлите снаряды Раскалывающей стали с тем, чтобы они били сильней и наносили больше урона. Разлетающиеся из осколков Зова стали снаряды также замедляются и наносят больше урона.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 58,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 199,
+    "Id": "ShieldCrush&Multistrike",
+    "Description": "Значительно повышает скорость атаки Сокрушающего щита, выполняя три атаки подряд.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushMultistrike.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushMultistrike.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 200,
+    "Id": "ShieldCrush&Pulverise",
+    "Description": "При усилении этим камнем поддержки замедляет скорость атаки, но увеличивает область действия и урон Сокрушающего щита.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushPulverize.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushPulverize.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 201,
+    "Id": "ShieldCrush&MeleePhysicalDamage",
+    "Description": "Снижает скорость атаки Сокрушающего щита, но увеличивает наносимый физический урон в ближнем бою и увеличивает урон от кровотечений и ядов, накладываемых Сокрушающим щитом.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushMeleePhysBrutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 27,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushMeleePhysBrutality.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 202,
+    "Id": "ShieldCrush&Fortify",
+    "Description": "Дарует Укрепление при нанесении ударов по врагам с помощью Сокрушающего щита, когда Сокрушающий щит усилен этим камнем. Увеличивает урон от ударов Сокрушающего щита и накладываемых им состояний.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushFortify.bk2",
+    "SkillGemsKey": null,
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushFortify.bk2",
+    "CharactersKeys": []
+  },
+  {
+    "RowIndex": 203,
+    "Id": "ShieldCrush&Brutality",
+    "Description": "Будучи усиленным этим камнем, значительно увеличивает физический урон от Сокрушающего щита, за счет того, что Сокрушающий щит не может наносить урон от стихий или хаосом.",
+    "VideoURL1": "http://web.poecdn.com/public/videos/ShieldCrush/ShieldCrushMeleePhysBrutality.bk2",
+    "SkillGemsKey": {
+      "RowIndex": 100,
+      "TableName": "SkillGems"
+    },
+    "VideoURL2": "http://down.qq.com/poe/videos/tutorial/ShieldCrushMeleePhysBrutality.bk2",
+    "CharactersKeys": []
+  }
+]

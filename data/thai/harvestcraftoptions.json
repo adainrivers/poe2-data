@@ -1,0 +1,1865 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ReforgeFire",
+    "Text": "<white>{สุ่มม็อด} <craftingfire>{ไฟ} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "fire ON rare",
+    "Unk005": [],
+    "HASH16": -23579,
+    "Description": "สุ่มม็อด ไฟ 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ReforgeCold",
+    "Text": "<white>{สุ่มม็อด} <craftingcold>{น้ำแข็ง} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "cold ON rare",
+    "Unk005": [],
+    "HASH16": -28242,
+    "Description": "สุ่มม็อด น้ำแข็ง 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ReforgeLightning",
+    "Text": "<white>{สุ่มม็อด} <craftinglightning>{สายฟ้า} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "lightning ON rare",
+    "Unk005": [],
+    "HASH16": 14935,
+    "Description": "สุ่มม็อด สายฟ้า 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ReforgePhysical",
+    "Text": "<white>{สุ่มม็อด} <craftingphysical>{กายภาพ} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "physical ON rare",
+    "Unk005": [],
+    "HASH16": 28183,
+    "Description": "สุ่มม็อด กายภาพ 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ReforgeLife",
+    "Text": "<white>{สุ่มม็อด} <craftinglife>{พลังชีวิต} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "life ON rare",
+    "Unk005": [],
+    "HASH16": 20366,
+    "Description": "สุ่มม็อด พลังชีวิต 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ReforgeDefences",
+    "Text": "<white>{สุ่มม็อด} <craftingdefences>{ป้องกัน} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "defences ON rare",
+    "Unk005": [],
+    "HASH16": 23252,
+    "Description": "สุ่มม็อด ป้องกัน 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ReforgeChaos",
+    "Text": "<white>{สุ่มม็อด} <craftingchaos>{เคออส} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "chaos ON rare",
+    "Unk005": [],
+    "HASH16": -98,
+    "Description": "สุ่มม็อด เคออส 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 100,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ReforgeAttack",
+    "Text": "<white>{สุ่มม็อด} <craftingattack>{โจมตี} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "attack ON rare",
+    "Unk005": [],
+    "HASH16": 32708,
+    "Description": "สุ่มม็อด โจมตี 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 8,
+    "Id": "ReforgeSpell",
+    "Text": "<white>{สุ่มม็อด} <craftingcaster>{นักเวท} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "caster ON rare",
+    "Unk005": [],
+    "HASH16": 23060,
+    "Description": "สุ่มม็อด นักเวท 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 9,
+    "Id": "ReforgeSpeed",
+    "Text": "<white>{สุ่มม็อด} <craftingspeed>{ความเร็ว} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "speed ON rare",
+    "Unk005": [],
+    "HASH16": 21212,
+    "Description": "สุ่มม็อด ความเร็ว 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 150,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ReforgeCritical",
+    "Text": "<white>{สุ่มม็อด} <craftingcrit>{คริติคอล} 1 อย่าง ให้กับ ​ไอเทม​แรร์ โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่​",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "critical ON rare",
+    "Unk005": [],
+    "HASH16": 23575,
+    "Description": "สุ่มม็อด คริติคอล 1 อย่าง ให้กับ ไอเทมแรร์ โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 150,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ReforgeMoreLikely",
+    "Text": "<white>{สุ่มม็อด} ของ ​ไอเทม​<white>{แรร์} ขึ้น​มา​ใหม่ โดย​ม็อด​ที่​สุ่ม​มา​ใหม่​นั้น​จะ​มี​โอกาส​เป็น​ชนิด​เดียวกัน <white>{มากขึ้น}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_current_tags_affinity_multiplier",
+    "Parameters": "900",
+    "Unk005": [],
+    "HASH16": -31724,
+    "Description": "สุ่มม็อด ของ ไอเทมแรร์ ขึ้นมาใหม่ โดยม็อดที่สุ่มมาใหม่นั้นจะมีโอกาสเป็นชนิดเดียวกัน มากขึ้น",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 12,
+    "Id": "ReforgeLessLikely",
+    "Text": "<white>{สุ่มม็อด} ของ​ ไอเทม​<white>{แรร์} ขึ้น​มา​ใหม่ โดย​ม็อด​ที่​สุ่ม​มา​ใหม่​นั้น​จะ​มี​โอกาส​เป็น​ชนิด​เดียวกัน <white>{น้อยลง}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_current_tags_affinity_multiplier",
+    "Parameters": "-90",
+    "Unk005": [],
+    "HASH16": -29703,
+    "Description": "สุ่มม็อด ของ ไอเทมแรร์ ขึ้นมาใหม่ โดยม็อดที่สุ่มมาใหม่นั้นจะมีโอกาสเป็นชนิดเดียวกัน น้อยลง",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 13,
+    "Id": "RerollCorruptedMap",
+    "Text": "<white>{สังเวย} <white>{แผนที่​แรร์ ที่​มี​มลทิน} จากนั้น สร้าง แผนที่ ที่​มี​มลทิน ขึ้น​มา​ใหม่​ที่​มี​ระดับ​แผนที่​และ​ความ​หา​ยาก​เท่า​กัน",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "sacrifice_corrupted_map_for_new_corrupted_map",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": 24110,
+    "Description": "สังเวย แผนที่แรร์ ที่มีมลทิน จากนั้น สร้าง แผนที่ ที่มีมลทินขึ้นมาใหม่ที่มีระดับแผนที่และความหายากเท่ากัน",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 14,
+    "Id": "RerollFossils",
+    "Text": "<white>{เปลี่ยน} <white>{ฟอสซิล} 1 ​กอง​ให้​เป็น ฟอสซิล ชนิดอื่น โดยที่ ฟอสซิล ชนิด​ใหม่​อาจ​มี​ขนาด​กอง​น้อย​ลง ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "delvefossils",
+    "Unk005": [],
+    "HASH16": 13053,
+    "Description": "เปลี่ยน ฟอสซิล 1 กองให้เป็น ฟอสซิล ชนิดอื่น โดยที่ ฟอสซิล ชนิดใหม่อาจมีขนาดกองน้อยลง ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 15,
+    "Id": "RerollOils",
+    "Text": "<white>{เปลี่ยน} <white>{น้ำมัน} 1 กอง​ให้​เป็น น้ำมัน สี​อื่น ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "mushrune",
+    "Unk005": [],
+    "HASH16": 28656,
+    "Description": "เปลี่ยน น้ำมัน 1 กองให้เป็น น้ำมัน สีอื่น ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 16,
+    "Id": "RerollCatalysts",
+    "Text": "<white>{เปลี่ยน} <white>{ตัวเร่งปฏิกิริยา} 1 ​กอง​ให้​เป็น ตัวเร่งปฏิกิริยา ชนิด​อื่น ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "metamorphcatalystsspecial",
+    "Unk005": [],
+    "HASH16": 2794,
+    "Description": "เปลี่ยน ตัวเร่งปฏิกิริยา 1 กองให้เป็น ตัวเร่งปฏิกิริยา ชนิดอื่น ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 17,
+    "Id": "RerollEssences",
+    "Text": "<white>{เปลี่ยน} <white>{เอสเซนส์} 1 กอง​ให้​เป็น เอสเซนส์ ชนิด​อื่น​ใน​ระดับ​เดียวกัน ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_essences_for_other_essence_of_same_tier",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": 15838,
+    "Description": "เปลี่ยน เอสเซนส์ 1 กองให้เป็น เอสเซนส์ ชนิดอื่นในระดับเดียวกัน ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 18,
+    "Id": "RerollTimelessSplinters",
+    "Text": "<white>{เปลี่ยน} <white>{ชิ้น​ส่วน​เหนือ​กาลเวลา} 1 ​กอง หรือ <white>{ตราสัญลักษณ์​เหนือ​กาลเวลา} 1 ชิ้น ให้​เป็น ชิ้นส่วน​หรือ​ตราสัญลักษณ์ ชนิด​อื่น ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestTimelessSplinterExchange HarvestTimelessEmblemExchange",
+    "Unk005": [],
+    "HASH16": 32762,
+    "Description": "เปลี่ยน ชิ้นส่วนเหนือกาลเวลา 1 กอง หรือ ตราสัญลักษณ์เหนือกาลเวลา 1 ชิ้น ให้เป็น ชิ้นส่วนหรือตราสัญลักษณ์ ชนิดอื่น ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 4,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 19,
+    "Id": "RerollBreachSplinters",
+    "Text": "<white>{เปลี่ยน} <white>{ชิ้นส่วน​บรีช} 1 กอง หรือ <white>{ศิลาบรีช} ธรรมดา หรือ ไร้ที่ติ 1 ก้อน ​ให้​เป็น ชิ้นส่วน​หรือ​ศิลาบรีช ชนิด​อื่น ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestBreachSplinterExchange HarvestBreachStoneExchange\r\nHarvestBreachStoneExchange5",
+    "Unk005": [],
+    "HASH16": -15939,
+    "Description": "เปลี่ยน ชิ้นส่วนบรีช 1 กอง หรือ ศิลาบรีช ธรรมดา หรือ ไร้ที่ติ 1 ก้อน ให้เป็น ชิ้นส่วนหรือศิลาบรีช ชนิดอื่น ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 4,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 20,
+    "Id": "RerollScarabs",
+    "Text": "<white>{เปลี่ยน} <white>{สคารับ} 1 กอง ให้​เป็น สคารับ ชนิด​อื่น​ใน​ระดับ​เดียวกัน ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "change_scarab_into_other_of_same_tier",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -23124,
+    "Description": "เปลี่ยน สคารับ 1 กอง ให้เป็น สคารับ ชนิดอื่นในระดับเดียวกัน ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 21,
+    "Id": "RerollDeliriumOrbs",
+    "Text": "<white>{เปลี่ยน} <white>{ลูกแก้วเดลิเรียม} 1 ​กอง​ให้​เป็น ลูกแก้วเดลิเรียม ชนิด​อื่น ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "afflictionorbs",
+    "Unk005": [],
+    "HASH16": 32501,
+    "Description": "เปลี่ยน ลูกแก้วเดลิเรียม 1 กองให้เป็น ลูกแก้วเดลิเรียม ชนิดอื่น ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 22,
+    "Id": "RerollDivinationCards",
+    "Text": "<white>{เปลี่ยน} <white>{ไพ่​พยากรณ์} ให้​เป็น ไพ่พยากรณ์ ใบอื่น​แบบ​สุ่ม",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_into_new_div_card",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -31678,
+    "Description": "เปลี่ยน ไพ่พยากรณ์ ให้เป็น ไพ่พยากรณ์ ใบอื่นแบบสุ่ม",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 23,
+    "Id": "ChangeColdToFireResist",
+    "Text": "<white>{เปลี่ยนม็อด} ค่าต้านทาน​ <craftingcold>{น้ำแข็ง} 1 อย่าง ​ให้​กลาย​เป็น​ม็อด ค่าต้านทาน <craftingfire>{ไฟ} ที่​มี​ระดับ​ทัดเทียม​กัน",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold fire",
+    "Unk005": [],
+    "HASH16": -27935,
+    "Description": "เปลี่ยนม็อด ค่าต้านทาน น้ำแข็ง 1 อย่าง ให้กลายเป็นม็อด ค่าต้านทาน ไฟ ที่มีระดับทัดเทียมกัน",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 24,
+    "Id": "ChangeLightningToFireResist",
+    "Text": "<white>{เปลี่ยนม็อด} ค่าต้านทาน <craftinglightning>{สายฟ้า} 1 อย่าง ​ให้​กลาย​เป็น​ม็อด ค่าต้านทาน <craftingfire>{ไฟ} ที่​มี​ระดับ​ทัดเทียม​กัน",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning fire",
+    "Unk005": [],
+    "HASH16": -10882,
+    "Description": "เปลี่ยนม็อด ค่าต้านทาน สายฟ้า 1 อย่าง ให้กลายเป็นม็อด ค่าต้านทาน ไฟ ที่มีระดับทัดเทียมกัน",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 25,
+    "Id": "ChangeFireToColdResist",
+    "Text": "<white>{เปลี่ยนม็อด} ค่าต้านทาน <craftingfire>{ไฟ} 1 อย่าง ให้​กลาย​เป็น​ม็อด ค่าต้านทาน <craftingcold>{น้ำแข็ง} ที่​มี​ระดับ​ทัดเทียม​กัน",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire cold",
+    "Unk005": [],
+    "HASH16": 15550,
+    "Description": "เปลี่ยนม็อด ค่าต้านทาน ไฟ 1 อย่าง ให้กลายเป็นม็อด ค่าต้านทาน น้ำแข็ง ที่มีระดับทัดเทียมกัน",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 26,
+    "Id": "ChangeLightningToColdResist",
+    "Text": "<white>{เปลี่ยนม็อด} ค่าต้านทาน <craftinglightning>{สายฟ้า} 1 อย่าง ให้​กลาย​เป็น​ม็อด ค่าต้านทาน <craftingcold>{น้ำแข็ง} ที่​มี​ระดับ​ทัดเทียม​กัน",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning cold",
+    "Unk005": [],
+    "HASH16": 27983,
+    "Description": "เปลี่ยนม็อด ค่าต้านทาน สายฟ้า 1 อย่าง ให้กลายเป็นม็อด ค่าต้านทาน น้ำแข็ง ที่มีระดับทัดเทียมกัน",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 27,
+    "Id": "ChangeFireToLightningResist",
+    "Text": "<white>{เปลี่ยนม็อด} ค่าต้านทาน <craftingfire>{ไฟ} 1 อย่าง ​ให้​กลาย​เป็น​ม็อด ค่าต้านทาน <craftinglightning>{สายฟ้า} ที่​มี​ระดับ​ทัดเทียม​กัน",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire lightning",
+    "Unk005": [],
+    "HASH16": 5400,
+    "Description": "เปลี่ยนม็อด ค่าต้านทาน ไฟ 1 อย่าง ให้กลายเป็นม็อด ค่าต้านทาน สายฟ้า ที่มีระดับทัดเทียมกัน",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ChangeColdToLightningResist",
+    "Text": "<white>{เปลี่ยนม็อด} ค่าต้านทาน​ <craftingcold>{น้ำแข็ง} 1 อย่าง ให้​กลาย​เป็น​ม็อด ค่าต้านทาน <craftinglightning>{สายฟ้า} ที่​มี​ระดับ​ทัดเทียม​กัน",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold lightning",
+    "Unk005": [],
+    "HASH16": 25638,
+    "Description": "เปลี่ยนม็อด ค่าต้านทาน น้ำแข็ง 1 อย่าง ให้กลายเป็นม็อด ค่าต้านทาน สายฟ้า ที่มีระดับทัดเทียมกัน",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 29,
+    "Id": "FlaskDurationEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{ขวดยา}: <enchanted>{เพิ่ม​ระยะ​เวลา​ส่ง​ผล} แต่​ค่าตัวเลข​ของ​ม็อด​นี้​จะ​ลด​ลง​ทุก​ครั้ง​ที่​ใช้​งาน",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentDurationLoweredOnUse1_",
+    "Unk005": [],
+    "HASH16": -252,
+    "Description": "ใส่เอนแชนท์ ให้กับ ขวดยา: เพิ่มระยะเวลาส่งผล แต่ค่าตัวเลขของม็อดนี้จะลดลงทุกครั้งที่ใช้งาน",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 30,
+    "Id": "FlaskChargeEnchant",
+    "Text": "<white>{ใส่เอนแชนท์} ให้​กับ <white>{ขวดยา}: <enchanted>{​เพิ่ม​จำนวน​ชาร์จ​สูงสุด} แต่​ค่าตัวเลข​ของ​ม็อด​นี้​จะ​ลด​ลง​ทุก​ครั้ง​ที่​ใช้​งาน",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentMaximumChargesLoweredOnUse3_",
+    "Unk005": [],
+    "HASH16": -5223,
+    "Description": "ใส่เอนแชนท์ ให้กับ ขวดยา: เพิ่มจำนวนชาร์จสูงสุด แต่ค่าตัวเลขของม็อดนี้จะลดลงทุกครั้งที่ใช้งาน",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 31,
+    "Id": "FlaskEffectEnchant",
+    "Text": "<white>{ใส่เอนแชนท์} ให้​กับ <white>{ขวดยา}: <enchanted>{เพิ่ม​ผล​ของ​ขวดยา} แต่​ค่าตัวเลข​ของ​ม็อด​นี้​จะ​ลด​ลง​ทุก​ครั้ง​ที่​ใช้​งาน",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentEffectLoweredOnUse2",
+    "Unk005": [],
+    "HASH16": 10125,
+    "Description": "ใส่เอนแชนท์ ให้กับ ขวดยา: เพิ่มผลของขวดยา แต่ค่าตัวเลขของม็อดนี้จะลดลงทุกครั้งที่ใช้งาน",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 32,
+    "Id": "FlaskReducedEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{ขวดยา}: <enchanted>{ลด​การ​ใช้​งาน​ชาร์จ} แต่​ค่าตัวเลข​ของ​ม็อด​นี้​จะ​ลด​ลง​ทุก​ครั้ง​ที่​ใช้​งาน",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentChargesUsedLoweredOnUse4",
+    "Unk005": [],
+    "HASH16": -4863,
+    "Description": "ใส่เอนแชนท์ ให้กับ ขวดยา: ลดการใช้งานชาร์จ แต่ค่าตัวเลขของม็อดนี้จะลดลงทุกครั้งที่ใช้งาน",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 33,
+    "Id": "RerollShaperFragment",
+    "Text": "<white>{เปลี่ยน} <white>{ชิ้นส่วน​เชปเปอร์} 1 กอง ให้เป็น ชิ้นส่วน​เชปเปอร์ กองอื่น​แบบ​สุ่ม ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestShaperFragmentExchange",
+    "Unk005": [],
+    "HASH16": -10216,
+    "Description": "เปลี่ยน ชิ้นส่วนเชปเปอร์ 1 ชิ้น ให้เป็น ชิ้นส่วนเชปเปอร์ ชิ้นอื่นแบบสุ่ม ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 34,
+    "Id": "RerollElderFragment",
+    "Text": "<white>{เปลี่ยน} <white>{ชิ้นส่วน​เอลเดอร์} 1 กอง ให้​เป็น ชิ้น​ส่วน​เอลเดอร์ กอง​อื่น​แบบ​สุ่ม ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestElderFragmentExchange",
+    "Unk005": [],
+    "HASH16": 23189,
+    "Description": "เปลี่ยน ชิ้นส่วนเอลเดอร์ 1 ชิ้น ให้เป็น ชิ้นส่วนเอลเดอร์ ชิ้นอื่นแบบสุ่ม ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 35,
+    "Id": "RerollConquerorFragment",
+    "Text": "<white>{เปลี่ยน} <white>{ชิ้นส่วน​ผู้พิชิต} 1 กอง ให้​เป็น ชิ้น​ส่วน​ผู้พิชิต กอง​อื่น​แบบ​สุ่ม ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestConquerorFragmentExchange",
+    "Unk005": [],
+    "HASH16": -5205,
+    "Description": "เปลี่ยน ชิ้นส่วนผู้พิชิต 1 ชิ้น ให้เป็น ชิ้นส่วนผู้พิชิต ชิ้นอื่นแบบสุ่ม ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 36,
+    "Id": "RerollAtziriFragment",
+    "Text": "<white>{​เปลี่ยน} <white>{ชิ้น​ส่วนสังเวย}​หรือ​<white>{เยี่ยงมนุษย์} 1 กอง ให้เป็น ชิ้น​ส่วน กอง​อื่น​ที่​มี​ชนิด​เดียว​กัน​แบบ​สุ่ม ค่าคราฟท์​​ขึ้น​อยู่​กับ​ขนาด​กอง",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestSacrificeFragmentExchange HarvestMortalSacrificeFragmentExchange",
+    "Unk005": [],
+    "HASH16": -20408,
+    "Description": "เปลี่ยน ชิ้นส่วนสังเวยหรือเยี่ยงมนุษย์ 1 ชิ้น ให้เป็น ชิ้นส่วน ชนิดเดียวกันชิ้นอื่นแบบสุ่ม ค่าคราฟท์ขึ้นอยู่กับขนาดกอง",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 37,
+    "Id": "DivinationCardGamble",
+    "Text": "<white>{สังเวย} <white>{ไพ่พยากรณ์} จำนวน​แบบ​สุ่ม​แต่​ไม่​เกิน​ครึ่ง​กอง​เพื่อ​สร้าง ไพ่พยากรณ์​ใบ​เดิม สุ่ม​จำนวน​ที่​ได้​รับ​ตั้งแต่ 0 ใบไป​จนถึง​สอง​เท่า​ของ​จำนวน​ที่​สังเวย",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_num_div_cards",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -25855,
+    "Description": "สังเวย ไพ่พยากรณ์ จำนวนแบบสุ่มแต่ไม่เกินครึ่งกองเพื่อสร้าง ไพ่พยากรณ์ใบเดิม สุ่มจำนวนที่ได้รับตั้งแต่ 0 ใบไปจนถึงสองเท่าของจำนวนที่สังเวย",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 1500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 38,
+    "Id": "MapNoSextantEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้กับ <white>{แผน​ที่}ที่​ไม่ใช่​ยูนิค: <enchanted>{แผนที่ มี​โอกาส​ไม่​ใช้​ลด​จำนวน​ครั้ง​การ​ใช้​งาน​ของ เครื่องวัด​แดด 50%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_mod_to_map",
+    "Parameters": "sextant",
+    "Unk005": [],
+    "HASH16": -25153,
+    "Description": "ใส่เอนแชนท์ ให้กับ แผนที่ที่ไม่ใช่ยูนิค: แผนที่ มีโอกาสไม่ลดจำนวนครั้งการใช้งานของ เครื่องวัดแดด 50%",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 2500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 39,
+    "Id": "GemExperienceLens",
+    "Text": "<white>{สังเวย หิน​ที่​มี​มลทิน} เพื่อ​นำ 50% ของ​ค่า​ประสบการณ์​ที่​หิน​เม็ด​นั้น​มี​มา​เก็บ​ไว้​ใน <white>{Facetor's Lens}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "sacrifice_gem_for_currency",
+    "Parameters": "experience 50",
+    "Unk005": [],
+    "HASH16": 10753,
+    "Description": "สังเวย หินที่มีมลทิน เพื่อนำ 50% ของค่าประสบการณ์ที่หินเม็ดนั้นมีมาเก็บไว้ใน Facetor's Lens",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 4000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 40,
+    "Id": "RerollInfluenceType",
+    "Text": "<white>{สุ่มชนิด} <white>{อิทธิพล} ให้กับ <white>{ไอเทม}ธรรมดา, เมจิก หรือ แรร์ ที่​มี ​อิทธิพล รวม​ถึง<white>{สุ่มม็อด}ทุกอย่างบน​ไอเทม​​ขึ้น​มา​ใหม่",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_influence_types",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre Quiver Gloves Boots Body_Armour Helmet Shield Amulet Ring Belt",
+    "Unk005": [],
+    "HASH16": -21746,
+    "Description": "สุ่มชนิด อิทธิพล ให้กับ ไอเทมธรรมดา, เมจิก หรือ แรร์ รวมถึงสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 1000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 41,
+    "Id": "LifeBodyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{เสื้อเกราะ}: ค่าคุณภาพ​จะ​ไม่​เพิ่มค่าป้องกัน​ของเสื้อเกราะ, มอบ​ม็อด <enchanted>{​ค่า พลังชีวิต​สูงสุด +1 ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedLife",
+    "Unk005": [],
+    "HASH16": 17730,
+    "Description": "ใส่เอนแชนท์ ให้กับ เสื้อเกราะ: ค่าคุณภาพจะไม่เพิ่มค่าป้องกันของเสื้อเกราะ, มอบม็อด ค่า พลังชีวิตสูงสุด +1 ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 42,
+    "Id": "ManaBodyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{เสื้อเกราะ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ค่า​ป้องกัน​ของ​เสื้อเกราะ, มอบ​ม็อด <enchanted>{​ค่า มานา​สูงสุด +1 ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedMana",
+    "Unk005": [],
+    "HASH16": 21682,
+    "Description": "ใส่เอนแชนท์ ให้กับ เสื้อเกราะ: ค่าคุณภาพจะไม่เพิ่มค่าป้องกันของเสื้อเกราะ, มอบม็อด ค่า มานาสูงสุด +1 ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 43,
+    "Id": "StrengthBodyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{เสื้อเกราะ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ค่า​ป้องกัน​ของ​เสื้อเกราะ, มอบ​ม็อด <enchanted>{​Strength +1 ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityStrength",
+    "Unk005": [],
+    "HASH16": 14593,
+    "Description": "ใส่เอนแชนท์ ให้กับ เสื้อเกราะ: ค่าคุณภาพจะไม่เพิ่มค่าป้องกันของเสื้อเกราะ, มอบม็อด Strength +1 ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 44,
+    "Id": "DexterityBodyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{เสื้อเกราะ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ค่า​ป้องกัน​ของ​เสื้อเกราะ, มอบ​ม็อด <enchanted>{​Dexterity +1 ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityDexterity",
+    "Unk005": [],
+    "HASH16": -29172,
+    "Description": "ใส่เอนแชนท์ ให้กับ เสื้อเกราะ: ค่าคุณภาพจะไม่เพิ่มค่าป้องกันของเสื้อเกราะ, มอบม็อด Dexterity +1 ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 45,
+    "Id": "IntelligenceBodyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{เสื้อเกราะ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ค่า​ป้องกัน​ของ​เสื้อเกราะ, มอบ​ม็อด <enchanted>{​Intelligence +1 ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIntelligence_",
+    "Unk005": [],
+    "HASH16": 23036,
+    "Description": "ใส่เอนแชนท์ ให้กับ เสื้อเกราะ: ค่าคุณภาพจะไม่เพิ่มค่าป้องกันของเสื้อเกราะ, มอบม็อด Intelligence +1 ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 46,
+    "Id": "FireResistBodyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{เสื้อเกราะ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ค่า​ป้องกัน​ของ​เสื้อเกราะ, มอบ​ม็อด <enchanted>{​ค่าต้านทาน ไฟ 1​% ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityFireResistance",
+    "Unk005": [],
+    "HASH16": 21330,
+    "Description": "ใส่เอนแชนท์ ให้กับ เสื้อเกราะ: ค่าคุณภาพจะไม่เพิ่มค่าป้องกันของเสื้อเกราะ, มอบม็อด ค่าต้านทาน ไฟ 1% ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 47,
+    "Id": "ColdResistBodyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{เสื้อเกราะ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ค่า​ป้องกัน​ของ​เสื้อเกราะ, มอบ​ม็อด <enchanted>{ค่าต้านทาน น้ำแข็ง 1% ต่อ​ค่า​คุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityColdResistance",
+    "Unk005": [],
+    "HASH16": -976,
+    "Description": "ใส่เอนแชนท์ ให้กับ เสื้อเกราะ: ค่าคุณภาพจะไม่เพิ่มค่าป้องกันของเสื้อเกราะ, มอบม็อด ค่าต้านทาน น้ำแข็ง 1% ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 48,
+    "Id": "LightningResistBodyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{เสื้อเกราะ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ค่า​ป้องกัน​ของ​เสื้อเกราะ, มอบ​ม็อด <enchanted>{​ค่าต้านทาน สายฟ้า 1% ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityLightningResistance",
+    "Unk005": [],
+    "HASH16": 17121,
+    "Description": "ใส่เอนแชนท์ ให้กับ เสื้อเกราะ: ค่าคุณภาพจะไม่เพิ่มค่าป้องกันของเสื้อเกราะ, มอบม็อด ค่าต้านทาน สายฟ้า 1% ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 49,
+    "Id": "WeaponRangeEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{อาวุธประชิด}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ความเสียหาย​กายภาพ​ของ​อาวุธ, <enchanted>{​ระยะ​อาวุธ +1 ต่อ​ค่า​คุณภาพ 10%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalMeleeWeaponRange_",
+    "Unk005": [],
+    "HASH16": -21229,
+    "Description": "ใส่เอนแชนท์ ให้กับ อาวุธประชิด: ค่าคุณภาพจะไม่เพิ่มความเสียหายกายภาพของอาวุธ, ระยะอาวุธ +1 ต่อค่าคุณภาพ 10%",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 50,
+    "Id": "WeaponAreaEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{อาวุธ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ความ​เสียหาย​กายภาพ​ของ​อาวุธ, มอบ​ม็อด <enchanted>{​เพิ่ม​พื้นที่​ส่ง​ผล 1% ต่อ​ค่าคุณภาพ 4%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAreaOfEffect_",
+    "Unk005": [],
+    "HASH16": 8767,
+    "Description": "ใส่เอนแชนท์ ให้กับ อาวุธ: ค่าคุณภาพจะไม่เพิ่มความเสียหายกายภาพของอาวุธ, มอบม็อด เพิ่มพื้นที่ส่งผล 1% ต่อค่าคุณภาพ 4%",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WeaponAccuracyEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{อาวุธ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ความ​เสียหาย​กายภาพ​ของอาวุธ, มอบม็อด <enchanted>{เพิ่ม​ความ​แม่นยำ 1% ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAccuracyRatingIncrease_",
+    "Unk005": [],
+    "HASH16": -6758,
+    "Description": "ใส่เอนแชนท์ ให้กับ อาวุธ: ค่าคุณภาพจะไม่เพิ่มความเสียหายกายภาพของอาวุธ, มอบม็อด เพิ่มความแม่นยำ 1% ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 52,
+    "Id": "WeaponAttackSpeedEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{อาวุธ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ความ​เสีย​หาย​กายภาพ​ของอาวุธ​, <enchanted>{​เพิ่ม​ความเร็ว​ใน​การ​โจมตี 1% ต่อ​ค่าคุณภาพ 8%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalIncreasedAttackSpeed",
+    "Unk005": [],
+    "HASH16": -11016,
+    "Description": "ใส่เอนแชนท์ ให้กับ อาวุธ: ค่าคุณภาพจะไม่เพิ่มความเสียหายกายภาพของอาวุธ, เพิ่มความเร็วในการโจมตี 1% ต่อค่าคุณภาพ 8%",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 53,
+    "Id": "WeaponCriticalEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{อาวุธ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ความ​เสีย​หาย​กายภาพ​ของอาวุธ, <enchanted>{เพิ่มโอกาส​คริติคอล 1% ต่อ​ค่า​คุณภาพ 4%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalCriticalStrikeChance__",
+    "Unk005": [],
+    "HASH16": 22104,
+    "Description": "ใส่เอนแชนท์ ให้กับ อาวุธ: ค่าคุณภาพจะไม่เพิ่มความเสียหายกายภาพของอาวุธ, เพิ่มโอกาสคริติคอล 1% ต่อค่าคุณภาพ 4%",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 54,
+    "Id": "WeaponElementalEnchant",
+    "Text": "<white>{ใส่​เอนแชนท์} ให้​กับ <white>{อาวุธ}: ค่าคุณภาพ​จะ​ไม่​เพิ่ม​ความ​เสียหาย​กายภาพ​ของ​อาวุธ, มอบ​ม็อด <enchanted>{เพิ่ม​ความ​เสีย​หาย​ ธาตุ 1% ต่อ​ค่าคุณภาพ 2%}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityElementalDamagePercent",
+    "Unk005": [],
+    "HASH16": -13278,
+    "Description": "ใส่เอนแชนท์ ให้กับ อาวุธ: ค่าคุณภาพจะไม่เพิ่มความเสียหายกายภาพของอาวุธ, มอบม็อด: เพิ่มความเสียหาย ธาตุ 1% ต่อค่าคุณภาพ 2%",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 55,
+    "Id": "ReforgeWhiteSocket",
+    "Text": "<white>{สุ่มเปลี่ยนสีรู}​​ บน​ไอ​เทม <white>{1 รู} ​ให้​กลาย​เป็น <white>{​​สีขาว​}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "modify_socket_colors",
+    "Parameters": "W",
+    "Unk005": [],
+    "HASH16": 29639,
+    "Description": "สุ่มเปลี่ยนสีรู บนไอเทม 1 รู ให้กลายเป็น สีขาว",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 12500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 56,
+    "Id": "AugmentFire",
+    "Text": "<white>{เพิ่มม็อด} <craftingfire>{ไฟ} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR fire noinfluence",
+    "Unk005": [],
+    "HASH16": 18538,
+    "Description": "เพิ่มม็อด ไฟ ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AugmentCold",
+    "Text": "<white>{เพิ่มม็อด} <craftingcold>{น้ำแข็ง} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR cold noinfluence",
+    "Unk005": [],
+    "HASH16": 5398,
+    "Description": "เพิ่มม็อด น้ำแข็ง ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 58,
+    "Id": "AugmentLightning",
+    "Text": "<white>{เพิ่มม็อด} <craftinglightning>{สายฟ้า} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR lightning noinfluence",
+    "Unk005": [],
+    "HASH16": -31624,
+    "Description": "เพิ่มม็อด สายฟ้า ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 59,
+    "Id": "AugmentPhysical",
+    "Text": "<white>{เพิ่มม็อด} <craftingphysical>{กายภาพ} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR physical noinfluence",
+    "Unk005": [],
+    "HASH16": 30284,
+    "Description": "เพิ่มม็อด กายภาพ ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 60,
+    "Id": "AugmentLife",
+    "Text": "<white>{เพิ่มม็อด} <craftinglife>{พลังชีวิต} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR life noinfluence",
+    "Unk005": [],
+    "HASH16": 20827,
+    "Description": "เพิ่มม็อด พลังชีวิต ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 61,
+    "Id": "AugmentDefences",
+    "Text": "<white>{เพิ่มม็อด} <craftingdefences>{ป้องกัน} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR defences noinfluence",
+    "Unk005": [],
+    "HASH16": -25086,
+    "Description": "เพิ่มม็อด ป้องกัน ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 62,
+    "Id": "AugmentChaos",
+    "Text": "<white>{เพิ่มม็อด} <craftingchaos>{เคออส} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR chaos noinfluence",
+    "Unk005": [],
+    "HASH16": 16260,
+    "Description": "เพิ่มม็อด เคออส ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 63,
+    "Id": "AugmentAttack",
+    "Text": "<white>{เพิ่มม็อด} <craftingattack>{โจมตี} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR attack noinfluence",
+    "Unk005": [],
+    "HASH16": -9969,
+    "Description": "เพิ่มม็อด โจมตี ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 64,
+    "Id": "AugmentSpell",
+    "Text": "<white>{เพิ่มม็อด} <craftingcaster>{นักเวท} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR caster noinfluence",
+    "Unk005": [],
+    "HASH16": -8685,
+    "Description": "เพิ่มม็อด นักเวท ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 65,
+    "Id": "AugmentSpeed",
+    "Text": "<white>{เพิ่มม็อด} <craftingspeed>{ความเร็ว} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR speed noinfluence",
+    "Unk005": [],
+    "HASH16": -8802,
+    "Description": "เพิ่มม็อด ความเร็ว ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 20000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 66,
+    "Id": "AugmentCritical",
+    "Text": "<white>{เพิ่มม็อด} <craftingcrit>{คริติคอล} ลง​ไป 1 อย่าง จากนั้น<white>{ลบม็อด}อื่น 1 อย่างแบบ​สุ่ม ​ออก​จาก​ไอเทม​ที่​ไม่มี อิทธิพล",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR critical noinfluence",
+    "Unk005": [],
+    "HASH16": 22594,
+    "Description": "เพิ่มม็อด คริติคอล ลงไป 1 อย่าง จากนั้นลบม็อดอื่น 1 อย่างแบบสุ่ม ออกจากไอเทมที่ไม่มี อิทธิพล",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 20000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 67,
+    "Id": "BossSynthesis1",
+    "Text": "<white>{สังเคราะห์} ไอเทม​ 1 ชิ้น ให้​มี​ม็อด​แฝง​สังเคราะห์​แบบ​สุ่ม ไม่​สามารถ​ใช้​กับ ไอเทม​ยูนิค, ไอเทมที่​มี​อิทธิพล, ไอเทม​สังเคราะห์ หรือ ไอเทม​แตกร้าว ได้",
+    "Tier": {
+      "RowIndex": 3,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_synthesized_implicits",
+    "Parameters": "12 3 1",
+    "Unk005": [],
+    "HASH16": -9469,
+    "Description": "สังเคราะห์ ไอเทม 1 ชิ้น ให้มีม็อดแฝง​สังเคราะห์แบบสุ่ม ไม่สามารถใช้กับ ไอเทมยูนิค, ไอเทมที่มีอิทธิพล, ไอเทมสังเคราะห์ หรือ ไอเทมแตกร้าว ได้",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 68,
+    "Id": "BossInfluence1",
+    "Text": "<white>{สุ่มม็อด} <white>{อิทธิพล} 1 อย่าง ให้กับ ไอเทม​แรร์​ที่​มี​<white>{อิทธิพล} โดย​จะ​สุ่ม​ม็อด​ทุก​อย่าง​บน​ไอเทม​ขึ้น​มา​ใหม่",
+    "Tier": {
+      "RowIndex": 3,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_influence_mod",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -30265,
+    "Description": "สุ่มม็อด อิทธิพล 1 อย่าง ให้กับ ไอเทมแรร์ที่มีอิทธิพล โดยจะสุ่มม็อดทุกอย่างบนไอเทมขึ้นมาใหม่",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  }
+]

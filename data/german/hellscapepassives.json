@@ -1,0 +1,347 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "JewellerySpeed",
+    "Name": "Chaotische Schmuckstücke",
+    "Stats": [
+      {
+        "RowIndex": 14103,
+        "TableName": "Stats",
+        "Id": "jewellery_hellscaping_speed_+%"
+      }
+    ],
+    "StatsValues": [
+      5
+    ],
+    "Points": 5,
+    "HASH16": 5415,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/JewelleryandFlaskMicro.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/JewelleryandFlaskMicroMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ArmourSpeed",
+    "Name": "Bizarres Metall",
+    "Stats": [
+      {
+        "RowIndex": 14099,
+        "TableName": "Stats",
+        "Id": "armour_hellscaping_speed_+%"
+      }
+    ],
+    "StatsValues": [
+      5
+    ],
+    "Points": 5,
+    "HASH16": 34224,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/ArmourMicro.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/ArmourMicroMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 2,
+    "Id": "WeaponSpeed",
+    "Name": "Mörderische Entweihung",
+    "Stats": [
+      {
+        "RowIndex": 14100,
+        "TableName": "Stats",
+        "Id": "weapon_hellscaping_speed_+%"
+      },
+      {
+        "RowIndex": 14102,
+        "TableName": "Stats",
+        "Id": "quiver_hellscaping_speed_+%"
+      }
+    ],
+    "StatsValues": [
+      5,
+      5
+    ],
+    "Points": 5,
+    "HASH16": 10836,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/WeaponMicro.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/WeaponMicroMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 3,
+    "Id": "MapSpeed",
+    "Name": "Inbrünstige Träume",
+    "Stats": [
+      {
+        "RowIndex": 14101,
+        "TableName": "Stats",
+        "Id": "map_hellscaping_speed_+%"
+      }
+    ],
+    "StatsValues": [
+      5
+    ],
+    "Points": 5,
+    "HASH16": 34087,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/MapsMicro.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/MapsMicroMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 4,
+    "Id": "MicrowaveSlotNonMap1",
+    "Name": "Alternative Geschichte",
+    "Stats": [
+      {
+        "RowIndex": 14559,
+        "TableName": "Stats",
+        "Id": "allow_hellscaping_unique_items"
+      }
+    ],
+    "StatsValues": [
+      1
+    ],
+    "Points": 1,
+    "HASH16": 13590,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/MicrowaveUniqueItems.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/MicrowaveUniqueItemsMaxed.dds",
+    "SoundEffect": {
+      "RowIndex": 339,
+      "TableName": "SoundEffects"
+    },
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 5,
+    "Id": "MicrowaveSlotNonMap2",
+    "Name": "Gequetschte Organe",
+    "Stats": [
+      {
+        "RowIndex": 14081,
+        "TableName": "Stats",
+        "Id": "hellscape_extra_item_slots"
+      }
+    ],
+    "StatsValues": [
+      1
+    ],
+    "Points": 1,
+    "HASH16": 46379,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/NonMapsSlotMicro.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/NonMapsSlotMicroMaxed.dds",
+    "SoundEffect": {
+      "RowIndex": 295,
+      "TableName": "SoundEffects"
+    },
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 6,
+    "Id": "MicrowaveSlotMap",
+    "Name": "Ruhelose Albträume",
+    "Stats": [
+      {
+        "RowIndex": 14082,
+        "TableName": "Stats",
+        "Id": "hellscape_extra_map_slots"
+      }
+    ],
+    "StatsValues": [
+      1
+    ],
+    "Points": 1,
+    "HASH16": 32734,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/MapsSlotMicro.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/MapsSlotMicroMaxed.dds",
+    "SoundEffect": {
+      "RowIndex": 296,
+      "TableName": "SoundEffects"
+    },
+    "Unk009": 1157,
+    "Quest": null
+  },
+  {
+    "RowIndex": 7,
+    "Id": "AddSocketNumber",
+    "Name": "Trypophobie",
+    "Stats": [
+      {
+        "RowIndex": 14105,
+        "TableName": "Stats",
+        "Id": "hellscaping_additional_socket_chance_%"
+      }
+    ],
+    "StatsValues": [
+      3
+    ],
+    "Points": 5,
+    "HASH16": 15734,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/AddAdditionalSlot.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/AddAdditionalSlotMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 8,
+    "Id": "AddSocketLink",
+    "Name": "Genähte Wunden",
+    "Stats": [
+      {
+        "RowIndex": 14106,
+        "TableName": "Stats",
+        "Id": "hellscaping_additional_link_chance_%"
+      }
+    ],
+    "StatsValues": [
+      3
+    ],
+    "Points": 5,
+    "HASH16": 50796,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/LinkAdditionalSlot.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/LinkAdditionalSlotMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 9,
+    "Id": "HellscapingSpeedPerHellscapeTierOnMap",
+    "Name": "Verzerrte Schleuse",
+    "Stats": [
+      {
+        "RowIndex": 14420,
+        "TableName": "Stats",
+        "Id": "hellscaping_speed_+%_per_map_hellscape_tier"
+      }
+    ],
+    "StatsValues": [
+      1
+    ],
+    "Points": 5,
+    "HASH16": 31773,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/AddCorruptedImplicitModifier.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/AddCorruptedImplicitModifierMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 10,
+    "Id": "AddExplicitModifier",
+    "Name": "Goldenes Blut",
+    "Stats": [
+      {
+        "RowIndex": 14108,
+        "TableName": "Stats",
+        "Id": "hellscaping_add_explicit_mod_chance_%"
+      }
+    ],
+    "StatsValues": [
+      4
+    ],
+    "Points": 5,
+    "HASH16": 46764,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/AddExplicitModifier.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/AddExplicitModifierMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 11,
+    "Id": "UpgradeExplicitModifier",
+    "Name": "Intensivierende Emulsion",
+    "Stats": [
+      {
+        "RowIndex": 14109,
+        "TableName": "Stats",
+        "Id": "hellscaping_upgrade_mod_tier_chance_%"
+      }
+    ],
+    "StatsValues": [
+      2
+    ],
+    "Points": 5,
+    "HASH16": 5968,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/UpgradeExplicitModifierByOne.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/UpgradeExplicitModifierByOneMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 12,
+    "Id": "IncreasedUpsideTier",
+    "Name": "Anomale Aura",
+    "Stats": [
+      {
+        "RowIndex": 14110,
+        "TableName": "Stats",
+        "Id": "hellscaping_upsides_tier_upgrade_chance_%"
+      }
+    ],
+    "StatsValues": [
+      2
+    ],
+    "Points": 5,
+    "HASH16": 38827,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/GenerateHellscapeUpside.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/GenerateHellscapeUpsideMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 13,
+    "Id": "ReducedDownsideTier",
+    "Name": "Stabilisierende Energie",
+    "Stats": [
+      {
+        "RowIndex": 14111,
+        "TableName": "Stats",
+        "Id": "hellscaping_downsides_tier_downgrade_chance_%"
+      }
+    ],
+    "StatsValues": [
+      2
+    ],
+    "Points": 5,
+    "HASH16": 46437,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/GenerateHellscapeDownside.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/GenerateHellscapeDownsideMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  },
+  {
+    "RowIndex": 14,
+    "Id": "AdditionalUpside",
+    "Name": "Seltsame Kräfte",
+    "Stats": [
+      {
+        "RowIndex": 14112,
+        "TableName": "Stats",
+        "Id": "hellscaping_additional_upside_chance_%"
+      }
+    ],
+    "StatsValues": [
+      1
+    ],
+    "Points": 5,
+    "HASH16": 49509,
+    "Icon": "Art/2DArt/SkillIcons/HellscapePassives/GenerateAdditionalHellscapeUpside.dds",
+    "IconMaxed": "Art/2DArt/SkillIcons/HellscapePassives/GenerateAdditionalHellscapeUpsideMaxed.dds",
+    "SoundEffect": null,
+    "Unk009": 4119,
+    "Quest": null
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AdditionalRewards1",
+    "RewardText": "Ajoute une Récompense à tous les types de Récompenses.",
+    "RewardGroup": 0,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 1,
+    "Id": "RewardsMultiplier2",
+    "RewardText": "Double les Récompenses.",
+    "RewardGroup": 1,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 2,
+    "Id": "RewardTypeOverrideDivination",
+    "RewardText": "Transforme tous les types de Récompenses en Cartes divinatoires.",
+    "RewardGroup": 2,
+    "ScriptArgument": "DivinationCards",
+    "MinLevel": 46,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 3,
+    "Id": "RewardTypeOverrideUniques",
+    "RewardText": "Transforme tous les types de Récompenses en Objets uniques.",
+    "RewardGroup": 2,
+    "ScriptArgument": "Uniques",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 4,
+    "Id": "RewardTypeOverrideCurrency",
+    "RewardText": "Transforme tous les types de Récompenses en Objets monétaires.",
+    "RewardGroup": 2,
+    "ScriptArgument": "Currency",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 5,
+    "Id": "MinionsHaveRewards",
+    "RewardText": "Les Serviteurs du Monstre cèdent un type de Récompense choisi au hasard.",
+    "RewardGroup": 3,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 6,
+    "Id": "BetterRewards1",
+    "RewardText": "Tire au hasard les Récompenses 1 fois supplémentaire, et conserve le résultat le plus rare.",
+    "RewardGroup": 4,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 7,
+    "Id": "BetterRewards2",
+    "RewardText": "Tire au hasard les Récompenses 2 fois supplémentaires, et conserve le résultat le plus rare.",
+    "RewardGroup": 4,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 8,
+    "Id": "BetterRewards4",
+    "RewardText": "Tire au hasard les Récompenses 4 fois supplémentaires, et conserve le résultat le plus rare.",
+    "RewardGroup": 4,
+    "ScriptArgument": "4",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 9,
+    "Id": "BetterRewards8",
+    "RewardText": "Tire au hasard les Récompenses 6 fois supplémentaires, et conserve le résultat le plus rare.",
+    "RewardGroup": 4,
+    "ScriptArgument": "6",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 10,
+    "Id": "CorruptedRewards",
+    "RewardText": "Le Monstre et ses Serviteurs cèdent des Objets corrompus.",
+    "RewardGroup": 5,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  }
+]

@@ -1,0 +1,1865 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ReforgeFire",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingfire>{火}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "fire ON rare",
+    "Unk005": [],
+    "HASH16": -23579,
+    "Description": "レアアイテムをリフォージし、火モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ReforgeCold",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingcold>{冷気}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "cold ON rare",
+    "Unk005": [],
+    "HASH16": -28242,
+    "Description": "レアアイテムをリフォージし、冷気モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ReforgeLightning",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftinglightning>{雷}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "lightning ON rare",
+    "Unk005": [],
+    "HASH16": 14935,
+    "Description": "レアアイテムをリフォージし、雷モッドを最低1個含むランダムなモッドを持つレアアイテムにする。",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ReforgePhysical",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingphysical>{物理}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "physical ON rare",
+    "Unk005": [],
+    "HASH16": 28183,
+    "Description": "レアアイテムをリフォージし、物理モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ReforgeLife",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftinglife>{ライフ}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "life ON rare",
+    "Unk005": [],
+    "HASH16": 20366,
+    "Description": "レアアイテムをリフォージし、ライフモッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ReforgeDefences",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingdefences>{防御力}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "defences ON rare",
+    "Unk005": [],
+    "HASH16": 23252,
+    "Description": "レアアイテムをリフォージし、防御力モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ReforgeChaos",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingchaos>{混沌}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "chaos ON rare",
+    "Unk005": [],
+    "HASH16": -98,
+    "Description": "レアアイテムをリフォージし、混沌モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 100,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ReforgeAttack",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingattack>{アタック}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "attack ON rare",
+    "Unk005": [],
+    "HASH16": 32708,
+    "Description": "レアアイテムをリフォージし、アタックモッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 8,
+    "Id": "ReforgeSpell",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingcaster>{キャスター}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "caster ON rare",
+    "Unk005": [],
+    "HASH16": 23060,
+    "Description": "レアアイテムをリフォージし、キャスターモッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 9,
+    "Id": "ReforgeSpeed",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingspeed>{スピード}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "speed ON rare",
+    "Unk005": [],
+    "HASH16": 21212,
+    "Description": "レアアイテムをリフォージし、スピードモッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 150,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ReforgeCritical",
+    "Text": "レアアイテムを<white>{リフォージ}し、<craftingcrit>{クリティカル}モッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "critical ON rare",
+    "Unk005": [],
+    "HASH16": 23575,
+    "Description": "レアアイテムをリフォージし、クリティカルモッドを最低1個含むランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 150,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ReforgeMoreLikely",
+    "Text": "<white>{レア}アイテム1個を<white>{リフォージ}し、同じタイプのモッドを持つ可能性の<white>{高い}レアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_current_tags_affinity_multiplier",
+    "Parameters": "900",
+    "Unk005": [],
+    "HASH16": -31724,
+    "Description": "レアアイテム1個をリフォージし、同じタイプのモッドを持つ可能性の低いレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 12,
+    "Id": "ReforgeLessLikely",
+    "Text": "<white>{レア}アイテム1個を<white>{リフォージ}し、同じタイプのモッドを持つ可能性の<white>{低い}レアアイテムにする",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_current_tags_affinity_multiplier",
+    "Parameters": "-90",
+    "Unk005": [],
+    "HASH16": -29703,
+    "Description": "レアアイテム1個をリフォージし、同じタイプのモッドを持つ可能性の高いレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 13,
+    "Id": "RerollCorruptedMap",
+    "Text": "<white>{コラプト状態のレアマップ}を<white>{生贄}にする。同じティア、レアリティの新しいコラプト状態のマップを作成する。",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "sacrifice_corrupted_map_for_new_corrupted_map",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": 24110,
+    "Description": "コラプト状態のレアマップを生贄にする。同じティア、レアリティの新しいコラプト状態のマップを作成する",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 14,
+    "Id": "RerollFossils",
+    "Text": "<white>{化石}のスタックを、別のタイプの化石に<white>{変換}する。新しい化石は、スタック量が少なくなることがある。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "delvefossils",
+    "Unk005": [],
+    "HASH16": 13053,
+    "Description": "化石のスタックを、別のタイプの化石に変換する。新しい化石は、スタック量が少なくなることがある。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 15,
+    "Id": "RerollOils",
+    "Text": "<white>{オイル}のスタックを、別の色のオイルに<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "mushrune",
+    "Unk005": [],
+    "HASH16": 28656,
+    "Description": "オイルのスタックを、別の色のオイルに変換する。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 16,
+    "Id": "RerollCatalysts",
+    "Text": "<white>{カタリスト}のスタックを、別のタイプのカタリストに<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "metamorphcatalystsspecial",
+    "Unk005": [],
+    "HASH16": 2794,
+    "Description": "カタリストのスタックを、別のタイプのカタリストに変換する。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 17,
+    "Id": "RerollEssences",
+    "Text": "<white>{エッセンス}のスタックを、同じティアの別のエッセンスに<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_essences_for_other_essence_of_same_tier",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": 15838,
+    "Description": "エッセンスのスタックを、同じティアの別のエッセンスに変換する。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 18,
+    "Id": "RerollTimelessSplinters",
+    "Text": "<white>{時知らずの破片}のスタックまたは<white>{時知らずの徽章}1個を、別のタイプの破片または徽章に<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestTimelessSplinterExchange HarvestTimelessEmblemExchange",
+    "Unk005": [],
+    "HASH16": 32762,
+    "Description": "時知らずの破片のスタックまたは時知らずの徽章1個を、別のタイプの破片または徽章に変換する。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 4,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 19,
+    "Id": "RerollBreachSplinters",
+    "Text": "<white>{ブリーチの破片}のスタックまたはノーマルまたは極限<white>{ブリーチストーン}を、別のタイプの破片またはブリーチストーンに<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestBreachSplinterExchange HarvestBreachStoneExchange\r\nHarvestBreachStoneExchange5",
+    "Unk005": [],
+    "HASH16": -15939,
+    "Description": "ブリーチの破片のスタックまたはノーマルか極限のブリーチストーンを別のタイプの破片またはブリーチストーンに変換する。コストはスタックサイズに比例する。",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 4,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 20,
+    "Id": "RerollScarabs",
+    "Text": "<white>{スカラベ}のスタックを同じレアリティの別のスカラベに<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "change_scarab_into_other_of_same_tier",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -23124,
+    "Description": "スカラベのスタックを同じレアリティの別のスカラベに変換する",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 21,
+    "Id": "RerollDeliriumOrbs",
+    "Text": "<white>{デリリウムオーブ}のスタックを、別のタイプのデリリウムオーブに<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "afflictionorbs",
+    "Unk005": [],
+    "HASH16": 32501,
+    "Description": "デリリウムオーブのスタックを、別のタイプのデリリウムオーブに変換する",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 22,
+    "Id": "RerollDivinationCards",
+    "Text": "<white>{占いカード}1枚を、別のランダムな占いカードに<white>{変換}する",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_into_new_div_card",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -31678,
+    "Description": "占いカード1枚を、別のランダムな占いカードに変換する",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 23,
+    "Id": "ChangeColdToFireResist",
+    "Text": "<craftingcold>{冷気}耐性を得るモッド1個を、類似のティアの<craftingfire>{火}耐性を得るモッド1個に<white>{変化}させる",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold fire",
+    "Unk005": [],
+    "HASH16": -27935,
+    "Description": "冷気耐性を得るモッド1個を、類似のティアの火耐性を得るモッド1個に変化させる",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 24,
+    "Id": "ChangeLightningToFireResist",
+    "Text": "<craftinglightning>{雷}耐性を得るモッド1個を、類似のティアの<craftingfire>{火}耐性を得るモッド1個に<white>{変化}させる",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning fire",
+    "Unk005": [],
+    "HASH16": -10882,
+    "Description": "雷耐性を得るモッド1個を、類似のティアの火耐性を得るモッド1個に変化させる",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 25,
+    "Id": "ChangeFireToColdResist",
+    "Text": "<craftingfire>{火}耐性を得るモッド1個を、類似のティアの<craftingcold>{冷気}耐性を得るモッド1個に<white>{変化}させる",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire cold",
+    "Unk005": [],
+    "HASH16": 15550,
+    "Description": "火耐性を得るモッド1個を、類似のティアの冷気耐性を得るモッド1個に変化させる",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 26,
+    "Id": "ChangeLightningToColdResist",
+    "Text": "<craftinglightning>{雷}耐性を得るモッド1個を、類似のティアの<craftingcold>{冷気}耐性を得るモッド1個に<white>{変化}させる",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning cold",
+    "Unk005": [],
+    "HASH16": 27983,
+    "Description": "雷耐性を得るモッド1個を、類似のティアの冷気耐性を得るモッド1個に変化させる",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 27,
+    "Id": "ChangeFireToLightningResist",
+    "Text": "<craftingfire>{火}耐性を得るモッド1個を、類似のティアの<craftinglightning>{雷}耐性を得るモッド1個に<white>{変化}させる",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire lightning",
+    "Unk005": [],
+    "HASH16": 5400,
+    "Description": "火耐性を得るモッド1個を、類似のティアの雷耐性を得るモッド1個に変化させる",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ChangeColdToLightningResist",
+    "Text": "<craftingcold>{冷気}耐性を得るモッド1個を、類似のティアの<craftinglightning>{雷}耐性を得るモッド1個に<white>{変化}させる",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold lightning",
+    "Unk005": [],
+    "HASH16": 25638,
+    "Description": "冷気耐性を得るモッド1個を、類似のティアの雷耐性を得るモッド1個に変化させる",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 29,
+    "Id": "FlaskDurationEnchant",
+    "Text": "<white>{フラスコ}を<white>{エンチャント}し、<enchanted>{持続時間を増加}させる。エンチャントの効果は使用するたびに減少する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentDurationLoweredOnUse1_",
+    "Unk005": [],
+    "HASH16": -252,
+    "Description": "フラスコをエンチャントし、持続時間を増加させる。エンチャントの効果は使用するたびに減少する",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 30,
+    "Id": "FlaskChargeEnchant",
+    "Text": "<white>{フラスコ}を<white>{エンチャント}し、<enchanted>{最大チャージ数を増加}させる。エンチャントの効果は使用するたびに減少する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentMaximumChargesLoweredOnUse3_",
+    "Unk005": [],
+    "HASH16": -5223,
+    "Description": "フラスコをエンチャントし、最大チャージ数を増加させる。エンチャントの効果は使用するたびに減少する",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 31,
+    "Id": "FlaskEffectEnchant",
+    "Text": "<white>{フラスコ}を<white>{エンチャント}し、<enchanted>{フラスコの効果を増加}させる。エンチャントの効果は使用するたびに減少する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentEffectLoweredOnUse2",
+    "Unk005": [],
+    "HASH16": 10125,
+    "Description": "フラスコをエンチャントし、フラスコの効果を増加させる。エンチャントの効果は使用するたびに減少する",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 32,
+    "Id": "FlaskReducedEnchant",
+    "Text": "<white>{フラスコ}を<white>{エンチャント}し、<enchanted>{チャージ消費量減少}を獲得。エンチャントの効果は使用するたびに減少する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentChargesUsedLoweredOnUse4",
+    "Unk005": [],
+    "HASH16": -4863,
+    "Description": "フラスコをエンチャントし、チャージ消費量減少を獲得。エンチャントの効果は使用するたびに減少する",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 33,
+    "Id": "RerollShaperFragment",
+    "Text": "<white>{シェイパーの断片}のスタックを、別のランダムなシェイパーの断片に<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestShaperFragmentExchange",
+    "Unk005": [],
+    "HASH16": -10216,
+    "Description": "シェイパーの断片のスタックを、別のランダムなシェイパーの断片に変換する。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 34,
+    "Id": "RerollElderFragment",
+    "Text": "<white>{エルダーの断片}のスタックを、別のランダムなエルダーの断片に<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestElderFragmentExchange",
+    "Unk005": [],
+    "HASH16": 23189,
+    "Description": "エルダーの断片のスタックを、別のランダムなエルダーの断片に変換する。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 35,
+    "Id": "RerollConquerorFragment",
+    "Text": "<white>{征服者の断片}のスタックを、別のランダムな征服者の断片に<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestConquerorFragmentExchange",
+    "Unk005": [],
+    "HASH16": -5205,
+    "Description": "征服者の断片のスタックを、別のランダムな征服者の断片に変換する。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 36,
+    "Id": "RerollAtziriFragment",
+    "Text": "<white>{生贄}または<white>{定命の者の断片}のスタックを、別のランダムな同じタイプの断片に<white>{変換}する。コストはスタックサイズに比例する",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestSacrificeFragmentExchange HarvestMortalSacrificeFragmentExchange",
+    "Unk005": [],
+    "HASH16": -20408,
+    "Description": "生贄または定命の者の断片のスタックを、別のランダムな同じタイプの断片に変換する。コストはスタックサイズに比例する",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 37,
+    "Id": "DivinationCardGamble",
+    "Text": "最大でスタック可能枚数の半分の<white>{占いカード}を<white>{生贄}にし、0から2倍の枚数の同じ占いカードを受け取る",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_num_div_cards",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -25855,
+    "Description": "最大でスタック数可能枚数の半分の占いカードを生贄にし、0から2倍の枚数の同じ占いカードを受け取る",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 1500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 38,
+    "Id": "MapNoSextantEnchant",
+    "Text": "非ユニーク<white>{マップ}を<white>{エンチャント}し、<enchanted>{「マップは50%の確率で六分儀のチャージを消費しない」}を追加する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_mod_to_map",
+    "Parameters": "sextant",
+    "Unk005": [],
+    "HASH16": -25153,
+    "Description": "非ユニークマップをエンチャントし、「マップは50%の確率で六分儀のチャージを消費しない」を追加する",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 2500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 39,
+    "Id": "GemExperienceLens",
+    "Text": "<white>{コラプト状態のジェム}を<white>{生贄}にし、ジェムの総経験値の50%を保存した<white>{宝石加工のレンズ}にする",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "sacrifice_gem_for_currency",
+    "Parameters": "experience 50",
+    "Unk005": [],
+    "HASH16": 10753,
+    "Description": "コラプト状態のジェムを生贄にし、ジェムの総経験値の50%を保存した宝石加工のレンズにする",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 4000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 40,
+    "Id": "RerollInfluenceType",
+    "Text": "インフルエンスノーマル、マジックまたはレア<white>{アイテム}の<white>{インフルエンス}タイプを<white>{ランダマイズ}すると共に、アイテムを<white>{リフォージ}しランダムなモッドを持つレアアイテムにする",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_influence_types",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre Quiver Gloves Boots Body_Armour Helmet Shield Amulet Ring Belt",
+    "Unk005": [],
+    "HASH16": -21746,
+    "Description": "インフルエンスノーマル、マジックまたはレアアイテムのインフルエンスタイプをランダマイズすると共に、アイテムをリフォージしランダムなモッドを持つレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 1000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 41,
+    "Id": "LifeBodyEnchant",
+    "Text": "<white>{鎧}を<white>{エンチャント}する。品質は鎧の防御力を増加させず、<enchanted>{品質2%ごとに最大ライフを+1}する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedLife",
+    "Unk005": [],
+    "HASH16": 17730,
+    "Description": "鎧をエンチャントする。品質は鎧の防御力を増加させず、品質2%ごとに最大ライフを+1する",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 42,
+    "Id": "ManaBodyEnchant",
+    "Text": "<white>{鎧}を<white>{エンチャント}する。品質は鎧の防御力を増加させず、<enchanted>{品質2%ごとに最大マナを+1}する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedMana",
+    "Unk005": [],
+    "HASH16": 21682,
+    "Description": "鎧をエンチャントする。品質は鎧の防御力を増加させず、品質2%ごとに最大マナを+1する",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 43,
+    "Id": "StrengthBodyEnchant",
+    "Text": "<white>{鎧}を<white>{エンチャント}する。品質は鎧の防御力を増加させず、<enchanted>{品質2%ごとに筋力を+1}する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityStrength",
+    "Unk005": [],
+    "HASH16": 14593,
+    "Description": "鎧をエンチャントする。品質は鎧の防御力を増加させず、品質2%ごとに筋力を+1する",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 44,
+    "Id": "DexterityBodyEnchant",
+    "Text": "<white>{鎧}を<white>{エンチャント}する。品質は鎧の防御力を増加させず、<enchanted>{品質2%ごとに器用さを+1}する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityDexterity",
+    "Unk005": [],
+    "HASH16": -29172,
+    "Description": "鎧をエンチャントする。品質は鎧の防御力を増加させず、品質2%ごとに器用さを+1する",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 45,
+    "Id": "IntelligenceBodyEnchant",
+    "Text": "<white>{鎧}を<white>{エンチャント}する。品質は鎧の防御力を増加させず、<enchanted>{品質2%ごとに知力を+1}する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIntelligence_",
+    "Unk005": [],
+    "HASH16": 23036,
+    "Description": "鎧をエンチャントする。品質は鎧の防御力を増加させず、品質2%ごとに知力を+1する",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 46,
+    "Id": "FireResistBodyEnchant",
+    "Text": "<white>{鎧}を<white>{エンチャント}する。品質は鎧の防御力を増加させず、<enchanted>{品質2%ごとに火耐性を1%}獲得",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityFireResistance",
+    "Unk005": [],
+    "HASH16": 21330,
+    "Description": "鎧をエンチャントする。品質は鎧の防御力を増加させず、品質2%ごとに火耐性を1%獲得",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 47,
+    "Id": "ColdResistBodyEnchant",
+    "Text": "<white>{鎧}を<white>{エンチャント}する。品質は鎧の防御力を増加させず、<enchanted>{品質2%ごとに冷気耐性を1%}獲得",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityColdResistance",
+    "Unk005": [],
+    "HASH16": -976,
+    "Description": "鎧をエンチャントする。品質は鎧の防御力を増加させず、品質2%ごとに冷気耐性を1%獲得",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 48,
+    "Id": "LightningResistBodyEnchant",
+    "Text": "<white>{鎧}を<white>{エンチャント}する。品質は鎧の防御力を増加させず、<enchanted>{品質2%ごとに雷耐性を1%}獲得",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityLightningResistance",
+    "Unk005": [],
+    "HASH16": 17121,
+    "Description": "鎧をエンチャントする。品質は鎧の防御力を増加させず、品質2%ごとに雷耐性を1%獲得",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 49,
+    "Id": "WeaponRangeEnchant",
+    "Text": "<white>{武器}を<white>{エンチャント}する。品質は武器の物理ダメージを増加させず、<enchanted>{品質10%ごとに武器範囲を+1}する",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalMeleeWeaponRange_",
+    "Unk005": [],
+    "HASH16": -21229,
+    "Description": "武器をエンチャントする。品質は武器の物理ダメージを増加させず、品質10%ごとに武器範囲を+1する",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 50,
+    "Id": "WeaponAreaEnchant",
+    "Text": "<white>{武器}を<white>{エンチャント}する。品質は武器の物理ダメージを増加させず、<enchanted>{品質4%ごとに効果範囲を1%増加}させる",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAreaOfEffect_",
+    "Unk005": [],
+    "HASH16": 8767,
+    "Description": "武器をエンチャントする。品質は武器の物理ダメージを増加させず、品質4%ごとに効果範囲を1%増加させる",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WeaponAccuracyEnchant",
+    "Text": "<white>{武器}を<white>{エンチャント}する。品質は武器の物理ダメージを増加させず、<enchanted>{品質2%ごとに命中力を1%増加}させる",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAccuracyRatingIncrease_",
+    "Unk005": [],
+    "HASH16": -6758,
+    "Description": "武器をエンチャントする。品質は武器の物理ダメージを増加させず、品質2%ごとに命中力を1%増加させる",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 52,
+    "Id": "WeaponAttackSpeedEnchant",
+    "Text": "<white>{武器}を<white>{エンチャント}する。品質は武器の物理ダメージを増加させず、<enchanted>{品質8%ごとにアタックスピードを1%増加}させる",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalIncreasedAttackSpeed",
+    "Unk005": [],
+    "HASH16": -11016,
+    "Description": "武器をエンチャントする。品質は武器の物理ダメージを増加させず、品質8%ごとにアタックスピードを1%増加させる",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 53,
+    "Id": "WeaponCriticalEnchant",
+    "Text": "<white>{武器}を<white>{エンチャント}する。品質は武器の物理ダメージを増加させず、<enchanted>{品質4%ごとにクリティカル率を1%増加}させる",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalCriticalStrikeChance__",
+    "Unk005": [],
+    "HASH16": 22104,
+    "Description": "武器をエンチャントする。品質は武器の物理ダメージを増加させず、品質4%ごとにクリティカル率を1%増加させる",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 54,
+    "Id": "WeaponElementalEnchant",
+    "Text": "<white>{武器}を<white>{エンチャント}する。品質は武器の物理ダメージを増加させず、<enchanted>{品質2%ごとに元素ダメージを1%増加}させる",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityElementalDamagePercent",
+    "Unk005": [],
+    "HASH16": -13278,
+    "Description": "武器をエンチャントする。品質は武器の物理ダメージを増加させず、品質2%ごとに元素ダメージを1%増加させる",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 55,
+    "Id": "ReforgeWhiteSocket",
+    "Text": "アイテム上のランダムな<white>{ソケット}を1個<white>{リフォージ}し、<white>{白}にする",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "modify_socket_colors",
+    "Parameters": "W",
+    "Unk005": [],
+    "HASH16": 29639,
+    "Description": "アイテム上のランダムなソケットを1個リフォージし、白にする",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 12500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 56,
+    "Id": "AugmentFire",
+    "Text": "非インフルエンスアイテムに新しい<craftingfire>{火}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR fire noinfluence",
+    "Unk005": [],
+    "HASH16": 18538,
+    "Description": "非インフルエンスアイテムに新しい火モッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AugmentCold",
+    "Text": "非インフルエンスアイテムに新しい<craftingcold>{冷気}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR cold noinfluence",
+    "Unk005": [],
+    "HASH16": 5398,
+    "Description": "非インフルエンスアイテムに新しい冷気モッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 58,
+    "Id": "AugmentLightning",
+    "Text": "非インフルエンスアイテムに新しい<craftinglightning>{雷}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR lightning noinfluence",
+    "Unk005": [],
+    "HASH16": -31624,
+    "Description": "非インフルエンスアイテムに新しい雷モッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 59,
+    "Id": "AugmentPhysical",
+    "Text": "非インフルエンスアイテムに新しい<craftingphysical>{物理}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR physical noinfluence",
+    "Unk005": [],
+    "HASH16": 30284,
+    "Description": "非インフルエンスアイテムに新しい物理モッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 60,
+    "Id": "AugmentLife",
+    "Text": "非インフルエンスアイテムに新しい<craftinglife>{ライフ}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR life noinfluence",
+    "Unk005": [],
+    "HASH16": 20827,
+    "Description": "非インフルエンスアイテムに新しいライフモッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 61,
+    "Id": "AugmentDefences",
+    "Text": "非インフルエンスアイテムに新しい<craftingdefences>{防御力}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR defences noinfluence",
+    "Unk005": [],
+    "HASH16": -25086,
+    "Description": "非インフルエンスアイテムに新しい防御力モッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 62,
+    "Id": "AugmentChaos",
+    "Text": "非インフルエンスアイテムに新しい<craftingchaos>{混沌}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR chaos noinfluence",
+    "Unk005": [],
+    "HASH16": 16260,
+    "Description": "非インフルエンスアイテムに新しい混沌モッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 63,
+    "Id": "AugmentAttack",
+    "Text": "非インフルエンスアイテムに新しい<craftingattack>{アタック}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR attack noinfluence",
+    "Unk005": [],
+    "HASH16": -9969,
+    "Description": "非インフルエンスアイテムに新しいアタックモッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 64,
+    "Id": "AugmentSpell",
+    "Text": "非インフルエンスアイテムに新しい<craftingcaster>{キャスター}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR caster noinfluence",
+    "Unk005": [],
+    "HASH16": -8685,
+    "Description": "非インフルエンスアイテムに新しいキャスターモッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 65,
+    "Id": "AugmentSpeed",
+    "Text": "非インフルエンスアイテムに新しい<craftingspeed>{スピード}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR speed noinfluence",
+    "Unk005": [],
+    "HASH16": -8802,
+    "Description": "非インフルエンスアイテムに新しいスピードモッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 20000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 66,
+    "Id": "AugmentCritical",
+    "Text": "非インフルエンスアイテムに新しい<craftingcrit>{クリティカル}モッドを1個追加し、ランダムな他のモッドを1個<white>{取り除く}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR critical noinfluence",
+    "Unk005": [],
+    "HASH16": 22594,
+    "Description": "非インフルエンスアイテムに新しいクリティカルモッドを1個追加し、ランダムな他のモッドを1個取り除く",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 20000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 67,
+    "Id": "BossSynthesis1",
+    "Text": "アイテムを<white>{シンセサイズ}し、ランダムなシンセシス暗黙モッドを付与する。ユニーク、インフルエンス、シンセシスまたはフラクチャーアイテムには使用できない",
+    "Tier": {
+      "RowIndex": 3,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_synthesized_implicits",
+    "Parameters": "12 3 1",
+    "Unk005": [],
+    "HASH16": -9469,
+    "Description": "アイテムをシンセサイズし、ランダムなシンセシス暗黙モッドを付与する。ユニーク、インフルエンス、シンセシスまたはフラクチャーアイテムには使用できない",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 68,
+    "Id": "BossInfluence1",
+    "Text": "インフルエンスレアアイテムを<white>{リフォージ}し、<white>{インフルエンス}モッドを最低1個含むランダムなモッドを持つインフルエンスレアアイテムにする",
+    "Tier": {
+      "RowIndex": 3,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_influence_mod",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -30265,
+    "Description": "インフルエンスレアアイテムをリフォージし、インフルエンスモッドを最低1個含むランダムなモッドを持つインフルエンスレアアイテムにする",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  }
+]

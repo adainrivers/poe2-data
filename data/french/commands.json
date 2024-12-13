@@ -1,0 +1,524 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "PerformDance",
+    "Command": "danser",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ShowTimePlayed",
+    "Command": "temps",
+    "Unk002": true,
+    "EnglishCommand": "played",
+    "Description": "/temps : affiche le temps que vous avez joué avec votre personnage.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ShowCharacterAge",
+    "Command": "âge",
+    "Unk002": true,
+    "EnglishCommand": "age",
+    "Description": "/âge : affiche la date de création du personnage.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ShowMonstersRemaining",
+    "Command": "restant",
+    "Unk002": true,
+    "EnglishCommand": "remaining",
+    "Description": "/restant : affiche le nombre de monstres restant dans la zone.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ShowDeaths",
+    "Command": "morts",
+    "Unk002": true,
+    "EnglishCommand": "deaths",
+    "Description": "/morts : affiche le nombre de fois que votre personnage est mort.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ShowPvPStats",
+    "Command": "pvp",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ShowLadder",
+    "Command": "classement",
+    "Unk002": true,
+    "EnglishCommand": "ladder",
+    "Description": "/classement : affiche les dix personnages en tête du classement actuel.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ForceResync",
+    "Command": "resync",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 8,
+    "Id": "DestroyCursorItem",
+    "Command": "détruire",
+    "Unk002": true,
+    "EnglishCommand": "destroy",
+    "Description": "/détruire : détruit l'objet sous votre curseur (faites attention !).",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Whois",
+    "Command": "quiestce",
+    "Unk002": true,
+    "EnglishCommand": "whois",
+    "Description": "/quiestce : affiche des informations sur un personnage d'après son nom.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ShowHelp",
+    "Command": "aide",
+    "Unk002": false,
+    "EnglishCommand": "help",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ShowCursorItemLevel",
+    "Command": "niveauobjet",
+    "Unk002": true,
+    "EnglishCommand": "itemlevel",
+    "Description": "/niveauobjet : affiche le niveau d'un objet sous votre curseur.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 12,
+    "Id": "FixMyHelmet",
+    "Command": "réparermoncasque",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 13,
+    "Id": "ReportBug",
+    "Command": "bug",
+    "Unk002": true,
+    "EnglishCommand": "bug",
+    "Description": "/bug : permet de signaler un bug et vous attribue un numéro de référence.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Debug",
+    "Command": "débug",
+    "Unk002": true,
+    "EnglishCommand": "debug",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Ignore1",
+    "Command": "ignorer",
+    "Unk002": false,
+    "EnglishCommand": "ignore",
+    "Description": "/ignorer : permet d'ignorer un compte d'après le nom du personnage.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Ignore2",
+    "Command": "écarter",
+    "Unk002": false,
+    "EnglishCommand": "squelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Unignore1",
+    "Command": "neplusignorer",
+    "Unk002": false,
+    "EnglishCommand": "unignore",
+    "Description": "/neplusignorer : retire un compte de votre liste noire d'après le nom du personnage.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Unignore2",
+    "Command": "neplusécarter",
+    "Unk002": false,
+    "EnglishCommand": "unsquelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 19,
+    "Id": "ClearIgnoreList",
+    "Command": "effacer_liste_noire",
+    "Unk002": false,
+    "EnglishCommand": "clear_ignore_list",
+    "Description": "/effacer_liste_noire : supprime tous les comptes de votre liste noire.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 20,
+    "Id": "SetStatus",
+    "Command": "statut",
+    "Unk002": false,
+    "EnglishCommand": "status",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 21,
+    "Id": "InviteToParty",
+    "Command": "inviter",
+    "Unk002": false,
+    "EnglishCommand": "invite",
+    "Description": "/inviter : permet d'inviter quelqu'un dans votre groupe d'après son nom.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 22,
+    "Id": "AddFriend",
+    "Command": "ami",
+    "Unk002": false,
+    "EnglishCommand": "friend",
+    "Description": "/ami : ajoute un ami à votre liste d'après son nom.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 23,
+    "Id": "RemoveFriend",
+    "Command": "plusami",
+    "Unk002": false,
+    "EnglishCommand": "unfriend",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AcceptFriend",
+    "Command": "accepter",
+    "Unk002": false,
+    "EnglishCommand": "accept",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 25,
+    "Id": "KickPartyMember",
+    "Command": "renvoyer",
+    "Unk002": false,
+    "EnglishCommand": "kick",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 26,
+    "Id": "SetPartyDescription",
+    "Command": "description_groupe",
+    "Unk002": false,
+    "EnglishCommand": "party_description",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 27,
+    "Id": "InitiateTrade",
+    "Command": "échanger",
+    "Unk002": false,
+    "EnglishCommand": "tradewith",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ClearMessage1",
+    "Command": "eff",
+    "Unk002": false,
+    "EnglishCommand": "cls",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 29,
+    "Id": "ClearMessage2",
+    "Command": "effacer",
+    "Unk002": false,
+    "EnglishCommand": "clear",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 30,
+    "Id": "ToggleNoChat1",
+    "Command": "pasdetchat",
+    "Unk002": false,
+    "EnglishCommand": "nochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 31,
+    "Id": "ToggleNoChat2",
+    "Command": "supprimertchat",
+    "Unk002": false,
+    "EnglishCommand": "togglenochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 32,
+    "Id": "AutoReply",
+    "Command": "réponseauto",
+    "Unk002": true,
+    "EnglishCommand": "autoreply",
+    "Description": "/réponseauto [texte] : vous permet de répondre automatiquement aux messages privés par un texte de votre choix.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 33,
+    "Id": "SetAFK",
+    "Command": "absent",
+    "Unk002": true,
+    "EnglishCommand": "afk",
+    "Description": "/absent [message] : réponse automatique aux messages privés signalant que vous êtes absent. Toute action effectuée, y compris écrire dans le tchat, annule le mode Absent.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 34,
+    "Id": "DoNotDisturb1",
+    "Command": "npd",
+    "Unk002": true,
+    "EnglishCommand": "dnd",
+    "Description": "/npd [message] : réponse automatique aux messages privés signalant que vous ne voulez pas que l'on vous dérange. En mode NDP, tous les messages entrants sont ignorés.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 35,
+    "Id": "DoNotDisturb2",
+    "Command": "nepasdéranger",
+    "Unk002": true,
+    "EnglishCommand": "donotdisturb",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 36,
+    "Id": "ExitToCharacterSelection",
+    "Command": "quitter",
+    "Unk002": false,
+    "EnglishCommand": "exit",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 37,
+    "Id": "SpectatePvP",
+    "Command": "observer",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 38,
+    "Id": "SpectatePvPReturn",
+    "Command": "ville",
+    "Unk002": true,
+    "EnglishCommand": "town",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 39,
+    "Id": "SetGlobalChatChannel",
+    "Command": "global",
+    "Unk002": false,
+    "EnglishCommand": "global",
+    "Description": "/global [X] : vous fait passer sur le canal X du tchat global.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 40,
+    "Id": "SetTradeChatChannel",
+    "Command": "échange",
+    "Unk002": false,
+    "EnglishCommand": "trade",
+    "Description": "/échange [X] : vous fait passer sur le canal X du tchat d'échanges.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 41,
+    "Id": "RecheckAchievements",
+    "Command": "vérifier_succès",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "/vérifier_succès : force le jeu à revérifier certains succès.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 42,
+    "Id": "WarpToHideout",
+    "Command": "repaire",
+    "Unk002": true,
+    "EnglishCommand": "hideout",
+    "Description": "/repaire vous téléporte vers votre Repaire personnel.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 43,
+    "Id": "WarpToGuildHideout",
+    "Command": "guilde",
+    "Unk002": true,
+    "EnglishCommand": "guild",
+    "Description": "/guilde vous téléporte vers votre Repaire de Guilde.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 44,
+    "Id": "ResetExperiencePerHour",
+    "Command": "réinit_xp",
+    "Unk002": false,
+    "EnglishCommand": "reset_xp",
+    "Description": "/réinit_xp : réinitialise le calcul de votre expérience par heure.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 45,
+    "Id": "WarpToMenagerie",
+    "Command": "ménagerie",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 46,
+    "Id": "WarpToDelveMineHub",
+    "Command": "mine",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 47,
+    "Id": "SaveHideout",
+    "Command": "sauvegarder_repaire",
+    "Unk002": true,
+    "EnglishCommand": "save_hideout",
+    "Description": "/sauvegarder_repaire : crée un fichier de sauvegarde de l'aménagement du Repaire actuel pour le partager ou le charger plus tard.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 48,
+    "Id": "RecoverOldCraftingBenchItem",
+    "Command": "récupérerobjetdétabli",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 49,
+    "Id": "ForceResyncPlayer",
+    "Command": "oscour",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 50,
+    "Id": "SetItemFilter",
+    "Command": "filtre",
+    "Unk002": false,
+    "EnglishCommand": "itemfilter",
+    "Description": "/filtre : vous permet de spécifier le nom d'un filtre d'objets afin de l'utiliser immédiatement.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WarpToKiracVault",
+    "Command": "",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 52,
+    "Id": "ShowKills",
+    "Command": "tués",
+    "Unk002": true,
+    "EnglishCommand": "kills",
+    "Description": "/tués : affiche le nombre de monstres que vous avez tués (ceux qui ne rapportent pas d'expérience ne sont pas comptés).",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 53,
+    "Id": "Feedback",
+    "Command": "feedback",
+    "Unk002": false,
+    "EnglishCommand": "",
+    "Description": "/feedback : vous permet d'envoyer directement votre feedback à l'équipe des développeurs",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 54,
+    "Id": "Flip",
+    "Command": "retourner",
+    "Unk002": true,
+    "EnglishCommand": "flip",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 55,
+    "Id": "LeaveParty",
+    "Command": "quitter",
+    "Unk002": false,
+    "EnglishCommand": "leave",
+    "Description": "/quitter : vous permet de quitter le groupe dans lequel vous êtes actuellement.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 56,
+    "Id": "ReloadItemFilter",
+    "Command": "rechargerfiltredobjet",
+    "Unk002": false,
+    "EnglishCommand": "reloaditemfilter",
+    "Description": "",
+    "Unk005": false
+  },
+  {
+    "RowIndex": 57,
+    "Id": "WarpToSanctumEntrance",
+    "Command": "sanctuaire",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  }
+]

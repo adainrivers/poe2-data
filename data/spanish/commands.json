@@ -1,0 +1,524 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "PerformDance",
+    "Command": "bailar",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ShowTimePlayed",
+    "Command": "jugado",
+    "Unk002": true,
+    "EnglishCommand": "played",
+    "Description": "/jugado muestra cuánto tiempo has jugado con este personaje",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ShowCharacterAge",
+    "Command": "edad",
+    "Unk002": true,
+    "EnglishCommand": "age",
+    "Description": "/edad muestra hace cuánto tiempo creaste este personaje",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ShowMonstersRemaining",
+    "Command": "restante",
+    "Unk002": true,
+    "EnglishCommand": "remaining",
+    "Description": "/restante muestra el número de monstruos restantes en el área",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ShowDeaths",
+    "Command": "muertes",
+    "Unk002": true,
+    "EnglishCommand": "deaths",
+    "Description": "/muertes muestra cuántas veces has muerto",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ShowPvPStats",
+    "Command": "jcj",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ShowLadder",
+    "Command": "clasificacion",
+    "Unk002": true,
+    "EnglishCommand": "ladder",
+    "Description": "/clasificacion muestra los primeros diez personajes en la clasificación actual",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ForceResync",
+    "Command": "oos",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 8,
+    "Id": "DestroyCursorItem",
+    "Command": "destruir",
+    "Unk002": true,
+    "EnglishCommand": "destroy",
+    "Description": "/destruir destruye el objeto que está en tu cursor (¡ten cuidado!)",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Whois",
+    "Command": "quien_es",
+    "Unk002": true,
+    "EnglishCommand": "whois",
+    "Description": "/quien_es muestra información sobre un personaje por nombre",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ShowHelp",
+    "Command": "ayuda",
+    "Unk002": false,
+    "EnglishCommand": "help",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ShowCursorItemLevel",
+    "Command": "niveldeobjeto",
+    "Unk002": true,
+    "EnglishCommand": "itemlevel",
+    "Description": "/niveldeobjeto muestra el nivel del objeto que está en tu cursor",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 12,
+    "Id": "FixMyHelmet",
+    "Command": "repararcasco",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 13,
+    "Id": "ReportBug",
+    "Command": "bug",
+    "Unk002": true,
+    "EnglishCommand": "bug",
+    "Description": "/bug informa de un error y te indica el número del informe del error",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Debug",
+    "Command": "debug",
+    "Unk002": true,
+    "EnglishCommand": "debug",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Ignore1",
+    "Command": "ignorar",
+    "Unk002": false,
+    "EnglishCommand": "ignore",
+    "Description": "/ignorar ignora una cuenta por nombre de personaje",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Ignore2",
+    "Command": "silenciar",
+    "Unk002": false,
+    "EnglishCommand": "squelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Unignore1",
+    "Command": "quitarignorar",
+    "Unk002": false,
+    "EnglishCommand": "unignore",
+    "Description": "/quitarignorar deja de ignorar una cuenta por nombre de personaje",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Unignore2",
+    "Command": "quitarsilencio",
+    "Unk002": false,
+    "EnglishCommand": "unsquelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 19,
+    "Id": "ClearIgnoreList",
+    "Command": "limpiar_ignorados",
+    "Unk002": false,
+    "EnglishCommand": "clear_ignore_list",
+    "Description": "/limpiar_ignorados elimina todas las cuentas de tu lista de ignorados",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 20,
+    "Id": "SetStatus",
+    "Command": "estado",
+    "Unk002": false,
+    "EnglishCommand": "status",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 21,
+    "Id": "InviteToParty",
+    "Command": "invitar",
+    "Unk002": false,
+    "EnglishCommand": "invite",
+    "Description": "/invitar invita a alguien a tu grupo por su nombre ",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 22,
+    "Id": "AddFriend",
+    "Command": "amigo",
+    "Unk002": false,
+    "EnglishCommand": "friend",
+    "Description": "/amigo agrega a un amigo a tu lista por su nombre",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 23,
+    "Id": "RemoveFriend",
+    "Command": "quitaramigo",
+    "Unk002": false,
+    "EnglishCommand": "unfriend",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AcceptFriend",
+    "Command": "aceptar",
+    "Unk002": false,
+    "EnglishCommand": "accept",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 25,
+    "Id": "KickPartyMember",
+    "Command": "echar",
+    "Unk002": false,
+    "EnglishCommand": "kick",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 26,
+    "Id": "SetPartyDescription",
+    "Command": "descripcion_grupo",
+    "Unk002": false,
+    "EnglishCommand": "party_description",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 27,
+    "Id": "InitiateTrade",
+    "Command": "comerciarcon",
+    "Unk002": false,
+    "EnglishCommand": "tradewith",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ClearMessage1",
+    "Command": "cls",
+    "Unk002": false,
+    "EnglishCommand": "cls",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 29,
+    "Id": "ClearMessage2",
+    "Command": "limpiar",
+    "Unk002": false,
+    "EnglishCommand": "clear",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 30,
+    "Id": "ToggleNoChat1",
+    "Command": "nochat",
+    "Unk002": false,
+    "EnglishCommand": "nochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 31,
+    "Id": "ToggleNoChat2",
+    "Command": "quitarnochat",
+    "Unk002": false,
+    "EnglishCommand": "togglenochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 32,
+    "Id": "AutoReply",
+    "Command": "autorespuesta",
+    "Unk002": true,
+    "EnglishCommand": "autoreply",
+    "Description": "/autorespuesta [mensaje] responde automáticamente a susurros con un mensaje personalizado.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 33,
+    "Id": "SetAFK",
+    "Command": "aus",
+    "Unk002": true,
+    "EnglishCommand": "afk",
+    "Description": "/aus [mensaje] responde automáticamente a los susurros que estás ausente. Realizar cualquier acción, incluso usar el chat, cancelará el modo ausente.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 34,
+    "Id": "DoNotDisturb1",
+    "Command": "nm",
+    "Unk002": true,
+    "EnglishCommand": "dnd",
+    "Description": "/nm [mensaje] responde automáticamente a los susurros que te encuentras en modo No molestar e ignora todos los mensajes entrantes.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 35,
+    "Id": "DoNotDisturb2",
+    "Command": "nomolestar",
+    "Unk002": true,
+    "EnglishCommand": "donotdisturb",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 36,
+    "Id": "ExitToCharacterSelection",
+    "Command": "salir",
+    "Unk002": false,
+    "EnglishCommand": "exit",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 37,
+    "Id": "SpectatePvP",
+    "Command": "observar",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 38,
+    "Id": "SpectatePvPReturn",
+    "Command": "pueblo",
+    "Unk002": true,
+    "EnglishCommand": "town",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 39,
+    "Id": "SetGlobalChatChannel",
+    "Command": "global",
+    "Unk002": false,
+    "EnglishCommand": "global",
+    "Description": "/global [X] cambia al canal de chat global X.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 40,
+    "Id": "SetTradeChatChannel",
+    "Command": "comercio",
+    "Unk002": false,
+    "EnglishCommand": "trade",
+    "Description": "/comercio [X] cambia al canal de chat de comercio X.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 41,
+    "Id": "RecheckAchievements",
+    "Command": "revisar_logros",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "/revisar_logros fuerza una comprobación de ciertos logros.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 42,
+    "Id": "WarpToHideout",
+    "Command": "guarida",
+    "Unk002": true,
+    "EnglishCommand": "hideout",
+    "Description": "/guarida te teletransporta a tu guarida personal.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 43,
+    "Id": "WarpToGuildHideout",
+    "Command": "hermandad",
+    "Unk002": true,
+    "EnglishCommand": "guild",
+    "Description": "/hermandad te teletransporta a la guarida de tu hermandad.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 44,
+    "Id": "ResetExperiencePerHour",
+    "Command": "reiniciar_exp",
+    "Unk002": false,
+    "EnglishCommand": "reset_xp",
+    "Description": "/reiniciar_exp reinicia el cálculo de tu experiencia por hora.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 45,
+    "Id": "WarpToMenagerie",
+    "Command": "animalario",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 46,
+    "Id": "WarpToDelveMineHub",
+    "Command": "delve",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 47,
+    "Id": "SaveHideout",
+    "Command": "guardar_guarida",
+    "Unk002": true,
+    "EnglishCommand": "save_hideout",
+    "Description": "/guardar_guarida guarda la estructura de la guarida actual en un archivo que puede ser cargado o compartido.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 48,
+    "Id": "RecoverOldCraftingBenchItem",
+    "Command": "recoveroldcraftingbenchitem",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 49,
+    "Id": "ForceResyncPlayer",
+    "Command": "oosme",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 50,
+    "Id": "SetItemFilter",
+    "Command": "filtrodeobjetos",
+    "Unk002": false,
+    "EnglishCommand": "itemfilter",
+    "Description": "/filtrodeobjetos te permite especificar un filtro por nombre para pasar a usarlo instantáneamente",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WarpToKiracVault",
+    "Command": "",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 52,
+    "Id": "ShowKills",
+    "Command": "asesinatos",
+    "Unk002": true,
+    "EnglishCommand": "kills",
+    "Description": "/asesinatos muestra cuantos asesinatos que te hayan dado experiencia has acumulado",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 53,
+    "Id": "Feedback",
+    "Command": "comentario",
+    "Unk002": false,
+    "EnglishCommand": "",
+    "Description": "/comentario envía un comentario al equipo de desarrollo del juego",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 54,
+    "Id": "Flip",
+    "Command": "voltear",
+    "Unk002": true,
+    "EnglishCommand": "flip",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 55,
+    "Id": "LeaveParty",
+    "Command": "abandonar",
+    "Unk002": false,
+    "EnglishCommand": "leave",
+    "Description": "/abandonar abandona el grupo actual",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 56,
+    "Id": "ReloadItemFilter",
+    "Command": "actualizarfiltrodeobjetos",
+    "Unk002": false,
+    "EnglishCommand": "reloaditemfilter",
+    "Description": "",
+    "Unk005": false
+  },
+  {
+    "RowIndex": 57,
+    "Id": "WarpToSanctumEntrance",
+    "Command": "santuario",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ResolveArmour",
+    "Stat": {
+      "RowIndex": 18457,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_taken_+%_final_from_armour"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceArmour",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "L'Atténuation empêche en partie la perte de Résolution et s'amplifie avec votre Armure"
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ResolveEvasion",
+    "Stat": {
+      "RowIndex": 18458,
+      "TableName": "Stats",
+      "Id": "chance_to_avoid_sanctum_damage_%"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEvasion",
+    "DefenceBrokenIcon": "",
+    "BrokenStat": null,
+    "Description": "Ceci s'amplifie avec votre Score d'Évasion"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ResolveEnergyShield",
+    "Stat": {
+      "RowIndex": 18459,
+      "TableName": "Stats",
+      "Id": "sanctum_damage_aegis_max_absorption"
+    },
+    "DefenceIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShield",
+    "DefenceBrokenIcon": "Art/2DArt/UIImages/InGame/Sanctum/ResolveDefenceEnergyShieldBroken",
+    "BrokenStat": {
+      "RowIndex": 18460,
+      "TableName": "Stats",
+      "Id": "sanctum_aegis_broken"
+    },
+    "Description": "Jusqu'à 50% de la Résolution perdue lorsque des ennemis vous Touchent est retirée de l'Égide avant de l'être de la Résolution ou de l'Inspiration\nL'Égide se brise lorsque de la Résolution est perdue quand des ennemis vous Touchent\nL'Égide est instantanément restaurée après 4 secondes passées sans avoir perdu de la Résolution\nL'Égide s'amplifie avec votre Bouclier d'énergie maximal"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AdditionalRewards1",
+    "RewardText": "Дополнительная награда ко всем видам наград",
+    "RewardGroup": 0,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 1,
+    "Id": "RewardsMultiplier2",
+    "RewardText": "Награды удваиваются",
+    "RewardGroup": 1,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 2,
+    "Id": "RewardTypeOverrideDivination",
+    "RewardText": "Все награды являются гадальными картами",
+    "RewardGroup": 2,
+    "ScriptArgument": "DivinationCards",
+    "MinLevel": 46,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 3,
+    "Id": "RewardTypeOverrideUniques",
+    "RewardText": "Все награды являются уникальными предметами",
+    "RewardGroup": 2,
+    "ScriptArgument": "Uniques",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 4,
+    "Id": "RewardTypeOverrideCurrency",
+    "RewardText": "Все награды являются валютой",
+    "RewardGroup": 2,
+    "ScriptArgument": "Currency",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 5,
+    "Id": "MinionsHaveRewards",
+    "RewardText": "Из приспешников монстра выпадает награда случайного типа",
+    "RewardGroup": 3,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 6,
+    "Id": "BetterRewards1",
+    "RewardText": "Награды генерируются 2 раза, и выбирается редчайший результат",
+    "RewardGroup": 4,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 7,
+    "Id": "BetterRewards2",
+    "RewardText": "Награды генерируются 3 раза, и выбирается редчайший результат",
+    "RewardGroup": 4,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 8,
+    "Id": "BetterRewards4",
+    "RewardText": "Награды генерируются 5 раз, и выбирается редчайший результат",
+    "RewardGroup": 4,
+    "ScriptArgument": "4",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 9,
+    "Id": "BetterRewards8",
+    "RewardText": "Награды генерируются 6 раз, и выбирается редчайший результат",
+    "RewardGroup": 4,
+    "ScriptArgument": "6",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 10,
+    "Id": "CorruptedRewards",
+    "RewardText": "Выпадающие из монстра и его приспешников предметы осквернены",
+    "RewardGroup": 5,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  }
+]

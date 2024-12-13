@@ -1,0 +1,9935 @@
+[
+  {
+    "RowIndex": 0,
+    "Quest": {
+      "RowIndex": 0,
+      "TableName": "Quest",
+      "Id": "TheMiller"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2936,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已經殺掉了浮腫米勒，並且從倫利那裡取得你的任務獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 1,
+    "Quest": {
+      "RowIndex": 0,
+      "TableName": "Quest",
+      "Id": "TheMiller"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2935,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "倫利要給你擊殺浮腫米勒的獎勵，收下它。",
+    "Unk005": false,
+    "Message": "領取倫利的獎勵",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 2,
+    "Quest": {
+      "RowIndex": 0,
+      "TableName": "Quest",
+      "Id": "TheMiller"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2934,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2890,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "鐵匠似乎是這個伐木營地的負責人。與他交談。",
+    "Unk005": false,
+    "Message": "與鐵匠交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 3,
+    "Quest": {
+      "RowIndex": 0,
+      "TableName": "Quest",
+      "Id": "TheMiller"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2934,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 281,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 368,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你已經擊殺浮腫米勒並升等了，開啟天賦樹畫面使用天賦點數升級你的角色。",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 4,
+    "Quest": {
+      "RowIndex": 0,
+      "TableName": "Quest",
+      "Id": "TheMiller"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2934,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊殺浮腫米勒。進入伐木營地。",
+    "Unk005": false,
+    "Message": "進入城鎮",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 5,
+    "Quest": {
+      "RowIndex": 0,
+      "TableName": "Quest",
+      "Id": "TheMiller"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2933,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "伐木營地被原為人類的染病怪物襲擊。殺死牠。",
+    "Unk005": false,
+    "Message": "殺死浮腫米勒",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 5,
+        "TableName": "MapPins",
+        "Id": "G1_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 6,
+    "Quest": {
+      "RowIndex": 0,
+      "TableName": "Quest",
+      "Id": "TheMiller"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2801,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "找到皆伐。",
+    "Unk005": false,
+    "Message": "找到皆伐",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 5,
+        "TableName": "MapPins",
+        "Id": "G1_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 7,
+    "Quest": {
+      "RowIndex": 1,
+      "TableName": "Quest",
+      "Id": "MudBurrower"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2929,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已經殺掉了吞噬獸，並且從倫利那裡取得你的任務獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 8,
+    "Quest": {
+      "RowIndex": 1,
+      "TableName": "Quest",
+      "Id": "MudBurrower"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2931,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已殺掉吞噬獸，在皆伐與倫利交談並領取你的獎勵。",
+    "Unk005": false,
+    "Message": "與倫利交談以獲得獎勵",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 9,
+    "Quest": {
+      "RowIndex": 1,
+      "TableName": "Quest",
+      "Id": "MudBurrower"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2932,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已將吞噬獸逼入死角。殺死牠。",
+    "Unk005": false,
+    "Message": "殺死吞噬獸",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 14,
+        "TableName": "MapPins",
+        "Id": "G1_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 10,
+    "Quest": {
+      "RowIndex": 1,
+      "TableName": "Quest",
+      "Id": "MudBurrower"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2925,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2892,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到泥沼陋居，在坑道中搜尋吞噬獸的蹤跡。",
+    "Unk005": false,
+    "Message": "在泥沼陋居進行搜索",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 14,
+        "TableName": "MapPins",
+        "Id": "G1_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 11,
+    "Quest": {
+      "RowIndex": 1,
+      "TableName": "Quest",
+      "Id": "MudBurrower"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2925,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "吞噬獸住在地底下的泥沼陋居，想辦法找到牠。",
+    "Unk005": false,
+    "Message": "尋找泥沼陋居",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 9,
+        "TableName": "MapPins",
+        "Id": "G1_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 12,
+    "Quest": {
+      "RowIndex": 1,
+      "TableName": "Quest",
+      "Id": "MudBurrower"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2925,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在泥沼陋居中找到吞噬獸並加以擊殺，讓艾茲麥人能再次安全地踏出皆伐城牆的保護範圍。",
+    "Unk005": false,
+    "Message": "擊殺吞噬獸",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 9,
+        "TableName": "MapPins",
+        "Id": "G1_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 13,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4701,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜告訴了你關於伯爵印信戒指的情報，她指引你穿過原始密林中的纏縛陰林。",
+    "Unk005": true,
+    "Message": "前往纏縛陰林",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 14,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4696,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你從攝魂之樹釋放出一個名為黑衣幽魂的黑暗生物。返回皆伐營地與烏娜交談。",
+    "Unk005": false,
+    "Message": "尋找纏縛陰林",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 15,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2957,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你從攝魂之樹釋放出一個名為黑衣幽魂的黑暗生物。返回皆伐營地與烏娜交談。",
+    "Unk005": false,
+    "Message": "在皆伐與烏娜見面",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 16,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2955,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2956,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2954,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "將每個魔符尖矢戳進攝魂之樹上的遠古魔符，要求它釋放黑衣幽魂。",
+    "Unk005": false,
+    "Message": "使用最後的魔符尖矢",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 17,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2954,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2956,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2955,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "將每個魔符尖矢戳進攝魂之樹上的遠古魔符，要求它釋放黑衣幽魂。",
+    "Unk005": false,
+    "Message": "使用最後的魔符尖矢",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 18,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2954,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2955,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2956,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你從攝魂之樹釋放出一個名為黑衣幽魂的黑暗生物。與烏娜交談了解更多詳情。",
+    "Unk005": false,
+    "Message": "與烏娜對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 19,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2956,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2954,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2955,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "將每個魔符尖矢戳進攝魂之樹上的遠古魔符，要求它釋放黑衣幽魂。",
+    "Unk005": false,
+    "Message": "使用魔符尖矢",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 20,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2955,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2954,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2956,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "將每個魔符尖矢戳進攝魂之樹上的遠古魔符，要求它釋放黑衣幽魂。",
+    "Unk005": false,
+    "Message": "使用魔符尖矢",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 21,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2954,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2955,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2956,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "將每個魔符尖矢戳進攝魂之樹上的遠古魔符，要求它釋放黑衣幽魂。",
+    "Unk005": false,
+    "Message": "使用最後的魔符尖矢",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 22,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2949,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "將每個魔符尖矢戳進攝魂之樹上的遠古魔符，要求它釋放黑衣幽魂。",
+    "Unk005": false,
+    "Message": "使用魔符尖矢",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 23,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2949,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你從倫利那裡取得了鍛造魔符尖矢。帶著它們返回葛瑞爾林。",
+    "Unk005": false,
+    "Message": "返回葛瑞爾林",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 24,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 11,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2948,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已從倫利那裡拿到鍛造好的魔符尖矢。帶著尖矢返回原始密林。",
+    "Unk005": false,
+    "Message": "返回原始密林",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 25,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 12,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3007,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3009,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "倫利已將赤谷的力量魔符鍛造成尖矢，去找他拿取尖矢。",
+    "Unk005": false,
+    "Message": "跟倫利拿取魔符尖矢",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 26,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 13,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3085,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "將你在赤谷找到的力量魔符交給倫利，讓他進行鍛造。",
+    "Unk005": false,
+    "Message": "將魔符交給倫利",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 27,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 14,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2946,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "消滅守護最後一個力量魔符的鐵鏽之王。",
+    "Unk005": false,
+    "Message": "擊敗鐵鏽之王",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 28,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 15,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3009,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "消滅守護力量魔符的怪物。",
+    "Unk005": false,
+    "Message": "擊敗怪獸",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 29,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 16,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3007,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3009,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "從赤谷裡的鐵鏽方尖碑處收集最後的力量魔符。",
+    "Unk005": false,
+    "Message": "收集力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 30,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 17,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3007,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "從赤谷裡的鐵鏽方尖碑處收集最後的力量魔符。",
+    "Unk005": false,
+    "Message": "收集力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 31,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 18,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3009,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "從赤谷裡的鐵鏽方尖碑處收集最後的力量魔符。",
+    "Unk005": false,
+    "Message": "收集力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 32,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 19,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3008,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "從赤谷裡的鐵鏽方尖碑處收集剩餘的 2 個力量魔符。",
+    "Unk005": false,
+    "Message": "收集力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 33,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 20,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3007,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "從赤谷裡的鐵鏽方尖碑處收集剩餘的 2 個力量魔符。",
+    "Unk005": false,
+    "Message": "收集力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 34,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 21,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "從赤谷裡的鐵鏽方尖碑處收集剩餘的 2 個力量魔符。",
+    "Unk005": false,
+    "Message": "收集力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 35,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 22,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2950,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2943,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在赤谷收集所有力量魔符。",
+    "Unk005": false,
+    "Message": "收集力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 36,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 23,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2945,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2943,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "啟動赤谷中的鐵鏽方尖碑，為黑衣幽魂收集力量魔符。",
+    "Unk005": false,
+    "Message": "啟動鐵鏽方尖碑",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 37,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 24,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2950,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2943,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "力量魔符顯然非常強大。在赤谷收集所有所需的魔符。",
+    "Unk005": false,
+    "Message": "搜刮力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 38,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 25,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2894,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2943,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "殘餘的魔法能量還在赤谷中縈繞。調查鐵鏽方尖碑，尋找有關力量魔符的情報。",
+    "Unk005": false,
+    "Message": "調查鐵鏽方尖碑",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 39,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 26,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2943,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2894,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "這片谷地散落著無數戰亂後的廢墟殘骸，在此搜尋任何可能派得上用場的東西。",
+    "Unk005": false,
+    "Message": "在赤谷進行搜索",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 40,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 27,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2943,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你必須在赤谷找到 3 個魔符才能釋放黑衣幽魂。在葛瑞爾林尋找谷地的位置。",
+    "Unk005": false,
+    "Message": "尋找力量魔符",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 41,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 28,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3456,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你必須在赤谷找到 3 個魔符才能釋放黑衣幽魂。在葛瑞爾林尋找赤谷的位置。",
+    "Unk005": false,
+    "Message": "尋找赤谷",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 27,
+        "TableName": "MapPins",
+        "Id": "G1_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 42,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 29,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2942,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你必須在赤谷找到 3 個魔符才能釋放黑衣幽魂。在原始密林尋找谷地的位置。",
+    "Unk005": false,
+    "Message": "尋找赤谷",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 43,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 30,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2941,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2893,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在葛瑞爾林尋找可以得知伯爵和他的手下在命運之夜發生了什麼事的線索。",
+    "Unk005": false,
+    "Message": "在葛瑞爾林尋找",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 44,
+    "Quest": {
+      "RowIndex": 2,
+      "TableName": "Quest",
+      "Id": "TreeOfSouls"
+    },
+    "Order": 31,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2941,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "穿過皆伐營地前往葛瑞爾林，尋找伯爵將他的手下帶去那裡的那一晚發生什麼事的線索。",
+    "Unk005": false,
+    "Message": "前往葛瑞爾林",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 45,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4710,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成––你已找到拉克朗伯爵的戒指，並協助復活黑衣幽魂。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 46,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4707,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已將拉克朗伯爵的戒指交給烏娜，她正在復活黑衣幽魂。見證這個過程。",
+    "Unk005": false,
+    "Message": "見證黑衣幽魂的復活",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 47,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4706,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜想治療黑衣幽魂的符文創傷，她需要一枚古老伯爵的戒指。取得拉克朗伯爵的戒指，並到皆伐營地找她。",
+    "Unk005": false,
+    "Message": "將拉克朗伯爵的戒指交給烏娜",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 48,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2896,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜想治療黑衣幽魂的符文創傷，她需要一枚來老伯爵的戒指。他的墓塚位於紀念之門附近。",
+    "Unk005": false,
+    "Message": "穿過紀念之門後，搜尋伯爵之墓",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 49,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4714,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜幫你清理了根鬚，繼續穿過纏縛陰林。",
+    "Unk005": false,
+    "Message": "繼續穿過纏縛陰林",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 30,
+        "TableName": "MapPins",
+        "Id": "G1_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 50,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4709,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與烏娜談論根鬚。",
+    "Unk005": false,
+    "Message": "與烏娜談論根鬚",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 30,
+        "TableName": "MapPins",
+        "Id": "G1_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 51,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4701,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4719,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "召喚烏娜，請她協助清除根鬚。",
+    "Unk005": false,
+    "Message": "召喚烏娜，請她協助清除根鬚",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 30,
+        "TableName": "MapPins",
+        "Id": "G1_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 52,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4701,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2895,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜告訴了你關於伯爵印信戒指的情報，她指引你穿過葛瑞爾林中的纏縛陰林。",
+    "Unk005": false,
+    "Message": "穿過纏縛陰林",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 30,
+        "TableName": "MapPins",
+        "Id": "G1_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 53,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4701,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4702,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜告訴了你關於伯爵印信戒指的情報，她指引你穿過葛瑞爾林中的纏縛陰林。",
+    "Unk005": false,
+    "Message": "前往纏縛陰林",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 54,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4701,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜告訴了你關於伯爵印信戒指的情報，她指引你穿過葛瑞爾林中的纏縛陰林。",
+    "Unk005": false,
+    "Message": "尋找纏縛陰林",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 18,
+        "TableName": "MapPins",
+        "Id": "G1_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 55,
+    "Quest": {
+      "RowIndex": 4,
+      "TableName": "Quest",
+      "Id": "ReviveHoodedMentor"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4719,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4701,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你發現纏縛陰林中阻礙前行的根鬚。目前還無法穿越這裡。",
+    "Unk005": false,
+    "Message": "目前無法穿過根鬚",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 30,
+        "TableName": "MapPins",
+        "Id": "G1_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 56,
+    "Quest": {
+      "RowIndex": 5,
+      "TableName": "Quest",
+      "Id": "RenlysTools"
+    },
+    "Order": 0,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已將鍛造工具帶回來給倫利，而他的回收台也已經恢復了往日榮光。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 57,
+    "Quest": {
+      "RowIndex": 5,
+      "TableName": "Quest",
+      "Id": "RenlysTools"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4942,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "將工具帶回給倫利。",
+    "Unk005": false,
+    "Message": "將工具帶回給倫利",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 58,
+    "Quest": {
+      "RowIndex": 5,
+      "TableName": "Quest",
+      "Id": "RenlysTools"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2903,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "找到倫利的工具。",
+    "Unk005": false,
+    "Message": "找到倫利的工具",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 70,
+        "TableName": "MapPins",
+        "Id": "G1_13_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 59,
+    "Quest": {
+      "RowIndex": 5,
+      "TableName": "Quest",
+      "Id": "RenlysTools"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4943,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "前往奧格姆村並找到倫利的工具。",
+    "Unk005": false,
+    "Message": "前往奧格姆村",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 70,
+        "TableName": "MapPins",
+        "Id": "G1_13_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 60,
+    "Quest": {
+      "RowIndex": 5,
+      "TableName": "Quest",
+      "Id": "RenlysTools"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2957,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在皆伐營地和倫利對話。",
+    "Unk005": false,
+    "Message": "和倫利對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 61,
+    "Quest": {
+      "RowIndex": 6,
+      "TableName": "Quest",
+      "Id": "UnaLute"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3741,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你將烏娜的魯特琴還給她，並從她那裡獲得 2 點[WeaponSetPassiveSkillPoints|武器套裝天賦點數]作為獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 62,
+    "Quest": {
+      "RowIndex": 6,
+      "TableName": "Quest",
+      "Id": "UnaLute"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3740,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已將烏娜的魯特琴還給她，並獲得她給你的獎勵。",
+    "Unk005": false,
+    "Message": "使用專精之書",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 63,
+    "Quest": {
+      "RowIndex": 6,
+      "TableName": "Quest",
+      "Id": "UnaLute"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2940,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已將烏娜的魯特琴還給她，跟她交談以領取獎勵。",
+    "Unk005": false,
+    "Message": "與烏娜對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 64,
+    "Quest": {
+      "RowIndex": 6,
+      "TableName": "Quest",
+      "Id": "UnaLute"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2939,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到烏娜的魯特琴，把它帶到皆伐營地還給她。",
+    "Unk005": false,
+    "Message": "將魯特琴還給烏娜",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 65,
+    "Quest": {
+      "RowIndex": 6,
+      "TableName": "Quest",
+      "Id": "UnaLute"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2963,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已在奧格姆農地的烏娜家中發現她的魯特琴，幫她把東西帶回來。",
+    "Unk005": false,
+    "Message": "取回烏娜的魯特琴",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 65,
+        "TableName": "MapPins",
+        "Id": "G1_13_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 66,
+    "Quest": {
+      "RowIndex": 6,
+      "TableName": "Quest",
+      "Id": "UnaLute"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2961,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2895,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜的魯特琴遺失在奧格姆農地的家中，把它找出來。",
+    "Unk005": false,
+    "Message": "尋找烏娜的魯特琴",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 65,
+        "TableName": "MapPins",
+        "Id": "G1_13_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 67,
+    "Quest": {
+      "RowIndex": 6,
+      "TableName": "Quest",
+      "Id": "UnaLute"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2961,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜請你去找她遺失在奧格姆農地家中的魯特琴，前往該處尋找魯特琴。",
+    "Unk005": false,
+    "Message": "前往奧格姆農地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 65,
+        "TableName": "MapPins",
+        "Id": "G1_13_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 68,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2980,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已將拉克朗從腐化中解放出來。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 69,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3110,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已幫助拉克朗與其家人團聚，將他們從腐化中解放。",
+    "Unk005": false,
+    "Message": "終結拉克朗的痛苦",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 70,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4705,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到拉克朗妻兒的遺體，返回墓地告訴他這個不幸的消息。",
+    "Unk005": false,
+    "Message": "返回墓地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 71,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到了兩個紀念之門鑰匙的碎片，返回不朽帝國之墓並打開大門。",
+    "Unk005": false,
+    "Message": "返回不朽帝國之墓",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 72,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2972,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你已找到拉克朗的兒子，但他們被政務官配偶．阿席妮雅看守著。消滅她。",
+    "Unk005": false,
+    "Message": "消滅阿席妮雅",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 45,
+        "TableName": "MapPins",
+        "Id": "G1_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 73,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2971,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "在墓室尋找拉克朗的孩子。",
+    "Unk005": false,
+    "Message": "探索墓室",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 45,
+        "TableName": "MapPins",
+        "Id": "G1_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 74,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2898,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "在配偶的墓室尋找阿席妮雅。",
+    "Unk005": false,
+    "Message": "探索配偶的墓室",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 45,
+        "TableName": "MapPins",
+        "Id": "G1_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 75,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3155,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "在配偶的墓室尋找阿席妮雅。",
+    "Unk005": false,
+    "Message": "進入配偶的墓室",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 76,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你消滅了政務官德雷文，但還需要找到阿席妮雅。尋找配偶的墓室。",
+    "Unk005": false,
+    "Message": "返回不朽帝國之墓",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 77,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2977,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你已找到拉克朗的妻子，但她被永恆政務官．德雷文挾持著。消滅他。",
+    "Unk005": false,
+    "Message": "消滅德雷文",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 39,
+        "TableName": "MapPins",
+        "Id": "G1_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 78,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2976,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "在陵墓尋找拉克朗的妻兒。",
+    "Unk005": false,
+    "Message": "在陵墓進行搜索",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 39,
+        "TableName": "MapPins",
+        "Id": "G1_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 79,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 11,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2897,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "拉克朗的妻兒也許就在陵墓裡。對該處進行調查。",
+    "Unk005": false,
+    "Message": "進入陵墓",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 39,
+        "TableName": "MapPins",
+        "Id": "G1_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 80,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 12,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3154,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "拉克朗的妻子已身亡，但他的孩子可能還活著。返回墓地尋找他們的下落。",
+    "Unk005": false,
+    "Message": "返回墓地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 81,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 13,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你消滅了政務官德雷文，並拿走了他的紀念鑰匙碎片，但還未找到他的配偶阿席妮雅。返回不朽帝國之墓並尋找配偶的墓室。",
+    "Unk005": false,
+    "Message": "返回不朽帝國之墓",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 82,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 14,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2977,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你已找到拉克朗的妻子，但她被永恆政務官．德雷文挾持著。消滅他。",
+    "Unk005": false,
+    "Message": "消滅德雷文",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 39,
+        "TableName": "MapPins",
+        "Id": "G1_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 83,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 15,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2976,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "在陵墓尋找拉克朗的妻子。",
+    "Unk005": false,
+    "Message": "在陵墓進行搜索",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 39,
+        "TableName": "MapPins",
+        "Id": "G1_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 84,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 16,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2897,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "拉克朗的妻子也許就在陵墓裡。對該處進行調查。",
+    "Unk005": false,
+    "Message": "進入陵墓",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 39,
+        "TableName": "MapPins",
+        "Id": "G1_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 85,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 17,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3154,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "拉克朗的孩子已身亡，但他的妻子可能還活著。返回墓地尋找她的下落。",
+    "Unk005": false,
+    "Message": "返回墓地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 86,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 18,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4703,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4704,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你消滅了阿席妮雅，但還未找到德雷文。返回不朽帝國之墓並尋找陵墓。",
+    "Unk005": false,
+    "Message": "返回不朽帝國之墓",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 87,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 19,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2972,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到拉克朗的兒子，但他們被政務官配偶．阿席妮雅看守著。消滅她。",
+    "Unk005": false,
+    "Message": "消滅阿席妮雅",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 45,
+        "TableName": "MapPins",
+        "Id": "G1_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 88,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 20,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2971,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在墓室尋找拉克朗的妻兒。",
+    "Unk005": false,
+    "Message": "探索墓室",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 45,
+        "TableName": "MapPins",
+        "Id": "G1_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 89,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 21,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2898,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在配偶的墓室尋找德雷文和他的配偶。",
+    "Unk005": false,
+    "Message": "探索配偶的墓室",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 45,
+        "TableName": "MapPins",
+        "Id": "G1_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 90,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 22,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3155,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在配偶的墓室尋找德雷文和他的配偶。",
+    "Unk005": false,
+    "Message": "進入配偶的墓室",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 91,
+    "Quest": {
+      "RowIndex": 7,
+      "TableName": "Quest",
+      "Id": "GraveyardFight"
+    },
+    "Order": 23,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2964,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "拉克朗請你幫他找紀念之門的鑰匙來拯救他的家庭。在配偶的墓室和陵墓中找到德雷文和他的配偶。",
+    "Unk005": false,
+    "Message": "找到德雷文與他的配偶",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 34,
+        "TableName": "MapPins",
+        "Id": "G1_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 92,
+    "Quest": {
+      "RowIndex": 8,
+      "TableName": "Quest",
+      "Id": "TheOutcast"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4791,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已幫費恩取回黑曜石缽，他已獎勵你{0}。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 93,
+    "Quest": {
+      "RowIndex": 8,
+      "TableName": "Quest",
+      "Id": "TheOutcast"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2991,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊敗迷霧之王並淨化了弗雷索恩的祭祀神壇。與費恩交談以獲得獎勵。",
+    "Unk005": false,
+    "Message": "與費恩交談以獲取獎勵",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 94,
+    "Quest": {
+      "RowIndex": 8,
+      "TableName": "Quest",
+      "Id": "TheOutcast"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2990,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已在弗雷索恩找到正在守護最後一座祭祀神壇的迷霧之王。擊敗他以淨化神壇。",
+    "Unk005": false,
+    "Message": "將黑曜石缽還給費恩",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 62,
+        "TableName": "MapPins",
+        "Id": "G1_12"
+      }
+    ]
+  },
+  {
+    "RowIndex": 95,
+    "Quest": {
+      "RowIndex": 8,
+      "TableName": "Quest",
+      "Id": "TheOutcast"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2901,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在弗雷索恩尋找祭祀神壇並將其淨化。",
+    "Unk005": false,
+    "Message": "取回黑曜石缽",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 62,
+        "TableName": "MapPins",
+        "Id": "G1_12"
+      }
+    ]
+  },
+  {
+    "RowIndex": 96,
+    "Quest": {
+      "RowIndex": 8,
+      "TableName": "Quest",
+      "Id": "TheOutcast"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2987,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在墓地之外的獵場上方尋找弗雷索恩。",
+    "Unk005": false,
+    "Message": "尋找弗雷索恩",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 55,
+        "TableName": "MapPins",
+        "Id": "G1_11"
+      }
+    ]
+  },
+  {
+    "RowIndex": 97,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3152,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊殺劊子手並釋放蕾堤絲。你獲得未切割技能寶石作為獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 98,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3151,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你釋放的蕾堤絲已返回皆伐。回到皆伐與她交談。",
+    "Unk005": false,
+    "Message": "在皆伐與蕾堤絲交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 99,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3149,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已釋放劊子手的囚犯。與她交談。",
+    "Unk005": false,
+    "Message": "與蕾堤絲交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 70,
+        "TableName": "MapPins",
+        "Id": "G1_13_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 100,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3148,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "劊子手附近有位被囚禁的女性。釋放她。",
+    "Unk005": false,
+    "Message": "釋放囚犯",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 70,
+        "TableName": "MapPins",
+        "Id": "G1_13_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 101,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3077,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你發現了在你逃跑前一直想吊死你的劊子手。殺掉他。",
+    "Unk005": false,
+    "Message": "殺死劊子手",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 70,
+        "TableName": "MapPins",
+        "Id": "G1_13_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 102,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2903,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到了奧格姆村。尋找腐化種子。",
+    "Unk005": false,
+    "Message": "搜尋腐化種子",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 70,
+        "TableName": "MapPins",
+        "Id": "G1_13_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 103,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2902,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "繼續穿過奧格姆農地，尋找奧格姆村的入口。",
+    "Unk005": false,
+    "Message": "找到村莊入口",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 65,
+        "TableName": "MapPins",
+        "Id": "G1_13_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 104,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2900,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在獵場中殺出血路並尋找奧格姆村的入口。",
+    "Unk005": false,
+    "Message": "找到村莊入口",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 55,
+        "TableName": "MapPins",
+        "Id": "G1_11"
+      }
+    ]
+  },
+  {
+    "RowIndex": 105,
+    "Quest": {
+      "RowIndex": 9,
+      "TableName": "Quest",
+      "Id": "TheExecutioner"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4710,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "烏娜請你在獵場中殺出通往村莊的一條血路。返回墓園並進入獵場。",
+    "Unk005": false,
+    "Message": "進入獵場",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 55,
+        "TableName": "MapPins",
+        "Id": "G1_11"
+      }
+    ]
+  },
+  {
+    "RowIndex": 106,
+    "Quest": {
+      "RowIndex": 10,
+      "TableName": "Quest",
+      "Id": "TheIronCount"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3002,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已擊殺狂狼，從吉恩諾伯爵的統治下解放艾茲麥人。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 107,
+    "Quest": {
+      "RowIndex": 10,
+      "TableName": "Quest",
+      "Id": "TheIronCount"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3083,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與黑衣幽魂交談，前往瓦斯提里郊區追擊伯爵夫人與巨獸。",
+    "Unk005": false,
+    "Message": "前往東邊",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 108,
+    "Quest": {
+      "RowIndex": 10,
+      "TableName": "Quest",
+      "Id": "TheIronCount"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3000,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊殺狂狼並解放奧格姆，但歐莉雅娜帶著巨獸一起逃跑了。返回城鎮與黑衣幽魂交談。",
+    "Unk005": false,
+    "Message": "返回城鎮",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 8,
+        "TableName": "MapPins",
+        "Id": "G1_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 109,
+    "Quest": {
+      "RowIndex": 10,
+      "TableName": "Quest",
+      "Id": "TheIronCount"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2998,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你總算與發瘋的吉恩諾伯爵正面交鋒，殺掉他並解放奧格姆。",
+    "Unk005": false,
+    "Message": "擊殺狂狼",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 78,
+        "TableName": "MapPins",
+        "Id": "G1_15"
+      }
+    ]
+  },
+  {
+    "RowIndex": 110,
+    "Quest": {
+      "RowIndex": 10,
+      "TableName": "Quest",
+      "Id": "TheIronCount"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2999,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到宅第的染疫中心。與奧格姆伯爵展開對決。",
+    "Unk005": false,
+    "Message": "與奧格姆伯爵展開對決",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 78,
+        "TableName": "MapPins",
+        "Id": "G1_15"
+      }
+    ]
+  },
+  {
+    "RowIndex": 111,
+    "Quest": {
+      "RowIndex": 10,
+      "TableName": "Quest",
+      "Id": "TheIronCount"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 1972,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到了狂狼。找出進入宅第下方深坑的路。",
+    "Unk005": false,
+    "Message": "在宅第進行搜索",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 78,
+        "TableName": "MapPins",
+        "Id": "G1_15"
+      }
+    ]
+  },
+  {
+    "RowIndex": 112,
+    "Quest": {
+      "RowIndex": 10,
+      "TableName": "Quest",
+      "Id": "TheIronCount"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2905,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "宅第裡發生了某些可怕的事。在瘋狂中戰鬥，並找到奧格姆伯爵。",
+    "Unk005": false,
+    "Message": "潛入宅第",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 78,
+        "TableName": "MapPins",
+        "Id": "G1_15"
+      }
+    ]
+  },
+  {
+    "RowIndex": 113,
+    "Quest": {
+      "RowIndex": 10,
+      "TableName": "Quest",
+      "Id": "TheIronCount"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2680,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "蕾堤絲請你找出進入宅第的方法，並解決奧格姆伯爵。",
+    "Unk005": false,
+    "Message": "找出奧格姆伯爵",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 78,
+        "TableName": "MapPins",
+        "Id": "G1_15"
+      }
+    ]
+  },
+  {
+    "RowIndex": 114,
+    "Quest": {
+      "RowIndex": 16,
+      "TableName": "Quest",
+      "Id": "CaravanRescue"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4324,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已解救阿杜拉車隊並獲得通行權。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 115,
+    "Quest": {
+      "RowIndex": 16,
+      "TableName": "Quest",
+      "Id": "CaravanRescue"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4322,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已解救受襲的馬拉克斯車隊。登上貨車與他們交談。",
+    "Unk005": false,
+    "Message": "登上車隊",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 104,
+        "TableName": "MapPins",
+        "Id": "G2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 116,
+    "Quest": {
+      "RowIndex": 16,
+      "TableName": "Quest",
+      "Id": "CaravanRescue"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4321,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊敗太陽氏族鬣狗與他們的首領——撕裂者。回去找札卡告訴她這個消息。",
+    "Unk005": false,
+    "Message": "與札卡對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 104,
+        "TableName": "MapPins",
+        "Id": "G2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 117,
+    "Quest": {
+      "RowIndex": 16,
+      "TableName": "Quest",
+      "Id": "CaravanRescue"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4320,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到太陽氏族的首領——撕裂者，擊敗他。",
+    "Unk005": false,
+    "Message": "擊敗撕裂者",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 104,
+        "TableName": "MapPins",
+        "Id": "G2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 118,
+    "Quest": {
+      "RowIndex": 16,
+      "TableName": "Quest",
+      "Id": "CaravanRescue"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3169,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "由於鬣狗劫匪在騷擾貿易商路，導致馬拉克斯車隊動彈不得。把劫匪找出來並消滅他們。",
+    "Unk005": false,
+    "Message": "擊敗鬣狗劫匪",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 104,
+        "TableName": "MapPins",
+        "Id": "G2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 119,
+    "Quest": {
+      "RowIndex": 16,
+      "TableName": "Quest",
+      "Id": "CaravanRescue"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2906,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "黑衣幽魂認為馬拉克斯人能幫忙尋找腐化種子。到附近的貿易路線上找到車隊。",
+    "Unk005": false,
+    "Message": "獲得車隊通行權",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 104,
+        "TableName": "MapPins",
+        "Id": "G2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 120,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4586,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已在瓦斯提里郊區追上巨獸，並在戰鬥中擊敗憎惡者．賈嫚拉。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 121,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 1523,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "失落的瓦爾帝國可能掌握著能封印巨獸的遠古知識。與阿薩拉交談以前往南方。馬拉克斯人會帶你抵達沙掠濕地。",
+    "Unk005": false,
+    "Message": "與阿薩拉交談以南行前往沙掠濕地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 103,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_toact3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 122,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2816,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "伯爵夫人再次帶著巨獸逃跑了。與黑衣幽魂交談，問清楚下一步該怎麼做。你可以在車隊西北方的一處神殿找到他，你必須步行前往。",
+    "Unk005": false,
+    "Message": "前往車隊中點西北方的一處坡道",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 103,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_toact3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 123,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3725,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "伯爵夫人再次帶著巨獸逃跑了。與黑衣幽魂交談，問清楚下一步該怎麼做。你可以在車隊西北方的一處神殿找到他，你必須步行前往。",
+    "Unk005": false,
+    "Message": "與西北方的神殿裡的黑衣幽魂對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 124,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4584,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在戰鬥中擊敗憎惡者．賈嫚拉。",
+    "Unk005": false,
+    "Message": "擊敗憎惡者．賈嫚拉",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 177,
+        "TableName": "MapPins",
+        "Id": "G2_12_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 125,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2923,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "根據芮蘇的說法，巨獸被關在憎惡者．賈嫚拉的王座後面的籠子裡。一路殺過去。",
+    "Unk005": false,
+    "Message": "殺出一條通往王座的路",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 177,
+        "TableName": "MapPins",
+        "Id": "G2_12_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 126,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2920,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "根據芮蘇的說法，巨獸被關在憎惡者．賈嫚拉的王座後面的籠子裡。一路殺過去。",
+    "Unk005": false,
+    "Message": "殺出一條向前的路",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 176,
+        "TableName": "MapPins",
+        "Id": "G2_12_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 127,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4583,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "使用貧脊之地快速前往無畏隊所在之處。",
+    "Unk005": false,
+    "Message": "使用貧脊之地前往無畏隊所在之處",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 101,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_dreadnought"
+      }
+    ]
+  },
+  {
+    "RowIndex": 128,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4582,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "阿杜拉人總算追上法里登人了。向阿薩拉詢問最終之戰的事。",
+    "Unk005": false,
+    "Message": "與阿薩拉對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 129,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4581,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "法里登人帶著巨獸一起逃跑了。擊敗玷汙者托爾．谷爾，才能繼續追捕他們。",
+    "Unk005": false,
+    "Message": "擊敗玷汙者托爾．谷爾",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 164,
+        "TableName": "MapPins",
+        "Id": "G2_9_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 130,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4580,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在戴斯哈的頂端擊敗憎惡者．賈嫚拉。",
+    "Unk005": false,
+    "Message": "擊敗憎惡者．賈嫚拉",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 164,
+        "TableName": "MapPins",
+        "Id": "G2_9_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 131,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 11,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2922,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "法里登族位於戴斯哈的頂端。找出他們的王並與他對峙。",
+    "Unk005": false,
+    "Message": "擊敗憎惡者．賈嫚拉",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 164,
+        "TableName": "MapPins",
+        "Id": "G2_9_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 132,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 12,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2916,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "法里登可能已經將光榮死者餵給巨獸。穿過悼念之路並與他們對峙。",
+    "Unk005": false,
+    "Message": "穿過悼念之路",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 161,
+        "TableName": "MapPins",
+        "Id": "G2_9_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 133,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 13,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2915,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "法里登可能已將光榮死者餵給巨獸。登上戴斯哈並與他們對峙。",
+    "Unk005": false,
+    "Message": "登上戴斯哈",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 156,
+        "TableName": "MapPins",
+        "Id": "G2_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 134,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 14,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3469,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "法里登人可能正在馬拉克斯的墓葬尖塔上將光榮死者餵給巨獸。前往該處與他們對峙。",
+    "Unk005": false,
+    "Message": "使用貧脊之地的地圖前往戴斯哈所在之處",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 100,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_spires"
+      }
+    ]
+  },
+  {
+    "RowIndex": 135,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 15,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4565,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已吹響瓦斯提里的戰角，驅散崛起之王．賈嫚拉的沙戮風暴。與阿薩拉交談。",
+    "Unk005": false,
+    "Message": "與阿薩拉對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 136,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 16,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4566,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已返回沙戮風暴吹揚之地，使用瓦斯提里的戰角驅散沙塵暴。",
+    "Unk005": false,
+    "Message": "使用瓦斯提里的戰角",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 184,
+        "TableName": "MapPins",
+        "Id": "G2_sandstorm"
+      }
+    ]
+  },
+  {
+    "RowIndex": 137,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 17,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4344,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你和札卡重新打造出瓦斯提里的戰角，返回沙戮風暴吹揚之處並驅散沙塵暴。",
+    "Unk005": false,
+    "Message": "返回沙戮風暴",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 95,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_gates"
+      }
+    ]
+  },
+  {
+    "RowIndex": 138,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 18,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4335,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4337,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3188,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已提供所有重鑄瓦斯提里的戰角所需的材料。與札卡交談以領取戰角。",
+    "Unk005": false,
+    "Message": "拿取瓦斯提里的戰角",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 139,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 19,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2683,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "札卡堅信只有重鑄瓦斯提里的戰角才能驅散崛起之王．賈嫚拉的沙戮風暴。追尋傳奇人物奧爾巴拉的足跡，打造屬於自己的戰角。",
+    "Unk005": false,
+    "Message": "重鑄瓦斯提里的戰角",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 140,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 20,
+    "FlagsPresent": [
+      {
+        "RowIndex": 1527,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "札卡堅信只有重鑄瓦斯提里的戰角才能驅散崛起之王．賈嫚拉的沙戮風暴。與阿薩拉交談以瞭解奧爾巴拉的足跡。",
+    "Unk005": false,
+    "Message": "返回車隊",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 141,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 21,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4562,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "有個名為恆久之王的腐化首領集結了法里登人，並率眾攻擊馬拉克斯。協助阿薩拉擊敗他。",
+    "Unk005": false,
+    "Message": "擊敗恆久之王",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 142,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 22,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3173,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "一位名叫崛起之王．賈嫚拉的腐化首領集結了法里登族並攻擊了馬拉克斯。幫助阿薩拉擊敗他。",
+    "Unk005": false,
+    "Message": "擊敗崛起之王．賈嫚拉",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 112,
+        "TableName": "MapPins",
+        "Id": "G2_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 143,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 23,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3700,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "阿杜拉．馬拉克斯遇到了麻煩。幫助絲克瑪．阿薩拉對抗敵人，並開啟古老關口。",
+    "Unk005": false,
+    "Message": "開啟第三道關口",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 112,
+        "TableName": "MapPins",
+        "Id": "G2_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 144,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 24,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3698,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "阿杜拉．馬拉克斯遇到了麻煩。幫助絲克瑪．阿薩拉對抗敵人，並開啟古老關口。",
+    "Unk005": false,
+    "Message": "開啟第二道關口",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 112,
+        "TableName": "MapPins",
+        "Id": "G2_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 145,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 25,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3697,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "阿杜拉．馬拉克斯遇到了麻煩。幫助絲克瑪．阿薩拉對抗敵人，並開啟古老關口。",
+    "Unk005": false,
+    "Message": "協助阿薩拉開啟古老關口",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 112,
+        "TableName": "MapPins",
+        "Id": "G2_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 146,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 26,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2909,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "背叛法里登的芮蘇告訴了你一條通往古老關口頂端的路。沿著叛徒之路往上走以追上他們。",
+    "Unk005": false,
+    "Message": "沿著叛徒之路向上",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 112,
+        "TableName": "MapPins",
+        "Id": "G2_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 147,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 27,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2908,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "返回城鎮與芮蘇討論封鎖的古老關口。",
+    "Unk005": false,
+    "Message": "與芮蘇討論封閉的古老關口",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 108,
+        "TableName": "MapPins",
+        "Id": "G2_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 148,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 28,
+    "FlagsPresent": [
+      {
+        "RowIndex": 1524,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2682,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "前往古老關口。",
+    "Unk005": false,
+    "Message": "前往古老關口",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 95,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_gates"
+      }
+    ]
+  },
+  {
+    "RowIndex": 149,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 29,
+    "FlagsPresent": [
+      {
+        "RowIndex": 1524,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "返回城鎮，在領路貨車找到阿薩拉，向叛變者詢問恆久之王的去向。",
+    "Unk005": false,
+    "Message": "與叛變者一起返回車隊。",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 150,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 30,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3199,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2673,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 1524,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "返回城鎮並與芮蘇談談上鎖的哈拉妮關口。",
+    "Unk005": false,
+    "Message": "與叛變者交談。",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 151,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 31,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3186,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 3199,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "使用貧脊之地的地圖前往哈拉妮關口所在之處。",
+    "Unk005": false,
+    "Message": "使用貧脊之地的地圖前往哈拉妮關口所在之處",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 94,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_lockedgates"
+      }
+    ]
+  },
+  {
+    "RowIndex": 152,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 32,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3186,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "返回城鎮並在領頭貨車尋找阿薩拉，審問叛變者有關崛起之王．賈嫚拉的目的。",
+    "Unk005": false,
+    "Message": "調查鍊金房",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 153,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 33,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3722,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "探索廢棄挖石場，尋找巨獸。",
+    "Unk005": false,
+    "Message": "探索區域",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 172,
+        "TableName": "MapPins",
+        "Id": "G2_10_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 154,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 34,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3721,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "前往廢棄挖石場尋找可能關閉古老關口的法里登人。",
+    "Unk005": false,
+    "Message": "前往廢棄挖石場",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 172,
+        "TableName": "MapPins",
+        "Id": "G2_10_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 155,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 35,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2918,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "古老關口出乎意料地關閉了。詢問阿薩拉下一步該怎麼辦。",
+    "Unk005": false,
+    "Message": "調查法里登鑄造廠",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 172,
+        "TableName": "MapPins",
+        "Id": "G2_10_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 156,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 36,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4769,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "進入法里登鑄造廠並繼續尋找巨獸。",
+    "Unk005": false,
+    "Message": "進入法里登鑄造廠",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 172,
+        "TableName": "MapPins",
+        "Id": "G2_10_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 157,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 37,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2917,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "探索莫頓挖石場以尋找巨獸。",
+    "Unk005": false,
+    "Message": "與絲克瑪交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 169,
+        "TableName": "MapPins",
+        "Id": "G2_10_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 158,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 38,
+    "FlagsPresent": [
+      {
+        "RowIndex": 1525,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "使用貧脊之地的地圖前往莫頓挖石場所在之處，尋找可能關閉哈拉妮關口的法里登人。",
+    "Unk005": false,
+    "Message": "使用貧脊之地的地圖前往莫頓挖石場所在之處",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 93,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_quarry"
+      }
+    ]
+  },
+  {
+    "RowIndex": 159,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 39,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3199,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "哈拉妮關口出乎意料地關閉了。詢問阿薩拉下一步該怎麼辦。",
+    "Unk005": false,
+    "Message": "與阿薩拉交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      },
+      {
+        "RowIndex": 117,
+        "TableName": "MapPins",
+        "Id": "G2_3a"
+      }
+    ]
+  },
+  {
+    "RowIndex": 160,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 40,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3461,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "斥侯在兩處發現腐化的現象，使用貧脊之地的地圖擇一前往尋找巨獸的蹤跡。",
+    "Unk005": false,
+    "Message": "調查腐化區域",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 93,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_quarry"
+      },
+      {
+        "RowIndex": 94,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_lockedgates"
+      }
+    ]
+  },
+  {
+    "RowIndex": 161,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 41,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3163,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "向阿薩拉詢問更多關於巨獸的消息。",
+    "Unk005": false,
+    "Message": "向阿薩拉詢問",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 162,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 42,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3334,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "黑衣幽魂認為阿杜拉人能幫忙尋找腐化種子，與絲克瑪交談，請求他們的支援。",
+    "Unk005": false,
+    "Message": "與絲克瑪交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 163,
+    "Quest": {
+      "RowIndex": 17,
+      "TableName": "Quest",
+      "Id": "OpenTheDesertGates"
+    },
+    "Order": 43,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2907,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已登上阿杜拉車隊。與黑衣幽魂交談來取得關於下一步行動的資訊。",
+    "Unk005": false,
+    "Message": "與黑衣幽魂交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 164,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4568,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——已在泰坦石窟取回火焰紅寶石並交給札卡。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 165,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4569,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "札卡為你提供了擊敗巨像．札爾瑪拉斯的獎勵，收下它。",
+    "Unk005": false,
+    "Message": "跟札卡請取獎勵",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 166,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3189,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "帶著火焰紅寶石前往阿杜拉車隊，札卡知道該拿它怎麼辦。",
+    "Unk005": false,
+    "Message": "將火焰紅寶石帶到城鎮",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 167,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3416,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊敗了巨像．札爾瑪拉斯，它掉落了一顆火焰紅寶石。將它撿起。",
+    "Unk005": false,
+    "Message": "擊敗巨像",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 150,
+        "TableName": "MapPins",
+        "Id": "G2_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 168,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3650,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到了祭壇並舉行烈焰儀式。擊敗巨像．札爾瑪拉斯來證明自己。",
+    "Unk005": false,
+    "Message": "擊敗巨像．札爾瑪拉斯",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 150,
+        "TableName": "MapPins",
+        "Id": "G2_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 169,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2914,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已開啟通往泰坦石窟的道路，進去一探究竟吧。",
+    "Unk005": false,
+    "Message": "進入泰坦石窟",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 150,
+        "TableName": "MapPins",
+        "Id": "G2_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 170,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4564,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "找出其他古代封印並加以啟動。",
+    "Unk005": false,
+    "Message": "進入抑制入口處的泰坦石窟",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 171,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4563,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "根據馬拉克斯人對第三冥約的了解，泰坦之谷底下有一條密道，把它找出來。",
+    "Unk005": false,
+    "Message": "找到進入泰坦石窟的路",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 172,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2913,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "根據馬拉克斯對第三冥約的瞭解，在泰坦之谷底下似乎有條通道。把它找出來。",
+    "Unk005": false,
+    "Message": "前往泰坦之谷",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 173,
+    "Quest": {
+      "RowIndex": 20,
+      "TableName": "Quest",
+      "Id": "PryTheFlameRuby"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2683,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "使用貧脊之地的地圖前往泰坦之谷所在之處。",
+    "Unk005": false,
+    "Message": "使用貧脊之地的地圖前往泰坦之谷所在之處",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 99,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_titans"
+      }
+    ]
+  },
+  {
+    "RowIndex": 174,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4571,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已在凱斯城中心找到水之精髓。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 175,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4570,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "札卡為你提供了帶回水之精髓的獎勵。",
+    "Unk005": false,
+    "Message": "領取獎勵",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 176,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4336,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你應水之女神的請求活活燒死她。返回阿杜拉車隊。",
+    "Unk005": false,
+    "Message": "與札卡交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 177,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4731,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "拾取水之精髓。",
+    "Unk005": false,
+    "Message": "拾取水之精髓",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 129,
+        "TableName": "MapPins",
+        "Id": "G2_4_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 178,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3217,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "水之女神請求你了結她的痛苦。使用附近的永燃餘燼回應她的請求。",
+    "Unk005": false,
+    "Message": "了結水之女神的痛苦",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 129,
+        "TableName": "MapPins",
+        "Id": "G2_4_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 179,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3414,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "水之女神倒在凱斯城中心的神殿中，與她交談，看看你是否能提供幫助。",
+    "Unk005": false,
+    "Message": "與水之女神交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 129,
+        "TableName": "MapPins",
+        "Id": "G2_4_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 180,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3215,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "消滅遺忘之子，進入可能藏有水之精髓的神殿。",
+    "Unk005": false,
+    "Message": "擊敗遺忘之子",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 129,
+        "TableName": "MapPins",
+        "Id": "G2_4_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 181,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3214,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "消滅遺忘之子．阿薩里恩，進入存放著水之精髓的神殿。",
+    "Unk005": false,
+    "Message": "擊敗遺忘之子．阿薩里恩",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 129,
+        "TableName": "MapPins",
+        "Id": "G2_4_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 182,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3586,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "根據札卡的說法，水之精髓可能在凱斯城中央的聖域，把它找出來。",
+    "Unk005": false,
+    "Message": "尋找凱斯聖域",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 129,
+        "TableName": "MapPins",
+        "Id": "G2_4_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 183,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3213,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "凱斯城已在數百年間被流沙掩埋。想辦法進入市區。",
+    "Unk005": false,
+    "Message": "尋找掩埋神殿",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 123,
+        "TableName": "MapPins",
+        "Id": "G2_4_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 184,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3212,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "前往失落的凱斯城。",
+    "Unk005": false,
+    "Message": "前往失落的凱斯城",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 118,
+        "TableName": "MapPins",
+        "Id": "G2_4_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 185,
+    "Quest": {
+      "RowIndex": 18,
+      "TableName": "Quest",
+      "Id": "BurnTheWaterGoddess"
+    },
+    "Order": 11,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2683,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "使用貧脊之地的地圖前往凱斯城所在之處。",
+    "Unk005": false,
+    "Message": "使用貧脊之地的地圖前往凱斯城所在之處",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 97,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_keth"
+      }
+    ]
+  },
+  {
+    "RowIndex": 186,
+    "Quest": {
+      "RowIndex": 19,
+      "TableName": "Quest",
+      "Id": "StealTheMastodonTusks"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4573,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已將乳齒象象牙交還給阿杜拉人保管。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 187,
+    "Quest": {
+      "RowIndex": 19,
+      "TableName": "Quest",
+      "Id": "StealTheMastodonTusks"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4572,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "札卡為你提供了取回乳齒象象牙的獎勵，收下它。",
+    "Unk005": false,
+    "Message": "領取獎勵",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 188,
+    "Quest": {
+      "RowIndex": 19,
+      "TableName": "Quest",
+      "Id": "StealTheMastodonTusks"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3187,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "返回阿杜拉車隊，將乳齒象象牙交還給札卡保管。",
+    "Unk005": false,
+    "Message": "與札卡交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 189,
+    "Quest": {
+      "RowIndex": 19,
+      "TableName": "Quest",
+      "Id": "StealTheMastodonTusks"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3225,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4400,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊敗骸骨巨像，取回乳齒象象牙。",
+    "Unk005": false,
+    "Message": "拾取乳齒象象牙",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 140,
+        "TableName": "MapPins",
+        "Id": "G2_5_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 190,
+    "Quest": {
+      "RowIndex": 19,
+      "TableName": "Quest",
+      "Id": "StealTheMastodonTusks"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3224,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "遠古之蹄．埃克巴勃是乳齒象象牙的守護者。死亡領主．伊克塔正在協助他。消滅他們兩個並取回象牙。",
+    "Unk005": false,
+    "Message": "擊敗遠古之蹄．埃克巴勃和死亡領主．伊克塔",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 140,
+        "TableName": "MapPins",
+        "Id": "G2_5_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 191,
+    "Quest": {
+      "RowIndex": 19,
+      "TableName": "Quest",
+      "Id": "StealTheMastodonTusks"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2912,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "乳齒象象牙位在骨坑某處，將它們找出來 。",
+    "Unk005": false,
+    "Message": "在骨坑尋找乳齒象象牙",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 140,
+        "TableName": "MapPins",
+        "Id": "G2_5_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 192,
+    "Quest": {
+      "RowIndex": 19,
+      "TableName": "Quest",
+      "Id": "StealTheMastodonTusks"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2911,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "乳齒象象牙能夠賦予崛起之王．賈嫚拉及其黨羽閃電的力量，因此崛起之王千方百計地想奪回威力強大的象牙。搜尋乳齒象惡地，找出進入骨坑的入口。",
+    "Unk005": false,
+    "Message": "尋找骨坑的入口",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 137,
+        "TableName": "MapPins",
+        "Id": "G2_5_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 193,
+    "Quest": {
+      "RowIndex": 19,
+      "TableName": "Quest",
+      "Id": "StealTheMastodonTusks"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2683,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "前往乳齒象惡地。",
+    "Unk005": false,
+    "Message": "前往乳齒象惡地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 98,
+        "TableName": "MapPins",
+        "Id": "G2_town_marker_badlands"
+      }
+    ]
+  },
+  {
+    "RowIndex": 194,
+    "Quest": {
+      "RowIndex": 23,
+      "TableName": "Quest",
+      "Id": "FindTheSuicideNote"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4333,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你搜尋戴斯哈後找到一封遺書。夏布林還沒看就把它燒了，但他決定偷偷記住寫下它的人。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 195,
+    "Quest": {
+      "RowIndex": 23,
+      "TableName": "Quest",
+      "Id": "FindTheSuicideNote"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4332,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你將遺書交還給夏布林，她給了你一本專精之書。",
+    "Unk005": false,
+    "Message": "使用專精之書",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 196,
+    "Quest": {
+      "RowIndex": 23,
+      "TableName": "Quest",
+      "Id": "FindTheSuicideNote"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3244,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已將遺書交還給夏布林，跟她交談以領取獎勵。",
+    "Unk005": false,
+    "Message": "與夏布林交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 197,
+    "Quest": {
+      "RowIndex": 23,
+      "TableName": "Quest",
+      "Id": "FindTheSuicideNote"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3242,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3241,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你發現一具剛死去的遺體與一封沒有收件人姓名的遺書，將遺書交還給夏布林。",
+    "Unk005": false,
+    "Message": "交還遺書",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 198,
+    "Quest": {
+      "RowIndex": 23,
+      "TableName": "Quest",
+      "Id": "FindTheSuicideNote"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2915,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3241,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "夏布林請你去找她在意之人的遺體，查看每座墓塔的基座。",
+    "Unk005": false,
+    "Message": "尋找萊露瑪最終命運的證據",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 156,
+        "TableName": "MapPins",
+        "Id": "G2_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 199,
+    "Quest": {
+      "RowIndex": 23,
+      "TableName": "Quest",
+      "Id": "FindTheSuicideNote"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3241,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "夏布林請你前往戴斯哈尋找她在意之人的遺體。",
+    "Unk005": false,
+    "Message": "前往戴斯哈",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 156,
+        "TableName": "MapPins",
+        "Id": "G2_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 200,
+    "Quest": {
+      "RowIndex": 23,
+      "TableName": "Quest",
+      "Id": "FindTheSuicideNote"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3242,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你發現一封沒有收件人姓名的遺書。返回阿杜拉車隊打聽與之相關的消息。",
+    "Unk005": false,
+    "Message": "返回車隊",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 201,
+    "Quest": {
+      "RowIndex": 23,
+      "TableName": "Quest",
+      "Id": "FindTheSuicideNote"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3408,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你在前往戴斯哈的路上看到一隻被遺棄的恐喙鳥，某個馬拉克斯人可能在這裡遇到了麻煩。",
+    "Unk005": false,
+    "Message": "尋找剛死去的屍體",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 156,
+        "TableName": "MapPins",
+        "Id": "G2_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 202,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4339,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4341,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已放入太陽氏族與卡巴拉部落聖物，現在可選擇與其中一個部落站在同一陣線，並取得一份永久獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 203,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4716,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4717,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4340,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "放入太陽部落聖物。",
+    "Unk005": false,
+    "Message": "放入太陽部落聖物",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 204,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4716,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4717,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4338,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "放入卡巴拉部落聖物。",
+    "Unk005": false,
+    "Message": "放入卡巴拉部落聖物",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 205,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4716,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4338,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4340,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到某個可以放置聖物的東西。將它放進去。",
+    "Unk005": false,
+    "Message": "置入聖物",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 206,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4338,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4340,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4716,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你已找到兩個神祕的聖物。找出它們的用途。",
+    "Unk005": false,
+    "Message": "找出聖物的用途",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 207,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4715,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4716,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你已找到一個神祕的聖物。找出它的用途。",
+    "Unk005": false,
+    "Message": "找出聖物的用途",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 208,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4716,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4717,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4338,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4340,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你已將一個聖物置於祭壇，但上面看起來還可以再放一個。找出另一個聖物。",
+    "Unk005": false,
+    "Message": "找出另一個聖物",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 209,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4716,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4715,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "將聖物置於你找到的祭壇。",
+    "Unk005": false,
+    "Message": "將聖物置於你找到的祭壇",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 210,
+    "Quest": {
+      "RowIndex": 24,
+      "TableName": "Quest",
+      "Id": "MysteriousRelics"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4716,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4338,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4340,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "找出可以置於祭壇的東西。",
+    "Unk005": false,
+    "Message": "找出可以置於祭壇的東西",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 143,
+        "TableName": "MapPins",
+        "Id": "G2_6"
+      }
+    ]
+  },
+  {
+    "RowIndex": 211,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4606,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4939,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 2721,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "任務完成——你完成了絲克瑪試煉，並選擇了一次昇華作為獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 212,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4606,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4939,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 2721,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你完成了絲克瑪試煉，並獲得了昇華天賦點數作為獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 213,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4606,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4938,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4939,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "使用昇華祭壇來獲得昇華天賦點數。",
+    "Unk005": false,
+    "Message": "使用昇華祭壇來獲得昇華天賦點數",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 214,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4606,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4938,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "使用昇華祭壇來選擇昇華。",
+    "Unk005": false,
+    "Message": "使用昇華祭壇來選擇昇華",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 215,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4988,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "擊敗大地粉碎者．魔籠。",
+    "Unk005": false,
+    "Message": "使用沙漠地圖前往絲克瑪試煉",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 216,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4987,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "完成絲克瑪試煉。",
+    "Unk005": false,
+    "Message": "完成絲克瑪試煉",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 217,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2777,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "開始你的力量的測試。",
+    "Unk005": false,
+    "Message": "開始你的力量的測試",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 218,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4539,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "將鑰匙放入聖物祭壇以開始絲克瑪試煉。",
+    "Unk005": false,
+    "Message": "使用聖物祭壇",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 219,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4883,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與被釋放者芭芭拉對話。",
+    "Unk005": false,
+    "Message": "與芭芭拉對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 220,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2775,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到了聖物祭壇。把你的巨靈之幣放進去。",
+    "Unk005": false,
+    "Message": "將巨靈之幣放入聖物祭壇",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 221,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2921,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在絲克瑪試煉中找到可放置巨靈之幣的聖物祭壇。",
+    "Unk005": false,
+    "Message": "找到聖物祭壇",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 180,
+        "TableName": "MapPins",
+        "Id": "G2_13"
+      }
+    ]
+  },
+  {
+    "RowIndex": 222,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 11,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4882,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "使用沙漠地圖前往絲克瑪試煉。",
+    "Unk005": false,
+    "Message": "使用貧脊之地的地圖前往絲克瑪試煉所在之處",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 223,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 12,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2161,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "返回阿杜拉車隊，並與札卡談談你的發現。",
+    "Unk005": false,
+    "Message": "返回阿杜拉車隊",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 107,
+        "TableName": "MapPins",
+        "Id": "G2_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 224,
+    "Quest": {
+      "RowIndex": 25,
+      "TableName": "Quest",
+      "Id": "AscentToPower"
+    },
+    "Order": 13,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2162,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "搜尋叛徒之路，以獲取你找到之巨靈之幣的情報。",
+    "Unk005": false,
+    "Message": "搜尋叛徒之路",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 108,
+        "TableName": "MapPins",
+        "Id": "G2_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 225,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4650,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成––你抓到了瓦爾最重要的巨獸專家，把他帶回現代幫助你。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 226,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4845,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4621,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成――你抓到了瓦爾最重要的巨獸專家，把他帶回現代幫助你。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 227,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3907,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4621,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在高地神塔營地與多里亞尼對話。",
+    "Unk005": false,
+    "Message": "在高地神塔營地與多里亞尼對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 228,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3907,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 4621,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "在城鎮中穿越時間傳送門以進入殘酷難度。",
+    "Unk005": false,
+    "Message": "移至殘忍難度",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 229,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3906,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "跟艾瓦談談剛剛發生的事。",
+    "Unk005": false,
+    "Message": "跟艾瓦談談發生的事",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 275,
+        "TableName": "MapPins",
+        "Id": "G3_17"
+      }
+    ]
+  },
+  {
+    "RowIndex": 230,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3812,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "多里亞尼是瓦爾最重要的巨獸與腐化專家，想辦法找到他並解救艾瓦。",
+    "Unk005": false,
+    "Message": "在漆黑密室裡找到多里亞尼",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 275,
+        "TableName": "MapPins",
+        "Id": "G3_17"
+      }
+    ]
+  },
+  {
+    "RowIndex": 231,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3811,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "一路殺進阿戈拉，並找出漆黑密室以解救艾瓦。",
+    "Unk005": false,
+    "Message": "從阿戈拉殺出血路",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 268,
+        "TableName": "MapPins",
+        "Id": "G3_16"
+      }
+    ]
+  },
+  {
+    "RowIndex": 232,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4648,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到阿戈拉了。進到其中尋找漆黑密室來釋放艾瓦。",
+    "Unk005": false,
+    "Message": "進入阿戈拉",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 268,
+        "TableName": "MapPins",
+        "Id": "G3_16"
+      }
+    ]
+  },
+  {
+    "RowIndex": 233,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4819,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "艾瓦被帶到阿戈拉了。在一切尚未太遲之前找到她。",
+    "Unk005": false,
+    "Message": "拯救艾瓦",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 268,
+        "TableName": "MapPins",
+        "Id": "G3_16"
+      }
+    ]
+  },
+  {
+    "RowIndex": 234,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4818,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "邪魔毒蛇納普阿茲把艾瓦帶到多里亞尼那裡了。擊敗邪魔毒蛇納普阿茲來開通前方的道路，並釋放艾瓦。",
+    "Unk005": false,
+    "Message": "擊敗邪魔毒蛇納普阿茲",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 261,
+        "TableName": "MapPins",
+        "Id": "G3_14"
+      }
+    ]
+  },
+  {
+    "RowIndex": 235,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3809,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你不知為何突然穿越到了過去！你要找的不再是古老的資料。從活著的瓦爾人那裡尋找與巨獸相關的知識。",
+    "Unk005": false,
+    "Message": "探索過去的奧札爾",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 261,
+        "TableName": "MapPins",
+        "Id": "G3_14"
+      }
+    ]
+  },
+  {
+    "RowIndex": 236,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 11,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4647,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你進入時空傳送門並被帶往過去。進入奧札爾。",
+    "Unk005": false,
+    "Message": "回到過去，進入奧札爾",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 237,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 12,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4646,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "進入時間傳送門以回到過去。",
+    "Unk005": false,
+    "Message": "進入時間傳送門",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 238,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 13,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4680,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "艾瓦啟動了能向上前往高地神塔營地的電梯。搭電梯上去。",
+    "Unk005": false,
+    "Message": "搭乘電梯",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 257,
+        "TableName": "MapPins",
+        "Id": "G3_12"
+      }
+    ]
+  },
+  {
+    "RowIndex": 239,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 14,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4816,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與艾瓦對話，聊聊這個密室的重要性。",
+    "Unk005": false,
+    "Message": "與艾瓦對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 257,
+        "TableName": "MapPins",
+        "Id": "G3_12"
+      }
+    ]
+  },
+  {
+    "RowIndex": 240,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 15,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3816,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "艾瓦或許會對科佩克神殿裡發生的事感興趣。召喚她，並讓她知曉此事。",
+    "Unk005": false,
+    "Message": "召喚艾瓦",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 257,
+        "TableName": "MapPins",
+        "Id": "G3_12"
+      }
+    ]
+  },
+  {
+    "RowIndex": 241,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 16,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4645,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "艾瓦啟動了能向上前往高地神塔營地的電梯。搭電梯上去。",
+    "Unk005": false,
+    "Message": "搭乘電梯",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 257,
+        "TableName": "MapPins",
+        "Id": "G3_12"
+      }
+    ]
+  },
+  {
+    "RowIndex": 242,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 17,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3807,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你終於能夠進入科佩克神殿了。進行探索並找出瓦爾的知識展覽室。",
+    "Unk005": false,
+    "Message": "探索科佩克神殿",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 257,
+        "TableName": "MapPins",
+        "Id": "G3_12"
+      }
+    ]
+  },
+  {
+    "RowIndex": 243,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 18,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3853,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你用鑰匙打開了科佩克神殿的入口。進入神殿並找出瓦爾的知識展覽室。",
+    "Unk005": false,
+    "Message": "進入科佩克神殿",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 244,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 19,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4828,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你對艾瓦展示了神殿大門神像。她想要你開啟前往科佩克神殿的大門。",
+    "Unk005": false,
+    "Message": "開啟前往科佩克神殿的大門",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 245,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 20,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3896,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你在寶藏獵人的營地下方找到科佩克神殿的鑰匙。打開神殿的大門並進入其中。",
+    "Unk005": false,
+    "Message": "帶著神殿大門神像回去找艾瓦",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 246,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 21,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4644,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你擊敗污垢女王並取得她掉落的神殿大門神像。它看起來能被鑲嵌到太陽神殿的大門裡。把它撿起來。",
+    "Unk005": false,
+    "Message": "撿起神殿大門神像",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 252,
+        "TableName": "MapPins",
+        "Id": "G3_11"
+      }
+    ]
+  },
+  {
+    "RowIndex": 247,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 22,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4643,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到污垢女王了。擊敗她，她身上或許有你在尋找的鑰匙。",
+    "Unk005": false,
+    "Message": "擊敗污垢女王",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 252,
+        "TableName": "MapPins",
+        "Id": "G3_11"
+      }
+    ]
+  },
+  {
+    "RowIndex": 248,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 23,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3806,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "探索阿戈拉以尋找解鎖太陽神殿入口的鑰匙。",
+    "Unk005": false,
+    "Message": "探索阿戈拉遺跡",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 252,
+        "TableName": "MapPins",
+        "Id": "G3_11"
+      }
+    ]
+  },
+  {
+    "RowIndex": 249,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 24,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4642,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到阿戈拉的入口了。進到其中，並尋找解鎖太陽神殿入口的鑰匙。",
+    "Unk005": false,
+    "Message": "進入阿戈拉遺跡",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 252,
+        "TableName": "MapPins",
+        "Id": "G3_11"
+      }
+    ]
+  },
+  {
+    "RowIndex": 250,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 25,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3768,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "太陽神殿的入口已被鎖住。前往淹沒之城外面的阿戈拉尋找鑰匙。",
+    "Unk005": false,
+    "Message": "探索淹沒之城",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 243,
+        "TableName": "MapPins",
+        "Id": "G3_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 251,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 26,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3848,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "太陽神殿的入口已被鎖住。前往淹沒之城外面的阿戈拉尋找鑰匙。",
+    "Unk005": false,
+    "Message": "進入淹沒之城",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 243,
+        "TableName": "MapPins",
+        "Id": "G3_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 252,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 27,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3765,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到進入水道的方法，找出控制機關並抽乾該區的水。",
+    "Unk005": false,
+    "Message": "啟動水道",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 253,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 28,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3804,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到進入瑪特蘭水道的方法，找出控制機關並抽乾該區的水。",
+    "Unk005": false,
+    "Message": "啟動瑪特蘭水道",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 205,
+        "TableName": "MapPins",
+        "Id": "G3_2_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 254,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 29,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3854,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到進入瑪特蘭水道的方法，進入區域並找出控制機關，抽乾該區的水。",
+    "Unk005": false,
+    "Message": "進入瑪特蘭水道",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 202,
+        "TableName": "MapPins",
+        "Id": "G3_2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 255,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 30,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3764,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已取回大型靈魂核心。回到感染荒地，啟動石陣祭壇，並開啟通往瑪特蘭水道的路。",
+    "Unk005": false,
+    "Message": "返回感染荒地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 202,
+        "TableName": "MapPins",
+        "Id": "G3_2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 256,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 31,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3763,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "擊敗核心的守衛者茲科亞特，取得大型靈魂核心。",
+    "Unk005": false,
+    "Message": "擊敗茲科亞特",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 234,
+        "TableName": "MapPins",
+        "Id": "G3_6_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 257,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 32,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3762,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "現在已可取回艾瓦附近的大型靈魂核心，去把東西拿到手吧。",
+    "Unk005": false,
+    "Message": "取回大型靈魂核心",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 234,
+        "TableName": "MapPins",
+        "Id": "G3_6_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 258,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 33,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3915,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "艾瓦建議你先找到兩個中型靈魂核心，用它們啟動機械迷城下層的兩台發電機，才能取回你需要的大型靈魂核心。",
+    "Unk005": false,
+    "Message": "啟動兩台發電機",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 234,
+        "TableName": "MapPins",
+        "Id": "G3_6_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 259,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 34,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3843,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "為了取回你需要的大型靈魂核心，艾瓦建議你找出兩顆中型靈魂核心，用它們來啟動吉卡尼的聖域中的兩台發電機。",
+    "Unk005": false,
+    "Message": "啟動兩台發電機",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 234,
+        "TableName": "MapPins",
+        "Id": "G3_6_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 260,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 35,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4640,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你在地板上發現神秘的符號。召喚艾瓦，深入了解此處所發生的事。",
+    "Unk005": false,
+    "Message": "召喚艾瓦",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 234,
+        "TableName": "MapPins",
+        "Id": "G3_6_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 261,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 36,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3839,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到小型靈魂核心，並用它開啟機械迷城的大門。繼續深入廢墟之中。",
+    "Unk005": false,
+    "Message": "尋找機械迷城下層",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 234,
+        "TableName": "MapPins",
+        "Id": "G3_6_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 262,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 37,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3754,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到吉卡尼的聖域了。進行探索來尋找大型靈魂核心。",
+    "Unk005": false,
+    "Message": "探索吉卡尼的聖域",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 234,
+        "TableName": "MapPins",
+        "Id": "G3_6_2"
+      }
+    ]
+  },
+  {
+    "RowIndex": 263,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 38,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3916,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到小型靈魂核心。把它拿到石陣祭壇那裡，繼續深入廢墟之中。",
+    "Unk005": false,
+    "Message": "尋找吉卡尼的聖域",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 230,
+        "TableName": "MapPins",
+        "Id": "G3_6_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 264,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 39,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3913,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "巨大的石頭阻攔了你的去路，需要一顆小型靈魂核心才能啟動控制機關。到附近去尋找一個。",
+    "Unk005": false,
+    "Message": "尋找小型靈魂核心",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 230,
+        "TableName": "MapPins",
+        "Id": "G3_6_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 265,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 40,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3840,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你發現了另外一座石陣祭壇。詢問艾瓦以了解啟動祭壇的方式。",
+    "Unk005": false,
+    "Message": "向艾瓦尋求意見",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 230,
+        "TableName": "MapPins",
+        "Id": "G3_6_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 266,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 41,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3842,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你發現了另外一座石陣祭壇。召喚艾瓦以了解啟動祭壇的方式。",
+    "Unk005": false,
+    "Message": "向艾瓦尋求意見",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 230,
+        "TableName": "MapPins",
+        "Id": "G3_6_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 267,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 42,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3841,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "未使用。",
+    "Unk005": false,
+    "Message": "向艾瓦尋求意見",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 230,
+        "TableName": "MapPins",
+        "Id": "G3_6_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 268,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 43,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3753,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊敗機械迷城的守衛龍蜥，進入設施吧。",
+    "Unk005": false,
+    "Message": "進入機械迷城上層",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 230,
+        "TableName": "MapPins",
+        "Id": "G3_6_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 269,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 44,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4825,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "有隻巨大的野獸似乎在看守機械迷城的入口。擊敗牠。",
+    "Unk005": false,
+    "Message": "進入吉卡尼的機械迷城",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 230,
+        "TableName": "MapPins",
+        "Id": "G3_6_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 270,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 45,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3760,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "瑟維和你分享了某座遺跡的故事，也許可以在那裡找到大型靈魂核心。在龍蜥濕地尋找機械迷城吧。",
+    "Unk005": false,
+    "Message": "尋找機械迷城",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 223,
+        "TableName": "MapPins",
+        "Id": "G3_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 271,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 46,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3752,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "瑟維和你分享了某座遺跡的故事，也許可以在那裡找到大型靈魂核心。找到龍蜥濕地，從中搜尋機械迷城吧。",
+    "Unk005": false,
+    "Message": "尋找龍蜥濕地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 223,
+        "TableName": "MapPins",
+        "Id": "G3_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 272,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 47,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3837,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "叢林邊陲的石陣祭壇需要大型靈魂核心才能啟動。詢問瑟維，看她或她的部落知不知道哪裡有機會可以找到核心。",
+    "Unk005": false,
+    "Message": "與瑟維交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 202,
+        "TableName": "MapPins",
+        "Id": "G3_2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 273,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 48,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3834,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "感染荒地的石陣祭壇需要一顆大型靈魂核心作為動力源。詢問瑟維她或她的部落是否知道哪裡可以找到一顆。",
+    "Unk005": false,
+    "Message": "向艾瓦尋求意見",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 274,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 49,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3855,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "古老的廢棄運河通往叢林深處。沿著運河尋找水道。",
+    "Unk005": false,
+    "Message": "沿著運河探索",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 202,
+        "TableName": "MapPins",
+        "Id": "G3_2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 275,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 50,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3642,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "古老的荒廢運河通往叢林。跟著運河尋找瑪特蘭水道。",
+    "Unk005": false,
+    "Message": "尋找水道",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 202,
+        "TableName": "MapPins",
+        "Id": "G3_2_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 276,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 51,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3750,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "位於此地某處的運河或許可以用來降低水位並揭露城市。尋找水道。",
+    "Unk005": false,
+    "Message": "尋找瑪特蘭水道",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 210,
+        "TableName": "MapPins",
+        "Id": "G3_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 277,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 52,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3823,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "位於此地某處的運河或許可以用來降低水位並揭露城市。尋找瑪特蘭水道。",
+    "Unk005": false,
+    "Message": "尋找瑪特蘭水道",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 210,
+        "TableName": "MapPins",
+        "Id": "G3_3"
+      }
+    ]
+  },
+  {
+    "RowIndex": 278,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 53,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3771,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3818,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 3857,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "奧札爾的沉沒古城似乎名副其實。向黑衣幽魂詢問是否有降低水位、揭露整座城市的方法。",
+    "Unk005": false,
+    "Message": "與黑衣幽魂交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 279,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 54,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3857,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [
+      {
+        "RowIndex": 3771,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 3818,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "Text": "你發現有群寶藏獵人已在湖中央的高地神塔上紮營。探索他們的營地，了解更多資訊。",
+    "Unk005": false,
+    "Message": "探索高地神塔營地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 280,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 55,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3641,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "瓦爾文明僅剩一處遺址尚未被開發：奧札爾的沉沒古城。探索風沙沼澤，尋找最著名的高地神塔。",
+    "Unk005": false,
+    "Message": "探索高地神塔營地",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 281,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 56,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3643,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與黑衣幽魂交談，了解下一步該做什麼。",
+    "Unk005": false,
+    "Message": "與黑衣幽魂交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 282,
+    "Quest": {
+      "RowIndex": 26,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepository"
+    },
+    "Order": 57,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3640,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與黑衣幽魂對話，了解下一步該做什麼。",
+    "Unk005": false,
+    "Message": "與黑衣幽魂對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 194,
+        "TableName": "MapPins",
+        "Id": "G3_1"
+      }
+    ]
+  },
+  {
+    "RowIndex": 283,
+    "Quest": {
+      "RowIndex": 27,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepositoryEndgame"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4849,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成––你抓到了瓦爾最重要的巨獸專家，並獲得一個換界石作為獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 284,
+    "Quest": {
+      "RowIndex": 27,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepositoryEndgame"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4848,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "在高地神塔向多里亞尼索取換界石獎勵。",
+    "Unk005": false,
+    "Message": "向多里亞尼索取換界石",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 556,
+        "TableName": "MapPins",
+        "Id": "G_Endgame_Town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 285,
+    "Quest": {
+      "RowIndex": 27,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepositoryEndgame"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4949,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與多里亞尼對話。",
+    "Unk005": false,
+    "Message": "與多里亞尼對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 556,
+        "TableName": "MapPins",
+        "Id": "G_Endgame_Town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 286,
+    "Quest": {
+      "RowIndex": 27,
+      "TableName": "Quest",
+      "Id": "SearchForTheVaalRepositoryEndgame"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3808,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "跟艾瓦談談剛剛發生的事。",
+    "Unk005": false,
+    "Message": "跟艾瓦談談發生的事",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 556,
+        "TableName": "MapPins",
+        "Id": "G_Endgame_Town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 287,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2814,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已在劇毒墓穴中找到毒液瓶，瑟維已給予你獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 288,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3782,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "服下瑟維幫你製作的劇毒藥水。",
+    "Unk005": false,
+    "Message": "服用劇毒藥水",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 289,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4685,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "服下瑟維幫你製作的劇毒藥水。",
+    "Unk005": false,
+    "Message": "服用劇毒藥水",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 290,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4687,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "服下瑟維幫你製作的劇毒藥水。",
+    "Unk005": false,
+    "Message": "服用劇毒藥水",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 291,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2805,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "服下瑟維幫你製作的劇毒藥水。",
+    "Unk005": false,
+    "Message": "服用劇毒藥水",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 292,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2806,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "服下瑟維幫你製作的劇毒藥水。",
+    "Unk005": false,
+    "Message": "服用劇毒藥水",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 293,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2807,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "服下瑟維幫你製作的劇毒藥水。",
+    "Unk005": false,
+    "Message": "服用劇毒藥水",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 294,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3905,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "跟瑟維拿取劇毒藥水。",
+    "Unk005": false,
+    "Message": "拿取劇毒藥水",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 295,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3901,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "回去找瑟維，向她打聽你所找到的毒液瓶的情報。",
+    "Unk005": false,
+    "Message": "與瑟維交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 296,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3900,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "拾取你在劇毒墓穴找到的屍蛇毒液。",
+    "Unk005": false,
+    "Message": "拿取屍蛇毒液",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 217,
+        "TableName": "MapPins",
+        "Id": "G3_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 297,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3898,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你在劇毒墓穴發現一具屍體，搜一下身吧。",
+    "Unk005": false,
+    "Message": "搜索屍體",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 217,
+        "TableName": "MapPins",
+        "Id": "G3_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 298,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 11,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3751,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "瑟維也許能告訴你在劇毒墓穴中找到的材料有何用處。探索劇毒墓穴，尋找有用的東西。",
+    "Unk005": false,
+    "Message": "探索劇毒墓穴",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 217,
+        "TableName": "MapPins",
+        "Id": "G3_4"
+      }
+    ]
+  },
+  {
+    "RowIndex": 299,
+    "Quest": {
+      "RowIndex": 29,
+      "TableName": "Quest",
+      "Id": "CleanseTheSnakePit"
+    },
+    "Order": 12,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3832,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "瑟維與你談論阿扎克庫。搜尋烈毒來源。",
+    "Unk005": false,
+    "Message": "找出阿扎克庫毒藥的來源",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 300,
+    "Quest": {
+      "RowIndex": 31,
+      "TableName": "Quest",
+      "Id": "KillTheBogWitch"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3778,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成——你已擊殺沼澤女巫並獲得藥劑作為獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 301,
+    "Quest": {
+      "RowIndex": 31,
+      "TableName": "Quest",
+      "Id": "KillTheBogWitch"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3787,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "跟瑟維領取獎勵。",
+    "Unk005": false,
+    "Message": "領取獎勵",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 302,
+    "Quest": {
+      "RowIndex": 31,
+      "TableName": "Quest",
+      "Id": "KillTheBogWitch"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3786,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已擊殺卡佛沼澤女巫，並解放被她偷來的孩童靈魂。與瑟維交談，告訴她這個好消息。",
+    "Unk005": false,
+    "Message": "與瑟維交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 303,
+    "Quest": {
+      "RowIndex": 31,
+      "TableName": "Quest",
+      "Id": "KillTheBogWitch"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3776,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "尹娜杜克的長鋒可作為你殺死她的鐵證，將它撿起來。",
+    "Unk005": false,
+    "Message": "拾取尹娜杜克的長鋒",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 240,
+        "TableName": "MapPins",
+        "Id": "G3_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 304,
+    "Quest": {
+      "RowIndex": 31,
+      "TableName": "Quest",
+      "Id": "KillTheBogWitch"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3775,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到卡佛沼澤女巫，殺掉她並解放被她偷走的孩童靈魂。",
+    "Unk005": false,
+    "Message": "殺死沼澤女巫",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 240,
+        "TableName": "MapPins",
+        "Id": "G3_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 305,
+    "Quest": {
+      "RowIndex": 31,
+      "TableName": "Quest",
+      "Id": "KillTheBogWitch"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3846,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "瑟維請你殺掉卡佛沼澤女巫，並解放被她偷走的孩童靈魂。",
+    "Unk005": false,
+    "Message": "獵殺沼澤女巫",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 240,
+        "TableName": "MapPins",
+        "Id": "G3_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 306,
+    "Quest": {
+      "RowIndex": 31,
+      "TableName": "Quest",
+      "Id": "KillTheBogWitch"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4273,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與瑟維交談，尋求她的意見。",
+    "Unk005": false,
+    "Message": "與瑟維交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 240,
+        "TableName": "MapPins",
+        "Id": "G3_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 307,
+    "Quest": {
+      "RowIndex": 31,
+      "TableName": "Quest",
+      "Id": "KillTheBogWitch"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3773,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已找到卡佛的村莊，召喚瑟維尋求她的意見。",
+    "Unk005": false,
+    "Message": "與瑟維交談",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 240,
+        "TableName": "MapPins",
+        "Id": "G3_7"
+      }
+    ]
+  },
+  {
+    "RowIndex": 308,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4677,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成––你把卡瑪薩之錘交給了奧斯瓦德，並獲得了未切割的技能寶石和金幣作為獎勵。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 309,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4676,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "奧斯瓦德應該會對卡瑪薩之錘感興趣。把它帶回高地神塔營地，並交給他。",
+    "Unk005": false,
+    "Message": "把卡瑪薩之錘交給高地神塔營地的奧斯瓦德",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 201,
+        "TableName": "MapPins",
+        "Id": "G3_town"
+      }
+    ]
+  },
+  {
+    "RowIndex": 310,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4675,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "潰金掉落了一把錘子。奧斯瓦德或許會感興趣。把它撿起來，並帶回去給高地神塔營地的奧斯瓦德。",
+    "Unk005": false,
+    "Message": "撿起卡瑪薩之錘",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 244,
+        "TableName": "MapPins",
+        "Id": "G3_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 311,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4674,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你遇到了鍛造大師梅克圖。擊敗他。",
+    "Unk005": false,
+    "Message": "擊敗鍛造大師梅克圖",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 244,
+        "TableName": "MapPins",
+        "Id": "G3_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 312,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3769,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你進到熔岩寶庫了。淨空場地來尋找寶藏。",
+    "Unk005": false,
+    "Message": "淨空熔岩寶庫",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 244,
+        "TableName": "MapPins",
+        "Id": "G3_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 313,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4673,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "奧斯瓦德要你進到熔岩寶庫、淨空該處，並順便尋找財寶。",
+    "Unk005": false,
+    "Message": "進入熔岩寶庫",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 244,
+        "TableName": "MapPins",
+        "Id": "G3_9"
+      }
+    ]
+  },
+  {
+    "RowIndex": 314,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4672,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "跟奧斯瓦德說關於猴像的事。",
+    "Unk005": false,
+    "Message": "與奧斯瓦德對話",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 243,
+        "TableName": "MapPins",
+        "Id": "G3_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 315,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4815,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4671,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你發現奧斯瓦德稍早提到的猴像就在前面。召喚奧斯瓦德，並告訴他這個消息。",
+    "Unk005": false,
+    "Message": "召喚奧斯瓦德",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 243,
+        "TableName": "MapPins",
+        "Id": "G3_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 316,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4815,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你發現前方有一些猴像。召喚奧斯瓦德，與他對話以獲得更多資訊。",
+    "Unk005": false,
+    "Message": "召喚奧斯瓦德",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 243,
+        "TableName": "MapPins",
+        "Id": "G3_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 317,
+    "Quest": {
+      "RowIndex": 30,
+      "TableName": "Quest",
+      "Id": "RaidTheTreasureVault"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4671,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "奧斯瓦德告訴你要注意帶有猴像的建築物。尋找熔岩寶庫。",
+    "Unk005": false,
+    "Message": "尋找熔岩寶庫",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 243,
+        "TableName": "MapPins",
+        "Id": "G3_8"
+      }
+    ]
+  },
+  {
+    "RowIndex": 318,
+    "Quest": {
+      "RowIndex": 32,
+      "TableName": "Quest",
+      "Id": "FindTheSpearPieces"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4188,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "[DNT] Quest Complete - You have met Alva, Rog and Makoru. You are now familiar with how to come and go from Kingsmarch at your will.",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 319,
+    "Quest": {
+      "RowIndex": 32,
+      "TableName": "Quest",
+      "Id": "FindTheSpearPieces"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4187,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "瑪寇魯可以帶你去任何你想去的地方，挑選島嶼啟航吧。",
+    "Unk005": false,
+    "Message": "啟航",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 320,
+    "Quest": {
+      "RowIndex": 32,
+      "TableName": "Quest",
+      "Id": "FindTheSpearPieces"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3962,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "與瑪寇魯交談並雇用她的船隻。",
+    "Unk005": false,
+    "Message": "與瑪寇魯交談",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 321,
+    "Quest": {
+      "RowIndex": 32,
+      "TableName": "Quest",
+      "Id": "FindTheSpearPieces"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3965,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "艾瓦建議你和羅格交談，賣掉你的文物並雇用船隻。與羅格交談。",
+    "Unk005": false,
+    "Message": "與羅格交談",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 322,
+    "Quest": {
+      "RowIndex": 32,
+      "TableName": "Quest",
+      "Id": "FindTheSpearPieces"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3861,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你已抵達金司馬區，與艾瓦交談，討論賣掉文物的事並雇用船隻。",
+    "Unk005": false,
+    "Message": "與艾瓦交談",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 323,
+    "Quest": {
+      "RowIndex": 33,
+      "TableName": "Quest",
+      "Id": "sanctum_timer_arena"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4847,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "試煉完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 324,
+    "Quest": {
+      "RowIndex": 33,
+      "TableName": "Quest",
+      "Id": "sanctum_timer_arena"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4846,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 325,
+    "Quest": {
+      "RowIndex": 34,
+      "TableName": "Quest",
+      "Id": "sanctum_portal_arena"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4854,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "試煉完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 326,
+    "Quest": {
+      "RowIndex": 34,
+      "TableName": "Quest",
+      "Id": "sanctum_portal_arena"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4853,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 327,
+    "Quest": {
+      "RowIndex": 35,
+      "TableName": "Quest",
+      "Id": "sanctum_explore"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2647,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "試煉完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 328,
+    "Quest": {
+      "RowIndex": 35,
+      "TableName": "Quest",
+      "Id": "sanctum_explore"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2646,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 329,
+    "Quest": {
+      "RowIndex": 37,
+      "TableName": "Quest",
+      "Id": "sanctum_rare_lair"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4857,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "試煉完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 330,
+    "Quest": {
+      "RowIndex": 37,
+      "TableName": "Quest",
+      "Id": "sanctum_rare_lair"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4856,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 331,
+    "Quest": {
+      "RowIndex": 36,
+      "TableName": "Quest",
+      "Id": "sanctum_kill_monsters"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2651,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "試煉完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 332,
+    "Quest": {
+      "RowIndex": 36,
+      "TableName": "Quest",
+      "Id": "sanctum_kill_monsters"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2650,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 333,
+    "Quest": {
+      "RowIndex": 38,
+      "TableName": "Quest",
+      "Id": "sanctum_puzzle"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2649,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "試煉完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 334,
+    "Quest": {
+      "RowIndex": 38,
+      "TableName": "Quest",
+      "Id": "sanctum_puzzle"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2648,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 335,
+    "Quest": {
+      "RowIndex": 40,
+      "TableName": "Quest",
+      "Id": "sanctum_floor_boss"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2656,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "出口已開啟",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 336,
+    "Quest": {
+      "RowIndex": 40,
+      "TableName": "Quest",
+      "Id": "sanctum_floor_boss"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2655,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 337,
+    "Quest": {
+      "RowIndex": 39,
+      "TableName": "Quest",
+      "Id": "sanctum_boss"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2653,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "試煉完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 338,
+    "Quest": {
+      "RowIndex": 39,
+      "TableName": "Quest",
+      "Id": "sanctum_boss"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2652,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 339,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2719,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "試煉完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 340,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2755,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "試煉因太多毀滅而失敗",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 341,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2800,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "因提早領取獎勵而結束試煉",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 342,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2718,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 343,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2720,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 344,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 5,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2744,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 345,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 6,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2745,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 346,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 7,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2746,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 347,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 8,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2747,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 348,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 9,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2748,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 349,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 10,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2717,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 350,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 11,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2716,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 351,
+    "Quest": {
+      "RowIndex": 41,
+      "TableName": "Quest",
+      "Id": "ultimatum_encounter"
+    },
+    "Order": 12,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2715,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": false,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 352,
+    "Quest": {
+      "RowIndex": 42,
+      "TableName": "Quest",
+      "Id": "Ultimatum"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2691,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "任務完成 - 你完成了試煉大師的挑戰，並獲得了 2 點昇華點數。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 353,
+    "Quest": {
+      "RowIndex": 42,
+      "TableName": "Quest",
+      "Id": "Ultimatum"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2164,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "進入混沌試煉並完成試煉大師的挑戰。",
+    "Unk005": false,
+    "Message": "完成試煉大師的挑戰",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 354,
+    "Quest": {
+      "RowIndex": 42,
+      "TableName": "Quest",
+      "Id": "Ultimatum"
+    },
+    "Order": 2,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4980,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4978,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "把最後通牒雕刻放在神殿奉獻中，以進行試煉大師的挑戰。",
+    "Unk005": false,
+    "Message": "把最後通牒雕刻放在神殿奉獻中",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 355,
+    "Quest": {
+      "RowIndex": 42,
+      "TableName": "Quest",
+      "Id": "Ultimatum"
+    },
+    "Order": 3,
+    "FlagsPresent": [
+      {
+        "RowIndex": 3770,
+        "TableName": "QuestFlags"
+      },
+      {
+        "RowIndex": 4978,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "你找到了混沌神殿。找出最後通牒雕刻的用途。",
+    "Unk005": false,
+    "Message": "找出最後通牒雕刻的用途",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 356,
+    "Quest": {
+      "RowIndex": 42,
+      "TableName": "Quest",
+      "Id": "Ultimatum"
+    },
+    "Order": 4,
+    "FlagsPresent": [
+      {
+        "RowIndex": 4978,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "把最後通牒雕刻帶到混沌神殿來參與混沌試煉。",
+    "Unk005": false,
+    "Message": "前往混沌神殿",
+    "MapPinsKeys1": [
+      {
+        "RowIndex": 223,
+        "TableName": "MapPins",
+        "Id": "G3_5"
+      }
+    ]
+  },
+  {
+    "RowIndex": 357,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 0,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "任務完成 - 你協助多里亞尼完成了淨化腐化的任務，但他可能還需要你做更多事。",
+    "Unk005": true,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 358,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 1,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 15 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 15 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 359,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 2,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 14 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 14 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 360,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 3,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 13 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 13 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 361,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 4,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 12 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 12 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 362,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 5,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 11 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 11 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 363,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 6,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 10 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 10 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 364,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 7,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 9 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 9 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 365,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 8,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 8 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 8 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 366,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 9,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 7 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 7 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 367,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 10,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 6 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 6 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 368,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 11,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 5 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 5 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 369,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 12,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 4 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 4 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 370,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 13,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 3 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 3 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 371,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 14,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 2 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 2 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 372,
+    "Quest": {
+      "RowIndex": 43,
+      "TableName": "Quest",
+      "Id": "EndgameQuestline"
+    },
+    "Order": 15,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "完成階級 1 的地圖({0}/{1})。",
+    "Unk005": false,
+    "Message": "完成階級 1 的地圖",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 373,
+    "Quest": {
+      "RowIndex": 44,
+      "TableName": "Quest",
+      "Id": "EndgameQuestInvestigateTower"
+    },
+    "Order": 0,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "任務完成––你殺死了灰燼仲裁者。",
+    "Unk005": false,
+    "Message": "任務完成",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 374,
+    "Quest": {
+      "RowIndex": 44,
+      "TableName": "Quest",
+      "Id": "EndgameQuestInvestigateTower"
+    },
+    "Order": 1,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "擊敗灰燼仲裁者。",
+    "Unk005": false,
+    "Message": "擊敗灰燼仲裁者",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 375,
+    "Quest": {
+      "RowIndex": 44,
+      "TableName": "Quest",
+      "Id": "EndgameQuestInvestigateTower"
+    },
+    "Order": 2,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "你已解鎖了大門。進入競技場並深入探索燃燒豐碑。",
+    "Unk005": false,
+    "Message": "進入競技場",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 376,
+    "Quest": {
+      "RowIndex": 44,
+      "TableName": "Quest",
+      "Id": "EndgameQuestInvestigateTower"
+    },
+    "Order": 3,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "你找到了一扇需要多塊危機碎片的門。把碎片找出來，並帶回門邊。",
+    "Unk005": false,
+    "Message": "取得三塊危機碎片來開啟上鎖的門",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 377,
+    "Quest": {
+      "RowIndex": 44,
+      "TableName": "Quest",
+      "Id": "EndgameQuestInvestigateTower"
+    },
+    "Order": 4,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "調查燃燒豐碑。",
+    "Unk005": false,
+    "Message": "調查燃燒豐碑",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 378,
+    "Quest": {
+      "RowIndex": 44,
+      "TableName": "Quest",
+      "Id": "EndgameQuestInvestigateTower"
+    },
+    "Order": 5,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "多里亞尼告訴了你堡壘的事。去尋找燃燒豐碑，並進行調查。",
+    "Unk005": false,
+    "Message": "調查燃燒豐碑",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 379,
+    "Quest": {
+      "RowIndex": 44,
+      "TableName": "Quest",
+      "Id": "EndgameQuestInvestigateTower"
+    },
+    "Order": 6,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "跟多里亞尼說你在遠方看到了什麼。",
+    "Unk005": false,
+    "Message": "跟多里亞尼說你在遠方看到了什麼",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 380,
+    "Quest": {
+      "RowIndex": 44,
+      "TableName": "Quest",
+      "Id": "EndgameQuestInvestigateTower"
+    },
+    "Order": 7,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "與多里亞尼對話。",
+    "Unk005": false,
+    "Message": "與多里亞尼對話",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 381,
+    "Quest": {
+      "RowIndex": 45,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey1"
+    },
+    "Order": 0,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "前往鋼鐵城塞，並尋找吉恩諾伯爵。",
+    "Unk005": true,
+    "Message": "前往鋼鐵城塞",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 382,
+    "Quest": {
+      "RowIndex": 45,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey1"
+    },
+    "Order": 1,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "擊敗吉恩諾伯爵。",
+    "Unk005": false,
+    "Message": "擊敗吉恩諾伯爵",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 383,
+    "Quest": {
+      "RowIndex": 45,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey1"
+    },
+    "Order": 2,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "在鋼鐵城塞尋找吉恩諾伯爵。",
+    "Unk005": false,
+    "Message": "在鋼鐵城塞尋找吉恩諾伯爵",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 384,
+    "Quest": {
+      "RowIndex": 45,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey1"
+    },
+    "Order": 3,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "前往鋼鐵城塞，並尋找吉恩諾伯爵。",
+    "Unk005": false,
+    "Message": "前往鋼鐵城塞",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 385,
+    "Quest": {
+      "RowIndex": 46,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey2"
+    },
+    "Order": 0,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "前往青銅城塞，並尋找恆久之王。",
+    "Unk005": true,
+    "Message": "前往青銅城塞",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 386,
+    "Quest": {
+      "RowIndex": 46,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey2"
+    },
+    "Order": 1,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "擊敗恆久之王。",
+    "Unk005": false,
+    "Message": "擊敗恆久之王",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 387,
+    "Quest": {
+      "RowIndex": 46,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey2"
+    },
+    "Order": 2,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "在青銅城塞尋找恆久之王。",
+    "Unk005": false,
+    "Message": "在青銅城塞尋找恆久之王",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 388,
+    "Quest": {
+      "RowIndex": 46,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey2"
+    },
+    "Order": 3,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "前往青銅城塞，並尋找恆久之王。",
+    "Unk005": false,
+    "Message": "前往青銅城塞",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 389,
+    "Quest": {
+      "RowIndex": 47,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey3"
+    },
+    "Order": 0,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "前往岩石城塞，並尋找多里亞尼。",
+    "Unk005": true,
+    "Message": "前往岩石城塞",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 390,
+    "Quest": {
+      "RowIndex": 47,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey3"
+    },
+    "Order": 1,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "擊敗皇家奇術師．多里亞尼。",
+    "Unk005": false,
+    "Message": "擊敗皇家奇術師．多里亞尼",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 391,
+    "Quest": {
+      "RowIndex": 47,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey3"
+    },
+    "Order": 2,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "在岩石城塞尋找多里亞尼。",
+    "Unk005": false,
+    "Message": "在岩石城塞尋找多里亞尼",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 392,
+    "Quest": {
+      "RowIndex": 47,
+      "TableName": "Quest",
+      "Id": "EndgameQuestObtainKey3"
+    },
+    "Order": 3,
+    "FlagsPresent": [],
+    "FlagsMissing": [],
+    "Text": "前往岩石城塞，並尋找多里亞尼。",
+    "Unk005": false,
+    "Message": "前往岩石城塞",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 393,
+    "Quest": {
+      "RowIndex": 48,
+      "TableName": "Quest",
+      "Id": "SacredFlameInspectOrb"
+    },
+    "Order": 0,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2812,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "",
+    "Unk005": true,
+    "Message": "",
+    "MapPinsKeys1": []
+  },
+  {
+    "RowIndex": 394,
+    "Quest": {
+      "RowIndex": 48,
+      "TableName": "Quest",
+      "Id": "SacredFlameInspectOrb"
+    },
+    "Order": 1,
+    "FlagsPresent": [
+      {
+        "RowIndex": 2811,
+        "TableName": "QuestFlags"
+      }
+    ],
+    "FlagsMissing": [],
+    "Text": "調查倒下的物體。",
+    "Unk005": false,
+    "Message": "調查倒下的物體",
+    "MapPinsKeys1": []
+  }
+]

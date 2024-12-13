@@ -1,0 +1,907 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "America",
+    "Name": "美國－德州",
+    "Server": [
+      "dal01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "美",
+    "Unk006": [
+      {
+        "RowIndex": 12,
+        "TableName": "Realms",
+        "Id": "SanJose"
+      },
+      {
+        "RowIndex": 32369819897757813,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 0,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "us.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Europe",
+    "Name": "歐洲－阿姆斯特丹",
+    "Server": [
+      "ams01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "歐",
+    "Unk006": [
+      {
+        "RowIndex": 9,
+        "TableName": "Realms",
+        "Id": "London"
+      },
+      {
+        "RowIndex": 32369819897888869,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 1,
+      "TableName": "Realms",
+      "Id": "Europe"
+    },
+    "Unk008": 3,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "eu.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Singapore",
+    "Name": "新加坡",
+    "Server": [
+      "sng01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "新",
+    "Unk006": [
+      {
+        "RowIndex": 3,
+        "TableName": "Realms",
+        "Id": "Australia"
+      },
+      {
+        "RowIndex": 32369819896971379,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 7,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "sg.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Australia",
+    "Name": "澳洲",
+    "Server": [
+      "mel01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "澳",
+    "Unk006": [
+      {
+        "RowIndex": 2,
+        "TableName": "Realms",
+        "Id": "Singapore"
+      },
+      {
+        "RowIndex": 32369819897888865,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 8,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "au.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 4,
+    "Id": "SingaporeGA",
+    "Name": "新加坡/馬來西亞",
+    "Server": [],
+    "IsEnabled": false,
+    "Server2": [
+      "sg",
+      "my",
+      "singapore",
+      "malaysia",
+      "singapore/malaysia"
+    ],
+    "ShortName": "新馬",
+    "Unk006": [],
+    "Unk007": {
+      "RowIndex": 4,
+      "TableName": "Realms",
+      "Id": "SingaporeGA"
+    },
+    "Unk008": 9,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 5,
+    "Id": "PhilippinesGA",
+    "Name": "菲律賓",
+    "Server": [],
+    "IsEnabled": false,
+    "Server2": [
+      "ph",
+      "philippines"
+    ],
+    "ShortName": "菲",
+    "Unk006": [],
+    "Unk007": {
+      "RowIndex": 5,
+      "TableName": "Realms",
+      "Id": "PhilippinesGA"
+    },
+    "Unk008": 10,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 6,
+    "Id": "TaiwanGA",
+    "Name": "台灣/香港/澳門",
+    "Server": [],
+    "IsEnabled": false,
+    "Server2": [
+      "tw",
+      "taiwan"
+    ],
+    "ShortName": "台港澳",
+    "Unk006": [],
+    "Unk007": {
+      "RowIndex": 6,
+      "TableName": "Realms",
+      "Id": "TaiwanGA"
+    },
+    "Unk008": 11,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ThailandGA",
+    "Name": "泰國",
+    "Server": [],
+    "IsEnabled": false,
+    "Server2": [
+      "th",
+      "thailand"
+    ],
+    "ShortName": "泰",
+    "Unk006": [],
+    "Unk007": {
+      "RowIndex": 7,
+      "TableName": "Realms",
+      "Id": "ThailandGA"
+    },
+    "Unk008": 12,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 8,
+    "Id": "RussiaGA",
+    "Name": "俄羅斯 - 莫斯科",
+    "Server": [],
+    "IsEnabled": false,
+    "Server2": [
+      "ru",
+      "russia"
+    ],
+    "ShortName": "俄",
+    "Unk006": [],
+    "Unk007": {
+      "RowIndex": 8,
+      "TableName": "Realms",
+      "Id": "RussiaGA"
+    },
+    "Unk008": 13,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 9,
+    "Id": "London",
+    "Name": "歐洲－倫敦",
+    "Server": [
+      "lon01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "倫敦",
+    "Unk006": [
+      {
+        "RowIndex": 1,
+        "TableName": "Realms",
+        "Id": "Europe"
+      },
+      {
+        "RowIndex": 16,
+        "TableName": "Realms",
+        "Id": "Milan"
+      },
+      {
+        "RowIndex": 28429406446813299,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 1,
+      "TableName": "Realms",
+      "Id": "Europe"
+    },
+    "Unk008": 4,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "lon.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 10,
+    "Id": "Frankfurt",
+    "Name": "歐洲－法蘭克福",
+    "Server": [
+      "fra01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "德",
+    "Unk006": [
+      {
+        "RowIndex": 1,
+        "TableName": "Realms",
+        "Id": "Europe"
+      },
+      {
+        "RowIndex": 16,
+        "TableName": "Realms",
+        "Id": "Milan"
+      },
+      {
+        "RowIndex": 28429406446813299,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 1,
+      "TableName": "Realms",
+      "Id": "Europe"
+    },
+    "Unk008": 5,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "fra.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 11,
+    "Id": "WashingtonDC",
+    "Name": "美國－華盛頓特區",
+    "Server": [
+      "wdc01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "華盛頓特區",
+    "Unk006": [
+      {
+        "RowIndex": 0,
+        "TableName": "Realms",
+        "Id": "America"
+      },
+      {
+        "RowIndex": 12948274137006199,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 1,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "wdc.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 12,
+    "Id": "SanJose",
+    "Name": "美國－加州",
+    "Server": [
+      "sjc01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "加州",
+    "Unk006": [
+      {
+        "RowIndex": 0,
+        "TableName": "Realms",
+        "Id": "America"
+      },
+      {
+        "RowIndex": 12948274137399411,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 2,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "sjc.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 13,
+    "Id": "RussiaNO",
+    "Name": "俄羅斯 - 新西伯利亞",
+    "Server": [],
+    "IsEnabled": false,
+    "Server2": [],
+    "ShortName": "俄新西伯利亞",
+    "Unk006": [],
+    "Unk007": {
+      "RowIndex": 8,
+      "TableName": "Realms",
+      "Id": "RussiaGA"
+    },
+    "Unk008": 14,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 14,
+    "Id": "RussiaVL",
+    "Name": "俄羅斯 - 海參崴",
+    "Server": [],
+    "IsEnabled": false,
+    "Server2": [],
+    "ShortName": "俄海參崴",
+    "Unk006": [],
+    "Unk007": {
+      "RowIndex": 8,
+      "TableName": "Realms",
+      "Id": "RussiaGA"
+    },
+    "Unk008": 15,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 15,
+    "Id": "RussiaAL",
+    "Name": "俄羅斯 - 阿拉木圖",
+    "Server": [],
+    "IsEnabled": false,
+    "Server2": [],
+    "ShortName": "俄阿拉木圖",
+    "Unk006": [],
+    "Unk007": {
+      "RowIndex": 8,
+      "TableName": "Realms",
+      "Id": "RussiaGA"
+    },
+    "Unk008": 16,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Milan",
+    "Name": "歐洲－米蘭",
+    "Server": [
+      "mil01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "米蘭",
+    "Unk006": [
+      {
+        "RowIndex": 10,
+        "TableName": "Realms",
+        "Id": "Frankfurt"
+      },
+      {
+        "RowIndex": 9,
+        "TableName": "Realms",
+        "Id": "London"
+      },
+      {
+        "RowIndex": 28429406446813299,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 1,
+      "TableName": "Realms",
+      "Id": "Europe"
+    },
+    "Unk008": 6,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "mil.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Brazil",
+    "Name": "巴西 - 聖保羅",
+    "Server": [
+      "sao01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "巴西",
+    "Unk006": [
+      {
+        "RowIndex": 0,
+        "TableName": "Realms",
+        "Id": "America"
+      },
+      {
+        "RowIndex": 32369819897692258,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 17,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "br.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Paris",
+    "Name": "歐洲－巴黎",
+    "Server": [
+      "par01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "巴黎",
+    "Unk006": [
+      {
+        "RowIndex": 10,
+        "TableName": "Realms",
+        "Id": "Frankfurt"
+      },
+      {
+        "RowIndex": 9,
+        "TableName": "Realms",
+        "Id": "London"
+      },
+      {
+        "RowIndex": 28429406446813299,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 1,
+      "TableName": "Realms",
+      "Id": "Europe"
+    },
+    "Unk008": 18,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "par.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 19,
+    "Id": "Miami",
+    "Name": "美國 - 邁阿密",
+    "Server": [
+      "mia.login.pathofexile.com"
+    ],
+    "IsEnabled": false,
+    "Server2": [],
+    "ShortName": "",
+    "Unk006": [
+      {
+        "RowIndex": 0,
+        "TableName": "Realms",
+        "Id": "America"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 19,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "mia.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 20,
+    "Id": "Russia",
+    "Name": "俄羅斯 - 莫斯哥",
+    "Server": [
+      "mos01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "俄",
+    "Unk006": [
+      {
+        "RowIndex": 10,
+        "TableName": "Realms",
+        "Id": "Frankfurt"
+      },
+      {
+        "RowIndex": 9,
+        "TableName": "Realms",
+        "Id": "London"
+      },
+      {
+        "RowIndex": 28147931469381744,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 1,
+      "TableName": "Realms",
+      "Id": "Europe"
+    },
+    "Unk008": 20,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "mo.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 21,
+    "Id": "Aotearoa",
+    "Name": "紐西蘭 - 奧克蘭",
+    "Server": [
+      "akl01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "紐西蘭",
+    "Unk006": [
+      {
+        "RowIndex": 3,
+        "TableName": "Realms",
+        "Id": "Australia"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 21,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "nz.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 22,
+    "Id": "SingaporeGamma",
+    "Name": "新加坡",
+    "Server": [
+      "sg.gamma.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "新加坡",
+    "Unk006": [
+      {
+        "RowIndex": 23,
+        "TableName": "Realms",
+        "Id": "SanJoseGamma"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 100,
+    "IsGammaRealm": true,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 23,
+    "Id": "SanJoseGamma",
+    "Name": "美國-加州",
+    "Server": [
+      "sjc.gamma.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "加州",
+    "Unk006": [
+      {
+        "RowIndex": 22,
+        "TableName": "Realms",
+        "Id": "SingaporeGamma"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 101,
+    "IsGammaRealm": true,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 24,
+    "Id": "LondonGamma",
+    "Name": "歐洲-倫敦",
+    "Server": [
+      "lon.gamma.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "倫敦",
+    "Unk006": [
+      {
+        "RowIndex": 23,
+        "TableName": "Realms",
+        "Id": "SanJoseGamma"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 102,
+    "IsGammaRealm": true,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 25,
+    "Id": "AustraliaGamma",
+    "Name": "澳洲",
+    "Server": [
+      "au.gamma.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "澳",
+    "Unk006": [
+      {
+        "RowIndex": 23,
+        "TableName": "Realms",
+        "Id": "SanJoseGamma"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 103,
+    "IsGammaRealm": true,
+    "SpeedtestUrl": []
+  },
+  {
+    "RowIndex": 26,
+    "Id": "Japan",
+    "Name": "日本",
+    "Server": [
+      "tok01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "日",
+    "Unk006": [
+      {
+        "RowIndex": 2,
+        "TableName": "Realms",
+        "Id": "Singapore"
+      },
+      {
+        "RowIndex": 12,
+        "TableName": "Realms",
+        "Id": "SanJose"
+      },
+      {
+        "RowIndex": 32369819897561194,
+        "TableName": "Realms"
+      },
+      {
+        "RowIndex": 32651591226294388,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 22,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "jp.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 27,
+    "Id": "Korea",
+    "Name": "南韓",
+    "Server": [
+      "seo01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "南韓",
+    "Unk006": [
+      {
+        "RowIndex": 26,
+        "TableName": "Realms",
+        "Id": "Japan"
+      },
+      {
+        "RowIndex": 32369819897692267,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 27,
+      "TableName": "Realms",
+      "Id": "Korea"
+    },
+    "Unk008": 23,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "kr.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 28,
+    "Id": "Canada",
+    "Name": "加拿大（東部）",
+    "Server": [
+      "tor01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "多倫多",
+    "Unk006": [
+      {
+        "RowIndex": 11,
+        "TableName": "Realms",
+        "Id": "WashingtonDC"
+      },
+      {
+        "RowIndex": 12,
+        "TableName": "Realms",
+        "Id": "SanJose"
+      },
+      {
+        "RowIndex": 28429406446813299,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 24,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "tor.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 29,
+    "Id": "SouthAfrica",
+    "Name": "南非",
+    "Server": [
+      "zaf01.login.pathofexile.com"
+    ],
+    "IsEnabled": true,
+    "Server2": [],
+    "ShortName": "南非",
+    "Unk006": [
+      {
+        "RowIndex": 10,
+        "TableName": "Realms",
+        "Id": "Frankfurt"
+      },
+      {
+        "RowIndex": 12666812045000826,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 1,
+      "TableName": "Realms",
+      "Id": "Europe"
+    },
+    "Unk008": 25,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "zaf-m.speedtest.pathofexile.com"
+    ]
+  },
+  {
+    "RowIndex": 30,
+    "Id": "HongKong",
+    "Name": "香港",
+    "Server": [
+      "hkg01.login.pathofexile.com"
+    ],
+    "IsEnabled": false,
+    "Server2": [],
+    "ShortName": "香港",
+    "Unk006": [
+      {
+        "RowIndex": 26,
+        "TableName": "Realms",
+        "Id": "Japan"
+      },
+      {
+        "RowIndex": 12948291317334120,
+        "TableName": "Realms"
+      }
+    ],
+    "Unk007": {
+      "RowIndex": 0,
+      "TableName": "Realms",
+      "Id": "America"
+    },
+    "Unk008": 26,
+    "IsGammaRealm": false,
+    "SpeedtestUrl": [
+      "hkg.speedtest.pathofexile.com"
+    ]
+  }
+]

@@ -1,0 +1,1865 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "ReforgeFire",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftingfire>{fuego}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "fire ON rare",
+    "Unk005": [],
+    "HASH16": -23579,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de fuego",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ReforgeCold",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftingcold>{hielo}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "cold ON rare",
+    "Unk005": [],
+    "HASH16": -28242,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de hielo",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ReforgeLightning",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftinglightning>{rayo}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "lightning ON rare",
+    "Unk005": [],
+    "HASH16": 14935,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de rayo",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ReforgePhysical",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. <craftingphysical>{físico}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "physical ON rare",
+    "Unk005": [],
+    "HASH16": 28183,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. físico",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 50,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ReforgeLife",
+    "Text": "<white>{Reforja}un objeto raro con mods. aleatorios que incluyen un mod. de <craftinglife>{vida}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "life ON rare",
+    "Unk005": [],
+    "HASH16": 20366,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de vida",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ReforgeDefences",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftingdefences>{defensa}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "defences ON rare",
+    "Unk005": [],
+    "HASH16": 23252,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de defensa",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ReforgeChaos",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftingchaos>{caos}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "chaos ON rare",
+    "Unk005": [],
+    "HASH16": -98,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de caos",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 100,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ReforgeAttack",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftingattack>{ataque}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "attack ON rare",
+    "Unk005": [],
+    "HASH16": 32708,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de ataque",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 8,
+    "Id": "ReforgeSpell",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftingcaster>{lanzador de hechizos}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "caster ON rare",
+    "Unk005": [],
+    "HASH16": 23060,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de lanzador de hechizos",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 9,
+    "Id": "ReforgeSpeed",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftingspeed>{velocidad}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "speed ON rare",
+    "Unk005": [],
+    "HASH16": 21212,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de velocidad",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 150,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ReforgeCritical",
+    "Text": "<white>{Reforja} un objeto raro con mods. aleatorios que incluyen un mod. de <craftingcrit>{crítico}",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_mod",
+    "Parameters": "critical ON rare",
+    "Unk005": [],
+    "HASH16": 23575,
+    "Description": "Reforja un objeto raro con mods. aleatorios que incluyen un mod. de crítico",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 150,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ReforgeMoreLikely",
+    "Text": "<white>{Reforja} un objeto <white>{raro}, y es <white>{más probable} que reciba los mismos tipos de modificadores",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_current_tags_affinity_multiplier",
+    "Parameters": "900",
+    "Unk005": [],
+    "HASH16": -31724,
+    "Description": "Reforja un objeto raro, y es más probable que reciba los mismos tipos de modificadores",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 12,
+    "Id": "ReforgeLessLikely",
+    "Text": "<white>{Reforja} un objeto <white>{raro}, y es <white>{menos probable} que reciba los mismos tipos de modificadores",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_current_tags_affinity_multiplier",
+    "Parameters": "-90",
+    "Unk005": [],
+    "HASH16": -29703,
+    "Description": "Reforja un objeto raro, y es menos probable que reciba los mismos tipos de modificadores",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 13,
+    "Id": "RerollCorruptedMap",
+    "Text": "<white>{Sacrifica} un <white>{mapa corrupto} raro. Crea un nuevo mapa corrupto del mismo grado y rareza.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "sacrifice_corrupted_map_for_new_corrupted_map",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": 24110,
+    "Description": "Sacrifica un mapa corrupto raro. Crea un nuevo mapa corrupto del mismo grado y rareza.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 200,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 14,
+    "Id": "RerollFossils",
+    "Text": "<white>{Transforma} una pila de <white>{fósiles} en fósiles de un tipo diferente. El nuevo tipo de fósil puede tener un tamaño de pila más pequeño. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "delvefossils",
+    "Unk005": [],
+    "HASH16": 13053,
+    "Description": "Transforma una pila de fósiles en fósiles de un tipo diferente. El nuevo tipo de fósil puede tener un tamaño de pila más pequeño. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 15,
+    "Id": "RerollOils",
+    "Text": "<white>{Transforma} una pila de <white>{aceites} en aceites de un color diferente. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "mushrune",
+    "Unk005": [],
+    "HASH16": 28656,
+    "Description": "Transforma una pila de aceites en aceites de un color diferente. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 16,
+    "Id": "RerollCatalysts",
+    "Text": "<white>{Transforma} una pila de <white>{catalizadores} en catalizadores de un tipo diferente. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "metamorphcatalystsspecial",
+    "Unk005": [],
+    "HASH16": 2794,
+    "Description": "Transforma una pila de catalizadores en catalizadores de un tipo diferente. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 17,
+    "Id": "RerollEssences",
+    "Text": "<white>{Transforma} una pila de <white>{esencias} en esencias de un tipo diferente del mismo grado. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_essences_for_other_essence_of_same_tier",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": 15838,
+    "Description": "Transforma una pila de esencias en esencias de un tipo diferente del mismo grado. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 18,
+    "Id": "RerollTimelessSplinters",
+    "Text": "<white>{Transforma} una pila de <white>{Fragmentos atemporales} o un <white>{Emblema atemporal} en unos fragmentos o en un emblema de otro tipo. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestTimelessSplinterExchange HarvestTimelessEmblemExchange",
+    "Unk005": [],
+    "HASH16": 32762,
+    "Description": "Transforma una pila de Fragmentos atemporales o un Emblema atemporal en unos fragmentos o en un emblema de otro tipo. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 4,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 19,
+    "Id": "RerollBreachSplinters",
+    "Text": "<white>{Transforma} una pila de <white>{Astillas de fisura} o una <white>{Piedra de fisura} normal o perfecta en unas astillas o en una Piedra de fisura de otro tipo. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestBreachSplinterExchange HarvestBreachStoneExchange\r\nHarvestBreachStoneExchange5",
+    "Unk005": [],
+    "HASH16": -15939,
+    "Description": "Transforma una pila de Astillas de fisura o una Piedra de fisura normal o perfecta en unas astillas o en una Piedra de fisura de otro tipo. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 4,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 20,
+    "Id": "RerollScarabs",
+    "Text": "<white>{Transforma} una pila de <white>{escarabajos} en escarabajos de un tipo diferente de la misma rareza. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "change_scarab_into_other_of_same_tier",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -23124,
+    "Description": "Transforma una pila de escarabajos en escarabajos de un tipo diferente de la misma rareza. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 21,
+    "Id": "RerollDeliriumOrbs",
+    "Text": "<white>{Transforma} una pila de <white>{Orbes de delirio} en un tipo diferente de Orbes de delirio. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "afflictionorbs",
+    "Unk005": [],
+    "HASH16": 32501,
+    "Description": "Transforma una pila de Orbes de delirio en un tipo diferente de Orbes de delirio. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 30,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 22,
+    "Id": "RerollDivinationCards",
+    "Text": "<white>{Transforma} una <white>{carta de adivinación} en otra carta de adivinación aleatoria",
+    "Tier": {
+      "RowIndex": 0,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_into_new_div_card",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -31678,
+    "Description": "Transforma una carta de adivinación en otra carta de adivinación aleatoria",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 75,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 23,
+    "Id": "ChangeColdToFireResist",
+    "Text": "<white>{Transforma} un mod. que otorga resistencia al <craftingcold>{hielo} en un mod. de grado similar que otorga resistencia al <craftingfire>{fuego}",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold fire",
+    "Unk005": [],
+    "HASH16": -27935,
+    "Description": "Transforma un mod. que otorga resistencia al hielo en un mod. de grado similar que otorga resistencia al fuego",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 24,
+    "Id": "ChangeLightningToFireResist",
+    "Text": "<white>{Transforma} un mod. que otorga resistencia al <craftinglightning>{rayo} en un mod. de grado similar que otorga resistencia al <craftingfire>{fuego}",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning fire",
+    "Unk005": [],
+    "HASH16": -10882,
+    "Description": "Transforma un mod. que otorga resistencia al rayo en un mod. de grado similar que otorga resistencia al fuego",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 25,
+    "Id": "ChangeFireToColdResist",
+    "Text": "<white>{Transforma} un mod. que otorga resistencia al <craftingfire>{fuego} en un mod. de grado similar que otorga resistencia al <craftingcold>{hielo}",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire cold",
+    "Unk005": [],
+    "HASH16": 15550,
+    "Description": "Transforma un mod. que otorga resistencia al fuego en un mod. de grado similar que otorga resistencia al hielo",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 26,
+    "Id": "ChangeLightningToColdResist",
+    "Text": "<white>{Transforma} un mod. que otorga resistencia al <craftinglightning>{rayo} en un mod. de grado similar que otorga resistencia al <craftingcold>{hielo}",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning cold",
+    "Unk005": [],
+    "HASH16": 27983,
+    "Description": "Transforma un mod. que otorga resistencia al rayo en un mod. de grado similar que otorga resistencia al hielo",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 27,
+    "Id": "ChangeFireToLightningResist",
+    "Text": "<white>{Transforma} un mod. que otorga resistencia al <craftingfire>{fuego} en un mod. de grado similar que otorga resistencia al <craftinglightning>{rayo}",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire lightning",
+    "Unk005": [],
+    "HASH16": 5400,
+    "Description": "Transforma un mod. que otorga resistencia al fuego en un mod. de grado similar que otorga resistencia al rayo",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ChangeColdToLightningResist",
+    "Text": "<white>{Transforma} un mod. que otorga resistencia al <craftingcold>{hielo} en un mod. de grado similar que otorga resistencia al <craftinglightning>{rayo}",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "convert_mod",
+    "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold lightning",
+    "Unk005": [],
+    "HASH16": 25638,
+    "Description": "Transforma un mod. que otorga resistencia al hielo en un mod. de grado similar que otorga resistencia al rayo",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 29,
+    "Id": "FlaskDurationEnchant",
+    "Text": "<white>{Encanta} un <white>{frasco} con un modificador que otorga <enchanted>{duración aumentada}. La magnitud de este efecto disminuye con cada uso",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentDurationLoweredOnUse1_",
+    "Unk005": [],
+    "HASH16": -252,
+    "Description": "Encanta un frasco con un modificador que otorga duración aumentada. La magnitud de este efecto disminuye con cada uso",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 30,
+    "Id": "FlaskChargeEnchant",
+    "Text": "<white>{Encanta} un <white>{frasco} con un modificador que otorga <enchanted>{cargas máximas aumentadas}. La magnitud de este efecto disminuye con cada uso",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentMaximumChargesLoweredOnUse3_",
+    "Unk005": [],
+    "HASH16": -5223,
+    "Description": "Encanta un frasco con un modificador que otorga cargas máximas aumentadas. La magnitud de este efecto disminuye con cada uso",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 31,
+    "Id": "FlaskEffectEnchant",
+    "Text": "<white>{Encanta} un <white>{frasco} con un modificador que otorga <enchanted>{efecto aumentado}. La magnitud de este efecto disminuye con cada uso",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentEffectLoweredOnUse2",
+    "Unk005": [],
+    "HASH16": 10125,
+    "Description": "Encanta un frasco con un modificador que otorga efecto aumentado. La magnitud de este efecto disminuye con cada uso",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 32,
+    "Id": "FlaskReducedEnchant",
+    "Text": "<white>{Encanta} un <white>{frasco} con un modificador que otorga <enchanted>{cargas usadas reducidas}. La magnitud de este efecto disminuye con cada uso",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_flask",
+    "Parameters": "HarvestFlaskEnchantmentChargesUsedLoweredOnUse4",
+    "Unk005": [],
+    "HASH16": -4863,
+    "Description": "Encanta un frasco con un modificador que otorga cargas usadas reducidas. La magnitud de este efecto disminuye con cada uso",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 800,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 33,
+    "Id": "RerollShaperFragment",
+    "Text": "<white>{Transforma} una pila de <white>{Fragmentos del Creador} en otros Fragmentos del Creador aleatorios. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestShaperFragmentExchange",
+    "Unk005": [],
+    "HASH16": -10216,
+    "Description": "Transforma un Fragmento del Creador en otro Fragmento del Creador aleatorio. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 34,
+    "Id": "RerollElderFragment",
+    "Text": "<white>{Transforma} una pila de <white>{Fragmentos del Antiguo} en otros Fragmentos del Antiguo aleatorios. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestElderFragmentExchange",
+    "Unk005": [],
+    "HASH16": 23189,
+    "Description": "Transforma un Fragmento del Antiguo en otro Fragmento del Antiguo aleatorio. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 35,
+    "Id": "RerollConquerorFragment",
+    "Text": "<white>{Transforma} una pila de <white>{Fragmentos de Conquistador} en otros Fragmentos de Conquistador aleatorios. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestConquerorFragmentExchange",
+    "Unk005": [],
+    "HASH16": -5205,
+    "Description": "Transforma un Fragmento de Conquistador en otro Fragmento de Conquistador aleatorio. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 36,
+    "Id": "RerollAtziriFragment",
+    "Text": "<white>{Transforma} una pila de <white>{Fragmentos mortales} o de <white>{sacrificio} en otros fragmentos aleatorios del mismo tipo. El costo es proporcional al tamaño de la pila.",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "exchange_item_in_set_for_other_item_in_set",
+    "Parameters": "HarvestSacrificeFragmentExchange HarvestMortalSacrificeFragmentExchange",
+    "Unk005": [],
+    "HASH16": -20408,
+    "Description": "Transforma un Fragmento mortal o de sacrificio en otro fragmento aleatorio del mismo tipo. El costo es proporcional al tamaño de la pila.",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 500,
+    "SacredCost": 0,
+    "Unk012": true,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 37,
+    "Id": "DivinationCardGamble",
+    "Text": "<white>{Sacrifica} hasta la mitad de una pila de <white>{cartas de adivinación} para recibir entre 0 y el doble de esa cantidad de la misma carta",
+    "Tier": {
+      "RowIndex": 1,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_num_div_cards",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -25855,
+    "Description": "Sacrifica hasta la mitad de una pila de cartas de adivinación para recibir entre 0 y el doble de esa cantidad de la misma carta",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 1500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 38,
+    "Id": "MapNoSextantEnchant",
+    "Text": "<white>{Encanta} un <white>{mapa} que no sea único con <enchanted>{El mapa tiene un 50% de probabilidad de no consumir usos de sextantes}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_mod_to_map",
+    "Parameters": "sextant",
+    "Unk005": [],
+    "HASH16": -25153,
+    "Description": "Encanta un mapa que no sea único con El mapa tiene un 50% de probabilidad de no consumir usos de sextantes",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 2500,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 39,
+    "Id": "GemExperienceLens",
+    "Text": "<white>{Sacrifica} una <white>{gema corrupta} para ganar el 50% de la experiencia total almacenada en la gema como una <white>{Lente del facetador}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "sacrifice_gem_for_currency",
+    "Parameters": "experience 50",
+    "Unk005": [],
+    "HASH16": 10753,
+    "Description": "Sacrifica una gema corrupta para ganar el 50% de la experiencia total almacenada en la gema como una Lente del facetador",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 4000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 40,
+    "Id": "RerollInfluenceType",
+    "Text": "<white>{Aleatoriza} los tipos de <white>{influencia} de un <white>{objeto} influenciado normal, mágico o raro, y también <white>{reforja} el objeto con nuevos modificadores aleatorios",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_influence_types",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre Quiver Gloves Boots Body_Armour Helmet Shield Amulet Ring Belt",
+    "Unk005": [],
+    "HASH16": -21746,
+    "Description": "Aleatoriza los tipos de influencia de un objeto influenciado normal, mágico o raro, y también reforja el objeto con nuevos modificadores aleatorios",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 1000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 41,
+    "Id": "LifeBodyEnchant",
+    "Text": "<white>{Encanta} una <white>{armadura}. La calidad no aumenta sus defensas, otorga <enchanted>{+1 a la vida máxima por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedLife",
+    "Unk005": [],
+    "HASH16": 17730,
+    "Description": "Encanta una armadura. La calidad no aumenta sus defensas, otorga +1 a la vida máxima por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 42,
+    "Id": "ManaBodyEnchant",
+    "Text": "<white>{Encanta} una <white>{armadura}. La calidad no aumenta sus defensas, otorga <enchanted>{+1 al maná máximo por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedMana",
+    "Unk005": [],
+    "HASH16": 21682,
+    "Description": "Encanta una armadura. La calidad no aumenta sus defensas, otorga +1 al maná máximo por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 43,
+    "Id": "StrengthBodyEnchant",
+    "Text": "<white>{Encanta} una <white>{armadura}. La calidad no aumenta sus defensas, otorga <enchanted>{+1 a la fuerza por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityStrength",
+    "Unk005": [],
+    "HASH16": 14593,
+    "Description": "Encanta una armadura. La calidad no aumenta sus defensas, otorga +1 a la fuerza por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 44,
+    "Id": "DexterityBodyEnchant",
+    "Text": "<white>{Encanta} una <white>{armadura}. La calidad no aumenta sus defensas, otorga <enchanted>{+1 a la destreza por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityDexterity",
+    "Unk005": [],
+    "HASH16": -29172,
+    "Description": "Encanta una armadura. La calidad no aumenta sus defensas, otorga +1 a la destreza por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 45,
+    "Id": "IntelligenceBodyEnchant",
+    "Text": "<white>{Encanta} una <white>{armadura}. La calidad no aumenta sus defensas, otorga <enchanted>{+1 a la inteligencia por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIntelligence_",
+    "Unk005": [],
+    "HASH16": 23036,
+    "Description": "Encanta una armadura. La calidad no aumenta sus defensas, otorga +1 a la inteligencia por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 46,
+    "Id": "FireResistBodyEnchant",
+    "Text": "<white>{Encanta} una <white>{armadura}. La calidad no aumenta sus defensas, otorga un <enchanted>{+1% a la resistencia al fuego por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityFireResistance",
+    "Unk005": [],
+    "HASH16": 21330,
+    "Description": "Encanta una armadura. La calidad no aumenta sus defensas, otorga +1% a la resistencia al fuego por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 47,
+    "Id": "ColdResistBodyEnchant",
+    "Text": "<white>{Encanta} una <white>{armadura}. La calidad no aumenta sus defensas, otorga un <enchanted>{+1% a la resistencia al hielo por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityColdResistance",
+    "Unk005": [],
+    "HASH16": -976,
+    "Description": "Encanta una armadura. La calidad no aumenta sus defensas, otorga +1% a la resistencia al hielo por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 48,
+    "Id": "LightningResistBodyEnchant",
+    "Text": "<white>{Encanta} una <white>{armadura}. La calidad no aumenta sus defensas, otorga un <enchanted>{+1% a la resistencia al rayo por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityLightningResistance",
+    "Unk005": [],
+    "HASH16": 17121,
+    "Description": "Encanta una armadura. La calidad no aumenta sus defensas, otorga +1% a la resistencia al rayo por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 3250,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 49,
+    "Id": "WeaponRangeEnchant",
+    "Text": "<white>{Encanta} un <white>{arma cuerpo a cuerpo}. La calidad no aumenta su daño físico, tiene <enchanted>{+1 al alcance del arma por cada 10% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalMeleeWeaponRange_",
+    "Unk005": [],
+    "HASH16": -21229,
+    "Description": "Encanta un arma cuerpo a cuerpo. La calidad no aumenta su daño físico, tiene +1 al alcance del arma por cada 10% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 50,
+    "Id": "WeaponAreaEnchant",
+    "Text": "<white>{Encanta} un <white>{arma}. La calidad no aumenta su daño físico, otorga <enchanted>{área de efecto aumentada un 1% por cada 4% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAreaOfEffect_",
+    "Unk005": [],
+    "HASH16": 8767,
+    "Description": "Encanta un arma. La calidad no aumenta su daño físico, otorga área de efecto aumentada un 1% por cada 4% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 1,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WeaponAccuracyEnchant",
+    "Text": "<white>{Encanta} un <white>{arma}. La calidad no aumenta su daño físico, otorga <enchanted>{precisión aumentada un 1% por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAccuracyRatingIncrease_",
+    "Unk005": [],
+    "HASH16": -6758,
+    "Description": "Encanta un arma. La calidad no aumenta su daño físico, otorga precisión aumentada un 1% por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 52,
+    "Id": "WeaponAttackSpeedEnchant",
+    "Text": "<white>{Encanta} un <white>{arma}. La calidad no aumenta su daño físico, tiene <enchanted>{velocidad de ataque aumentada un 1% por cada 8% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalIncreasedAttackSpeed",
+    "Unk005": [],
+    "HASH16": -11016,
+    "Description": "Encanta un arma. La calidad no aumenta su daño físico, tiene velocidad de ataque aumentada un 1% por cada 8% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 53,
+    "Id": "WeaponCriticalEnchant",
+    "Text": "<white>{Encanta} un <white>{arma}. La calidad no aumenta su daño físico, tiene <enchanted>{probabilidad de golpe crítico aumentada un 1% por cada 4% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalCriticalStrikeChance__",
+    "Unk005": [],
+    "HASH16": 22104,
+    "Description": "Encanta un arma. La calidad no aumenta su daño físico, tiene probabilidad de golpe crítico aumentada un 1% por cada 4% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 54,
+    "Id": "WeaponElementalEnchant",
+    "Text": "<white>{Encanta} un <white>{arma}. La calidad no aumenta su daño físico, otorga <enchanted>{daño elemental aumentado un 1% por cada 2% de calidad}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_enchant_to_class",
+    "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityElementalDamagePercent",
+    "Unk005": [],
+    "HASH16": -13278,
+    "Description": "Encanta un arma. La calidad no aumenta su daño físico, otorga daño elemental aumentado un 1% por cada 2% de calidad",
+    "IsEnchant": true,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 0,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 55,
+    "Id": "ReforgeWhiteSocket",
+    "Text": "<white>{Reforja} el color de un <white>{engarce} aleatorio de un objeto y lo vuelve <white>{blanco}",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "modify_socket_colors",
+    "Parameters": "W",
+    "Unk005": [],
+    "HASH16": 29639,
+    "Description": "Reforja el color de un engarce aleatorio de un objeto y lo vuelve blanco",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 12500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 56,
+    "Id": "AugmentFire",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftingfire>{fuego} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR fire noinfluence",
+    "Unk005": [],
+    "HASH16": 18538,
+    "Description": "Agrega un nuevo modificador de fuego y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AugmentCold",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftingcold>{hielo} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR cold noinfluence",
+    "Unk005": [],
+    "HASH16": 5398,
+    "Description": "Agrega un nuevo modificador de hielo y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 58,
+    "Id": "AugmentLightning",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftinglightning>{rayo} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR lightning noinfluence",
+    "Unk005": [],
+    "HASH16": -31624,
+    "Description": "Agrega un nuevo modificador de rayo y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 59,
+    "Id": "AugmentPhysical",
+    "Text": "<white>{Agrega} un nuevo modificador <craftingphysical>{físico} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR physical noinfluence",
+    "Unk005": [],
+    "HASH16": 30284,
+    "Description": "Agrega un nuevo modificador físico y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 15000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 60,
+    "Id": "AugmentLife",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftinglife>{vida} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR life noinfluence",
+    "Unk005": [],
+    "HASH16": 20827,
+    "Description": "Agrega un nuevo modificador de vida y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 61,
+    "Id": "AugmentDefences",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftingdefences>{defensa} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR defences noinfluence",
+    "Unk005": [],
+    "HASH16": -25086,
+    "Description": "Agrega un nuevo modificador de defensa y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 62,
+    "Id": "AugmentChaos",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftingchaos>{caos} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR chaos noinfluence",
+    "Unk005": [],
+    "HASH16": 16260,
+    "Description": "Agrega un nuevo modificador de caos y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 63,
+    "Id": "AugmentAttack",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftingattack>{ataque} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR attack noinfluence",
+    "Unk005": [],
+    "HASH16": -9969,
+    "Description": "Agrega un nuevo modificador de ataque y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 1,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 64,
+    "Id": "AugmentSpell",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftingcaster>{lanzador de hechizos} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR caster noinfluence",
+    "Unk005": [],
+    "HASH16": -8685,
+    "Description": "Agrega un nuevo modificador de lanzador de hechizos y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 17500,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 65,
+    "Id": "AugmentSpeed",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftingspeed>{velocidad} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR speed noinfluence",
+    "Unk005": [],
+    "HASH16": -8802,
+    "Description": "Agrega un nuevo modificador de velocidad y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 20000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 66,
+    "Id": "AugmentCritical",
+    "Text": "<white>{Agrega} un nuevo modificador de <craftingcrit>{crítico} y <white>{elimina} otro modificador aleatorio de un objeto no influenciado",
+    "Tier": {
+      "RowIndex": 2,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "remove_type_and_add_type_mod",
+    "Parameters": "ANY FOR critical noinfluence",
+    "Unk005": [],
+    "HASH16": 22594,
+    "Description": "Agrega un nuevo modificador de crítico y elimina otro modificador aleatorio de un objeto no influenciado",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 20000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 0
+  },
+  {
+    "RowIndex": 67,
+    "Id": "BossSynthesis1",
+    "Text": "<white>{Sintetiza} un objeto y le da implícitos sintetizados aleatorios. No se puede usar en objetos únicos, influenciados, sintetizados ni fracturados",
+    "Tier": {
+      "RowIndex": 3,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "add_synthesized_implicits",
+    "Parameters": "12 3 1",
+    "Unk005": [],
+    "HASH16": -9469,
+    "Description": "Sintetiza un objeto y le da implícitos sintetizados aleatorios. No se puede usar en objetos únicos, influenciados, sintetizados ni fracturados",
+    "IsEnchant": false,
+    "LifeforceType": 2,
+    "LifeforceCost": 5000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  },
+  {
+    "RowIndex": 68,
+    "Id": "BossInfluence1",
+    "Text": "<white>{Reforja} un objeto raro <white>{influenciado} con mods. aleatorios que incluyen un mod. de <white>{influencia}",
+    "Tier": {
+      "RowIndex": 3,
+      "TableName": "HarvestCraftTiers"
+    },
+    "Command": "reroll_with_influence_mod",
+    "Parameters": "",
+    "Unk005": [],
+    "HASH16": -30265,
+    "Description": "Reforja un objeto raro influenciado con mods. aleatorios que incluyen un mod. de influencia",
+    "IsEnchant": false,
+    "LifeforceType": 3,
+    "LifeforceCost": 5000,
+    "SacredCost": 1,
+    "Unk012": false,
+    "Achievements": [
+      {
+        "RowIndex": 9193,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleCompleteHarvestEncounters1_2"
+      }
+    ],
+    "Unk014": 1
+  }
+]

@@ -1,0 +1,1162 @@
+[
+  {
+    "RowIndex": 0,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 16,
+      "TableName": "BetrayalTargets",
+      "Id": "Aisling"
+    },
+    "Rank": 1,
+    "Description": "Добавить завуалированное свойство на редкий предмет",
+    "ServerCommand": "add_veiled_mods 0",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 1,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 16,
+      "TableName": "BetrayalTargets",
+      "Id": "Aisling"
+    },
+    "Rank": 2,
+    "Description": "Добавить завуалированное свойство на редкий предмет с небольшим шансом добавления второго завуалированного свойства",
+    "ServerCommand": "add_veiled_mods 5",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 2,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 16,
+      "TableName": "BetrayalTargets",
+      "Id": "Aisling"
+    },
+    "Rank": 3,
+    "Description": "Добавить завуалированное свойство на редкий предмет с шансом добавления второго завуалированного свойства",
+    "ServerCommand": "add_veiled_mods 15",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 3,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 16,
+      "TableName": "BetrayalTargets",
+      "Id": "Aisling"
+    },
+    "Rank": 4,
+    "Description": "Заменить случайное свойство на редком предмете на завуалированное ",
+    "ServerCommand": "replace_mod_with_veiled_mod",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 4,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 11,
+      "TableName": "BetrayalTargets",
+      "Id": "Gravicius"
+    },
+    "Rank": 1,
+    "Description": "Обменять гадальную карту на случайную новую",
+    "ServerCommand": "swap_divination_card BetrayalDivCardSwap1",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 5,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 11,
+      "TableName": "BetrayalTargets",
+      "Id": "Gravicius"
+    },
+    "Rank": 2,
+    "Description": "Обменять гадальную карту на случайную новую",
+    "ServerCommand": "swap_divination_card BetrayalDivCardSwap2",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 6,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 11,
+      "TableName": "BetrayalTargets",
+      "Id": "Gravicius"
+    },
+    "Rank": 3,
+    "Description": "Обменять гадальную карту на случайную новую",
+    "ServerCommand": "swap_divination_card BetrayalDivCardSwap3",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 7,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 11,
+      "TableName": "BetrayalTargets",
+      "Id": "Gravicius"
+    },
+    "Rank": 4,
+    "Description": "Обменять гадальную карту на случайную новую",
+    "ServerCommand": "swap_divination_card BetrayalDivCardSwap3",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 8,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs",
+      "Id": "Assassin"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 1,
+    "Description": "Улучшить качество карты до 25%",
+    "ServerCommand": "set_quality map 25",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 9,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs",
+      "Id": "Assassin"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 2,
+    "Description": "Улучшить качество карты до 30%",
+    "ServerCommand": "set_quality map 30",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 10,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs",
+      "Id": "Assassin"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 3,
+    "Description": "Улучшить качество карты до 35%",
+    "ServerCommand": "set_quality map 35",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 11,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs",
+      "Id": "Assassin"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 4,
+    "Description": "Улучшить качество карты до 35%",
+    "ServerCommand": "set_quality map 35",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 12,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 1,
+    "Description": "Улучшить качество доспеха до 24%",
+    "ServerCommand": "set_quality armour 24",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 13,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 2,
+    "Description": "Улучшить качество доспеха до 26%",
+    "ServerCommand": "set_quality armour 26",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 14,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 3,
+    "Description": "Улучшить качество доспеха до 28%",
+    "ServerCommand": "set_quality armour 28",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 15,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 4,
+    "Description": "Улучшить качество доспеха до 30%",
+    "ServerCommand": "set_quality armour 30",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 16,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 1,
+    "Description": "Улучшить качество оружия до 24%",
+    "ServerCommand": "set_quality weapon 24",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 17,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 2,
+    "Description": "Улучшить качество оружия до 26%",
+    "ServerCommand": "set_quality weapon 26",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 18,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 3,
+    "Description": "Улучшить качество оружия до 28%",
+    "ServerCommand": "set_quality weapon 28",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 19,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 4,
+    "Description": "Улучшить качество оружия до 30%",
+    "ServerCommand": "set_quality weapon 30",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 20,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 1,
+    "Description": "Улучшить качество флакона до 22%",
+    "ServerCommand": "set_quality flask 22",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 21,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 2,
+    "Description": "Улучшить качество флакона до 24%",
+    "ServerCommand": "set_quality flask 24",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 22,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 3,
+    "Description": "Улучшить качество флакона до 26%",
+    "ServerCommand": "set_quality flask 26",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 23,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 6,
+      "TableName": "BetrayalTargets",
+      "Id": "Hillock"
+    },
+    "Rank": 4,
+    "Description": "Улучшить качество флакона до 28%",
+    "ServerCommand": "set_quality flask 28",
+    "Unk005": [],
+    "Description2": "",
+    "ServerCommand2": ""
+  },
+  {
+    "RowIndex": 24,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 7,
+      "TableName": "BetrayalTargets",
+      "Id": "Leo"
+    },
+    "Rank": 1,
+    "Description": "Перековать цвета гнёзд на предмете 50 раз. Итоговым становится результат с наибольшим количеством менее свойственных цветов гнёзд",
+    "ServerCommand": "modify_sockets_N_times 50 colours",
+    "Unk005": [],
+    "Description2": "Улучшить качество флакона до 22%",
+    "ServerCommand2": "set_quality flask 22"
+  },
+  {
+    "RowIndex": 25,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 7,
+      "TableName": "BetrayalTargets",
+      "Id": "Leo"
+    },
+    "Rank": 2,
+    "Description": "Перековать количество гнёзд на предмете 50 раз. Итоговым становится результат с наибольшим количеством гнёзд",
+    "ServerCommand": "modify_sockets_N_times 50 sockets",
+    "Unk005": [],
+    "Description2": "Улучшить качество флакона до 24%",
+    "ServerCommand2": "set_quality flask 24"
+  },
+  {
+    "RowIndex": 26,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 7,
+      "TableName": "BetrayalTargets",
+      "Id": "Leo"
+    },
+    "Rank": 3,
+    "Description": "Перековать количество связей между гнёздами на предмете 50 раз. Итоговым становится результат с наибольшим количеством связей между гнёздами",
+    "ServerCommand": "modify_sockets_N_times 50 links",
+    "Unk005": [],
+    "Description2": "Улучшить качество флакона до 26%",
+    "ServerCommand2": "set_quality flask 26"
+  },
+  {
+    "RowIndex": 27,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 7,
+      "TableName": "BetrayalTargets",
+      "Id": "Leo"
+    },
+    "Rank": 4,
+    "Description": "Перековать количество связей между гнёздами на предмете 50 раз. Итоговым становится результат с наибольшим количеством связей между гнёздами",
+    "ServerCommand": "modify_sockets_N_times 50 links",
+    "Unk005": [],
+    "Description2": "Улучшить качество флакона до 28%",
+    "ServerCommand2": "set_quality flask 28"
+  },
+  {
+    "RowIndex": 28,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 12,
+      "TableName": "BetrayalTargets",
+      "Id": "Jorgin"
+    },
+    "Rank": 1,
+    "Description": "Превратить неуникальный амулет в талисман 1 уровня",
+    "ServerCommand": "transform_into_talisman 1",
+    "Unk005": [
+      {
+        "RowIndex": 8349,
+        "TableName": null
+      }
+    ],
+    "Description2": "Превратить неуникальный амулет в талисман 1 уровня",
+    "ServerCommand2": "transform_into_talisman 1"
+  },
+  {
+    "RowIndex": 29,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 12,
+      "TableName": "BetrayalTargets",
+      "Id": "Jorgin"
+    },
+    "Rank": 2,
+    "Description": "Превратить неуникальный амулет в талисман 2 уровня",
+    "ServerCommand": "transform_into_talisman 2",
+    "Unk005": [
+      {
+        "RowIndex": 8349,
+        "TableName": null
+      }
+    ],
+    "Description2": "Превратить неуникальный амулет в талисман 2 уровня",
+    "ServerCommand2": "transform_into_talisman 2"
+  },
+  {
+    "RowIndex": 30,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 12,
+      "TableName": "BetrayalTargets",
+      "Id": "Jorgin"
+    },
+    "Rank": 3,
+    "Description": "Превратить неуникальный амулет в талисман 3 уровня",
+    "ServerCommand": "transform_into_talisman 3",
+    "Unk005": [
+      {
+        "RowIndex": 8349,
+        "TableName": null
+      }
+    ],
+    "Description2": "Превратить неуникальный амулет в талисман 3 уровня",
+    "ServerCommand2": "transform_into_talisman 3"
+  },
+  {
+    "RowIndex": 31,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 12,
+      "TableName": "BetrayalTargets",
+      "Id": "Jorgin"
+    },
+    "Rank": 4,
+    "Description": "Превратить неуникальный амулет в талисман 3 уровня",
+    "ServerCommand": "transform_into_talisman 3",
+    "Unk005": [
+      {
+        "RowIndex": 8349,
+        "TableName": null
+      }
+    ],
+    "Description2": "Превратить неуникальный амулет в талисман 3 уровня",
+    "ServerCommand2": "transform_into_talisman 3"
+  },
+  {
+    "RowIndex": 32,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalTargets",
+      "Id": "Tora"
+    },
+    "Rank": 1,
+    "Description": "Добавить 20 миллионов опыта камню",
+    "ServerCommand": "add_gem_experience 20000000",
+    "Unk005": [],
+    "Description2": "Добавить 10 миллионов опыта камню",
+    "ServerCommand2": "add_gem_experience 10000000"
+  },
+  {
+    "RowIndex": 33,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalTargets",
+      "Id": "Tora"
+    },
+    "Rank": 2,
+    "Description": "Добавить 70 миллионов опыта камню",
+    "ServerCommand": "add_gem_experience 70000000",
+    "Unk005": [],
+    "Description2": "Добавить 35 миллионов опыта камню",
+    "ServerCommand2": "add_gem_experience 35000000"
+  },
+  {
+    "RowIndex": 34,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalTargets",
+      "Id": "Tora"
+    },
+    "Rank": 3,
+    "Description": "Добавить 200 миллионов опыта камню",
+    "ServerCommand": "add_gem_experience 200000000",
+    "Unk005": [],
+    "Description2": "Добавить 70 миллионов опыта камню",
+    "ServerCommand2": "add_gem_experience 70000000"
+  },
+  {
+    "RowIndex": 35,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalTargets",
+      "Id": "Tora"
+    },
+    "Rank": 4,
+    "Description": "Добавить 200 миллионов опыта камню",
+    "ServerCommand": "add_gem_experience 200000000",
+    "Unk005": [],
+    "Description2": "Добавить 150 миллионов опыта камню",
+    "ServerCommand2": "add_gem_experience 150000000"
+  },
+  {
+    "RowIndex": 36,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 1,
+    "Description": "Изменить предмет, перекрасив 1 гнездо в белый цвет",
+    "ServerCommand": "roll_white_sockets 0",
+    "Unk005": [],
+    "Description2": "Перековать количество связей между гнёздами на предмете 10 раз. Итоговым становится результат с наибольшим количеством связей между гнёздами",
+    "ServerCommand2": "modify_sockets_N_times 10 links"
+  },
+  {
+    "RowIndex": 37,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 2,
+    "Description": "Изменить предмет, перекрасив 1-2 гнезда в белый цвет",
+    "ServerCommand": "roll_white_sockets 1",
+    "Unk005": [],
+    "Description2": "Перековать количество связей между гнёздами на предмете 15 раз. Итоговым становится результат с наибольшим количеством связей между гнёздами",
+    "ServerCommand2": "modify_sockets_N_times 15 links"
+  },
+  {
+    "RowIndex": 38,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 3,
+    "Description": "Изменить предмет, перекрасив 1-3 гнезда в белый цвет",
+    "ServerCommand": "roll_white_sockets 2",
+    "Unk005": [],
+    "Description2": "Перековать количество связей между гнёздами на предмете 20 раз. Итоговым становится результат с наибольшим количеством связей между гнёздами",
+    "ServerCommand2": "modify_sockets_N_times 20 links"
+  },
+  {
+    "RowIndex": 39,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 4,
+    "Description": "Изменить предмет, перекрасив 1-6 гнёзд в белый цвет",
+    "ServerCommand": "roll_white_sockets 5",
+    "Unk005": [],
+    "Description2": "Перековать количество связей между гнёздами на предмете 30 раз. Итоговым становится результат с наибольшим количеством связей между гнёздами",
+    "ServerCommand2": "modify_sockets_N_times 30 links"
+  },
+  {
+    "RowIndex": 40,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 1,
+    "Description": "Перековать цвета гнёзд на предмете 50 раз. Итоговым становится результат с наибольшим количеством менее свойственных цветов гнёзд",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Перековать цвета гнёзд на предмете 10 раз. Итоговым становится результат с наибольшим количеством менее свойственных цветов гнёзд",
+    "ServerCommand2": "modify_sockets_N_times 10 colours"
+  },
+  {
+    "RowIndex": 41,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 2,
+    "Description": "Перековать количество гнёзд на предмете 50 раз. Итоговым становится результат с наибольшим количеством гнёзд",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Перековать цвета гнёзд на предмете 20 раз. Итоговым становится результат с наибольшим количеством менее свойственных цветов гнёзд",
+    "ServerCommand2": "modify_sockets_N_times 20 colours"
+  },
+  {
+    "RowIndex": 42,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 3,
+    "Description": "Перековать количество связей между гнёздами на предмете 50 раз. Итоговым становится результат с наибольшим количеством связей между гнёздами",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Перековать цвета гнёзд на предмете 30 раз. Итоговым становится результат с наибольшим количеством менее свойственных цветов гнёзд",
+    "ServerCommand2": "modify_sockets_N_times 30 colours"
+  },
+  {
+    "RowIndex": 43,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 4,
+    "Description": "Перековать количество связей между гнёздами на предмете 50 раз. Итоговым становится результат с наибольшим количеством связей между гнёздами",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Перековать цвета гнёзд на предмете 40 раз. Итоговым становится результат с наибольшим количеством менее свойственных цветов гнёзд",
+    "ServerCommand2": "modify_sockets_N_times 40 colours"
+  },
+  {
+    "RowIndex": 44,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Перековать количество гнёзд на предмете 10 раз. Итоговым становится результат с наибольшим количеством гнёзд",
+    "ServerCommand2": "modify_sockets_N_times 10 sockets"
+  },
+  {
+    "RowIndex": 45,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Перековать количество гнёзд на предмете 20 раз. Итоговым становится результат с наибольшим количеством гнёзд",
+    "ServerCommand2": "modify_sockets_N_times 20 sockets"
+  },
+  {
+    "RowIndex": 46,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Перековать количество гнёзд на предмете 30 раз. Итоговым становится результат с наибольшим количеством гнёзд",
+    "ServerCommand2": "modify_sockets_N_times 30 sockets"
+  },
+  {
+    "RowIndex": 47,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 5,
+      "TableName": "BetrayalTargets",
+      "Id": "Vorici"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Перековать количество гнёзд на предмете 40 раз. Итоговым становится результат с наибольшим количеством гнёзд",
+    "ServerCommand2": "modify_sockets_N_times 40 sockets"
+  },
+  {
+    "RowIndex": 48,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalTargets",
+      "Id": "Haku"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество доспеха до 22%",
+    "ServerCommand2": "set_quality armour 22"
+  },
+  {
+    "RowIndex": 49,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalTargets",
+      "Id": "Haku"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество доспеха до 24%",
+    "ServerCommand2": "set_quality armour 24"
+  },
+  {
+    "RowIndex": 50,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalTargets",
+      "Id": "Haku"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество доспеха до 26%",
+    "ServerCommand2": "set_quality armour 26"
+  },
+  {
+    "RowIndex": 51,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalTargets",
+      "Id": "Haku"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество доспеха до 28%",
+    "ServerCommand2": "set_quality armour 28"
+  },
+  {
+    "RowIndex": 52,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalTargets",
+      "Id": "Vagan"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество оружия до 22%",
+    "ServerCommand2": "set_quality weapon 22"
+  },
+  {
+    "RowIndex": 53,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalTargets",
+      "Id": "Vagan"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество оружия до 24%",
+    "ServerCommand2": "set_quality weapon 24"
+  },
+  {
+    "RowIndex": 54,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalTargets",
+      "Id": "Vagan"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество оружия до 26%",
+    "ServerCommand2": "set_quality weapon 26"
+  },
+  {
+    "RowIndex": 55,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalTargets",
+      "Id": "Vagan"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество оружия до 28%",
+    "ServerCommand2": "set_quality weapon 28"
+  },
+  {
+    "RowIndex": 56,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 14,
+      "TableName": "BetrayalTargets",
+      "Id": "Rin"
+    },
+    "Rank": 1,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество карты до 22%",
+    "ServerCommand2": "set_quality map 22"
+  },
+  {
+    "RowIndex": 57,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 14,
+      "TableName": "BetrayalTargets",
+      "Id": "Rin"
+    },
+    "Rank": 2,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество карты до 24%",
+    "ServerCommand2": "set_quality map 24"
+  },
+  {
+    "RowIndex": 58,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 14,
+      "TableName": "BetrayalTargets",
+      "Id": "Rin"
+    },
+    "Rank": 3,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество карты до 26%",
+    "ServerCommand2": "set_quality map 26"
+  },
+  {
+    "RowIndex": 59,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "BetrayalTargetsKey": {
+      "RowIndex": 14,
+      "TableName": "BetrayalTargets",
+      "Id": "Rin"
+    },
+    "Rank": 4,
+    "Description": "",
+    "ServerCommand": "",
+    "Unk005": [],
+    "Description2": "Улучшить качество карты до 28%",
+    "ServerCommand2": "set_quality map 28"
+  }
+]

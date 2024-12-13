@@ -1,0 +1,101 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AdditionalRewards1",
+    "RewardText": "Alle Belohnungstypen haben eine zusätzliche Belohnung",
+    "RewardGroup": 0,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 1,
+    "Id": "RewardsMultiplier2",
+    "RewardText": "Belohnungen sind verdoppelt",
+    "RewardGroup": 1,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 2,
+    "Id": "RewardTypeOverrideDivination",
+    "RewardText": "Alle Belohnungstypen sind Weissagungskarten",
+    "RewardGroup": 2,
+    "ScriptArgument": "DivinationCards",
+    "MinLevel": 46,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 3,
+    "Id": "RewardTypeOverrideUniques",
+    "RewardText": "Alle Belohnungstypen sind einzigartige Gegenstände",
+    "RewardGroup": 2,
+    "ScriptArgument": "Uniques",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 4,
+    "Id": "RewardTypeOverrideCurrency",
+    "RewardText": "Alle Belohnungstypen sind Währung",
+    "RewardGroup": 2,
+    "ScriptArgument": "Currency",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 5,
+    "Id": "MinionsHaveRewards",
+    "RewardText": "Kreaturen von Monstern lassen einen zufälligen Belohnungstypen fallen",
+    "RewardGroup": 3,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 6,
+    "Id": "BetterRewards1",
+    "RewardText": "Belohnungen werden 1 zusätzliches Mal neu gewürfelt und das seltenste Ergebnis beibehalten",
+    "RewardGroup": 4,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 7,
+    "Id": "BetterRewards2",
+    "RewardText": "Belohnungen werden 2 zusätzliche Male neu gewürfelt und das seltenste Ergebnis beibehalten",
+    "RewardGroup": 4,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 8,
+    "Id": "BetterRewards4",
+    "RewardText": "Belohnungen werden 4 zusätzliche Male neu gewürfelt und das seltenste Ergebnis beibehalten",
+    "RewardGroup": 4,
+    "ScriptArgument": "4",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 9,
+    "Id": "BetterRewards8",
+    "RewardText": "Belohnungen werden 6 zusätzliche Male neu gewürfelt und das seltenste Ergebnis beibehalten",
+    "RewardGroup": 4,
+    "ScriptArgument": "6",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 10,
+    "Id": "CorruptedRewards",
+    "RewardText": "Vom Monster und seinen Kreaturen fallen gelassene Gegenstände sind verderbt",
+    "RewardGroup": 5,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  }
+]

@@ -1,0 +1,2894 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Acceleration",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 367,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 368,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 3,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6153,
+      "TableName": "ClientStrings",
+      "Id": "ShrineAccelerationActivation"
+    },
+    "Name": {
+      "RowIndex": 6152,
+      "TableName": "ClientStrings",
+      "Id": "ShrineAccelerationName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Lightning",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 379,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 2,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6155,
+      "TableName": "ClientStrings",
+      "Id": "ShrineLightningActivation"
+    },
+    "Name": {
+      "RowIndex": 6154,
+      "TableName": "ClientStrings",
+      "Id": "ShrineLightningName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Cold",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 378,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 0,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6157,
+      "TableName": "ClientStrings",
+      "Id": "ShrineColdActivation"
+    },
+    "Name": {
+      "RowIndex": 6156,
+      "TableName": "ClientStrings",
+      "Id": "ShrineColdName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Fire",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 377,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 1,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6159,
+      "TableName": "ClientStrings",
+      "Id": "ShrineFireActivation"
+    },
+    "Name": {
+      "RowIndex": 6158,
+      "TableName": "ClientStrings",
+      "Id": "ShrineFireName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 4,
+    "Id": "Arc",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 380,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 2,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 516,
+        "TableName": "AchievementItems",
+        "Id": "TagShrineArc"
+      },
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6161,
+      "TableName": "ClientStrings",
+      "Id": "ShrineArcActivation"
+    },
+    "Name": {
+      "RowIndex": 6160,
+      "TableName": "ClientStrings",
+      "Id": "ShrineArcName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 5,
+    "Id": "Criticals",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 375,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 376,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 7,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6163,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCriticalsActivation"
+    },
+    "Name": {
+      "RowIndex": 6162,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCriticalsName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 6,
+    "Id": "Brutal",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 371,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 372,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 5,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6165,
+      "TableName": "ClientStrings",
+      "Id": "ShrineBrutalActivation"
+    },
+    "Name": {
+      "RowIndex": 6164,
+      "TableName": "ClientStrings",
+      "Id": "ShrineBrutalName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 7,
+    "Id": "Thorns",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 373,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 374,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 519,
+        "TableName": "AchievementItems",
+        "Id": "TagShrineThorns"
+      },
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6167,
+      "TableName": "ClientStrings",
+      "Id": "ShrineThornsActivation"
+    },
+    "Name": {
+      "RowIndex": 6166,
+      "TableName": "ClientStrings",
+      "Id": "ShrineThornsName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 8,
+    "Id": "Regen",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": true,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 369,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 370,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6169,
+      "TableName": "ClientStrings",
+      "Id": "ShrineRegenActivation"
+    },
+    "Name": {
+      "RowIndex": 6168,
+      "TableName": "ClientStrings",
+      "Id": "ShrineRegenName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Massive",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 387,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 388,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6171,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMassiveActivation"
+    },
+    "Name": {
+      "RowIndex": 6170,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMassiveName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 10,
+    "Id": "Defence",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 389,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 390,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6173,
+      "TableName": "ClientStrings",
+      "Id": "ShrineDefenceActivation"
+    },
+    "Name": {
+      "RowIndex": 6172,
+      "TableName": "ClientStrings",
+      "Id": "ShrineDefenceName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 11,
+    "Id": "Resistance",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 391,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 392,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6175,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResistanceActivation"
+    },
+    "Name": {
+      "RowIndex": 6174,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResistanceName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 12,
+    "Id": "GodMode",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 393,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 394,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6177,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGodModeActivation"
+    },
+    "Name": {
+      "RowIndex": 6176,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGodModeName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 13,
+    "Id": "Multi",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 384,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 383,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 7,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6179,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMultiActivation"
+    },
+    "Name": {
+      "RowIndex": 6178,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMultiName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Curses",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 386,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 385,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 5,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 526,
+        "TableName": "AchievementItems",
+        "Id": "TagShrineCurses"
+      },
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6181,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCursesActivation"
+    },
+    "Name": {
+      "RowIndex": 6180,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCursesName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Skeletons",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 381,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 8,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6183,
+      "TableName": "ClientStrings",
+      "Id": "ShrineSkeletonsActivation"
+    },
+    "Name": {
+      "RowIndex": 6182,
+      "TableName": "ClientStrings",
+      "Id": "ShrineSkeletonsName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Smoke",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 382,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 100,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 9,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6185,
+      "TableName": "ClientStrings",
+      "Id": "ShrineSmokeActivation"
+    },
+    "Name": {
+      "RowIndex": 6184,
+      "TableName": "ClientStrings",
+      "Id": "ShrineSmokeName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 17,
+    "Id": "PVPAcceleration",
+    "TimeoutInSeconds": 45,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 367,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 12,
+    "ShrineSoundsKey": {
+      "RowIndex": 3,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": true,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6187,
+      "TableName": "ClientStrings",
+      "Id": "ShrinePVPAccelerationActivation"
+    },
+    "Name": {
+      "RowIndex": 6186,
+      "TableName": "ClientStrings",
+      "Id": "ShrinePVPAccelerationName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 18,
+    "Id": "PVPRegen",
+    "TimeoutInSeconds": 45,
+    "ChargesShared": true,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 369,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 12,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": true,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6189,
+      "TableName": "ClientStrings",
+      "Id": "ShrinePVPRegenActivation"
+    },
+    "Name": {
+      "RowIndex": 6188,
+      "TableName": "ClientStrings",
+      "Id": "ShrinePVPRegenName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 19,
+    "Id": "PVPBrutal",
+    "TimeoutInSeconds": 45,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 371,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 5,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": true,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6191,
+      "TableName": "ClientStrings",
+      "Id": "ShrinePVPBrutalActivation"
+    },
+    "Name": {
+      "RowIndex": 6190,
+      "TableName": "ClientStrings",
+      "Id": "ShrinePVPBrutalName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 20,
+    "Id": "CTFBrutal",
+    "TimeoutInSeconds": 45,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 371,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 5,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": true,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": true,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6193,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCTFBrutalActivation"
+    },
+    "Name": {
+      "RowIndex": 6192,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCTFBrutalName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 21,
+    "Id": "CTFRegen",
+    "TimeoutInSeconds": 45,
+    "ChargesShared": true,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 369,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": true,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": true,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6195,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCTFRegenActivation"
+    },
+    "Name": {
+      "RowIndex": 6194,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCTFRegenName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 22,
+    "Id": "CTFMassive",
+    "TimeoutInSeconds": 45,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 387,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": true,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": true,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6197,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCTFMassiveActivation"
+    },
+    "Name": {
+      "RowIndex": 6196,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCTFMassiveName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 23,
+    "Id": "CTFDefence",
+    "TimeoutInSeconds": 45,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 389,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": true,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": true,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6199,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCTFDefenceActivation"
+    },
+    "Name": {
+      "RowIndex": 6198,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCTFDefenceName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AccelerationLesser",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 396,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 3,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": true,
+    "Description": {
+      "RowIndex": 6153,
+      "TableName": "ClientStrings",
+      "Id": "ShrineAccelerationActivation"
+    },
+    "Name": {
+      "RowIndex": 6200,
+      "TableName": "ClientStrings",
+      "Id": "ShrineAccelerationLesserName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 25,
+    "Id": "BrutalLesser",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 397,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 5,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": true,
+    "Description": {
+      "RowIndex": 6165,
+      "TableName": "ClientStrings",
+      "Id": "ShrineBrutalActivation"
+    },
+    "Name": {
+      "RowIndex": 6201,
+      "TableName": "ClientStrings",
+      "Id": "ShrineBrutalLesserName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 26,
+    "Id": "RegenLesser",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 398,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": true,
+    "Description": {
+      "RowIndex": 6169,
+      "TableName": "ClientStrings",
+      "Id": "ShrineRegenActivation"
+    },
+    "Name": {
+      "RowIndex": 6202,
+      "TableName": "ClientStrings",
+      "Id": "ShrineRegenLesserName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 27,
+    "Id": "MassiveLesser",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 399,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": true,
+    "Description": {
+      "RowIndex": 6171,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMassiveActivation"
+    },
+    "Name": {
+      "RowIndex": 6203,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMassiveLesserName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ResistanceLesser",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 400,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": true,
+    "Description": {
+      "RowIndex": 6175,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResistanceActivation"
+    },
+    "Name": {
+      "RowIndex": 6204,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResistanceLesserName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 29,
+    "Id": "DefenceLesser",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 401,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 20,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": true,
+    "Description": {
+      "RowIndex": 6173,
+      "TableName": "ClientStrings",
+      "Id": "ShrineDefenceActivation"
+    },
+    "Name": {
+      "RowIndex": 6205,
+      "TableName": "ClientStrings",
+      "Id": "ShrineDefenceLesserName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 30,
+    "Id": "Resonating",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 402,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 2,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 403,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 10,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6207,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResonatingActivation"
+    },
+    "Name": {
+      "RowIndex": 6206,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResonatingName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 31,
+    "Id": "Gloom",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 404,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 2,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 405,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 11,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6209,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGloomActivation"
+    },
+    "Name": {
+      "RowIndex": 6208,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGloomName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 32,
+    "Id": "RoyaleShrineAccelerating",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 406,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 3,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6153,
+      "TableName": "ClientStrings",
+      "Id": "ShrineAccelerationActivation"
+    },
+    "Name": {
+      "RowIndex": 6152,
+      "TableName": "ClientStrings",
+      "Id": "ShrineAccelerationName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 33,
+    "Id": "RoyaleShrineBrutal",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 407,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 5,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6165,
+      "TableName": "ClientStrings",
+      "Id": "ShrineBrutalActivation"
+    },
+    "Name": {
+      "RowIndex": 6164,
+      "TableName": "ClientStrings",
+      "Id": "ShrineBrutalName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 34,
+    "Id": "RoyaleShrineBurning",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 408,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 1,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6159,
+      "TableName": "ClientStrings",
+      "Id": "ShrineFireActivation"
+    },
+    "Name": {
+      "RowIndex": 6158,
+      "TableName": "ClientStrings",
+      "Id": "ShrineFireName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 35,
+    "Id": "RoyaleShrineCharged",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 409,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 10,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6207,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResonatingActivation"
+    },
+    "Name": {
+      "RowIndex": 6206,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResonatingName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 36,
+    "Id": "RoyaleShrineDiamond",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 410,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 7,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6163,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCriticalsActivation"
+    },
+    "Name": {
+      "RowIndex": 6162,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCriticalsName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 37,
+    "Id": "RoyaleShrineEchoing",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 411,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 7,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6179,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMultiActivation"
+    },
+    "Name": {
+      "RowIndex": 6178,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMultiName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 38,
+    "Id": "RoyaleShrineFreezing",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 412,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 0,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6157,
+      "TableName": "ClientStrings",
+      "Id": "ShrineColdActivation"
+    },
+    "Name": {
+      "RowIndex": 6156,
+      "TableName": "ClientStrings",
+      "Id": "ShrineColdName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 39,
+    "Id": "RoyaleShrineGloom",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 413,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 11,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6181,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCursesActivation"
+    },
+    "Name": {
+      "RowIndex": 6208,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGloomName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 40,
+    "Id": "RoyaleShrineHexing",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 414,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 5,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6181,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCursesActivation"
+    },
+    "Name": {
+      "RowIndex": 6180,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCursesName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 41,
+    "Id": "RoyaleShrineImpenetrable",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 415,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6173,
+      "TableName": "ClientStrings",
+      "Id": "ShrineDefenceActivation"
+    },
+    "Name": {
+      "RowIndex": 6172,
+      "TableName": "ClientStrings",
+      "Id": "ShrineDefenceName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 42,
+    "Id": "RoyaleShrineLightning",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 416,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 2,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6155,
+      "TableName": "ClientStrings",
+      "Id": "ShrineLightningActivation"
+    },
+    "Name": {
+      "RowIndex": 6154,
+      "TableName": "ClientStrings",
+      "Id": "ShrineLightningName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 43,
+    "Id": "RoyaleShrineMassive",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 417,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6171,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMassiveActivation"
+    },
+    "Name": {
+      "RowIndex": 6170,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMassiveName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 44,
+    "Id": "RoyaleShrineReplenishing",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 418,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6169,
+      "TableName": "ClientStrings",
+      "Id": "ShrineRegenActivation"
+    },
+    "Name": {
+      "RowIndex": 6168,
+      "TableName": "ClientStrings",
+      "Id": "ShrineRegenName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 45,
+    "Id": "RoyaleShrineResistance",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 419,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6175,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResistanceActivation"
+    },
+    "Name": {
+      "RowIndex": 6174,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResistanceName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 46,
+    "Id": "RoyaleShrineShrouded",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 420,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 9,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6185,
+      "TableName": "ClientStrings",
+      "Id": "ShrineSmokeActivation"
+    },
+    "Name": {
+      "RowIndex": 6184,
+      "TableName": "ClientStrings",
+      "Id": "ShrineSmokeName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 47,
+    "Id": "RoyaleShrineStatic",
+    "TimeoutInSeconds": 60,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 421,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": null,
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 0,
+    "Unk010": 10,
+    "ShrineSoundsKey": {
+      "RowIndex": 2,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6161,
+      "TableName": "ClientStrings",
+      "Id": "ShrineArcActivation"
+    },
+    "Name": {
+      "RowIndex": 6160,
+      "TableName": "ClientStrings",
+      "Id": "ShrineArcName"
+    },
+    "Unk019": true,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 48,
+    "Id": "Greed",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 454,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 453,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 12,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6226,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGreedActivation"
+    },
+    "Name": {
+      "RowIndex": 6225,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGreedName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 49,
+    "Id": "BrineKing",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 510,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 511,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 0,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6562,
+      "TableName": "ClientStrings",
+      "Id": "ShrineBrineKingActivation"
+    },
+    "Name": {
+      "RowIndex": 6558,
+      "TableName": "ClientStrings",
+      "Id": "ShrineBrineKingName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 50,
+    "Id": "Lunaris",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 512,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 513,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 0,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6563,
+      "TableName": "ClientStrings",
+      "Id": "ShrineLunarisActivation"
+    },
+    "Name": {
+      "RowIndex": 6559,
+      "TableName": "ClientStrings",
+      "Id": "ShrineLunarisName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 51,
+    "Id": "Solaris",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 514,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 515,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 1,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6564,
+      "TableName": "ClientStrings",
+      "Id": "ShrineSolarisActivation"
+    },
+    "Name": {
+      "RowIndex": 6560,
+      "TableName": "ClientStrings",
+      "Id": "ShrineSolarisName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 52,
+    "Id": "Arakaali",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 516,
+      "TableName": null
+    },
+    "Unk004": 0,
+    "Unk005": 0,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 517,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 11,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [
+      {
+        "RowIndex": 9148,
+        "TableName": "AchievementItems",
+        "Id": "CrucibleMiscChallenge1_2"
+      }
+    ],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6565,
+      "TableName": "ClientStrings",
+      "Id": "ShrineArakaaliActivation"
+    },
+    "Name": {
+      "RowIndex": 6561,
+      "TableName": "ClientStrings",
+      "Id": "ShrineArakaaliName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 53,
+    "Id": "FireShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 422,
+      "TableName": null
+    },
+    "Unk004": 100,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 423,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": {
+      "RowIndex": 1765,
+      "TableName": "MonsterVarieties",
+      "Id": "Metadata/Monsters/Daemon/Shrines/ShrineFireDaemon_"
+    },
+    "SummonPlayer_MonsterVarietiesKey": {
+      "RowIndex": 1766,
+      "TableName": "MonsterVarieties",
+      "Id": "Metadata/Monsters/Daemon/Shrines/ShrineFireDaemonPlayer"
+    },
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 1,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6159,
+      "TableName": "ClientStrings",
+      "Id": "ShrineFireActivation"
+    },
+    "Name": {
+      "RowIndex": 6158,
+      "TableName": "ClientStrings",
+      "Id": "ShrineFireName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 54,
+    "Id": "LightningShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 424,
+      "TableName": null
+    },
+    "Unk004": 100,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 425,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": {
+      "RowIndex": 1769,
+      "TableName": "MonsterVarieties",
+      "Id": "Metadata/Monsters/Daemon/Shrines/ShrineLightningDaemon"
+    },
+    "SummonPlayer_MonsterVarietiesKey": {
+      "RowIndex": 1770,
+      "TableName": "MonsterVarieties",
+      "Id": "Metadata/Monsters/Daemon/Shrines/ShrineLightningDaemonPlayer"
+    },
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 2,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6155,
+      "TableName": "ClientStrings",
+      "Id": "ShrineLightningActivation"
+    },
+    "Name": {
+      "RowIndex": 6154,
+      "TableName": "ClientStrings",
+      "Id": "ShrineLightningName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 55,
+    "Id": "ColdShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 426,
+      "TableName": null
+    },
+    "Unk004": 100,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 427,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": {
+      "RowIndex": 1767,
+      "TableName": "MonsterVarieties",
+      "Id": "Metadata/Monsters/Daemon/Shrines/ShrineColdDaemon"
+    },
+    "SummonPlayer_MonsterVarietiesKey": {
+      "RowIndex": 1768,
+      "TableName": "MonsterVarieties",
+      "Id": "Metadata/Monsters/Daemon/Shrines/ShrineColdDaemonPlayer"
+    },
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 0,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": false,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6157,
+      "TableName": "ClientStrings",
+      "Id": "ShrineColdActivation"
+    },
+    "Name": {
+      "RowIndex": 6156,
+      "TableName": "ClientStrings",
+      "Id": "ShrineColdName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 56,
+    "Id": "GloomShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 428,
+      "TableName": null
+    },
+    "Unk004": 75,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 429,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 11,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6209,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGloomActivation"
+    },
+    "Name": {
+      "RowIndex": 6208,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGloomName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AccelerationShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 430,
+      "TableName": null
+    },
+    "Unk004": 100,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 431,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 3,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6153,
+      "TableName": "ClientStrings",
+      "Id": "ShrineAccelerationActivation"
+    },
+    "Name": {
+      "RowIndex": 6152,
+      "TableName": "ClientStrings",
+      "Id": "ShrineAccelerationName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 58,
+    "Id": "DivineShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 432,
+      "TableName": null
+    },
+    "Unk004": 3,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 433,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6177,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGodModeActivation"
+    },
+    "Name": {
+      "RowIndex": 6176,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGodModeName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 59,
+    "Id": "MagicFindShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 434,
+      "TableName": null
+    },
+    "Unk004": 25,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 435,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 12,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 7957,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMagicFindActivation"
+    },
+    "Name": {
+      "RowIndex": 7956,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMagicFindName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 60,
+    "Id": "MassiveShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 436,
+      "TableName": null
+    },
+    "Unk004": 50,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 437,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6171,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMassiveActivation"
+    },
+    "Name": {
+      "RowIndex": 6170,
+      "TableName": "ClientStrings",
+      "Id": "ShrineMassiveName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 61,
+    "Id": "RegenerationShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": true,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 438,
+      "TableName": null
+    },
+    "Unk004": 50,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 439,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 4,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6169,
+      "TableName": "ClientStrings",
+      "Id": "ShrineRegenActivation"
+    },
+    "Name": {
+      "RowIndex": 6168,
+      "TableName": "ClientStrings",
+      "Id": "ShrineRegenName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 62,
+    "Id": "ExperienceShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 440,
+      "TableName": null
+    },
+    "Unk004": 25,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 441,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 12,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 7961,
+      "TableName": "ClientStrings",
+      "Id": "ShrineExperienceActivation"
+    },
+    "Name": {
+      "RowIndex": 7960,
+      "TableName": "ClientStrings",
+      "Id": "ShrineExperienceName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 63,
+    "Id": "GoldShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 442,
+      "TableName": null
+    },
+    "Unk004": 25,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 443,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 12,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 7959,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGoldFindActivation"
+    },
+    "Name": {
+      "RowIndex": 7958,
+      "TableName": "ClientStrings",
+      "Id": "ShrineGoldFindName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 64,
+    "Id": "ResistanceShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 444,
+      "TableName": null
+    },
+    "Unk004": 50,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 445,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 6,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6175,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResistanceActivation"
+    },
+    "Name": {
+      "RowIndex": 6174,
+      "TableName": "ClientStrings",
+      "Id": "ShrineResistanceName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 65,
+    "Id": "DiamondShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 446,
+      "TableName": null
+    },
+    "Unk004": 10,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 447,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 7,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 6163,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCriticalsActivation"
+    },
+    "Name": {
+      "RowIndex": 6162,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCriticalsName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  },
+  {
+    "RowIndex": 66,
+    "Id": "CorruptShrine",
+    "TimeoutInSeconds": 0,
+    "ChargesShared": false,
+    "Player_ShrineBuffsKey": {
+      "RowIndex": 448,
+      "TableName": null
+    },
+    "Unk004": 10,
+    "Unk005": 1,
+    "Monster_ShrineBuffsKey": {
+      "RowIndex": 449,
+      "TableName": null
+    },
+    "SummonMonster_MonsterVarietiesKey": null,
+    "SummonPlayer_MonsterVarietiesKey": null,
+    "Unk009": 50,
+    "Unk010": 45,
+    "ShrineSoundsKey": {
+      "RowIndex": 7,
+      "TableName": "ShrineSounds"
+    },
+    "Unk012": false,
+    "AchievementItemsKeys": [],
+    "IsPVPOnly": false,
+    "Unk015": true,
+    "IsLesserShrine": false,
+    "Description": {
+      "RowIndex": 7979,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCorruptedActivation"
+    },
+    "Name": {
+      "RowIndex": 7978,
+      "TableName": "ClientStrings",
+      "Id": "ShrineCorruptedName"
+    },
+    "Unk019": false,
+    "Unk020": null,
+    "Unk021": []
+  }
+]

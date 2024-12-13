@@ -1,0 +1,611 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Catarina",
+    "BetrayalRanksKey": null,
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": null,
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Catarina",
+    "Unk005": false,
+    "ItemClasses": null,
+    "FullName": "불사의 주인 카타리나",
+    "Safehouse_ARMFile": "",
+    "ShortName": "카타리나",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 536,
+    "Unk014": 536,
+    "Unk015": 536,
+    "Unk016": null,
+    "ScriptArgument": ""
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Haku",
+    "BetrayalRanksKey": {
+      "RowIndex": 0,
+      "TableName": "BetrayalRanks",
+      "Id": "None"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 0,
+      "TableName": "BetrayalJobs",
+      "Id": "None"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Haku",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 16,
+      "TableName": "ItemClasses",
+      "Id": "Two Hand Axe"
+    },
+    "FullName": "전쟁의 대가 하쿠",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_haku.arm",
+    "ShortName": "하쿠",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 537,
+    "Unk014": 554,
+    "Unk015": 571,
+    "Unk016": {
+      "RowIndex": 7682,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareHaku"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Elreon",
+    "BetrayalRanksKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank2"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Elreon",
+    "Unk005": true,
+    "ItemClasses": {
+      "RowIndex": 17,
+      "TableName": "ItemClasses",
+      "Id": "Two Hand Mace"
+    },
+    "FullName": "빛의 심판자 엘레온",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_elreon.arm",
+    "ShortName": "엘레온",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 538,
+    "Unk014": 555,
+    "Unk015": 572,
+    "Unk016": {
+      "RowIndex": 7683,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareElreon"
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Tora",
+    "BetrayalRanksKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank2"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Tora",
+    "Unk005": true,
+    "ItemClasses": {
+      "RowIndex": 13,
+      "TableName": "ItemClasses",
+      "Id": "Bow"
+    },
+    "FullName": "감별사 토라",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_tora.arm",
+    "ShortName": "토라",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 539,
+    "Unk014": 556,
+    "Unk015": 573,
+    "Unk016": {
+      "RowIndex": 7684,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareTora"
+  },
+  {
+    "RowIndex": 4,
+    "Id": "Vagan",
+    "BetrayalRanksKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank2"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Vagan",
+    "Unk005": true,
+    "ItemClasses": {
+      "RowIndex": 9,
+      "TableName": "ItemClasses",
+      "Id": "One Hand Sword"
+    },
+    "FullName": "승리의 전령 베이건",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_vagan.arm",
+    "ShortName": "베이건",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 540,
+    "Unk014": 557,
+    "Unk015": 574,
+    "Unk016": {
+      "RowIndex": 7685,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareVagan"
+  },
+  {
+    "RowIndex": 5,
+    "Id": "Vorici",
+    "BetrayalRanksKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank2"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs",
+      "Id": "Assassin"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Vorici",
+    "Unk005": true,
+    "ItemClasses": {
+      "RowIndex": 7,
+      "TableName": "ItemClasses",
+      "Id": "Dagger"
+    },
+    "FullName": "침묵의 수사 보리치",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_vorici.arm",
+    "ShortName": "보리치",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 541,
+    "Unk014": 558,
+    "Unk015": 575,
+    "Unk016": {
+      "RowIndex": 7686,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareVorici"
+  },
+  {
+    "RowIndex": 6,
+    "Id": "Hillock",
+    "BetrayalRanksKey": {
+      "RowIndex": 0,
+      "TableName": "BetrayalRanks",
+      "Id": "None"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 0,
+      "TableName": "BetrayalJobs",
+      "Id": "None"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Hillock",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 12,
+      "TableName": "ItemClasses",
+      "Id": "One Hand Mace"
+    },
+    "FullName": "대장장이 힐록",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_hillock.arm",
+    "ShortName": "힐록",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 542,
+    "Unk014": 559,
+    "Unk015": 576,
+    "Unk016": {
+      "RowIndex": 7687,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareHillock"
+  },
+  {
+    "RowIndex": 7,
+    "Id": "Leo",
+    "BetrayalRanksKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank1"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Leo",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 9,
+      "TableName": "ItemClasses",
+      "Id": "One Hand Sword"
+    },
+    "FullName": "구덩이의 늑대 레오",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_leo.arm",
+    "ShortName": "레오",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 543,
+    "Unk014": 560,
+    "Unk015": 577,
+    "Unk016": {
+      "RowIndex": 7688,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareLeo"
+  },
+  {
+    "RowIndex": 8,
+    "Id": "Guff",
+    "BetrayalRanksKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank1"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalJobs",
+      "Id": "BaseDefence"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Grenn",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 9,
+      "TableName": "ItemClasses",
+      "Id": "One Hand Sword"
+    },
+    "FullName": "\"조그만\" 거프 그렌",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_guff.arm",
+    "ShortName": "거프",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 544,
+    "Unk014": 561,
+    "Unk015": 578,
+    "Unk016": {
+      "RowIndex": 7689,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareBrinerot"
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Janus",
+    "BetrayalRanksKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank1"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 4,
+      "TableName": "BetrayalJobs",
+      "Id": "LabDefence"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Janus",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 36,
+      "TableName": "ItemClasses",
+      "Id": "Unarmed"
+    },
+    "FullName": "야누스 페란두스",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_janus.arm",
+    "ShortName": "야누스",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 545,
+    "Unk014": 562,
+    "Unk015": 579,
+    "Unk016": {
+      "RowIndex": 7690,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareJanus"
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ItThatFled",
+    "BetrayalRanksKey": null,
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": null,
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Breach",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 36,
+      "TableName": "ItemClasses",
+      "Id": "Unarmed"
+    },
+    "FullName": "달아난 그것",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_it_that_fled.arm",
+    "ShortName": "달아난 그것",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 546,
+    "Unk014": 563,
+    "Unk015": 580,
+    "Unk016": {
+      "RowIndex": 7691,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareFled"
+  },
+  {
+    "RowIndex": 11,
+    "Id": "Gravicius",
+    "BetrayalRanksKey": null,
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": null,
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Gravicius",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 32,
+      "TableName": "ItemClasses",
+      "Id": "Sceptre"
+    },
+    "FullName": "부활한 그라비시우스",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_gravicius.arm",
+    "ShortName": "그라비시우스",
+    "Unk010": 30,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 547,
+    "Unk014": 564,
+    "Unk015": 581,
+    "Unk016": {
+      "RowIndex": 7692,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareGravicius"
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Jorgin",
+    "BetrayalRanksKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank1"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Thane",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 36,
+      "TableName": "ItemClasses",
+      "Id": "Unarmed"
+    },
+    "FullName": "추방자 테인 요르긴",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_jorgin.arm",
+    "ShortName": "요르긴",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 548,
+    "Unk014": 565,
+    "Unk015": 582,
+    "Unk016": {
+      "RowIndex": 7693,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareJorgin"
+  },
+  {
+    "RowIndex": 13,
+    "Id": "Korell",
+    "BetrayalRanksKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank1"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 2,
+      "TableName": "BetrayalJobs",
+      "Id": "CartEscort"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Keema",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 9,
+      "TableName": "ItemClasses",
+      "Id": "One Hand Sword"
+    },
+    "FullName": "돌의 아들 코렐 고야",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_keema.arm",
+    "ShortName": "코렐",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 549,
+    "Unk014": 566,
+    "Unk015": 583,
+    "Unk016": {
+      "RowIndex": 7694,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareKeema"
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Rin",
+    "BetrayalRanksKey": null,
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": null,
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Rin",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 13,
+      "TableName": "ItemClasses",
+      "Id": "Bow"
+    },
+    "FullName": "린 유슈",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_rin.arm",
+    "ShortName": "린",
+    "Unk010": 68,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 550,
+    "Unk014": 567,
+    "Unk015": 584,
+    "Unk016": {
+      "RowIndex": 7695,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareRin"
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Cameria",
+    "BetrayalRanksKey": {
+      "RowIndex": 0,
+      "TableName": "BetrayalRanks",
+      "Id": "None"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 0,
+      "TableName": "BetrayalJobs",
+      "Id": "None"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Cameria",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 12,
+      "TableName": "ItemClasses",
+      "Id": "One Hand Mace"
+    },
+    "FullName": "냉혈한 카메리아",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_cameria.arm",
+    "ShortName": "카메리아",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 551,
+    "Unk014": 568,
+    "Unk015": 585,
+    "Unk016": {
+      "RowIndex": 7696,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareCameria"
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Aisling",
+    "BetrayalRanksKey": {
+      "RowIndex": 1,
+      "TableName": "BetrayalRanks",
+      "Id": "Rank1"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 3,
+      "TableName": "BetrayalJobs",
+      "Id": "Assassin"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Aislin",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 7,
+      "TableName": "ItemClasses",
+      "Id": "Dagger"
+    },
+    "FullName": "침묵의 도살자 아이슬링 라프리",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_aisling.arm",
+    "ShortName": "아이슬링",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 552,
+    "Unk014": 569,
+    "Unk015": 586,
+    "Unk016": {
+      "RowIndex": 7697,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareAisling"
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Riker",
+    "BetrayalRanksKey": {
+      "RowIndex": 0,
+      "TableName": "BetrayalRanks",
+      "Id": "None"
+    },
+    "MonsterVarietiesKey": null,
+    "BetrayalJobsKey": {
+      "RowIndex": 0,
+      "TableName": "BetrayalJobs",
+      "Id": "None"
+    },
+    "Art": "Art/2DArt/UIImages/InGame/Betrayal/BossImages/Riker",
+    "Unk005": false,
+    "ItemClasses": {
+      "RowIndex": 13,
+      "TableName": "ItemClasses",
+      "Id": "Bow"
+    },
+    "FullName": "심야의 수선공 라이커 말로니",
+    "Safehouse_ARMFile": "Metadata/Terrain/Leagues/Betrayal/SafeHouses/Arena/Rooms/room_riker.arm",
+    "ShortName": "라이커",
+    "Unk010": 0,
+    "SafehouseLeader_AcheivementItemsKey": null,
+    "Level3_AchievementItemsKey": null,
+    "Unk013": 553,
+    "Unk014": 570,
+    "Unk015": 587,
+    "Unk016": {
+      "RowIndex": 7698,
+      "TableName": null
+    },
+    "ScriptArgument": "VeiledRareRiker"
+  }
+]

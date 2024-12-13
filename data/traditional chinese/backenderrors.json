@@ -1,0 +1,3412 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AccountNameAlreadyExists",
+    "Text": "此帳號已經存在。"
+  },
+  {
+    "RowIndex": 1,
+    "Id": "AccountNameInvalid",
+    "Text": "帳號長度必須大於三個字元且須由英文、數字與底線組成。"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "EmailInvalid",
+    "Text": "無效的電子郵件地址。"
+  },
+  {
+    "RowIndex": 3,
+    "Id": "EmailAlreadyExists",
+    "Text": "該電子郵件已經與帳號綁定。"
+  },
+  {
+    "RowIndex": 4,
+    "Id": "AccountDoesNotExist",
+    "Text": "該帳號不存在。"
+  },
+  {
+    "RowIndex": 5,
+    "Id": "InvalidPassword",
+    "Text": "密碼錯誤。"
+  },
+  {
+    "RowIndex": 6,
+    "Id": "AlreadyLoggedOn",
+    "Text": "操作失敗，該帳戶目前登入中。"
+  },
+  {
+    "RowIndex": 7,
+    "Id": "InvalidProtocolVersion",
+    "Text": "我們已經釋出新的版本，請重啟流亡黯道來進行更新。"
+  },
+  {
+    "RowIndex": 8,
+    "Id": "NotAllowedGameLogin",
+    "Text": "此帳號目前無法登入遊戲。"
+  },
+  {
+    "RowIndex": 9,
+    "Id": "OtherAccountLoggedOn",
+    "Text": "此帳號已被其他使用者登入。"
+  },
+  {
+    "RowIndex": 10,
+    "Id": "AccountNotLoggedIn",
+    "Text": "必須要登入帳號來完成這項操作。"
+  },
+  {
+    "RowIndex": 11,
+    "Id": "Timeout",
+    "Text": "操作逾時。"
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Disconnected",
+    "Text": "伺服器斷線。"
+  },
+  {
+    "RowIndex": 13,
+    "Id": "TerrainGenerationOutOfSync",
+    "Text": "地形產生器與伺服器無法連線。請嘗試重新產生新的地圖。"
+  },
+  {
+    "RowIndex": 14,
+    "Id": "UnexpectedDisconnect",
+    "Text": "發生無法預期的斷線。"
+  },
+  {
+    "RowIndex": 15,
+    "Id": "CharacterDoesNotExist",
+    "Text": "該角色不存在。"
+  },
+  {
+    "RowIndex": 16,
+    "Id": "NotCharacterOwner",
+    "Text": "嘗試取回的角色並非此帳號所有。"
+  },
+  {
+    "RowIndex": 17,
+    "Id": "LinkedItemDoesNotExist",
+    "Text": "指定連結的物品不存在。"
+  },
+  {
+    "RowIndex": 18,
+    "Id": "DatabaseError",
+    "Text": "出現無法預期的資料庫錯誤，請重試。"
+  },
+  {
+    "RowIndex": 19,
+    "Id": "TransferredToInstance",
+    "Text": "此帳號已經被轉移到另一方。"
+  },
+  {
+    "RowIndex": 20,
+    "Id": "CharacterNameAlreadyExists",
+    "Text": "此角色名稱已被使用。"
+  },
+  {
+    "RowIndex": 21,
+    "Id": "CharacterNameInvalid",
+    "Text": "角色名稱包含無效字元。有效名稱只能包含字母和底線。"
+  },
+  {
+    "RowIndex": 22,
+    "Id": "CharacterNameTooShort",
+    "Text": "名稱過短。"
+  },
+  {
+    "RowIndex": 23,
+    "Id": "CharacterNameTooLong",
+    "Text": "名稱過長。"
+  },
+  {
+    "RowIndex": 24,
+    "Id": "CharacterInvalidClass",
+    "Text": "無效的職業。"
+  },
+  {
+    "RowIndex": 25,
+    "Id": "LeagueDoesNotExist",
+    "Text": "此聯盟並不存在。"
+  },
+  {
+    "RowIndex": 26,
+    "Id": "InvalidCharacterFlags",
+    "Text": "無效的角色旗幟。"
+  },
+  {
+    "RowIndex": 27,
+    "Id": "LeagueNameAlreadyExists",
+    "Text": "相同名稱的聯盟已經存在。"
+  },
+  {
+    "RowIndex": 28,
+    "Id": "LeagueNameInvalid",
+    "Text": "這不是一個有效的聯盟名稱。"
+  },
+  {
+    "RowIndex": 29,
+    "Id": "LeagueDescriptionInvalid",
+    "Text": "這不是一個有效的聯盟描述。"
+  },
+  {
+    "RowIndex": 30,
+    "Id": "AlreadyInParty",
+    "Text": "這項指令無法被完成，因為你已經在隊伍裡了。"
+  },
+  {
+    "RowIndex": 31,
+    "Id": "NotItemOwner",
+    "Text": "你並非該項掉落物的擁有者。"
+  },
+  {
+    "RowIndex": 32,
+    "Id": "NotAPartyMember",
+    "Text": "這項操作的目標必須是隊伍成員。"
+  },
+  {
+    "RowIndex": 33,
+    "Id": "PartyPromotionRequired",
+    "Text": "你不能執行此項操作，因為你並非隊伍的隊長。"
+  },
+  {
+    "RowIndex": 34,
+    "Id": "PartyDoesNotExist",
+    "Text": "隊伍並不存在。"
+  },
+  {
+    "RowIndex": 35,
+    "Id": "PartyLeaderOnlyCanOpenMapPortals",
+    "Text": "只有隊長可以開啟地圖傳送門。隊長可於隊伍頁面將其他玩家提升為隊長。"
+  },
+  {
+    "RowIndex": 36,
+    "Id": "ServiceDoesNotExist",
+    "Text": "伺服器並不存在。"
+  },
+  {
+    "RowIndex": 37,
+    "Id": "CommandInvalid",
+    "Text": "伺服器無法回應此指令或指令語法有錯誤。"
+  },
+  {
+    "RowIndex": 38,
+    "Id": "DestinationUnreachable",
+    "Text": "無法連線至這個伺服器。"
+  },
+  {
+    "RowIndex": 39,
+    "Id": "NotInPartyWith",
+    "Text": "你必須跟該玩家在同一個隊伍。"
+  },
+  {
+    "RowIndex": 40,
+    "Id": "NotInParty",
+    "Text": "你不在這個隊伍中。"
+  },
+  {
+    "RowIndex": 41,
+    "Id": "InstanceFull",
+    "Text": "地圖已滿。"
+  },
+  {
+    "RowIndex": 42,
+    "Id": "InvalidInstanceTransfer",
+    "Text": "用此方法進入地圖並不允許。"
+  },
+  {
+    "RowIndex": 43,
+    "Id": "PortalDoesNotExist",
+    "Text": "傳送門的另一端中斷連線了。"
+  },
+  {
+    "RowIndex": 44,
+    "Id": "OutOfYourLeague",
+    "Text": "該角色與在不同的聯盟。"
+  },
+  {
+    "RowIndex": 45,
+    "Id": "DownForMaintenance",
+    "Text": "伺服器關閉維修中，請稍後再試。"
+  },
+  {
+    "RowIndex": 46,
+    "Id": "InstanceAuthenticationInvalid",
+    "Text": "你所輸入的驗證是無效的。"
+  },
+  {
+    "RowIndex": 47,
+    "Id": "PartyFull",
+    "Text": "你的隊伍已滿。"
+  },
+  {
+    "RowIndex": 48,
+    "Id": "TooManyCharacters",
+    "Text": "已經達到角色數量的最大上限 。"
+  },
+  {
+    "RowIndex": 49,
+    "Id": "InvalidActivationKey",
+    "Text": "無效的啟動金鑰。"
+  },
+  {
+    "RowIndex": 50,
+    "Id": "EmailValidationRequired",
+    "Text": "已將你的帳戶與電子郵件綁定，在登入前必須先前往信箱進行驗證。"
+  },
+  {
+    "RowIndex": 51,
+    "Id": "MissingRequiredField",
+    "Text": "請填寫所有必要欄位。"
+  },
+  {
+    "RowIndex": 52,
+    "Id": "InvalidArgument",
+    "Text": "有一個項目是無效的。"
+  },
+  {
+    "RowIndex": 53,
+    "Id": "GameComplete",
+    "Text": "比賽已經結束。"
+  },
+  {
+    "RowIndex": 54,
+    "Id": "LeagueHasEnded",
+    "Text": "聯盟已經結束，你無法再選擇該位角色。"
+  },
+  {
+    "RowIndex": 55,
+    "Id": "LeagueClosedForEntry",
+    "Text": "此聯盟入口已經關閉。"
+  },
+  {
+    "RowIndex": 56,
+    "Id": "AlreadyOnIgnoreList",
+    "Text": "該帳號已在黑名單中。"
+  },
+  {
+    "RowIndex": 57,
+    "Id": "NotOnIgnoreList",
+    "Text": "該帳號不在黑名單中。"
+  },
+  {
+    "RowIndex": 58,
+    "Id": "IgnoreListFull",
+    "Text": "黑名單已滿。"
+  },
+  {
+    "RowIndex": 59,
+    "Id": "AddToIgnoreListFailed",
+    "Text": "無法將 {0} 新增到黑名單，原因：{1}"
+  },
+  {
+    "RowIndex": 60,
+    "Id": "AddedToIgnoreList",
+    "Text": "{0} 已被加入到黑名單中。"
+  },
+  {
+    "RowIndex": 61,
+    "Id": "RemoveFromIgnoreListFailed",
+    "Text": "無法移除黑名單中的 {0}，原因：{1}"
+  },
+  {
+    "RowIndex": 62,
+    "Id": "RemovedFromIgnoreList",
+    "Text": "{0} 已經從黑名單中移除。"
+  },
+  {
+    "RowIndex": 63,
+    "Id": "FailedToClearIgnoreList",
+    "Text": "無法移除黑名單，原因：{0}"
+  },
+  {
+    "RowIndex": 64,
+    "Id": "IgnoreListCleared",
+    "Text": "黑名單已經全部移除。"
+  },
+  {
+    "RowIndex": 65,
+    "Id": "FailedToAddNamedFriend",
+    "Text": "無法將 {0} 新增至好友名單，原因：{1}"
+  },
+  {
+    "RowIndex": 66,
+    "Id": "FailedToAddUnnamedFriend",
+    "Text": "無法將該位玩家加入好友名單，原因：{0}"
+  },
+  {
+    "RowIndex": 67,
+    "Id": "FailedToAcceptFriend",
+    "Text": "無法接受該位玩家的好友邀請，原因：{0}"
+  },
+  {
+    "RowIndex": 68,
+    "Id": "FailedToRemoveFriend",
+    "Text": "無法刪除該位好友，原因：{0}"
+  },
+  {
+    "RowIndex": 69,
+    "Id": "TriedToFriendSelf",
+    "Text": "無法將自己加入好友名單中。"
+  },
+  {
+    "RowIndex": 70,
+    "Id": "AccountBanned",
+    "Text": "此帳號因違反下述狀況，已經被遊戲管理者停權了。\r\n★使用或散播非法方式破壞遊戲平衡\r\n★利用非法機制取得遊戲幣或道具"
+  },
+  {
+    "RowIndex": 71,
+    "Id": "AccountChildLocked",
+    "Text": "此帳號已經被家屬停權了。"
+  },
+  {
+    "RowIndex": 72,
+    "Id": "LoginRateLimited",
+    "Text": "請勿短時間內連續嘗試登入。請稍待後再嘗試。"
+  },
+  {
+    "RowIndex": 73,
+    "Id": "AccountLocked",
+    "Text": "此帳號已被封鎖，有任何疑問請連繫客服中心。"
+  },
+  {
+    "RowIndex": 74,
+    "Id": "NotAccountOwner",
+    "Text": "不能執行此項操作，因為你並非此帳號的擁有者。"
+  },
+  {
+    "RowIndex": 75,
+    "Id": "TemporaryLockout",
+    "Text": "此帳號已經被遊戲管理員暫時封鎖了。"
+  },
+  {
+    "RowIndex": 76,
+    "Id": "Kicked",
+    "Text": "遊戲管理者員已暫時切斷此帳號與伺服器的連線。"
+  },
+  {
+    "RowIndex": 77,
+    "Id": "StashTabDoesNotExist",
+    "Text": "該倉庫頁面並不存在。"
+  },
+  {
+    "RowIndex": 78,
+    "Id": "LeaguePasswordInvalid",
+    "Text": "密碼錯誤。"
+  },
+  {
+    "RowIndex": 79,
+    "Id": "InstanceRateLimited",
+    "Text": "由於在短時間內執行過多指令，因此被伺服器暫時切斷連線。"
+  },
+  {
+    "RowIndex": 80,
+    "Id": "FriendsListFull",
+    "Text": "好友名單已經擴充到最大。"
+  },
+  {
+    "RowIndex": 81,
+    "Id": "NotOnFriendsList",
+    "Text": "該帳號不在好友名單中。"
+  },
+  {
+    "RowIndex": 82,
+    "Id": "AlreadyOnFriendsList",
+    "Text": "該帳號已被你加入好友名單中。"
+  },
+  {
+    "RowIndex": 83,
+    "Id": "LeagueUnavailableToNonBeta",
+    "Text": "此聯盟只有測試玩家可以登入。"
+  },
+  {
+    "RowIndex": 84,
+    "Id": "InstanceDoesNotExist",
+    "Text": "此分流並不存在。"
+  },
+  {
+    "RowIndex": 85,
+    "Id": "Muted",
+    "Text": "在被禁言的情況下無法執行這項操作。"
+  },
+  {
+    "RowIndex": 86,
+    "Id": "Ignored",
+    "Text": "你已經被該位玩家加入忽略名單。"
+  },
+  {
+    "RowIndex": 87,
+    "Id": "PvPMatchDoesNotExist",
+    "Text": "此對戰種類並不存在。"
+  },
+  {
+    "RowIndex": 88,
+    "Id": "ItemDoesNotExist",
+    "Text": "該項道具並不存在。"
+  },
+  {
+    "RowIndex": 89,
+    "Id": "NeedNormalStashTab",
+    "Text": "必須擁有最少一頁普通倉庫頁來升級。"
+  },
+  {
+    "RowIndex": 90,
+    "Id": "NotEnoughCredit",
+    "Text": "沒有足夠的黯幣購買此道具。"
+  },
+  {
+    "RowIndex": 91,
+    "Id": "PackagePurchaseIncomplete",
+    "Text": "購買並未成功，請與客服中心聯絡。"
+  },
+  {
+    "RowIndex": 92,
+    "Id": "MultiplePurchasesNotAllowed",
+    "Text": "只能購買此項商品一次。"
+  },
+  {
+    "RowIndex": 93,
+    "Id": "CantDeleteWithMicrotransactions",
+    "Text": "請先移除這隻角色身上物品的所有特效。可以在商城置物箱進行此項動作。"
+  },
+  {
+    "RowIndex": 94,
+    "Id": "NotEnoughRoomForItem",
+    "Text": "沒有足夠的道具欄位。"
+  },
+  {
+    "RowIndex": 95,
+    "Id": "SavedCredentialsNewLocation",
+    "Text": "從一個新的地點登入遊戲，請重新輸入密碼。"
+  },
+  {
+    "RowIndex": 96,
+    "Id": "SavedCredentialsBad",
+    "Text": "儲存的憑據已經過期，請重新輸入密碼。"
+  },
+  {
+    "RowIndex": 97,
+    "Id": "LoginRequiresUnlockCode",
+    "Text": "此帳號已被鎖定，請至信箱確認解鎖郵件中的解鎖碼並在此輸入。"
+  },
+  {
+    "RowIndex": 98,
+    "Id": "UnlockCodeIncorrect",
+    "Text": "你所提供的解鎖碼是錯誤的。"
+  },
+  {
+    "RowIndex": 99,
+    "Id": "UnlockEmailTooSoon",
+    "Text": "距離上一封帳號解鎖郵件發出的時間太近了。"
+  },
+  {
+    "RowIndex": 100,
+    "Id": "DailyDealDoesNotExist",
+    "Text": "此交易並不存在。"
+  },
+  {
+    "RowIndex": 101,
+    "Id": "MicrotransactionDoesNotExist",
+    "Text": "此商城物品並不存在。"
+  },
+  {
+    "RowIndex": 102,
+    "Id": "AccountNameDisallowed",
+    "Text": "該帳號名稱不被允許。"
+  },
+  {
+    "RowIndex": 103,
+    "Id": "BannedLoginIp",
+    "Text": "此 IP 已被封鎖。有任何疑問請與客服中心聯繫。"
+  },
+  {
+    "RowIndex": 104,
+    "Id": "GeneralFailure",
+    "Text": "發生了無法預期的問題。"
+  },
+  {
+    "RowIndex": 105,
+    "Id": "CurrencyTradingPrevented",
+    "Text": "無法與他人交易通貨和傳奇裝備，除非帳號內擁有超過 60 等級的角色。"
+  },
+  {
+    "RowIndex": 106,
+    "Id": "SteamAssociateEmailSent",
+    "Text": "已經發送一封電子郵件到你的信箱確認是否為本人，請點擊電子郵件裡的連結繼續下一步。"
+  },
+  {
+    "RowIndex": 107,
+    "Id": "EmailAlreadyInUse",
+    "Text": "該電子郵件地址已跟其他遊戲帳號綁定。"
+  },
+  {
+    "RowIndex": 108,
+    "Id": "AccountAlreadyHasEmail",
+    "Text": "此帳號已與電子郵件地址連結。"
+  },
+  {
+    "RowIndex": 109,
+    "Id": "NoAssociatedEmail",
+    "Text": "此帳號尚未與任何電子郵件地址連結。"
+  },
+  {
+    "RowIndex": 110,
+    "Id": "SteamIdAlreadyInUse",
+    "Text": "該 Steam 帳號已跟其他遊戲帳號綁定。"
+  },
+  {
+    "RowIndex": 111,
+    "Id": "AccountAlreadyHasSteam",
+    "Text": "此帳號已與 Steam 帳號連結。"
+  },
+  {
+    "RowIndex": 112,
+    "Id": "NoAssociatedSteamId",
+    "Text": "此帳號尚未與任何 Steam 帳號連結。"
+  },
+  {
+    "RowIndex": 113,
+    "Id": "EpicIdAlreadyInUse",
+    "Text": "此 Epic  帳號已與 PoE 帳號連結。"
+  },
+  {
+    "RowIndex": 114,
+    "Id": "AccountAlreadyHasEpic",
+    "Text": "此帳號已與 Epic 帳號連結。"
+  },
+  {
+    "RowIndex": 115,
+    "Id": "NoAssociatedEpicId",
+    "Text": "此帳號未與 Epic 帳號連結。"
+  },
+  {
+    "RowIndex": 116,
+    "Id": "KakaoIdAlreadyInUse",
+    "Text": "此 Kakao 帳號已與 PoE 帳號連結。"
+  },
+  {
+    "RowIndex": 117,
+    "Id": "AccountAlreadyHasKakao",
+    "Text": "此帳號已與 Kakao 帳號連結。"
+  },
+  {
+    "RowIndex": 118,
+    "Id": "NoAssociatedKakaoId",
+    "Text": "此帳號尚未與任何 Kakao 帳號連結。"
+  },
+  {
+    "RowIndex": 119,
+    "Id": "SonyIdAlreadyInUse",
+    "Text": "該 Sony 帳號已跟其他遊戲帳號綁定。"
+  },
+  {
+    "RowIndex": 120,
+    "Id": "AccountAlreadyHasSony",
+    "Text": "此帳號已與 Sony 帳號連結。"
+  },
+  {
+    "RowIndex": 121,
+    "Id": "NoAssociatedSonyId",
+    "Text": "此帳號尚未與任何 Sony 帳號連結。"
+  },
+  {
+    "RowIndex": 122,
+    "Id": "XboxIdAlreadyInUse",
+    "Text": "該 Xbox 帳號已跟其他遊戲帳號綁定。"
+  },
+  {
+    "RowIndex": 123,
+    "Id": "AccountAlreadyHasXbox",
+    "Text": "此帳號已與 Xbox 帳號連結。"
+  },
+  {
+    "RowIndex": 124,
+    "Id": "NoAssociatedXboxId",
+    "Text": "此帳號尚未與任何 Xbox 帳號連結。"
+  },
+  {
+    "RowIndex": 125,
+    "Id": "QqNumberAlreadyInUse",
+    "Text": "該 WeGame 帳號已跟其他遊戲帳號綁定。"
+  },
+  {
+    "RowIndex": 126,
+    "Id": "AccountAlreadyHasQq",
+    "Text": "此帳號已與 WeGame 帳號連結。"
+  },
+  {
+    "RowIndex": 127,
+    "Id": "NoAssociatedQqNumber",
+    "Text": "此帳號尚未與任何 WeGame 帳號連結。"
+  },
+  {
+    "RowIndex": 128,
+    "Id": "MapDeviceBusy",
+    "Text": "啟動失敗，裝置忙碌中。"
+  },
+  {
+    "RowIndex": 129,
+    "Id": "MapDeviceTooManyItems",
+    "Text": "啟動失敗。"
+  },
+  {
+    "RowIndex": 130,
+    "Id": "MapDeviceTooManyItemsSound",
+    "Text": "啟動失敗，你聽到遠方傳來一陣聲響。"
+  },
+  {
+    "RowIndex": 131,
+    "Id": "MapDeviceNotMap",
+    "Text": "啟動失敗，裝置裡沒有任何地圖。"
+  },
+  {
+    "RowIndex": 132,
+    "Id": "MapDeviceCreateInstanceFailed",
+    "Text": "啟動失敗，無法開啟地圖傳送門。"
+  },
+  {
+    "RowIndex": 133,
+    "Id": "MapDeviceCancelled",
+    "Text": "啟動已被取消。"
+  },
+  {
+    "RowIndex": 134,
+    "Id": "MapDeviceEmpty",
+    "Text": "啟動失敗，裝置裡需要一張地圖。"
+  },
+  {
+    "RowIndex": 135,
+    "Id": "PlayerDisconnected",
+    "Text": "{0} 離開了此區域。"
+  },
+  {
+    "RowIndex": 136,
+    "Id": "PlayerJoined",
+    "Text": "{0} 進入了此區域。"
+  },
+  {
+    "RowIndex": 137,
+    "Id": "EnteredArea",
+    "Text": "你已進入：{0}。"
+  },
+  {
+    "RowIndex": 138,
+    "Id": "LeagueNotYetStarted",
+    "Text": "比賽尚未開始，因此目前無法移動。比賽開始之後即可自由行動。"
+  },
+  {
+    "RowIndex": 139,
+    "Id": "LeagueAlreadyEnded",
+    "Text": "該聯盟已經結束。"
+  },
+  {
+    "RowIndex": 140,
+    "Id": "LadderRankAlive",
+    "Text": "{1}. 名稱：{0}、等級：{2}、職業：{3}、經驗：{4}"
+  },
+  {
+    "RowIndex": 141,
+    "Id": "LadderRankDead",
+    "Text": "{1}. 名稱：{0}（已死亡）、等級：{2}、職業：{3}、經驗：{4}"
+  },
+  {
+    "RowIndex": 142,
+    "Id": "LadderRankTimed",
+    "Text": "{1} . {0} 等級 {2} {3} 時間：{4}"
+  },
+  {
+    "RowIndex": 143,
+    "Id": "LevelUp",
+    "Text": "{0}（{1}）目前等級： {2}"
+  },
+  {
+    "RowIndex": 144,
+    "Id": "AlreadyInPVPQueue",
+    "Text": "必須先取消對戰排隊序列。"
+  },
+  {
+    "RowIndex": 145,
+    "Id": "MissingRequiredQuestState",
+    "Text": "尚未取得必要的任務。"
+  },
+  {
+    "RowIndex": 146,
+    "Id": "FailedToJoinAnyInstances",
+    "Text": "錯誤：無法進入。"
+  },
+  {
+    "RowIndex": 147,
+    "Id": "FailedToJoinInstance",
+    "Text": "錯誤：無法進入，原因：{0}"
+  },
+  {
+    "RowIndex": 148,
+    "Id": "FailedToConnectToInstance",
+    "Text": "與副本連線失敗。"
+  },
+  {
+    "RowIndex": 149,
+    "Id": "FailedToApplyCurrency",
+    "Text": "使用物品失敗：{0}"
+  },
+  {
+    "RowIndex": 150,
+    "Id": "TooManyGlobalItemLinks",
+    "Text": "無法在世界聊天頻道內一次張貼超過{0}項道具的連結。"
+  },
+  {
+    "RowIndex": 151,
+    "Id": "MutedUntilSeconds",
+    "Text": "此帳號已被禁言，需在 {0} 之後才能再次發話。"
+  },
+  {
+    "RowIndex": 152,
+    "Id": "MutedUntilSecondsConsole",
+    "Text": "此帳號已被禁言，需在 {0} 之後才能再次發話。"
+  },
+  {
+    "RowIndex": 153,
+    "Id": "ObaPlayerJoined",
+    "Text": "快點，蠢蛋！"
+  },
+  {
+    "RowIndex": 154,
+    "Id": "ObaDoorUnlocked",
+    "Text": "你可以前進了，蠢蛋！"
+  },
+  {
+    "RowIndex": 155,
+    "Id": "ObaBeginDeathCount",
+    "Text": "準備受死吧，蠢蛋！"
+  },
+  {
+    "RowIndex": 156,
+    "Id": "ObaFinalCountdown",
+    "Text": "{0}！"
+  },
+  {
+    "RowIndex": 157,
+    "Id": "ObaKillPlayer",
+    "Text": "死吧，蠢蛋！"
+  },
+  {
+    "RowIndex": 158,
+    "Id": "Oba75PercentOxygen",
+    "Text": "我憐憫你，蠢蛋！"
+  },
+  {
+    "RowIndex": 159,
+    "Id": "Oba50PercentOxygen",
+    "Text": "時間快用盡了，蠢蛋！"
+  },
+  {
+    "RowIndex": 160,
+    "Id": "Oba25PercentOxygen",
+    "Text": "你的死期到了，蠢蛋！"
+  },
+  {
+    "RowIndex": 161,
+    "Id": "CowardsTrialNextWave",
+    "Text": "在黑暗中隱約出現了奇怪的影子..."
+  },
+  {
+    "RowIndex": 162,
+    "Id": "CowardsTrialRoomClear",
+    "Text": "整個房間回復了寂靜..."
+  },
+  {
+    "RowIndex": 163,
+    "Id": "CowardsTrialLevelClear",
+    "Text": "狂虐的氣息慢慢消散..."
+  },
+  {
+    "RowIndex": 164,
+    "Id": "VaalKillOversoul",
+    "Text": "你必須先殺死瓦爾超靈。"
+  },
+  {
+    "RowIndex": 165,
+    "Id": "VaalDeliverAmulets",
+    "Text": "你必須要將盜賊頭目們的護身符交給艾米爾來獲得頂尖之錐。"
+  },
+  {
+    "RowIndex": 166,
+    "Id": "VaalAcquireAmulets",
+    "Text": "你必須要取回盜賊頭目們的護身符。"
+  },
+  {
+    "RowIndex": 167,
+    "Id": "VaalGetApexDex",
+    "Text": "你必須從克雷頓那取得頂尖之錐。"
+  },
+  {
+    "RowIndex": 168,
+    "Id": "VaalGetApexStr",
+    "Text": "你必須從歐克那取得頂尖之錐。"
+  },
+  {
+    "RowIndex": 169,
+    "Id": "VaalGetApexInt",
+    "Text": "你必須從阿莉亞那取得頂尖之錐。"
+  },
+  {
+    "RowIndex": 170,
+    "Id": "VaalGetApexTown",
+    "Text": "你必須從艾米爾那取得頂尖之錐。"
+  },
+  {
+    "RowIndex": 171,
+    "Id": "MonsterRemaining1",
+    "Text": "剩餘 1 隻怪物。"
+  },
+  {
+    "RowIndex": 172,
+    "Id": "MonstersRemainingN",
+    "Text": "剩餘 {0} 隻怪物。"
+  },
+  {
+    "RowIndex": 173,
+    "Id": "MonstersRemainingMoreThan50",
+    "Text": "剩餘超過 50 隻怪物。"
+  },
+  {
+    "RowIndex": 174,
+    "Id": "PlayerDeathCount1",
+    "Text": "你一共死了 1 次。"
+  },
+  {
+    "RowIndex": 175,
+    "Id": "PlayerDeathCountN",
+    "Text": "你一共死了 {0} 次。"
+  },
+  {
+    "RowIndex": 176,
+    "Id": "PlayerKillCountN",
+    "Text": "你一共殺死了 {0} 隻怪物。"
+  },
+  {
+    "RowIndex": 177,
+    "Id": "PvPStats1v1",
+    "Text": "1v1 勝 / 敗 / 和：{0} / {1} / {2}"
+  },
+  {
+    "RowIndex": 178,
+    "Id": "PvPStats3v3",
+    "Text": "3v3 勝 / 敗 / 和：{0} / {1} / {2}"
+  },
+  {
+    "RowIndex": 179,
+    "Id": "PvPPlayerJoinedTeam",
+    "Text": "{0} 加入了 {1} 隊。"
+  },
+  {
+    "RowIndex": 180,
+    "Id": "PvPNotEnoughPlayers",
+    "Text": "比賽無法開始，因為加入的玩家數量不足。"
+  },
+  {
+    "RowIndex": 181,
+    "Id": "PvPPlayerKilled",
+    "Text": "{1} 殺死了 {0}。"
+  },
+  {
+    "RowIndex": 182,
+    "Id": "PvPPartyTooLarge",
+    "Text": "隊伍人數過多，因此無法加入此種對戰類別。"
+  },
+  {
+    "RowIndex": 183,
+    "Id": "PvPPlayerAlreadyInQueue",
+    "Text": "無法加入：你已經在一個序列中。"
+  },
+  {
+    "RowIndex": 184,
+    "Id": "PvPPartyMemberAlreadyInQueue",
+    "Text": "無法加入：你的隊伍成員已經在一個序列中。"
+  },
+  {
+    "RowIndex": 185,
+    "Id": "PvPPlayerTooFarQuest",
+    "Text": "無法加入：你已經超過了此對戰類別的難度限制。"
+  },
+  {
+    "RowIndex": 186,
+    "Id": "PvPPartyMemberTooFarQuest",
+    "Text": "無法加入：你的隊伍成員已經超過了此對戰類別的難度限制。"
+  },
+  {
+    "RowIndex": 187,
+    "Id": "PvPPlayerTooHighLevel",
+    "Text": "無法加入：你已經超過了此對戰類別的等級上限。"
+  },
+  {
+    "RowIndex": 188,
+    "Id": "PvPPartyMemberTooHighLevel",
+    "Text": "無法加入：你的隊伍成員已經超過了此對戰類別的等級上限。"
+  },
+  {
+    "RowIndex": 189,
+    "Id": "PvPPlayerHasAscendancy",
+    "Text": "無法加入：你已經選擇了昇華職業。此對戰類別不允許。"
+  },
+  {
+    "RowIndex": 190,
+    "Id": "PvPPartyMemberHasAscendancy",
+    "Text": "無法加入：你的隊伍成員已經選擇了昇華職業。此對戰類別不允許。"
+  },
+  {
+    "RowIndex": 191,
+    "Id": "PvPJoinFail",
+    "Text": "無法加入對戰序列，原因：{0}"
+  },
+  {
+    "RowIndex": 192,
+    "Id": "PvPQueueCancelled",
+    "Text": "對戰序列取消。"
+  },
+  {
+    "RowIndex": 193,
+    "Id": "PvPQueueCancelledBy",
+    "Text": "對戰序列已被 {0} 取消。"
+  },
+  {
+    "RowIndex": 194,
+    "Id": "PvPMatchListUnreachable",
+    "Text": "無法取得對戰名單，原因：{0}"
+  },
+  {
+    "RowIndex": 195,
+    "Id": "PvPDisabled",
+    "Text": "此處禁止 PvP 對戰。"
+  },
+  {
+    "RowIndex": 196,
+    "Id": "PlayerSuicide",
+    "Text": "{0} 自殺了。"
+  },
+  {
+    "RowIndex": 197,
+    "Id": "PlayerSlain",
+    "Text": "{0} 被殺死了。"
+  },
+  {
+    "RowIndex": 198,
+    "Id": "NoCharacterSpecified",
+    "Text": "請輸入一個玩家名稱。"
+  },
+  {
+    "RowIndex": 199,
+    "Id": "WhoIsOffline",
+    "Text": "名稱：{0}、職業：{3}、等級：{2}、聯盟：{1}、狀態：不在線上。"
+  },
+  {
+    "RowIndex": 200,
+    "Id": "WhoIsOnline",
+    "Text": "名稱：{0}、職業：{3}、等級：{2}、聯盟：{1}、狀態：{4}。"
+  },
+  {
+    "RowIndex": 201,
+    "Id": "ItemOnCursorLevel",
+    "Text": "游標上的道具物品等級為：{0}。"
+  },
+  {
+    "RowIndex": 202,
+    "Id": "NoItemOnCursor",
+    "Text": "游標上沒有道具。"
+  },
+  {
+    "RowIndex": 203,
+    "Id": "ItemOnCursorHasNoLevel",
+    "Text": "游標上的道具沒有物品等級（物品需要有等級才能獲得屬性）。"
+  },
+  {
+    "RowIndex": 204,
+    "Id": "FixMyHelmetSuccess",
+    "Text": "頭盔模組升級完畢。"
+  },
+  {
+    "RowIndex": 205,
+    "Id": "OperationFailed",
+    "Text": "操作失敗。"
+  },
+  {
+    "RowIndex": 206,
+    "Id": "FixMyHelmetAlreadyFixed",
+    "Text": "此頭盔目前已是正確的模組。"
+  },
+  {
+    "RowIndex": 207,
+    "Id": "FixMyHelmetUnique",
+    "Text": "在游標上的頭盔是傳奇物品。"
+  },
+  {
+    "RowIndex": 208,
+    "Id": "FixMyHelmetNotHelmet",
+    "Text": "在游標上的道具並非頭盔。"
+  },
+  {
+    "RowIndex": 209,
+    "Id": "ItemHasMicrotransaction",
+    "Text": "無法對有商城特效的物品做此動作，請在移除特效之後再試一次。"
+  },
+  {
+    "RowIndex": 210,
+    "Id": "BugReportNumber",
+    "Text": "你的 bug 回報編號是 {0}。"
+  },
+  {
+    "RowIndex": 211,
+    "Id": "PlayedTime",
+    "Text": "你一共玩了 {0}。"
+  },
+  {
+    "RowIndex": 212,
+    "Id": "CharacterAge",
+    "Text": "你的角色於 {0} 前所創立。"
+  },
+  {
+    "RowIndex": 213,
+    "Id": "CharacterAgeUnknown",
+    "Text": "你的角色沒有創造日期的紀錄。"
+  },
+  {
+    "RowIndex": 214,
+    "Id": "HelpCtrlClick",
+    "Text": "按著Ctrl之後再點選地圖入口或傳送點，即可選擇新增一張重置過的地圖或是進入已探索過的地圖。"
+  },
+  {
+    "RowIndex": 215,
+    "Id": "ReceivedRespecPoint1",
+    "Text": "你得到了 1 點天賦重置點數。"
+  },
+  {
+    "RowIndex": 216,
+    "Id": "ReceivedRespecPointN",
+    "Text": "你得到了 {0} 點天賦重置點數。"
+  },
+  {
+    "RowIndex": 217,
+    "Id": "ReceivedPassivePoint1",
+    "Text": "你得到了 1 點天賦點數。"
+  },
+  {
+    "RowIndex": 218,
+    "Id": "ReceivedPassivePointN",
+    "Text": "你得到了 {0} 點天賦點數。"
+  },
+  {
+    "RowIndex": 219,
+    "Id": "ReceivedStatBonus",
+    "Text": "你得到了 {0}。"
+  },
+  {
+    "RowIndex": 220,
+    "Id": "LeagueTradeDisabled",
+    "Text": "在「自力模式」下無法進行交易。"
+  },
+  {
+    "RowIndex": 221,
+    "Id": "TradeItemOnCursor",
+    "Text": "當游標選取了一件裝備時無法進行交易。"
+  },
+  {
+    "RowIndex": 222,
+    "Id": "TradePlayerBusy",
+    "Text": "該玩家忙碌中。"
+  },
+  {
+    "RowIndex": 223,
+    "Id": "TradeAccepted",
+    "Text": "完成交易。"
+  },
+  {
+    "RowIndex": 224,
+    "Id": "TradeCancelled",
+    "Text": "取消交易。"
+  },
+  {
+    "RowIndex": 225,
+    "Id": "YouWereIgnored",
+    "Text": "該玩家已將你加入黑名單。"
+  },
+  {
+    "RowIndex": 226,
+    "Id": "AchievementServerUnreachable",
+    "Text": "錯誤：無法連接到成就伺服器。"
+  },
+  {
+    "RowIndex": 227,
+    "Id": "DestroyCursorItem",
+    "Text": "游標所選取的物品已摧毀。"
+  },
+  {
+    "RowIndex": 228,
+    "Id": "DestroyItemInTrade",
+    "Text": "無法在交易時摧毀物品。"
+  },
+  {
+    "RowIndex": 229,
+    "Id": "DestroyQuestItem",
+    "Text": "無法刪除任務物品。"
+  },
+  {
+    "RowIndex": 230,
+    "Id": "DestroyMicrotransactions",
+    "Text": "無法摧毀帶有商城特效的物品。"
+  },
+  {
+    "RowIndex": 231,
+    "Id": "DestroyBanditRespec",
+    "Text": "此物品無法摧毀，但你可以販賣給 NPC。"
+  },
+  {
+    "RowIndex": 232,
+    "Id": "CannotCreatePublicPartyYet",
+    "Text": "必須先到達第一個城鎮才能成立公開隊伍。"
+  },
+  {
+    "RowIndex": 233,
+    "Id": "PublicPartyListUnreachable",
+    "Text": "無法取得公開隊伍名單：原因 {0} 。"
+  },
+  {
+    "RowIndex": 234,
+    "Id": "FullPassiveSkillRefund",
+    "Text": "你的天賦點數已被全部重置。"
+  },
+  {
+    "RowIndex": 235,
+    "Id": "FullAtlasPassiveSkillRefund",
+    "Text": "你的輿圖天賦點數已經被重置。"
+  },
+  {
+    "RowIndex": 236,
+    "Id": "TeleportFailed",
+    "Text": "傳送失敗：玩家無法進入該區域。"
+  },
+  {
+    "RowIndex": 237,
+    "Id": "TutorialShowItems",
+    "Text": "按住 Alt 以顯示地上的物品。"
+  },
+  {
+    "RowIndex": 238,
+    "Id": "FinishedDescent",
+    "Text": "恭喜你，你已經完成挑戰！"
+  },
+  {
+    "RowIndex": 239,
+    "Id": "JoinedGlobalChannel",
+    "Text": "目前正在世界頻道：分流 {1} {0} 。"
+  },
+  {
+    "RowIndex": 240,
+    "Id": "JoinedTradeChannel",
+    "Text": "目前正在交易頻道：分流 {1} {0} 。"
+  },
+  {
+    "RowIndex": 241,
+    "Id": "ShopPackageDoesNotExist",
+    "Text": "組合包不存在。"
+  },
+  {
+    "RowIndex": 242,
+    "Id": "ShopPackagePurchaseFailed",
+    "Text": "購買組合包失敗。"
+  },
+  {
+    "RowIndex": 243,
+    "Id": "ShopPackageTransactionDoesNotExist",
+    "Text": "此交易不存在。"
+  },
+  {
+    "RowIndex": 244,
+    "Id": "DownForMaintenanceTemp",
+    "Text": "目前所在的伺服器正關閉維修中，請重新登入。"
+  },
+  {
+    "RowIndex": 245,
+    "Id": "GuildNameTooLong",
+    "Text": "公會名稱過長。"
+  },
+  {
+    "RowIndex": 246,
+    "Id": "GuildTagTooLong",
+    "Text": "公會標籤過長。"
+  },
+  {
+    "RowIndex": 247,
+    "Id": "AccountAlreadyInGuild",
+    "Text": "該帳號已經有公會了。"
+  },
+  {
+    "RowIndex": 248,
+    "Id": "GuildDoesNotExist",
+    "Text": "該公會不存在。"
+  },
+  {
+    "RowIndex": 249,
+    "Id": "GuildMustBeOfficer",
+    "Text": "必須是公會幹部才能使用此功能。"
+  },
+  {
+    "RowIndex": 250,
+    "Id": "NotInGuild",
+    "Text": "此帳號並非公會成員。"
+  },
+  {
+    "RowIndex": 251,
+    "Id": "GuildFull",
+    "Text": "公會成員數量已達上限。"
+  },
+  {
+    "RowIndex": 252,
+    "Id": "GuildMustBeLeader",
+    "Text": "只有公會會長才能執行此操作。"
+  },
+  {
+    "RowIndex": 253,
+    "Id": "DisallowedOnSelf",
+    "Text": "無法對自己這麼做。"
+  },
+  {
+    "RowIndex": 254,
+    "Id": "TooManyGuildInvites",
+    "Text": "這個角色已經收到太多公會邀請。"
+  },
+  {
+    "RowIndex": 255,
+    "Id": "GuildStatusMessageTooLong",
+    "Text": "公會狀態訊息過長。"
+  },
+  {
+    "RowIndex": 256,
+    "Id": "NotEnoughPointsForTransaction",
+    "Text": "黯幣不足。"
+  },
+  {
+    "RowIndex": 257,
+    "Id": "GuildMustBeMember",
+    "Text": "只有公會成員才能執行此操作。"
+  },
+  {
+    "RowIndex": 258,
+    "Id": "RemoteStashAlreadyLocked",
+    "Text": "這個遠端倉庫頁已經被鎖定，請稍後在試。"
+  },
+  {
+    "RowIndex": 259,
+    "Id": "RemoteStashOperationRequiresLock",
+    "Text": "執行遠端倉庫存取前必須先進行鎖定。"
+  },
+  {
+    "RowIndex": 260,
+    "Id": "BadGuildStashPermissions",
+    "Text": "無法對這個公會倉庫頁進行此項操作。"
+  },
+  {
+    "RowIndex": 261,
+    "Id": "MaximumGuildSlots",
+    "Text": "公會成員數已達上限。"
+  },
+  {
+    "RowIndex": 262,
+    "Id": "GuildTagTooShort",
+    "Text": "公會名稱必須包含至少三個字元。"
+  },
+  {
+    "RowIndex": 263,
+    "Id": "GuildKickDisabledForAccount",
+    "Text": "無法將此帳號移出公會，因為該帳號最近有捐獻公會黯幣。"
+  },
+  {
+    "RowIndex": 264,
+    "Id": "FriendNoteTooLong",
+    "Text": "這個好友註記過長。"
+  },
+  {
+    "RowIndex": 265,
+    "Id": "TooHighLevelForCap",
+    "Text": "這個地區有等級上限：{0} 。"
+  },
+  {
+    "RowIndex": 266,
+    "Id": "PlayerWins",
+    "Text": "{0} 勝利！"
+  },
+  {
+    "RowIndex": 267,
+    "Id": "TooLowLevelToSendWhisper",
+    "Text": "得要達到等級 {0} 之後才能傳送密語。"
+  },
+  {
+    "RowIndex": 268,
+    "Id": "TooLowLevelToSendChat",
+    "Text": "得要達到等級 {1} 之後才能在 {0} 頻道發言。"
+  },
+  {
+    "RowIndex": 269,
+    "Id": "ReachedRegularChatLimit",
+    "Text": "請稍微等待一下再送出新的聊天訊息。"
+  },
+  {
+    "RowIndex": 270,
+    "Id": "ReachedTradeChatLimit",
+    "Text": "請稍微等待一下再在交易頻道送出訊息。"
+  },
+  {
+    "RowIndex": 271,
+    "Id": "PortalEffectChanged",
+    "Text": "你已經使用了 {0}。"
+  },
+  {
+    "RowIndex": 272,
+    "Id": "PortraitFrameChanged",
+    "Text": "你已經使用了 {0}。必須先登出再重新登入以使此特效生效。"
+  },
+  {
+    "RowIndex": 273,
+    "Id": "CharacterPortraitChanged",
+    "Text": "你已經使用了 {0}。必須先登出再重新登入以使此特效生效。"
+  },
+  {
+    "RowIndex": 274,
+    "Id": "NoHideout",
+    "Text": "此玩家在這聯盟並未擁有藏身處。"
+  },
+  {
+    "RowIndex": 275,
+    "Id": "FailedToUseItem",
+    "Text": "使用物品失敗：{0}"
+  },
+  {
+    "RowIndex": 276,
+    "Id": "ObaCompleted",
+    "Text": "哈哈！你果然是個強力的冒險者。帶上我所贈與你的遺產，將其散佈到瓦爾克拉斯各地吧！"
+  },
+  {
+    "RowIndex": 277,
+    "Id": "ArenaScoreTitle",
+    "Text": "目前排名：（殺死/死亡）"
+  },
+  {
+    "RowIndex": 278,
+    "Id": "ArenaScore",
+    "Text": "{1}: {0} （{2}/{3}）"
+  },
+  {
+    "RowIndex": 279,
+    "Id": "LostPassivePoint1",
+    "Text": "你已失去 1 個天賦點數。"
+  },
+  {
+    "RowIndex": 280,
+    "Id": "LostPassivePointN",
+    "Text": "你已失去 {0} 個天賦點數。"
+  },
+  {
+    "RowIndex": 281,
+    "Id": "LostStatBonus",
+    "Text": "你已失去 {0}。"
+  },
+  {
+    "RowIndex": 282,
+    "Id": "FFALadderUpdate",
+    "Text": "你目前在競技場中排名第 {0} 。"
+  },
+  {
+    "RowIndex": 283,
+    "Id": "CraftingFailed",
+    "Text": "賦予失敗： {0}"
+  },
+  {
+    "RowIndex": 284,
+    "Id": "SpectatorJoined",
+    "Text": "{0} 正在觀戰中。"
+  },
+  {
+    "RowIndex": 285,
+    "Id": "LeagueStartingSoonGlobal",
+    "Text": "下一場競賽將在 {1} 後開始。欲參與者，請回到角色選擇畫面並點選「參加」。相關詳細資訊請前往論壇確認。"
+  },
+  {
+    "RowIndex": 286,
+    "Id": "LeagueStartingSoonLocal",
+    "Text": "競賽將於 {0} 後開始。"
+  },
+  {
+    "RowIndex": 287,
+    "Id": "LeagueStartingNow",
+    "Text": "競賽已開始！"
+  },
+  {
+    "RowIndex": 288,
+    "Id": "LeagueEndingMinutes",
+    "Text": "競賽將於 {0} 後結束。"
+  },
+  {
+    "RowIndex": 289,
+    "Id": "LeagueFinished",
+    "Text": "競賽已結束！"
+  },
+  {
+    "RowIndex": 290,
+    "Id": "LeagueFirstToReachLevel",
+    "Text": "{0} 是第一個達到等級 {1} 的！"
+  },
+  {
+    "RowIndex": 291,
+    "Id": "LeagueFirstToEnterArea",
+    "Text": "{0} 是第一個進入 {1} 的！"
+  },
+  {
+    "RowIndex": 292,
+    "Id": "LeagueFirstToEnterDelveLevelSolo",
+    "Text": "{0} 是第一個進入單人掘獄深度 {1} 的！"
+  },
+  {
+    "RowIndex": 293,
+    "Id": "LeagueFirstToEnterDelveLevelParty",
+    "Text": "{0} 是第一個進入掘獄深度 {1} 的！"
+  },
+  {
+    "RowIndex": 294,
+    "Id": "LeagueFirstToFullyClear",
+    "Text": "{0} 是第一個 完全清空 {1} 的！"
+  },
+  {
+    "RowIndex": 295,
+    "Id": "LeagueFirstToDoQuest",
+    "Text": "{0} 是第一個完成 {1} 的！"
+  },
+  {
+    "RowIndex": 296,
+    "Id": "RealmRestartingSoon",
+    "Text": "伺服器將於 {0} 後重新啟動。"
+  },
+  {
+    "RowIndex": 297,
+    "Id": "RealmShuttingDownSown",
+    "Text": "伺服器將於 {0} 後關閉。"
+  },
+  {
+    "RowIndex": 298,
+    "Id": "RealmRestarting",
+    "Text": "開始伺服器重啟..."
+  },
+  {
+    "RowIndex": 299,
+    "Id": "RealmShuttingDown",
+    "Text": "開始伺服器關閉..."
+  },
+  {
+    "RowIndex": 300,
+    "Id": "RealmRestartDeployPatchNotification",
+    "Text": "我們將重啟伺服器以進行 {0} 更新。詳細更新內容請參閱公告中的改版資訊。維護時間約 {2}。{1}"
+  },
+  {
+    "RowIndex": 301,
+    "Id": "RealmMaintenanceNotification",
+    "Text": "我們即將關閉伺服器以進行維護。維護時間約 {1}。{0}"
+  },
+  {
+    "RowIndex": 302,
+    "Id": "CharacterOffline",
+    "Text": "該角色不在線上。"
+  },
+  {
+    "RowIndex": 303,
+    "Id": "CharacterNameOffline",
+    "Text": "{0} 不在線上。"
+  },
+  {
+    "RowIndex": 304,
+    "Id": "CharacterDifferentLeague",
+    "Text": "該角色在其他聯盟。"
+  },
+  {
+    "RowIndex": 305,
+    "Id": "NotMutualFriends",
+    "Text": "此帳號尚未接受你的交友邀請。"
+  },
+  {
+    "RowIndex": 306,
+    "Id": "CharacterNotInPvP",
+    "Text": "此角色並非在與玩家對戰中。"
+  },
+  {
+    "RowIndex": 307,
+    "Id": "SpectateFollow",
+    "Text": "你進入了觀戰此帳號的序列。"
+  },
+  {
+    "RowIndex": 308,
+    "Id": "HideoutDoodadLimitReached",
+    "Text": "無法再放置更多藏身處裝飾物。目前藏身處最多只能放置 750 個裝飾物。"
+  },
+  {
+    "RowIndex": 309,
+    "Id": "HardcoreDeathAnnouncement",
+    "Text": "{0} (等級 {1}) 在天梯排名第 {2} 名死亡。"
+  },
+  {
+    "RowIndex": 310,
+    "Id": "InteractErrorIncaBossSpawner",
+    "Text": "似乎需要一個三角形的鑰匙。"
+  },
+  {
+    "RowIndex": 311,
+    "Id": "InteractErrorMalachaiPortal",
+    "Text": "你尚未殺死瑪拉凱，或是瑪拉凱死亡時你不在區域中。"
+  },
+  {
+    "RowIndex": 312,
+    "Id": "InteractErrorMervielExit",
+    "Text": "你尚未殺死莫薇兒，或是瑪拉凱死亡時你不在區域中。"
+  },
+  {
+    "RowIndex": 313,
+    "Id": "InteractErrorHillockGate",
+    "Text": "你必須先殺死西拉克。"
+  },
+  {
+    "RowIndex": 314,
+    "Id": "InteractErrorTowerTransition",
+    "Text": "你尚未殺死神主，或是瑪拉凱死亡時你不在區域中。"
+  },
+  {
+    "RowIndex": 315,
+    "Id": "InteractErrorMineEntranceSeal",
+    "Text": "前往礦坑的入口已被迪虛瑞特封印阻擋。"
+  },
+  {
+    "RowIndex": 316,
+    "Id": "InteractErrorLockedDoor",
+    "Text": "此門已上鎖。"
+  },
+  {
+    "RowIndex": 317,
+    "Id": "InteractErrorTowerKey",
+    "Text": "尚未使用鑰匙開啟此門。"
+  },
+  {
+    "RowIndex": 318,
+    "Id": "InteractErrorPoisonTree",
+    "Text": "樹根擋住了你的去路。\r\n或許有什麼方法\r\n可以搞定這些礙事的樹根。"
+  },
+  {
+    "RowIndex": 319,
+    "Id": "InteractErrorUndyingBlockage",
+    "Text": "道路被堵住了。"
+  },
+  {
+    "RowIndex": 320,
+    "Id": "InteractErrorLocked",
+    "Text": "上著鎖。"
+  },
+  {
+    "RowIndex": 321,
+    "Id": "InteractErrorBlockageTransition",
+    "Text": "神秘屏障擋住了你的去路。"
+  },
+  {
+    "RowIndex": 322,
+    "Id": "InteractErrorSpikeBlockage",
+    "Text": "看起來需要某種鑰匙。"
+  },
+  {
+    "RowIndex": 323,
+    "Id": "InteractErrorGlyphWall",
+    "Text": "這片牆上有著三個奇形怪狀的凹洞。"
+  },
+  {
+    "RowIndex": 324,
+    "Id": "InteractErrorWaterCave",
+    "Text": "你必須先想辦法讓水位降低。"
+  },
+  {
+    "RowIndex": 325,
+    "Id": "InteractErrorNotYourCraftingTable",
+    "Text": "你無法使用他人的工藝器具。"
+  },
+  {
+    "RowIndex": 326,
+    "Id": "InteractErrorNotYourMapDevice",
+    "Text": "你無法使用他人的地圖裝置。"
+  },
+  {
+    "RowIndex": 327,
+    "Id": "InteractErrorCoreTransition",
+    "Text": "你必須擊殺瑪拉凱的三個守衛才能進入黑靈核心。"
+  },
+  {
+    "RowIndex": 328,
+    "Id": "InteractErrorCoreTransitionOrgans",
+    "Text": "你必須擊殺瑪拉凱的三個守衛，並把他們的器官交給派蒂才能進入黑靈核心。"
+  },
+  {
+    "RowIndex": 329,
+    "Id": "InteractErrorPietyGateTransition",
+    "Text": "你必須先對付派蒂。"
+  },
+  {
+    "RowIndex": 330,
+    "Id": "InteractErrorVinktarSquareGateLocked",
+    "Text": "大門不斷地擁出守護者的力量。"
+  },
+  {
+    "RowIndex": 331,
+    "Id": "NotAllowedInPlayersHideout",
+    "Text": "你目前無法進入這位玩家的地區。"
+  },
+  {
+    "RowIndex": 332,
+    "Id": "CantChangeToHideoutFromHere",
+    "Text": "你無法從這前往此地區。"
+  },
+  {
+    "RowIndex": 333,
+    "Id": "StrMissionStartPointRocks",
+    "Text": "入口已經倒塌。"
+  },
+  {
+    "RowIndex": 334,
+    "Id": "LoginTokenExpired",
+    "Text": "你的認證已經過期。請重新啟動遊戲。"
+  },
+  {
+    "RowIndex": 335,
+    "Id": "IgnoredPvP",
+    "Text": "你已經被忽略。"
+  },
+  {
+    "RowIndex": 336,
+    "Id": "LocalChatDisabledWhileSpectating",
+    "Text": "觀戰時無法使用區域頻道。"
+  },
+  {
+    "RowIndex": 337,
+    "Id": "AbandonDailyNotInHideout",
+    "Text": "你只能在你的藏身處使用這項指令。"
+  },
+  {
+    "RowIndex": 338,
+    "Id": "NoDailyActive",
+    "Text": "你並沒有在進行任何每日任務。"
+  },
+  {
+    "RowIndex": 339,
+    "Id": "GrandmasterSaved",
+    "Text": "你的資料已經被保存。此份資料將會轉交給相關開發人員。"
+  },
+  {
+    "RowIndex": 340,
+    "Id": "LeagueFinishTimeRaceCompleted",
+    "Text": "你已經完成此競賽的目標。請至官網上確認你的排名。"
+  },
+  {
+    "RowIndex": 341,
+    "Id": "LeagueFinishTimeRaceLogin",
+    "Text": "你已經使用這個角色完成這個競賽中的目標。"
+  },
+  {
+    "RowIndex": 342,
+    "Id": "CharacterNotFriendOrGuildmate",
+    "Text": "此帳號並非共同朋友或是公會成員。"
+  },
+  {
+    "RowIndex": 343,
+    "Id": "MapDeviceDisabled",
+    "Text": "此聯盟中的地圖裝置已經失效。"
+  },
+  {
+    "RowIndex": 344,
+    "Id": "PVPTeamDoesNotExist",
+    "Text": "這個 PVP 隊伍並無申請此項對戰。"
+  },
+  {
+    "RowIndex": 345,
+    "Id": "ForwardedToMasterShard",
+    "Text": "此請求已送往主資料庫。此請求將無任何回應。"
+  },
+  {
+    "RowIndex": 346,
+    "Id": "PVPTournamentFinished",
+    "Text": "對戰競賽已經完成。"
+  },
+  {
+    "RowIndex": 347,
+    "Id": "ErrorNotInHideout",
+    "Text": "你必須在你的藏身處進行此操作。"
+  },
+  {
+    "RowIndex": 348,
+    "Id": "ErrorHideoutSuperceded",
+    "Text": "藏身處編輯目前無法使用。請重新創立新的藏身處再試一次。"
+  },
+  {
+    "RowIndex": 349,
+    "Id": "ErrorCannotModifyGuildHideout",
+    "Text": "你沒有權限編輯公會藏身處。"
+  },
+  {
+    "RowIndex": 350,
+    "Id": "ClaimCraftingBenchSuccess",
+    "Text": "取回一項工藝器具到置物箱中。"
+  },
+  {
+    "RowIndex": 351,
+    "Id": "CharacterIsPVPOnly",
+    "Text": "PvP 專用角色無法進行此操作。"
+  },
+  {
+    "RowIndex": 352,
+    "Id": "StoppedSpectateFollow",
+    "Text": "你已退出了觀戰的序列。"
+  },
+  {
+    "RowIndex": 353,
+    "Id": "CannotTradeItemLockedToCharacter",
+    "Text": "物品無法被交易或改變屬性。"
+  },
+  {
+    "RowIndex": 354,
+    "Id": "CannotTradeItemLockedToAccount",
+    "Text": "物品無法被交易。"
+  },
+  {
+    "RowIndex": 355,
+    "Id": "PvPRelocatingArena",
+    "Text": "你已經被移動到另外一個 PvP 競技場以平衡參與者人數。"
+  },
+  {
+    "RowIndex": 356,
+    "Id": "MapCraftingFailedCost",
+    "Text": "你沒有足夠的通貨。"
+  },
+  {
+    "RowIndex": 357,
+    "Id": "MapCraftingFailedTrade",
+    "Text": "開啟地圖失敗。當開啟交易視窗時無法消耗物品。"
+  },
+  {
+    "RowIndex": 358,
+    "Id": "PvPMustHaveFullParty",
+    "Text": "你的隊伍人數不足以參加此 PvP 對戰"
+  },
+  {
+    "RowIndex": 359,
+    "Id": "WithdrawnFromPVPTournament",
+    "Text": "你已撤銷了本次 PvP 競賽"
+  },
+  {
+    "RowIndex": 360,
+    "Id": "SpectatingDisabled",
+    "Text": "此對戰不開放觀戰"
+  },
+  {
+    "RowIndex": 361,
+    "Id": "ChestLocked",
+    "Text": "這個箱子被鎖住了。"
+  },
+  {
+    "RowIndex": 362,
+    "Id": "HideoutPortalLocked",
+    "Text": "地圖傳送門被上鎖。"
+  },
+  {
+    "RowIndex": 363,
+    "Id": "PVPCTFOwnFlag",
+    "Text": "帶著另外一隊的旗幟回到此處以獲得點數。"
+  },
+  {
+    "RowIndex": 364,
+    "Id": "SpiderChestLocked",
+    "Text": "你聽到輕微的腳步聲急速接近…"
+  },
+  {
+    "RowIndex": 365,
+    "Id": "AFKModeEnabled",
+    "Text": "暫離模式啟動。自動回覆 「{0}」"
+  },
+  {
+    "RowIndex": 366,
+    "Id": "AFKModeDisabled",
+    "Text": "暫離模式關閉。"
+  },
+  {
+    "RowIndex": 367,
+    "Id": "DNDModeEnabled",
+    "Text": "勿擾模式啟動。自動回覆 \"{0}\""
+  },
+  {
+    "RowIndex": 368,
+    "Id": "DNDModeDisabled",
+    "Text": "勿擾模式關閉。"
+  },
+  {
+    "RowIndex": 369,
+    "Id": "AutoReplyEnabled",
+    "Text": "自動回覆設置 \"{0}\""
+  },
+  {
+    "RowIndex": 370,
+    "Id": "IncaApexDoorLocked",
+    "Text": "現在無法開啟此門。"
+  },
+  {
+    "RowIndex": 371,
+    "Id": "CharacterNameExistsButCanExpire",
+    "Text": "創造此角色將會使另一位過期的角色之名稱失效。"
+  },
+  {
+    "RowIndex": 372,
+    "Id": "CharacterIsNotExpired",
+    "Text": "此角色名稱尚未失效。"
+  },
+  {
+    "RowIndex": 373,
+    "Id": "CharacterIsExpired",
+    "Text": "此角色名稱已失效，並且被另一位玩家使用。請重新命名。"
+  },
+  {
+    "RowIndex": 374,
+    "Id": "OrphanedInstance",
+    "Text": "伺服器已經與此分流斷線。"
+  },
+  {
+    "RowIndex": 375,
+    "Id": "ErrorLabyrinthLocked",
+    "Text": "此迷宮已被開啟，無法再次進入。請前往一個新的試煉者廣場來開啟全新的迷宮。"
+  },
+  {
+    "RowIndex": 376,
+    "Id": "ErrorZanaMissionLocked",
+    "Text": "你已經進入過了這個不穩定區域，不能再次進入。"
+  },
+  {
+    "RowIndex": 377,
+    "Id": "InteractErrorDoorRequiresGoldenKey",
+    "Text": "門被鎖住了。你需要一把黃金鑰匙來打開它。"
+  },
+  {
+    "RowIndex": 378,
+    "Id": "InteractErrorDoorRequiresSilverKey",
+    "Text": "門被鎖住了。你需要一把白銀鑰匙來打開它。"
+  },
+  {
+    "RowIndex": 379,
+    "Id": "InteractErrorDoorRequiresBronzeKey",
+    "Text": "門被鎖住了。你需要一把青銅鑰匙來打開它。"
+  },
+  {
+    "RowIndex": 380,
+    "Id": "TooManyCharacterSlots",
+    "Text": "你無法擁有超過 255 個角色"
+  },
+  {
+    "RowIndex": 381,
+    "Id": "EchoClientString",
+    "Text": "{0}"
+  },
+  {
+    "RowIndex": 382,
+    "Id": "ErrorCannotWhisperIgnored",
+    "Text": "你無法密語你忽略的玩家。"
+  },
+  {
+    "RowIndex": 383,
+    "Id": "AccountIsOnline",
+    "Text": "此帳號正在線上。"
+  },
+  {
+    "RowIndex": 384,
+    "Id": "IzaroChestLocked",
+    "Text": "這個保險箱上鎖了。你需要一個寶藏鑰匙。"
+  },
+  {
+    "RowIndex": 385,
+    "Id": "ProfanityCheckFailed",
+    "Text": "你輸入的文字中包含不敬的詞彙。"
+  },
+  {
+    "RowIndex": 386,
+    "Id": "ErrorCannotChangeAscendancyClass",
+    "Text": "在此聯盟中不能改變昇華職業。"
+  },
+  {
+    "RowIndex": 387,
+    "Id": "TencentAasLoginDenied",
+    "Text": "你是未成年人，故無法登入。"
+  },
+  {
+    "RowIndex": 388,
+    "Id": "TencentAasNotification",
+    "Text": "你已經連續遊玩了 {0} 個小時，請斟酌休息。"
+  },
+  {
+    "RowIndex": 389,
+    "Id": "TencentAasAlarm",
+    "Text": "你已經連續遊玩了 3 個小時，並且沉迷了。你必須休息 5 小時後才能再度登入。"
+  },
+  {
+    "RowIndex": 390,
+    "Id": "LeagueDisallowsCharacterDeletion",
+    "Text": "此聯盟暫時不開放刪除角色。"
+  },
+  {
+    "RowIndex": 391,
+    "Id": "ErrorCannotAccessMapLabyrinth",
+    "Text": "你尚未完成異界地圖中的試煉迷宮。"
+  },
+  {
+    "RowIndex": 392,
+    "Id": "ErrorCannotSealProphecy",
+    "Text": "預言封印失敗。"
+  },
+  {
+    "RowIndex": 393,
+    "Id": "InviteErrorAlreadyInParty",
+    "Text": "組隊邀請失敗。目標角色已經在一個隊伍中。"
+  },
+  {
+    "RowIndex": 394,
+    "Id": "TencentCannotAccessMapDevice",
+    "Text": "你必須完成試煉迷宮才能夠使用地圖裝置。試煉迷宮能夠在任何難度下完成。前往薩恩城並點擊昇華板了解更多。"
+  },
+  {
+    "RowIndex": 395,
+    "Id": "DailyPortalBlocked",
+    "Text": "無法啟動每日任務：傳送門位置受到阻擋。使用編輯模式調整大師位置。"
+  },
+  {
+    "RowIndex": 396,
+    "Id": "OfferDoesNotExist",
+    "Text": "此出價已不存在。"
+  },
+  {
+    "RowIndex": 397,
+    "Id": "OfferInWrongState",
+    "Text": "此出價已失效。"
+  },
+  {
+    "RowIndex": 398,
+    "Id": "OfferContainsUntradeableItems",
+    "Text": "此出價無法提交，因為內容物有無法交易物品。"
+  },
+  {
+    "RowIndex": 399,
+    "Id": "NoOffersOnYourOwnItems",
+    "Text": "你無法對此物品出價，因為你已經擁有此物品。"
+  },
+  {
+    "RowIndex": 400,
+    "Id": "PublicListingLockedDueToLevel",
+    "Text": "在帳號中有角色到達60等前，你將無法公開物品販售。"
+  },
+  {
+    "RowIndex": 401,
+    "Id": "OffersLockedDueToLevel",
+    "Text": "在帳號中有角色到達60等前，你將無法對物品出價。"
+  },
+  {
+    "RowIndex": 402,
+    "Id": "AccountNoLongerHasItem",
+    "Text": "此玩家不再擁有清單中的物品。"
+  },
+  {
+    "RowIndex": 403,
+    "Id": "TooManyBuyerOffers",
+    "Text": "同時只能有 10 個出價，請先結束以開啟新出價。"
+  },
+  {
+    "RowIndex": 404,
+    "Id": "TooManySellerOffers",
+    "Text": "此物品的販售者收到太多出價。請稍候再嘗試。"
+  },
+  {
+    "RowIndex": 405,
+    "Id": "AlreadyHaveOfferOnItem",
+    "Text": "你對此物品的出價正在處理中。"
+  },
+  {
+    "RowIndex": 406,
+    "Id": "SentOfferTooRecently",
+    "Text": "你近期已經對此帳號提出出價。"
+  },
+  {
+    "RowIndex": 407,
+    "Id": "EventErrorLevelTooLow",
+    "Text": "你至少需要達到等級 {0} 才能參與此活動。"
+  },
+  {
+    "RowIndex": 408,
+    "Id": "EnteredPathOfEnduranceLevel",
+    "Text": "你達到等級 {0}"
+  },
+  {
+    "RowIndex": 409,
+    "Id": "EventEndsIn",
+    "Text": "此活動將於 {0} 結束"
+  },
+  {
+    "RowIndex": 410,
+    "Id": "GuildTagAlreadyExists",
+    "Text": "此公會標記已被使用。"
+  },
+  {
+    "RowIndex": 411,
+    "Id": "GlobalChatOnCooldown",
+    "Text": "請稍候再於世界頻道發言。"
+  },
+  {
+    "RowIndex": 412,
+    "Id": "InteractErrorKaruiDoorLocked",
+    "Text": "無法開啟，好像少了個眼睛…"
+  },
+  {
+    "RowIndex": 413,
+    "Id": "LabyrinthErrorPartyTooBigTencent",
+    "Text": "你只能和{0}人或更少玩家組隊進入帝王迷宮。"
+  },
+  {
+    "RowIndex": 414,
+    "Id": "InteractErrorNoSignOfPurity",
+    "Text": "需要純淨之印來啟動它。"
+  },
+  {
+    "RowIndex": 415,
+    "Id": "InteractErrorCannotAccessEndgame",
+    "Text": "在完成戰役前無法進入終局內容。"
+  },
+  {
+    "RowIndex": 416,
+    "Id": "CharacterNameContainsProfanity",
+    "Text": "此角色名稱無法使用。"
+  },
+  {
+    "RowIndex": 417,
+    "Id": "ConsoleDisconnectedBecauseActiveUserChanged",
+    "Text": "由於啟用的用戶退出而斷開連接"
+  },
+  {
+    "RowIndex": 418,
+    "Id": "ConsoleDisconnectedBecauseSuspending",
+    "Text": "因遊戲暫停而斷線"
+  },
+  {
+    "RowIndex": 419,
+    "Id": "InteractErrorNeedSunMoonOrbs",
+    "Text": "你需要日耀石與月影石來啟動它。"
+  },
+  {
+    "RowIndex": 420,
+    "Id": "TheBeaconLever",
+    "Text": "火炬沒有足夠的燃料點燃。"
+  },
+  {
+    "RowIndex": 421,
+    "Id": "OnlyOneAllowedInHideout",
+    "Text": "此類物品只能放置一個於藏身處。"
+  },
+  {
+    "RowIndex": 422,
+    "Id": "AccountLoggedInOnOtherRealm",
+    "Text": "無法同時登入流亡黯道測試服與流亡黯道正式服。"
+  },
+  {
+    "RowIndex": 423,
+    "Id": "KitavaArenaLocked",
+    "Text": "傳送至此區域是不安全的。"
+  },
+  {
+    "RowIndex": 424,
+    "Id": "InteractErrorBeaconMissingFlag",
+    "Text": "你必須在怨忿之窟深處找到黑色旗幟以在絕望烽塔使用。"
+  },
+  {
+    "RowIndex": 425,
+    "Id": "InteractErrorGreustShrine",
+    "Text": "古代阿茲莫里神殿。或許赫蓮娜會知道有關它的事。"
+  },
+  {
+    "RowIndex": 426,
+    "Id": "PantheonFailedToCreateSoulItem",
+    "Text": "已被奪取的靈魂無法開啟地圖裝置。"
+  },
+  {
+    "RowIndex": 427,
+    "Id": "PantheonCannotConsumeVessel",
+    "Text": "啟動失敗。這張地圖頭目的靈魂無法被奪取。"
+  },
+  {
+    "RowIndex": 428,
+    "Id": "PantheonCannotConsumeVesselAlreadyCaptured",
+    "Text": "啟動失敗。你已經奪取這張地圖頭目的靈魂。"
+  },
+  {
+    "RowIndex": 429,
+    "Id": "ExitToLoginFailed",
+    "Text": "連線伺服器失敗。請稍候再試。"
+  },
+  {
+    "RowIndex": 430,
+    "Id": "MessageDoesNotExist",
+    "Text": "此訊息不存在。"
+  },
+  {
+    "RowIndex": 431,
+    "Id": "MessageTooLong",
+    "Text": "訊息太長。"
+  },
+  {
+    "RowIndex": 432,
+    "Id": "AreaErrorLevelTooLow",
+    "Text": "你的等級必須至少達到 {0} 才能進入此地區。"
+  },
+  {
+    "RowIndex": 433,
+    "Id": "AreaErrorLevelTooLowGeneric",
+    "Text": "你等級不夠高因此無法進入此地區。"
+  },
+  {
+    "RowIndex": 434,
+    "Id": "TradeMarketCloseOfferWithItems",
+    "Text": "你的物品仍在出價中，移除這些物品關閉出價。"
+  },
+  {
+    "RowIndex": 435,
+    "Id": "TradeMarketSendOfferWithNoItems",
+    "Text": "你無法提出沒有使用通貨的出價。"
+  },
+  {
+    "RowIndex": 436,
+    "Id": "XboxLoginErrorNoLiveAccess",
+    "Text": "無法登入，因為無法訪問 Xbox Live。"
+  },
+  {
+    "RowIndex": 437,
+    "Id": "ConsoleLoginErrorNoInternetConnection",
+    "Text": "無法登入，因為沒有網路連接。"
+  },
+  {
+    "RowIndex": 438,
+    "Id": "ErrorChatIsFull",
+    "Text": "加入聊天頻道失敗，因頻道已滿。"
+  },
+  {
+    "RowIndex": 439,
+    "Id": "LoginConnectionLimitReached",
+    "Text": "登入伺服器忙碌中。請稍候再試。"
+  },
+  {
+    "RowIndex": 440,
+    "Id": "TooManyObjects",
+    "Text": "太多目標請求，請聯絡客服人員。"
+  },
+  {
+    "RowIndex": 441,
+    "Id": "SubtabAlreadyExists",
+    "Text": "此副標簽已存在。"
+  },
+  {
+    "RowIndex": 442,
+    "Id": "MaxInventoryColumns",
+    "Text": "騰訊"
+  },
+  {
+    "RowIndex": 443,
+    "Id": "IncorrectInventoryColumnUpgrade",
+    "Text": "騰訊"
+  },
+  {
+    "RowIndex": 444,
+    "Id": "GenericRateLimit",
+    "Text": "因短期內做出過多需求，因此請求失敗。"
+  },
+  {
+    "RowIndex": 445,
+    "Id": "RequestInProgress",
+    "Text": "此需求已經在處理中。請稍候再試。"
+  },
+  {
+    "RowIndex": 446,
+    "Id": "ItemNotInStash",
+    "Text": "物品不在此倉庫。"
+  },
+  {
+    "RowIndex": 447,
+    "Id": "BestiaryNetChanged",
+    "Text": "你的角色現在可以使用 {0} 來獵捕野獸。"
+  },
+  {
+    "RowIndex": 448,
+    "Id": "ErrorPlayerHasNoMenagerie",
+    "Text": "此玩家沒有獸園。"
+  },
+  {
+    "RowIndex": 449,
+    "Id": "MicrotransactionNotAvailableInLeague",
+    "Text": "在此聯盟你無法購買此商城道具。"
+  },
+  {
+    "RowIndex": 450,
+    "Id": "CaptureMonsterSuccess",
+    "Text": "已捕獲野獸：{0}"
+  },
+  {
+    "RowIndex": 451,
+    "Id": "DeletedExcessBestiaryUnique",
+    "Text": "你的獸園滿了，所以早期野獸 ({0}) 被移除來騰出空間。"
+  },
+  {
+    "RowIndex": 452,
+    "Id": "DeletedExcessBestiaryRare",
+    "Text": "你的獸園滿了，所以早期野獸 ({0};{1}) 被移除來騰出空間。"
+  },
+  {
+    "RowIndex": 453,
+    "Id": "PlayersRemainingN",
+    "Text": "剩餘 {0} 名玩家。"
+  },
+  {
+    "RowIndex": 454,
+    "Id": "AccountNotVerifiedChatError",
+    "Text": "你必須完成帳號驗證才可以發話。"
+  },
+  {
+    "RowIndex": 455,
+    "Id": "TooLowLevelToChooseChatIndex",
+    "Text": "在到達等級 {0} 前，你無法選擇特定聊天頻道。"
+  },
+  {
+    "RowIndex": 456,
+    "Id": "IncursionLockedDoorError",
+    "Text": "你沒有開啟此通道所需之物品。"
+  },
+  {
+    "RowIndex": 457,
+    "Id": "IncursionDestructibleWallError",
+    "Text": "你沒有爆裂物。"
+  },
+  {
+    "RowIndex": 458,
+    "Id": "InstanceExpiredError",
+    "Text": "無法連結副本。因為此子區域不再是最近所開啟的副本，所以副本已經失效。"
+  },
+  {
+    "RowIndex": 459,
+    "Id": "InstanceTerminatedError",
+    "Text": "無法連結副本。此子區域已不存在。"
+  },
+  {
+    "RowIndex": 460,
+    "Id": "FailedToLoadDelveMap",
+    "Text": "載入掘獄地圖資料失敗：{0}"
+  },
+  {
+    "RowIndex": 461,
+    "Id": "DelveInProgressError",
+    "Text": "以無法進入正在進行的掘獄。"
+  },
+  {
+    "RowIndex": 462,
+    "Id": "LoginRequiresUnlockCodeStrict",
+    "Text": "你的帳號已被鎖定，請從信箱找到解鎖碼。"
+  },
+  {
+    "RowIndex": 463,
+    "Id": "DelveSocketableCurrencySameFossilError",
+    "Text": "你無法鑲嵌相同的化石至同一個鑄新儀。"
+  },
+  {
+    "RowIndex": 464,
+    "Id": "GenericSocketError",
+    "Text": "你無法鑲嵌此物品"
+  },
+  {
+    "RowIndex": 465,
+    "Id": "OfferNotYetReadyForAccept",
+    "Text": "此出價正在等候先前的提交處理完畢。請稍候再試。"
+  },
+  {
+    "RowIndex": 466,
+    "Id": "InteractErrorEssence",
+    "Text": "有東西使這個精髓無法被打破。"
+  },
+  {
+    "RowIndex": 467,
+    "Id": "NotEnoughIngredients",
+    "Text": "你沒有足夠的素材來完成此行為。"
+  },
+  {
+    "RowIndex": 468,
+    "Id": "ConsoleDisconnectedBecauseActiveUserSignedOut",
+    "Text": "由於啟用的用戶退出而斷開連接"
+  },
+  {
+    "RowIndex": 469,
+    "Id": "PS4LoginErrorNoPSNAccess",
+    "Text": "無法登入，因為無法訪問“PlayStation Network”。"
+  },
+  {
+    "RowIndex": 470,
+    "Id": "PS4LoginErrorOutOfMemory",
+    "Text": "由於記憶體不足，無法登入。"
+  },
+  {
+    "RowIndex": 471,
+    "Id": "PS4LoginErrorSignedOut",
+    "Text": "無法登入，因為你已退出。"
+  },
+  {
+    "RowIndex": 472,
+    "Id": "PS4LoginErrorNotSignedUp",
+    "Text": "無法登入，因為你尚未註冊。"
+  },
+  {
+    "RowIndex": 473,
+    "Id": "PS4LoginErrorAgeRestriction",
+    "Text": "由於年齡限制，無法登入。"
+  },
+  {
+    "RowIndex": 474,
+    "Id": "PS4LoginErrorLoggedOut",
+    "Text": "無法登入，因為你已登出。"
+  },
+  {
+    "RowIndex": 475,
+    "Id": "PS4LoginErrorLatestSystemSoftwareExist",
+    "Text": "無法登入，因為存在新版本的系統軟件更新檔案。"
+  },
+  {
+    "RowIndex": 476,
+    "Id": "PS4LoginErrorLatestSystemSoftwareExistForTitle",
+    "Text": "無法登入，因為此應用程序存在所需的系統軟件更新檔案的新版本。"
+  },
+  {
+    "RowIndex": 477,
+    "Id": "PS4LoginErrorLatestPatchPackageExists",
+    "Text": "無法登入，因為存在新版本的改版。"
+  },
+  {
+    "RowIndex": 478,
+    "Id": "PS4LoginErrorLatestPatchPackageDownloaded",
+    "Text": "下載的改版存在新版本，無法登入。"
+  },
+  {
+    "RowIndex": 479,
+    "Id": "PS4LoginErrorPatchNotChecked",
+    "Text": "無法登入，因為無法檢查新版本更新檔案是否可用。請再試一次。"
+  },
+  {
+    "RowIndex": 480,
+    "Id": "HideoutExportFailed",
+    "Text": "你必須待藏身處才可輸出藏身處樣板。"
+  },
+  {
+    "RowIndex": 481,
+    "Id": "HideoutImportSuccess",
+    "Text": "藏身處樣板匯入成功。"
+  },
+  {
+    "RowIndex": 482,
+    "Id": "HideoutImportFailed",
+    "Text": "匯入藏身處樣板失敗。"
+  },
+  {
+    "RowIndex": 483,
+    "Id": "HideoutImportFailedMustBeInHideout",
+    "Text": "你必須待藏身處才可匯入藏身處樣板。"
+  },
+  {
+    "RowIndex": 484,
+    "Id": "HideoutImportFailedWrongHideout",
+    "Text": "你必須先將你的藏身處設置為 {0} 以便匯入藏身處樣板。"
+  },
+  {
+    "RowIndex": 485,
+    "Id": "TencentTradeMarketNotExactPrice",
+    "Text": "你的提價與本物品實際價格不符。"
+  },
+  {
+    "RowIndex": 486,
+    "Id": "TencentTradeMarketTooManyCompletedOffers",
+    "Text": "你在交易市集完成的交易太多，無法進行此提價。"
+  },
+  {
+    "RowIndex": 487,
+    "Id": "IncursionRecipeUnlockRejected",
+    "Text": "工藝配方已解鎖"
+  },
+  {
+    "RowIndex": 488,
+    "Id": "FailedToReclaimSomeHideoutDoodads",
+    "Text": "取回一個或以上裝飾物失敗。請製造新的藏身處再試一次。"
+  },
+  {
+    "RowIndex": 489,
+    "Id": "FailedToLoadHideoutDoodads",
+    "Text": "載入藏身處裝飾物清單失敗。"
+  },
+  {
+    "RowIndex": 490,
+    "Id": "HideoutImportWarningGeneric",
+    "Text": "警告：無法匯入 {0} 個裝飾物。"
+  },
+  {
+    "RowIndex": 491,
+    "Id": "HideoutImportWarningUnowned",
+    "Text": "警告：無法匯入 {0} 個裝飾物，因為沒有多餘的裝飾物。"
+  },
+  {
+    "RowIndex": 492,
+    "Id": "HideoutImportWarningBlocked",
+    "Text": "警告：無法匯入 {0} 個裝飾物，因為指定地點被擋住。"
+  },
+  {
+    "RowIndex": 493,
+    "Id": "HideoutReclaimAllSuccess",
+    "Text": "所有藏身處裝飾物已經取回。"
+  },
+  {
+    "RowIndex": 494,
+    "Id": "AreaTransitionPartyError",
+    "Text": "你必須要與該地區的擁有者在同一隊伍才可進入此區域。"
+  },
+  {
+    "RowIndex": 495,
+    "Id": "AreaTransitionOwnerError",
+    "Text": "此區域的擁有者必須存在才可以進入此區域。"
+  },
+  {
+    "RowIndex": 496,
+    "Id": "BestiaryErrorNoData",
+    "Text": "取回獸獵寓言資料失敗。"
+  },
+  {
+    "RowIndex": 497,
+    "Id": "BestiaryErrorFailedToCaptureMonster",
+    "Text": "保存已捕捉的怪物失敗：{0}"
+  },
+  {
+    "RowIndex": 498,
+    "Id": "PS4BadRedeemToken",
+    "Text": "錯誤的兌換序號"
+  },
+  {
+    "RowIndex": 499,
+    "Id": "CurrencyTradingPrevented2",
+    "Text": "在等級到達 60 前，你無法和其他玩家交易通貨或傳奇物品。"
+  },
+  {
+    "RowIndex": 500,
+    "Id": "PublicListingLockedDueToVerified",
+    "Text": "在你完成帳號驗證前，你無法公開販售物品。"
+  },
+  {
+    "RowIndex": 501,
+    "Id": "OffersLockedDueToVerified",
+    "Text": "在你完成帳號驗證前，你無法對物品出價。"
+  },
+  {
+    "RowIndex": 502,
+    "Id": "SynthesisPortalFullyDecayed",
+    "Text": "此地區開始腐敗。"
+  },
+  {
+    "RowIndex": 503,
+    "Id": "SynthesisTooManyMemories",
+    "Text": "你已經放置太多記憶，在嘗試擺放更多前請先移除一些記憶。"
+  },
+  {
+    "RowIndex": 504,
+    "Id": "SynthesisOtherMemoryInstance",
+    "Text": "你無法在他人的記憶叉點或記憶擴充放置記憶。"
+  },
+  {
+    "RowIndex": 505,
+    "Id": "ConsoleDisconnectedBecauseNoInternetConnection",
+    "Text": "由於沒有網路連接而斷開連接。"
+  },
+  {
+    "RowIndex": 506,
+    "Id": "PS4DisconnectedBecauseNoPSNAccess",
+    "Text": "由於無法訪問“PlayStation Network”而斷開連接。"
+  },
+  {
+    "RowIndex": 507,
+    "Id": "XboxDisconnectedBecauseNoXboxLiveAccess",
+    "Text": "由於無法訪問 Xbox Live，因此已斷開連接。"
+  },
+  {
+    "RowIndex": 508,
+    "Id": "PS4CannotLogInUGMRestriction",
+    "Text": "由於家長控制，無法登入。"
+  },
+  {
+    "RowIndex": 509,
+    "Id": "SynthesisMaxGlobalModsReached",
+    "Text": "你的追憶地圖已經達到記憶詞綴數量最大上限。"
+  },
+  {
+    "RowIndex": 510,
+    "Id": "BetrayalCannotAccessLab",
+    "Text": "你手上有其它正在進行的反叛任務。完成該事件或對剩餘項目做出選擇以開啟此入口。"
+  },
+  {
+    "RowIndex": 511,
+    "Id": "SynthesisCannotApplyGlobalMod",
+    "Text": "選擇的記憶和放置於旁邊的記憶無法套用更多記憶詞綴。"
+  },
+  {
+    "RowIndex": 512,
+    "Id": "KakaoAPIError",
+    "Text": "無法對 Kakao 授權伺服器進行授權。"
+  },
+  {
+    "RowIndex": 513,
+    "Id": "KakaoRequireLogin",
+    "Text": "你必須重新登入你的 Kakao 帳號。"
+  },
+  {
+    "RowIndex": 514,
+    "Id": "MapDeviceCannotUseFragmentWithMap",
+    "Text": "啟動失敗。{0} 不能與地圖一起使用。"
+  },
+  {
+    "RowIndex": 515,
+    "Id": "MapDeviceFragmentNeedsRecipe",
+    "Text": "啟動失敗。{0} 必須與其它同類型的地圖碎片一起使用。"
+  },
+  {
+    "RowIndex": 516,
+    "Id": "MapDeviceFragmentNeedsRecipeOrMap",
+    "Text": "啟動失敗。{0} 必須與地圖或其它同類型的地圖碎片一起使用。"
+  },
+  {
+    "RowIndex": 517,
+    "Id": "MapDeviceDuplicateFragments",
+    "Text": "啟動失敗。你不能使用多個相同的地圖碎片。"
+  },
+  {
+    "RowIndex": 518,
+    "Id": "EmailLoginDisabledKakao",
+    "Text": "該帳號已停用此登入方法。請經由 http://poe.game.daum.net 登入。"
+  },
+  {
+    "RowIndex": 519,
+    "Id": "EmailLoginDisabled",
+    "Text": "該帳號無法使用此登入方式。"
+  },
+  {
+    "RowIndex": 520,
+    "Id": "GatewayDisallowedForThisLoginType",
+    "Text": "此登入閘道不適用於該登入方式。"
+  },
+  {
+    "RowIndex": 521,
+    "Id": "UnacceptableChatMessage",
+    "Text": "訊息含未授權的內容。"
+  },
+  {
+    "RowIndex": 522,
+    "Id": "ChannelOnlyAllowsASCII",
+    "Text": "訊息含未授權的內容。在此頻道請使用標準 ASCII 字元。"
+  },
+  {
+    "RowIndex": 523,
+    "Id": "ActionRejectedDueToPerPlayerFreeze",
+    "Text": "因你近期死亡，所以無法行動 {0}。"
+  },
+  {
+    "RowIndex": 524,
+    "Id": "PerPlayerDeathFreezeRemoved",
+    "Text": "你現在可以行動了。"
+  },
+  {
+    "RowIndex": 525,
+    "Id": "LeagueDisallowsManualMigration",
+    "Text": "你現在無法合併此聯盟。"
+  },
+  {
+    "RowIndex": 526,
+    "Id": "RecycleMicroItemNotFound",
+    "Text": "無法找到商城道具。"
+  },
+  {
+    "RowIndex": 527,
+    "Id": "RecycleMicroCannotRemoveMicro",
+    "Text": "商城道具無法移除。"
+  },
+  {
+    "RowIndex": 528,
+    "Id": "RecycleMicroNoValue",
+    "Text": "商城道具沒有價值。"
+  },
+  {
+    "RowIndex": 529,
+    "Id": "RecycleMicroGeneric",
+    "Text": "目前無法完成此動作。"
+  },
+  {
+    "RowIndex": 530,
+    "Id": "TradeBanError",
+    "Text": "你現在無法執行此動作。你的帳號被禁止交易。"
+  },
+  {
+    "RowIndex": 531,
+    "Id": "InteractErrorCoreTransitionMap",
+    "Text": "你必須擊殺食魂者的三個守衛才能進入黑靈核心。"
+  },
+  {
+    "RowIndex": 532,
+    "Id": "CombineMTXTimeLimitedError",
+    "Text": "無法合成時效性商城道具。"
+  },
+  {
+    "RowIndex": 533,
+    "Id": "SalvageMTXTimeLimitedError",
+    "Text": "無法回收時效性商城道具。"
+  },
+  {
+    "RowIndex": 534,
+    "Id": "ItemIsInLeagueInventory",
+    "Text": "你無法在聯盟背包內對物品執行此動作。"
+  },
+  {
+    "RowIndex": 535,
+    "Id": "MetamorphosisCannotOpenUIError",
+    "Text": "鍊魔樣本只有副本開啟者可以合成。"
+  },
+  {
+    "RowIndex": 536,
+    "Id": "PurchaseLimitReached",
+    "Text": "你已到達購買此物品的最大上限。"
+  },
+  {
+    "RowIndex": 537,
+    "Id": "EpicAssociateEmailSent",
+    "Text": "驗證信已發送至信箱以確認你為帳號持有者。請點擊信件中的連結以執行後續步驟。"
+  },
+  {
+    "RowIndex": 538,
+    "Id": "DestroyHarvestInfrastructure",
+    "Text": "你不能摧毀收割基礎設備。"
+  },
+  {
+    "RowIndex": 539,
+    "Id": "CharacterActionDeniedHarvestItems",
+    "Text": "執行此動作前，需要移除角色所有收割基礎設備。"
+  },
+  {
+    "RowIndex": 540,
+    "Id": "HarvestOshabiFightOnlyInMaps",
+    "Text": "事件只能從地圖中開始"
+  },
+  {
+    "RowIndex": 541,
+    "Id": "ConsoleGuildTagProfanityError",
+    "Text": "你填入的公會標籤含有限制短語。請嘗試其他標籤。"
+  },
+  {
+    "RowIndex": 542,
+    "Id": "ConsoleGuildNameProfanityError",
+    "Text": "你填入的公會名稱含有限制短語。請嘗試其他名稱。"
+  },
+  {
+    "RowIndex": 543,
+    "Id": "ConsoleGuildStashTabProfanityError",
+    "Text": "你填入的倉庫頁名稱名稱含有限制短語。請嘗試其他名稱。"
+  },
+  {
+    "RowIndex": 544,
+    "Id": "TradeErrorItemStolenFromHeist",
+    "Text": "物品無法被交易。"
+  },
+  {
+    "RowIndex": 545,
+    "Id": "HeistAlarmError",
+    "Text": "錯誤：無法加入已封鎖的劫盜區域"
+  },
+  {
+    "RowIndex": 546,
+    "Id": "HeistHubAccessError",
+    "Text": "你必須使用盜賊之印前往盜賊港灣。"
+  },
+  {
+    "RowIndex": 547,
+    "Id": "NotHeistOwner",
+    "Text": "錯誤：你非此劫盜的擁有者"
+  },
+  {
+    "RowIndex": 548,
+    "Id": "ReceivedAtlasRespecPoint1",
+    "Text": "你收到 1 點輿圖天賦重置點。"
+  },
+  {
+    "RowIndex": 549,
+    "Id": "ReceivedAtlasRespecPointN",
+    "Text": "你收到 {0} 點輿圖天賦重置點。"
+  },
+  {
+    "RowIndex": 550,
+    "Id": "ReceivedAtlasPassivePoint1",
+    "Text": "你收到 1 點輿圖天賦點。"
+  },
+  {
+    "RowIndex": 551,
+    "Id": "ReceivedAtlasPassivePointN",
+    "Text": "你收到 {0} 點輿圖天賦點。"
+  },
+  {
+    "RowIndex": 552,
+    "Id": "MavenNotEnoughBosses",
+    "Text": "啟動失敗。你尚未從此於圖地區蒐集足夠的頭目。"
+  },
+  {
+    "RowIndex": 553,
+    "Id": "MavenCitadelNotUnlocked",
+    "Text": "啟動失敗。你尚未解鎖此輿圖地區的壁壘。"
+  },
+  {
+    "RowIndex": 554,
+    "Id": "StashAffinityFailedNoRoom",
+    "Text": "你有設定 {0} 相同性的倉庫頁沒有足夠的空間擺放道具。"
+  },
+  {
+    "RowIndex": 555,
+    "Id": "FailedToAddMavenToMap",
+    "Text": "釋界加入地圖失敗，因為：{0}"
+  },
+  {
+    "RowIndex": 556,
+    "Id": "RitualFragmentNotValidForUse",
+    "Text": "啟動失敗。鮮血魔像只能在祭祀聯盟中使用。"
+  },
+  {
+    "RowIndex": 557,
+    "Id": "MapDeviceInvalidQuestState",
+    "Text": "啟動失敗。尚未取得必要的任務。"
+  },
+  {
+    "RowIndex": 558,
+    "Id": "MapDeviceFull",
+    "Text": "你的地圖裝置已滿。"
+  },
+  {
+    "RowIndex": 559,
+    "Id": "AccountNotVerified",
+    "Text": "帳號未認證。"
+  },
+  {
+    "RowIndex": 560,
+    "Id": "UltimatumTrialStarted",
+    "Text": "你無法加入已開始的試煉。"
+  },
+  {
+    "RowIndex": 561,
+    "Id": "RoyaleMatchEndedWonReward",
+    "Text": "吃雞啦！\n 階級 {0} 的裝飾物：喙鳥晚宴被添加至你的藏身處。"
+  },
+  {
+    "RowIndex": 562,
+    "Id": "RoyaleMatchEndedWon",
+    "Text": "吃雞啦！\n 再 {0} 勝利獲得下個階段的藏身處獎勵。"
+  },
+  {
+    "RowIndex": 563,
+    "Id": "RoyaleMatchEndedWonMax",
+    "Text": "吃雞啦！"
+  },
+  {
+    "RowIndex": 564,
+    "Id": "RoyaleMatchEnded",
+    "Text": "{0} 贏得本輪！"
+  },
+  {
+    "RowIndex": 565,
+    "Id": "RoyaleMatchEndedTeam",
+    "Text": "{0} 和 {1} 贏得本輪！"
+  },
+  {
+    "RowIndex": 566,
+    "Id": "TradeNoteBlacklistedCharactersError",
+    "Text": "你的交易註記包含非法字元，請再嘗試一次。"
+  },
+  {
+    "RowIndex": 567,
+    "Id": "ExpeditionDetonatorNotInstanceOwner",
+    "Text": "只有副本擁有者可以和爆裂物或引爆器互動。"
+  },
+  {
+    "RowIndex": 568,
+    "Id": "ActionTemporarilyDisabled",
+    "Text": "此行動已暫時失效。"
+  },
+  {
+    "RowIndex": 569,
+    "Id": "CannotAccessGuildHideout",
+    "Text": "你無法前往該玩家的公會藏身處，因為你不是他們的公會成員。"
+  },
+  {
+    "RowIndex": 570,
+    "Id": "SettingDeliveryDetailsFailed",
+    "Text": "設定運送資料失敗："
+  },
+  {
+    "RowIndex": 571,
+    "Id": "ExpeditionCurrencyNotification",
+    "Text": "增加 {0}x{1} 至你的探險鎖櫃"
+  },
+  {
+    "RowIndex": 572,
+    "Id": "GuildStashDisabled",
+    "Text": "此公會倉庫頁暫時失效。"
+  },
+  {
+    "RowIndex": 573,
+    "Id": "TencentItcServerError",
+    "Text": "ITC 伺服器通報異常。"
+  },
+  {
+    "RowIndex": 574,
+    "Id": "OperationCancelled",
+    "Text": "取消執行。"
+  },
+  {
+    "RowIndex": 575,
+    "Id": "ConvertMapsPartialSuccess",
+    "Text": "部分地圖不能被轉化，因為空間不足或沒有有效的轉化。"
+  },
+  {
+    "RowIndex": 576,
+    "Id": "CannotPromoteEmptyStashToActive",
+    "Text": "你不能上架空白倉庫頁。"
+  },
+  {
+    "RowIndex": 577,
+    "Id": "CannotFindActiveStashToReplace",
+    "Text": "找不到要替換此類型的空白倉庫頁。請確認你是否持有並再重試。"
+  },
+  {
+    "RowIndex": 578,
+    "Id": "TencentUicServerError",
+    "Text": "連結失敗，請稍後再試。"
+  },
+  {
+    "RowIndex": 579,
+    "Id": "PlayerKillCount1",
+    "Text": "你已經擊殺 1 隻怪物。"
+  },
+  {
+    "RowIndex": 580,
+    "Id": "PlayerKillCountCapped",
+    "Text": "你已經擊殺無數隻怪物。"
+  },
+  {
+    "RowIndex": 581,
+    "Id": "TencentActionFailedMarketBanned",
+    "Text": "你的行為違反服務條款，對遊戲正常營運造成負面影響。你遭禁用交易市集{0}。"
+  },
+  {
+    "RowIndex": 582,
+    "Id": "TencentGlobalStatusError",
+    "Text": "系統維護中，請稍後再試。"
+  },
+  {
+    "RowIndex": 583,
+    "Id": "WhisperFailed",
+    "Text": "發送給 {0} 的密語失敗，因為: {1}"
+  },
+  {
+    "RowIndex": 584,
+    "Id": "HideoutExportFailedLackingPermission",
+    "Text": "你沒有權限匯出此藏身處。"
+  },
+  {
+    "RowIndex": 585,
+    "Id": "CurrencyTradingPreventedDueToReview",
+    "Text": "在你的帳號被審核前，你不能將通貨或傳奇物品交易給其他玩家。此過程最多可能需要 24 小時。"
+  },
+  {
+    "RowIndex": 586,
+    "Id": "PublicListingLockedDueToReview",
+    "Text": "在你的帳號通過審核前，你不能公開列出待售物品。此過程最多可能需要 24 小時。"
+  },
+  {
+    "RowIndex": 587,
+    "Id": "InteractErrorNotYourLakeStampingDevice",
+    "Text": "你不能使用此鏡像碑牌。"
+  },
+  {
+    "RowIndex": 588,
+    "Id": "SanctumStabilityError",
+    "Text": "錯誤: 沒有決心無法進入聖域"
+  },
+  {
+    "RowIndex": 589,
+    "Id": "FeedbackNumber",
+    "Text": "感謝你的回報！"
+  },
+  {
+    "RowIndex": 590,
+    "Id": "LootAllocationOptionDisabledInHardMode",
+    "Text": "殘暴聯盟不能設置物品分配模式。"
+  },
+  {
+    "RowIndex": 591,
+    "Id": "ExtraInventoryColumnsDisabledInHardMode",
+    "Text": "[DNT]Extra inventory columns are disabled in Ruthless leagues. CHINA ONLY NOT FOR WORLDWIDE REALM"
+  },
+  {
+    "RowIndex": 592,
+    "Id": "PathOfEnduranceDisabledInHardMode",
+    "Text": "[DNT]Path of Endurance is disabled in Ruthless leagues."
+  },
+  {
+    "RowIndex": 593,
+    "Id": "RelicCannotPlaceItemSanctumInProgressError",
+    "Text": "你有啟動的聖域時，無法改變聖物。"
+  },
+  {
+    "RowIndex": 594,
+    "Id": "CoinFlipHeads",
+    "Text": "{0} 正面！"
+  },
+  {
+    "RowIndex": 595,
+    "Id": "CoinFlipTails",
+    "Text": "{0} 反面！"
+  },
+  {
+    "RowIndex": 596,
+    "Id": "HideoutPvpInvalidPosition",
+    "Text": "PvP 競技場太靠近你的傳送點，所以 PvP 關閉。"
+  },
+  {
+    "RowIndex": 597,
+    "Id": "HideoutPvpEnded",
+    "Text": "對局結束，{0} 獲勝！"
+  },
+  {
+    "RowIndex": 598,
+    "Id": "HideoutPvpEndedDraw",
+    "Text": "對局結束，平手。"
+  },
+  {
+    "RowIndex": 599,
+    "Id": "HideoutPvpCancelled",
+    "Text": "對局取消。"
+  },
+  {
+    "RowIndex": 600,
+    "Id": "HideoutPvpDefeated",
+    "Text": "{0} 被擊敗！"
+  },
+  {
+    "RowIndex": 601,
+    "Id": "AccountNeedsToBeOffline",
+    "Text": "帳號需要離線才能執行此操作。"
+  },
+  {
+    "RowIndex": 602,
+    "Id": "AccountTransferInProgress",
+    "Text": "此帳號正在切換副本。請稍後再試。"
+  },
+  {
+    "RowIndex": 603,
+    "Id": "SanctumAlreadyOpenedError",
+    "Text": "聖域已開啟，無法再加入。"
+  },
+  {
+    "RowIndex": 604,
+    "Id": "CXInvalidRequest",
+    "Text": "無效請求。"
+  },
+  {
+    "RowIndex": 605,
+    "Id": "CXOrderDoesNotExist",
+    "Text": "訂單不存在。"
+  },
+  {
+    "RowIndex": 606,
+    "Id": "CXOrderAlreadyClosed",
+    "Text": "訂單已關閉。"
+  },
+  {
+    "RowIndex": 607,
+    "Id": "CXOrderIsNotClosed",
+    "Text": "必須先關閉訂單。"
+  },
+  {
+    "RowIndex": 608,
+    "Id": "CXMarketDisabled",
+    "Text": "市集已關閉。"
+  },
+  {
+    "RowIndex": 609,
+    "Id": "CXPendingTransactionOpen",
+    "Text": "待完成交易進行中。"
+  },
+  {
+    "RowIndex": 610,
+    "Id": "CXPendingChangeRollback",
+    "Text": "待完成交易已退回。"
+  },
+  {
+    "RowIndex": 611,
+    "Id": "CXNoPendingCommit",
+    "Text": "並未找到待完成交易。"
+  },
+  {
+    "RowIndex": 612,
+    "Id": "CXTooManyOrders",
+    "Text": "你有太多訂單了。"
+  },
+  {
+    "RowIndex": 613,
+    "Id": "CXQueryOrderRateLimited",
+    "Text": "你必須先等待才能排序更多交易。"
+  },
+  {
+    "RowIndex": 614,
+    "Id": "CXGenericQueryFailure",
+    "Text": "交易排序失敗。"
+  },
+  {
+    "RowIndex": 615,
+    "Id": "CXGenericOrderFailure",
+    "Text": "下訂單失敗。"
+  },
+  {
+    "RowIndex": 616,
+    "Id": "CXCouldNotFindSellItems",
+    "Text": "無法找到你想賣的物品。"
+  },
+  {
+    "RowIndex": 617,
+    "Id": "InstanceClosingSoon",
+    "Text": "此副本將在幾分鐘內關閉。請切換到其他區域以免斷線。"
+  },
+  {
+    "RowIndex": 618,
+    "Id": "NotEnoughGoldStorage",
+    "Text": "你無法存放這個數量的金幣。"
+  },
+  {
+    "RowIndex": 619,
+    "Id": "AccountNotAuthorizedOnServer",
+    "Text": "此帳號沒有進入這個伺服器的權限。"
+  },
+  {
+    "RowIndex": 620,
+    "Id": "CharacterSentToVoidLeague",
+    "Text": "{0} (等級 100) 被送入虛空！"
+  },
+  {
+    "RowIndex": 621,
+    "Id": "MustMigrateGarena",
+    "Text": "此帳號必須先從 Garena 合併至 Hotcool。"
+  },
+  {
+    "RowIndex": 622,
+    "Id": "GuildLeaderCannotLeave",
+    "Text": "你必須將另一位公會會長晉升為會長，才可離開你的公會。"
+  },
+  {
+    "RowIndex": 623,
+    "Id": "NoHideoutSet",
+    "Text": "你沒有藏身處。"
+  },
+  {
+    "RowIndex": 624,
+    "Id": "NotImplemented",
+    "Text": "尚未實裝。"
+  },
+  {
+    "RowIndex": 625,
+    "Id": "SonyWebApiBadRequest",
+    "Text": "錯誤請求。"
+  },
+  {
+    "RowIndex": 626,
+    "Id": "SonyWebApiNotAuthorized",
+    "Text": "未經授權。"
+  },
+  {
+    "RowIndex": 627,
+    "Id": "SonyWebApiForbidden",
+    "Text": "禁止訪問。"
+  },
+  {
+    "RowIndex": 628,
+    "Id": "SonyWebApiAccessTokenExpired",
+    "Text": "存取憑證已過期。"
+  },
+  {
+    "RowIndex": 629,
+    "Id": "SonyWebApiNotPermitted",
+    "Text": "無權執行此操作。"
+  },
+  {
+    "RowIndex": 630,
+    "Id": "SonyWebApiContextIdAlreadyRegistered",
+    "Text": "該 ContextId 已被註冊。"
+  },
+  {
+    "RowIndex": 631,
+    "Id": "SonyWebApiServiceUnavailable",
+    "Text": "無法使用該服務。"
+  },
+  {
+    "RowIndex": 632,
+    "Id": "SonyWebApiSessionManagerAlreadyJoinedPlayerSession",
+    "Text": "已為玩家區域的成員。"
+  },
+  {
+    "RowIndex": 633,
+    "Id": "SonyWebApiSessionManagerPlayerSessionDoesNotExist",
+    "Text": "玩家區域不存在。"
+  },
+  {
+    "RowIndex": 634,
+    "Id": "SonyWebApiSessionManagerBlockedUserExists",
+    "Text": "內有被封鎖的用戶。"
+  },
+  {
+    "RowIndex": 635,
+    "Id": "SonyWebApiSessionManagerNotPermittedToJoinPlayerSession",
+    "Text": "無權加入該區域。"
+  },
+  {
+    "RowIndex": 636,
+    "Id": "SonyWebApiSessionManagerNotMemberOfSession",
+    "Text": "成員未加入區域。"
+  },
+  {
+    "RowIndex": 637,
+    "Id": "SonyWebApiSessionManagerBlocked",
+    "Text": "已封鎖。"
+  },
+  {
+    "RowIndex": 638,
+    "Id": "SonyWebApiSessionManagerSessionFull",
+    "Text": "區域人數已滿。"
+  },
+  {
+    "RowIndex": 639,
+    "Id": "MapDeviceMissingRecipeRequirement",
+    "Text": "啟動失敗。若要挑戰釋放的頭目，你必須擊敗一次標準版頭目。"
+  },
+  {
+    "RowIndex": 640,
+    "Id": "ReliquaryVaultKeyMissing",
+    "Text": "此機關已鎖定，你需要一把鑰匙來打開它。"
+  },
+  {
+    "RowIndex": 641,
+    "Id": "MapCraftingFailedCraftNoExtraContent",
+    "Text": "啟動失敗。額外內容無法添加到這張地圖中。"
+  },
+  {
+    "RowIndex": 642,
+    "Id": "StopwatchElapsedTime",
+    "Text": "已過時間: {0}"
+  },
+  {
+    "RowIndex": 643,
+    "Id": "StopwatchSplitTime",
+    "Text": "分割: {0}"
+  },
+  {
+    "RowIndex": 644,
+    "Id": "AncestralTrialRosterFull",
+    "Text": "戰士和戰場物品數量已達上限。請賣掉現有的清出空間。"
+  },
+  {
+    "RowIndex": 645,
+    "Id": "AncestralTrialInventoryFull",
+    "Text": "裝備物品數量已達上限。請賣掉現有的清出空間。"
+  },
+  {
+    "RowIndex": 646,
+    "Id": "LeagueFirstToAncestorRank",
+    "Text": "{0} 為第一個在祖靈的試煉到達階級 {1} 的角色！"
+  },
+  {
+    "RowIndex": 647,
+    "Id": "AncestralTrialMatchInProgress",
+    "Text": "正在進行祖靈的試煉時，無法進入亡者之殿。"
+  },
+  {
+    "RowIndex": 648,
+    "Id": "MapLethalAfterTimeBeginDeathCount",
+    "Text": "快逃啊！這邊的基礎記憶正在消失！"
+  },
+  {
+    "RowIndex": 649,
+    "Id": "MapLethalAfterTimeFinalCountdown",
+    "Text": "{0}"
+  },
+  {
+    "RowIndex": 650,
+    "Id": "MapLethalAfterTimeKillPlayer",
+    "Text": "這邊不再能生存了。你只能希望你已經逃出。"
+  },
+  {
+    "RowIndex": 651,
+    "Id": "MapLethalAfterTime75Percent",
+    "Text": "像我怕的一樣，這不是張穩定的地圖。你已經在這消耗四分之一的時間了。"
+  },
+  {
+    "RowIndex": 652,
+    "Id": "MapLethalAfterTime50Percent",
+    "Text": "這邊已經破損一半了。"
+  },
+  {
+    "RowIndex": 653,
+    "Id": "MapLethalAfterTime25Percent",
+    "Text": "時間快到了。時間只剩四分之一。"
+  },
+  {
+    "RowIndex": 654,
+    "Id": "MapLethalAfterTimeCompletion",
+    "Text": "度過危機了。這邊現在是安全的…或至少在輿圖範圍內是安全的。"
+  },
+  {
+    "RowIndex": 655,
+    "Id": "MapLethalAfterTimeEntrance",
+    "Text": "親愛的札娜，你不能在這邊逗留。這裡是夢境而不是現實。我會盡我所能示警。"
+  },
+  {
+    "RowIndex": 656,
+    "Id": "MapDeviceCannotUseFragmentWithMapTier",
+    "Text": "啟動失敗。{0} 無法套用在此階級的地圖中。"
+  },
+  {
+    "RowIndex": 657,
+    "Id": "CharacterNotUsableInCouchCoop",
+    "Text": "此角色無法用於同機多人遊玩"
+  },
+  {
+    "RowIndex": 658,
+    "Id": "ReceivedWeaponSpecialisationPoint1",
+    "Text": "你得到了 1 點武器套裝天賦點數。"
+  },
+  {
+    "RowIndex": 659,
+    "Id": "ReceivedWeaponSpecialisationPointN",
+    "Text": "你得到了 {0} 點武器套裝天賦點數。"
+  },
+  {
+    "RowIndex": 660,
+    "Id": "DemoComplete",
+    "Text": "恭喜你完成試玩內容！感謝遊玩！"
+  },
+  {
+    "RowIndex": 661,
+    "Id": "DemoDisconnectWarning",
+    "Text": "你將在 20 秒後返回主畫面……"
+  },
+  {
+    "RowIndex": 662,
+    "Id": "DemoTimeUp",
+    "Text": "你的時間已用完，感謝遊玩！"
+  },
+  {
+    "RowIndex": 663,
+    "Id": "InteractErrorSacrificialHeart",
+    "Text": "看起來需要某種心臟。"
+  },
+  {
+    "RowIndex": 664,
+    "Id": "InteractErrorSacrificialDagger",
+    "Text": "看起來需要某種匕首。"
+  },
+  {
+    "RowIndex": 665,
+    "Id": "CannotRejoinAreaAfterDeath",
+    "Text": "你在死亡後無法重新進入此區域。"
+  },
+  {
+    "RowIndex": 666,
+    "Id": "INTLFailedToGetLoginInfo",
+    "Text": "取得登入資訊失敗"
+  },
+  {
+    "RowIndex": 667,
+    "Id": "InteractErrorDoorIsOneWay",
+    "Text": "[DNT] The door does not open from this side."
+  },
+  {
+    "RowIndex": 668,
+    "Id": "InteractErrorDoorRequiresKey1",
+    "Text": "[DNT] The Martyr Relief is flecked with gold, as though it once held a golden sceptre."
+  },
+  {
+    "RowIndex": 669,
+    "Id": "InteractErrorDoorRequiresKey2",
+    "Text": "[DNT] The Painter Relief is flecked with gold, as though it once held a golden palette."
+  },
+  {
+    "RowIndex": 670,
+    "Id": "InteractErrorDoorRequiresKey3",
+    "Text": "[DNT] The Scholar relief is flecked with gold, as though it once held a golden tome."
+  },
+  {
+    "RowIndex": 671,
+    "Id": "InteractErrorDoorRequiresKey4",
+    "Text": "[DNT] The Bard relief is flecked with gold, as though it once held a golden lyre."
+  },
+  {
+    "RowIndex": 672,
+    "Id": "InteractErrorDominusSecretPassage",
+    "Text": "[DNT] The bust of Dominus is flecked with gold, as though it once wore a golden crown."
+  },
+  {
+    "RowIndex": 673,
+    "Id": "QuestRewardConsumeMessage",
+    "Text": "自背包中移除：\r\n{0}"
+  },
+  {
+    "RowIndex": 674,
+    "Id": "CannotDisenchantEquippedItem",
+    "Text": "該物品正裝備中，無法進行破幻。"
+  },
+  {
+    "RowIndex": 675,
+    "Id": "CrossplayRequestRejected",
+    "Text": "基於你的跨平台限制，已駁回請求。"
+  },
+  {
+    "RowIndex": 676,
+    "Id": "CrossplayRequestRejectedByCounterpart",
+    "Text": "基於對方跨平台限制，已駁回請求。"
+  },
+  {
+    "RowIndex": 677,
+    "Id": "CrossplayRequestIgnored",
+    "Text": "基於你的跨平台限制，已忽略收到的請求。"
+  },
+  {
+    "RowIndex": 678,
+    "Id": "AccountMergeFailed",
+    "Text": "帳號合併失敗。"
+  },
+  {
+    "RowIndex": 679,
+    "Id": "AccountUnmergeFailed",
+    "Text": "解除帳號合併失敗。"
+  },
+  {
+    "RowIndex": 680,
+    "Id": "AccountNameUnavailable",
+    "Text": "無法使用此帳號名稱。"
+  },
+  {
+    "RowIndex": 681,
+    "Id": "NotEnoughPortalsForParty",
+    "Text": "沒有足夠的時空之門可以進入。"
+  }
+]

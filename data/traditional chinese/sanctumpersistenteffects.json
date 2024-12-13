@@ -1,0 +1,5157 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AfflictionMonsterMoreDamage",
+    "Stats": [
+      {
+        "RowIndex": 15391,
+        "TableName": "Stats",
+        "Id": "map_monster_damage_+%_final_from_deadly_atlas"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "磨礪之爪",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHonedClawsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHonedClaws",
+    "BoonDesc": "",
+    "CurseDesc": "怪物造成 30% 更多傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62326
+  },
+  {
+    "RowIndex": 1,
+    "Id": "BoonMonsterLessDamage",
+    "Stats": [
+      {
+        "RowIndex": 15390,
+        "TableName": "Stats",
+        "Id": "map_monster_damage_+%_final_from_vital_atlas"
+      }
+    ],
+    "StatValues": [
+      -20
+    ],
+    "Name": "恐懼面具",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFrightMaskIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFrightMask",
+    "BoonDesc": "怪物造成 20% 更少傷害",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 15442
+  },
+  {
+    "RowIndex": 2,
+    "Id": "AfflictionTrapDamageMajor",
+    "Stats": [
+      {
+        "RowIndex": 19329,
+        "TableName": "Stats",
+        "Id": "map_sanctum_traps_always_deal_triple_damage"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "致命陷阱",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHeightenedSecurityIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHeightenedSecurity",
+    "BoonDesc": "",
+    "CurseDesc": "陷阱造成三倍傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41921
+  },
+  {
+    "RowIndex": 3,
+    "Id": "AfflictionTrapDamage",
+    "Stats": [
+      {
+        "RowIndex": 19330,
+        "TableName": "Stats",
+        "Id": "map_sanctum_traps_damage_+%"
+      }
+    ],
+    "StatValues": [
+      100
+    ],
+    "Name": "暗坑",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDarkPitIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDarkPit",
+    "BoonDesc": "",
+    "CurseDesc": "陷阱增加 100% 傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62584
+  },
+  {
+    "RowIndex": 4,
+    "Id": "AfflictionLessSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16329,
+        "TableName": "Stats",
+        "Id": "map_sanctum_currency_found_+%_final_from_sanctum_curse"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "低淺之河",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLowRiversIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLowRivers",
+    "BoonDesc": "",
+    "CurseDesc": "掉落 50% 更少[SacredWater|神聖之水]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 21680
+  },
+  {
+    "RowIndex": 5,
+    "Id": "AfflictionLessDamage",
+    "Stats": [
+      {
+        "RowIndex": 16330,
+        "TableName": "Stats",
+        "Id": "map_player_damage_+%_final_from_sanctum_curse"
+      }
+    ],
+    "StatValues": [
+      -40
+    ],
+    "Name": "鈍劍",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBluntSwordIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBluntSword",
+    "BoonDesc": "",
+    "CurseDesc": "你和你的召喚物造成 40% 更少傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 40008
+  },
+  {
+    "RowIndex": 6,
+    "Id": "AfflictionTrapSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16321,
+        "TableName": "Stats",
+        "Id": "sanctum_hazards_are_faster"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "快速流沙",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRapidQuicksandIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRapidQuicksand",
+    "BoonDesc": "",
+    "CurseDesc": "陷阱被加速",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 56047
+  },
+  {
+    "RowIndex": 7,
+    "Id": "AfflictionTrapVolatiles",
+    "Stats": [
+      {
+        "RowIndex": 16323,
+        "TableName": "Stats",
+        "Id": "sanctum_has_volatiles"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "異常吸引",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseAnomalyAttractorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseAnomalyAttractor",
+    "BoonDesc": "",
+    "CurseDesc": "房間產生[Volatiles|極凍]天體",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 8,
+    "Id": "BoonMovementSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5555,
+        "TableName": "Stats",
+        "Id": "map_players_movement_speed_+%"
+      }
+    ],
+    "StatValues": [
+      40
+    ],
+    "Name": "腳兔",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHareFootIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHareFoot",
+    "BoonDesc": "增加 40% 移動速度",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13820
+  },
+  {
+    "RowIndex": 9,
+    "Id": "BoonMoreSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16387,
+        "TableName": "Stats",
+        "Id": "map_sanctum_currency_found_+%_final_from_sanctum_boon"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "氾濫之河",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiver",
+    "BoonDesc": "掉落 50% 更多[SacredWater|神聖之水]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44476
+  },
+  {
+    "RowIndex": 10,
+    "Id": "BoonGainSacredWaterWhenDamaged",
+    "Stats": [
+      {
+        "RowIndex": 16388,
+        "TableName": "Stats",
+        "Id": "gain_x_sanctum_gold_when_taking_sanctum_hit_damage"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "補償",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentGiftIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentGift",
+    "BoonDesc": "當你被敵人[HitDamage|擊中]時，獲得 2 [SacredWater|神聖之水]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 46242
+  },
+  {
+    "RowIndex": 11,
+    "Id": "AfflictionLoseSacredWaterWhenDamaged",
+    "Stats": [
+      {
+        "RowIndex": 16390,
+        "TableName": "Stats",
+        "Id": "lose_x_sanctum_gold_when_taking_sanctum_hit_damage"
+      }
+    ],
+    "StatValues": [
+      20
+    ],
+    "Name": "漏水袋",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLeakingWaterskinIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionLeakingWaterskin",
+    "BoonDesc": "",
+    "CurseDesc": "當你被敵人[HitDamage|擊中]時，失去 20 [SacredWater|神聖之水]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 61003
+  },
+  {
+    "RowIndex": 12,
+    "Id": "AfflictionLoseSacredWaterOnRoomComplete",
+    "Stats": [
+      {
+        "RowIndex": 16391,
+        "TableName": "Stats",
+        "Id": "lose_x_sanctum_gold_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "通行稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionGateTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionGateToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成房間時，失去 30 [SacredWater|神聖之水]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35767
+  },
+  {
+    "RowIndex": 13,
+    "Id": "AfflictionNoSacredWaterFromMonsters",
+    "Stats": [
+      {
+        "RowIndex": 16392,
+        "TableName": "Stats",
+        "Id": "sanctum_no_gold_from_monsters"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "怪物不再掉落[SacredWater|神聖之水]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 14,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      8
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 15,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms7"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成 {} 個房間後受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 15,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms7",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      7
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 16,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms6"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成 {} 個房間後受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 16,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms6",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      6
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 17,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms5"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成 {} 個房間後受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 17,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms5",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      5
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 18,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms4"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成 {} 個房間後受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 18,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms4",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      4
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 19,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms3"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成 {} 個房間後受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 19,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms3",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      3
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 20,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms2"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成 {} 個房間後受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 20,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms2",
+    "Stats": [
+      {
+        "RowIndex": 20909,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage"
+      },
+      {
+        "RowIndex": 20908,
+        "TableName": "Stats",
+        "Id": "display_sanctum_take_damage_after_x_rooms"
+      }
+    ],
+    "StatValues": [
+      250,
+      2
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 21,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms1"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成 {} 個房間後受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 21,
+    "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms1",
+    "Stats": [
+      {
+        "RowIndex": 17035,
+        "TableName": "Stats",
+        "Id": "sanctum_take_damage_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      250
+    ],
+    "Name": "死亡稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathTollIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseDeathToll",
+    "BoonDesc": "",
+    "CurseDesc": "完成下一個房間後受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 14,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 59642
+  },
+  {
+    "RowIndex": 22,
+    "Id": "AfflictionNoSacredWaterFromChests",
+    "Stats": [
+      {
+        "RowIndex": 16393,
+        "TableName": "Stats",
+        "Id": "sanctum_no_gold_from_fountains"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "枯竭水井",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionExhaustedWellsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionExhaustedWells",
+    "BoonDesc": "",
+    "CurseDesc": "保險箱不再掉落[SacredWater|神聖之水]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35912
+  },
+  {
+    "RowIndex": 23,
+    "Id": "AfflictionMonsterLife",
+    "Stats": [
+      {
+        "RowIndex": 955,
+        "TableName": "Stats",
+        "Id": "map_monsters_life_+%"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "尖刺貝殼",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedShellIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedShell",
+    "BoonDesc": "",
+    "CurseDesc": "怪物有 50% 更多最大生命",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13875
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AfflictionMonsterPercentageDamage",
+    "Stats": [
+      {
+        "RowIndex": 19327,
+        "TableName": "Stats",
+        "Id": "map_monster_remove_%_life_mana_es_on_hit"
+      }
+    ],
+    "StatValues": [
+      5
+    ],
+    "Name": "飢餓獠牙",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHungryFangsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseHungryFangs",
+    "BoonDesc": "",
+    "CurseDesc": "怪物會在[HitDamage|擊中]你時，移除你 5% 的生命、魔力和[EnergyShield|能量護盾]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 359
+  },
+  {
+    "RowIndex": 25,
+    "Id": "AfflictionCannotRestoreHonour",
+    "Stats": [
+      {
+        "RowIndex": 16394,
+        "TableName": "Stats",
+        "Id": "sanctum_cannot_restore_honour"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "被烙印的芭芭拉卡",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionBrandedBalbalakhIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionBrandedBalbalakh",
+    "BoonDesc": "",
+    "CurseDesc": "不會恢復[Honour|榮譽]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 19039
+  },
+  {
+    "RowIndex": 26,
+    "Id": "AfflictionReducedHonourRestored",
+    "Stats": [
+      {
+        "RowIndex": 16397,
+        "TableName": "Stats",
+        "Id": "sanctum_honour_restored_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "可疑的同情者",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionSuspectedSympathiserIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionSuspectedSympathiser",
+    "BoonDesc": "",
+    "CurseDesc": "恢復的[Honour|榮譽]減少 50%",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9350
+  },
+  {
+    "RowIndex": 27,
+    "Id": "BoonSanctumHonourRestored",
+    "Stats": [
+      {
+        "RowIndex": 16397,
+        "TableName": "Stats",
+        "Id": "sanctum_honour_restored_+%"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "尊敬的挑戰者",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentHeroineIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentHeroine",
+    "BoonDesc": "恢復的[Honour|榮譽]增加 50%",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 4682
+  },
+  {
+    "RowIndex": 28,
+    "Id": "AfflictionViewRoomsAhead",
+    "Stats": [
+      {
+        "RowIndex": 16398,
+        "TableName": "Stats",
+        "Id": "sanctum_map_view_additional_rooms_ahead"
+      }
+    ],
+    "StatValues": [
+      -1
+    ],
+    "Name": "黑煙",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBlackSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseBlackSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "在試煉地圖你可以少看一間房間",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34448
+  },
+  {
+    "RowIndex": 29,
+    "Id": "BoonViewRoomsAhead",
+    "Stats": [
+      {
+        "RowIndex": 16398,
+        "TableName": "Stats",
+        "Id": "sanctum_map_view_additional_rooms_ahead"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "占卜水晶",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonScryingCrystalIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonScryingCrystal",
+    "BoonDesc": "在試煉地圖你可以預先看見 1 間額外房間",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44243
+  },
+  {
+    "RowIndex": 30,
+    "Id": "AfflictionMerchantCost",
+    "Stats": [
+      {
+        "RowIndex": 16403,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_gold_cost_+%"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "貿易關稅",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTradeTarifffIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTradeTarifff",
+    "BoonDesc": "",
+    "CurseDesc": "增加 50% 販售價格",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34561
+  },
+  {
+    "RowIndex": 31,
+    "Id": "BoonMerchantCost",
+    "Stats": [
+      {
+        "RowIndex": 16403,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_gold_cost_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "能說會道",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSilverTongueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSilverTongue",
+    "BoonDesc": "減少 50% 販售價格",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24536
+  },
+  {
+    "RowIndex": 32,
+    "Id": "BoonDisableTraps",
+    "Stats": [
+      {
+        "RowIndex": 16402,
+        "TableName": "Stats",
+        "Id": "sanctum_traps_are_disabled"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "玉璽",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonImperialSealIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonImperialSeal",
+    "BoonDesc": "陷阱失效",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44836
+  },
+  {
+    "RowIndex": 33,
+    "Id": "BoonIgnoreXHitsEachRoom",
+    "Stats": [
+      {
+        "RowIndex": 16408,
+        "TableName": "Stats",
+        "Id": "sanctum_no_damage_from_first_x_hits"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "卡洛翰恩典",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGarukhanStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGarukhanStatue",
+    "BoonDesc": "每個房間無視第一次被敵人[HitDamage|擊中]所承受的傷害",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 38171
+  },
+  {
+    "RowIndex": 34,
+    "Id": "AfflictionLoseAllSacredWaterOnFloorComplete",
+    "Stats": [
+      {
+        "RowIndex": 16409,
+        "TableName": "Stats",
+        "Id": "sanctum_lose_all_gold_on_floor_completion"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "凜冬乾旱",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWinterDroughtIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWinterDrought",
+    "BoonDesc": "",
+    "CurseDesc": "完成樓層時失去全部[SacredWater|神聖之水]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 20573
+  },
+  {
+    "RowIndex": 35,
+    "Id": "BoonRestoreHonourOnRoomComplete",
+    "Stats": [
+      {
+        "RowIndex": 16410,
+        "TableName": "Stats",
+        "Id": "sanctum_restore_scaled_honour_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      7
+    ],
+    "Name": "贏來的榮譽",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWarriorStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWarriorStatue",
+    "BoonDesc": "完成房間時，恢復 {0} [Honour|榮譽]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24603
+  },
+  {
+    "RowIndex": 36,
+    "Id": "BoonDamageCooldown",
+    "Stats": [
+      {
+        "RowIndex": 20182,
+        "TableName": "Stats",
+        "Id": "map_players_cannot_be_damaged_for_1_second_after_enemy_hit"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "阿卡莉的守護",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSmallClayGolemIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSmallClayGolem",
+    "BoonDesc": "受到敵人[HitDamage|擊中]傷害後的 1 秒內，你不會再受到傷害",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 47837
+  },
+  {
+    "RowIndex": 37,
+    "Id": "BoonRestoreHonourOnPercentHealth",
+    "Stats": [
+      {
+        "RowIndex": 16451,
+        "TableName": "Stats",
+        "Id": "sanctum_heal_on_%_health_threshold"
+      },
+      {
+        "RowIndex": 16452,
+        "TableName": "Stats",
+        "Id": "sanctum_heal_on_%_health_%_to_heal"
+      }
+    ],
+    "StatValues": [
+      20,
+      50
+    ],
+    "Name": "發光寶珠",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGlowOrbIcon",
+    "Unk005": 0,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGlowOrb",
+    "BoonDesc": "當你下次最大生命低於 20% 時，恢復所有生命、能量護盾和 50% [Honour|榮譽]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 3157
+  },
+  {
+    "RowIndex": 38,
+    "Id": "AfflictionHideRoomAll",
+    "Stats": [
+      {
+        "RowIndex": 16583,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_room_all"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "蒙蔽視線",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseVeiledSightIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseVeiledSight",
+    "BoonDesc": "",
+    "CurseDesc": "在試煉地圖上的房間為未知",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 43384
+  },
+  {
+    "RowIndex": 39,
+    "Id": "AfflictionHideRoomEncounter",
+    "Stats": [
+      {
+        "RowIndex": 16584,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_room_encounter"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "紅煙",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRedSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRedSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "在試煉地圖上的房間類型為未知",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 17084
+  },
+  {
+    "RowIndex": 40,
+    "Id": "AfflictionHideRoomReward",
+    "Stats": [
+      {
+        "RowIndex": 16585,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_room_reward"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "金煙",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGoldenSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGoldenSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "在試煉地圖上的獎勵為未知",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 1198
+  },
+  {
+    "RowIndex": 41,
+    "Id": "AfflictionHideRoomAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16586,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_room_curse"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "紫煙",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CursePurpleSmokeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CursePurpleSmoke",
+    "BoonDesc": "",
+    "CurseDesc": "在試煉地圖上的[Afflictions|苦痛]為未知",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28906
+  },
+  {
+    "RowIndex": 42,
+    "Id": "AfflictionHonurLossIsFatal3",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats",
+        "Id": "sanctum_losing_honour_is_fatal"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "陰森鐮刀",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 43,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionHonourLossIsFatal2"
+    },
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScythe",
+    "BoonDesc": "",
+    "CurseDesc": "失去[Honour|榮譽]會結束試煉\r\n（3 個房間後移除）",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 43,
+    "Id": "AfflictionHonourLossIsFatal2",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats",
+        "Id": "sanctum_losing_honour_is_fatal"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "陰森鐮刀",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": {
+      "RowIndex": 44,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionHonourLossIsFatal1"
+    },
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "失去[Honour|榮譽]會結束試煉\r\n（2 個房間後移除）",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 42,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionHonurLossIsFatal3"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 44,
+    "Id": "AfflictionHonourLossIsFatal1",
+    "Stats": [
+      {
+        "RowIndex": 16599,
+        "TableName": "Stats",
+        "Id": "sanctum_losing_honour_is_fatal"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "陰森鐮刀",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGhastlyScytheIcon",
+    "Unk005": 5,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "失去[Honour|榮譽]會結束試煉\r\n（1 個房間後移除）",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 42,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "AfflictionHonurLossIsFatal3"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 32300
+  },
+  {
+    "RowIndex": 45,
+    "Id": "BoonDefyDeathWithLessLife",
+    "Stats": [
+      {
+        "RowIndex": 20213,
+        "TableName": "Stats",
+        "Id": "sanctum_revive_once_with_50percent_life_and_es"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "奧爾巴拉的皮甲",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmourIcon",
+    "Unk005": 12,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmour",
+    "BoonDesc": "[Honour|榮譽]達到 0 時，復活一次並具有 50% 更少[Honour|榮譽]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44077
+  },
+  {
+    "RowIndex": 46,
+    "Id": "PenaltyDefiedDeathWithLessHonour",
+    "Stats": [
+      {
+        "RowIndex": 20982,
+        "TableName": "Stats",
+        "Id": "sanctum_max_honour_+%_final_from_death_defy_boon"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "奧爾巴拉的皮甲",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmourIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMarakethLeatherArmour",
+    "BoonDesc": "50% 更少最大[Honour|榮譽]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": {
+      "RowIndex": 45,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonDefyDeathWithLessLife"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 44077
+  },
+  {
+    "RowIndex": 47,
+    "Id": "BoonDefyDeath",
+    "Stats": [
+      {
+        "RowIndex": 20215,
+        "TableName": "Stats",
+        "Id": "sanctum_revive_once"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "絲克瑪的披風",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyDescryIcon",
+    "Unk005": 2,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyDescry",
+    "BoonDesc": "生命歸 0 時，在[Honour|榮譽]全滿的狀態下復活一次",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34499
+  },
+  {
+    "RowIndex": 48,
+    "Id": "BoonPreventMinorAfflictions",
+    "Stats": [
+      {
+        "RowIndex": 16596,
+        "TableName": "Stats",
+        "Id": "sanctum_prevent_minor_afflictions"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "勇士項鍊",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonDekharasResolveIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonDekharasResolve",
+    "BoonDesc": "你不能再獲得任何次要[Afflictions|苦痛]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 13598
+  },
+  {
+    "RowIndex": 49,
+    "Id": "AfflictionPreventBoons",
+    "Stats": [
+      {
+        "RowIndex": 16597,
+        "TableName": "Stats",
+        "Id": "sanctum_prevent_boons"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "不起眼的磚",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnassumingBrickIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnassumingBrick",
+    "BoonDesc": "",
+    "CurseDesc": "你不會獲得任何[Boons|恩惠]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 50613
+  },
+  {
+    "RowIndex": 50,
+    "Id": "BoonImmuneForNextRoom",
+    "Stats": [
+      {
+        "RowIndex": 19321,
+        "TableName": "Stats",
+        "Id": "map_player_base_cannot_be_damaged"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "片刻和平",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonClothFragmentTreeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonClothFragmentTree",
+    "BoonDesc": "完成下個房間前，你不會受到任何傷害。",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": true,
+    "Unk021": false,
+    "HASH16": 30866
+  },
+  {
+    "RowIndex": 51,
+    "Id": "AfflictionLose%LifeAndEnergyShieldOnRoomCompletion",
+    "Stats": [
+      {
+        "RowIndex": 17035,
+        "TableName": "Stats",
+        "Id": "sanctum_take_damage_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "尖刺入口",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedEntranceIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSpikedEntrance",
+    "BoonDesc": "",
+    "CurseDesc": "完成房間時受到 {} [Physical|物理]傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 53929
+  },
+  {
+    "RowIndex": 52,
+    "Id": "AfflictionNoMinimap",
+    "Stats": [
+      {
+        "RowIndex": 16661,
+        "TableName": "Stats",
+        "Id": "sanctum_hide_minimap"
+      },
+      {
+        "RowIndex": 16666,
+        "TableName": "Stats",
+        "Id": "map_player_light_radius_+%"
+      }
+    ],
+    "StatValues": [
+      1,
+      -90
+    ],
+    "Name": "破爛眼罩",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTatteredBlindfoldIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTatteredBlindfold",
+    "BoonDesc": "",
+    "CurseDesc": "減少 90% 光線範圍\r\n(小地圖被隱藏)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48875
+  },
+  {
+    "RowIndex": 53,
+    "Id": "AfflictionCannotGainSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16662,
+        "TableName": "Stats",
+        "Id": "sanctum_cannot_gain_gold"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "口乾舌燥",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUnquenchedThirstIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUnquenchedThirst",
+    "BoonDesc": "",
+    "CurseDesc": "你無法獲得[SacredWater|神聖之水]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 38381
+  },
+  {
+    "RowIndex": 54,
+    "Id": "AfflictionDamageTakenOnLowLife",
+    "Stats": [
+      {
+        "RowIndex": 20679,
+        "TableName": "Stats",
+        "Id": "map_player_damage_taken_+%_on_low_life"
+      }
+    ],
+    "StatValues": [
+      100
+    ],
+    "Name": "屈辱紋身",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionDishonouredTattooIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionDishonouredTattoo",
+    "BoonDesc": "",
+    "CurseDesc": "[LowLife|貧血狀態]時增加 100% 承受傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 5501
+  },
+  {
+    "RowIndex": 55,
+    "Id": "BoonDoubleSacredWaterThisFloor",
+    "Stats": [
+      {
+        "RowIndex": 16664,
+        "TableName": "Stats",
+        "Id": "sanctum_double_gold_this_floor"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "岔河",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverBentRiverIcon",
+    "Unk005": 4,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldFragmentRiverBentRiver",
+    "BoonDesc": "此樓層掉落的[SacredWater|神聖之水]為 2 倍",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45401
+  },
+  {
+    "RowIndex": 56,
+    "Id": "BoonDoubleSacredWater",
+    "Stats": [
+      {
+        "RowIndex": 16663,
+        "TableName": "Stats",
+        "Id": "sanctum_double_gold"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "喚雨者",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonRaincallingStaffIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonRaincallingStaff",
+    "BoonDesc": "掉落的[SacredWater|神聖之水]為 2 倍",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 31580
+  },
+  {
+    "RowIndex": 57,
+    "Id": "AfflictionWrongRoom",
+    "Stats": [
+      {
+        "RowIndex": 16665,
+        "TableName": "Stats",
+        "Id": "sanctum_wrong_room_%_chance"
+      }
+    ],
+    "StatValues": [
+      33
+    ],
+    "Name": "騙人鏡子",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseMirrorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseMirror",
+    "BoonDesc": "",
+    "CurseDesc": "你不一定會被帶到你選擇的房間",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 14131
+  },
+  {
+    "RowIndex": 58,
+    "Id": "AfflictionNoHonourRecoveredThisFloor",
+    "Stats": [
+      {
+        "RowIndex": 16394,
+        "TableName": "Stats",
+        "Id": "sanctum_cannot_restore_honour"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "出血",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionHaemorrhageIcon",
+    "Unk005": 3,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionHaemorrhage",
+    "BoonDesc": "",
+    "CurseDesc": "你無法恢復[Honour|榮譽]（擊殺下個頭目時移除）",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 34171
+  },
+  {
+    "RowIndex": 59,
+    "Id": "BoonRevealWholeFloor",
+    "Stats": [
+      {
+        "RowIndex": 16668,
+        "TableName": "Stats",
+        "Id": "sanctum_reveal_full_floor"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "全視之眼",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAllSeeingEyeIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAllSeeingEye",
+    "BoonDesc": "試煉地圖被完整揭露",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9121
+  },
+  {
+    "RowIndex": 60,
+    "Id": "BoonTrapSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16342,
+        "TableName": "Stats",
+        "Id": "sanctum_hazards_are_slower"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "璀璨珍珠",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousPearlIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousPearl",
+    "BoonDesc": "陷阱被緩速",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 51140
+  },
+  {
+    "RowIndex": 61,
+    "Id": "BoonMonsterReducedActionSpeed",
+    "Stats": [
+      {
+        "RowIndex": 16901,
+        "TableName": "Stats",
+        "Id": "map_monsters_action_speed_-%"
+      }
+    ],
+    "StatValues": [
+      15
+    ],
+    "Name": "粘稠膿液",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonViciousIchorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonViciousIchor",
+    "BoonDesc": "怪物減少 15% 行動速度",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 57507
+  },
+  {
+    "RowIndex": 62,
+    "Id": "BoonMonsterReducedSanctumDamage",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "木人像",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWoodenEffigyIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonWoodenEffigy",
+    "BoonDesc": "怪物影響 25% 更少決心",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 46977
+  },
+  {
+    "RowIndex": 63,
+    "Id": "BoonMonsterReducedMaximumLife",
+    "Stats": [
+      {
+        "RowIndex": 955,
+        "TableName": "Stats",
+        "Id": "map_monsters_life_+%"
+      }
+    ],
+    "StatValues": [
+      -30
+    ],
+    "Name": "血紅瓶",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSanguineVialIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSanguineVial",
+    "BoonDesc": "怪物有 30% 更少最大生命",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41741
+  },
+  {
+    "RowIndex": 64,
+    "Id": "BoonPlayerMoreDamage",
+    "Stats": [
+      {
+        "RowIndex": 16934,
+        "TableName": "Stats",
+        "Id": "map_player_damage_+%_final_from_sanctum_boon"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "華麗匕首",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFancyDaggerIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFancyDagger",
+    "BoonDesc": "你和你的召喚物造成 50% 更多傷害",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 29924
+  },
+  {
+    "RowIndex": 65,
+    "Id": "BoonInstaKillGuards10",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      10
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBlade",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 10 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 66,
+    "Id": "BoonInstaKillGuards9",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      9
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 9 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 67,
+    "Id": "BoonInstaKillGuards8",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      8
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 8 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 68,
+    "Id": "BoonInstaKillGuards7",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      7
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 7 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 69,
+    "Id": "BoonInstaKillGuards6",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      6
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 6 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 70,
+    "Id": "BoonInstaKillGuards5",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      5
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 5 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 71,
+    "Id": "BoonInstaKillGuards4",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      4
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 4 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 72,
+    "Id": "BoonInstaKillGuards3",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      3
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 3 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 73,
+    "Id": "BoonInstaKillGuards2",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 2 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 74,
+    "Id": "BoonInstaKillGuards1",
+    "Stats": [
+      {
+        "RowIndex": 16756,
+        "TableName": "Stats",
+        "Id": "sanctum_kill_sanctum_guards_on_hit"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "刺客之刃",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAssassinsBladeIcon",
+    "Unk005": 9,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "你接下來[HitDamage|擊中]的 1 個非頭目怪物會被立即擊殺",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": {
+      "RowIndex": 65,
+      "TableName": "SanctumPersistentEffects",
+      "Id": "BoonInstaKillGuards10"
+    },
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6090
+  },
+  {
+    "RowIndex": 75,
+    "Id": "BoonIncreasedRelicEffect",
+    "Stats": [
+      {
+        "RowIndex": 16788,
+        "TableName": "Stats",
+        "Id": "sanctum_non_unique_relic_effect_+%"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "附魔之甕",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonEnchantedUrnIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonEnchantedUrn",
+    "BoonDesc": "增加 30% 你非傳奇[Relic|聖物]的效果",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 38167
+  },
+  {
+    "RowIndex": 76,
+    "Id": "BoonHonourRestoredOnEnterBossRoom",
+    "Stats": [
+      {
+        "RowIndex": 16858,
+        "TableName": "Stats",
+        "Id": "sanctum_restore_scaled_honour_on_entering_boss_room"
+      }
+    ],
+    "StatValues": [
+      60
+    ],
+    "Name": "腎上腺素瓶",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAdrenalineVialIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonAdrenalineVial",
+    "BoonDesc": "進入頭目房時，恢復 {0} [Honour|榮譽]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 59406
+  },
+  {
+    "RowIndex": 77,
+    "Id": "BoonDuplicateARandomDeferredReward",
+    "Stats": [
+      {
+        "RowIndex": 20180,
+        "TableName": "Stats",
+        "Id": "sanctum_keys_are_duplicated_on_pickup"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "財富之鏡",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMirrorOfFortuneIcon",
+    "Unk005": 11,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonMirrorOfFortune",
+    "BoonDesc": "你撿起的下一把[SekhemaKeys|鑰匙]會被複製。",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45428
+  },
+  {
+    "RowIndex": 78,
+    "Id": "BoonMaximumHonour",
+    "Stats": [
+      {
+        "RowIndex": 20983,
+        "TableName": "Stats",
+        "Id": "sanctum_max_honour_+%_final_from_boon"
+      }
+    ],
+    "StatValues": [
+      25
+    ],
+    "Name": "奧爾巴拉雕像",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonOrbalaStatueIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonOrbalaStatue",
+    "BoonDesc": "你有 25% 更多最大[Honour|榮譽]",
+    "CurseDesc": "",
+    "Unk012": 1,
+    "Unk013": 125,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 2,
+    "Unk019": 125,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 54204
+  },
+  {
+    "RowIndex": 79,
+    "Id": "BoonRandomMinorBoonOnFountainUse",
+    "Stats": [
+      {
+        "RowIndex": 16744,
+        "TableName": "Stats",
+        "Id": "sanctum_gain_random_minor_boon_on_fountain_use"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "聖水",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyWaterIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonHolyWater",
+    "BoonDesc": "當你膜拜一座馬拉克斯神殿時，獲得 1 個隨機次要[Boons|恩惠]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28826
+  },
+  {
+    "RowIndex": 80,
+    "Id": "BoonRestoreHonourOnFountainUse",
+    "Stats": [
+      {
+        "RowIndex": 16746,
+        "TableName": "Stats",
+        "Id": "sanctum_restore_scaled_honour_on_fountain_use"
+      }
+    ],
+    "StatValues": [
+      30
+    ],
+    "Name": "青春之泉",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFountainOfYouthIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonFountainOfYouth",
+    "BoonDesc": "當你膜拜一座馬拉克斯神殿時，恢復 {0} [Honour|榮譽]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 40142
+  },
+  {
+    "RowIndex": 81,
+    "Id": "BoonNextMinorBoonConvertedToMajor",
+    "Stats": [
+      {
+        "RowIndex": 16740,
+        "TableName": "Stats",
+        "Id": "sanctum_next_minor_boon_converted_to_major_boon"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "銀聖杯",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSliverChaliceIcon",
+    "Unk005": 8,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSliverChalice",
+    "BoonDesc": "你下個獲得的次要[Boons|恩惠]，轉化成 1 個隨機主要[Boons|恩惠]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 51458
+  },
+  {
+    "RowIndex": 82,
+    "Id": "BoonTrapsReducedDamage",
+    "Stats": [
+      {
+        "RowIndex": 19330,
+        "TableName": "Stats",
+        "Id": "map_sanctum_traps_damage_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "黑珍珠",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBlackPearlIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBlackPearl",
+    "BoonDesc": "陷阱減少 50% 傷害",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 41498
+  },
+  {
+    "RowIndex": 83,
+    "Id": "BoonNextMerchantItemFree",
+    "Stats": [
+      {
+        "RowIndex": 16859,
+        "TableName": "Stats",
+        "Id": "sanctum_next_merchant_purchase_is_free"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "芭芭拉的禮物",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBalbalasMaskIcon",
+    "Unk005": 10,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonBalbalasMask",
+    "BoonDesc": "你下次從商人購買物品時免費",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": true,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 52622
+  },
+  {
+    "RowIndex": 84,
+    "Id": "BoonCanRerollMerchantShop",
+    "Stats": [
+      {
+        "RowIndex": 16860,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_enable_reroll"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "骰子",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonChippedDiceIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonChippedDice",
+    "BoonDesc": "商人的店舖可以被重骰",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 60796
+  },
+  {
+    "RowIndex": 85,
+    "Id": "BoonGoldPerRoomRemovedAtMerchant",
+    "Stats": [
+      {
+        "RowIndex": 16819,
+        "TableName": "Stats",
+        "Id": "sanctum_gold_%_interest_on_room_completion"
+      }
+    ],
+    "StatValues": [
+      10
+    ],
+    "Name": "上行之路",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldTrophyIcon",
+    "Unk005": 10,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonGoldTrophy",
+    "BoonDesc": "完成房間時，找到的[SacredWater|神聖之水]增加 10%\r\n(當你從商人那購買物品時，恩惠會被移除)",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 3716
+  },
+  {
+    "RowIndex": 86,
+    "Id": "BoonDuplicateAllKeyFound",
+    "Stats": [
+      {
+        "RowIndex": 20180,
+        "TableName": "Stats",
+        "Id": "sanctum_keys_are_duplicated_on_pickup"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "聖鏡",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSacredMirrorIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonSacredMirror",
+    "BoonDesc": "你拾取的[SekhemaKeys|鑰匙]變為 2 倍",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 27130
+  },
+  {
+    "RowIndex": 87,
+    "Id": "BoonNextAfflictionConvertedToMinorBoon",
+    "Stats": [
+      {
+        "RowIndex": 16742,
+        "TableName": "Stats",
+        "Id": "sanctum_next_affliction_converted_to_minor_boon"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "水晶碎片",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonCrystalShardIcon",
+    "Unk005": 7,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 4,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonCrystalShard",
+    "BoonDesc": "你下個獲得的[Afflictions|苦痛]，轉化成 1 個隨機次要[Boons|恩惠]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30042
+  },
+  {
+    "RowIndex": 88,
+    "Id": "BoonMoreDefences",
+    "Stats": [
+      {
+        "RowIndex": 18484,
+        "TableName": "Stats",
+        "Id": "map_player_global_defences_+%_final_from_sanctum_boon"
+      }
+    ],
+    "StatValues": [
+      50
+    ],
+    "Name": "光亮漆",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousLacquerIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 2,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorBoon"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/BoonLustrousLacquer",
+    "BoonDesc": "你有 50% 更多[Defences|防禦]",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8942,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 379
+  },
+  {
+    "RowIndex": 89,
+    "Id": "AfflictionReducedEffectOfRelics",
+    "Stats": [
+      {
+        "RowIndex": 16788,
+        "TableName": "Stats",
+        "Id": "sanctum_non_unique_relic_effect_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "忘卻傳統",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionForgottenTraditionsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionForgottenTraditions",
+    "BoonDesc": "",
+    "CurseDesc": "減少 50% 你非[ItemRarity|傳奇][Relic|聖物]的效果",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 18125
+  },
+  {
+    "RowIndex": 90,
+    "Id": "AfflictionMaximumNumberOfBoons",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "勒緊褲帶",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTightCollarIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseTightCollar",
+    "BoonDesc": "",
+    "CurseDesc": "你最多可以獲得 5 個[Boons|恩惠]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 91,
+    "Id": "AfflictionMerchantFewerChoices",
+    "Stats": [
+      {
+        "RowIndex": 16817,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_options_+%"
+      }
+    ],
+    "StatValues": [
+      -50
+    ],
+    "Name": "飢荒季節",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnhallowedAmuletIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseUnhallowedAmulet",
+    "BoonDesc": "",
+    "CurseDesc": "商人提供 50% 更少選擇",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35605
+  },
+  {
+    "RowIndex": 92,
+    "Id": "AfflictionAfflictionOnGainAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16743,
+        "TableName": "Stats",
+        "Id": "sanctum_gain_random_minor_affliction_on_gaining_affliction"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "流言四起",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionMyriadAspersionsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionMyriadAspersions",
+    "BoonDesc": "",
+    "CurseDesc": "當你獲得 1 個 [Afflictions|苦痛]時，獲得 1 個額外隨機次要[Afflictions|苦痛]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 56996
+  },
+  {
+    "RowIndex": 93,
+    "Id": "AfflictionAfflictionOnUseFountain",
+    "Stats": [
+      {
+        "RowIndex": 16745,
+        "TableName": "Stats",
+        "Id": "sanctum_gain_random_minor_affliction_on_fountain_use"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "高昂援助",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionCostlyAidIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionCostlyAid",
+    "BoonDesc": "",
+    "CurseDesc": "當你膜拜一座馬拉克斯神殿時，獲得 1 個隨機次要[Afflictions|苦痛]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 32085
+  },
+  {
+    "RowIndex": 94,
+    "Id": "AfflictionMonstersBindingChainsOnHit",
+    "Stats": [
+      {
+        "RowIndex": 16904,
+        "TableName": "Stats",
+        "Id": "map_monsters_binding_chains_for_X_seconds_on_hit"
+      }
+    ],
+    "StatValues": [
+      2
+    ],
+    "Name": "束縛連鎖",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChainOfBindingIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChainOfBinding",
+    "BoonDesc": "",
+    "CurseDesc": "怪物在[HitDamage|擊中]時施加[BindingChains|束縛連鎖]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 25062
+  },
+  {
+    "RowIndex": 95,
+    "Id": "AfflictionMonstersVolatileOnDeath",
+    "Stats": [
+      {
+        "RowIndex": 16910,
+        "TableName": "Stats",
+        "Id": "map_sanctum_guards_volatile_on_death"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "隱藏異常",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseConcealedAnomalyIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseConcealedAnomaly",
+    "BoonDesc": "",
+    "CurseDesc": "守衛死亡時釋放[Volatiles|極凍]天體",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 96,
+    "Id": "AfflictionMonstersEnfeebled",
+    "Stats": [
+      {
+        "RowIndex": 965,
+        "TableName": "Stats",
+        "Id": "map_player_has_level_X_enfeeble"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "無法觸碰",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUntouchableIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionUntouchable",
+    "BoonDesc": "",
+    "CurseDesc": "你被[Enfeeble|衰弱][Curse|詛咒]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 9853
+  },
+  {
+    "RowIndex": 97,
+    "Id": "AfflictionMonstersKnockback",
+    "Stats": [
+      {
+        "RowIndex": 16902,
+        "TableName": "Stats",
+        "Id": "map_monsters_knockback"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "生鏽木槌",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRustedMalletIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseRustedMallet",
+    "BoonDesc": "",
+    "CurseDesc": "怪物必定[Knockback|擊退]\r\n怪物增加[Knockback|擊退]距離",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30450
+  },
+  {
+    "RowIndex": 98,
+    "Id": "AfflictionLessMaxHonour",
+    "Stats": [
+      {
+        "RowIndex": 20984,
+        "TableName": "Stats",
+        "Id": "sanctum_max_honour_+%_final_from_curse"
+      }
+    ],
+    "StatValues": [
+      -25
+    ],
+    "Name": "虛弱肉體",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWeakenedFleshIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionWeakenedFlesh",
+    "BoonDesc": "",
+    "CurseDesc": "25% 更少最大[Honour|榮譽]",
+    "Unk012": 1,
+    "Unk013": 75,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 2,
+    "Unk019": 75,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 24131
+  },
+  {
+    "RowIndex": 99,
+    "Id": "AfflictionMonsterSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5454,
+        "TableName": "Stats",
+        "Id": "map_monster_attack_cast_and_movement_speed_+%"
+      },
+      {
+        "RowIndex": 5078,
+        "TableName": "Stats",
+        "Id": "map_monsters_movement_speed_cannot_be_reduced_below_base"
+      }
+    ],
+    "StatValues": [
+      25,
+      1
+    ],
+    "Name": "惡魔之翼",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseFiendishWingsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseFiendishWings",
+    "BoonDesc": "",
+    "CurseDesc": "怪物行動速度不能被減緩至基礎以下\r\n怪物增加 25% 攻擊、施放和移動速度",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 28313
+  },
+  {
+    "RowIndex": 100,
+    "Id": "AfflictionGuardsHavePet",
+    "Stats": [
+      {
+        "RowIndex": 16908,
+        "TableName": "Stats",
+        "Id": "map_sanctum_guards_have_pets"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "石像圖騰",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGargoyleTotemIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGargoyleTotem",
+    "BoonDesc": "",
+    "CurseDesc": "守衛伴隨 1 個石像",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 101,
+    "Id": "AfflictionEveryRoomIsAfflicted",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "幻影",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseNameIllusionIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseNameIllusion",
+    "BoonDesc": "",
+    "CurseDesc": "每個房間隨機給予 1 個次要[Afflictions|苦痛]\r\n(以此方式給予的[Afflictions|苦痛]在完成房間時移除)",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 102,
+    "Id": "AfflictionChestsExplodeWhenOpened",
+    "Stats": [
+      {
+        "RowIndex": 16909,
+        "TableName": "Stats",
+        "Id": "map_sanctum_chests_explode"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "損壞鎖撬",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorruptedLockpickIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorruptedLockpick",
+    "BoonDesc": "",
+    "CurseDesc": "房間中的保險箱開啟時爆炸",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16773
+  },
+  {
+    "RowIndex": 103,
+    "Id": "AfflictionReducedMovementSpeed",
+    "Stats": [
+      {
+        "RowIndex": 5555,
+        "TableName": "Stats",
+        "Id": "map_players_movement_speed_+%"
+      }
+    ],
+    "StatValues": [
+      -25
+    ],
+    "Name": "磨損涼鞋",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseWornSandalsIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseWornSandals",
+    "BoonDesc": "",
+    "CurseDesc": "減少 25% 移動速度",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 30473
+  },
+  {
+    "RowIndex": 104,
+    "Id": "AfflictionRelicsHaveNoEffect",
+    "Stats": [
+      {
+        "RowIndex": 16789,
+        "TableName": "Stats",
+        "Id": "sanctum_relics_disabled"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "否定寶珠",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseOrbOfNegationIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseOrbOfNegation",
+    "BoonDesc": "",
+    "CurseDesc": "非[ItemRarity|傳奇][Relic|聖物]無效果",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": true,
+    "HASH16": 43834
+  },
+  {
+    "RowIndex": 105,
+    "Id": "AfflictionMerchantOneItem",
+    "Stats": [
+      {
+        "RowIndex": 16818,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_only_one_option"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "傳統之需",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTraditionsDemandIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/AfflictionTraditionsDemand",
+    "BoonDesc": "",
+    "CurseDesc": "商人只提供 1 個選擇",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 55120
+  },
+  {
+    "RowIndex": 106,
+    "Id": "AfflictionMonsterPetrifyOnHit",
+    "Stats": [
+      {
+        "RowIndex": 16903,
+        "TableName": "Stats",
+        "Id": "map_monsters_petrification_for_X_seconds_on_hit"
+      }
+    ],
+    "StatValues": [
+      4
+    ],
+    "Name": "鑿石",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChiselledStoneIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseChiselledStone",
+    "BoonDesc": "",
+    "CurseDesc": "怪物擊中時施加[Petrify|石化]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 6958
+  },
+  {
+    "RowIndex": 107,
+    "Id": "AfflictionBoonConveretedToMinorAffliction",
+    "Stats": [
+      {
+        "RowIndex": 16741,
+        "TableName": "Stats",
+        "Id": "sanctum_next_boon_converted_to_minor_affliction"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "玻璃碎片",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGlassShardIcon",
+    "Unk005": 6,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseGlassShard",
+    "BoonDesc": "",
+    "CurseDesc": "你下個獲得的[Boons|恩惠]，轉化成 1 個隨機次要[Afflictions|苦痛]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 45600
+  },
+  {
+    "RowIndex": 108,
+    "Id": "AfflictionNoEvasion",
+    "Stats": [
+      {
+        "RowIndex": 19324,
+        "TableName": "Stats",
+        "Id": "map_player_no_evasion_rating"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "鐵手鐐",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseIronManaclesIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseIronManacles",
+    "BoonDesc": "",
+    "CurseDesc": "你沒有[Evasion|閃避]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 35578
+  },
+  {
+    "RowIndex": 109,
+    "Id": "AfflictionNoArmour",
+    "Stats": [
+      {
+        "RowIndex": 19322,
+        "TableName": "Stats",
+        "Id": "map_player_no_physical_damage_reduction_rating"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "鋒利箭矢",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSharpenedArrowheadIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseSharpenedArrowhead",
+    "BoonDesc": "",
+    "CurseDesc": "你沒有[Armour|護甲]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48487
+  },
+  {
+    "RowIndex": 110,
+    "Id": "AfflictionNoEnergyShield",
+    "Stats": [
+      {
+        "RowIndex": 19323,
+        "TableName": "Stats",
+        "Id": "map_player_no_energy_shield"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "破碎盾牌",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseShatteredShieldIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 1,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MinorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseShatteredShield",
+    "BoonDesc": "",
+    "CurseDesc": "你沒有[EnergyShield|能量護盾]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 16335
+  },
+  {
+    "RowIndex": 111,
+    "Id": "AfflictionNoDefences",
+    "Stats": [
+      {
+        "RowIndex": 19326,
+        "TableName": "Stats",
+        "Id": "map_player_defences_are_zero"
+      }
+    ],
+    "StatValues": [
+      1
+    ],
+    "Name": "腐蝕藥劑",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorrosiveConcoctionIcon",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 3,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "MajorCurse"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/CurseCorrosiveConcoction",
+    "BoonDesc": "",
+    "CurseDesc": "你沒有[Defences|防禦]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [
+      {
+        "RowIndex": 8943,
+        "TableName": "MonsterVarieties"
+      }
+    ],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 55502
+  },
+  {
+    "RowIndex": 112,
+    "Id": "PactOpenChestsWithNoKey",
+    "Stats": [
+      {
+        "RowIndex": 20683,
+        "TableName": "Stats",
+        "Id": "sanctum_open_chests_without_key_each_reward_room"
+      },
+      {
+        "RowIndex": 20684,
+        "TableName": "Stats",
+        "Id": "sanctum_take_damage_on_opening_chest_without_key"
+      }
+    ],
+    "StatValues": [
+      1,
+      100
+    ],
+    "Name": "狡猾冥約",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentCanOpenChestWithoutKey",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "Pact"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/CanOpenChestWithoutKey",
+    "BoonDesc": "在每個房間裡可以不使用鑰匙打開 1 個獎勵箱",
+    "CurseDesc": "不使用鑰匙打開 1 個鑰匙箱時，受到 {0} 點物理傷害",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 62382
+  },
+  {
+    "RowIndex": 113,
+    "Id": "PactEasierBosses",
+    "Stats": [
+      {
+        "RowIndex": 16609,
+        "TableName": "Stats",
+        "Id": "sanctum_damage_taken_+%_final_in_non_boss_encounters"
+      },
+      {
+        "RowIndex": 16610,
+        "TableName": "Stats",
+        "Id": "sanctum_damage_taken_+%_final_in_boss_encounters"
+      }
+    ],
+    "StatValues": [
+      100,
+      -50
+    ],
+    "Name": "強力冥約",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentBossDealLessDamage",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "Pact"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/BossDealLessDamage",
+    "BoonDesc": "頭目房失去 50% 更少[Honour|榮譽]",
+    "CurseDesc": "非頭目房失去 100% 更多[Honour|榮譽]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 27532
+  },
+  {
+    "RowIndex": 114,
+    "Id": "PactNoGoldGainReducedPrices",
+    "Stats": [
+      {
+        "RowIndex": 18202,
+        "TableName": "Stats",
+        "Id": "sanctum_merchant_gold_cost_+%_final"
+      },
+      {
+        "RowIndex": 16392,
+        "TableName": "Stats",
+        "Id": "sanctum_no_gold_from_monsters"
+      }
+    ],
+    "StatValues": [
+      -50,
+      1
+    ],
+    "Name": "棄置之地冥約",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentMerchantCheaperNoSacredWaterDrop",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "Pact"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/MerchantCheaperNoSacredWaterDrop",
+    "BoonDesc": "50% 更少販售價格",
+    "CurseDesc": "怪物不會掉落[SacredWater|神聖之水]",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 60079
+  },
+  {
+    "RowIndex": 115,
+    "Id": "PactKeyOnAffliction",
+    "Stats": [
+      {
+        "RowIndex": 21079,
+        "TableName": "Stats",
+        "Id": "sanctum_gain_random_key_on_gaining_affliction"
+      },
+      {
+        "RowIndex": 16397,
+        "TableName": "Stats",
+        "Id": "sanctum_honour_restored_+%"
+      }
+    ],
+    "StatValues": [
+      1,
+      -10
+    ],
+    "Name": "折磨冥約",
+    "Icon": "Art/2DArt/UIImages/InGame/Sanctum/BoonCurseIcons/PersistentGainKeyWhenAfflicted",
+    "Unk005": 13,
+    "Unk006": true,
+    "EffectCategory": {
+      "RowIndex": 5,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "Pact"
+    },
+    "NextEffect": null,
+    "Unk009": "Art/2DArt/UIImages/InGame/Sanctum/DevilsDealIcons/GainKeyWhenAfflicted",
+    "BoonDesc": "在受折磨時獲取一把鑰匙",
+    "CurseDesc": "恢復的[Honour|榮譽]減少 10%",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 48548
+  },
+  {
+    "RowIndex": 116,
+    "Id": "HiddenFlagIsQuestSanctum",
+    "Stats": [],
+    "StatValues": [],
+    "Name": "",
+    "Icon": "",
+    "Unk005": 13,
+    "Unk006": false,
+    "EffectCategory": {
+      "RowIndex": 0,
+      "TableName": "SanctumPersistentEffectCategories",
+      "Id": "None"
+    },
+    "NextEffect": null,
+    "Unk009": "",
+    "BoonDesc": "",
+    "CurseDesc": "",
+    "Unk012": 3,
+    "Unk013": 0,
+    "Unk014": false,
+    "Unk015": [],
+    "Guard": [],
+    "FirstEffect": null,
+    "Unk018": 3,
+    "Unk019": 0,
+    "Unk020": false,
+    "Unk021": false,
+    "HASH16": 0
+  }
+]

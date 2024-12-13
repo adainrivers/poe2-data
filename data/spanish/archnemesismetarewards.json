@@ -1,0 +1,101 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "AdditionalRewards1",
+    "RewardText": "Todos los tipos de recompensas tienen una recompensa adicional",
+    "RewardGroup": 0,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 1,
+    "Id": "RewardsMultiplier2",
+    "RewardText": "Las recompensas están duplicadas",
+    "RewardGroup": 1,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 2,
+    "Id": "RewardTypeOverrideDivination",
+    "RewardText": "Todos los tipos de recompensas son cartas de adivinación",
+    "RewardGroup": 2,
+    "ScriptArgument": "DivinationCards",
+    "MinLevel": 46,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 3,
+    "Id": "RewardTypeOverrideUniques",
+    "RewardText": "Todos los tipos de recompensas son objetos únicos",
+    "RewardGroup": 2,
+    "ScriptArgument": "Uniques",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 4,
+    "Id": "RewardTypeOverrideCurrency",
+    "RewardText": "Todos los tipos de recompensas son objetos monetarios",
+    "RewardGroup": 2,
+    "ScriptArgument": "Currency",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 5,
+    "Id": "MinionsHaveRewards",
+    "RewardText": "Los esbirros de los monstruos arrojan un tipo de recompensa elegido al azar",
+    "RewardGroup": 3,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 6,
+    "Id": "BetterRewards1",
+    "RewardText": "Las recompensas se aleatorizan 1 vez adicional y se elige el resultado más raro",
+    "RewardGroup": 4,
+    "ScriptArgument": "1",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 7,
+    "Id": "BetterRewards2",
+    "RewardText": "Las recompensas se aleatorizan 2 veces adicionales y se elige el resultado más raro",
+    "RewardGroup": 4,
+    "ScriptArgument": "2",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 8,
+    "Id": "BetterRewards4",
+    "RewardText": "Las recompensas se aleatorizan 4 veces adicionales y se elige el resultado más raro",
+    "RewardGroup": 4,
+    "ScriptArgument": "4",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 9,
+    "Id": "BetterRewards8",
+    "RewardText": "Las recompensas se aleatorizan 6 veces adicionales y se elige el resultado más raro",
+    "RewardGroup": 4,
+    "ScriptArgument": "6",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  },
+  {
+    "RowIndex": 10,
+    "Id": "CorruptedRewards",
+    "RewardText": "Los objetos arrojados por el monstruo y sus esbirros están corruptos",
+    "RewardGroup": 5,
+    "ScriptArgument": "",
+    "MinLevel": 1,
+    "MaxLevel": 100
+  }
+]

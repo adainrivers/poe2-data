@@ -1,0 +1,8062 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Specials",
+    "Name": "特殊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 1,
+    "Id": "NewItems",
+    "Name": "新品上架",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 2,
+    "Id": "StashTabs",
+    "Name": "倉庫頁",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Bundles",
+    "Name": "組合包",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ArmourEffects",
+    "Name": "護甲效果",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 5,
+    "Id": "BackAttachments",
+    "Name": "背飾",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 6,
+    "Id": "WeaponEffects",
+    "Name": "武器效果",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 7,
+    "Id": "Weapon",
+    "Name": "武器",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 8,
+    "Id": "FinisherEffects",
+    "Name": "終結特效",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Portals",
+    "Name": "傳送門",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 10,
+    "Id": "AlternateSkillEffects",
+    "Name": "技能效果",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 11,
+    "Id": "CharacterEffects",
+    "Name": "角色效果",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Character",
+    "Name": "角色",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 13,
+    "Id": "FootprintEffects",
+    "Name": "足跡效果",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Guild",
+    "Name": "公會功能",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 15,
+    "Id": "GuildHideout",
+    "Name": "公會藏身處",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Pets",
+    "Name": "寵物",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Hideout",
+    "Name": "裝飾物",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 18,
+    "Id": "VisualEffects",
+    "Name": "視覺效果",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 19,
+    "Id": "GuildHideouts",
+    "Name": "藏身處",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 20,
+    "Id": "GuildStashTabs",
+    "Name": "倉庫頁",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 21,
+    "Id": "GuildHideoutSkins",
+    "Name": "功能外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 22,
+    "Id": "GuildBundles",
+    "Name": "組合包",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 23,
+    "Id": "GuildHideoutDecorations",
+    "Name": "裝飾物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 24,
+    "Id": "Consumable",
+    "Name": "消耗品",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 25,
+    "Id": "MysteryPacks",
+    "Name": "神秘寶箱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 24,
+      "TableName": "ShopTag",
+      "Id": "Consumable"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 26,
+    "Id": "MostPopular",
+    "Name": "熱門商品",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 27,
+    "Id": "AccountFeatures",
+    "Name": "帳號功能",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ClassicEffects",
+    "Name": "經典效果",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 29,
+    "Id": "PoE2StashTabs",
+    "Name": "倉庫頁",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 30,
+    "Id": "PoE2Armour",
+    "Name": "護甲",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 31,
+    "Id": "PoE2Weapons",
+    "Name": "武器",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 32,
+    "Id": "PoE2Portals",
+    "Name": "時空之門",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 33,
+    "Id": "PoE2Pets",
+    "Name": "寵物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 34,
+    "Id": "PoE2VisualEffects",
+    "Name": "視覺效果",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 35,
+    "Id": "PoE2Accessories",
+    "Name": "配件",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 36,
+    "Id": "PoE2AccountFeatures",
+    "Name": "帳號功能",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 37,
+    "Id": "PoE2Hideouts",
+    "Name": "藏身處",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 38,
+    "Id": "PoE2Bundles",
+    "Name": "組合包",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 39,
+    "Id": "PoE2GuildStashTabs",
+    "Name": "公會倉庫頁",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 40,
+    "Id": "PoE2GuildHideouts",
+    "Name": "藏身處區域",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 41,
+    "Id": "PoE2GuildUtilitySkins",
+    "Name": "功能外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 42,
+    "Id": "PoE2GuildHideoutDecorations",
+    "Name": "藏身處裝飾物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 43,
+    "Id": "PoE2GuildFeatures",
+    "Name": "公會功能",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 44,
+    "Id": "TencentHotAndNew",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 45,
+    "Id": "TencentAccountFunctions",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 46,
+    "Id": "TencentGuildFunctions",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 47,
+    "Id": "TencentCosmetics",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 48,
+    "Id": "TencentBackAttachments",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 49,
+    "Id": "TencentWeaponEffects",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 50,
+    "Id": "TencentSkillEffects",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 51,
+    "Id": "TencentCharacterEffects",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 52,
+    "Id": "TencentFootprintsEffects",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 53,
+    "Id": "TencentPortalEffects",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 54,
+    "Id": "TencentPets",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 55,
+    "Id": "TencentHideout",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 56,
+    "Id": "TencentTradeableMicrotransactions",
+    "Name": "騰訊",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 57,
+    "Id": "TencentSecondary",
+    "Name": "騰訊",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 58,
+    "Id": "CursorMtx",
+    "Name": "鼠標外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 59,
+    "Id": "HUDMtx",
+    "Name": "HUD 外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 60,
+    "Id": "JewelMtx",
+    "Name": "天賦珠寶外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 61,
+    "Id": "FlaskMtx",
+    "Name": "藥劑外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 62,
+    "Id": "BeltMtx",
+    "Name": "腰帶外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 63,
+    "Id": "AmuletMtx",
+    "Name": "項鍊外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 64,
+    "Id": "WeaponSkin1Mtx",
+    "Name": "主手外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 65,
+    "Id": "WeaponSkin2Mtx",
+    "Name": "副手外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 66,
+    "Id": "WeaponEffect1Mtx",
+    "Name": "主手特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 67,
+    "Id": "WeaponEffect2Mtx",
+    "Name": "副手特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 68,
+    "Id": "WeaponAddedEffect1Mtx",
+    "Name": "主手附加特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 69,
+    "Id": "WeaponAddedEffect2Mtx",
+    "Name": "副手附加特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 70,
+    "Id": "HelmetSkinMtx",
+    "Name": "頭部外觀",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 71,
+    "Id": "HelmetAttachmentMtx",
+    "Name": "頭部特效",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 72,
+    "Id": "ArmourSkinMtx",
+    "Name": "身體外觀",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 73,
+    "Id": "ArmourAttachmentMtx",
+    "Name": "背飾",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 74,
+    "Id": "GlovesMtx",
+    "Name": "手部外觀",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 75,
+    "Id": "BootsMtx",
+    "Name": "腳部外觀",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 76,
+    "Id": "FootprintsMtx",
+    "Name": "行走特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 77,
+    "Id": "ShieldSkin",
+    "Name": "護盾外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 78,
+    "Id": "ApparitionMtx",
+    "Name": "項鍊特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 79,
+    "Id": "CharacterEffectMtx",
+    "Name": "角色特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 80,
+    "Id": "PetMtx",
+    "Name": "寵物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 81,
+    "Id": "SocialFrameMtx",
+    "Name": "肖像外框",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 82,
+    "Id": "PortraitMtx",
+    "Name": "頭像",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 83,
+    "Id": "PortalMtx",
+    "Name": "時空之門",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 84,
+    "Id": "RingMtx",
+    "Name": "戒指外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 85,
+    "Id": "HipAttachmentMtx",
+    "Name": "臀部附加",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 86,
+    "Id": "SlotlessMtx",
+    "Name": "[DNT]",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 87,
+    "Id": "AlternateCharges",
+    "Name": "替代能量球外觀",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 11,
+      "TableName": "ShopTag",
+      "Id": "CharacterEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 88,
+    "Id": "AncestralCallMtx",
+    "Name": "先祖怒嚎",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 89,
+    "Id": "AncestralWarchiefMtx",
+    "Name": "先祖戰士長",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 90,
+    "Id": "AngerMtx",
+    "Name": "憤怒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 91,
+    "Id": "ArcMtx",
+    "Name": "電弧",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 92,
+    "Id": "ArcticArmourMtx",
+    "Name": "極地裝甲",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 93,
+    "Id": "BallLightningMtx",
+    "Name": "天雷之珠",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 94,
+    "Id": "BarrageMtx",
+    "Name": "彈幕",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 95,
+    "Id": "BladefallMtx",
+    "Name": "虛空刀雨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 96,
+    "Id": "BladeflurryMtx",
+    "Name": "刀鋒亂舞",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 97,
+    "Id": "BladeVortexMtx",
+    "Name": "飛刃風暴",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 98,
+    "Id": "BlasphemyMtx",
+    "Name": "詛咒光環",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 99,
+    "Id": "BlastRainMtx",
+    "Name": "爆裂箭雨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 100,
+    "Id": "BlinkArrowMtx",
+    "Name": "閃電射擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 101,
+    "Id": "BloodRageMtx",
+    "Name": "鮮血狂怒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 102,
+    "Id": "ClarityMtx",
+    "Name": "清晰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 103,
+    "Id": "CleaveMtx",
+    "Name": "劈砍",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 104,
+    "Id": "ChargedDashMtx",
+    "Name": "雷霆衝鋒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 105,
+    "Id": "ColdSnapMtx",
+    "Name": "霜暴",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 106,
+    "Id": "ContagionMtx",
+    "Name": "瘟疫",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 107,
+    "Id": "ConvocationMtx",
+    "Name": "號召",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 108,
+    "Id": "CremationMtx",
+    "Name": "熔炎送葬",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 109,
+    "Id": "CycloneMtx",
+    "Name": "旋風斬",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 110,
+    "Id": "DecoyTotemMtx",
+    "Name": "誘餌圖騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 111,
+    "Id": "DesecrateMtx",
+    "Name": "褻瀆",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 112,
+    "Id": "DeterminationMtx",
+    "Name": "堅定",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 113,
+    "Id": "DevouringTotemMtx",
+    "Name": "吞噬圖騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 114,
+    "Id": "DischargeMtx",
+    "Name": "解放",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 115,
+    "Id": "DisciplineMtx",
+    "Name": "紀律",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 116,
+    "Id": "DoubleStrikeMtx",
+    "Name": "雙重打擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 117,
+    "Id": "EarthquakeMtx",
+    "Name": "震地",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 118,
+    "Id": "ElementalHitMtx",
+    "Name": "元素打擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 119,
+    "Id": "EssenceDrainMtx",
+    "Name": "靈魂吸取",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 120,
+    "Id": "EtherealKnivesMtx",
+    "Name": "虛空匕首",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 121,
+    "Id": "FireballMtx",
+    "Name": "火球",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 122,
+    "Id": "FirestormMtx",
+    "Name": "烈炎風暴",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 123,
+    "Id": "FlameblastMtx",
+    "Name": "烈焰爆破",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 124,
+    "Id": "FlameDashMtx",
+    "Name": "烈焰衝刺",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 125,
+    "Id": "FlameTotemMtx",
+    "Name": "神聖火蛇圖騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 126,
+    "Id": "FlickerStrikeMtx",
+    "Name": "閃現打擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 127,
+    "Id": "FreezingPulseMtx",
+    "Name": "冰霜脈衝",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 128,
+    "Id": "FrostBladesMtx",
+    "Name": "冰霜之刃",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 129,
+    "Id": "FrostBoltMtx",
+    "Name": "寒冰彈",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 130,
+    "Id": "FrostBoltNovaMtx",
+    "Name": "漩渦",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 131,
+    "Id": "FrostBombMtx",
+    "Name": "寒霜爆",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 132,
+    "Id": "GlacialCascadeMtx",
+    "Name": "冰川之刺",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 133,
+    "Id": "GraceMtx",
+    "Name": "優雅",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 134,
+    "Id": "GroundSlamMtx",
+    "Name": "裂地之擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 135,
+    "Id": "HasteMtx",
+    "Name": "迅捷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 136,
+    "Id": "HatredMtx",
+    "Name": "憎恨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 137,
+    "Id": "HeraldOfAgonyMtx",
+    "Name": "苦痛之捷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 138,
+    "Id": "HeraldOfAshMtx",
+    "Name": "灰燼之捷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 139,
+    "Id": "HeraldOfIceMtx",
+    "Name": "冰霜之捷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 140,
+    "Id": "HeraldOfLightMtx",
+    "Name": "純淨之捷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 141,
+    "Id": "HeraldOfThunderMtx",
+    "Name": "閃電之捷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 142,
+    "Id": "HexblastMtx",
+    "Name": "咒術枯萎",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 143,
+    "Id": "HolyRelicMtx",
+    "Name": "召喚聖物",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 144,
+    "Id": "IceNovaMtx",
+    "Name": "冰霜新星",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 145,
+    "Id": "IceSpearMtx",
+    "Name": "冰矛",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 146,
+    "Id": "IceTrapMtx",
+    "Name": "冰凍陷阱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 147,
+    "Id": "ImmortalCallMtx",
+    "Name": "不朽怒嚎",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 148,
+    "Id": "IncinerateMtx",
+    "Name": "燒毀",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 149,
+    "Id": "KineticBlastMtx",
+    "Name": "力量爆破",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 150,
+    "Id": "LacerateMtx",
+    "Name": "破空斬",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 151,
+    "Id": "LightningSpireMtx",
+    "Name": "鋒雷陷阱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 152,
+    "Id": "LightningWarpMtx",
+    "Name": "閃電傳送",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 153,
+    "Id": "LeapSlamMtx",
+    "Name": "躍擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 154,
+    "Id": "LightningArrowMtx",
+    "Name": "閃電箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 155,
+    "Id": "MagmaOrbMtx",
+    "Name": "熔岩翻騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 156,
+    "Id": "MirageArcherMtx",
+    "Name": "幻影射手",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 157,
+    "Id": "MirrorArrowMtx",
+    "Name": "魅影射擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 158,
+    "Id": "MoltenShellMtx",
+    "Name": "熔岩護盾",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 159,
+    "Id": "MoltenStrikeMtx",
+    "Name": "熔岩之擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 160,
+    "Id": "OrbOfStormsMtx",
+    "Name": "風暴漩渦",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 161,
+    "Id": "PhaseRunMtx",
+    "Name": "暗影迷蹤",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 162,
+    "Id": "CausticArrowMtx",
+    "Name": "腐化箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 163,
+    "Id": "PurityMtx",
+    "Name": "淨化",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 164,
+    "Id": "PurityofFireMtx",
+    "Name": "火焰淨化",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 165,
+    "Id": "PurityofIceMtx",
+    "Name": "冰霜淨化",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 166,
+    "Id": "PurityofLightningMtx",
+    "Name": "閃電淨化",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 167,
+    "Id": "RainOfArrowsMtx",
+    "Name": "箭雨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 168,
+    "Id": "RaiseSpectreMtx",
+    "Name": "喚醒幽魂",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 169,
+    "Id": "RaiseZombieMtx",
+    "Name": "殭屍復甦",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 170,
+    "Id": "ReaveMtx",
+    "Name": "衝擊波",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 171,
+    "Id": "RejuvenationTotemMtx",
+    "Name": "回春圖騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 172,
+    "Id": "RighteousFireMtx",
+    "Name": "正義之火",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 173,
+    "Id": "ScorchingRayMtx",
+    "Name": "熾灼奔流",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 174,
+    "Id": "ScourgeArrowMtx",
+    "Name": "天譴之箭",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 175,
+    "Id": "SearingBondMtx",
+    "Name": "灼熱連結",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 176,
+    "Id": "ShieldChargeMtx",
+    "Name": "重盾衝鋒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 177,
+    "Id": "ShockNovaMtx",
+    "Name": "閃電新星",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 178,
+    "Id": "ShockwaveTotemMtx",
+    "Name": "震波圖騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 179,
+    "Id": "SiegeBallistaMtx",
+    "Name": "攻城炮台",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 180,
+    "Id": "SparkMtx",
+    "Name": "電球",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 181,
+    "Id": "SpectralShieldThrowMtx",
+    "Name": "盾靈投擲",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 182,
+    "Id": "SplitArrowMtx",
+    "Name": "分裂箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 183,
+    "Id": "StormCallMtx",
+    "Name": "風暴呼喚",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 184,
+    "Id": "SummonChaosGolemMtx",
+    "Name": "召喚混沌魔像",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 185,
+    "Id": "SummonFlameGolemMtx",
+    "Name": "召喚烈焰魔像",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 186,
+    "Id": "SummonIceGolemMtx",
+    "Name": "召喚寒冰魔像",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 187,
+    "Id": "SummonLightningGolemMtx",
+    "Name": "召喚閃電魔像",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 188,
+    "Id": "SummonRagingSpiritMtx",
+    "Name": "召喚憤怒狂靈",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 189,
+    "Id": "SummonStoneGolemMtx",
+    "Name": "召喚巨石魔像",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 190,
+    "Id": "SummonSkeletonsMtx",
+    "Name": "召喚骷髏",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 191,
+    "Id": "SunderMtx",
+    "Name": "大地震擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 192,
+    "Id": "TempestShieldMtx",
+    "Name": "暴風之盾",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 193,
+    "Id": "ThrownWeaponMtx",
+    "Name": "靈體投擲",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 194,
+    "Id": "TornadoShotMtx",
+    "Name": "龍捲風射擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 195,
+    "Id": "ToxicRainMtx",
+    "Name": "腐蝕毒雨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 196,
+    "Id": "VaalAncestralWarchiefMtx",
+    "Name": "瓦爾．先祖戰士長",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 197,
+    "Id": "VaalAnimateWeaponMtx",
+    "Name": "瓦爾．幻化武器",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 198,
+    "Id": "VaalArcMtx",
+    "Name": "瓦爾．電弧",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 199,
+    "Id": "VaalArcticArmourMtx",
+    "Name": "瓦爾．極地裝甲",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 200,
+    "Id": "VaalBladeVortexMtx",
+    "Name": "瓦爾．飛刃風暴",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 201,
+    "Id": "VaalClarityMtx",
+    "Name": "瓦爾．清晰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 202,
+    "Id": "VaalColdSnapMtx",
+    "Name": "瓦爾．霜暴",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 203,
+    "Id": "VaalCycloneMtx",
+    "Name": "瓦爾．旋風斬",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 204,
+    "Id": "VaalDisciplineMtx",
+    "Name": "瓦爾．紀律",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 205,
+    "Id": "VaalDominationMtx",
+    "Name": "瓦爾．霸氣",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 206,
+    "Id": "VaalDoubleStrikeMtx",
+    "Name": "瓦爾．雙重打擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 207,
+    "Id": "VaalEarthquakeMtx",
+    "Name": "瓦爾．震地",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 208,
+    "Id": "VaalFireballMtx",
+    "Name": "瓦爾．火球",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 209,
+    "Id": "VaalFirestormMtx",
+    "Name": "瓦爾．烈炎風暴",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 210,
+    "Id": "VaalFlameblastMtx",
+    "Name": "瓦爾．烈焰爆破",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 211,
+    "Id": "VaalGraceMtx",
+    "Name": "瓦爾．優雅",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 212,
+    "Id": "VaalGroundSlamMtx",
+    "Name": "瓦爾．裂地之擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 213,
+    "Id": "VaalHasteMtx",
+    "Name": "瓦爾．迅捷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 214,
+    "Id": "VaalIceNovaMtx",
+    "Name": "瓦爾．冰霜新星",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 215,
+    "Id": "VaalIceShotMtx",
+    "Name": "瓦爾．冰霜射擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 216,
+    "Id": "VaalImmortalCall",
+    "Name": "瓦爾．不朽怒嚎",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 217,
+    "Id": "VaalLightningArrowMtx",
+    "Name": "瓦爾．閃電箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 218,
+    "Id": "VaalLightningWarpMtx",
+    "Name": "瓦爾．閃電傳送",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 219,
+    "Id": "VaalMoltenShellMtx",
+    "Name": "瓦爾．熔岩護盾",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 220,
+    "Id": "VaalMoltenStrikeMtx",
+    "Name": "瓦爾．熔岩之擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 221,
+    "Id": "VaalPurityOfFireMtx",
+    "Name": "瓦爾．不淨之火",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 222,
+    "Id": "VaalPurityOfIceMtx",
+    "Name": "瓦爾．不淨之冰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 223,
+    "Id": "VaalPurityOfLightningMtx",
+    "Name": "瓦爾．不淨之雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 224,
+    "Id": "VaalRainOfArrowsMtx",
+    "Name": "瓦爾．箭雨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 225,
+    "Id": "VaalReapMtx",
+    "Name": "瓦爾．收割",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 226,
+    "Id": "VaalReaveMtx",
+    "Name": "瓦爾．衝擊波",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 227,
+    "Id": "VaalRejuvenationTotemMtx",
+    "Name": "瓦爾．回春圖騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 228,
+    "Id": "VaalRighteousFireMtx",
+    "Name": "瓦爾．正義之火",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 229,
+    "Id": "VaalSmiteMtx",
+    "Name": "瓦爾．雷鳴重擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 230,
+    "Id": "VaalSparkMtx",
+    "Name": "瓦爾．電球",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 231,
+    "Id": "VaalStormCallMtx",
+    "Name": "瓦爾．風暴呼喚",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 232,
+    "Id": "VaalSummonSkeletonsMtx",
+    "Name": "瓦爾．召喚骷髏",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 233,
+    "Id": "VaalThrownWeaponMtx",
+    "Name": "瓦爾．靈體投擲",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 234,
+    "Id": "VaalPowerSiphonMtx",
+    "Name": "瓦爾．力量抽取",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 235,
+    "Id": "VaalFlickerStrikeMtx",
+    "Name": "瓦爾．閃現打擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 236,
+    "Id": "VaalVenomGyreMtx",
+    "Name": "瓦爾．猛毒迴旋",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 237,
+    "Id": "VaalBladeFlurryMtx",
+    "Name": "瓦爾．刀鋒亂舞",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 238,
+    "Id": "VaalCleaveMtx",
+    "Name": "瓦爾．劈砍",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 239,
+    "Id": "VaalCausticArrowMtx",
+    "Name": "瓦爾．腐蝕箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 240,
+    "Id": "VitalityMtx",
+    "Name": "活力",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 241,
+    "Id": "VolatileDeadMtx",
+    "Name": "致命之息",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 242,
+    "Id": "WhirlingBladesMtx",
+    "Name": "迴旋之刃",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 243,
+    "Id": "WitherMtx",
+    "Name": "死亡凋零",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 244,
+    "Id": "WrathMtx",
+    "Name": "雷霆",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 245,
+    "Id": "RangedAttackTotemMtx",
+    "Name": "遠距離攻擊圖騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 246,
+    "Id": "SpellTotemMtx",
+    "Name": "法術圖騰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 247,
+    "Id": "WarBannerMtx",
+    "Name": "戰爭之旗",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 248,
+    "Id": "DreadBannerMtx",
+    "Name": "恐懼之旗",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 249,
+    "Id": "ZealotryMtx",
+    "Name": "狂熱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 250,
+    "Id": "MalevolenceMtx",
+    "Name": "惡意",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 251,
+    "Id": "SoulrendMtx",
+    "Name": "靈體撕裂",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 252,
+    "Id": "DivineIreMtx",
+    "Name": "聖怒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 253,
+    "Id": "WinterOrbMtx",
+    "Name": "凜冬之球",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 254,
+    "Id": "BaneMtx",
+    "Name": "災厄",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 255,
+    "Id": "IceDashMtx",
+    "Name": "霜漣之瞬",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 256,
+    "Id": "QuickDodgeMtx",
+    "Name": "瞬身",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 257,
+    "Id": "PrecisionMtx",
+    "Name": "精準",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 258,
+    "Id": "PrideMtx",
+    "Name": "驕傲",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 259,
+    "Id": "LightningTrapMtx",
+    "Name": "閃電陷阱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 260,
+    "Id": "VaalLightningTrapMtx",
+    "Name": "瓦爾．閃電陷阱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 261,
+    "Id": "BladestormMtx",
+    "Name": "旋天劍舞",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 262,
+    "Id": "BloodAndSandMtx",
+    "Name": "血腥沙戮",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 263,
+    "Id": "FleshAndStoneMtx",
+    "Name": "血肉骸骨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 264,
+    "Id": "StormBrandMtx",
+    "Name": "風暴烙印",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 265,
+    "Id": "BlightMtx",
+    "Name": "萎滅",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 266,
+    "Id": "VaalBlightMtx",
+    "Name": "瓦爾．萎滅",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 267,
+    "Id": "PyroclastMineMtx",
+    "Name": "炎爆新星地雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 268,
+    "Id": "HailstormMineMtx",
+    "Name": "冰雹地雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 269,
+    "Id": "StormblastMineMtx",
+    "Name": "風暴地雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 270,
+    "Id": "BlastChainMineMtx",
+    "Name": "遙控地雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 271,
+    "Id": "HighImpactMineMtx",
+    "Name": "遙控地雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 272,
+    "Id": "LocusMineMtx",
+    "Name": "遙控地雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 273,
+    "Id": "SummonSkitterbotsMtx",
+    "Name": "召喚探測機獸",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 274,
+    "Id": "ArtilleryBallistaMtx",
+    "Name": "火砲砲塔",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 275,
+    "Id": "ShrapnelBallistaMtx",
+    "Name": "彈片砲塔",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 276,
+    "Id": "ExplosiveArrowMtx",
+    "Name": "爆炸箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 277,
+    "Id": "BlasphemyPlusMtx",
+    "Name": "覺醒詛咒光環",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 278,
+    "Id": "SummonCarrionGolemMtx",
+    "Name": "召喚食腐魔像",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 279,
+    "Id": "BladeBlastMtx",
+    "Name": "劍刃爆破",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 280,
+    "Id": "AnimateWeaponMtx",
+    "Name": "幻化武器",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 281,
+    "Id": "KineticBoltMtx",
+    "Name": "力量穿引",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 282,
+    "Id": "PowerSiphonMtx",
+    "Name": "力量抽取",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 283,
+    "Id": "StormbindMtx",
+    "Name": "風暴術符",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 284,
+    "Id": "DominatingBlowMtx",
+    "Name": "霸氣之擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 285,
+    "Id": "EnduringCryMtx",
+    "Name": "堅決戰吼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 286,
+    "Id": "RallyingCryMtx",
+    "Name": "激勵戰吼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 287,
+    "Id": "AbyssalCryMtx",
+    "Name": "深淵戰吼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 288,
+    "Id": "IntimidatingCryMtx",
+    "Name": "威嚇戰吼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 289,
+    "Id": "GeneralsCryMtx",
+    "Name": "將軍戰吼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 290,
+    "Id": "AncestralCryMtx",
+    "Name": "先祖戰吼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 291,
+    "Id": "SeismicCryMtx",
+    "Name": "裂地戰吼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 292,
+    "Id": "TectonicSlamMtx",
+    "Name": "破體之擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 293,
+    "Id": "FistOfWarMtx",
+    "Name": "拳霸",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 294,
+    "Id": "IceCrashMtx",
+    "Name": "寒冰衝擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 295,
+    "Id": "LancingSteelMtx",
+    "Name": "鋼之突刺",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 296,
+    "Id": "ShatteringSteelMtx",
+    "Name": "鋼之碎擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 297,
+    "Id": "DetonateDeadMtx",
+    "Name": "屍體爆破",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 298,
+    "Id": "VaalDetonateDeadMtx",
+    "Name": "瓦爾．屍體爆破",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 299,
+    "Id": "VoidSphereMtx",
+    "Name": "虛無玉",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 300,
+    "Id": "SmiteMtx",
+    "Name": "雷鳴重擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 301,
+    "Id": "EarthshatterMtx",
+    "Name": "碎地重擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 302,
+    "Id": "ConsecratedPathMtx",
+    "Name": "奉獻地面",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 303,
+    "Id": "CracklingLanceMtx",
+    "Name": "碎雷電閃",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 304,
+    "Id": "BodyswapMtx",
+    "Name": "屍術傳送",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 305,
+    "Id": "FlameWallMtx",
+    "Name": "烈焰之牆",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 306,
+    "Id": "EnsnaringArrowMtx",
+    "Name": "誘捕箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 307,
+    "Id": "SigilOfPowerMtx",
+    "Name": "咒符之力",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 308,
+    "Id": "SteelskinMtx",
+    "Name": "鋼筋鐵骨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 309,
+    "Id": "PunctureMtx",
+    "Name": "放血",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 310,
+    "Id": "WaveOfConvictionMtx",
+    "Name": "信念浪湧",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 311,
+    "Id": "BoneOfferingMtx",
+    "Name": "骸骨奉獻",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 312,
+    "Id": "SpiritOfferingMtx",
+    "Name": "靈魂奉獻",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 313,
+    "Id": "FleshOfferingMtx",
+    "Name": "血肉奉獻",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 314,
+    "Id": "FrenzyMtx",
+    "Name": "狂怒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 315,
+    "Id": "WitheringStepMtx",
+    "Name": "凋零之步",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 316,
+    "Id": "IceShotMtx",
+    "Name": "冰霜射擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 317,
+    "Id": "DefianceBannerMtx",
+    "Name": "反抗之旗",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 318,
+    "Id": "PenanceBrandMtx",
+    "Name": "贖罪烙印",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 319,
+    "Id": "ArcanistBrandMtx",
+    "Name": "奧術烙印",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 320,
+    "Id": "WintertideBrandMtx",
+    "Name": "冬潮烙印",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 321,
+    "Id": "ArmageddonBrandMtx",
+    "Name": "末日烙印",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 322,
+    "Id": "SmokeMineMtx",
+    "Name": "煙霧地雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 323,
+    "Id": "ArcaneCloakMtx",
+    "Name": "秘能披風",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 324,
+    "Id": "PlagueBearerMtx",
+    "Name": "病疫之難",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 325,
+    "Id": "ChainHookMtx",
+    "Name": "奪魂勾索",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 326,
+    "Id": "BloodOfferingMtx",
+    "Name": "鮮血奉獻",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 327,
+    "Id": "EarthbreakerMtx",
+    "Name": "地破",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 328,
+    "Id": "BurningArrowMtx",
+    "Name": "燃燒箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 329,
+    "Id": "VaalBurningArrowMtx",
+    "Name": "瓦爾．燃燒箭矢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 330,
+    "Id": "ExsanguinateMtx",
+    "Name": "抽血",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 331,
+    "Id": "HydrosphereMtx",
+    "Name": "水弒界",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 332,
+    "Id": "LightningStrikeMtx",
+    "Name": "閃電打擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 333,
+    "Id": "VaalLightningStrikeMtx",
+    "Name": "瓦爾．閃電打擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 334,
+    "Id": "InfernalBlowMtx",
+    "Name": "煉獄之擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 335,
+    "Id": "SweepMtx",
+    "Name": "橫掃",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 336,
+    "Id": "VaalSweepMtx",
+    "Name": "瓦爾．橫掃",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 337,
+    "Id": "DualStrikeMtx",
+    "Name": "雙持打擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 338,
+    "Id": "EyeOfWinterMtx",
+    "Name": "凜冬之眼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 339,
+    "Id": "SpectralHelixMtx",
+    "Name": "靈體旋武",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 340,
+    "Id": "EnergyBladeMtx",
+    "Name": "能量之刃",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 341,
+    "Id": "TornadoMtx",
+    "Name": "龍捲風射擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 342,
+    "Id": "ForbiddenRiteMtx",
+    "Name": "禁忌儀式",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 343,
+    "Id": "ShockwaveSupportMtx",
+    "Name": "衝擊波",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 344,
+    "Id": "CastWhenDamageTakenMtx",
+    "Name": "受傷時施放",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 345,
+    "Id": "PoisonousConcoctionMtx",
+    "Name": "毒藥",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 346,
+    "Id": "CorruptingFeverMtx",
+    "Name": "腐化潮",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 347,
+    "Id": "SeismicTrapMtx",
+    "Name": "地裂陷阱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 348,
+    "Id": "FireTrapMtx",
+    "Name": "火焰陷阱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 349,
+    "Id": "BoneshatterMtx",
+    "Name": "碎骨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 350,
+    "Id": "EnvyMtx",
+    "Name": "忌妒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 351,
+    "Id": "DeathAuraMtx",
+    "Name": "死亡光環",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 352,
+    "Id": "GluttonyOfElementsMtx",
+    "Name": "元素之癒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 353,
+    "Id": "BlindingAuraMtx",
+    "Name": "致盲光環",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 354,
+    "Id": "GalvanicFieldMtx",
+    "Name": "電光領域",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 355,
+    "Id": "AlchemistsMarkMtx",
+    "Name": "煉金術士印記",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 356,
+    "Id": "LightningConduitMtx",
+    "Name": "導雷",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 357,
+    "Id": "LightningTendrilsMtx",
+    "Name": "電能釋放",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 358,
+    "Id": "CobraLashMtx",
+    "Name": "毒蛇鞭笞",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 359,
+    "Id": "VenomGyreMtx",
+    "Name": "猛毒迴旋",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 360,
+    "Id": "VolleyMtx",
+    "Name": "齊射",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 361,
+    "Id": "GreaterVolleyMtx",
+    "Name": "高階齊射",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 362,
+    "Id": "ReapMtx",
+    "Name": "收割",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 363,
+    "Id": "RageVortexMtx",
+    "Name": "盛怒漩渦",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 364,
+    "Id": "CreepingFrostMtx",
+    "Name": "霜寒滲透",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 365,
+    "Id": "ImpendingDoomMtx",
+    "Name": "末日厄運",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 366,
+    "Id": "PoachersMarkMtx",
+    "Name": "盜獵者印記",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 367,
+    "Id": "AssassinsMarkMtx",
+    "Name": "刺客印記",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 368,
+    "Id": "SnipersMarkMtx",
+    "Name": "狙擊者印記",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 369,
+    "Id": "WarlordsMarkMtx",
+    "Name": "督軍印記",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 370,
+    "Id": "Theme",
+    "Name": "主題",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 371,
+    "Id": "InfernalTheme",
+    "Name": "煉獄之擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 372,
+    "Id": "NecroticTheme",
+    "Name": "亡者之息",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 373,
+    "Id": "BreachTheme",
+    "Name": "裂痕",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 374,
+    "Id": "LegacyTheme",
+    "Name": "不朽",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 375,
+    "Id": "GoreTheme",
+    "Name": "鮮血",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 376,
+    "Id": "GhostflameTheme",
+    "Name": "青焰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 377,
+    "Id": "GloomTheme",
+    "Name": "隱忍",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 378,
+    "Id": "DragonTheme",
+    "Name": "龍",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 379,
+    "Id": "DemonicTheme",
+    "Name": "惡魔",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 380,
+    "Id": "DeicideTheme",
+    "Name": "命運主宰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 381,
+    "Id": "ArcticTheme",
+    "Name": "極地",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 382,
+    "Id": "ArcaneTheme",
+    "Name": "秘術",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 383,
+    "Id": "SteampunkTheme",
+    "Name": "蒸氣太坦",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 384,
+    "Id": "VampiricTheme",
+    "Name": "嗜血凶兆",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 385,
+    "Id": "VerdantTheme",
+    "Name": "自然之力",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 386,
+    "Id": "SeraphTheme",
+    "Name": "神使",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 387,
+    "Id": "ProphecyTheme",
+    "Name": "預言",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 388,
+    "Id": "ConsumableTheme",
+    "Name": "消耗品",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 389,
+    "Id": "EbonyTheme",
+    "Name": "漆黑之影",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 390,
+    "Id": "RadiantTheme",
+    "Name": "光采聖記",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 391,
+    "Id": "LightningTheme",
+    "Name": "雷霆",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 392,
+    "Id": "AcidTheme",
+    "Name": "蝕骨強酸",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 393,
+    "Id": "CrimsonTheme",
+    "Name": "緋紅",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 394,
+    "Id": "CelestialTheme",
+    "Name": "絢麗眾星",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 395,
+    "Id": "GoldenTheme",
+    "Name": "黃金",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 396,
+    "Id": "PurpleTheme",
+    "Name": "紫諱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 397,
+    "Id": "EmeraldTheme",
+    "Name": "翠綠碧雲",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 398,
+    "Id": "DanceTheme",
+    "Name": "舞蹈",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 399,
+    "Id": "AnimalTheme",
+    "Name": "動物",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 400,
+    "Id": "TribalTheme",
+    "Name": "部落",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 401,
+    "Id": "ChallengeRewardsTheme",
+    "Name": "挑戰獎勵",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 402,
+    "Id": "ClosedBetaSupporterPacksTheme",
+    "Name": "封測",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 403,
+    "Id": "OpenBetaSupporterPacksTheme",
+    "Name": "公測",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 404,
+    "Id": "ReleaseSupporterPacksTheme",
+    "Name": "發布",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 405,
+    "Id": "ForsakenMastersTheme",
+    "Name": "被遺忘的大師",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 406,
+    "Id": "AwakeningTheme",
+    "Name": "大覺醒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 407,
+    "Id": "AscendancyTheme",
+    "Name": "昇華試煉",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 408,
+    "Id": "AtlasTheme",
+    "Name": "輿圖",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 409,
+    "Id": "FallofOriathTheme",
+    "Name": "奧瑞亞的殞落",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 410,
+    "Id": "MiscellaneousTheme",
+    "Name": "其它",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 411,
+    "Id": "UltimateChaosTheme",
+    "Name": "最終混沌",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 412,
+    "Id": "PureLightTheme",
+    "Name": "淨光",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 413,
+    "Id": "HarbingerTheme",
+    "Name": "神諭",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 414,
+    "Id": "PitchBlackTheme",
+    "Name": "漆桃霸主",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 415,
+    "Id": "WastelandWarriorTheme",
+    "Name": "荒野勇士",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 416,
+    "Id": "DesertTheme",
+    "Name": "沙漠",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 417,
+    "Id": "ExecutionerTheme",
+    "Name": "血腥屠夫",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 418,
+    "Id": "FireTheme",
+    "Name": "火",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 419,
+    "Id": "IceTheme",
+    "Name": "冰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 420,
+    "Id": "PolarTheme",
+    "Name": "極光",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 421,
+    "Id": "LichTheme",
+    "Name": "巫妖",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 422,
+    "Id": "FireAndIceTheme",
+    "Name": "冰與火",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 423,
+    "Id": "AbyssTheme",
+    "Name": "深淵戰吼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 424,
+    "Id": "HalloweenTheme",
+    "Name": "萬聖節",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 425,
+    "Id": "CultistTheme",
+    "Name": "教徒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 426,
+    "Id": "WarlockTheme",
+    "Name": "咒言術士",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 427,
+    "Id": "PirateTheme",
+    "Name": "海盜",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 428,
+    "Id": "AtlasWarTheme",
+    "Name": "烽火輿圖",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 429,
+    "Id": "NatureTheme",
+    "Name": "自然",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 430,
+    "Id": "GothicTheme",
+    "Name": "歌德",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 431,
+    "Id": "SinAndInnocenceTheme",
+    "Name": "罪與善",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 432,
+    "Id": "BestiaryTheme",
+    "Name": "獸獵寓言",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 433,
+    "Id": "StygianTheme",
+    "Name": "冥河",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 434,
+    "Id": "ManticoreTheme",
+    "Name": "獅身幻獸",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 435,
+    "Id": "SeawitchTheme",
+    "Name": "魅影海巫",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 436,
+    "Id": "PhantasmalTheme",
+    "Name": "幻影",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 437,
+    "Id": "FallenAngelTheme",
+    "Name": "墮落天使",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 438,
+    "Id": "MalachaiTheme",
+    "Name": "瑪拉凱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 439,
+    "Id": "CrystalTheme",
+    "Name": "水晶",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 440,
+    "Id": "IncursionTheme",
+    "Name": "時空穿越",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 441,
+    "Id": "CarnageTheme",
+    "Name": "屠戮領主",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 442,
+    "Id": "ApocalypseTheme",
+    "Name": "天啟預者",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 443,
+    "Id": "IvoryChaosTheme",
+    "Name": "混沌象牙",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 444,
+    "Id": "MadmanTheme",
+    "Name": "狂喪之徒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 445,
+    "Id": "GryffonTheme",
+    "Name": "傲氣獅鷲",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 446,
+    "Id": "GorgonTheme",
+    "Name": "石化毒蛇",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 447,
+    "Id": "BloodGuardTheme",
+    "Name": "浴血衛士",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 448,
+    "Id": "FaithGuardTheme",
+    "Name": "信仰衛士",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 449,
+    "Id": "SphinxTheme",
+    "Name": "獅身人面",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 450,
+    "Id": "DelveTheme",
+    "Name": "掘獄",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 451,
+    "Id": "OriathTheme",
+    "Name": "奧瑞亞",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 452,
+    "Id": "PyreTheme",
+    "Name": "燃焰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 453,
+    "Id": "ColiseumTheme",
+    "Name": "競技鬥服",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 454,
+    "Id": "NightLotusTheme",
+    "Name": "夜蓮",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 455,
+    "Id": "HarpyonTheme",
+    "Name": "羽妖珍獸",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 456,
+    "Id": "ElderTheme",
+    "Name": "異界尊師",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 457,
+    "Id": "BetrayalTheme",
+    "Name": "密教反叛",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 458,
+    "Id": "FairgravesTheme",
+    "Name": "費爾船長",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 459,
+    "Id": "UtilityTheme",
+    "Name": "功能",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 460,
+    "Id": "CoastalTheme",
+    "Name": "濱海",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 461,
+    "Id": "EncampmentTheme",
+    "Name": "營地",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 462,
+    "Id": "ForestTheme",
+    "Name": "森林",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 463,
+    "Id": "RuinsTheme",
+    "Name": "遺跡",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 464,
+    "Id": "VaalTheme",
+    "Name": "瓦爾",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 465,
+    "Id": "DungeonTheme",
+    "Name": "地牢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 466,
+    "Id": "SarnTheme",
+    "Name": "薩恩",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 467,
+    "Id": "GardensTheme",
+    "Name": "花園",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 468,
+    "Id": "OrnateTheme",
+    "Name": "華麗",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 469,
+    "Id": "SceptreTheme",
+    "Name": "幽魂",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 470,
+    "Id": "CryptTheme",
+    "Name": "靜謐陵墓",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 471,
+    "Id": "EffectsTheme",
+    "Name": "特效",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 472,
+    "Id": "CaveTheme",
+    "Name": "洞穴",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 473,
+    "Id": "BeastTheme",
+    "Name": "野獸",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 474,
+    "Id": "KaruiTheme",
+    "Name": "卡魯",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 475,
+    "Id": "LabyrinthTheme",
+    "Name": "帝王迷宮",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 476,
+    "Id": "HighgateTheme",
+    "Name": "統治者之殿",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 477,
+    "Id": "OssuaryTheme",
+    "Name": "葬骨禮堂",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 478,
+    "Id": "ReliquaryTheme",
+    "Name": "聖物",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 479,
+    "Id": "EzomyteTheme",
+    "Name": "天雷神使",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 480,
+    "Id": "VanguardTheme",
+    "Name": "無懼先鋒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 481,
+    "Id": "PitfighterTheme",
+    "Name": "鬥場勇者",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 482,
+    "Id": "CrucibleTheme",
+    "Name": "異域弒煉",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 483,
+    "Id": "LibraryTheme",
+    "Name": "圖書館",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 484,
+    "Id": "SlavePensTheme",
+    "Name": "奴役監牢",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 485,
+    "Id": "InnocenceTheme",
+    "Name": "善",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 486,
+    "Id": "AssassinTheme",
+    "Name": "疾密刺客",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 487,
+    "Id": "EmpyreanTheme",
+    "Name": "秘雷神使",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 488,
+    "Id": "BlackguardTheme",
+    "Name": "烏旗守衛",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 489,
+    "Id": "ChamberOfSinsTheme",
+    "Name": "罪孽之殿",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 490,
+    "Id": "TempleTheme",
+    "Name": "神殿",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 491,
+    "Id": "ExcavationTheme",
+    "Name": "挖掘場",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 492,
+    "Id": "BonesTheme",
+    "Name": "骸骨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 493,
+    "Id": "ChurchTheme",
+    "Name": "教堂",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 494,
+    "Id": "CourthouseTheme",
+    "Name": "失序教院",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 495,
+    "Id": "ExilesTheme",
+    "Name": "流亡者",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 496,
+    "Id": "SynthesisTheme",
+    "Name": "尋夢追憶",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 497,
+    "Id": "PrimevalTheme",
+    "Name": "原始",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 498,
+    "Id": "GlimmerwoodTheme",
+    "Name": "微熠之森",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 499,
+    "Id": "MarakethTheme",
+    "Name": "馬拉克斯",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 500,
+    "Id": "ViperTheme",
+    "Name": "至尊毒蛇",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 501,
+    "Id": "DarkprismTheme",
+    "Name": "黑曜稜石",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 502,
+    "Id": "SunprismTheme",
+    "Name": "烈陽稜石",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 503,
+    "Id": "GargoyleTheme",
+    "Name": "石像巨魔",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 504,
+    "Id": "MageguardTheme",
+    "Name": "巫術衛士",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 505,
+    "Id": "ExtinctionTheme",
+    "Name": "絕滅災厄",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 506,
+    "Id": "LegionTheme",
+    "Name": "戰亂之殤",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 507,
+    "Id": "PlatedTheme",
+    "Name": "鍍金",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 508,
+    "Id": "FrontierTheme",
+    "Name": "失落邊境",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 509,
+    "Id": "IllusionistTheme",
+    "Name": "神幻術士",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 510,
+    "Id": "ElementalTheme",
+    "Name": "元素",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 511,
+    "Id": "ZenithTheme",
+    "Name": "極盛之尊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 512,
+    "Id": "MiracleTheme",
+    "Name": "魔幻奇蹟",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 513,
+    "Id": "CardinalTheme",
+    "Name": "主教",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 514,
+    "Id": "VaalViperTheme",
+    "Name": "瓦爾毒蛇",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 515,
+    "Id": "VoidEmperorTheme",
+    "Name": "虛空帝王",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 516,
+    "Id": "CarnivalTheme",
+    "Name": "鬼島狂歡",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 517,
+    "Id": "ChiyouTheme",
+    "Name": "蚩尤",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 518,
+    "Id": "BlightTheme",
+    "Name": "凋落禁地",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 519,
+    "Id": "HavenwoodTheme",
+    "Name": "庇護之木",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 520,
+    "Id": "PolarisTheme",
+    "Name": "北極星辰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 521,
+    "Id": "BasiliskTheme",
+    "Name": "陰邪蛇妖",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 522,
+    "Id": "CrusaderTheme",
+    "Name": "聖戰軍王",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 523,
+    "Id": "EyrieTheme",
+    "Name": "傲世翔鷹",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 524,
+    "Id": "JudicatorTheme",
+    "Name": "至尊判官",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 525,
+    "Id": "OrionTheme",
+    "Name": "繁星獵戶",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 526,
+    "Id": "MetamorphTheme",
+    "Name": "鍊魔",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 527,
+    "Id": "ExileConTheme",
+    "Name": "流亡嘉年華",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 528,
+    "Id": "RevenantTheme",
+    "Name": "復仇邪靈",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 529,
+    "Id": "ColdsnapTheme",
+    "Name": "冰霜暴雪",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 530,
+    "Id": "MaliceTheme",
+    "Name": "絕滅恨惡",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 531,
+    "Id": "ThaumaturgyTheme",
+    "Name": "奇幻魔術",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 532,
+    "Id": "BalefireTheme",
+    "Name": "野火",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 533,
+    "Id": "DeliriumTheme",
+    "Name": "譫妄異域",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 534,
+    "Id": "HeartseekerTheme",
+    "Name": "血心探索",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 535,
+    "Id": "DarkMagicTheme",
+    "Name": "黑魔法",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 536,
+    "Id": "JinliTheme",
+    "Name": "錦鯉",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 537,
+    "Id": "ImaginationTheme",
+    "Name": "幻像",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 538,
+    "Id": "HighPriestTheme",
+    "Name": "神聖主教",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 539,
+    "Id": "GoddessTheme",
+    "Name": "女神",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 540,
+    "Id": "SawbladeTheme",
+    "Name": "奪魂鋸",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 541,
+    "Id": "DreadspireTheme",
+    "Name": "恐懼尖刺",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 542,
+    "Id": "AngelsAndDemonsTheme",
+    "Name": "天使和惡魔",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 543,
+    "Id": "NightwatchTheme",
+    "Name": "守夜先鋒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 544,
+    "Id": "HarvestTheme",
+    "Name": "豐收忌劫",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 545,
+    "Id": "HeistTheme",
+    "Name": "劫盜同盟",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 546,
+    "Id": "TwilightTheme",
+    "Name": "傾城暮光",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 547,
+    "Id": "EthercraftTheme",
+    "Name": "乙太工藝",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 548,
+    "Id": "DarkwoodTheme",
+    "Name": "不朽烏木",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 549,
+    "Id": "JudgementTheme",
+    "Name": "審判",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 550,
+    "Id": "RaptureTheme",
+    "Name": "狂歡撕虐",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 551,
+    "Id": "ValkyrieTheme",
+    "Name": "女武神",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 552,
+    "Id": "WarlordTheme",
+    "Name": "總督軍",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 553,
+    "Id": "RitualTheme",
+    "Name": "邪靈祭祀",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 554,
+    "Id": "GlimmerspriteTheme",
+    "Name": "微熠魂靈",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 555,
+    "Id": "Core2021Theme",
+    "Name": "2021 熔核之心",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 556,
+    "Id": "AtlasCore2021Theme",
+    "Name": "輿圖謎音",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 557,
+    "Id": "MavenTheme",
+    "Name": "釋界",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 558,
+    "Id": "OblivionTheme",
+    "Name": "忘卻虛空",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 559,
+    "Id": "BrimstoneTheme",
+    "Name": "煉獄磺硫",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 560,
+    "Id": "FrostVikingTheme",
+    "Name": "霜寒維京",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 561,
+    "Id": "UltimatumTheme",
+    "Name": "最後通牒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 562,
+    "Id": "ApollyonTheme",
+    "Name": "煉獄帝王",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 563,
+    "Id": "MerchantTheme",
+    "Name": "大盤商",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 564,
+    "Id": "MidnightPactTheme",
+    "Name": "血夜冥約",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 565,
+    "Id": "JingweiTheme",
+    "Name": "精衛",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 566,
+    "Id": "SlitherTheme",
+    "Name": "滑翔",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 567,
+    "Id": "ExpeditionTheme",
+    "Name": "死境探險",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 568,
+    "Id": "MyrmidonTheme",
+    "Name": "水獄使徒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 569,
+    "Id": "BanebrandTheme",
+    "Name": "災厄烙印",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 570,
+    "Id": "StarfallTheme",
+    "Name": "星空殞落",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 571,
+    "Id": "NecrolordTheme",
+    "Name": "亡魂領主",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 572,
+    "Id": "DirebladeTheme",
+    "Name": "恐怖之刃",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 573,
+    "Id": "CursedTheme",
+    "Name": "惡咒邪術",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 574,
+    "Id": "AtlantisTheme",
+    "Name": "亞特蘭提斯",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 575,
+    "Id": "ScourgeTheme",
+    "Name": "轉世災魘",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 576,
+    "Id": "ScourgelordTheme",
+    "Name": "災魘魔君",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 577,
+    "Id": "OnyxTheme",
+    "Name": "黑曜",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 578,
+    "Id": "AstralTheme",
+    "Name": "璀璨星際",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 579,
+    "Id": "Core2022Theme",
+    "Name": "2022 熔核之心",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 580,
+    "Id": "WinterDragonTheme",
+    "Name": "寒凍霜龍",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 581,
+    "Id": "HarmonyTheme",
+    "Name": "萬物和諧",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 582,
+    "Id": "GodOfThunderTheme",
+    "Name": "雷神",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 583,
+    "Id": "Archnemesis",
+    "Name": "強襲宿敵",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 584,
+    "Id": "AuspiciousTheme",
+    "Name": "吉祥福兆",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 585,
+    "Id": "HarmoniousTheme",
+    "Name": "和煦太祥",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 586,
+    "Id": "VulcanTheme",
+    "Name": "火山炎神",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 587,
+    "Id": "MercurialTheme",
+    "Name": "水星逆行",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 588,
+    "Id": "EtherealTheme",
+    "Name": "虛空幻影",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 589,
+    "Id": "MasqueradeTheme",
+    "Name": "魅影舞會",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 590,
+    "Id": "KiracsVaultTheme",
+    "Name": "基拉克的祕寶",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 591,
+    "Id": "ChaosTheme",
+    "Name": "混沌",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 592,
+    "Id": "Stormstrider",
+    "Name": "風暴馭者",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 593,
+    "Id": "SentinelTheme",
+    "Name": "守望號令",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 594,
+    "Id": "OphidianTheme",
+    "Name": "巨蛇毒牙",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 595,
+    "Id": "RubyTheme",
+    "Name": "紅玉",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 596,
+    "Id": "SapphireTheme",
+    "Name": "藍玉",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 597,
+    "Id": "MoltenTheme",
+    "Name": "熔岩",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 598,
+    "Id": "MistTheme",
+    "Name": "嵐",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 599,
+    "Id": "ExaltedTheme",
+    "Name": "崇高",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 600,
+    "Id": "Lunar",
+    "Name": "月神",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 601,
+    "Id": "Unlocked",
+    "Name": "已解鎖",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 602,
+    "Id": "StormstriderBoots",
+    "Name": "腳部外觀：風暴馭者",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 592,
+      "TableName": "ShopTag",
+      "Id": "Stormstrider"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 603,
+    "Id": "ScintillationBodyArmour",
+    "Name": "身體外觀：浩瀚星光",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 510,
+      "TableName": "ShopTag",
+      "Id": "ElementalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 604,
+    "Id": "NgamahuBodyArmour",
+    "Name": "身體外觀：努葛瑪呼",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 474,
+      "TableName": "ShopTag",
+      "Id": "KaruiTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 605,
+    "Id": "ThunderstrikeGloves",
+    "Name": "手部外觀：霹靂雷擊",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 391,
+      "TableName": "ShopTag",
+      "Id": "LightningTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 606,
+    "Id": "PhoenixHelmet",
+    "Name": "頭部外觀：浴火鳳凰",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 371,
+      "TableName": "ShopTag",
+      "Id": "InfernalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 607,
+    "Id": "ManaTankBackAttachment",
+    "Name": "背飾：魔能靈罐",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 608,
+    "Id": "SplinteringShield",
+    "Name": "護盾外觀：破裂魔盾",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 456,
+      "TableName": "ShopTag",
+      "Id": "ElderTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 609,
+    "Id": "WillpowerAmulet",
+    "Name": "項鍊特效：神志",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 610,
+    "Id": "FlaskEffectSentinel",
+    "Name": "藥劑效果．靈能匯流",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 611,
+    "Id": "CrystallineChargeSentinel",
+    "Name": "能量球．水晶",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 439,
+      "TableName": "ShopTag",
+      "Id": "CrystalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 612,
+    "Id": "FlareCharacterEffect",
+    "Name": "角色特效：光耀閃爍",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 371,
+      "TableName": "ShopTag",
+      "Id": "InfernalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 613,
+    "Id": "WarpRuneHideout",
+    "Name": "藏身處傳送符紋",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 614,
+    "Id": "ShardcrownHelmet",
+    "Name": "頭部外觀：浮游王冠",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 439,
+      "TableName": "ShopTag",
+      "Id": "CrystalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 615,
+    "Id": "DeathnotchBow",
+    "Name": "武器外觀：死亡刻痕",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 616,
+    "Id": "TreasureHunterWeaponEffect",
+    "Name": "武器特效：寶藏獵人",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 563,
+      "TableName": "ShopTag",
+      "Id": "MerchantTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 617,
+    "Id": "LakeOfKalandraTheme",
+    "Name": "卡蘭德迷湖",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 618,
+    "Id": "PyromaniacWeaponEffect",
+    "Name": "武器特效：縱火犯",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 371,
+      "TableName": "ShopTag",
+      "Id": "InfernalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 619,
+    "Id": "SummonersAmulet",
+    "Name": "項鍊外觀：召喚師",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 620,
+    "Id": "OshabisHeaddress",
+    "Name": "頭部外觀：奧莎比",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 544,
+      "TableName": "ShopTag",
+      "Id": "HarvestTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 621,
+    "Id": "CrystallisedBodyArmour",
+    "Name": "身體外觀：晶化",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 439,
+      "TableName": "ShopTag",
+      "Id": "CrystalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 622,
+    "Id": "EnchantersRing",
+    "Name": "戒指外觀：魔戒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 623,
+    "Id": "TorturersGloves",
+    "Name": "手部外觀：刑求暴徒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 624,
+    "Id": "FireworksBackAttachment",
+    "Name": "背飾：絢爛花火",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 625,
+    "Id": "CrystalariumBoots",
+    "Name": "腳部外觀：水晶魔柱",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 439,
+      "TableName": "ShopTag",
+      "Id": "CrystalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 626,
+    "Id": "GloriousHelmet",
+    "Name": "頭部外觀：無上榮耀",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 627,
+    "Id": "RaincallerFlask",
+    "Name": "生命藥劑：祈雨",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 628,
+    "Id": "DovecallerWings",
+    "Name": "背飾：和平喚鴿",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 629,
+    "Id": "StormHarrier",
+    "Name": "寵物：風暴獵鷹",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 630,
+    "Id": "RevelationBlade",
+    "Name": "武器外觀：啟示之劍",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 631,
+    "Id": "Arachnomorph",
+    "Name": "寵物：多腳毒蛛",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 632,
+    "Id": "TinkersWaypoint",
+    "Name": "裝飾物：匠師傳送點",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 633,
+    "Id": "ForbiddenSanctum",
+    "Name": "禁忌聖域",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 634,
+    "Id": "Core2023",
+    "Name": "2023 熔核之心",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 635,
+    "Id": "AlchemistTheme",
+    "Name": "煉金術師",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 636,
+    "Id": "VaultPass",
+    "Name": "基拉克的秘寶",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 637,
+    "Id": "ArachnidTheme",
+    "Name": "蜘蛛",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 638,
+    "Id": "ShadeTheme",
+    "Name": "影魅",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 639,
+    "Id": "DiscipleTheme",
+    "Name": "門徒",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 640,
+    "Id": "TrialOfTheAncestorsTheme",
+    "Name": "祖靈的試煉",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 641,
+    "Id": "MagmaticTheme",
+    "Name": "岩漿",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 642,
+    "Id": "Core2024",
+    "Name": "2024 熔核之心",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 643,
+    "Id": "AfflictionTheme",
+    "Name": "禁咒主題",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 644,
+    "Id": "RaceRewards",
+    "Name": "比賽獎賞",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 645,
+    "Id": "SolarTheme",
+    "Name": "日耀的",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 646,
+    "Id": "EldritchTheme",
+    "Name": "異能",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 647,
+    "Id": "NecropolisTheme",
+    "Name": "魔影墓場",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 648,
+    "Id": "VoidbornTheme",
+    "Name": "虛誕",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 649,
+    "Id": "WuzhiqiTheme",
+    "Name": "巫支祁",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 650,
+    "Id": "PaladinTheme",
+    "Name": "聖騎士",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 651,
+    "Id": "PenanceTheme",
+    "Name": "苦行",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 652,
+    "Id": "SettlersOfKalguurTheme",
+    "Name": "卡爾葛拓荒者",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 653,
+    "Id": "ExtraEffectMtx",
+    "Name": "額外效果",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 654,
+    "Id": "BowMtx",
+    "Name": "弓外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 655,
+    "Id": "MaceMtx",
+    "Name": "錘外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 656,
+    "Id": "SceptreMtx",
+    "Name": "權杖外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 657,
+    "Id": "AxeMtx",
+    "Name": "斧外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 658,
+    "Id": "SwordMtx",
+    "Name": "劍外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 659,
+    "Id": "WandMtx",
+    "Name": "法杖外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 660,
+    "Id": "StaffMtx",
+    "Name": "長杖外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 661,
+    "Id": "ClawMtx",
+    "Name": "爪外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 662,
+    "Id": "StashUpgrades",
+    "Name": "升級",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 663,
+    "Id": "StashBundles",
+    "Name": "組合包",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 664,
+    "Id": "StashLeagueTabs",
+    "Name": "聯盟",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 665,
+    "Id": "PetBiped",
+    "Name": "兩足動物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 666,
+    "Id": "PetQuadruped",
+    "Name": "四足動物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 667,
+    "Id": "PetFlying",
+    "Name": "飛行動物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 668,
+    "Id": "PetMammal",
+    "Name": "哺乳類動物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 669,
+    "Id": "PetMechanical",
+    "Name": "機械",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 670,
+    "Id": "PetMythical",
+    "Name": "神話",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 671,
+    "Id": "PetFish",
+    "Name": "魚影",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 672,
+    "Id": "PetArthropod",
+    "Name": "節肢動物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 673,
+    "Id": "PetCephalopod",
+    "Name": "頭足綱動物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 674,
+    "Id": "PetAmphibian",
+    "Name": "兩棲動物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 675,
+    "Id": "PetReptile",
+    "Name": "爬行動物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 676,
+    "Id": "PetVisualEffect",
+    "Name": "視覺效果",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 677,
+    "Id": "HideoutMtx",
+    "Name": "藏身處",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 678,
+    "Id": "StashSkinMtx",
+    "Name": "倉庫外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 679,
+    "Id": "MapDeviceMtx",
+    "Name": "地圖裝置外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 680,
+    "Id": "CraftingBenchMtx",
+    "Name": "工藝台外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 681,
+    "Id": "HideoutDecoration",
+    "Name": "裝飾物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 682,
+    "Id": "HideoutArchitectural",
+    "Name": "建築裝飾物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 683,
+    "Id": "HideoutFurniture",
+    "Name": "家具裝飾物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 684,
+    "Id": "HideoutLighting",
+    "Name": "照明裝飾物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 685,
+    "Id": "PortalFire",
+    "Name": "火焰",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 686,
+    "Id": "PortalWater",
+    "Name": "水",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 687,
+    "Id": "PortalLightning",
+    "Name": "光線",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 688,
+    "Id": "PortalIce",
+    "Name": "冰",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 689,
+    "Id": "PortalEldritch",
+    "Name": "異能",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 690,
+    "Id": "PortalArcane",
+    "Name": "秘術",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 691,
+    "Id": "PortalMechanical",
+    "Name": "機械",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 692,
+    "Id": "PortalMythical",
+    "Name": "神話",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 693,
+    "Id": "PortalCelestial",
+    "Name": "星際",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 694,
+    "Id": "PortalEarth",
+    "Name": "大地",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 695,
+    "Id": "PortalDemonic",
+    "Name": "惡魔的",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 696,
+    "Id": "PortalDivine",
+    "Name": "神聖的",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 697,
+    "Id": "PortalStygian",
+    "Name": "冥河",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 698,
+    "Id": "WingsMtx",
+    "Name": "翼",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 699,
+    "Id": "CloakMtx",
+    "Name": "隱袍",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 700,
+    "Id": "BackAttachmentMtx",
+    "Name": "背飾",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 701,
+    "Id": "PoE2EarlyAccessTheme",
+    "Name": "《流亡黯道 2》搶先體驗",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 702,
+    "Id": "PoE2ArmourPieces",
+    "Name": "護甲碎片",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 703,
+    "Id": "PoE2BackAttachment",
+    "Name": "背飾",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 704,
+    "Id": "PoE2HelmetAttachment",
+    "Name": "頭部特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 705,
+    "Id": "PoE2BeltAttachment",
+    "Name": "腰帶附加",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 706,
+    "Id": "PoE2HipAttachment",
+    "Name": "臀部附加",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 707,
+    "Id": "PoE2Footprints",
+    "Name": "行走特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 708,
+    "Id": "PoE2WeaponSkin",
+    "Name": "武器外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 709,
+    "Id": "PoE2WeaponEffect",
+    "Name": "武器特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 710,
+    "Id": "PoE2ShieldSkin",
+    "Name": "護盾外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 711,
+    "Id": "PoE2FinisherEffect",
+    "Name": "終結特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 712,
+    "Id": "PoE2CharacterEffect",
+    "Name": "角色特效",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 713,
+    "Id": "PoE2ExtraEffect",
+    "Name": "額外效果",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 714,
+    "Id": "PoE2ChargeSkins",
+    "Name": "替代能量球外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 715,
+    "Id": "PoE2Rings",
+    "Name": "戒指外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 716,
+    "Id": "PoE2Amulets",
+    "Name": "項鍊外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 717,
+    "Id": "PoE2Flasks",
+    "Name": "藥劑外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 718,
+    "Id": "PoE2HideoutArea",
+    "Name": "藏身處區域",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 719,
+    "Id": "PoE2UtilitySkins",
+    "Name": "功能外觀",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 720,
+    "Id": "PoE2HideoutDecorations",
+    "Name": "裝飾物",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 721,
+    "Id": "PoE2Cursor",
+    "Name": "鼠標",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  }
+]

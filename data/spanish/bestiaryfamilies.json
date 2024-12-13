@@ -1,0 +1,164 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Mammals",
+    "Name": "Las tierras salvajes",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/IconCat",
+    "IconSmall": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/AspectCat",
+    "Illustration": "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Mammals",
+    "PageArt": "Art/2DArt/UIImages/InGame/Bestiary/BestiaryPage1",
+    "FlavourText": "Bosques húmedos y árboles colosales. Nunca estás solo en estas tierras boscosas.",
+    "Unk007": true,
+    "TagsKey": {
+      "RowIndex": 294,
+      "TableName": "Tags",
+      "Id": "bestiary_wilds"
+    },
+    "Unk009": 114,
+    "ModsKeys": [
+      {
+        "RowIndex": 9443,
+        "TableName": "Mods",
+        "Id": "GrantsCatAspectCrafted"
+      },
+      {
+        "RowIndex": 9438,
+        "TableName": "Mods",
+        "Id": "GrantsCatAspect1"
+      }
+    ],
+    "CurrencyItemsKey": {
+      "RowIndex": 359,
+      "TableName": "CurrencyItems"
+    }
+  },
+  {
+    "RowIndex": 1,
+    "Id": "BirdsAndReptiles",
+    "Name": "Las arenas",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/IconSnake",
+    "IconSmall": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/AspectSnake",
+    "Illustration": "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/BirdsAndReptiles",
+    "PageArt": "Art/2DArt/UIImages/InGame/Bestiary/BestiaryPage2",
+    "FlavourText": "Calor árido y arenas sofocantes. Un paraíso para los demonios y las bestias sedientas de sangre.",
+    "Unk007": true,
+    "TagsKey": {
+      "RowIndex": 295,
+      "TableName": "Tags",
+      "Id": "bestiary_sands"
+    },
+    "Unk009": 113,
+    "ModsKeys": [
+      {
+        "RowIndex": 9444,
+        "TableName": "Mods",
+        "Id": "GrantsBirdAspectCrafted"
+      },
+      {
+        "RowIndex": 9469,
+        "TableName": "Mods",
+        "Id": "AviansMightDurationUnique__1"
+      },
+      {
+        "RowIndex": 9470,
+        "TableName": "Mods",
+        "Id": "GrantAviansAspectToAlliesUnique__1"
+      },
+      {
+        "RowIndex": 9439,
+        "TableName": "Mods",
+        "Id": "GrantsBirdAspect1_"
+      },
+      {
+        "RowIndex": 9475,
+        "TableName": "Mods",
+        "Id": "GrantsAvianTornadoUnique__1__"
+      }
+    ],
+    "CurrencyItemsKey": {
+      "RowIndex": 360,
+      "TableName": "CurrencyItems"
+    }
+  },
+  {
+    "RowIndex": 2,
+    "Id": "InsectsAndArachnids",
+    "Name": "Las cavernas",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/IconSpider",
+    "IconSmall": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/AspectSpider",
+    "Illustration": "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/RootMonsters",
+    "PageArt": "Art/2DArt/UIImages/InGame/Bestiary/BestiaryPage3",
+    "FlavourText": "Los que no son aplastados bajo las rocas y los escombros se enfrentan a criaturas asesinas.",
+    "Unk007": true,
+    "TagsKey": {
+      "RowIndex": 296,
+      "TableName": "Tags",
+      "Id": "bestiary_caverns"
+    },
+    "Unk009": 116,
+    "ModsKeys": [
+      {
+        "RowIndex": 9445,
+        "TableName": "Mods",
+        "Id": "GrantsSpiderAspectCrafted"
+      },
+      {
+        "RowIndex": 9440,
+        "TableName": "Mods",
+        "Id": "GrantsSpiderAspect1"
+      }
+    ],
+    "CurrencyItemsKey": {
+      "RowIndex": 361,
+      "TableName": "CurrencyItems"
+    }
+  },
+  {
+    "RowIndex": 3,
+    "Id": "SeaCreatures",
+    "Name": "Las profundidades",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/IconCrab",
+    "IconSmall": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/AspectCrab",
+    "Illustration": "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/SeaMonsters",
+    "PageArt": "Art/2DArt/UIImages/InGame/Bestiary/BestiaryPage4",
+    "FlavourText": "Las inexploradas profundidades del caos y el control. ¿Qué abominaciones escamadas acechan ahí abajo?",
+    "Unk007": true,
+    "TagsKey": {
+      "RowIndex": 297,
+      "TableName": "Tags",
+      "Id": "bestiary_deep"
+    },
+    "Unk009": 115,
+    "ModsKeys": [
+      {
+        "RowIndex": 9446,
+        "TableName": "Mods",
+        "Id": "GrantsCrabAspectCrafted"
+      },
+      {
+        "RowIndex": 9442,
+        "TableName": "Mods",
+        "Id": "GrantsCrabAspect1_"
+      }
+    ],
+    "CurrencyItemsKey": {
+      "RowIndex": 362,
+      "TableName": "CurrencyItems"
+    }
+  },
+  {
+    "RowIndex": 4,
+    "Id": "AnyCreature",
+    "Name": "Cualquier criatura",
+    "Icon": "",
+    "IconSmall": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/AspectAll",
+    "Illustration": "",
+    "PageArt": "",
+    "FlavourText": "",
+    "Unk007": false,
+    "TagsKey": null,
+    "Unk009": 4119,
+    "ModsKeys": [],
+    "CurrencyItemsKey": null
+  }
+]

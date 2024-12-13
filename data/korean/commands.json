@@ -1,0 +1,524 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "PerformDance",
+    "Command": "춤",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ShowTimePlayed",
+    "Command": "플레이시간",
+    "Unk002": true,
+    "EnglishCommand": "played",
+    "Description": "/플레이시간 또는 /played 를 입력하면 해당 캐릭터의 플레이 시간이 표시됩니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ShowCharacterAge",
+    "Command": "캐릭터나이",
+    "Unk002": true,
+    "EnglishCommand": "age",
+    "Description": "/캐릭터나이 또는 /age 를 입력하면 캐릭터를  얼마나 오래 전에 생성하였는지 표시됩니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ShowMonstersRemaining",
+    "Command": "몬스터수",
+    "Unk002": true,
+    "EnglishCommand": "remaining",
+    "Description": "/몬스터수 또는 /remaining 을 입력하면 지역 내에 남아있는 몬스터의 수가 표시됩니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ShowDeaths",
+    "Command": "사망",
+    "Unk002": true,
+    "EnglishCommand": "deaths",
+    "Description": "/사망 또는 /deaths 를 입력하면 지금까지의 사망 횟수가 표시됩니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ShowPvPStats",
+    "Command": "pvp정보",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ShowLadder",
+    "Command": "래더",
+    "Unk002": true,
+    "EnglishCommand": "ladder",
+    "Description": "/래더 또는 /ladder 를 입력하면 현재 래더의 최상위 10개 캐릭터가 표시됩니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ForceResync",
+    "Command": "oos",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 8,
+    "Id": "DestroyCursorItem",
+    "Command": "아이템파괴",
+    "Unk002": true,
+    "EnglishCommand": "destroy",
+    "Description": "/아이템파괴 또는 /destroy 를 입력하면 커서가 올려진 아이템이 파괴됩니다(주의 요망)!",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Whois",
+    "Command": "누구",
+    "Unk002": true,
+    "EnglishCommand": "whois",
+    "Description": "/누구 또는 /whois 와 캐릭터 이름을 입력하면 해당 캐릭터의 정보가 표시됩니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ShowHelp",
+    "Command": "도움말",
+    "Unk002": false,
+    "EnglishCommand": "help",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ShowCursorItemLevel",
+    "Command": "아이템레벨",
+    "Unk002": true,
+    "EnglishCommand": "itemlevel",
+    "Description": "/아이템레벨 또는 /itemlevel 을 입력하면 커서가 올려진 아이템 레벨이 표시됩니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 12,
+    "Id": "FixMyHelmet",
+    "Command": "헬멧",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 13,
+    "Id": "ReportBug",
+    "Command": "버그",
+    "Unk002": true,
+    "EnglishCommand": "bug",
+    "Description": "/버그 또는 /bug 를 입력하면 버그를 신고하고, 조회 번호가 표시됩니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Debug",
+    "Command": "디버그",
+    "Unk002": true,
+    "EnglishCommand": "debug",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Ignore1",
+    "Command": "차단",
+    "Unk002": false,
+    "EnglishCommand": "ignore",
+    "Description": "/차단 또는 /ignore 와 캐릭터 이름을 입력하면 해당 캐릭터를 차단합니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Ignore2",
+    "Command": "차단2",
+    "Unk002": false,
+    "EnglishCommand": "squelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Unignore1",
+    "Command": "차단해제",
+    "Unk002": false,
+    "EnglishCommand": "unignore",
+    "Description": "/차단해제 또는 /unignore 와 캐릭터 이름을 입력하면 해당 캐릭터 차단을 취소합니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Unignore2",
+    "Command": "차단해제2",
+    "Unk002": false,
+    "EnglishCommand": "unsquelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 19,
+    "Id": "ClearIgnoreList",
+    "Command": "차단초기화",
+    "Unk002": false,
+    "EnglishCommand": "clear_ignore_list",
+    "Description": "/차단초기화 또는 /clear_ignore_list 를 입력하면 캐릭터 차단 목록에 있는 계정을 모두 삭제합니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 20,
+    "Id": "SetStatus",
+    "Command": "상태",
+    "Unk002": false,
+    "EnglishCommand": "status",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 21,
+    "Id": "InviteToParty",
+    "Command": "파티초대",
+    "Unk002": false,
+    "EnglishCommand": "invite",
+    "Description": "/파티초대 또는 /invite 와 캐릭터 이름을 입력하면 해당 캐릭터를 파티에 초대합니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 22,
+    "Id": "AddFriend",
+    "Command": "친구추가",
+    "Unk002": false,
+    "EnglishCommand": "friend",
+    "Description": "/친구추가 또는 /friend 와 캐릭터 이름을 입력하면 해당 캐릭터를 친구 목록에 추가합니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 23,
+    "Id": "RemoveFriend",
+    "Command": "친구삭제",
+    "Unk002": false,
+    "EnglishCommand": "unfriend",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AcceptFriend",
+    "Command": "친구 수락",
+    "Unk002": false,
+    "EnglishCommand": "accept",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 25,
+    "Id": "KickPartyMember",
+    "Command": "파티추방",
+    "Unk002": false,
+    "EnglishCommand": "kick",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 26,
+    "Id": "SetPartyDescription",
+    "Command": "파티상태",
+    "Unk002": false,
+    "EnglishCommand": "party_description",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 27,
+    "Id": "InitiateTrade",
+    "Command": "거래신청",
+    "Unk002": false,
+    "EnglishCommand": "tradewith",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ClearMessage1",
+    "Command": "채팅정리",
+    "Unk002": false,
+    "EnglishCommand": "cls",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 29,
+    "Id": "ClearMessage2",
+    "Command": "채팅정리2",
+    "Unk002": false,
+    "EnglishCommand": "clear",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 30,
+    "Id": "ToggleNoChat1",
+    "Command": "채팅중지",
+    "Unk002": false,
+    "EnglishCommand": "nochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 31,
+    "Id": "ToggleNoChat2",
+    "Command": "채팅중지2",
+    "Unk002": false,
+    "EnglishCommand": "togglenochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 32,
+    "Id": "AutoReply",
+    "Command": "자동응답",
+    "Unk002": true,
+    "EnglishCommand": "autoreply",
+    "Description": "/자동응답 또는 /autoreply [메시지 내용] 을 입력하면 귓속말 수신 시 맞춤 메시지로 답신합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 33,
+    "Id": "SetAFK",
+    "Command": "자리비움",
+    "Unk002": true,
+    "EnglishCommand": "afk",
+    "Description": "/자리비움 또는 /afk [메시지 내용] 을 입력하면 자리비움 시 자동으로 답신합니다. 채팅 등의 활동을 하면 자리비움이 해제됩니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 34,
+    "Id": "DoNotDisturb1",
+    "Command": "방해금지",
+    "Unk002": true,
+    "EnglishCommand": "dnd",
+    "Description": "/방해금지 또는 /dnd [메시지 내용] 을 입력하면 방해 금지 상태일 때 귓속말에 맞춤 메시지로 답신하고, 모든 메시지를 무시합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 35,
+    "Id": "DoNotDisturb2",
+    "Command": "방해금지2",
+    "Unk002": true,
+    "EnglishCommand": "donotdisturb",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 36,
+    "Id": "ExitToCharacterSelection",
+    "Command": "캐릭터선택창",
+    "Unk002": false,
+    "EnglishCommand": "exit",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 37,
+    "Id": "SpectatePvP",
+    "Command": "pvp관전",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 38,
+    "Id": "SpectatePvPReturn",
+    "Command": "pvp관전종료",
+    "Unk002": true,
+    "EnglishCommand": "town",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 39,
+    "Id": "SetGlobalChatChannel",
+    "Command": "글로벌",
+    "Unk002": false,
+    "EnglishCommand": "global",
+    "Description": "/글로벌 또는 /global [X] 를 입력하면 채널 X의 전체 채팅으로 전환합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 40,
+    "Id": "SetTradeChatChannel",
+    "Command": "거래",
+    "Unk002": false,
+    "EnglishCommand": "trade",
+    "Description": "/거래 또는 /trade [X] 를 입력하면 채널 X의 거래 채팅으로 전환합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 41,
+    "Id": "RecheckAchievements",
+    "Command": "업적확인",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "/업적확인 또는 /recheck_achievements 를 입력하면 특정 도전과제를 강제로 재확인합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 42,
+    "Id": "WarpToHideout",
+    "Command": "은신처",
+    "Unk002": true,
+    "EnglishCommand": "hideout",
+    "Description": "/hideout을 입력하면 개인 은신처로 이동합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 43,
+    "Id": "WarpToGuildHideout",
+    "Command": "길드",
+    "Unk002": true,
+    "EnglishCommand": "guild",
+    "Description": "/guild를 입력하면 길드 은신처로 이동합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 44,
+    "Id": "ResetExperiencePerHour",
+    "Command": "경험치계산초기화",
+    "Unk002": false,
+    "EnglishCommand": "reset_xp",
+    "Description": "/경험치계산초기화 또는 /reset_xp 를 입력하면 시간당 획득 경험치 계산량을 초기화합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 45,
+    "Id": "WarpToMenagerie",
+    "Command": "야수관",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 46,
+    "Id": "WarpToDelveMineHub",
+    "Command": "광산",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 47,
+    "Id": "SaveHideout",
+    "Command": "은신처저장",
+    "Unk002": true,
+    "EnglishCommand": "save_hideout",
+    "Description": "/은신처저장 또는 /save_hideout 을 입력하면 현재 은신처의 구조를 불러오기 및 공유가 가능한 파일 형태로 저장합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 48,
+    "Id": "RecoverOldCraftingBenchItem",
+    "Command": "작업대복구",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 49,
+    "Id": "ForceResyncPlayer",
+    "Command": "oosme",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 50,
+    "Id": "SetItemFilter",
+    "Command": "아이템필터",
+    "Unk002": false,
+    "EnglishCommand": "itemfilter",
+    "Description": "/아이템필터 또는 /itemfilter를 입력하면 이름으로 필터를 명시하고 즉시 해당 필터를 사용하도록 전환할 수 있습니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WarpToKiracVault",
+    "Command": "",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 52,
+    "Id": "ShowKills",
+    "Command": "처치",
+    "Unk002": true,
+    "EnglishCommand": "kills",
+    "Description": "/처치 또는 /kills 를 입력하면 경험치를 주는 처치를 몇 회 했는지 표시됩니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 53,
+    "Id": "Feedback",
+    "Command": "피드백",
+    "Unk002": false,
+    "EnglishCommand": "",
+    "Description": "/피드백 또는 feedback을 입력하면 개발 팀에 피드백을 제출합니다.",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 54,
+    "Id": "Flip",
+    "Command": "뒤집기",
+    "Unk002": true,
+    "EnglishCommand": "flip",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 55,
+    "Id": "LeaveParty",
+    "Command": "떠나기",
+    "Unk002": false,
+    "EnglishCommand": "leave",
+    "Description": "/떠나기 현재 파티를 떠납니다",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 56,
+    "Id": "ReloadItemFilter",
+    "Command": "아이템필터다시불러오기",
+    "Unk002": false,
+    "EnglishCommand": "reloaditemfilter",
+    "Description": "",
+    "Unk005": false
+  },
+  {
+    "RowIndex": 57,
+    "Id": "WarpToSanctumEntrance",
+    "Command": "sanctum",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  }
+]

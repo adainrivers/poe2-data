@@ -1,0 +1,506 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Gargantuans",
+    "Name": "Gargantuas",
+    "BestiaryGroupsKey": {
+      "RowIndex": 3,
+      "TableName": "BestiaryGroups",
+      "Id": "Ursa"
+    },
+    "Name2": "Gargantua",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Gargantuans"
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Goatmen",
+    "Name": "Homens Cabra",
+    "BestiaryGroupsKey": {
+      "RowIndex": 1,
+      "TableName": "BestiaryGroups",
+      "Id": "Primates"
+    },
+    "Name2": "Homen Cabra",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Goatman"
+  },
+  {
+    "RowIndex": 2,
+    "Id": "GoatShamans",
+    "Name": "Shamans Cabra",
+    "BestiaryGroupsKey": {
+      "RowIndex": 1,
+      "TableName": "BestiaryGroups",
+      "Id": "Primates"
+    },
+    "Name2": "Shaman Cabra",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GoatShamans"
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Hellions",
+    "Name": "Cães Infernais",
+    "BestiaryGroupsKey": {
+      "RowIndex": 0,
+      "TableName": "BestiaryGroups",
+      "Id": "Felines"
+    },
+    "Name2": "Cão Infernal",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hellions"
+  },
+  {
+    "RowIndex": 4,
+    "Id": "Wolves",
+    "Name": "Lobos",
+    "BestiaryGroupsKey": {
+      "RowIndex": 2,
+      "TableName": "BestiaryGroups",
+      "Id": "Canines"
+    },
+    "Name2": "Lobo",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 5,
+    "Id": "Apes",
+    "Name": "Primatas",
+    "BestiaryGroupsKey": {
+      "RowIndex": 1,
+      "TableName": "BestiaryGroups",
+      "Id": "Primates"
+    },
+    "Name2": "Primata",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodMonkey"
+  },
+  {
+    "RowIndex": 6,
+    "Id": "Rhoas",
+    "Name": "Rhoas",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Rhoa",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Rhoa"
+  },
+  {
+    "RowIndex": 7,
+    "Id": "SandSpitters",
+    "Name": "Cuspidores de Areia",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Cuspidor de Areia",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 8,
+    "Id": "SeaWitches",
+    "Name": "Bruxas do Mar",
+    "BestiaryGroupsKey": {
+      "RowIndex": 9,
+      "TableName": "BestiaryGroups",
+      "Id": "Cephalopod"
+    },
+    "Name2": "Bruxa do Mar",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Seawitch"
+  },
+  {
+    "RowIndex": 9,
+    "Id": "ShieldCrabs",
+    "Name": "Caranguejos Escudo",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Caranguejo Escudo",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/ShieldCrabs"
+  },
+  {
+    "RowIndex": 10,
+    "Id": "Snakes",
+    "Name": "Cobras",
+    "BestiaryGroupsKey": {
+      "RowIndex": 6,
+      "TableName": "BestiaryGroups",
+      "Id": "Reptiles"
+    },
+    "Name2": "Cobra",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 11,
+    "Id": "Spawn",
+    "Name": "Aparições ",
+    "BestiaryGroupsKey": {
+      "RowIndex": 9,
+      "TableName": "BestiaryGroups",
+      "Id": "Cephalopod"
+    },
+    "Name2": "Aparição",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Spiders",
+    "Name": "Aranhas",
+    "BestiaryGroupsKey": {
+      "RowIndex": 8,
+      "TableName": "BestiaryGroups",
+      "Id": "Arachnids"
+    },
+    "Name2": "Aranha",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiders"
+  },
+  {
+    "RowIndex": 13,
+    "Id": "Maws",
+    "Name": "Mandíbulas",
+    "BestiaryGroupsKey": {
+      "RowIndex": 11,
+      "TableName": "BestiaryGroups",
+      "Id": "Amphibians"
+    },
+    "Name2": "Mandíbula",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Chimerals",
+    "Name": "Quimeras",
+    "BestiaryGroupsKey": {
+      "RowIndex": 6,
+      "TableName": "BestiaryGroups",
+      "Id": "Reptiles"
+    },
+    "Name2": "Quimera",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Iguana"
+  },
+  {
+    "RowIndex": 15,
+    "Id": "CarrionQueens",
+    "Name": "Rainhas Carniceiras",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Rainha Carniceira",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 16,
+    "Id": "CarrionInsects",
+    "Name": "Insetos da Carniça",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Inseto da Carniça",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Retches",
+    "Name": "Ânsias",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Ânsia",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Goliaths",
+    "Name": "Golias",
+    "BestiaryGroupsKey": {
+      "RowIndex": 4,
+      "TableName": "BestiaryGroups",
+      "Id": "Large Mammals"
+    },
+    "Name2": "Golias",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiker"
+  },
+  {
+    "RowIndex": 19,
+    "Id": "Devourers",
+    "Name": "Devoradores",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Devorador",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/RootSpider"
+  },
+  {
+    "RowIndex": 20,
+    "Id": "Watchers",
+    "Name": "Observadores",
+    "BestiaryGroupsKey": {
+      "RowIndex": 9,
+      "TableName": "BestiaryGroups",
+      "Id": "Cephalopod"
+    },
+    "Name2": "Observador",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 21,
+    "Id": "PlummetingUrsae",
+    "Name": "Marsupiais da Cascata",
+    "BestiaryGroupsKey": {
+      "RowIndex": 3,
+      "TableName": "BestiaryGroups",
+      "Id": "Ursa"
+    },
+    "Name2": "Marsupial da Cascata",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/DropBear"
+  },
+  {
+    "RowIndex": 22,
+    "Id": "Vultures",
+    "Name": "Abutres",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Abutre",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Vulture"
+  },
+  {
+    "RowIndex": 23,
+    "Id": "Leapers",
+    "Name": "Saltadores",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Saltador",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 24,
+    "Id": "KaruiHounds",
+    "Name": "Cães Karui",
+    "BestiaryGroupsKey": {
+      "RowIndex": 2,
+      "TableName": "BestiaryGroups",
+      "Id": "Canines"
+    },
+    "Name2": "Cão Karui",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hound"
+  },
+  {
+    "RowIndex": 25,
+    "Id": "Pitbulls",
+    "Name": "Touros do Fosso",
+    "BestiaryGroupsKey": {
+      "RowIndex": 2,
+      "TableName": "BestiaryGroups",
+      "Id": "Canines"
+    },
+    "Name2": "Touro do Fosso",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Pitbull"
+  },
+  {
+    "RowIndex": 26,
+    "Id": "Cockerels",
+    "Name": "Galos",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Galo",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Eyepecker"
+  },
+  {
+    "RowIndex": 27,
+    "Id": "Bulls",
+    "Name": "Touros",
+    "BestiaryGroupsKey": {
+      "RowIndex": 4,
+      "TableName": "BestiaryGroups",
+      "Id": "Large Mammals"
+    },
+    "Name2": "Touro",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Bull"
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ApeChieftains",
+    "Name": "Chefes Guerreiros Primatas",
+    "BestiaryGroupsKey": {
+      "RowIndex": 1,
+      "TableName": "BestiaryGroups",
+      "Id": "Primates"
+    },
+    "Name2": "Chefe Guerreiro Primata",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodChieftain"
+  },
+  {
+    "RowIndex": 29,
+    "Id": "Parasites",
+    "Name": "Parasitas",
+    "BestiaryGroupsKey": {
+      "RowIndex": 7,
+      "TableName": "BestiaryGroups",
+      "Id": "Insects"
+    },
+    "Name2": "Parasitas",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 30,
+    "Id": "Crabs",
+    "Name": "Caranguejos",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Caranguejo",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 31,
+    "Id": "Hounds",
+    "Name": "Cães",
+    "BestiaryGroupsKey": {
+      "RowIndex": 2,
+      "TableName": "BestiaryGroups",
+      "Id": "Canines"
+    },
+    "Name2": "Cão",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 32,
+    "Id": "Lurchers",
+    "Name": "Gatunos",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Gatuno",
+    "Icon": "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Lurchers"
+  },
+  {
+    "RowIndex": 33,
+    "Id": "Arachnoscorpions",
+    "Name": "Aracnoscorpiões",
+    "BestiaryGroupsKey": {
+      "RowIndex": 8,
+      "TableName": "BestiaryGroups",
+      "Id": "Arachnids"
+    },
+    "Name2": "Aracnoscorpião",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 34,
+    "Id": "Rhexes",
+    "Name": "Rhexes",
+    "BestiaryGroupsKey": {
+      "RowIndex": 5,
+      "TableName": "BestiaryGroups",
+      "Id": "Avians"
+    },
+    "Name2": "Rhex",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 35,
+    "Id": "Scorpions",
+    "Name": "Escorpiões",
+    "BestiaryGroupsKey": {
+      "RowIndex": 8,
+      "TableName": "BestiaryGroups",
+      "Id": "Arachnids"
+    },
+    "Name2": "Escorpião",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 36,
+    "Id": "Lynxes",
+    "Name": "Linces",
+    "BestiaryGroupsKey": {
+      "RowIndex": 0,
+      "TableName": "BestiaryGroups",
+      "Id": "Felines"
+    },
+    "Name2": "Lince",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 37,
+    "Id": "Tigers",
+    "Name": "Tigres",
+    "BestiaryGroupsKey": {
+      "RowIndex": 0,
+      "TableName": "BestiaryGroups",
+      "Id": "Felines"
+    },
+    "Name2": "Tigre",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 38,
+    "Id": "SpiderCrabs",
+    "Name": "Garanguejos Aranha",
+    "BestiaryGroupsKey": {
+      "RowIndex": 10,
+      "TableName": "BestiaryGroups",
+      "Id": "Crustaceans"
+    },
+    "Name2": "Garanguejo Aranha",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 39,
+    "Id": "Octopuses",
+    "Name": "Polvos",
+    "BestiaryGroupsKey": {
+      "RowIndex": 9,
+      "TableName": "BestiaryGroups",
+      "Id": "Cephalopod"
+    },
+    "Name2": "Polvo",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 40,
+    "Id": "GemFrog",
+    "Name": "Sapos da Gema",
+    "BestiaryGroupsKey": {
+      "RowIndex": 11,
+      "TableName": "BestiaryGroups",
+      "Id": "Amphibians"
+    },
+    "Name2": "Sapo da Gema",
+    "Icon": ""
+  },
+  {
+    "RowIndex": 41,
+    "Id": "Frog",
+    "Name": "Sapos",
+    "BestiaryGroupsKey": {
+      "RowIndex": 11,
+      "TableName": "BestiaryGroups",
+      "Id": "Amphibians"
+    },
+    "Name2": "Sapo",
+    "Icon": ""
+  }
+]

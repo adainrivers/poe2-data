@@ -1,0 +1,524 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "PerformDance",
+    "Command": "跳舞",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 1,
+    "Id": "ShowTimePlayed",
+    "Command": "遊戲時間",
+    "Unk002": true,
+    "EnglishCommand": "played",
+    "Description": "/遊戲時間（/played）顯示總遊玩時間。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 2,
+    "Id": "ShowCharacterAge",
+    "Command": "創角時間",
+    "Unk002": true,
+    "EnglishCommand": "age",
+    "Description": "/創角時間（/age）顯示這個角色是在多久之前創立的。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 3,
+    "Id": "ShowMonstersRemaining",
+    "Command": "剩餘怪物",
+    "Unk002": true,
+    "EnglishCommand": "remaining",
+    "Description": "/剩餘怪物（/remaining）顯示所在區域中剩餘怪物的數量。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ShowDeaths",
+    "Command": "死亡次數",
+    "Unk002": true,
+    "EnglishCommand": "deaths",
+    "Description": "/死亡次數（/deaths）顯示你一共死了多少次。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 5,
+    "Id": "ShowPvPStats",
+    "Command": "互鬥",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 6,
+    "Id": "ShowLadder",
+    "Command": "天梯",
+    "Unk002": true,
+    "EnglishCommand": "ladder",
+    "Description": "/天梯（/ladder）顯示聯盟前十名最高等級的玩家。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 7,
+    "Id": "ForceResync",
+    "Command": "重置位置",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 8,
+    "Id": "DestroyCursorItem",
+    "Command": "摧毀",
+    "Unk002": true,
+    "EnglishCommand": "destroy",
+    "Description": "/摧毀（destroy）刪除你游標所選取的道具（請注意，刪除的道具無法復原）。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Whois",
+    "Command": "查詢玩家",
+    "Unk002": true,
+    "EnglishCommand": "whois",
+    "Description": "/查詢玩家（/whois）查詢指定玩家。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 10,
+    "Id": "ShowHelp",
+    "Command": "提示",
+    "Unk002": false,
+    "EnglishCommand": "help",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 11,
+    "Id": "ShowCursorItemLevel",
+    "Command": "物品等級",
+    "Unk002": true,
+    "EnglishCommand": "itemlevel",
+    "Description": "/物品等級（/itemlevel）顯示游標所選取的道具之物品等級。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 12,
+    "Id": "FixMyHelmet",
+    "Command": "修復頭盔模組",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 13,
+    "Id": "ReportBug",
+    "Command": "回報",
+    "Unk002": true,
+    "EnglishCommand": "bug",
+    "Description": "/回報（/bug）回報一個錯誤，並給予一個紀錄用的代碼。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Debug",
+    "Command": "除錯",
+    "Unk002": true,
+    "EnglishCommand": "debug",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Ignore1",
+    "Command": "黑名單",
+    "Unk002": false,
+    "EnglishCommand": "ignore",
+    "Description": "/黑名單（/ignore）將該玩家加入黑名單。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Ignore2",
+    "Command": "忽略",
+    "Unk002": false,
+    "EnglishCommand": "squelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Unignore1",
+    "Command": "解除黑名單",
+    "Unk002": false,
+    "EnglishCommand": "unignore",
+    "Description": "/解除黑名單（/unignore）將該玩家移出黑名單。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Unignore2",
+    "Command": "解除忽略",
+    "Unk002": false,
+    "EnglishCommand": "unsquelch",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 19,
+    "Id": "ClearIgnoreList",
+    "Command": "清除黑名單",
+    "Unk002": false,
+    "EnglishCommand": "clear_ignore_list",
+    "Description": "/清除黑名單（/clear_ignore_list）移除黑名單內所有的玩家。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 20,
+    "Id": "SetStatus",
+    "Command": "狀態",
+    "Unk002": false,
+    "EnglishCommand": "status",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 21,
+    "Id": "InviteToParty",
+    "Command": "邀請",
+    "Unk002": false,
+    "EnglishCommand": "invite",
+    "Description": "/邀請（/invite）將該玩家邀請至隊伍裡。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 22,
+    "Id": "AddFriend",
+    "Command": "加為好友",
+    "Unk002": false,
+    "EnglishCommand": "friend",
+    "Description": "/加為好友（/friend）將該玩家加入好友名單。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 23,
+    "Id": "RemoveFriend",
+    "Command": "解除好友",
+    "Unk002": false,
+    "EnglishCommand": "unfriend",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 24,
+    "Id": "AcceptFriend",
+    "Command": "同意好友邀請",
+    "Unk002": false,
+    "EnglishCommand": "accept",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 25,
+    "Id": "KickPartyMember",
+    "Command": "移出隊伍",
+    "Unk002": false,
+    "EnglishCommand": "kick",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 26,
+    "Id": "SetPartyDescription",
+    "Command": "隊伍描述",
+    "Unk002": false,
+    "EnglishCommand": "party_description",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 27,
+    "Id": "InitiateTrade",
+    "Command": "交易",
+    "Unk002": false,
+    "EnglishCommand": "tradewith",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ClearMessage1",
+    "Command": "清除對話",
+    "Unk002": false,
+    "EnglishCommand": "cls",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 29,
+    "Id": "ClearMessage2",
+    "Command": "清除對話",
+    "Unk002": false,
+    "EnglishCommand": "clear",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 30,
+    "Id": "ToggleNoChat1",
+    "Command": "關閉聊天",
+    "Unk002": false,
+    "EnglishCommand": "nochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 31,
+    "Id": "ToggleNoChat2",
+    "Command": "聊天關閉",
+    "Unk002": false,
+    "EnglishCommand": "togglenochat",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 32,
+    "Id": "AutoReply",
+    "Command": "自動回覆",
+    "Unk002": true,
+    "EnglishCommand": "autoreply",
+    "Description": "/自動回覆 [訊息] 以自動回覆客製化密語。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 33,
+    "Id": "SetAFK",
+    "Command": "暫離",
+    "Unk002": true,
+    "EnglishCommand": "afk",
+    "Description": "/暫離 [訊息] 以自動回覆密語者你正處於暫離狀態。任何動作包括對話都會使你離開暫離狀態。 ",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 34,
+    "Id": "DoNotDisturb1",
+    "Command": "勿擾",
+    "Unk002": true,
+    "EnglishCommand": "dnd",
+    "Description": "/勿擾 [訊息] 以自動回覆密語者你正處於勿擾狀態。忽略所有給你的訊息。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 35,
+    "Id": "DoNotDisturb2",
+    "Command": "勿擾模式",
+    "Unk002": true,
+    "EnglishCommand": "donotdisturb",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 36,
+    "Id": "ExitToCharacterSelection",
+    "Command": "回到角色選單",
+    "Unk002": false,
+    "EnglishCommand": "exit",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 37,
+    "Id": "SpectatePvP",
+    "Command": "觀戰",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 38,
+    "Id": "SpectatePvPReturn",
+    "Command": "離開觀戰",
+    "Unk002": true,
+    "EnglishCommand": "town",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 39,
+    "Id": "SetGlobalChatChannel",
+    "Command": "世界頻道",
+    "Unk002": false,
+    "EnglishCommand": "global",
+    "Description": "/global [X] 將聊天頻道切換至指定分流 X 。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 40,
+    "Id": "SetTradeChatChannel",
+    "Command": "交易頻道",
+    "Unk002": false,
+    "EnglishCommand": "trade",
+    "Description": "/trade [X] 將交易頻道切換至指定分流 X。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 41,
+    "Id": "RecheckAchievements",
+    "Command": "重新檢查成就",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "/重新檢查成就 強制重新檢查某些成就。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 42,
+    "Id": "WarpToHideout",
+    "Command": "藏身處",
+    "Unk002": true,
+    "EnglishCommand": "hideout",
+    "Description": "/hideout 可將你傳送至你的個人藏身處。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 43,
+    "Id": "WarpToGuildHideout",
+    "Command": "公會",
+    "Unk002": true,
+    "EnglishCommand": "guild",
+    "Description": "/guild 可將你傳送至你的公會藏身處。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 44,
+    "Id": "ResetExperiencePerHour",
+    "Command": "重置經驗計算",
+    "Unk002": false,
+    "EnglishCommand": "reset_xp",
+    "Description": "/reset_xp 重置的的每小時獲得經驗計算。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 45,
+    "Id": "WarpToMenagerie",
+    "Command": "獸園",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 46,
+    "Id": "WarpToDelveMineHub",
+    "Command": "掘獄",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 47,
+    "Id": "SaveHideout",
+    "Command": "儲存藏身處",
+    "Unk002": true,
+    "EnglishCommand": "save_hideout",
+    "Description": "/save_hideout 保存目前藏身處的版面至資料夾中，以便之後讀檔或分享。",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 48,
+    "Id": "RecoverOldCraftingBenchItem",
+    "Command": "回復舊工藝台內物品",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 49,
+    "Id": "ForceResyncPlayer",
+    "Command": "同步",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 50,
+    "Id": "SetItemFilter",
+    "Command": "物品篩選",
+    "Unk002": false,
+    "EnglishCommand": "itemfilter",
+    "Description": "/itemfilter 允許你按名稱指定篩選器以立即切換到使用它",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 51,
+    "Id": "WarpToKiracVault",
+    "Command": "",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 52,
+    "Id": "ShowKills",
+    "Command": "擊殺",
+    "Unk002": true,
+    "EnglishCommand": "kills",
+    "Description": "/kills 顯示你累積的擊殺經驗",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 53,
+    "Id": "Feedback",
+    "Command": "反饋",
+    "Unk002": false,
+    "EnglishCommand": "",
+    "Description": "/feedback 提交你的意見",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 54,
+    "Id": "Flip",
+    "Command": "翻動",
+    "Unk002": true,
+    "EnglishCommand": "flip",
+    "Description": "",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 55,
+    "Id": "LeaveParty",
+    "Command": "離開",
+    "Unk002": false,
+    "EnglishCommand": "leave",
+    "Description": "/leave 離開目前隊伍",
+    "Unk005": true
+  },
+  {
+    "RowIndex": 56,
+    "Id": "ReloadItemFilter",
+    "Command": "reloaditemfilter",
+    "Unk002": false,
+    "EnglishCommand": "reloaditemfilter",
+    "Description": "",
+    "Unk005": false
+  },
+  {
+    "RowIndex": 57,
+    "Id": "WarpToSanctumEntrance",
+    "Command": "聖域",
+    "Unk002": true,
+    "EnglishCommand": "",
+    "Description": "",
+    "Unk005": true
+  }
+]

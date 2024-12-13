@@ -1,0 +1,884 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Incursion_FirstIncursionGreeting",
+    "UITalkCategoriesKey": 1,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_04.ogg",
+    "Text": "Ich habe eine Möglichkeit gefunden, uns einen Weg zu diesem vergessenen Tempel zu bahnen. Ein Zauber, ausgelöst durch Vaal-Blut. Ich trage welches in mir, wisst Ihr. Dieser Zauber führt Euch in vergangene Zeiten. Dort angekommen haltet Ihr das Portal offen, indem Ihr denen die Kehle aufschlitzt, die es verdient haben. Je länger Euer Aufenthalt ausfällt, desto mehr erfahre ich über die Lage des Tempels in unserer Gegenwart.\r\n\r\nSobald wir seinen Fundort ausfindig gemacht haben, bleibt uns alle Zeit der Welt, ",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 1,
+    "Id": "Incursion_FirstIncursionComplete",
+    "UITalkCategoriesKey": 2,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV05.ogg",
+    "Text": "Schön zu sehen, dass Ihr Eure erste Inkursion überlebt habt.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 2,
+    "Id": "Incursion_FirstIncursionFarewell",
+    "UITalkCategoriesKey": 3,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV09.ogg",
+    "Text": "Hört zu, diese Blutzauber sind äußerst unbeständig. Sie müssen unter bestimmten Bedingungen durchgeführt werden - der Tag und die Konstellation der Sterne spielen dabei eine entscheidende Rolle ... oder so etwas in der Art. Ich werde einen neuen Ort ausfindig machen, um das nächste Ritual durchzuführen. Findet mich und wir setzen unser Vorhaben fort!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Incursion_SecondIncursionGreeting",
+    "UITalkCategoriesKey": 4,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV10.ogg",
+    "Text": "Ich wusste, dass Ihr mich finden würdet, schließlich hat uns das Schicksal zusammengeführt. Euer letzter Beutezug hat uns dem Tempel ein wenig näher gebracht, doch es gibt noch einiges zu tun. Ich hoffe, Ihr seid bereit für das nächste Abenteuer!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 4,
+    "Id": "Incursion_SecondIncursionPortal",
+    "UITalkCategoriesKey": 5,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV12.ogg",
+    "Text": "Kommt Euch das bekannt vor? Das ist der Tempel, wie Ihr ihn hinterlassen habt. Mit jeder neuen Inkursion verändert sich meine Karte. Nach einigen Raubzügen kommen wir dem Standort des Tempels in der Gegenwart vielleicht etwas näher!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 5,
+    "Id": "Incursion_GenericIncursionGreeting",
+    "UITalkCategoriesKey": 6,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV11.ogg",
+    "Text": "Ah, da seid Ihr ja. Seid Ihr bereit, der Vergangenheit einen Besuch abzustatten? Je mehr Blut Ihr vergießt, desto mehr Ihr meine Karte verändert, desto eher kommen wir dem Tempel in der Gegenwart auf die Spur.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 6,
+    "Id": "Incursion_GenericIncursionPortal_1",
+    "UITalkCategoriesKey": 7,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV13_A.ogg",
+    "Text": "Das ist der Plan.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 7,
+    "Id": "Incursion_GenericIncursionPortal_2",
+    "UITalkCategoriesKey": 7,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV13_B.ogg",
+    "Text": "Werfen wir einen Blick auf den Grundriss.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 8,
+    "Id": "Incursion_GenericIncursionPortal_3",
+    "UITalkCategoriesKey": 7,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV13_C.ogg",
+    "Text": "Jede Inkursion erfordert eine gute Vorbereitung.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Incursion_GenericIncursionPortal_4",
+    "UITalkCategoriesKey": 7,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV13_D.ogg",
+    "Text": "Schaut Euch an, welchen Weg Ihr einschlagen werdet.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 10,
+    "Id": "Incursion_GenericIncursionComplete_1",
+    "UITalkCategoriesKey": 8,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV14_A.ogg",
+    "Text": "Ausgezeichnete Arbeit.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 11,
+    "Id": "Incursion_GenericIncursionComplete_2",
+    "UITalkCategoriesKey": 8,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV14_B.ogg",
+    "Text": "Das habt Ihr gut gemacht!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Incursion_GenericIncursionFarewell",
+    "UITalkCategoriesKey": 9,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV19.ogg",
+    "Text": "Jeder Schritt bringt uns dem Tempel ein klein wenig näher. Findet mich ein weiteres Mal und wir setzen unser Abenteuer fort.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 13,
+    "Id": "Incursion_TempleIsOpenFarewell",
+    "UITalkCategoriesKey": 10,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV20.ogg",
+    "Text": "Stellt sicher, dass Ihr alles vorbereitet habt. Lasst mich wissen, wenn Ihr bereit seid und ich öffne ein weiteres Portal, das uns dorthin bringt.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Incursion_TempleOpenGreeting",
+    "UITalkCategoriesKey": 11,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV23.ogg",
+    "Text": "Ich habe es vollbracht! Ich meine ... wir haben es vollbracht! Der Standort des Tempels steht nun fest. Gebt auf jeden Eurer Schritte acht. Wir haben vielleicht beim Aufbau dieses Grundrisses mitgewirkt, doch vieles kann sich im Laufe von zwei Jahrtausenden ändern. Es ist unmöglich zu sagen, was für Dinge sich in diesen Ruinen niedergelassen haben ...",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 15,
+    "Id": "Incursion_TemplePortal",
+    "UITalkCategoriesKey": 12,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV22.ogg",
+    "Text": "Hoffentlich habt Ihr etwas Platz in Eurer Tasche. Heute bereichern wir uns königlich! ",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Incursion_ArmourRoom1",
+    "UITalkCategoriesKey": 13,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV39.ogg",
+    "Text": "Der Architekt des Eisens hat sich in diesem Raum mit seiner Schmiede häuslich eingerichtet. Passt auf, dass Ihr nicht über seine Panzer stolpert. ",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Incursion_ArmourRoom2",
+    "UITalkCategoriesKey": 14,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV40.ogg",
+    "Text": "Atmohua hat sich hier dank Euch ein feines Waffenarsenal angelegt, und jeder wird von seinem Spielzeug sicher profitieren.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 18,
+    "Id": "Incursion_ArmourRoom3",
+    "UITalkCategoriesKey": 15,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV41.ogg",
+    "Text": "Ihr habt einer schwer gepanzerten Abwehrtruppe den Weg geebnet. Mir ist nicht wirklich klar, was Ihr damit versucht zu erreichen, aber vielleicht können wir die Rüstung als Schrott verkaufen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 19,
+    "Id": "Incursion_BreachRoom1",
+    "UITalkCategoriesKey": 16,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV42.ogg",
+    "Text": "Ihr habt also beschlossen, den Architekten des Risses am Leben zu lassen. Ich ... bin mir wirklich nicht sicher, was er mit diesem Raum anstellen wird.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 20,
+    "Id": "Incursion_BreachRoom2",
+    "UITalkCategoriesKey": 17,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV43.ogg",
+    "Text": "Was auch immer Zilquapa in diesem Raum gefunden hat, Ihr werdet es ihm überlassen. Natürlich ist das ein wenig riskant, aber wer nicht wagt, der nicht gewinnt.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 21,
+    "Id": "Incursion_BreachRoom3",
+    "UITalkCategoriesKey": 18,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV44.ogg",
+    "Text": "Großartig, Zilquapas Wahnsinn hat diesen unheimlichen ... <italic>{Wesen} ... den Weg in diesen Tempel geebnet. War das etwa Eure Absicht, oder soll ich Euch zu Eurer Tollkühnheit gratulieren?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 22,
+    "Id": "Incursion_BreedingRoom1",
+    "UITalkCategoriesKey": 19,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV45.ogg",
+    "Text": "Was für eine kluge Entscheidung, den Raum diesem Architekten zu überlassen. Mehr Blut bedeutet mehr Zeit in diesem prachtvollen Tempel. Lasset das Blut fließen!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 23,
+    "Id": "Incursion_BreedingRoom2",
+    "UITalkCategoriesKey": 20,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV46.ogg",
+    "Text": "Ohne einen Rivalen wird Cholotl seine Rekrutierungsbemühungen sicherlich verstärken. Das sollte Euch aber wohl vor keine großen Herausforderungen stellen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 24,
+    "Id": "Incursion_BreedingRoom3",
+    "UITalkCategoriesKey": 21,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV47.ogg",
+    "Text": "Ihr habt Cholotl diese Kammer in eine Zufluchtsstätte für die ruchlosesten Vaal da draußen verwandeln lassen. Hoffen wir, dass wir es nicht bereuen werden.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 25,
+    "Id": "Incursion_CartographyRoom1",
+    "UITalkCategoriesKey": 22,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV48.ogg",
+    "Text": "Jetzt hat der Architekt der Erweiterung einen Standort, von dem aus er beginnen kann, Wraeclast zu erkunden.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 26,
+    "Id": "Incursion_CartographyRoom2",
+    "UITalkCategoriesKey": 23,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV49.ogg",
+    "Text": "Da Uromotis Rivale tot ist, werden seine Ressourcen sinnvoll aufgewendet, um die gewaltigen Erkundungsbemühungen der Vaal voranzutreiben.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 27,
+    "Id": "Incursion_CartographyRoom3",
+    "UITalkCategoriesKey": 24,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV50.ogg",
+    "Text": "Uromotis Erkundungen nehmen Ausmaße an, wie ich sie zuvor noch nicht erlebt habe. Wonach suchen sie? Was <italic>{könnte} es noch zu erforschen geben?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 28,
+    "Id": "Incursion_ChestsRoom1",
+    "UITalkCategoriesKey": 25,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV51.ogg",
+    "Text": "Ihr habt dem Architekten des Hortes ein wenig Platz geschaffen, damit er seine \"Fundstücke\" horten kann.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 29,
+    "Id": "Incursion_ChestsRoom2",
+    "UITalkCategoriesKey": 26,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV52.ogg",
+    "Text": "Er hat nun viel mehr Platz, um seinen seltsamen Tand zu lagern, nachdem sein Rivale aus dem Weg geräumt ist.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 30,
+    "Id": "Incursion_ChestsRoom3",
+    "UITalkCategoriesKey": 27,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV53.ogg",
+    "Text": "Mit einem weiteren toten Rivalen wird der Architekt des Hortes diesen Raum mit allen möglichen Kostbarkeiten füllen. Eine clevere Idee.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 31,
+    "Id": "Incursion_CorruptionRoom1",
+    "UITalkCategoriesKey": 28,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV54.ogg",
+    "Text": "Der Architekt des Verderbens hat diesen Raum für seine ruchlosen Experimente beansprucht.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 32,
+    "Id": "Incursion_CorruptionRoom2",
+    "UITalkCategoriesKey": 29,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV55.ogg",
+    "Text": "Paquate hat seinen steigenden Einfluss dazu verwendet, diesen Raum mit weiterer verderbender Energie zu versorgen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 33,
+    "Id": "Incursion_CorruptionRoom3",
+    "UITalkCategoriesKey": 30,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV56.ogg",
+    "Text": "Der Einfluss seiner Verderbtheit scheint sich weiter auszubreiten. Aber das wusstet Ihr sicher schon, nicht wahr?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 34,
+    "Id": "Incursion_CurrencyRoom1",
+    "UITalkCategoriesKey": 31,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV57.ogg",
+    "Text": "Der Architekt des Tresorraums hat diesen Raum in Besitz genommen? Wenn das mal keine <italic>{großartigen} Neuigkeiten sind!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 35,
+    "Id": "Incursion_CurrencyRoom2",
+    "UITalkCategoriesKey": 32,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV58.ogg",
+    "Text": "Da Ihr seinen Rivalen getötet habt, können wir wohl darauf setzen, dass Estazunti diesen Raum mit noch weitaus größeren Reichtümern schmückt.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 36,
+    "Id": "Incursion_CurrencyRoom3",
+    "UITalkCategoriesKey": 33,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV59.ogg",
+    "Text": "Sollen wir eine Wette abschließen? Ich wette, dass Estazunti diesen Raum jetzt schon mit prachtvollen Schätzen gefüllt hat. Ist das nicht ein aufregender Gedanke?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 37,
+    "Id": "Incursion_HatcheryRoom1",
+    "UITalkCategoriesKey": 34,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV60.ogg",
+    "Text": "Dank Eurer Handlungen hat sich Citaqualotl, der Architekt des Schwarms, jetzt hier mitsamt seiner ... kriechenden Experimente niedergelassen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 38,
+    "Id": "Incursion_HatcheryRoom2",
+    "UITalkCategoriesKey": 35,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV61.ogg",
+    "Text": "Jetzt, da er nichts mehr zu befürchten hat, scheint sich Citaqualotl für Experimente an merkwürdigen Metallen zu interessieren.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 39,
+    "Id": "Incursion_HatcheryRoom3",
+    "UITalkCategoriesKey": 36,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV62.ogg",
+    "Text": "Der verrückte Wissenschaftler hielt es also für eine großartige Idee, Metall und Insekten miteinander zu kombinieren? Hoffentlich ist davon nichts mehr übrig, wenn wir zurückkehren.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 40,
+    "Id": "Incursion_FlameRoom1",
+    "UITalkCategoriesKey": 37,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV63.ogg",
+    "Text": "In dieser Kammer werden die Hammerschläge des Architekten der Schmiede jetzt Funken sprühen lassen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 41,
+    "Id": "Incursion_FlameRoom2",
+    "UITalkCategoriesKey": 38,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV64.ogg",
+    "Text": "Puhuartes Hammerschläge werden weiter durch die Dunkelheit hallen. Ich hoffe doch, dass Ihr Euch das gut überlegt habt?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 42,
+    "Id": "Incursion_FlameRoom3",
+    "UITalkCategoriesKey": 39,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV65.ogg",
+    "Text": "Durch Eure Handlungen steht Puhuartes Fantasien jetzt nichts mehr im Wege. Welche schrecklichen Apparaturen wohl in diesen Flammen geschmiedet wurden?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 43,
+    "Id": "Incursion_LightningRoom1",
+    "UITalkCategoriesKey": 40,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV66.ogg",
+    "Text": "Dieser Raum wird von Energie förmlich durchströmt, jetzt, da er im Besitz von Xopec, dem Architekten der Energie ist.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 44,
+    "Id": "Incursion_LightningRoom2",
+    "UITalkCategoriesKey": 41,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV67.ogg",
+    "Text": "Xopecs Experimente an elektrischen Lebensformen haben in diesem Raum einen Höhepunkt erreicht.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 45,
+    "Id": "Incursion_LightningRoom3",
+    "UITalkCategoriesKey": 42,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV68.ogg",
+    "Text": "Die Kräfte, die Ihr in Xopec geweckt habt ... Ich frage mich, wie sich diese wohl in der Zukunft entwickeln?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 46,
+    "Id": "Incursion_EmpoweringRoom1",
+    "UITalkCategoriesKey": 43,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV69.ogg",
+    "Text": "Ah, Ihr habt Euch also für Quipolatl entschieden - eine interessante Wahl. Ihr sucht immer nach neuen Herausforderungen, nicht wahr?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 47,
+    "Id": "Incursion_EmpoweringRoom2",
+    "UITalkCategoriesKey": 44,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV70.ogg",
+    "Text": "Quipolatl ist mit dem Nexus verbunden, und durch diese Aktion wird diese Verbindung noch stärker.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 48,
+    "Id": "Incursion_EmpoweringRoom3",
+    "UITalkCategoriesKey": 45,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV71.ogg",
+    "Text": "Du meine Güte! Für Euch kann der Weg nicht steinig genug sein, nicht wahr? Wer weiß, wie dieser Teil des Tempels in der Zukunft aussehen wird?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 49,
+    "Id": "Incursion_ExplosivesRoom1",
+    "UITalkCategoriesKey": 46,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV72.ogg",
+    "Text": "Hayoxi will Dinge einfach nur <italic>{in die Luft jagen!} Ihm diesen Raum zu überlassen könnte sich womöglich als nützlich erweisen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 50,
+    "Id": "Incursion_ExplosivesRoom2",
+    "UITalkCategoriesKey": 47,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV73.ogg",
+    "Text": "Man könnte ja fast glauben, dass Ihr Hayoxis Leidenschaft für das Chaos teilt. Nun, wenn er sich hier ausbreitet, wird sein explosives Arsenal nur noch größer.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 51,
+    "Id": "Incursion_ExplosivesRoom3",
+    "UITalkCategoriesKey": 48,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV74.ogg",
+    "Text": "Bei diesem Tempo hat der verrückte Bastard sicher schon den ganzen Tempel mit Sprengstoff bestückt.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 52,
+    "Id": "Incursion_GemRoom1",
+    "UITalkCategoriesKey": 49,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV75.ogg",
+    "Text": "Zalatl wird uns, wenn auch eher unfreiwillig, dafür belohnen, dass Ihr ihm die Kontrolle über diesen Raum gegeben habt.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 53,
+    "Id": "Incursion_GemRoom2",
+    "UITalkCategoriesKey": 50,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV76.ogg",
+    "Text": "Ich verstehe, Euch und der Architekt der Thaumaturgie scheint eine Leidenschaft für Gemmen zu verbinden.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 54,
+    "Id": "Incursion_GemRoom3",
+    "UITalkCategoriesKey": 51,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV77.ogg",
+    "Text": "Sie sollten diesen Raum Zalatls Schatzkiste nennen! Stellt Euch vor, welche Schätze dort in der Gegenwart auf uns warten!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 55,
+    "Id": "Incursion_HealingRoom1",
+    "UITalkCategoriesKey": 52,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV78.ogg",
+    "Text": "Welch wunderschöne Ströme durch diesen Raum fließen. Was für eine Schande, dass Guatelitzi sie besudelt, doch alles geschieht zum Wohle der Allgemeinheit, nehme ich doch an.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 56,
+    "Id": "Incursion_HealingRoom2",
+    "UITalkCategoriesKey": 53,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV79.ogg",
+    "Text": "Welch liebreizender Raum der Ertränkung ... Ah, die Vaal und ihr Charme ... Dennoch, den Architekten des Fleisches hier zu haben, wird sich in Zukunft als interessant erweisen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 57,
+    "Id": "Incursion_HealingRoom3",
+    "UITalkCategoriesKey": 54,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV80.ogg",
+    "Text": "Guatelitzi hat sich diese Becken tatsächlich zu seinem Zuhause auserkoren. Hoffen wir, dass dies in der Gegenwart gut endet.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 58,
+    "Id": "Incursion_PoisonRoom1",
+    "UITalkCategoriesKey": 55,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV81.ogg",
+    "Text": "Ugh, der Architekt der Toxine - nicht unbedingt meine erste Wahl, etwas in diesem Teil des Tempels gedeihen zu lassen ...",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 59,
+    "Id": "Incursion_PoisonRoom2",
+    "UITalkCategoriesKey": 56,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV82.ogg",
+    "Text": "Klingt so, als würden Tacatis Pflanzen außer Kontrolle wuchern. Bei den Göttern, ich hoffe, dass Ihr wisst was Ihr vorhabt ...",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 60,
+    "Id": "Incursion_PoisonRoom3",
+    "UITalkCategoriesKey": 57,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV83.ogg",
+    "Text": "Ihr habt Tacati von seinem Widersacher befreit. Jetzt hat er sämtliche Freiheiten, mit seinen üblen Giften herumzuspielen. Ich bin nicht gerade wild darauf, mir etwas einzufangen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 61,
+    "Id": "Incursion_QueenRoom1",
+    "UITalkCategoriesKey": 58,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV84.ogg",
+    "Text": "Der königliche Architekt hat diesen Raum für seine Königin beansprucht.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 62,
+    "Id": "Incursion_QueenRoom2",
+    "UITalkCategoriesKey": 59,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV85.ogg",
+    "Text": "Xipocado scheint darauf fixiert zu sein, diesen Raum zu einer Art königlicher Kammer umzugestalten, und Ihr habt es ihm gerade vereinfacht.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 63,
+    "Id": "Incursion_QueenRoom3",
+    "UITalkCategoriesKey": 60,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV86.ogg",
+    "Text": "Möchtet Ihr raten, wessen Hinterteil den Thronsaal schmücken wird, den Ihr dem königlichen Architekten überlassen habt?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 64,
+    "Id": "Incursion_SacrificeRoom1",
+    "UITalkCategoriesKey": 61,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV87.ogg",
+    "Text": "Ihr habt ... den Architekten der Zeremonien, den Mann, der <italic>{unzählige} Menschenopfer zu verantworten hat, diese Kammer einnehmen lassen?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 65,
+    "Id": "Incursion_SacrificeRoom2",
+    "UITalkCategoriesKey": 62,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV88.ogg",
+    "Text": "Ahuanas Rivale ist tot, und jetzt bringt er noch weitere Mittel für noch blutigere Opfer auf, um seine falschen Gottheiten und einfältige Königin zu ehren.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 66,
+    "Id": "Incursion_SacrificeRoom3",
+    "UITalkCategoriesKey": 63,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV89.ogg",
+    "Text": "Das Blut von Ahuanas Opfern klebt an Euren Händen. Und jetzt wird es viele von ihnen geben.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 67,
+    "Id": "Incursion_TempestRoom1",
+    "UITalkCategoriesKey": 64,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV90.ogg",
+    "Text": "Ein stürmisches Gemüt, dieser Topotante. Nach allem, was man sich so erzählt. Aber wenn Ihr ihn in diesem Raum haben möchtet, wer bin ich denn schon, dass ich da widersprechen könnte?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 68,
+    "Id": "Incursion_TempestRoom2",
+    "UITalkCategoriesKey": 65,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV91.ogg",
+    "Text": "Frischer Wind weht durch diesen Raum. Der Architekt der Stürme wird sich Eure Wut sicher zunutze machen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 69,
+    "Id": "Incursion_TempestRoom3",
+    "UITalkCategoriesKey": 66,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV92.ogg",
+    "Text": "Der Sturm des Jahrtausends? Hoffen wir, dass er uns in der Zukunft nichts kaputt macht.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 70,
+    "Id": "Incursion_TrapsRoom1",
+    "UITalkCategoriesKey": 67,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV93.ogg",
+    "Text": "Ihr seid gegangen und habt dem Architekten der Befestigungen diese Kammer überlassen. Ihr wisst aber, was Befestigungen sind, nicht wahr? Wir planen buchstäblich einen <italic>{Angriff} auf diesen Tempel.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 71,
+    "Id": "Incursion_TrapsRoom2",
+    "UITalkCategoriesKey": 68,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV94.ogg",
+    "Text": "Ihr habt Matatls Rivalen getötet. Das wird ihm die Ressourcen verschaffen, die er benötigt, um den Tempel mit Fallen zu bestücken. Fallen, die wir dann meiden müssen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 72,
+    "Id": "Incursion_TrapsRoom3",
+    "UITalkCategoriesKey": 69,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV95.ogg",
+    "Text": "Ihr habt ihm erlaubt zu leben, und als Dank hat er überall seine Fallen aufgestellt. Ich bin nicht ganz sicher, ob Ihr das bis zum Ende durchdacht habt ...",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 73,
+    "Id": "Incursion_TrinketsRoom1",
+    "UITalkCategoriesKey": 70,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV96.ogg",
+    "Text": "Der Architekt der Gilde war ein berüchtigter Goldschmied. Durch seine Präsenz wird Atzoatl sicher glitzern.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 74,
+    "Id": "Incursion_TrinketsRoom2",
+    "UITalkCategoriesKey": 71,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV97.ogg",
+    "Text": "Azcapas Rivale ist tot? Ich kann das Geschmeide von hier regnen hören. Ich kann es kaum erwarten, diesen Tempel zu finden!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 75,
+    "Id": "Incursion_TrinketsRoom3",
+    "UITalkCategoriesKey": 72,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV98.ogg",
+    "Text": "Azcapa lebt noch? Ihr werdet mich zu einer <italic>{sehr} glücklichen Frau machen. Glücklich und reich.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 76,
+    "Id": "IncursionWeaponsRoom1",
+    "UITalkCategoriesKey": 73,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV99.ogg",
+    "Text": "Ticaba liebte seine Gladiatorenkämpfe. Historische Aufzeichnungen beiseite, ich vermute, ihn leben zu lassen, könnte es uns einfacher machen an den Waffen vorbeizukommen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 77,
+    "Id": "IncursionWeaponsRoom2",
+    "UITalkCategoriesKey": 74,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV100.ogg",
+    "Text": "Es gibt keinen besseren Ort, um Vaal-Blut zu vergießen, als in der Arena. Und keinen besseren Architekten, der alles überblickt, als Ticaba.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 78,
+    "Id": "IncursionWeaponsRoom3",
+    "UITalkCategoriesKey": 75,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV101.ogg",
+    "Text": "Also habt Ihr Ticaba im Schatten seiner Arenastreiter in Erinnerungen schwelgen lassen ... Hoffentlich wird die Ewigkeit Eure Taten entlohnen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 79,
+    "Id": "IncursionWorkshopRoom1",
+    "UITalkCategoriesKey": 76,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV102.ogg",
+    "Text": "Jiquani war besessen davon, neue und kreative Wege zu finden, um Dinge zu erledigen. Ihn dort zu behalten wird sicherlich zu einer Belohnung führen, nicht wahr?",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 80,
+    "Id": "IncursionWorkshopRoom2",
+    "UITalkCategoriesKey": 77,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV103.ogg",
+    "Text": "Jiquani hat seinen Titel nicht umsonst erhalten, wie ich sehe. Er war mehr als \"fleißig\", wenn es darum ging, seinen Lebenstrieb zu erhalten und im Geschäft zu bleiben.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 81,
+    "Id": "IncursionWorkshopRoom3",
+    "UITalkCategoriesKey": 78,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV104.ogg",
+    "Text": "Ich muss gestehen, dass es mich brennend interessiert, warum Ihr diesem Bastard nicht die Kehle zugeschnürt habt. Ich schätze, dass wir das früh genug erfahren werden.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 82,
+    "Id": "Incursion_ConnectionsChanged1",
+    "UITalkCategoriesKey": 79,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV18_A_1.ogg",
+    "Text": "Ihr habt einige neue Verbindungen hergestellt!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 83,
+    "Id": "Incursion_ConnectionsChanged2",
+    "UITalkCategoriesKey": 79,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV35_A.ogg",
+    "Text": "Oh, wie ich sehe, habt Ihr neue Wege geebnet!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 84,
+    "Id": "Incursion_ConnectionsChanged3",
+    "UITalkCategoriesKey": 79,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV35_B.ogg",
+    "Text": "Hierdurch kommt Ihr später im Tempel sicher besser voran.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 85,
+    "Id": "Incursion_ConnectionsChanged4",
+    "UITalkCategoriesKey": 79,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV35_C.ogg",
+    "Text": "Die neuen Wege, die Ihr eröffnet habt, werden es uns später sicher leichter machen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 86,
+    "Id": "Incursion_GenericNothingChanged1",
+    "UITalkCategoriesKey": 80,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV17_A.ogg",
+    "Text": "Hmm ... diesmal war das Glück uns nicht hold, fürchte ich. Die Karte hat sich nicht verändert. Das ist nicht unbedingt schlecht, aber gut ist es sicher auch nicht. Versucht es weiter.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 87,
+    "Id": "Incursion_GenericNothingChanged2",
+    "UITalkCategoriesKey": 80,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV17_B.ogg",
+    "Text": "Nein! Diesmal hat sich nichts verändert. Versucht es weiter. Je mehr Ihr verändert, desto mehr wissen wir.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 88,
+    "Id": "Incursion_GenericNothingChanged3",
+    "UITalkCategoriesKey": 80,
+    "OGGFile": "Audio/Dialogue/NPC/Alva/AV17_C.ogg",
+    "Text": "Hmm, keine Veränderung. Hoffentlich habt Ihr das so beabsichtigt!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 89,
+    "Id": "Incursion_StrongboxRoom1",
+    "UITalkCategoriesKey": 81,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_13.ogg",
+    "Text": "Zantipi war genau meine Art von Architekt! Er war darauf fokussiert, Truhen mit Kostbarkeiten zu füllen und sie dann mit allen möglichen Fallen aufzuhübschen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 90,
+    "Id": "Incursion_StrongboxRoom2",
+    "UITalkCategoriesKey": 82,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_14.ogg",
+    "Text": "Mit dem wachsenden Einfluss von Zantipi stolpern wir sicher noch über gefährlichere - und lukrativere - Truhen.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 91,
+    "Id": "Incursion_StrongboxRoom3",
+    "UITalkCategoriesKey": 83,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_15.ogg",
+    "Text": "Ein ganzer Raum voller gefährlicher Tresore, die randvoll mit Kostbarkeiten gepackt sind. Ihr seid meine Lieblingsperson, Verbannter.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 92,
+    "Id": "Incursion_TormentRoom1",
+    "UITalkCategoriesKey": 84,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_09.ogg",
+    "Text": "Tzamoto hatte einen seltsamen Gerechtigkeitssinn. Hinrichtungen wurden nur für besonders grausame Verbrechen verhängt ... Niedere Kriminelle steckte er lieber für den Rest ihres Lebens hinter Gitter.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 93,
+    "Id": "Incursion_TormentRoom2",
+    "UITalkCategoriesKey": 85,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_10.ogg",
+    "Text": "Ich nehme an, dass Ihr Eure Gründe habt, warum Ihr Tzamotos Gefängnis wachsen sehen wollt. Ich kann beim besten Willen nicht erkennen, warum Ihr das nur wollt.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 94,
+    "Id": "Incursion_TormentRoom3",
+    "UITalkCategoriesKey": 86,
+    "OGGFile": "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_11.ogg",
+    "Text": "Tzamotos Gefängnis ist riesig und randvoll gespickt mit Kriminellen. Bekanntermaßen armen Kriminellen. Großartig. Danke dafür, Verbannter.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 95,
+    "Id": "Incursion_LegionRoom1",
+    "UITalkCategoriesKey": 87,
+    "OGGFile": "",
+    "Text": "Opiloti hat sich den Raum zu eigen gemacht? Er war ein außerordentlich gewalttätiger Kriegsfürst. Ich hoffe nur, dass Ihr wisst, was Ihr tut, meinetwegen!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 96,
+    "Id": "Incursion_LegionRoom2",
+    "UITalkCategoriesKey": 88,
+    "OGGFile": "",
+    "Text": "Die Vaal galten nach heutigem Wissenstansd als friedlich, und doch gab es immer noch Menschen, die sich an Gewalt erlabten. Ihr habt einem dieser Leute einfach genau das gegeben, wonach er lechzte.",
+    "Unk004": true,
+    "NPCTextAudio": null
+  },
+  {
+    "RowIndex": 97,
+    "Id": "Incursion_LegionRoom3",
+    "UITalkCategoriesKey": 89,
+    "OGGFile": "",
+    "Text": "Opiloti vergoss stets das Blut seiner größten Krieger. Er glaubte, dass es ihnen Unsterblichkeit gewähren würde. Ich schätze, wir werden bald herausfinden, ob er Recht behalten sollte!",
+    "Unk004": true,
+    "NPCTextAudio": null
+  }
+]

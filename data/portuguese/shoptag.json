@@ -1,0 +1,8062 @@
+[
+  {
+    "RowIndex": 0,
+    "Id": "Specials",
+    "Name": "Especiais",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 1,
+    "Id": "NewItems",
+    "Name": "Novos",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 2,
+    "Id": "StashTabs",
+    "Name": "Abas de Baú",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 3,
+    "Id": "Bundles",
+    "Name": "Pacotes",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 4,
+    "Id": "ArmourEffects",
+    "Name": "Armaduras",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 5,
+    "Id": "BackAttachments",
+    "Name": "Adornos Dorsais",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 6,
+    "Id": "WeaponEffects",
+    "Name": "Armas",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 7,
+    "Id": "Weapon",
+    "Name": "Armas",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 8,
+    "Id": "FinisherEffects",
+    "Name": "Efeitos Finalizadores",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 9,
+    "Id": "Portals",
+    "Name": "Portais",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 10,
+    "Id": "AlternateSkillEffects",
+    "Name": "Habilidades",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 11,
+    "Id": "CharacterEffects",
+    "Name": "Personagens",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 12,
+    "Id": "Character",
+    "Name": "Personagens",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 13,
+    "Id": "FootprintEffects",
+    "Name": "Pegadas",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 14,
+    "Id": "Guild",
+    "Name": "Guilda",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 15,
+    "Id": "GuildHideout",
+    "Name": "Refúgios de Guilda",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 16,
+    "Id": "Pets",
+    "Name": "Mascotes",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 17,
+    "Id": "Hideout",
+    "Name": "Refúgio",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 18,
+    "Id": "VisualEffects",
+    "Name": "Efeitos Visuais",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 19,
+    "Id": "GuildHideouts",
+    "Name": "Refúgios",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 20,
+    "Id": "GuildStashTabs",
+    "Name": "Abas de Baú",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 21,
+    "Id": "GuildHideoutSkins",
+    "Name": "Visuais Utilitários",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 22,
+    "Id": "GuildBundles",
+    "Name": "Pacotes",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 23,
+    "Id": "GuildHideoutDecorations",
+    "Name": "Decoraçõeas",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 24,
+    "Id": "Consumable",
+    "Name": "Consumível",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 25,
+    "Id": "MysteryPacks",
+    "Name": "Pacotes Misteriosos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 24,
+      "TableName": "ShopTag",
+      "Id": "Consumable"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 26,
+    "Id": "MostPopular",
+    "Name": "Mais Populares",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 27,
+    "Id": "AccountFeatures",
+    "Name": "Funcionalidades da Conta",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 28,
+    "Id": "ClassicEffects",
+    "Name": "Efeitos Clássicos",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 29,
+    "Id": "PoE2StashTabs",
+    "Name": "Abas de Baú",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 30,
+    "Id": "PoE2Armour",
+    "Name": "Armadura",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 31,
+    "Id": "PoE2Weapons",
+    "Name": "Armas",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 32,
+    "Id": "PoE2Portals",
+    "Name": "Portais",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 33,
+    "Id": "PoE2Pets",
+    "Name": "Mascotes",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 34,
+    "Id": "PoE2VisualEffects",
+    "Name": "Efeitos Visuais",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 35,
+    "Id": "PoE2Accessories",
+    "Name": "Acessórios",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 36,
+    "Id": "PoE2AccountFeatures",
+    "Name": "Recursos da Conta",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 37,
+    "Id": "PoE2Hideouts",
+    "Name": "Refúgios",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 38,
+    "Id": "PoE2Bundles",
+    "Name": "Pacotes",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 39,
+    "Id": "PoE2GuildStashTabs",
+    "Name": "Abas de Baú (Guilda)",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 40,
+    "Id": "PoE2GuildHideouts",
+    "Name": "Áreas de Refúgio",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 41,
+    "Id": "PoE2GuildUtilitySkins",
+    "Name": "Visuais Utilitários",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 42,
+    "Id": "PoE2GuildHideoutDecorations",
+    "Name": "Decorações de Refúgio",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 43,
+    "Id": "PoE2GuildFeatures",
+    "Name": "Recursos de Guilda",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 44,
+    "Id": "TencentHotAndNew",
+    "Name": "Novos",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 45,
+    "Id": "TencentAccountFunctions",
+    "Name": "Funções da Conta",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 46,
+    "Id": "TencentGuildFunctions",
+    "Name": "Funções da Guilda",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 47,
+    "Id": "TencentCosmetics",
+    "Name": "Cosméticos",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 48,
+    "Id": "TencentBackAttachments",
+    "Name": "Adornos Dorsais",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 49,
+    "Id": "TencentWeaponEffects",
+    "Name": "Efeitos de Armas",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 50,
+    "Id": "TencentSkillEffects",
+    "Name": "Efeitos de Habilidades",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 51,
+    "Id": "TencentCharacterEffects",
+    "Name": "Efeitos de Personagem",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 52,
+    "Id": "TencentFootprintsEffects",
+    "Name": "Efeitos de Pegadas",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 53,
+    "Id": "TencentPortalEffects",
+    "Name": "Efeitos de Portal",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 54,
+    "Id": "TencentPets",
+    "Name": "Mascotes",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 55,
+    "Id": "TencentHideout",
+    "Name": "Refúgio",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 56,
+    "Id": "TencentTradeableMicrotransactions",
+    "Name": "Microtransações Negociáveis",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 57,
+    "Id": "TencentSecondary",
+    "Name": "Tencent Misc",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 58,
+    "Id": "CursorMtx",
+    "Name": "Visual de Cursor",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 59,
+    "Id": "HUDMtx",
+    "Name": "Visual de HUD",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 60,
+    "Id": "JewelMtx",
+    "Name": "Visual de Joia Passiva",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 61,
+    "Id": "FlaskMtx",
+    "Name": "Visual de Frasco",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 62,
+    "Id": "BeltMtx",
+    "Name": "Visual de Cinto",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 63,
+    "Id": "AmuletMtx",
+    "Name": "Visual de Amuleto",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 64,
+    "Id": "WeaponSkin1Mtx",
+    "Name": "Visual de Arma Principal",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 65,
+    "Id": "WeaponSkin2Mtx",
+    "Name": "Visual de Arma Secundária",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 66,
+    "Id": "WeaponEffect1Mtx",
+    "Name": "Efeito de Arma Principal",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 67,
+    "Id": "WeaponEffect2Mtx",
+    "Name": "Efeito de Arma Secundária",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 68,
+    "Id": "WeaponAddedEffect1Mtx",
+    "Name": "Efeito de Arma Principal Adicional",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 69,
+    "Id": "WeaponAddedEffect2Mtx",
+    "Name": "Efeito de Arma Secundária Adicional",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 70,
+    "Id": "HelmetSkinMtx",
+    "Name": "Visual de Elmo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 71,
+    "Id": "HelmetAttachmentMtx",
+    "Name": "Adorno de Elmo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 72,
+    "Id": "ArmourSkinMtx",
+    "Name": "Visual de Armadura",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 73,
+    "Id": "ArmourAttachmentMtx",
+    "Name": "Adorno de Armadura",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 74,
+    "Id": "GlovesMtx",
+    "Name": "Luvas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 75,
+    "Id": "BootsMtx",
+    "Name": "Botas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 4,
+      "TableName": "ShopTag",
+      "Id": "ArmourEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 76,
+    "Id": "FootprintsMtx",
+    "Name": "Pegadas",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 77,
+    "Id": "ShieldSkin",
+    "Name": "Visual de Escudo",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 78,
+    "Id": "ApparitionMtx",
+    "Name": "Aparição",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 79,
+    "Id": "CharacterEffectMtx",
+    "Name": "Efeito de Personagem",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 80,
+    "Id": "PetMtx",
+    "Name": "Mascotes",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 81,
+    "Id": "SocialFrameMtx",
+    "Name": "Moldura de Retrato",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 82,
+    "Id": "PortraitMtx",
+    "Name": "Retrato",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 83,
+    "Id": "PortalMtx",
+    "Name": "Portal",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 84,
+    "Id": "RingMtx",
+    "Name": "Visual de Anel",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 85,
+    "Id": "HipAttachmentMtx",
+    "Name": "Acessório de Cintura",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 86,
+    "Id": "SlotlessMtx",
+    "Name": "[DNT]",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 87,
+    "Id": "AlternateCharges",
+    "Name": "Visual Alternativo de Cargas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 11,
+      "TableName": "ShopTag",
+      "Id": "CharacterEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 88,
+    "Id": "AncestralCallMtx",
+    "Name": "Chamado Ancestral",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 89,
+    "Id": "AncestralWarchiefMtx",
+    "Name": "Chefe Guerreiro Ancestral",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 90,
+    "Id": "AngerMtx",
+    "Name": "Cólera",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 91,
+    "Id": "ArcMtx",
+    "Name": "Arco Elétrico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 92,
+    "Id": "ArcticArmourMtx",
+    "Name": "Armadura Ártica",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 93,
+    "Id": "BallLightningMtx",
+    "Name": "Esfera Trovejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 94,
+    "Id": "BarrageMtx",
+    "Name": "Barragem",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 95,
+    "Id": "BladefallMtx",
+    "Name": "Chuva de Lâminas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 96,
+    "Id": "BladeflurryMtx",
+    "Name": "Rajada de Lâminas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 97,
+    "Id": "BladeVortexMtx",
+    "Name": "Vórtice de Lâminas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 98,
+    "Id": "BlasphemyMtx",
+    "Name": "Blasfêmia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 99,
+    "Id": "BlastRainMtx",
+    "Name": "Chuva Explosiva",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 100,
+    "Id": "BlinkArrowMtx",
+    "Name": "Flecha Ilusória",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 101,
+    "Id": "BloodRageMtx",
+    "Name": "Fúria Sangrenta",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 102,
+    "Id": "ClarityMtx",
+    "Name": "Clareza",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 103,
+    "Id": "CleaveMtx",
+    "Name": "Cutilada",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 104,
+    "Id": "ChargedDashMtx",
+    "Name": "Avanço Fantasma",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 105,
+    "Id": "ColdSnapMtx",
+    "Name": "Estalo Gélido",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 106,
+    "Id": "ContagionMtx",
+    "Name": "Contagiar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 107,
+    "Id": "ConvocationMtx",
+    "Name": "Convocação",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 108,
+    "Id": "CremationMtx",
+    "Name": "Cremação",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 109,
+    "Id": "CycloneMtx",
+    "Name": "Ciclone",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 110,
+    "Id": "DecoyTotemMtx",
+    "Name": "Totem Chamariz",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 111,
+    "Id": "DesecrateMtx",
+    "Name": "Profanar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 112,
+    "Id": "DeterminationMtx",
+    "Name": "Determinação",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 113,
+    "Id": "DevouringTotemMtx",
+    "Name": "Totem Devorador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 114,
+    "Id": "DischargeMtx",
+    "Name": "Descarregado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 115,
+    "Id": "DisciplineMtx",
+    "Name": "Disciplina",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 116,
+    "Id": "DoubleStrikeMtx",
+    "Name": "Golpe Duplo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 117,
+    "Id": "EarthquakeMtx",
+    "Name": "Terremoto",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 118,
+    "Id": "ElementalHitMtx",
+    "Name": "Acerto Elemental",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 119,
+    "Id": "EssenceDrainMtx",
+    "Name": "Drenar Essência",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 120,
+    "Id": "EtherealKnivesMtx",
+    "Name": "Facas Etéreas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 121,
+    "Id": "FireballMtx",
+    "Name": "Bola de Fogo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 122,
+    "Id": "FirestormMtx",
+    "Name": "Tormenta Flamejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 123,
+    "Id": "FlameblastMtx",
+    "Name": "Explosão Flamejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 124,
+    "Id": "FlameDashMtx",
+    "Name": "Avanço Ardente",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 125,
+    "Id": "FlameTotemMtx",
+    "Name": "Totem Flamejante Sagrado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 126,
+    "Id": "FlickerStrikeMtx",
+    "Name": "Golpe Súbito",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 127,
+    "Id": "FreezingPulseMtx",
+    "Name": "Pulso Congelante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 128,
+    "Id": "FrostBladesMtx",
+    "Name": "Lâminas Gélidas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 129,
+    "Id": "FrostBoltMtx",
+    "Name": "Disparo Congelante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 130,
+    "Id": "FrostBoltNovaMtx",
+    "Name": "Vórtice",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 131,
+    "Id": "FrostBombMtx",
+    "Name": "Bomba Congelante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 132,
+    "Id": "GlacialCascadeMtx",
+    "Name": "Cascata Glacial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 133,
+    "Id": "GraceMtx",
+    "Name": "Graça",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 134,
+    "Id": "GroundSlamMtx",
+    "Name": "Impacto Sísmico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 135,
+    "Id": "HasteMtx",
+    "Name": "Ímpeto",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 136,
+    "Id": "HatredMtx",
+    "Name": "Ódio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 137,
+    "Id": "HeraldOfAgonyMtx",
+    "Name": "Arauto da Agonia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 138,
+    "Id": "HeraldOfAshMtx",
+    "Name": "Arauto Flamejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 139,
+    "Id": "HeraldOfIceMtx",
+    "Name": "Arauto Glacial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 140,
+    "Id": "HeraldOfLightMtx",
+    "Name": "Arauto da Pureza",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 141,
+    "Id": "HeraldOfThunderMtx",
+    "Name": "Arauto Trovejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 142,
+    "Id": "HexblastMtx",
+    "Name": "Feitiço Explosivo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 143,
+    "Id": "HolyRelicMtx",
+    "Name": "Convocar Relíquia Sagrada",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 144,
+    "Id": "IceNovaMtx",
+    "Name": "Nova Glacial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 145,
+    "Id": "IceSpearMtx",
+    "Name": "Lança Gélida",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 146,
+    "Id": "IceTrapMtx",
+    "Name": "Armadilha Glacial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 147,
+    "Id": "ImmortalCallMtx",
+    "Name": "Chamado Imortal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 148,
+    "Id": "IncinerateMtx",
+    "Name": "Incinerar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 149,
+    "Id": "KineticBlastMtx",
+    "Name": "Explosão Cinética",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 150,
+    "Id": "LacerateMtx",
+    "Name": "Dilacerar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 151,
+    "Id": "LightningSpireMtx",
+    "Name": "Espiral Relampejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 152,
+    "Id": "LightningWarpMtx",
+    "Name": "Teleporte Relampejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 153,
+    "Id": "LeapSlamMtx",
+    "Name": "Salto Impactante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 154,
+    "Id": "LightningArrowMtx",
+    "Name": "Flecha Relampejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 155,
+    "Id": "MagmaOrbMtx",
+    "Name": "Bola de Magma",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 156,
+    "Id": "MirageArcherMtx",
+    "Name": "Arqueiro Ilusório",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 157,
+    "Id": "MirrorArrowMtx",
+    "Name": "Flecha Espelhada",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 158,
+    "Id": "MoltenShellMtx",
+    "Name": "Escudo Flamejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 159,
+    "Id": "MoltenStrikeMtx",
+    "Name": "Golpe Vulcânico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 160,
+    "Id": "OrbOfStormsMtx",
+    "Name": "Orbe Trovejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 161,
+    "Id": "PhaseRunMtx",
+    "Name": "Trespassar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 162,
+    "Id": "CausticArrowMtx",
+    "Name": "Flecha Cáustica",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 163,
+    "Id": "PurityMtx",
+    "Name": "Pureza",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 164,
+    "Id": "PurityofFireMtx",
+    "Name": "Preza do Fogo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 165,
+    "Id": "PurityofIceMtx",
+    "Name": "Pureza Glacial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 166,
+    "Id": "PurityofLightningMtx",
+    "Name": "Pureza Elétrica",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 167,
+    "Id": "RainOfArrowsMtx",
+    "Name": "Chuva de Flechas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 168,
+    "Id": "RaiseSpectreMtx",
+    "Name": "Evocar Espectro",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 169,
+    "Id": "RaiseZombieMtx",
+    "Name": "Evocar Zumbi",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 170,
+    "Id": "ReaveMtx",
+    "Name": "Devastar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 171,
+    "Id": "RejuvenationTotemMtx",
+    "Name": "Totem Rejuvenescedor",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 172,
+    "Id": "RighteousFireMtx",
+    "Name": "Círculo Ardente",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 173,
+    "Id": "ScorchingRayMtx",
+    "Name": "Raio Escaldante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 174,
+    "Id": "ScourgeArrowMtx",
+    "Name": "Flecha Virulenta",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 175,
+    "Id": "SearingBondMtx",
+    "Name": "Vínculo Cauterizador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 176,
+    "Id": "ShieldChargeMtx",
+    "Name": "Investida com Escudo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 177,
+    "Id": "ShockNovaMtx",
+    "Name": "Nova Elétrica",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 178,
+    "Id": "ShockwaveTotemMtx",
+    "Name": "Totem Sísmico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 179,
+    "Id": "SiegeBallistaMtx",
+    "Name": "Balista de Cerco",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 180,
+    "Id": "SparkMtx",
+    "Name": "Faísca",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 181,
+    "Id": "SpectralShieldThrowMtx",
+    "Name": "Arremesso de Escudo Espectral",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 182,
+    "Id": "SplitArrowMtx",
+    "Name": "Flecha Dividida",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 183,
+    "Id": "StormCallMtx",
+    "Name": "Invocar Tormenta",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 184,
+    "Id": "SummonChaosGolemMtx",
+    "Name": "Convocar Golem Caótico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 185,
+    "Id": "SummonFlameGolemMtx",
+    "Name": "Convocar Golem Flamejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 186,
+    "Id": "SummonIceGolemMtx",
+    "Name": "Convocar Golem Glacial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 187,
+    "Id": "SummonLightningGolemMtx",
+    "Name": "Convocar Golem Relampejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 188,
+    "Id": "SummonRagingSpiritMtx",
+    "Name": "Convocar Espírito Furioso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 189,
+    "Id": "SummonStoneGolemMtx",
+    "Name": "Convocar Golem Pedregulho",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 190,
+    "Id": "SummonSkeletonsMtx",
+    "Name": "Convocar Esqueletos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 191,
+    "Id": "SunderMtx",
+    "Name": "Ruptura",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 192,
+    "Id": "TempestShieldMtx",
+    "Name": "Escudo Tempestuoso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 193,
+    "Id": "ThrownWeaponMtx",
+    "Name": "Arremesso Espectral",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 194,
+    "Id": "TornadoShotMtx",
+    "Name": "Tiro Tornado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 195,
+    "Id": "ToxicRainMtx",
+    "Name": "Chuva Tóxica",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 196,
+    "Id": "VaalAncestralWarchiefMtx",
+    "Name": "Chefe Guerreiro Ancestral Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 197,
+    "Id": "VaalAnimateWeaponMtx",
+    "Name": "Animar Arma Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 198,
+    "Id": "VaalArcMtx",
+    "Name": "Arco Elétrico Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 199,
+    "Id": "VaalArcticArmourMtx",
+    "Name": "Armadura Ártica Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 200,
+    "Id": "VaalBladeVortexMtx",
+    "Name": "Vórtice de Lâminas Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 201,
+    "Id": "VaalClarityMtx",
+    "Name": "Clareza Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 202,
+    "Id": "VaalColdSnapMtx",
+    "Name": "Estalo Gélido Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 203,
+    "Id": "VaalCycloneMtx",
+    "Name": "Ciclone Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 204,
+    "Id": "VaalDisciplineMtx",
+    "Name": "Disciplina Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 205,
+    "Id": "VaalDominationMtx",
+    "Name": "Dominação Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 206,
+    "Id": "VaalDoubleStrikeMtx",
+    "Name": "Golpe Duplo Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 207,
+    "Id": "VaalEarthquakeMtx",
+    "Name": "Terremoto Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 208,
+    "Id": "VaalFireballMtx",
+    "Name": "Bola de Fogo Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 209,
+    "Id": "VaalFirestormMtx",
+    "Name": "Tormenta Flamejante Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 210,
+    "Id": "VaalFlameblastMtx",
+    "Name": "Explosão Flamejante Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 211,
+    "Id": "VaalGraceMtx",
+    "Name": "Graça Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 212,
+    "Id": "VaalGroundSlamMtx",
+    "Name": "Impacto Sísmico Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 213,
+    "Id": "VaalHasteMtx",
+    "Name": "Ímpeto Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 214,
+    "Id": "VaalIceNovaMtx",
+    "Name": "Nova Glacial Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 215,
+    "Id": "VaalIceShotMtx",
+    "Name": "Tiro Gélido Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 216,
+    "Id": "VaalImmortalCall",
+    "Name": "Chamado Imortal Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 217,
+    "Id": "VaalLightningArrowMtx",
+    "Name": "Flecha Relampejante Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 218,
+    "Id": "VaalLightningWarpMtx",
+    "Name": "Teleporte Relampejante Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 219,
+    "Id": "VaalMoltenShellMtx",
+    "Name": "Escudo Flamejante Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 220,
+    "Id": "VaalMoltenStrikeMtx",
+    "Name": "Golpe Vulcânico Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 221,
+    "Id": "VaalPurityOfFireMtx",
+    "Name": "Impreza Ardente Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 222,
+    "Id": "VaalPurityOfIceMtx",
+    "Name": "Impureza Glacial Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 223,
+    "Id": "VaalPurityOfLightningMtx",
+    "Name": "Impureza Elétrica Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 224,
+    "Id": "VaalRainOfArrowsMtx",
+    "Name": "Chuva de Flechas Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 225,
+    "Id": "VaalReapMtx",
+    "Name": "Ceifar Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 226,
+    "Id": "VaalReaveMtx",
+    "Name": "Devastação Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 227,
+    "Id": "VaalRejuvenationTotemMtx",
+    "Name": "Totem Rejuvenescedor Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 228,
+    "Id": "VaalRighteousFireMtx",
+    "Name": "Círculo Ardente Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 229,
+    "Id": "VaalSmiteMtx",
+    "Name": "Castigar Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 230,
+    "Id": "VaalSparkMtx",
+    "Name": "Faísca Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 231,
+    "Id": "VaalStormCallMtx",
+    "Name": "Invocar Tormenta Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 232,
+    "Id": "VaalSummonSkeletonsMtx",
+    "Name": "Convocar Esqueletos Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 233,
+    "Id": "VaalThrownWeaponMtx",
+    "Name": "Arremesso Espectral Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 234,
+    "Id": "VaalPowerSiphonMtx",
+    "Name": "Sifão de Poder Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 235,
+    "Id": "VaalFlickerStrikeMtx",
+    "Name": "Golpe Súbito Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 236,
+    "Id": "VaalVenomGyreMtx",
+    "Name": "Espiral Venenosa Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 237,
+    "Id": "VaalBladeFlurryMtx",
+    "Name": "Rajada de Lâminas Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 238,
+    "Id": "VaalCleaveMtx",
+    "Name": "Cutilada Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 239,
+    "Id": "VaalCausticArrowMtx",
+    "Name": "Flecha Cáustica Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 240,
+    "Id": "VitalityMtx",
+    "Name": "Vitalidade",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 241,
+    "Id": "VolatileDeadMtx",
+    "Name": "Morto Volátil",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 242,
+    "Id": "WhirlingBladesMtx",
+    "Name": "Lâminas Giratórias",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 243,
+    "Id": "WitherMtx",
+    "Name": "Definhar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 244,
+    "Id": "WrathMtx",
+    "Name": "Ira",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 245,
+    "Id": "RangedAttackTotemMtx",
+    "Name": "Totem de Ataque à Distância",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 246,
+    "Id": "SpellTotemMtx",
+    "Name": "Totem de Magia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 247,
+    "Id": "WarBannerMtx",
+    "Name": "Estandarte de Guerra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 248,
+    "Id": "DreadBannerMtx",
+    "Name": "Estandarte Horrendo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 249,
+    "Id": "ZealotryMtx",
+    "Name": "Fanatismo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 250,
+    "Id": "MalevolenceMtx",
+    "Name": "Malevolência",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 251,
+    "Id": "SoulrendMtx",
+    "Name": "Rasgalma",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 252,
+    "Id": "DivineIreMtx",
+    "Name": "Ira Divina",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 253,
+    "Id": "WinterOrbMtx",
+    "Name": "Orbe Invernal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 254,
+    "Id": "BaneMtx",
+    "Name": "Banir",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 255,
+    "Id": "IceDashMtx",
+    "Name": "Avanço Gélido",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 256,
+    "Id": "QuickDodgeMtx",
+    "Name": "Avanço",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 257,
+    "Id": "PrecisionMtx",
+    "Name": "Precisão",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 258,
+    "Id": "PrideMtx",
+    "Name": "Orgulho",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 259,
+    "Id": "LightningTrapMtx",
+    "Name": "Armadilha Relampejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 260,
+    "Id": "VaalLightningTrapMtx",
+    "Name": "Armadilha Relampejante Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 261,
+    "Id": "BladestormMtx",
+    "Name": "Tempestade de Lâminas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 262,
+    "Id": "BloodAndSandMtx",
+    "Name": "Sangue e Areia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 263,
+    "Id": "FleshAndStoneMtx",
+    "Name": "Carne e Pedra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 264,
+    "Id": "StormBrandMtx",
+    "Name": "Runa Tempestuosa",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 265,
+    "Id": "BlightMtx",
+    "Name": "Infestação",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 266,
+    "Id": "VaalBlightMtx",
+    "Name": "Infestação Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 267,
+    "Id": "PyroclastMineMtx",
+    "Name": "Mina Piroclástica",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 268,
+    "Id": "HailstormMineMtx",
+    "Name": "Mina de Sincelo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 269,
+    "Id": "StormblastMineMtx",
+    "Name": "Mina de Tempestade Explosiva",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 270,
+    "Id": "BlastChainMineMtx",
+    "Name": "Mina Remota",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 271,
+    "Id": "HighImpactMineMtx",
+    "Name": "Mina Remota",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 272,
+    "Id": "LocusMineMtx",
+    "Name": "Mina Remota",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 273,
+    "Id": "SummonSkitterbotsMtx",
+    "Name": "Convocar Robôs Rastejantes",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 274,
+    "Id": "ArtilleryBallistaMtx",
+    "Name": "Balista de Artilharia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 275,
+    "Id": "ShrapnelBallistaMtx",
+    "Name": "Balista Estilhaçante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 276,
+    "Id": "ExplosiveArrowMtx",
+    "Name": "Flecha Explosiva",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 277,
+    "Id": "BlasphemyPlusMtx",
+    "Name": "Blasfêmia Desperta",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 278,
+    "Id": "SummonCarrionGolemMtx",
+    "Name": "Convocar Golem da Carniça",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 279,
+    "Id": "BladeBlastMtx",
+    "Name": "Explosão de Lâminas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 280,
+    "Id": "AnimateWeaponMtx",
+    "Name": "Animar Arma",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 281,
+    "Id": "KineticBoltMtx",
+    "Name": "Tiro Cinético",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 282,
+    "Id": "PowerSiphonMtx",
+    "Name": "Sifão de Poder",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 283,
+    "Id": "StormbindMtx",
+    "Name": "Vínculo Tempestuoso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 284,
+    "Id": "DominatingBlowMtx",
+    "Name": "Golpe Dominador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 285,
+    "Id": "EnduringCryMtx",
+    "Name": "Clamor Fortalecedor",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 286,
+    "Id": "RallyingCryMtx",
+    "Name": "Clamor Agrupador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 287,
+    "Id": "AbyssalCryMtx",
+    "Name": "Clamor Abissal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 288,
+    "Id": "IntimidatingCryMtx",
+    "Name": "Clamor Intimidador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 289,
+    "Id": "GeneralsCryMtx",
+    "Name": "Clamor do General",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 290,
+    "Id": "AncestralCryMtx",
+    "Name": "Clamor Ancestral",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 291,
+    "Id": "SeismicCryMtx",
+    "Name": "Clamor Sísmico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 292,
+    "Id": "TectonicSlamMtx",
+    "Name": "Impacto Tectônico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 293,
+    "Id": "FistOfWarMtx",
+    "Name": "Punho da Guerra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 294,
+    "Id": "IceCrashMtx",
+    "Name": "Pancada Glacial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 295,
+    "Id": "LancingSteelMtx",
+    "Name": "Aço Perfurante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 296,
+    "Id": "ShatteringSteelMtx",
+    "Name": "Aço Estraçalhador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 297,
+    "Id": "DetonateDeadMtx",
+    "Name": "Detonar Morto",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 298,
+    "Id": "VaalDetonateDeadMtx",
+    "Name": "Detonar Morto Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 299,
+    "Id": "VoidSphereMtx",
+    "Name": "Esfera do Vácuo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 300,
+    "Id": "SmiteMtx",
+    "Name": "Castigo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 301,
+    "Id": "EarthshatterMtx",
+    "Name": "Destroçador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 302,
+    "Id": "ConsecratedPathMtx",
+    "Name": "Caminho Sagrado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 303,
+    "Id": "CracklingLanceMtx",
+    "Name": "Lâmina Crepitante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 304,
+    "Id": "BodyswapMtx",
+    "Name": "Troca de Corpos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 305,
+    "Id": "FlameWallMtx",
+    "Name": "Parede Flamejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 306,
+    "Id": "EnsnaringArrowMtx",
+    "Name": "Flecha Aprisionadora",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 307,
+    "Id": "SigilOfPowerMtx",
+    "Name": "Emblema do Poder",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 308,
+    "Id": "SteelskinMtx",
+    "Name": "Pele de Aço",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 309,
+    "Id": "PunctureMtx",
+    "Name": "Punctura",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 310,
+    "Id": "WaveOfConvictionMtx",
+    "Name": "Onda de Convicção",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 311,
+    "Id": "BoneOfferingMtx",
+    "Name": "Oferenda de Ossos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 312,
+    "Id": "SpiritOfferingMtx",
+    "Name": "Oferenda de Espírito",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 313,
+    "Id": "FleshOfferingMtx",
+    "Name": "Oferenda de Carne",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 314,
+    "Id": "FrenzyMtx",
+    "Name": "Frenesi",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 315,
+    "Id": "WitheringStepMtx",
+    "Name": "Passo Definhante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 316,
+    "Id": "IceShotMtx",
+    "Name": "Tiro Gélido",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 317,
+    "Id": "DefianceBannerMtx",
+    "Name": "Estandarte Desafiador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 318,
+    "Id": "PenanceBrandMtx",
+    "Name": "Runa da Penitência",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 319,
+    "Id": "ArcanistBrandMtx",
+    "Name": "Runa do Arcanista",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 320,
+    "Id": "WintertideBrandMtx",
+    "Name": "Runa da Maré Invernal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 321,
+    "Id": "ArmageddonBrandMtx",
+    "Name": "Runa do Armagedom",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 322,
+    "Id": "SmokeMineMtx",
+    "Name": "Mina de Fumaça",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 323,
+    "Id": "ArcaneCloakMtx",
+    "Name": "Manto Arcano",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 324,
+    "Id": "PlagueBearerMtx",
+    "Name": "Infestador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 325,
+    "Id": "ChainHookMtx",
+    "Name": "Corrente com Gancho",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 326,
+    "Id": "BloodOfferingMtx",
+    "Name": "Oferenda de Sangue",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 327,
+    "Id": "EarthbreakerMtx",
+    "Name": "Devastador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 328,
+    "Id": "BurningArrowMtx",
+    "Name": "Flecha Ardente",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 329,
+    "Id": "VaalBurningArrowMtx",
+    "Name": "Flecha Ardente Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 330,
+    "Id": "ExsanguinateMtx",
+    "Name": "Ensanguentar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 331,
+    "Id": "HydrosphereMtx",
+    "Name": "Hidrosfera",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 332,
+    "Id": "LightningStrikeMtx",
+    "Name": "Golpe Relampejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 333,
+    "Id": "VaalLightningStrikeMtx",
+    "Name": "Golpe Relampejante Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 334,
+    "Id": "InfernalBlowMtx",
+    "Name": "Golpe Infernal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 335,
+    "Id": "SweepMtx",
+    "Name": "Arrastão",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 336,
+    "Id": "VaalSweepMtx",
+    "Name": "Arrastão Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 337,
+    "Id": "DualStrikeMtx",
+    "Name": "Golpe Duplo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 338,
+    "Id": "EyeOfWinterMtx",
+    "Name": "Olho Invernal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 339,
+    "Id": "SpectralHelixMtx",
+    "Name": "Hélice Espectral",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 340,
+    "Id": "EnergyBladeMtx",
+    "Name": "Lâmina de Energia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 341,
+    "Id": "TornadoMtx",
+    "Name": "Tornado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 342,
+    "Id": "ForbiddenRiteMtx",
+    "Name": "Ritual Proibido",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 343,
+    "Id": "ShockwaveSupportMtx",
+    "Name": "Onda de Choque",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 344,
+    "Id": "CastWhenDamageTakenMtx",
+    "Name": "Conjurar ao Sofrer Dano",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 345,
+    "Id": "PoisonousConcoctionMtx",
+    "Name": "Composto Venenoso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 346,
+    "Id": "CorruptingFeverMtx",
+    "Name": "Febre Corrompedora",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 347,
+    "Id": "SeismicTrapMtx",
+    "Name": "Armadilha Sísmica",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 348,
+    "Id": "FireTrapMtx",
+    "Name": "Armadilha Flamejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 349,
+    "Id": "BoneshatterMtx",
+    "Name": "Destroçador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 350,
+    "Id": "EnvyMtx",
+    "Name": "Inveja",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 351,
+    "Id": "DeathAuraMtx",
+    "Name": "Aura da Morte",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 352,
+    "Id": "GluttonyOfElementsMtx",
+    "Name": "Gula dos Elementos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 353,
+    "Id": "BlindingAuraMtx",
+    "Name": "Aura Cegante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 354,
+    "Id": "GalvanicFieldMtx",
+    "Name": "Campo Galvânico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 355,
+    "Id": "AlchemistsMarkMtx",
+    "Name": "Marca do Alquimista",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 356,
+    "Id": "LightningConduitMtx",
+    "Name": "Condutor de Eletricidade",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 357,
+    "Id": "LightningTendrilsMtx",
+    "Name": "Tentáculos Relampejantes",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 358,
+    "Id": "CobraLashMtx",
+    "Name": "Chicote de Cobra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 359,
+    "Id": "VenomGyreMtx",
+    "Name": "Espiral Venenosa",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 360,
+    "Id": "VolleyMtx",
+    "Name": "Rajada",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 361,
+    "Id": "GreaterVolleyMtx",
+    "Name": "Grande Rajada",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 362,
+    "Id": "ReapMtx",
+    "Name": "Ceifar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 363,
+    "Id": "RageVortexMtx",
+    "Name": "Vórtice Furioso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 364,
+    "Id": "CreepingFrostMtx",
+    "Name": "Geada Rastejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 365,
+    "Id": "ImpendingDoomMtx",
+    "Name": "Destruição Iminente",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 366,
+    "Id": "PoachersMarkMtx",
+    "Name": "Marca do Larápio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 367,
+    "Id": "AssassinsMarkMtx",
+    "Name": "Marca do Assassino",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 368,
+    "Id": "SnipersMarkMtx",
+    "Name": "Marca do Atirador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 369,
+    "Id": "WarlordsMarkMtx",
+    "Name": "Marca do Comandante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 10,
+      "TableName": "ShopTag",
+      "Id": "AlternateSkillEffects"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 370,
+    "Id": "Theme",
+    "Name": "Tema",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 371,
+    "Id": "InfernalTheme",
+    "Name": "Infernal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 372,
+    "Id": "NecroticTheme",
+    "Name": "Necrótico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 373,
+    "Id": "BreachTheme",
+    "Name": "Breach",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 374,
+    "Id": "LegacyTheme",
+    "Name": "Legado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 375,
+    "Id": "GoreTheme",
+    "Name": "Sanguinolento",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 376,
+    "Id": "GhostflameTheme",
+    "Name": "Fantasmagórico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 377,
+    "Id": "GloomTheme",
+    "Name": "Sombrio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 378,
+    "Id": "DragonTheme",
+    "Name": "Dracônico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 379,
+    "Id": "DemonicTheme",
+    "Name": "Demoníaco",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 380,
+    "Id": "DeicideTheme",
+    "Name": "Deicide",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 381,
+    "Id": "ArcticTheme",
+    "Name": "Ártico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 382,
+    "Id": "ArcaneTheme",
+    "Name": "Arcano",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 383,
+    "Id": "SteampunkTheme",
+    "Name": "A Vapor",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 384,
+    "Id": "VampiricTheme",
+    "Name": "Vampírico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 385,
+    "Id": "VerdantTheme",
+    "Name": "Verdejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 386,
+    "Id": "SeraphTheme",
+    "Name": "Serafim",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 387,
+    "Id": "ProphecyTheme",
+    "Name": "Prophecy",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 388,
+    "Id": "ConsumableTheme",
+    "Name": "Consumível",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 389,
+    "Id": "EbonyTheme",
+    "Name": "Ébano",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 390,
+    "Id": "RadiantTheme",
+    "Name": "Radiante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 391,
+    "Id": "LightningTheme",
+    "Name": "Relampejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 392,
+    "Id": "AcidTheme",
+    "Name": "Ácido",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 393,
+    "Id": "CrimsonTheme",
+    "Name": "Carmesím",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 394,
+    "Id": "CelestialTheme",
+    "Name": "Celestial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 395,
+    "Id": "GoldenTheme",
+    "Name": "Dourado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 396,
+    "Id": "PurpleTheme",
+    "Name": "Púrpura",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 397,
+    "Id": "EmeraldTheme",
+    "Name": "Esmeralda",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 398,
+    "Id": "DanceTheme",
+    "Name": "Dança",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 399,
+    "Id": "AnimalTheme",
+    "Name": "Animal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 400,
+    "Id": "TribalTheme",
+    "Name": "Tribal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 401,
+    "Id": "ChallengeRewardsTheme",
+    "Name": "Recompensas de Desafios",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 402,
+    "Id": "ClosedBetaSupporterPacksTheme",
+    "Name": "Pacotes de Apoiador do Beta Fechado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 403,
+    "Id": "OpenBetaSupporterPacksTheme",
+    "Name": "Pacotes de Apoiador do Beta Aberto",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 404,
+    "Id": "ReleaseSupporterPacksTheme",
+    "Name": "Pacotes de Apoiador de Lançamento",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 405,
+    "Id": "ForsakenMastersTheme",
+    "Name": "Mestres Esquecidos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 406,
+    "Id": "AwakeningTheme",
+    "Name": "Awakening",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 407,
+    "Id": "AscendancyTheme",
+    "Name": "Ascendancy",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 408,
+    "Id": "AtlasTheme",
+    "Name": "Atlas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 409,
+    "Id": "FallofOriathTheme",
+    "Name": "Queda de Oriath",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 410,
+    "Id": "MiscellaneousTheme",
+    "Name": "Genéricos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 411,
+    "Id": "UltimateChaosTheme",
+    "Name": "Caos Supremo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 412,
+    "Id": "PureLightTheme",
+    "Name": "Luz Pura",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 413,
+    "Id": "HarbingerTheme",
+    "Name": "Harbinger",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 414,
+    "Id": "PitchBlackTheme",
+    "Name": "Escuridão",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 415,
+    "Id": "WastelandWarriorTheme",
+    "Name": "Guerreiro do Deserto",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 416,
+    "Id": "DesertTheme",
+    "Name": "Deserto",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 417,
+    "Id": "ExecutionerTheme",
+    "Name": "Executor",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 418,
+    "Id": "FireTheme",
+    "Name": "Fogo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 419,
+    "Id": "IceTheme",
+    "Name": "Gelo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 420,
+    "Id": "PolarTheme",
+    "Name": "Polarizado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 421,
+    "Id": "LichTheme",
+    "Name": "Lich",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 422,
+    "Id": "FireAndIceTheme",
+    "Name": "Fogo e Gelo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 423,
+    "Id": "AbyssTheme",
+    "Name": "Abyss",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 424,
+    "Id": "HalloweenTheme",
+    "Name": "Halloween",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 425,
+    "Id": "CultistTheme",
+    "Name": "Cultista",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 426,
+    "Id": "WarlockTheme",
+    "Name": "Mago",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 427,
+    "Id": "PirateTheme",
+    "Name": "Pirata",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 428,
+    "Id": "AtlasWarTheme",
+    "Name": "Guerra pelo Atlas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 429,
+    "Id": "NatureTheme",
+    "Name": "Natureza",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 430,
+    "Id": "GothicTheme",
+    "Name": "Gótico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 431,
+    "Id": "SinAndInnocenceTheme",
+    "Name": "Pecado e Inocência",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 432,
+    "Id": "BestiaryTheme",
+    "Name": "Bestiário",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 433,
+    "Id": "StygianTheme",
+    "Name": "Estígio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 434,
+    "Id": "ManticoreTheme",
+    "Name": "Mantícora",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 435,
+    "Id": "SeawitchTheme",
+    "Name": "Bruxa do Mar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 436,
+    "Id": "PhantasmalTheme",
+    "Name": "Fantasmal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 437,
+    "Id": "FallenAngelTheme",
+    "Name": "Anjo caído",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 438,
+    "Id": "MalachaiTheme",
+    "Name": "Malachai",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 439,
+    "Id": "CrystalTheme",
+    "Name": "Cristal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 440,
+    "Id": "IncursionTheme",
+    "Name": "Incursion",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 441,
+    "Id": "CarnageTheme",
+    "Name": "Carnificina",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 442,
+    "Id": "ApocalypseTheme",
+    "Name": "Apocalipse",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 443,
+    "Id": "IvoryChaosTheme",
+    "Name": "Caos de Marfim",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 444,
+    "Id": "MadmanTheme",
+    "Name": "Insano",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 445,
+    "Id": "GryffonTheme",
+    "Name": "Grifo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 446,
+    "Id": "GorgonTheme",
+    "Name": "Medusa",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 447,
+    "Id": "BloodGuardTheme",
+    "Name": "Guardião Sangrento",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 448,
+    "Id": "FaithGuardTheme",
+    "Name": "Guardião da Fé",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 449,
+    "Id": "SphinxTheme",
+    "Name": "Esfinge",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 450,
+    "Id": "DelveTheme",
+    "Name": "Delve",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 451,
+    "Id": "OriathTheme",
+    "Name": "Oriath",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 452,
+    "Id": "PyreTheme",
+    "Name": "Pira",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 453,
+    "Id": "ColiseumTheme",
+    "Name": "Coliseu",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 454,
+    "Id": "NightLotusTheme",
+    "Name": "Lotus Noturna",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 455,
+    "Id": "HarpyonTheme",
+    "Name": "Harpia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 456,
+    "Id": "ElderTheme",
+    "Name": "Ancião",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 457,
+    "Id": "BetrayalTheme",
+    "Name": "Betrayal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 458,
+    "Id": "FairgravesTheme",
+    "Name": "Fairgraves",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 459,
+    "Id": "UtilityTheme",
+    "Name": "Utilitário",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 460,
+    "Id": "CoastalTheme",
+    "Name": "Costal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 461,
+    "Id": "EncampmentTheme",
+    "Name": "Acampamento",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 462,
+    "Id": "ForestTheme",
+    "Name": "Floresta",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 463,
+    "Id": "RuinsTheme",
+    "Name": "Ruínas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 464,
+    "Id": "VaalTheme",
+    "Name": "Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 465,
+    "Id": "DungeonTheme",
+    "Name": "Masmorra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 466,
+    "Id": "SarnTheme",
+    "Name": "Sarn",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 467,
+    "Id": "GardensTheme",
+    "Name": "Jardins",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 468,
+    "Id": "OrnateTheme",
+    "Name": "Ornamentado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 469,
+    "Id": "SceptreTheme",
+    "Name": "Cetro",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 470,
+    "Id": "CryptTheme",
+    "Name": "Cripta",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 471,
+    "Id": "EffectsTheme",
+    "Name": "Efeitos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 472,
+    "Id": "CaveTheme",
+    "Name": "Caverna",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 473,
+    "Id": "BeastTheme",
+    "Name": "Bestas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 474,
+    "Id": "KaruiTheme",
+    "Name": "Karui",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 475,
+    "Id": "LabyrinthTheme",
+    "Name": "Labirinto",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 476,
+    "Id": "HighgateTheme",
+    "Name": "Highgate",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 477,
+    "Id": "OssuaryTheme",
+    "Name": "Ossuário",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 478,
+    "Id": "ReliquaryTheme",
+    "Name": "Relicário",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 479,
+    "Id": "EzomyteTheme",
+    "Name": "Ezomita",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 480,
+    "Id": "VanguardTheme",
+    "Name": "Vanguarda",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 481,
+    "Id": "PitfighterTheme",
+    "Name": "Lutador do Fosso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 482,
+    "Id": "CrucibleTheme",
+    "Name": "Crisol",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 483,
+    "Id": "LibraryTheme",
+    "Name": "Biblioteca",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 484,
+    "Id": "SlavePensTheme",
+    "Name": "Senzalas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 485,
+    "Id": "InnocenceTheme",
+    "Name": "Innocence",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 486,
+    "Id": "AssassinTheme",
+    "Name": "Assassino",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 487,
+    "Id": "EmpyreanTheme",
+    "Name": "Empírico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 488,
+    "Id": "BlackguardTheme",
+    "Name": "Guarda Negra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 489,
+    "Id": "ChamberOfSinsTheme",
+    "Name": "Câmara dos Pecados",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 490,
+    "Id": "TempleTheme",
+    "Name": "Templo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 491,
+    "Id": "ExcavationTheme",
+    "Name": "Escavação",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 492,
+    "Id": "BonesTheme",
+    "Name": "Ossos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 493,
+    "Id": "ChurchTheme",
+    "Name": "Igreja",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 494,
+    "Id": "CourthouseTheme",
+    "Name": "Corte",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 495,
+    "Id": "ExilesTheme",
+    "Name": "Exilados",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 496,
+    "Id": "SynthesisTheme",
+    "Name": "Synthesis",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 497,
+    "Id": "PrimevalTheme",
+    "Name": "Primitivo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 498,
+    "Id": "GlimmerwoodTheme",
+    "Name": "Madeira Cintilante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 499,
+    "Id": "MarakethTheme",
+    "Name": "Maraketh",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 500,
+    "Id": "ViperTheme",
+    "Name": "Víbora",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 501,
+    "Id": "DarkprismTheme",
+    "Name": "Prisma Sombrio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 502,
+    "Id": "SunprismTheme",
+    "Name": "Prisma Solar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 503,
+    "Id": "GargoyleTheme",
+    "Name": "Gárgula",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 504,
+    "Id": "MageguardTheme",
+    "Name": "Mago Guardião",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 505,
+    "Id": "ExtinctionTheme",
+    "Name": "Extinção",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 506,
+    "Id": "LegionTheme",
+    "Name": "Legion",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 507,
+    "Id": "PlatedTheme",
+    "Name": "Blindado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 508,
+    "Id": "FrontierTheme",
+    "Name": "Fronteira",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 509,
+    "Id": "IllusionistTheme",
+    "Name": "Ilusionista",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 510,
+    "Id": "ElementalTheme",
+    "Name": "Elemental",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 511,
+    "Id": "ZenithTheme",
+    "Name": "Zenith",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 512,
+    "Id": "MiracleTheme",
+    "Name": "Milagroso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 513,
+    "Id": "CardinalTheme",
+    "Name": "Cardial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 514,
+    "Id": "VaalViperTheme",
+    "Name": "Víbor Vaal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 515,
+    "Id": "VoidEmperorTheme",
+    "Name": "Imperador do Vazio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 516,
+    "Id": "CarnivalTheme",
+    "Name": "Carnaval",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 517,
+    "Id": "ChiyouTheme",
+    "Name": "Chiyou",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 518,
+    "Id": "BlightTheme",
+    "Name": "Blight",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 519,
+    "Id": "HavenwoodTheme",
+    "Name": "Outonal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 520,
+    "Id": "PolarisTheme",
+    "Name": "Polaris",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 521,
+    "Id": "BasiliskTheme",
+    "Name": "Basilísco",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 522,
+    "Id": "CrusaderTheme",
+    "Name": "Cruzado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 523,
+    "Id": "EyrieTheme",
+    "Name": "Eyrie",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 524,
+    "Id": "JudicatorTheme",
+    "Name": "Judicador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 525,
+    "Id": "OrionTheme",
+    "Name": "Orion",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 526,
+    "Id": "MetamorphTheme",
+    "Name": "Metamorph",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 527,
+    "Id": "ExileConTheme",
+    "Name": "ExileCon",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 528,
+    "Id": "RevenantTheme",
+    "Name": "Fantasma",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 529,
+    "Id": "ColdsnapTheme",
+    "Name": "Estalo Gélido",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 530,
+    "Id": "MaliceTheme",
+    "Name": "Malícia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 531,
+    "Id": "ThaumaturgyTheme",
+    "Name": "Taumaturgia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 532,
+    "Id": "BalefireTheme",
+    "Name": "Cremação",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 533,
+    "Id": "DeliriumTheme",
+    "Name": "Delirium",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 534,
+    "Id": "HeartseekerTheme",
+    "Name": "Caçador de Corações",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 535,
+    "Id": "DarkMagicTheme",
+    "Name": "Magia Negra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 536,
+    "Id": "JinliTheme",
+    "Name": "Jinli",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 537,
+    "Id": "ImaginationTheme",
+    "Name": "Imaginação",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 538,
+    "Id": "HighPriestTheme",
+    "Name": "Alto Sacerdote",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 539,
+    "Id": "GoddessTheme",
+    "Name": "Deusa",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 540,
+    "Id": "SawbladeTheme",
+    "Name": "Serra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 541,
+    "Id": "DreadspireTheme",
+    "Name": "Espiral Horrenda",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 542,
+    "Id": "AngelsAndDemonsTheme",
+    "Name": "Anjos e Demônios",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 543,
+    "Id": "NightwatchTheme",
+    "Name": "Patrulha da Noite",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 544,
+    "Id": "HarvestTheme",
+    "Name": "Harvest",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 545,
+    "Id": "HeistTheme",
+    "Name": "Heist",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 546,
+    "Id": "TwilightTheme",
+    "Name": "Crepúsculo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 547,
+    "Id": "EthercraftTheme",
+    "Name": "Éter",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 548,
+    "Id": "DarkwoodTheme",
+    "Name": "Madeira Sombria",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 549,
+    "Id": "JudgementTheme",
+    "Name": "Julgamento",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 550,
+    "Id": "RaptureTheme",
+    "Name": "Êxtase",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 551,
+    "Id": "ValkyrieTheme",
+    "Name": "Valquíria",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 552,
+    "Id": "WarlordTheme",
+    "Name": "Senhor da Guerra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 553,
+    "Id": "RitualTheme",
+    "Name": "Ritual",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 554,
+    "Id": "GlimmerspriteTheme",
+    "Name": "Fada Cintilante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 555,
+    "Id": "Core2021Theme",
+    "Name": "Principal 2021",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 556,
+    "Id": "AtlasCore2021Theme",
+    "Name": "Ecos do Atlas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 557,
+    "Id": "MavenTheme",
+    "Name": "Maven",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 558,
+    "Id": "OblivionTheme",
+    "Name": "Esquecimento",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 559,
+    "Id": "BrimstoneTheme",
+    "Name": "Enxofre",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 560,
+    "Id": "FrostVikingTheme",
+    "Name": "Viking Gélido",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 561,
+    "Id": "UltimatumTheme",
+    "Name": "Ultimatum",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 562,
+    "Id": "ApollyonTheme",
+    "Name": "Apollyon",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 563,
+    "Id": "MerchantTheme",
+    "Name": "Mercador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 564,
+    "Id": "MidnightPactTheme",
+    "Name": "Pacto da Meia-Noite",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 565,
+    "Id": "JingweiTheme",
+    "Name": "Jingwei",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 566,
+    "Id": "SlitherTheme",
+    "Name": "Rastejante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 567,
+    "Id": "ExpeditionTheme",
+    "Name": "Expedition",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 568,
+    "Id": "MyrmidonTheme",
+    "Name": "Mirmidão",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 569,
+    "Id": "BanebrandTheme",
+    "Name": "Runa do Banimento",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 570,
+    "Id": "StarfallTheme",
+    "Name": "Queda Estelar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 571,
+    "Id": "NecrolordTheme",
+    "Name": "Necrolorde",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 572,
+    "Id": "DirebladeTheme",
+    "Name": "Lâmina Destemida",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 573,
+    "Id": "CursedTheme",
+    "Name": "Amaldiçoado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 574,
+    "Id": "AtlantisTheme",
+    "Name": "Atlantis",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 575,
+    "Id": "ScourgeTheme",
+    "Name": "Scourge",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 576,
+    "Id": "ScourgelordTheme",
+    "Name": "Lorde Scourge",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 577,
+    "Id": "OnyxTheme",
+    "Name": "Onix",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 578,
+    "Id": "AstralTheme",
+    "Name": "Astral",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 579,
+    "Id": "Core2022Theme",
+    "Name": "Principal 2022",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 580,
+    "Id": "WinterDragonTheme",
+    "Name": "Dragão Invernal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 581,
+    "Id": "HarmonyTheme",
+    "Name": "Harmonia",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 582,
+    "Id": "GodOfThunderTheme",
+    "Name": "Deus do Trovão",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 583,
+    "Id": "Archnemesis",
+    "Name": "Archnemesis",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 584,
+    "Id": "AuspiciousTheme",
+    "Name": "Auspicioso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 585,
+    "Id": "HarmoniousTheme",
+    "Name": "Harmonioso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 586,
+    "Id": "VulcanTheme",
+    "Name": "Vulcânico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 587,
+    "Id": "MercurialTheme",
+    "Name": "Mercurial",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 588,
+    "Id": "EtherealTheme",
+    "Name": "Etéreo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 589,
+    "Id": "MasqueradeTheme",
+    "Name": "Baile de Máscaras",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 590,
+    "Id": "KiracsVaultTheme",
+    "Name": "Cofre de Kirac",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 591,
+    "Id": "ChaosTheme",
+    "Name": "Caos",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 592,
+    "Id": "Stormstrider",
+    "Name": "Andarilho da Tempestade",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 593,
+    "Id": "SentinelTheme",
+    "Name": "Sentinel",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 594,
+    "Id": "OphidianTheme",
+    "Name": "Ofídio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 595,
+    "Id": "RubyTheme",
+    "Name": "Rubi",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 596,
+    "Id": "SapphireTheme",
+    "Name": "Safira",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 597,
+    "Id": "MoltenTheme",
+    "Name": "Vulcânico",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 598,
+    "Id": "MistTheme",
+    "Name": "Nebuloso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 599,
+    "Id": "ExaltedTheme",
+    "Name": "Exaltado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 600,
+    "Id": "Lunar",
+    "Name": "Lunar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 601,
+    "Id": "Unlocked",
+    "Name": "Destravado",
+    "IsCategory": true,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 602,
+    "Id": "StormstriderBoots",
+    "Name": "Botas do Andarilho da Tempestade",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 592,
+      "TableName": "ShopTag",
+      "Id": "Stormstrider"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 603,
+    "Id": "ScintillationBodyArmour",
+    "Name": "Peitoral Cintilante",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 510,
+      "TableName": "ShopTag",
+      "Id": "ElementalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 604,
+    "Id": "NgamahuBodyArmour",
+    "Name": "Peitoral Ngamahu",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 474,
+      "TableName": "ShopTag",
+      "Id": "KaruiTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 605,
+    "Id": "ThunderstrikeGloves",
+    "Name": "Luvas Trovejantes",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 391,
+      "TableName": "ShopTag",
+      "Id": "LightningTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 606,
+    "Id": "PhoenixHelmet",
+    "Name": "Elmo da Fênix",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 371,
+      "TableName": "ShopTag",
+      "Id": "InfernalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 607,
+    "Id": "ManaTankBackAttachment",
+    "Name": "Adorno Dorsal Tanque de Mana",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 608,
+    "Id": "SplinteringShield",
+    "Name": "Escudo Difusor",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 456,
+      "TableName": "ShopTag",
+      "Id": "ElderTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 609,
+    "Id": "WillpowerAmulet",
+    "Name": "Amuleto da Força de Vontade",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 610,
+    "Id": "FlaskEffectSentinel",
+    "Name": "Efeitos de Frascos Nexus",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 611,
+    "Id": "CrystallineChargeSentinel",
+    "Name": "Cargas de Cristal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 439,
+      "TableName": "ShopTag",
+      "Id": "CrystalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 612,
+    "Id": "FlareCharacterEffect",
+    "Name": "Efeito Personagem Inflamado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 371,
+      "TableName": "ShopTag",
+      "Id": "InfernalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 613,
+    "Id": "WarpRuneHideout",
+    "Name": "Runas de Teleporte de Refúgios",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 614,
+    "Id": "ShardcrownHelmet",
+    "Name": "Elmo Coroa Fragmentada",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 439,
+      "TableName": "ShopTag",
+      "Id": "CrystalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 615,
+    "Id": "DeathnotchBow",
+    "Name": "Arco do Nó Mortal",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 616,
+    "Id": "TreasureHunterWeaponEffect",
+    "Name": "Efeito Arma do Caçador de Tesouros",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 563,
+      "TableName": "ShopTag",
+      "Id": "MerchantTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 617,
+    "Id": "LakeOfKalandraTheme",
+    "Name": "Lago de Kalandra",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 618,
+    "Id": "PyromaniacWeaponEffect",
+    "Name": "Efeito Arma do Piromaníaco",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 371,
+      "TableName": "ShopTag",
+      "Id": "InfernalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 619,
+    "Id": "SummonersAmulet",
+    "Name": "Amuleto do Convocador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 620,
+    "Id": "OshabisHeaddress",
+    "Name": "Elmo de Oshabi",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 544,
+      "TableName": "ShopTag",
+      "Id": "HarvestTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 621,
+    "Id": "CrystallisedBodyArmour",
+    "Name": "Peitoral Cristalizado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 439,
+      "TableName": "ShopTag",
+      "Id": "CrystalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 622,
+    "Id": "EnchantersRing",
+    "Name": "Anel Encantado",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 623,
+    "Id": "TorturersGloves",
+    "Name": "Luvas do Torturador",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 624,
+    "Id": "FireworksBackAttachment",
+    "Name": "Adorno Dorsal dos Fogos de Artifício",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 625,
+    "Id": "CrystalariumBoots",
+    "Name": "Botas do Cristalarium",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 439,
+      "TableName": "ShopTag",
+      "Id": "CrystalTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 626,
+    "Id": "GloriousHelmet",
+    "Name": "Elmo Glorioso",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 627,
+    "Id": "RaincallerFlask",
+    "Name": "Frasco do Invocador de Chuva",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 628,
+    "Id": "DovecallerWings",
+    "Name": "Asas do Invocador de Pombas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 629,
+    "Id": "StormHarrier",
+    "Name": "Mascote Saqueador das Tempestades",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 630,
+    "Id": "RevelationBlade",
+    "Name": "Lâmina da Revelação",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 631,
+    "Id": "Arachnomorph",
+    "Name": "Mascote Aracnomorfo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 632,
+    "Id": "TinkersWaypoint",
+    "Name": "Marcador do Faz-tudo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 410,
+      "TableName": "ShopTag",
+      "Id": "MiscellaneousTheme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 633,
+    "Id": "ForbiddenSanctum",
+    "Name": "Sanctum Proibido",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 634,
+    "Id": "Core2023",
+    "Name": "Principais 2023",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 635,
+    "Id": "AlchemistTheme",
+    "Name": "Alquimista",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 636,
+    "Id": "VaultPass",
+    "Name": "Cofre de Kirac",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 637,
+    "Id": "ArachnidTheme",
+    "Name": "Aracnídeo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 638,
+    "Id": "ShadeTheme",
+    "Name": "Sombrio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 639,
+    "Id": "DiscipleTheme",
+    "Name": "Discípulo",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 640,
+    "Id": "TrialOfTheAncestorsTheme",
+    "Name": "Torneio dos Ancestrais",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 641,
+    "Id": "MagmaticTheme",
+    "Name": "Magmático",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 642,
+    "Id": "Core2024",
+    "Name": "Principal 2024",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 643,
+    "Id": "AfflictionTheme",
+    "Name": "Tema Affliction",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 644,
+    "Id": "RaceRewards",
+    "Name": "Recompensas de Corridas",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 645,
+    "Id": "SolarTheme",
+    "Name": "Solar",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 646,
+    "Id": "EldritchTheme",
+    "Name": "Ancestral",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 647,
+    "Id": "NecropolisTheme",
+    "Name": "Necropolis",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 648,
+    "Id": "VoidbornTheme",
+    "Name": "Nascido do Vazio",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 649,
+    "Id": "WuzhiqiTheme",
+    "Name": "Wuzhiqi",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 650,
+    "Id": "PaladinTheme",
+    "Name": "Paladino",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 651,
+    "Id": "PenanceTheme",
+    "Name": "Penitente",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 652,
+    "Id": "SettlersOfKalguurTheme",
+    "Name": "Colonos de Kalguur",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 653,
+    "Id": "ExtraEffectMtx",
+    "Name": "Efeitos Extras",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 654,
+    "Id": "BowMtx",
+    "Name": "Visual de Arco",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 655,
+    "Id": "MaceMtx",
+    "Name": "Visual de Maça",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 656,
+    "Id": "SceptreMtx",
+    "Name": "Visual de Cetro",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 657,
+    "Id": "AxeMtx",
+    "Name": "Visual de Machado",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 658,
+    "Id": "SwordMtx",
+    "Name": "Visual de Espada",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 659,
+    "Id": "WandMtx",
+    "Name": "Visual de Varinha",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 660,
+    "Id": "StaffMtx",
+    "Name": "Visual de Cajado",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 661,
+    "Id": "ClawMtx",
+    "Name": "Visual de Garra",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 662,
+    "Id": "StashUpgrades",
+    "Name": "Aprimoramento",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 663,
+    "Id": "StashBundles",
+    "Name": "Pacotes",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 664,
+    "Id": "StashLeagueTabs",
+    "Name": "Liga",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 665,
+    "Id": "PetBiped",
+    "Name": "Bípede",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 666,
+    "Id": "PetQuadruped",
+    "Name": "Quadrúpede",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 667,
+    "Id": "PetFlying",
+    "Name": "Voador",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 668,
+    "Id": "PetMammal",
+    "Name": "Mamífero",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 669,
+    "Id": "PetMechanical",
+    "Name": "Mecânico",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 670,
+    "Id": "PetMythical",
+    "Name": "Mítico",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 671,
+    "Id": "PetFish",
+    "Name": "Peixe",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 672,
+    "Id": "PetArthropod",
+    "Name": "Artrópode",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 673,
+    "Id": "PetCephalopod",
+    "Name": "Cefalópode",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 674,
+    "Id": "PetAmphibian",
+    "Name": "Anfíbio",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 675,
+    "Id": "PetReptile",
+    "Name": "Réptil",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 676,
+    "Id": "PetVisualEffect",
+    "Name": "Efeito Visual",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 677,
+    "Id": "HideoutMtx",
+    "Name": "Refúgios",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 678,
+    "Id": "StashSkinMtx",
+    "Name": "Visual de Baú",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 679,
+    "Id": "MapDeviceMtx",
+    "Name": "Visual de Dispositivo de Mapas",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 680,
+    "Id": "CraftingBenchMtx",
+    "Name": "Visual de Mesa de Forja",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 681,
+    "Id": "HideoutDecoration",
+    "Name": "Decoração",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 682,
+    "Id": "HideoutArchitectural",
+    "Name": "Decoração Arquitetural",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 683,
+    "Id": "HideoutFurniture",
+    "Name": "Decoração de Mobília",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 684,
+    "Id": "HideoutLighting",
+    "Name": "Decoração de Iluminação",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 685,
+    "Id": "PortalFire",
+    "Name": "Fogo",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 686,
+    "Id": "PortalWater",
+    "Name": "Água",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 687,
+    "Id": "PortalLightning",
+    "Name": "Raio",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 688,
+    "Id": "PortalIce",
+    "Name": "Gelo",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 689,
+    "Id": "PortalEldritch",
+    "Name": "Ancestral",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 690,
+    "Id": "PortalArcane",
+    "Name": "Arcano",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 691,
+    "Id": "PortalMechanical",
+    "Name": "Mecânico",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 692,
+    "Id": "PortalMythical",
+    "Name": "Mítico",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 693,
+    "Id": "PortalCelestial",
+    "Name": "Celestial",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 694,
+    "Id": "PortalEarth",
+    "Name": "Terra",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 695,
+    "Id": "PortalDemonic",
+    "Name": "Demoníaco",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 696,
+    "Id": "PortalDivine",
+    "Name": "Divino",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 697,
+    "Id": "PortalStygian",
+    "Name": "Estígio",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 698,
+    "Id": "WingsMtx",
+    "Name": "Asas",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 699,
+    "Id": "CloakMtx",
+    "Name": "Capa",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 700,
+    "Id": "BackAttachmentMtx",
+    "Name": "Adorno Dorsal",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 701,
+    "Id": "PoE2EarlyAccessTheme",
+    "Name": "Acesso Antecipado ao Path of Exile 2",
+    "IsCategory": false,
+    "Category": {
+      "RowIndex": 370,
+      "TableName": "ShopTag",
+      "Id": "Theme"
+    },
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 702,
+    "Id": "PoE2ArmourPieces",
+    "Name": "Peça de Armadura",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 703,
+    "Id": "PoE2BackAttachment",
+    "Name": "Adorno Dorsal",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 704,
+    "Id": "PoE2HelmetAttachment",
+    "Name": "Acessório de Elmo",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 705,
+    "Id": "PoE2BeltAttachment",
+    "Name": "Acessório de Cinto",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 706,
+    "Id": "PoE2HipAttachment",
+    "Name": "Acessório de Cintura",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 707,
+    "Id": "PoE2Footprints",
+    "Name": "Pegadas",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 708,
+    "Id": "PoE2WeaponSkin",
+    "Name": "Visual de Arma",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 709,
+    "Id": "PoE2WeaponEffect",
+    "Name": "Efeito de Arma",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 710,
+    "Id": "PoE2ShieldSkin",
+    "Name": "Visual de Escudo",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 711,
+    "Id": "PoE2FinisherEffect",
+    "Name": "Efeito Finalizador",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 712,
+    "Id": "PoE2CharacterEffect",
+    "Name": "Efeito de Personagem",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 713,
+    "Id": "PoE2ExtraEffect",
+    "Name": "Efeito Extra",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 714,
+    "Id": "PoE2ChargeSkins",
+    "Name": "Visual Alternativo de Cargas",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 715,
+    "Id": "PoE2Rings",
+    "Name": "Visual de Anel",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 716,
+    "Id": "PoE2Amulets",
+    "Name": "Visual de Amuleto",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 717,
+    "Id": "PoE2Flasks",
+    "Name": "Visual de Frasco",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 718,
+    "Id": "PoE2HideoutArea",
+    "Name": "Área de Refúgio",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 719,
+    "Id": "PoE2UtilitySkins",
+    "Name": "Visuais Utilitários",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 720,
+    "Id": "PoE2HideoutDecorations",
+    "Name": "Decorações",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  },
+  {
+    "RowIndex": 721,
+    "Id": "PoE2Cursor",
+    "Name": "Cursor",
+    "IsCategory": false,
+    "Category": null,
+    "SkillGem": []
+  }
+]
