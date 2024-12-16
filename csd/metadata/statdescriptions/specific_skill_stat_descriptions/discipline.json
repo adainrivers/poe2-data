@@ -1,21 +1,25 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/discipline",
-  "Entries": {
-    "discipline_grant_allies_total_maximum_energy_shield_+": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/discipline",
+      "Ids": [
+        "discipline_grant_allies_total_maximum_energy_shield_+"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Total|Total] Maximum [EnergyShield|Energy Shield] granted@{0:+d}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Grants [Allies|Allies] {0:+d} to their [Total|Total] Maximum [EnergyShield|Energy Shield]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

@@ -1,25 +1,33 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/siege_cascade_permafrost_ammo",
-  "Entries": {
-    "base_number_of_crossbow_bolts": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/siege_cascade_permafrost_ammo",
+      "Ids": [
+        "base_number_of_crossbow_bolts"
+      ],
       "Descriptions": [
         {
           "Operator": "2|#",
           "Description": "Can store up to {0} Bolts",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "number_of_crossbow_bolts": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/siege_cascade_permafrost_ammo",
+      "Ids": [
+        "number_of_crossbow_bolts"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum bolts stored@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

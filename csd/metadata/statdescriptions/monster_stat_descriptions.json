@@ -1,377 +1,511 @@
 {
   "Path": "metadata/statdescriptions/monster_stat_descriptions",
-  "Entries": {
-    "immune_to_curses": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "immune_to_curses"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Curse] Immune",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "hexproof": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "hexproof"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Hexproof]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_ground_fire_on_death_%_max_damage_to_deal_per_minute": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_ground_fire_on_death_%_max_damage_to_deal_per_minute"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Burns Ground on Death",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_ground_ice_on_death_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_ground_ice_on_death_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Chills Ground on Death",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_ground_tar_on_death_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_ground_tar_on_death_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Spreads Tar on Death",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_caustic_cloud_on_death_%_max_damage_to_deal_per_minute": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_caustic_cloud_on_death_%_max_damage_to_deal_per_minute"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Spreads Caustic Ground on Death",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "necromancer_additional_rarity_levels_can_be_raised": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "necromancer_additional_rarity_levels_can_be_raised"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Can raise Magic monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2",
           "Description": "Can raise Rare or Magic monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "3",
           "Description": "Can raise Unique, Rare or Magic monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_avoid_freeze_%": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "base_avoid_freeze_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#|99",
           "Description": "Avoids [Freeze|Frozen]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Cannot be [Freeze|Frozen]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_avoid_chill_%": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "base_avoid_chill_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#|99",
           "Description": "Avoids [Chill|Chilled]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Cannot be [Chill|Chilled]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_avoid_ignite_%": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "base_avoid_ignite_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#|99",
           "Description": "Avoids [Ignite|Ignited]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Cannot be [Ignite|Ignited]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_avoid_shock_%": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "base_avoid_shock_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#|99",
           "Description": "Avoids [Shock|Shocked]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Cannot be [Shock|Shocked]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "display_monster_spike_nova_on_death_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "display_monster_spike_nova_on_death_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Spikes on Death",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "display_monster_ice_spear_nova_on_death_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "display_monster_ice_spear_nova_on_death_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Ice Spears on Death",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "display_monster_casts_lightning_nova_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "display_monster_casts_lightning_nova_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Casts Lightning Nova",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_casts_fire_nova_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_casts_fire_nova_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Casts Fire Nova",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_casts_flask_charge_nova_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_casts_flask_charge_nova_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Removes [Flask] Charges",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_casts_bleed_nova_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_casts_bleed_nova_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Causes [Bleeding|Bleeding]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_has_damage_taken_aura_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_has_damage_taken_aura_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Enemies take increased Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_has_temporal_chains_aura_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_has_temporal_chains_aura_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Enemies are affected by Temporal Chains",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_has_movement_skill_damage_aura_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_has_movement_skill_damage_aura_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Enemies take Damage when using Movement skills",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_enrages_on_low_life_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_enrages_on_low_life_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Enrages on [LowLife|Low Life]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "action_speed_cannot_be_reduced_below_base": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "action_speed_cannot_be_reduced_below_base"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Cannot be Slowed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "cannot_have_life_leeched_from": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "cannot_have_life_leeched_from"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Cannot be Life-[LifeLeech|Leeched]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "is_blight_chaos_monster": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "is_blight_chaos_monster"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Ignores Summoning Towers",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "is_blight_cold_monster": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "is_blight_cold_monster"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Resilient to Cold Towers",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "is_blight_fire_monster": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "is_blight_fire_monster"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Resilient to Fire Towers",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "is_blight_lightning_monster": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "is_blight_lightning_monster"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Resilient to Lightning Towers",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "is_blight_physical_monster": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "is_blight_physical_monster"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Resilient to Physical Towers",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_immune_to_damage_in_lava_text": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_immune_to_damage_in_lava_text"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Empowered by Molten Gold",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "monster_slow_potency_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "monster_slow_potency_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "[DNT] {0}% more [Slow|Slowing] Potency of [Debuff|Debuffs] against this monster",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "[DNT] {0}% less [Slow|Slowing] Potency of [Debuff|Debuffs] against this monster",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "rare_monster_mod_area_of_effect_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "rare_monster_mod_area_of_effect_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "[DNT] {0}% more Area of Effect",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "[DNT] {0}% less Area of Effect",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "trigger_charge_additional_block_chance_against_projectiles_%": {
+    {
+      "Path": "metadata/statdescriptions/monster_stat_descriptions",
+      "Ids": [
+        "trigger_charge_additional_block_chance_against_projectiles_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Blocks Projectiles while charging",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

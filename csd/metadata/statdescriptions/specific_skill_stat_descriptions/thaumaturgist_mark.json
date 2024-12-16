@@ -1,88 +1,123 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/thaumaturgist_mark",
-  "Entries": {
-    "base_secondary_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/thaumaturgist_mark",
+      "Ids": [
+        "base_secondary_skill_effect_duration"
+      ],
       "Descriptions": []
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/thaumaturgist_mark",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "[Mark] duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "[Mark] duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/thaumaturgist_mark",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Mark] duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "thaumaturgist_mark_enemies_shocked_chance_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/thaumaturgist_mark",
+      "Ids": [
+        "thaumaturgist_mark_enemies_shocked_chance_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "More [Shock] chance applied@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "[HitDamage|Hits] against [Mark|Marked] enemy have\\n{0}% more chance to [Shock]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "[HitDamage|Hits] against [Mark|Marked] enemy have\\n{0}% less chance to [Shock]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "thaumaturgist_mark_enemy_shock_effect_+%_taken": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/thaumaturgist_mark",
+      "Ids": [
+        "thaumaturgist_mark_enemy_shock_effect_+%_taken"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Increased [Shock] [BuffEffect|effect] applied@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "[Shock] has {0}% increased [BuffEffect|effect] on [Mark|Marked] enemy",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "[Shock] has {0}% reduced [BuffEffect|effect] on [Mark|Marked] enemy",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

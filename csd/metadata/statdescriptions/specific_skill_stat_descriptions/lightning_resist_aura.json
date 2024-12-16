@@ -1,21 +1,25 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_resist_aura",
-  "Entries": {
-    "skill_granted_lightning_damage_resistance_%": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_resist_aura",
+      "Ids": [
+        "skill_granted_lightning_damage_resistance_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "[Lightning] Resistance granted@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "[Allies|Allies] gain {0}% additional [Lightning|Lightning] Resistance",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

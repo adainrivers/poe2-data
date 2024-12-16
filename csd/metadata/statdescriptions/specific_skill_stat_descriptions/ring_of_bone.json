@@ -1,101 +1,152 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ring_of_bone",
-  "Entries": {
-    "active_skill_area_of_effect_radius": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ring_of_bone",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Cage radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ring_of_bone",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Cage radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Cage radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_secondary_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ring_of_bone",
+      "Ids": [
+        "active_skill_base_secondary_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Explosion radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Explosion radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_secondary_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ring_of_bone",
+      "Ids": [
+        "active_skill_secondary_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Explosion radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ring_of_bone",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Cage duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Cage duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/ring_of_bone",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Cage duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

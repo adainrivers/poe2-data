@@ -1,98 +1,147 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_1",
-  "Entries": {
-    "base_secondary_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_1",
+      "Ids": [
+        "base_secondary_skill_effect_duration"
+      ],
       "Descriptions": []
     },
-    "total_number_of_projectiles_to_fire": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_1",
+      "Ids": [
+        "total_number_of_projectiles_to_fire"
+      ],
       "Descriptions": []
     },
-    "base_number_of_allowed_bone_storm_projectiles": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_1",
+      "Ids": [
+        "base_number_of_allowed_bone_storm_projectiles"
+      ],
       "Descriptions": []
     },
-    "active_skill_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_1",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Explosion radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_1",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Explosion radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Explosion radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "bone_spear_power_charged_aoe_+%_final_per_additional_power_charge": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_1",
+      "Ids": [
+        "bone_spear_power_charged_aoe_+%_final_per_additional_power_charge"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "More Area per [Charges|Power Charge] Consumed@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "{0}% more Area of Effect per [Charges|Power Charge] Consumed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% less Area of Effect per [Charges|Power Charge] Consumed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "bone_spear_power_charged_aoe_+": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_1",
+      "Ids": [
+        "bone_spear_power_charged_aoe_+"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Bonus radius if [Charges|Power Charge] Consumed@+{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "10",
           "Description": "+{0} metre to explosion radius if a\\n[Charges|Power Charge] was Consumed",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "+{0} metres to explosion radius if a\\n[Charges|Power Charge] was Consumed",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

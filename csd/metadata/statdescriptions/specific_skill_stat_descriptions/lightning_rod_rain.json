@@ -1,116 +1,162 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_rod_rain",
-  "Entries": {
-    "active_skill_base_secondary_area_of_effect_radius": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_rod_rain",
+      "Ids": [
+        "active_skill_base_secondary_area_of_effect_radius"
+      ],
       "Descriptions": []
     },
-    "active_skill_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_rod_rain",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Burst radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_rod_rain",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Burst radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Burst radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_rod_rain",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Maximum Arrow duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Maximum Arrow duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "lightning_rod_number_of_chains_allowed": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_rod_rain",
+      "Ids": [
+        "lightning_rod_number_of_chains_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Number of [Chain|Chains] before Arrow disappears@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1",
           "Description": "Arrow disappears after being [Chain|Chained] to once",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Arrow disappears after being [Chain|Chained] to {0} times",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "number_of_lightning_rods_allowed": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_rod_rain",
+      "Ids": [
+        "number_of_lightning_rods_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum active Arrows@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1 table_only",
           "Description": "Maximum {0} active Arrow",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "# table_only",
           "Description": "Maximum {0} active Arrows",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/lightning_rod_rain",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum Arrow duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

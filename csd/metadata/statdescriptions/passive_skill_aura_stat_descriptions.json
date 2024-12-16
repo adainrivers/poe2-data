@@ -1,330 +1,473 @@
 {
   "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
-  "Entries": {
-    "action_speed_-%": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "action_speed_-%"
+      ],
       "Descriptions": []
     },
-    "damage_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "damage_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Allies deal {0}% increased Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Enemies deal {0}% reduced Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_movement_velocity_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "base_movement_velocity_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "You and nearby Allies have {0}% increased Movement Speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "You and nearby Allies have {0}% reduced Movement Speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "chance_to_be_ignited_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "chance_to_be_ignited_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies have {0:+d}% chance to be Ignited when Hit",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chance_to_be_frozen_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "chance_to_be_frozen_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies have {0:+d}% chance to be Frozen when Hit",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chance_to_be_shocked_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "chance_to_be_shocked_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies have {0:+d}% chance to be Shocked when Hit",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "inquisitor_aura_elemental_damage_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "inquisitor_aura_elemental_damage_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies deal {0}% more Elemental Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Enemies deal {0}% less Elemental Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "elemental_damage_taken_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "elemental_damage_taken_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies take {0}% increased Elemental Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Enemies take {0}% reduced Elemental Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_cold_damage_resistance_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "base_cold_damage_resistance_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Nearby Enemies have {0:+d}% to [Cold|Cold] Resistance",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_chaos_damage_resistance_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "base_chaos_damage_resistance_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Nearby Enemies have {0:+d}% to [Chaos|Chaos] Resistance",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "life_regeneration_rate_per_minute_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "life_regeneration_rate_per_minute_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "You and nearby Allies Regenerate {0}% of Life per second",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second_2dp": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second_2dp",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "life_regeneration_rate_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "life_regeneration_rate_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies have {0}% increased Life Regeneration rate",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Enemies have {0}% reduced Life Regeneration rate",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "hit_damage_+%_while_chilled": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "hit_damage_+%_while_chilled"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Chilled Enemies deal {0}% increased Damage with Hits",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Chilled Enemies deal {0}% reduced Damage with Hits",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "damage_over_time_+%_while_hindered": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "damage_over_time_+%_while_hindered"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Hindered Enemies deal {0}% increased Damage over Time",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Hindered Enemies deal {0}% reduced Damage over Time",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_critical_strike_multiplier_+": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "minimum_added_physical_damage_per_impaled_on_enemy",
+        "maximum_added_physical_damage_per_impaled_on_enemy"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# #",
+          "Description": "You and nearby Allies deal {0} to {1} added Physical Damage for\\neach Impale on Enemy",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "base_critical_strike_multiplier_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies have {0}% increased [CriticalDamageBonus|Critical Damage Bonus]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Enemies have {0}% reduced [CriticalDamageBonus|Critical Damage Bonus]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "attack_cast_movement_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "attack_cast_movement_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Allies have {0}% increased Attack, Cast and Movement Speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Allies have {0}% reduced Attack, Cast and Movement Speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_skill_area_of_effect_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "base_skill_area_of_effect_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Allies have {0}% increased Area of Effect",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Allies have {0}% reduced Area of Effect",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "chance_to_intimidate_on_hit_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "chance_to_intimidate_on_hit_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#|99",
           "Description": "Nearby Allies have {0}% chance to Intimidate Enemies for 4 seconds on Hit",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Nearby Allies Intimidate Enemies for 4 seconds on Hit",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chance_to_unnerve_on_hit_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "chance_to_unnerve_on_hit_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#|99",
           "Description": "Nearby Allies have {0}% chance to Unnerve Enemies for 4 seconds on Hit",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Nearby Allies Unnerve Enemies for 4 seconds on Hit",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "has_tailwind": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "has_tailwind"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "You and nearby Allies have Tailwind",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_cooldown_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "base_cooldown_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies have {0}% increased [CooldownRecovery|Cooldown Recovery Rate]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Enemies have {0}% reduced [CooldownRecovery|Cooldown Recovery Rate]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "blinded": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "blinded"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Nearby Enemies are Blinded",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "global_cannot_crit": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_aura_stat_descriptions",
+      "Ids": [
+        "global_cannot_crit"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Nearby Enemies cannot deal [Critical|Critical Hits]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

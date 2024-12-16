@@ -1,69 +1,87 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/mana_remnants",
-  "Entries": {
-    "mana_remnants_chance_to_spawn_orb_on_killing_shocked_enemy_%": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/mana_remnants",
+      "Ids": [
+        "mana_remnants_chance_to_spawn_orb_on_killing_shocked_enemy_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "Remnant spawn on kill chance@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|99",
           "Description": "{0}% chance to spawn a Remnant on killing a [Shock|Shocked] enemy",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Spawn a Remnant on killing a [Shock|Shocked] enemy",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "mana_remnants_spawn_remnant_on_crit_vs_shocked_enemy_every_X_ms": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/mana_remnants",
+      "Ids": [
+        "mana_remnants_spawn_remnant_on_crit_vs_shocked_enemy_every_X_ms"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "Remnant spawn on [Critical|Critical Hit] interval@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "1000",
           "Description": "Spawn a Remnant on [Critical|Critically Hitting] a [Shock|Shocked] target, no more than once per second",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Spawn a Remnant on [Critical|Critically Hitting] a [Shock|Shocked] target, no more than once every {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "mana_remnants_mana_gain_per_globe": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/mana_remnants",
+      "Ids": [
+        "mana_remnants_mana_gain_per_globe"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "Mana recovered per Remnant@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "Each Remnant grants {0} Mana",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

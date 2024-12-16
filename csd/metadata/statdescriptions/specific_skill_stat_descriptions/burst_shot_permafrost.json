@@ -1,45 +1,78 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/burst_shot_permafrost",
-  "Entries": {
-    "active_skill_area_of_effect_radius": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/burst_shot_permafrost",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Bolt shattering cone length@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/burst_shot_permafrost",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Bolts shatter on impact, dealing Damage in a {0} metre cone",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "projectiles_can_shotgun": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/burst_shot_permafrost",
+      "Ids": [
+        "base_number_of_projectiles",
+        "skill_can_fire_arrows"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "2|# #",
+          "Description": "Fires {0} fragments per shot",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/burst_shot_permafrost",
+      "Ids": [
+        "projectiles_can_shotgun"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Multiple fragments can [HitDamage|Hit] the same target, combining Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Multiple fragments can [HitDamage|Hit] the same target\\nMultiple Fragments hitting a target simultaniously will combine their damage into a single [HitDamage|Hit]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

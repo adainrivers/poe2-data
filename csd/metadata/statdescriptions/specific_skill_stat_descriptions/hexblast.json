@@ -1,77 +1,112 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/hexblast",
-  "Entries": {
-    "active_skill_area_of_effect_radius": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/hexblast",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Explosion radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/hexblast",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Explosion radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Explosion radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_secondary_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/hexblast",
+      "Ids": [
+        "active_skill_base_secondary_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Detonates a [Curse] on enemies in a {0} metre radius",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_secondary_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/hexblast",
+      "Ids": [
+        "active_skill_secondary_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Target seeking radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "hexblast_maximum_number_of_explosions": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/hexblast",
+      "Ids": [
+        "hexblast_maximum_number_of_explosions"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "Maximum Explosions per cast@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "Maximum {0} Explosions per cast",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

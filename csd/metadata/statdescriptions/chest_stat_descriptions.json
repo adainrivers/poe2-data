@@ -1,983 +1,1309 @@
 {
   "Path": "metadata/statdescriptions/chest_stat_descriptions",
-  "Entries": {
-    "chest_hidden_item_quantity_+%": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_hidden_item_quantity_+%"
+      ],
       "Descriptions": []
     },
-    "chest_hidden_item_rarity_+%": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_hidden_item_rarity_+%"
+      ],
       "Descriptions": []
     },
-    "chest_item_quantity_+%": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_item_quantity_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Quantity of Contained Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Quantity of Contained Items",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "chest_item_rarity_+%": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_item_rarity_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Rarity of Contained Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Rarity of Contained Items",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "chest_item_rarity_+%_final_from_mod": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_item_rarity_+%_final_from_mod"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% more Rarity of Contained Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% less Rarity of Contained Items",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "chest_drop_additional_unqiue_items": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_unqiue_items"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Unique Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Unique Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_summons_skeletons": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_summons_skeletons"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Summons Skeletons",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_ice_nova": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_ice_nova"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Casts Ice Nova",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_freeze": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_freeze"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Freezes you when activated",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_gems_drop_with_experience": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_gems_drop_with_experience"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Contained Gems have Experience",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drops_additional_utility_flasks": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drops_additional_utility_flasks"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Contains additional Utility [Flask|Flasks]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_rare_maraketh_weapons": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_rare_maraketh_weapons"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Rare Maraketh Weapon",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Rare Maraketh Weapons",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_items_drop_identified": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_items_drop_identified"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Contains Identified Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_normal_items_up_to": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_normal_items_up_to"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_magic_items_up_to": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_magic_items_up_to"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Magic Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Magic Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_rare_items_up_to": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_rare_items_up_to"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Rare Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Rare Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_dropped_equipment_flasks_charms_have_quality_%": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_dropped_equipment_flasks_charms_have_quality_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Contained Items have {0}% Quality",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "dropped_items_have_additional_sockets": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "dropped_items_have_additional_sockets"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contained Items have an additional Socket",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contained Items have {0} additional Sockets",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "dropped_items_are_fully_linked": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "dropped_items_are_fully_linked"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Contained Items are fully Linked",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_dropped_item_level_+": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_dropped_item_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "+{0} Chest level",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "dropped_items_are_duplicated": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "dropped_items_are_duplicated"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Contains Mirrored Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_spawn_rogue_exiles": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_spawn_rogue_exiles"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Guarded by a Rogue Exile",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Guarded by {0} Rogue Exiles",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_spawn_X_standalone_map_bosses": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_spawn_X_standalone_map_bosses"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Guarded by a Unique Boss",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Guarded by {0} Unique Bosses",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_revive_nearby_monsters": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_revive_nearby_monsters"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Revives nearby dead Monsters with Onslaught",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_spawns_monsters_continuously": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_spawns_monsters_continuously"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by a stream of Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_spawns_torment_spirits_continuously": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_spawns_torment_spirits_continuously"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by a stream of Tormented Spirits",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_explodes_corpses": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_explodes_corpses"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Detonates nearby corpses",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_camoflaged": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_camoflaged"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by camoflaged Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_summons_fire_warband": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_summons_fire_warband"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by a Redblade Warband",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_summons_cold_warband": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_summons_cold_warband"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by a Mutewind Warband",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_summons_lightning_warband": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_summons_lightning_warband"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by a Brinerot Warband",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_summons_chaos_warband": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_summons_chaos_warband"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by a Renegade Warband",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_cast_random_curse": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_cast_random_curse"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Casts a random Hex [Curse] Spell when activated",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_ignite": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_ignite"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Ignites you when activated",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_fire_storm": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_fire_storm"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Casts Firestorm",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2",
           "Description": "Casts Lightning Storm",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_generic": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_generic"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Summons Volatile Crags",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2",
           "Description": "Casts Lightning Storms",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "3",
           "Description": "Casts Ice Spikes",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "4",
           "Description": "Casts Chaos Barrages",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_caustic_clouds": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_caustic_clouds"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Spreads Caustic Ground",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_explosion": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_explosion"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Explodes",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drops_only_hybrid_flasks": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drops_only_hybrid_flasks"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Only contains Hybrid [Flask|Flasks]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drops_only_support_gems": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drops_only_support_gems"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Only contains Support Gems",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drops_extra_vaal_gems": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drops_extra_vaal_gems"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an extra Vaal Gem",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Contains {0} extra Vaal Gems",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_number_of_uniques_of_drop_pool_types": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_number_of_uniques_of_drop_pool_types"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Unique Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Unique Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_unique_maps": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_unique_maps"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Unique Map",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Unique Maps",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_fire_warband_uniques": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_fire_warband_uniques"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Redblade Unique Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Redblade Unique Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_cold_warband_uniques": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_cold_warband_uniques"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Mutewind Unique Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Mutewind Unique Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_lightning_warband_uniques": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_lightning_warband_uniques"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Brinerot Unique Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Brinerot Unique Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_chaos_warband_uniques": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_chaos_warband_uniques"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Renegade Unique Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Renegade Unique Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_deshret_uniques": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_deshret_uniques"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Deshret Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Deshret Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_number_of_additional_kaom_uniques_to_drop": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_number_of_additional_kaom_uniques_to_drop"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an additional Kaom Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Kaom Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_kaom_totems": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_kaom_totems"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by the Ancestors' Power",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drops_extra_vaal_fragments": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drops_extra_vaal_fragments"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains an extra Vaal Fragment",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Contains {0} extra Vaal Fragments",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drops_extra_rare_items_of_same_base_type": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drops_extra_rare_items_of_same_base_type"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Rare Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Rare Items of the same type",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_prophecy_coins": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_prophecy_coins"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Silver Coin",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Silver Coins",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "weapons_drop_animated": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "weapons_drop_animated"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Contained Weapons are Animated",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_all_dropped_scarabs_are_same_content_type": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_X_divination_cards",
+        "chest_drop_divination_cards_with_full_stack_number_X"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1 #",
+          "Description": "Contains {0} Divination Card that has a Full Stack number of {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|# #",
+          "Description": "Contains {0} Divination Cards that have a Full Stack number of {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_all_dropped_scarabs_are_same_content_type"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "All contained Scarabs are the same type",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_winged_scarabs": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_winged_scarabs"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Winged Scarab",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Winged Scarabs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_gilded_scarabs": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_gilded_scarabs"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Gilded Scarab",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Gilded Scarabs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_polished_scarabs": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_polished_scarabs"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Polished Scarab",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Polished Scarabs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_rusted_scarabs": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_rusted_scarabs"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Rusted Scarab",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Rusted Scarabs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_guarded_by_dario": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_guarded_by_dario"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by Dario, the Living Void\\nGuarded by waves of Void Constructs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_guarded_by_hooded_architect": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_guarded_by_hooded_architect"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by Ixtolatl, Artisan of Sacrifice\\nGuarded by waves of Vaal Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_guarded_by_hooded_architect_mortal": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_guarded_by_hooded_architect_mortal"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by Mahuatzi, Artisan of Desire\\nGuarded by waves of Vaal Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_display_weylams_war": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_display_weylams_war"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Guarded by a stream of Ghost Pirates\\nGuarded by the Maiden of the Black Crest",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_map_currency": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_map_currency"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Map Currency Item",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Map Currency Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_drop_additional_map_fragments": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_drop_additional_map_fragments"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Map Fragment",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Map Fragments",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "drop_additional_runes": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "drop_additional_runes"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Rune",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Runes",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "drop_additional_sanctum_key": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "drop_additional_sanctum_key"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Djinn Barya",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Djinn Baryas",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "drop_additional_special_tower_augment": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "drop_additional_special_tower_augment"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Unusual Tablet",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Unusual Tablets",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "drop_additional_ultimatum_key": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "drop_additional_ultimatum_key"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Contains {0} additional Inscribed Ultimatum",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Contains {0} additional Inscribed Ultimatums",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "number_of_additional_magic_packs_to_summon": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "number_of_additional_magic_packs_to_summon"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Guarded by a pack of Magic Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Guarded by {0} packs of Magic Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "number_of_additional_normal_packs_to_summon": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "number_of_additional_normal_packs_to_summon"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Guarded by a pack of Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Guarded by {0} packs of Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "number_of_additional_rare_packs_to_summon": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "number_of_additional_rare_packs_to_summon"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Guarded by a pack of Rare Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Guarded by {0} packs of Rare Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "number_of_vaal_side_area_bosses_to_summon": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "number_of_vaal_side_area_bosses_to_summon"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Guarded by a Vaal Side Area Boss",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Guarded by {0} Vaal Side Area Bosses",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "chest_no_regular_drops": {
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
+        "chest_no_regular_drops"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Contains no other Items",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

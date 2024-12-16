@@ -1,147 +1,371 @@
 {
   "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
-  "Entries": {
-    "cannot_be_chilled": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "attack_block_%",
+        "virtual_maximum_block_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Block] chance@{0}% (max {1}%)",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "cannot_be_chilled"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Cannot be Chilled",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "cannot_be_frozen": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "cannot_be_frozen"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Cannot be Frozen",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "cannot_be_ignited": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "cannot_be_ignited"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Cannot be Ignited",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "cannot_be_shocked": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "cannot_be_shocked"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Cannot be Shocked",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "cannot_gain_bleeding": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "cannot_gain_bleeding"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Bleeding] cannot be inflicted on you",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "immune_to_chill": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "chaos_damage_resistance_%",
+        "maximum_chaos_damage_resistance_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Chaos] [Resistances|Resistance]@{0}% ([MaximumResistances|Max] {1}%)",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "cold_damage_resistance_%",
+        "maximum_cold_damage_resistance_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Cold] [Resistances|Resistance]@{0}% ([MaximumResistances|Max] {1}%)",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "fire_damage_resistance_%",
+        "maximum_fire_damage_resistance_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Fire] [Resistances|Resistance]@{0}% ([MaximumResistances|Max] {1}%)",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "immune_to_chill"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Immune to Chill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "immune_to_freeze": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "immune_to_freeze"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Immune to Freeze",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "immune_to_ignite": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "immune_to_ignite"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Immune to Ignite",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "immune_to_shock": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "immune_to_shock"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Immune to Shock",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "thorns_critical_hit_damage_bonus": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "lightning_damage_resistance_%",
+        "maximum_lightning_damage_resistance_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Lightning] [Resistances|Resistance]@{0}% ([MaximumResistances|Max] {1}%)",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "thorns_critical_hit_damage_bonus"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Thorns] [CriticalDamageBonus|Critical Damage Bonus]@+{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "thorns_critical_strike_chance": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "thorns_critical_strike_chance"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Thorns] [Critical|Critical Hit] Chance@{0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_one_hundred_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_one_hundred_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "virtual_cannot_be_poisoned": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "thorns_minimum_chaos_damage",
+        "thorns_maximum_chaos_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Chaos] [Thorns] damage@{0} – {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "thorns_minimum_cold_damage",
+        "thorns_maximum_cold_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Cold] [Thorns] damage@{0} – {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "thorns_minimum_fire_damage",
+        "thorns_maximum_fire_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Fire] [Thorns] damage@{0} – {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "thorns_minimum_lightning_damage",
+        "thorns_maximum_lightning_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Lightning] [Thorns] damage@{0} – {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "thorns_minimum_physical_damage",
+        "thorns_maximum_physical_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Physical] [Thorns] damage@{0} – {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "thorns_minimum_total_damage",
+        "thorns_maximum_total_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "Total [Thorns] damage@{0} – {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "virtual_cannot_be_poisoned"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Cannot be [Poison|Poisoned]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "virtual_immune_to_bleeding": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "virtual_immune_to_bleeding"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Immune to [Bleeding]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "virtual_immune_to_poison": {
+    {
+      "Path": "metadata/statdescriptions/character_panel_stat_descriptions",
+      "Ids": [
+        "virtual_immune_to_poison"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Immune to Poison",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

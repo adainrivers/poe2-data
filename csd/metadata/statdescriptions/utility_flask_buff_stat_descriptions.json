@@ -1,75 +1,103 @@
 {
   "Path": "metadata/statdescriptions/utility_flask_buff_stat_descriptions",
-  "Entries": {
-    "base_immune_to_chill": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/utility_flask_buff_stat_descriptions",
+      "Ids": [
+        "base_immune_to_chill"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Immunity to [Chill|Chill] if used while [Chill|Chilled]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_immune_to_freeze": {
+    {
+      "Path": "metadata/statdescriptions/utility_flask_buff_stat_descriptions",
+      "Ids": [
+        "base_immune_to_freeze"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Immunity to [Freeze|Freeze]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_immune_to_ignite": {
+    {
+      "Path": "metadata/statdescriptions/utility_flask_buff_stat_descriptions",
+      "Ids": [
+        "base_immune_to_ignite"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Immunity to [Ignite|Ignite]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_immune_to_shock": {
+    {
+      "Path": "metadata/statdescriptions/utility_flask_buff_stat_descriptions",
+      "Ids": [
+        "base_immune_to_shock"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Immunity to [Shock|Shock]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "immune_to_bleeding": {
+    {
+      "Path": "metadata/statdescriptions/utility_flask_buff_stat_descriptions",
+      "Ids": [
+        "immune_to_bleeding"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Immunity to [Bleeding|Bleeding]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "immune_to_burning": {
+    {
+      "Path": "metadata/statdescriptions/utility_flask_buff_stat_descriptions",
+      "Ids": [
+        "immune_to_burning"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Immunity to [Burning|Burning] if used while [Burning|Burning]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "immune_to_poison": {
+    {
+      "Path": "metadata/statdescriptions/utility_flask_buff_stat_descriptions",
+      "Ids": [
+        "immune_to_poison"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Immunity to [Poison|Poison]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

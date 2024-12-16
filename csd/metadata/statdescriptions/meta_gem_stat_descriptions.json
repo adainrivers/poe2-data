@@ -1,235 +1,379 @@
 {
   "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
-  "Entries": {
-    "support_totem_damage_+%_final": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "support_totem_damage_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Socketed Skills deal {0}% more Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Socketed Skills deal {0}% less Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "support_additional_totem_damage_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "support_additional_totem_damage_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Socketed Skills deal {0}% more Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Socketed Skills deal {0}% less Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "support_blasphemy_curse_effect_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "support_blasphemy_curse_effect_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% more Effect of Socketed [Curse|Curses]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% less Effect of Socketed [Curse|Curses]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "support_spell_totem_cast_speed_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "support_spell_totem_cast_speed_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Sockted Spells have {0}% more Cast Speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Socketed Spells have {0}% less Cast Speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "support_attack_totem_attack_speed_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "support_attack_totem_attack_speed_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Socketed [Attack] Skills have {0}% more [Attack] Speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Socketed [Attack] Skills have {0}% less [Attack] Speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "disable_skill_if_melee_attack": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "disable_skill_if_melee_attack"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Socketed [Attack] Skills cannot be used with [Melee] Weapons",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Socketed Skills have {0:+d} metres to base radius",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_skill_area_of_effect_+%": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "base_skill_area_of_effect_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Socketed Skills have {0}% increased Area of Effect",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Socketed Skills have {0}% reduced Area of Effect",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "curse_effect_+%": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "curse_effect_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Effect of Socketed [Curse|Curses]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Effect of Socketed [Curse|Curses]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "damage_+%": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "damage_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Socketed Skills deal {0}% increased Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Socketed Skills deal {0}% reduced Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "mark_effect_+%": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "generic_ongoing_trigger_1_maximum_energy_per_Xms_total_cast_time",
+        "generic_ongoing_trigger_triggers_at_maximum_energy"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "!0  !0",
+          "Description": "Has 10 maximum Energy per {0} seconds of base cast time of Socketed Spells",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "divide_by_one_hundred_2dp_if_required",
+              "Value": 1
+            }
+          ]
+        },
+        {
+          "Operator": "!0  0",
+          "Description": "Socketed Spells consume 10 Energy per {0} seconds of base cast time when Triggered",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "divide_by_one_hundred_2dp_if_required",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "mark_effect_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Effect of Socketed [Mark|Marks]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Effect of Socketed [Mark|Marks]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "trigger_meta_gem_damage_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "trigger_meta_gem_damage_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Socketed Skills deal {0}% more Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Socketed Skills deal {0}% less Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "warcry_buff_effect_+%": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "warcry_buff_effect_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Socketed Skills have {0}% increased [Warcry|Warcry] Buff Effect",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Socketed Skills have {0}% reduced [Warcry|Warcry] Buff Effect",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "warcry_grant_damage_+%_to_exerted_attacks": {
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "skill_empowers_next_x_melee_attacks",
+        "skill_empower_limitation_specifier_for_stat_description"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1 0",
+          "Description": "Socketed Warcries Exert {0} additional [Attack]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0",
+          "Description": "Socketed Warcries Exert {0} additional [Attack|Attacks]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/meta_gem_stat_descriptions",
+      "Ids": [
+        "warcry_grant_damage_+%_to_exerted_attacks"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Attack|Attacks] Exerted by Socketed Skills deal {0}% increased Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

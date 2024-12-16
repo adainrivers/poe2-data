@@ -1,1734 +1,2450 @@
 {
   "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
-  "Entries": {
-    "damage_+%": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "damage_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "spell_damage_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "spell_damage_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Spell Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Spell Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "melee_damage_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "melee_damage_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [Melee] Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [Melee] Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "critical_strike_chance_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "player_and_minion_global_minimum_added_physical_damage",
+        "player_and_minion_global_maximum_added_physical_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# #",
+          "Description": "{0} to {1} added Physical Damage\\nPlayers and their Minions have {0} to {1} added Physical Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "player_and_minion_global_minimum_added_fire_damage",
+        "player_and_minion_global_maximum_added_fire_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# #",
+          "Description": "{0} to {1} added Fire Damage\\nPlayers and their Minions have {0} to {1} added Fire Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "player_and_minion_global_minimum_added_cold_damage",
+        "player_and_minion_global_maximum_added_cold_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# #",
+          "Description": "{0} to {1} added [Cold|Cold] Damage\\nPlayers and their [Minion|Minions] have {0} to {1} added [Cold|Cold] Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "player_and_minion_global_minimum_added_lightning_damage",
+        "player_and_minion_global_maximum_added_lightning_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# #",
+          "Description": "{0} to {1} added Lightning Damage\\nPlayers and their Minions have {0} to {1} added Lightning Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "critical_strike_chance_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [Critical|Critical Hit] Chance",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [Critical|Critical Hit] Chance",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "player_and_minion_mana_regeneration_rate_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "player_and_minion_mana_regeneration_rate_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Players and their Minions have {0}% increased Mana Regeneration Rate",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Players and their Minions have {0}% reduced Mana Regeneration Rate",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "player_and_minion_life_regeneration_rate_per_minute_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "player_and_minion_life_regeneration_rate_per_minute_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Players and their Minions Regenerate {0}% of Life per second",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "projectile_attack_damage_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "projectile_attack_damage_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Projectile [Attack] Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Projectile [Attack] Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "charges_gained_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "charges_gained_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Players have {0}% increased [Flask|Flask] Charges gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Players have {0}% reduced [Flask|Flask] Charges gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "critical_strike_chance_+%_while_not_escaping_heist": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "critical_strike_chance_+%_while_not_escaping_heist"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [Critical|Critical Hit] Chance while area is not in Lockdown\\nPlayers have {0}% increased [Critical|Critical Hit] Chance while area is not in Lockdown",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [Critical|Critical Hit] Chance while area is not in Lockdown\\nPlayers have {0}% reduced [Critical|Critical Hit] Chance while area is not in Lockdown",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "critical_strike_multiplier_+_while_not_escaping_heist": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "critical_strike_multiplier_+_while_not_escaping_heist"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0:+d}% to [CriticalDamageBonus|Critical Damage Bonus] while area is not in Lockdown\\nPlayers have {0:+d}% to [CriticalDamageBonus|Critical Damage Bonus] while area is not in Lockdown",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "damage_+%_vs_enemies_on_full_life": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "damage_+%_vs_enemies_on_full_life"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life\\nPlayers deal {0}% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Damage with [HitDamage|Hits] against Enemies that are on Full Life\\nPlayers deal {0}% reduced Damage with [HitDamage|Hits] against Enemies that are on Full Life",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "damage_+%_while_not_escaping_heist": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "damage_+%_while_not_escaping_heist"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Damage while area is not in Lockdown\\nPlayers deal {0}% increased Damage while area is not in Lockdown",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Damage while area is not in Lockdown\\nPlayers deal {0}% reduced Damage while area is not in Lockdown",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_blueprint_avoid_alarm_chance_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_blueprint_avoid_alarm_chance_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not Activate Lockdown in Grand Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_blighted_maps_and_catalysts_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_blighted_maps_and_catalysts_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Blighted Maps and Catalysts",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Blighted Maps and Catalysts",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_breach_splinters_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_breach_splinters_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Breach Splinters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Breach Splinters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_catalysts_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_catalysts_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Catalysts",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Catalysts",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_currency_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_currency_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Basic Currency",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Basic Currency",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_delirium_orbs_and_splinters_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_delirium_orbs_and_splinters_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Delirium Orbs and Splinters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Delirium Orbs and Splinters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_divination_cards_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_divination_cards_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Divination Cards",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Divination Cards",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_essences_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_essences_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Essences",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Essences",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_jewels_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_jewels_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Jewels",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Jewels",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_legion_splinters_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_legion_splinters_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Legion Splinters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Legion Splinters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_map_fragments_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_map_fragments_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Map Fragments",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Map Fragments",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_maps_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_maps_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Maps",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Maps",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_oils_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_oils_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Oils",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Oils",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_scarabs_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_scarabs_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Scarabs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests Duplicate contained Scarabs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_sextants_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_sextants_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to Duplicate contained Sextants",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Heist Chests duplicate contained Sextants",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_chests_double_uniques_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_chests_double_uniques_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Heist Chests have a {0}% chance to contain twice as many Uniques",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Heist Chests contain twice as many Uniques",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_coins_dropped_by_monsters_double_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_coins_dropped_by_monsters_double_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Monsters have {0}% chance to Duplicate dropped Rogue's Marker",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Monsters Duplicate dropped Rogue's Marker",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_contract_additional_whakano_intelligence_chance_on_completion_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_additional_whakano_intelligence_chance_on_completion_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance on completing a Heist to generate an additional Reveal with Whakano",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_contract_alert_level_from_chests_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_alert_level_from_chests_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased raising of Alert Level from opening Chests",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced raising of Alert Level from opening Chests",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_alert_level_from_guards_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_alert_level_from_guards_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Alert Level from killing Guards",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Alert Level from killing Guards",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_alert_level_from_monsters_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_alert_level_from_monsters_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased raising of Alert Level from Killing Monsters",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced raising of Alert Level from Killing Monsters",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_alert_level_from_patrols_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_alert_level_from_patrols_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Alert Level from killing Patrol Packs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Alert Level from killing Patrol Packs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_alert_level_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_alert_level_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased raising of Alert Level",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced raising of Alert Level",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_alert_level_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_alert_level_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% more raising of Alert Level",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% less raising of Alert Level",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_avoid_alarm_chance_%_on_kill": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_avoid_alarm_chance_%_on_kill"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance on killing an Enemy to not generate Alert Level",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_contract_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance on opening a Chest to not generate Alert Level",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_contract_detect_patrol_radius_when_no_alert": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_detect_patrol_radius_when_no_alert"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Can detect enemy Patrols up to {0} Units Away when Heist is not in Lockdown",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_contract_gang_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_gang_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "The Ring's Cut increased by {0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "The Ring's Cut reduced by {0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_lockdown_timer_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_lockdown_timer_+"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} seconds to Lockdown Timer",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_lockdown_timer_+_halved": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_lockdown_timer_+_halved"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} seconds to Lockdown Timer",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_halved": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_halved",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_lockdown_timer_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_lockdown_timer_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased time before Lockdown",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced time before Lockdown",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_lockdown_timer_+%_halved": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_lockdown_timer_+%_halved"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased time before Lockdown",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_two_0dp": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_two_0dp",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced time before Lockdown",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1,
-            "divide_by_two_0dp": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            },
+            {
+              "Name": "divide_by_two_0dp",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_agility_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_agility_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Agility Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Agility Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_agility_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_agility_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Agility Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Agility Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_brute_force_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_brute_force_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Brute Force Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Brute Force Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_brute_force_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_brute_force_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Brute Force Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Brute Force Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_counter_thaumaturgy_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_counter_thaumaturgy_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Counter-Thaumaturgy Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Counter-Thaumaturgy Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_counter_thaumaturgy_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_counter_thaumaturgy_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Counter-Thaumaturgy Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Counter-Thaumaturgy Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_deception_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_deception_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Deception Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Deception Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_deception_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_deception_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Deception Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Deception Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_demolition_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_demolition_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Demolition Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Demolition Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_demolition_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_demolition_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Demolition Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Demolition Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_engineering_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_engineering_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Engineering Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Engineering Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_engineering_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_engineering_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Engineering Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Engineering Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Job Experience gain",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Job Experience gain",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to Character Level",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_contract_npc_lockpicking_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_lockpicking_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Lockpicking Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Lockpicking Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_lockpicking_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_lockpicking_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Lockpicking Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Lockpicking Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_perception_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_perception_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Perception Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Perception Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_perception_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_perception_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Perception Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Perception Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_trap_disarmament_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_trap_disarmament_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Hiring Fee for Trap Disarmament Jobs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Hiring Fee for Trap Disarmament Jobs",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_npc_trap_disarmament_experience_gain_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_npc_trap_disarmament_experience_gain_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Trap Disarmament Experience gained",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Trap Disarmament Experience gained",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_objective_completion_time_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_objective_completion_time_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Job speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Job speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_primary_target_value_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_primary_target_value_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Rogue's Marker value of primary Heist Target",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Rogue's Marker value of primary Heist Target",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_contract_travel_cost_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_contract_travel_cost_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Travel Fee",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Travel Fee",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_interruption_resistance_%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_interruption_resistance_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to Avoid being Interrupted",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_item_quantity_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_item_quantity_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Quantity of Items dropped in Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Quantity of Items dropped in Heists",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_item_rarity_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_item_rarity_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Rarity of Items dropped in Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Rarity of Items dropped in Heists",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_agility_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_agility_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Agility",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_agility_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_agility_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Agility Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_agility_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_agility_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Agility speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Agility speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_brute_force_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_brute_force_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Brute Force",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_brute_force_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_brute_force_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Brute Force Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_brute_force_no_alert_multiplier": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_brute_force_no_alert_multiplier"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Performing Brute Force during Lockdown doesn't take additional time",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_brute_force_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_brute_force_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Brute Force speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Brute Force speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_counter_thaumaturgy_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_counter_thaumaturgy_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Counter-Thaumaturgy",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_counter_thaumaturgy_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_counter_thaumaturgy_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Counter-Thaumaturgy Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_counter_thaumaturgy_no_alert_multiplier": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_counter_thaumaturgy_no_alert_multiplier"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Performing Counter-Thaumaturgy during Lockdown doesn't take additional time",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_counter_thaumaturgy_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_counter_thaumaturgy_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Counter-Thaumaturgy speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Counter-Thaumaturgy speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_deception_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_deception_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Deception",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_deception_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_deception_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Deception Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_deception_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_deception_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Deception speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Deception speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_demolition_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_demolition_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Demolition",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_demolition_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_demolition_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Demolition Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_demolition_no_alert_multiplier": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_demolition_no_alert_multiplier"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Performing Demolition during Lockdown doesn't take additional time",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_demolition_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_demolition_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Demolition speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Demolition speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_engineering_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_engineering_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Engineering",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_engineering_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_engineering_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Engineering Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_engineering_no_alert_multiplier": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_engineering_no_alert_multiplier"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Performing Engineering during Lockdown doesn't take additional time",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_engineering_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_engineering_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Engineering speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Engineering speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Level of all Jobs for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_lockpicking_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_lockpicking_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Lockpicking",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_lockpicking_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_lockpicking_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Lockpicking Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_lockpicking_no_alert_multiplier": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_lockpicking_no_alert_multiplier"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Performing Lockpicking during Lockdown doesn't take additional time",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_lockpicking_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_lockpicking_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Lockpicking speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Lockpicking speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_perception_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_perception_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Perception",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_perception_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_perception_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Perception Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_perception_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_perception_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Perception speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Perception speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_job_trap_disarmament_avoid_alarm_chance_%_on_open_chest": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_trap_disarmament_avoid_alarm_chance_%_on_open_chest"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% chance to not generate Alert Level on opening a Chest using Trap Disarmament",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_trap_disarmament_level_+": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_trap_disarmament_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "+{0} to Trap Disarmament Level for Heists",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_job_trap_disarmament_speed_+%": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_job_trap_disarmament_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Trap Disarmament speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Trap Disarmament speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "heist_npc_uses_level_x_anger_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_anger_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Anger Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_cold_resist_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_cold_resist_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Purity of Ice Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_determination_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_determination_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Determination Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_discipline_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_discipline_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Discipline Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_fire_resist_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_fire_resist_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Purity of Fire Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_grace_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_grace_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Grace Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_haste_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_haste_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Haste Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_hatred_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_hatred_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Hatred Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_lightning_resist_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_lightning_resist_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Purity of Lightning Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_malevolence_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_malevolence_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Malevolence Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_pride_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_pride_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Pride Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_wrath_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_wrath_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Wrath Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "heist_npc_uses_level_x_zealotry_aura": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "heist_npc_uses_level_x_zealotry_aura"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Grants Level {0} Zealotry Skill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "local_item_sell_price_doubled": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "local_item_sell_price_doubled"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Item sells for much more to vendors",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "movement_speed_+%_while_not_escaping_heist": {
+    {
+      "Path": "metadata/statdescriptions/heist_equipment_stat_descriptions",
+      "Ids": [
+        "movement_speed_+%_while_not_escaping_heist"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Movement Speed while area is not in Lockdown\\nPlayers have {0}% increased Movement Speed while area is not in Lockdown",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced Movement Speed while area is not in Lockdown\\nPlayers have {0}% reduced Movement Speed while area is not in Lockdown",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

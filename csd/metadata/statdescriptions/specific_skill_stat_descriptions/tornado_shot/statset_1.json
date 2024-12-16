@@ -1,144 +1,216 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
-  "Entries": {
-    "active_skill_base_area_of_effect_radius": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": []
     },
-    "base_number_of_tornado_shots_allowed": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "base_number_of_projectiles",
+        "skill_can_fire_arrows"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "2|# #",
+          "Description": "Tornado spits out {0} copies of [Projectile|Projectiles] fired into it",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "base_number_of_tornado_shots_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Limit {0} Tornado",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Limit {0} Tornadoes",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Maximum Tornado duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Maximum Tornado duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "number_of_tornado_shots_allowed": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "number_of_tornado_shots_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Tornado Limit@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum Tornado duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "tornado_shot_number_of_hits_allowed": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "tornado_shot_number_of_hits_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Number of [HitDamage|Hits] before Tornado disappears@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1",
           "Description": "Tornado disappears after being [HitDamage|Hit] once",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Tornado disappears after being [HitDamage|Hit] {0} times",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "tornado_shot_projectile_damage_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "tornado_shot_projectile_damage_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Copied [Projectile|Projectiles] damage penalty@{0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "1|#",
           "Description": "Copied [Projectile|Projectiles] deal {0}% more damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Copied [Projectile|Projectiles] deal {0}% less damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "tornado_shot_projectile_range": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "tornado_shot_projectile_range"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Copied [Projectile|Projectiles] maximum range@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Copied [Projectile|Projectiles] have a maximum travel distance of {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "total_number_of_projectiles_to_fire": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/tornado_shot/statset_1",
+      "Ids": [
+        "total_number_of_projectiles_to_fire"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Copied [Projectile|Projectiles] fired@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

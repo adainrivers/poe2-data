@@ -1,23 +1,30 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/heavy_strike",
-  "Entries": {
-    "active_skill_attack_speed_+%_final_while_dual_wielding": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/heavy_strike",
+      "Ids": [
+        "active_skill_attack_speed_+%_final_while_dual_wielding"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% more attack speed while [DualWield|Dual Wielding]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% less attack speed while [DualWield|Dual Wielding]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

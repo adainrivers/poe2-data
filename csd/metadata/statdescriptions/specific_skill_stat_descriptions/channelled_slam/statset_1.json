@@ -1,92 +1,133 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_1",
-  "Entries": {
-    "base_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_1",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": []
     },
-    "active_skill_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_1",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Explosion radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_1",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Aftershock radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Aftershock radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "aftershock_radius_+_per_previous_aftershock": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_1",
+      "Ids": [
+        "aftershock_radius_+_per_previous_aftershock"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Radius per successive aftershock@{0:+d}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "10",
           "Description": "Each successive aftershock gains {0:+d} metre to radius",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Each successive aftershock gains {0:+d} metres to radius",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "channelled_slam_damage_+%_final_per_stage": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_1",
+      "Ids": [
+        "channelled_slam_damage_+%_final_per_stage"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "More [HitDamage|Hit] damage per stage@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "{0}% more damage with [HitDamage|Hits] for each stage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% less damage with [HitDamage|Hits] for each stage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

@@ -1,101 +1,134 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/demon_transformation",
-  "Entries": {
-    "demon_form_grants_cast_speed_+%": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/demon_transformation",
+      "Ids": [
+        "demon_form_grants_cast_speed_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "Increased Cast Speed granted@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "{0}% increased Cast Speed while in Demon Form",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% decreased Cast Speed while in Demon Form",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "demon_form_grants_spell_gem_level_+": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/demon_transformation",
+      "Ids": [
+        "demon_form_grants_spell_gem_level_+"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Spell|Spell] Skill levels granted@+{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "{0:+d} to Level of all [Spell|Spell] Skills while in Demon Form",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "demon_form_life_loss_%_per_minute_per_stack": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/demon_transformation",
+      "Ids": [
+        "demon_form_life_loss_%_per_minute_per_stack"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[LifeLoss|Lose] {0}% of Life per second per Demonflame",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "demon_form_life_loss_per_minute_per_stack": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/demon_transformation",
+      "Ids": [
+        "demon_form_life_loss_per_minute_per_stack"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Life [LifeLoss|Loss] per second per Demonflame@{0}",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "demon_form_spell_damage_+%_per_stack": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/demon_transformation",
+      "Ids": [
+        "demon_form_spell_damage_+%_per_stack"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "Increased [Spell] damage granted per Demonflame@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "Deal {0}% increased [Spell] damage per Demonflame",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Deal {0}% reduced [Spell] damage per Demonflame",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "max_demon_form_stacks": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/demon_transformation",
+      "Ids": [
+        "max_demon_form_stacks"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum Demonflame@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

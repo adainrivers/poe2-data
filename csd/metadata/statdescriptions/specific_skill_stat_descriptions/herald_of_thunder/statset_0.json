@@ -1,21 +1,25 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_thunder/statset_0",
-  "Entries": {
-    "herald_of_thunder_storm_max_hits": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_thunder/statset_0",
+      "Ids": [
+        "herald_of_thunder_storm_max_hits"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Bolts granted on kill@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Lightning Bolts strike the targets of your next {0} [Attack|Attack] [HitDamage|Hits]\\nafter Killing a [Shock|Shocked] Enemy with [Attack|Attack] Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

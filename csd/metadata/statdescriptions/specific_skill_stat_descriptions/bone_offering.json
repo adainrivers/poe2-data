@@ -1,40 +1,61 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_offering",
-  "Entries": {
-    "base_secondary_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_offering",
+      "Ids": [
+        "base_secondary_skill_effect_duration"
+      ],
       "Descriptions": []
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_offering",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Spike duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Spike duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_offering",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Spike duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

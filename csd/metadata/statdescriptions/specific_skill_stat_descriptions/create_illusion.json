@@ -1,11 +1,52 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/create_illusion",
-  "Entries": {
-    "spells_have_culling_strike": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/create_illusion",
+      "Ids": [
+        "spells_have_culling_strike"
+      ],
       "Descriptions": []
     },
-    "chance_to_gain_1_more_charge_%": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/create_illusion",
+      "Ids": [
+        "chance_to_gain_1_more_charge_%"
+      ],
       "Descriptions": []
+    },
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/create_illusion",
+      "Ids": [
+        "chance_to_gain_1_more_charge_%",
+        "quality_display_lingering_illusion_is_gem"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "Additional [Charges|Power Charge] chance@{0}%",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1|99 #",
+          "Description": "{0}% chance to grant an additional [Charges|Power Charge] when killed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# #",
+          "Description": "Grants an additional [Charges|Power Charge] when killed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0",
+          "Description": "{0:+d}% chance to grant an additional [Charges|Power Charge] when killed",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
     }
-  }
+  ]
 }

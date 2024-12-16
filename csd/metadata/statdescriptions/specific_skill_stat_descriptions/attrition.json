@@ -1,21 +1,46 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/attrition",
-  "Entries": {
-    "skill_attrition_culling_strike_at_x_or_more_stacks": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/attrition",
+      "Ids": [
+        "skill_attrition_culling_strike_at_x_or_more_stacks"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[CullingStrike|Culling Strike] time in [Presence] requirement@{0}s",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "You have [CullingStrike|Culling Strike] against [Rarity|Rare] and [Rarity|Unique] enemies that have been in your [Presence] for a total of at least {0} seconds",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/attrition",
+      "Ids": [
+        "skill_attrition_hit_damage_+%_final_vs_rare_or_unique_enemy_per_second_ever_in_presence_up_to_max",
+        "skill_attrition_presence_max_seconds"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|# 1|# table_only",
+          "Description": "[HitDamage|Hit] damage for every 2 seconds in [Presence] (max)@{0}% ({1}%)",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1|# 1|#",
+          "Description": "You deal {0}% more [HitDamage|Hit] damage to [Rarity|Rare] and [Rarity|Unique] enemies for every 2 seconds they have ever been in your [Presence], up to {1}%",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

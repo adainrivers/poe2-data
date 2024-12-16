@@ -1,113 +1,164 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/dread_banner",
-  "Entries": {
-    "active_skill_area_of_effect_radius": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/dread_banner",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Banner [Aura] radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/dread_banner",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Banner [Aura] radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Banner [Aura] radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/dread_banner",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Banner duration is {0} second, or until you leave the [Aura]",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Banner duration is {0} seconds, or until you leave the [Aura]",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_dread_banner_flask_gen_per_min": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/dread_banner",
+      "Ids": [
+        "skill_dread_banner_flask_gen_per_min"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Flask] charges per second@{0}",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Aura grants {0} [Flask] charges per second",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_dread_banner_stun_and_ailment_threshold_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/dread_banner",
+      "Ids": [
+        "skill_dread_banner_stun_and_ailment_threshold_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "More [StunThreshold|Stun] and [AilmentThreshold|Ailment Threshold]@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "Aura grants {0}% more [StunThreshold|Stun Threshold] and\\n[AilmentThreshold|Elemental Ailment Threshold]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Aura grants {0}% less [StunThreshold|Stun Threshold] and\\n[AilmentThreshold|Elemental Ailment Threshold]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/dread_banner",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum Banner duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

@@ -1,58 +1,86 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/molten_blast/statset_0",
-  "Entries": {
-    "base_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/molten_blast/statset_0",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": []
     },
-    "active_skill_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/molten_blast/statset_0",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Explosion radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_attack_speed_+%_final_while_dual_wielding": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/molten_blast/statset_0",
+      "Ids": [
+        "active_skill_attack_speed_+%_final_while_dual_wielding"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "While [DualWield|Dual Wielding], fires twice as many [Projectile|Projectiles] with {0}% more attack speed",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "While [DualWield|Dual Wielding], fires twice as many [Projectile|Projectiles] with {0}% less attack speed",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/molten_blast/statset_0",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Explosion radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Explosion radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

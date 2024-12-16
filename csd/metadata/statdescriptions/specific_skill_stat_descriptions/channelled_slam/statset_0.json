@@ -1,80 +1,112 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_0",
-  "Entries": {
-    "base_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_0",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": []
     },
-    "active_skill_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_0",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Impact radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_0",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Impact radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Impact radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "channelled_slam_damage_+%_final_per_stage": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_0",
+      "Ids": [
+        "channelled_slam_damage_+%_final_per_stage"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "More [HitDamage|Hit] damage per stage@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "{0}% more Damage with [HitDamage|Hits] for each stage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% less Damage with [HitDamage|Hits] for each stage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "channelled_slam_max_stages": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/channelled_slam/statset_0",
+      "Ids": [
+        "channelled_slam_max_stages"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum Stages@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Maximum {0} Stages\\nChannelling ends 1 second after reaching maximum Stages\\nReleases 1 [Aftershock|Aftershock] per Stage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

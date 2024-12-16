@@ -1,57 +1,77 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/overwhelming_pressure",
-  "Entries": {
-    "skill_overwhelming_pressure_aura_enemy_ailment_threshold_+%": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/overwhelming_pressure",
+      "Ids": [
+        "skill_overwhelming_pressure_aura_enemy_ailment_threshold_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Enemy [AilmentThreshold|Elemental Ailment Threshold] reduction@{0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "1|#",
           "Description": "Enemies in your [Presence] have {0}% increased\\n[AilmentThreshold|Elemental Ailment Threshold]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Enemies in your [Presence] have {0}% reduced\\n[AilmentThreshold|Elemental Ailment Threshold]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_overwhelming_pressure_aura_enemy_stun_threshold_+%": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/overwhelming_pressure",
+      "Ids": [
+        "skill_overwhelming_pressure_aura_enemy_stun_threshold_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Enemy [StunThreshold|Stun Threshold] reduction@{0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "1|#",
           "Description": "Enemies in your [Presence] have {0}% increased [StunThreshold|Stun Threshold]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Enemies in your [Presence] have {0}% reduced [StunThreshold|Stun Threshold]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

@@ -1,41 +1,55 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/temporal_rift",
-  "Entries": {
-    "temporal_rift_maximum_snapshots": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/temporal_rift",
+      "Ids": [
+        "temporal_rift_maximum_snapshots"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum afterimages@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Maximum {0} afterimages",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "temporal_rift_snapshot_interval": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/temporal_rift",
+      "Ids": [
+        "temporal_rift_snapshot_interval"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Afterimage creation interval@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Creates an afterimage every {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

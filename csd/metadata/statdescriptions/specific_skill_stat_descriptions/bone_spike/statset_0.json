@@ -1,66 +1,95 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_0",
-  "Entries": {
-    "base_secondary_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_0",
+      "Ids": [
+        "base_secondary_skill_effect_duration"
+      ],
       "Descriptions": []
     },
-    "base_number_of_allowed_bone_storm_projectiles": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_0",
+      "Ids": [
+        "base_number_of_allowed_bone_storm_projectiles"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum [Projectile|Projectiles]@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Can fire up to {0} [Projectile|Projectiles]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_0",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "[Debuff] duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "[Debuff] duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_0",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Debuff] duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "total_number_of_projectiles_to_fire": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/bone_spike/statset_0",
+      "Ids": [
+        "total_number_of_projectiles_to_fire"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Projectile|Projectiles] fired per stage@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

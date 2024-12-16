@@ -1,45 +1,63 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/time_of_need",
-  "Entries": {
-    "base_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/time_of_need",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0} second duration between Blessings",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/time_of_need",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Duration between blessings@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_time_of_need_gain_x_life": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/time_of_need",
+      "Ids": [
+        "skill_time_of_need_gain_x_life"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Blessing Life recovery@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Blessing recovers {0} Life and removes [Curse|Curses] and [ElementalAilments|Elemental Ailments]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

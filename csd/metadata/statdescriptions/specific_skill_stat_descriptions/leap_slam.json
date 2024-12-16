@@ -1,64 +1,92 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/leap_slam",
-  "Entries": {
-    "cannot_break_armour": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/leap_slam",
+      "Ids": [
+        "cannot_break_armour"
+      ],
       "Descriptions": []
     },
-    "active_skill_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/leap_slam",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Impact radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/leap_slam",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Impact radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Impact radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_consume_enemy_fully_broken_armour_to_gain_hit_damage_stun_multiplier_+%": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/leap_slam",
+      "Ids": [
+        "active_skill_consume_enemy_fully_broken_armour_to_gain_hit_damage_stun_multiplier_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "More [Stun] buildup against [ArmourBreak|Broken Armour]@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "Consumes [ArmourBreak|Fully Broken Armour] on enemies to cause {0}% more [Stun] buildup",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Consumes [ArmourBreak|Fully Broken Armour] on enemies to cause {0}% less [Stun] buildup",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

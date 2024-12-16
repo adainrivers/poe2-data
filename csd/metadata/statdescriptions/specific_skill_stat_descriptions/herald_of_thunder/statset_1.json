@@ -1,53 +1,82 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_thunder/statset_1",
-  "Entries": {
-    "herald_of_thunder_storm_max_hits": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_thunder/statset_1",
+      "Ids": [
+        "herald_of_thunder_storm_max_hits"
+      ],
       "Descriptions": []
     },
-    "never_shock": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_thunder/statset_1",
+      "Ids": [
+        "never_shock"
+      ],
       "Descriptions": []
     },
-    "active_skill_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_thunder/statset_1",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Bolt impact radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_thunder/statset_1",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Bolt impact radius is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Bolt impact radius is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_physical_damage_%_to_convert_to_lightning": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_thunder/statset_1",
+      "Ids": [
+        "active_skill_base_physical_damage_%_to_convert_to_lightning"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% of Bolt [Physical] Damage\\n[Conversion|Converted] to [Lightning] Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

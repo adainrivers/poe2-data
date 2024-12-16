@@ -1,41 +1,55 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_agony",
-  "Entries": {
-    "herald_of_agony_poison_on_enemies_you_kill_spread_to_enemies_within_x": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_agony",
+      "Ids": [
+        "herald_of_agony_poison_on_enemies_you_kill_spread_to_enemies_within_x"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Poison] [AilmentSpread|Spread] radius on Kill@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "[AilmentSpread|Spreads] the most Damaging [Poison] on enemies you kill in a {0} metre radius",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "hinder_chance_%_on_spreading_poioson": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/herald_of_agony",
+      "Ids": [
+        "hinder_chance_%_on_spreading_poioson"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Chance to [Hinder] on spreading [Poison]@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "{0}% chance to [Hinder] enemies on spreading [Poison] to them",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

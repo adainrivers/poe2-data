@@ -1,41 +1,55 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/alchemist_boon",
-  "Entries": {
-    "recovery_from_flasks_applies_to_allies_in_presence_%": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/alchemist_boon",
+      "Ids": [
+        "recovery_from_flasks_applies_to_allies_in_presence_%"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Flask] recovery granted to [Allies]@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "{0}% of recovery from your [Flask|Flasks] is also\\ngranted to [Allies] in your [Presence]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "skill_alchemists_boon_generate_x_charges_for_any_flask_per_minute": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/alchemist_boon",
+      "Ids": [
+        "skill_alchemists_boon_generate_x_charges_for_any_flask_per_minute"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Flask] charges per second@{0}",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Grants you {0} [Flask] charges per second",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

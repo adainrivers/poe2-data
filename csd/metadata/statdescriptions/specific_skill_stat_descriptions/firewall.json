@@ -1,121 +1,216 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
-  "Entries": {
-    "base_fire_damage_to_deal_per_minute": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "base_fire_damage_to_deal_per_minute"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Wall deals {0} [Fire] Damage per second",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_secondary_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "base_secondary_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Lingering [Ignite] duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Lingering [Ignite] duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Wall duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Wall duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "flame_wall_projectiles_gain_all_damage_%_as_fire": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "flame_wall_minimum_added_fire_damage",
+        "flame_wall_maximum_added_fire_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Projectile] added [Fire] damage@{0}–{1}",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# #",
+          "Description": "[Projectile|Projectiles] which pass through the wall deal {0} to {1} Added [Fire] Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "flame_wall_projectiles_gain_all_damage_%_as_fire"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "[Projectile] gains extra {0}% damage as [Fire]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "[Projectile|Projectiles] which pass through the wall gain extra {0}% damage as [Fire]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "secondary_base_fire_damage_to_deal_per_minute": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "secondary_base_fire_damage_to_deal_per_minute"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Lingering [Ignite] deals {0} [Fire] Damage per second",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "secondary_intermediary_fire_skill_dot_damage_to_deal_per_minute": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "secondary_intermediary_fire_skill_dot_damage_to_deal_per_minute"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Lingering [Ignite] damage per second@{0}",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "secondary_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "secondary_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Lingering [Ignite] duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Wall duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/firewall",
+      "Ids": [
+        "spell_minimum_base_fire_damage",
+        "spell_maximum_base_fire_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# #",
+          "Description": "[Ignite|Ignites] as though dealing {0} to {1} [Fire] damage",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

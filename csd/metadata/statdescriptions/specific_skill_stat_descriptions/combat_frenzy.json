@@ -1,31 +1,41 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/combat_frenzy",
-  "Entries": {
-    "skill_combat_frenzy_x_ms_cooldown": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/combat_frenzy",
+      "Ids": [
+        "skill_combat_frenzy_x_ms_cooldown"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Minimum [Charges|Frenzy Charge] gain interval@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "1000",
           "Description": "Gain a [Charges|Frenzy Charge] when you [Freeze], [Electrocute] or [Pinned|Pin] an enemy, no more than once per second",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Gain a [Charges|Frenzy Charge] when you [Freeze], [Electrocute] or [Pinned|Pin] an enemy, no more than once every {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

@@ -1,1168 +1,1645 @@
 {
   "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
-  "Entries": {
-    "damage_taken_+%_from_hits": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "damage_taken_+%_from_hits"
+      ],
       "Descriptions": []
     },
-    "base_devotion": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_devotion"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to Devotion",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_strength": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_strength"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to [Strength]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "strength_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "strength_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [Strength]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [Strength]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_dexterity": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_dexterity"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to [Dexterity]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "dexterity_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "dexterity_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [Dexterity]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [Dexterity]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_intelligence": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_intelligence"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to [Intelligence]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "intelligence_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "intelligence_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [Intelligence]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [Intelligence]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "mana_regeneration_rate_per_minute_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "mana_regeneration_rate_per_minute_%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Regenerate {0}% of Mana per second",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "mana_regeneration_rate_per_minute_%_per_power_charge": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "mana_regeneration_rate_per_minute_%_per_power_charge"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Regenerate {0}% of Mana per second per Power Charge",
           "IsCanonical": false,
-          "Parameters": {
-            "per_minute_to_per_second": 1
-          }
+          "Parameters": [
+            {
+              "Name": "per_minute_to_per_second",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "max_endurance_charges": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "max_endurance_charges"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to Maximum [Charges|Endurance Charges]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "max_frenzy_charges": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "max_frenzy_charges"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to Maximum [Charges|Frenzy Charges]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "max_power_charges": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "max_power_charges"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to Maximum [Charges|Power Charges]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "physical_damage_+%_per_frenzy_charge": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "physical_damage_+%_per_frenzy_charge"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased Physical Damage per Frenzy Charge",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "add_frenzy_charge_on_kill": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "add_frenzy_charge_on_kill"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Gain a Frenzy Charge on Kill",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_iron_reflexes": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_iron_reflexes"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[StatConversion|Converts] all [Evasion|Evasion Rating] to [Armour]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_avatar_of_fire": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_avatar_of_fire"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "75% of Damage Converted to Fire Damage\\nDeal no Non-Fire Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_eldritch_battery": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_eldritch_battery"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[StatConversion|Converts] all [EnergyShield|Energy Shield] to Mana",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_ancestral_bond": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_ancestral_bond"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Unlimited number of Summoned [Totem|Totems]\\nTotems reserve 100 [Spirit] each",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_number_of_spectres_allowed": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_number_of_spectres_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to Maximum number of Spectres",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_number_of_skeletons_allowed": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_number_of_skeletons_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to Maximum number of Skeletons",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_number_of_raging_spirits_allowed": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_number_of_raging_spirits_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to Maximum number of Summoned Raging Spirits",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_acrobatics": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_acrobatics"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Can [Evasion|Evade] all Hits\\n70% less [Evasion] Rating",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_pain_attunement": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_pain_attunement"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "30% less [CriticalDamageBonus|Critical Damage Bonus] when on Full Life\\n30% more Critical Damage Bonus when on [LowLife|Low Life]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_strong_bowman": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_strong_bowman"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "1% increased [Projectile] [Attack] damage per 2 [Strength]\\n[Strength] provides no bonus to Life",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_point_blank": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_point_blank"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Projectile [Attack] Hits deal up to 30% more Damage to targets at the start of their movement, dealing less Damage to targets as the projectile travels farther",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_conduit": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_conduit"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "If you would gain a [Charges|Charge], [Allies] in your [Presence] gain that Charge instead",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_projectile_evasion": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_projectile_evasion"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Evasion] Rating is Doubled against Projectile Attacks\\n25% less [Evasion] Rating against [Melee] [Attack|Attacks]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_blood_magic": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_blood_magic"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Removes all Mana\\nSkill Mana Costs [StatConversion|Converted] to Life Costs",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_minion_instability": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_minion_instability"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Minions Explode when reduced to [LowLife|Low Life], dealing 33% of their Life as Fire Damage to surrounding Enemies",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_elemental_equilibrium": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_elemental_equilibrium"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[HitDamage|Hits] that deal [Fire] Damage remove [Fire] [Exposure] and inflict [Lightning] [Exposure]\\n[HitDamage|Hits] that deal [Cold] Damage remove [Cold] [Exposure] and inflict [Fire] [Exposure]\\n[HitDamage|Hits] that deal [Lightning] Damage remove [Lightning] [Exposure] and inflict [Cold] [Exposure]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_chaos_inoculation": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_chaos_inoculation"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Maximum Life becomes 1, Immune to [Chaos] Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_vaal_pact": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_vaal_pact"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[LifeLeech|Life Leech] is Instant\\nCannot use Life [Flask|Flasks]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "critical_strike_chance_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "critical_strike_chance_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [Critical|Critical Hit Chance]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [Critical|Critical Hit Chance]",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "staff_block_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "staff_block_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d}% Chance to Block [Attack] Damage while wielding a Staff",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_mana_shield": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_mana_shield"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "All [DamageTypes|Damage] is taken from Mana before Life\\n50% less Mana Recovery Rate",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "resolute_technique": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "resolute_technique"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Your [HitDamage|Hits] can't be [Evasion|Evaded]\\nNever deal [Critical|Critical Hits]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_unwavering_stance": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_unwavering_stance"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Your [StunThreshold|Stun Threshold] is doubled\\nCannot Dodge Roll",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "passive_can_be_allocated_without_connection": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "passive_can_be_allocated_without_connection"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Can be allocated without connection to the tree",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_strength_and_dexterity": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_strength_and_dexterity"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to [Strength|Strength] and [Dexterity|Dexterity]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_strength_and_intelligence": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_strength_and_intelligence"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to [Strength|Strength] and [Intelligence|Intelligence]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_dexterity_and_intelligence": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_dexterity_and_intelligence"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to [Dexterity|Dexterity] and [Intelligence|Intelligence]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "global_chance_to_blind_on_hit_%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "global_chance_to_blind_on_hit_%"
+      ],
       "Descriptions": [
         {
           "Operator": "#|99",
           "Description": "{0}% chance to [Blind] Enemies on [HitDamage|Hit]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "[Blind] Enemies on [HitDamage|Hit]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_number_of_golems_allowed": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "active_skill_additional_projectiles_description_mode",
+        "number_of_additional_projectiles"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "0 1",
+          "Description": "Skills fire an additional [Projectile|Projectile]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0 2|#",
+          "Description": "Skills fire {1} additional [Projectile|Projectiles]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_number_of_golems_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "{0:+d} to maximum number of Summoned Golems",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "display_can_take_character_start_point": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "display_can_take_character_start_point"
+      ],
       "Descriptions": [
         {
           "Operator": "1",
           "Description": "Can Allocate Passives from the Marauder's starting point",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2",
           "Description": "Can Allocate Passives from the Ranger's starting point",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "3",
           "Description": "Can Allocate Passives from the Witch's starting point",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "4",
           "Description": "Can Allocate Passives from the Duelist's starting point",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "5",
           "Description": "Can Allocate Passives from the Templar's starting point",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "6",
           "Description": "Can Allocate Passives from the Shadow's starting point",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "consecrate_ground_on_kill_%_for_3_seconds": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "consecrate_ground_on_kill_%_for_3_seconds"
+      ],
       "Descriptions": [
         {
           "Operator": "1|99",
           "Description": "{0}% chance to create Consecrated Ground on Kill, lasting 8 seconds",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "100|#",
           "Description": "Create Consecrated Ground on Kill, lasting 8 seconds",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "ascendancy_chronomancer_apex_of_the_moment_base_slow_aura_value": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "ascendancy_chronomancer_apex_of_the_moment_base_slow_aura_value"
+      ],
       "Descriptions": [
         {
           "Operator": "#|-1",
           "Description": "Enemies in your [Presence|Presence] are [Slow|Slowed] by {0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "chill_effect_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "chill_effect_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [BuffMagnitude|Magnitude] of [Chill] you inflict",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [BuffMagnitude|Magnitude] of [Chill] you inflict",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "crushing_blow": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "crushing_blow"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Your [HitDamage|Hits] are [CrushingBlow|Crushing Blows]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "display_nearby_enemies_are_taunted": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "display_nearby_enemies_are_taunted"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[DNT] Enemies in Close Range are Taunted",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "display_you_have_x_fortification": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "display_you_have_x_fortification"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "You have {0} Fortification",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "every_1_second_nearby_enemies_withered_for_X_ms": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "every_1_second_nearby_enemies_withered_for_X_ms"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Every second, inflict Withered on nearby Enemies for {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "keystone_bulwark": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_bulwark"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Dodge Roll cannot Avoid Damage\\nTake 30% less [HitDamage|Damage from Hits] while Dodge Rolling",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_crimson_dance": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_crimson_dance"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "You can inflict Bleeding on an Enemy up to 8 times\\nYour Bleeding does not deal extra Damage while the Enemy is moving\\n50% less Damage with Bleeding",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_dance_with_death": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_dance_with_death"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "25% more Skill Speed while Off Hand is empty and you have\\na [One-Handed] [MartialWeapon|Martial Weapon] equipped in your Main Hand",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_giants_blood": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_giants_blood"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "You can wield [Two-Handed] [Axe|Axes], [Mace|Maces] and [Sword|Swords] in one hand\\nTriple [Attributes|Attribute] requirements of weapons",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_zealots_oath": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_zealots_oath"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Excess Life Recovery from Regeneration is applied to [EnergyShield|Energy Shield]\\n[EnergyShield|Energy Shield] does not Recharge",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "life_mastery_nearby_enemy_life_regeneration_rate_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "life_mastery_nearby_enemy_life_regeneration_rate_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Nearby Enemies have {0}% increased Life Regeneration Rate",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "Nearby Enemies have {0}% reduced Life Regeneration Rate",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "no_barrage_projectile_spread": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "no_barrage_projectile_spread"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "Projectile Barrages have no spread",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "physical_damage_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "physical_damage_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [Physical] Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [Physical] Damage",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "shock_effect_+%": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "shock_effect_+%"
+      ],
       "Descriptions": [
         {
           "Operator": "1|#",
           "Description": "{0}% increased [BuffMagnitude|Magnitude] of [Shock|Shock] you inflict",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% reduced [BuffMagnitude|Magnitude] of [Shock|Shock] you inflict",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "start_at_zero_energy_shield": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "start_at_zero_energy_shield"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Your [EnergyShield|Energy Shield] starts at zero",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "base_phasing_without_visual": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "base_phasing_without_visual"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Phasing",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "local_jewel_display_number_of_allocated_passives_between_jewel_and_class_start": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "local_jewel_display_number_of_allocated_passives_between_jewel_and_class_start"
+      ],
       "Descriptions": [
         {
           "Operator": "-1",
           "Description": "No path found to your Class' starting location",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "{0} Allocated Passive Skills between this Socket and your Class' starting location",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_alternate_dexterity_bonus": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_alternate_dexterity_bonus"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Dexterity|Dexterity]'s inherent bonus is 1% increased [Armour|Armour] per 2 Dexterity instead",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_alternate_intelligence_bonus": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_alternate_intelligence_bonus"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Intelligence|Intelligence]'s inherent bonus is 1% increased [Evasion|Evasion Rating] per 2 Intelligence instead",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_alternate_strength_bonus": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_alternate_strength_bonus"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Strength|Strength]'s inherent bonus is 1% increased [EnergyShield|Energy Shield] per 2 Strength instead",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_barbed_tips": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_barbed_tips"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Attack] Projectiles always inflict Bleeding and Maim, and Knock Back Enemies\\nProjectiles cannot Pierce, Fork or Chain",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_blind_monk": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_blind_monk"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "You are Blind\\nBlind does not affect your Light Radius\\n25% more [Melee] [Critical|Critical Hit] Chance while Blinded",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_call_to_arms": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_call_to_arms"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Using Warcries is Instant\\nWarcries share their Cooldown",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_charge_cycle": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_charge_cycle"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Gain [Charges|Power Charges] instead of [Charges|Frenzy Charges]\\nGain [Charges|Frenzy Charges] instead of [Charges|Endurance Charges]\\nGain [Charges|Endurance Charges] instead of [Charges|Power Charges]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_disciple_of_kitava": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_disciple_of_kitava"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Every second, Consume a nearby Corpse to Recover 5% of Life and Mana\\n10% more Damage taken if you haven't Consumed a Corpse [Recently]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_divine_flesh": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_divine_flesh"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "All Damage taken bypasses Energy Shield\\n50% of Elemental Damage taken as Chaos Damage\\n+5% to maximum Chaos Resistance",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_divine_shield": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_divine_shield"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Cannot Recover [EnergyShield|Energy Shield] to above Armour\\n3% of Physical Damage prevented from Hits Recently is Regenerated as [EnergyShield|Energy Shield] per second",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_elemental_overload": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_elemental_overload"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Skills that have dealt a [Critical|Critical Hit] in the past 8 seconds deal 40% more Elemental Damage with Hits\\nYour [Critical|Critical Hits] do not deal extra Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_emperors_heart": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_emperors_heart"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Life Recovery from [Flask|Flasks] also applies to Energy Shield\\n30% less Life Recovery from [Flask|Flasks]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_eternal_youth": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_eternal_youth"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Life [LifeRecharge|Recharges] instead of [ESRecharge|Energy Shield]\\nLife Recovery from [Flask|Flasks] applies to [EnergyShield|Energy Shield] instead",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_focused_rage": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_focused_rage"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Mana Recovery from Regeneration is not applied\\n1 Rage Regenerated for every 25 Mana Regeneration per Second\\nSkills Cost +3 Rage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_glancing_blows": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_glancing_blows"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Block] Chance is doubled\\nYou take 50% of Damage from Blocked [HitDamage|Hits]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_heartstopper": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_heartstopper"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Take 50% less Damage over Time if you've started taking Damage over Time in the past second\\nTake 50% more Damage over Time if you've haven't started taking Damage over Time in the past second",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_herald_of_doom": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_herald_of_doom"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "You can only have one Herald\\n50% more Effect of Herald Buffs on you\\n100% more Damage with Hits from Herald Skills\\n50% more Damage Over Time with Herald Skills\\nMinions from Herald Skills deal 25% more Damage\\nYour Aura Skills are Disabled",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_hex_master": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_hex_master"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "You can apply an additional [Curse]\\nDouble Activation Delay of [Curse|Curses]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_impale": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_impale"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "When your Hits Impale Enemies, also Impale other Enemies near them\\nInflict 4 additional Impales on Enemies you Impale\\nFor 4 seconds after you Impale Enemies, they cannot be Impaled again, and Impales cannot be Called from them",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_magebane": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_magebane"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Dexterity] provides no inherent bonus to [Evasion] Rating\\n+1% Chance to Suppress Spell Damage per 15 [Dexterity]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_magnetic_charge": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_magnetic_charge"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Nearby Allies and Enemies Share Charges with you\\nEnemies Hitting you have 10% chance to gain an Endurance, \\nFrenzy or Power Charge",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_mental_conditioning": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_mental_conditioning"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "80% of Maximum Mana is Converted to twice that much [Armour]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_natures_presence": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_natures_presence"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Gain 2 Grasping Vines each second while stationary\\n2% chance to deal Double Damage per Grasping Vine\\n1% less Damage taken per Grasping Vine",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_oasis": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_oasis"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Cannot use [Charm|Charms]\\n30% more Recovery from [Flask|Flasks]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_precise_technique": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_precise_technique"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "40% more [Attack] Damage if Accuracy Rating is higher than Maximum Life\\nNever deal [Critical|Critical Hits]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_prismatic_bulwark": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_prismatic_bulwark"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Armour] applies to Fire, Cold and Lightning Damage taken from Hits instead of Physical Damage\\n-15% to all maximum Elemental Resistances",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_quiet_might": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_quiet_might"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "3% more [Spell|Spell] Damage per [Charges|Power Charge]\\nGain [Charges|Power Charges] instead of [Charges|Frenzy Charges]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_runebinder": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_runebinder"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "-1 to maximum number of Summoned Totems\\nYou can have an additional Brand Attached to an Enemy",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_sacred_bastion": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_sacred_bastion"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "100% chance to Defend with 200% of Armour\\nMaximum Damage Reduction for any Damage Type is 50%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_secrets_of_suffering": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_secrets_of_suffering"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Cannot Ignite, Chill, Freeze or Shock\\n[Critical|Critical Hits] inflict Scorch, Brittle and Sapped",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_sharp_and_brittle": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_sharp_and_brittle"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Can't use Helmets\\nYour [Critical|Critical Hit] Chance is Lucky\\nYour Damage with [Critical|Critical Hits] is Lucky\\nEnemies' Damage with [Critical|Critical Hits] against you is Lucky",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_solipsism": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_solipsism"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[Intelligence] provides no inherent bonus to Energy Shield\\n2% reduced Duration of Elemental Ailments on you per 15 [Intelligence]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_strength_of_blood": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_strength_of_blood"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "[DNT] Ded.",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_supreme_ego": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_supreme_ego"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Auras from your Skills can only affect you\\nAura Skills have 1% more Aura Effect per 2% of maximum Mana they Reserve\\n40% more Mana Reservation of Aura Skills",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_supreme_prodigy": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_supreme_prodigy"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Ignore [Attributes|Attribute] Requirements\\nGain no inherent bonuses from [Attributes]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_tempered_by_war": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_tempered_by_war"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "50% of Cold and Lightning Damage taken as Fire Damage\\n50% less Cold Resistance\\n50% less Lightning Resistance",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_hollow_palm_technique": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_hollow_palm_technique"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "You count as Dual Wielding while you are Unencumbered\\n40% more [Attack] Speed with [Melee] Skills while you are Unencumbered\\nAdds 14 to 20 [Attack] Physical Damage to [Melee] Skills per 10 [Dexterity] while you are Unencumbered",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_versatile_combatant": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_versatile_combatant"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "-25% to maximum Chance to Block [Attack] Damage\\n-25% to maximum Chance to Block Spell Damage\\n+2% Chance to Block Spell Damage for each 1% Overcapped Chance to Block [Attack] Damage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_veterans_awareness": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_veterans_awareness"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "+10% to all Elemental Resistances and maximum Elemental Resistances while affected by a Non-Vaal Guard Skill\\n20% additional Physical Damage Reduction while affected by a Non-Vaal Guard Skill\\n20% more Damage taken if a Non-Vaal Guard Buff was lost [Recently]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "keystone_wind_dancer": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "keystone_wind_dancer"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "20% less [Attack] Damage taken if you haven't been Hit by an [Attack] Recently\\n10% more chance to Evade [Attack|Attacks] if you have been Hit by an [Attack] Recently\\n20% more [Attack] Damage taken if you have been Hit by an [Attack] [Recently]",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "strong_casting": {
+    {
+      "Path": "metadata/statdescriptions/passive_skill_stat_descriptions",
+      "Ids": [
+        "strong_casting"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "1% increased [Spell] damage per 2 [Strength]\\n[Strength] provides no bonus to Life",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

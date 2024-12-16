@@ -1,65 +1,86 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/wind_dancer",
-  "Entries": {
-    "wind_dancer_maximum_number_of_stages": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/wind_dancer",
+      "Ids": [
+        "wind_dancer_maximum_number_of_stages"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "Maximum stages@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "{0} maximum stages",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "wind_dancer_stages_gained_every_x_ms": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/wind_dancer",
+      "Ids": [
+        "wind_dancer_stages_gained_every_x_ms"
+      ],
       "Descriptions": [
         {
           "Operator": "1|# table_only",
           "Description": "Stage gain interval@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "1|#",
           "Description": "Gain a stage every {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "wind_dancer_evasion_rating_+%_final_per_stage": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/wind_dancer",
+      "Ids": [
+        "wind_dancer_evasion_rating_+%_final_per_stage"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "More [Evasion] Rating per stage@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "1|#",
           "Description": "{0}% more [Evasion] Rating per stage\\nOn being [HitDamage|Hit] by a [Melee] [Attack], consume all stages to trigger Gale Force",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#|-1",
           "Description": "{0}% less [Evasion] Rating per stage\\nOn being [HitDamage|Hit] by a [Melee] [Attack], consume all stages to trigger Gale Force",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

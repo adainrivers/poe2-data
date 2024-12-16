@@ -1,113 +1,171 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/poison_vine_arrow/statset_1",
-  "Entries": {
-    "active_skill_area_of_effect_radius": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/poison_vine_arrow/statset_1",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Vine attachment radius@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/poison_vine_arrow/statset_1",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "#",
           "Description": "Vines attach to enemies within a {0} metre radius",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_slow_debuff_movement_speed_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/poison_vine_arrow/statset_1",
+      "Ids": [
+        "active_skill_base_slow_debuff_movement_speed_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "#|-1",
           "Description": "Vines [Slow] enemy movement speed by {0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_slow_debuff_movement_speed_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/poison_vine_arrow/statset_1",
+      "Ids": [
+        "active_skill_slow_debuff_movement_speed_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "#|-1 table_only",
           "Description": "Movement speed [Slow] inflicted by Vines@{0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#|-1",
           "Description": "Vines [Slow] enemy movement speed by {0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "negate": 1
-          }
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "base_skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/poison_vine_arrow/statset_1",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Plant duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Plant duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "poison_vine_arrow_vine_stored_poison_damage_+%_final": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/poison_vine_arrow/statset_1",
+      "Ids": [
+        "poison_vine_arrow_vine_stored_poison_damage_+%_final"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Incoming [Poison] stored@{0}%",
           "IsCanonical": false,
-          "Parameters": {
-            "multiplicative_damage_modifier": 1
-          }
+          "Parameters": [
+            {
+              "Name": "multiplicative_damage_modifier",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "[Poison|Poisoning] the plant causes it to deal additional [Chaos] Damage per second equal to {0}% of [Poison] Damage per second",
           "IsCanonical": false,
-          "Parameters": {
-            "multiplicative_damage_modifier": 1
-          }
+          "Parameters": [
+            {
+              "Name": "multiplicative_damage_modifier",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/poison_vine_arrow/statset_1",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Plant duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     }
-  }
+  ]
 }

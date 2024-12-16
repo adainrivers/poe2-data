@@ -1,63 +1,88 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/blazing_cluster/statset_0",
-  "Entries": {
-    "base_skill_effect_duration": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/blazing_cluster/statset_0",
+      "Ids": [
+        "base_skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "1000",
           "Description": "Hover duration is {0} second",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Hover duration is {0} seconds",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "blazing_cluster_maximum_number_of_projectiles_allowed": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/blazing_cluster/statset_0",
+      "Ids": [
+        "blazing_cluster_maximum_number_of_projectiles_allowed"
+      ],
       "Descriptions": [
         {
           "Operator": "2|# table_only",
           "Description": "Maximum accumulated Embers@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "2|#",
           "Description": "Can accumulate up to {0} Embers",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "skill_effect_duration": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/blazing_cluster/statset_0",
+      "Ids": [
+        "skill_effect_duration"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Hover duration@{0}s",
           "IsCanonical": false,
-          "Parameters": {
-            "milliseconds_to_seconds_2dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "total_number_of_projectiles_to_fire": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/blazing_cluster/statset_0",
+      "Ids": [
+        "total_number_of_projectiles_to_fire"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Embers conjured per use@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }

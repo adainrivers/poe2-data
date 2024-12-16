@@ -1,69 +1,130 @@
 {
   "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/incinerate_player/statset_0",
-  "Entries": {
-    "active_skill_area_of_effect_radius": {
+  "Entries": [
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/incinerate_player/statset_0",
+      "Ids": [
+        "active_skill_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Cone length@{0}m",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "active_skill_base_area_of_effect_radius": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/incinerate_player/statset_0",
+      "Ids": [
+        "active_skill_base_area_of_effect_radius"
+      ],
       "Descriptions": [
         {
           "Operator": "10",
           "Description": "Cone length is {0} metre",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         },
         {
           "Operator": "#",
           "Description": "Cone length is {0} metres",
           "IsCanonical": false,
-          "Parameters": {
-            "divide_by_ten_1dp_if_required": 1
-          }
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
-    "incinerate_damage_+%_final_per_stage": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/incinerate_player/statset_0",
+      "Ids": [
+        "incinerate_damage_+%_final_per_stage"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "More damage per stage@{0}%",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "Deals {0}% more damage per stage",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         }
       ]
     },
-    "incinerate_maximum_stages": {
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/incinerate_player/statset_0",
+      "Ids": [
+        "incinerate_buff_exposure_-_to_total_fire_resistance_per_stack",
+        "incinerate_maximum_exposure_magnitude"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # table_only",
+          "Description": "[Exposure|Fire Exposure] inflicted at maximum stages (maximum)@{0}% ({1}%)",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# #",
+          "Description": "Inflicts stacking [Exposure|Fire Exposure] at maximum stages, reducing [Resistances|Fire Resistance] by {0}% per stack, up to a maximum of {1}%",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/incinerate_player/statset_0",
+      "Ids": [
+        "incinerate_maximum_stages"
+      ],
       "Descriptions": [
         {
           "Operator": "# table_only",
           "Description": "Maximum stages@{0}",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
         },
         {
           "Operator": "#",
           "Description": "{0} maximum stages",
           "IsCanonical": false,
-          "Parameters": {}
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/incinerate_player/statset_0",
+      "Ids": [
+        "spell_minimum_base_fire_damage",
+        "spell_maximum_base_fire_damage"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# #",
+          "Description": "[Ignite|Ignites] as though dealing {0} to {1} [Fire] damage",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     }
-  }
+  ]
 }
