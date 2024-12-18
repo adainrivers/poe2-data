@@ -52094,7 +52094,7 @@
   {
     "RowIndex": 5788,
     "Id": "UltimatumWindowBeginButtonNotInstanceOwner",
-    "Text": "Only the instance owner can begin the Ultimatum",
+    "Text": "Only the instance owner can begin the Trials of Chaos",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -115119045,
@@ -69320,8 +69320,8 @@
   {
     "RowIndex": 7702,
     "Id": "CurrencyExchangeInfoPopup",
-    "Text": "<valuedefault>{To place an order ensure you have chosen items that you want to trade, have a valid Real Ratio with values between 1 - 65000, and have enough gold and items.\r\n\r\nItems cannot be claimed unless your order is completed or closed. Closing your order by pressing X will not refund your gold.\r\n\r\nMarket orders can only ever trade at or above your chosen ratio. If through finding better deals Faustus is unable to finish your order, he will return the gold for the uncompleted part of your order along w",
-    "XBoxText": "<valuedefault>{To place an order ensure you have chosen items that you want to trade, have a valid Real Ratio with values between 1 - 65000, and have enough gold and items.\r\n\r\nItems cannot be claimed unless your order is completed or closed. Closing your order will not refund your gold.\r\n\r\nMarket orders can only ever trade at or above your chosen ratio. If through finding better deals Faustus is unable to finish your order, he will return the gold for the uncompleted part of your order along with any unspen",
+    "Text": "<valuedefault>{To place an order ensure you have chosen items that you want to trade, have a valid Real Ratio with values between 1 - 65000, and have enough gold and items.\r\n\r\nItems cannot be claimed unless your order is completed or closed. Closing your order by pressing X will not refund your gold.\r\n\r\nMarket orders can only ever trade at or above your chosen ratio. If through finding better deals Alva is unable to finish your order, she will return the gold for the uncompleted part of your order along wit",
+    "XBoxText": "<valuedefault>{To place an order ensure you have chosen items that you want to trade, have a valid Real Ratio with values between 1 - 65000, and have enough gold and items.\r\n\r\nItems cannot be claimed unless your order is completed or closed. Closing your order will not refund your gold.\r\n\r\nMarket orders can only ever trade at or above your chosen ratio. If through finding better deals Alva is unable to finish your order, she will return the gold for the uncompleted part of your order along with any unspent ",
     "XBoxText2": "",
     "HASH32": 1672957017,
     "PlaystationText": ""
@@ -69374,7 +69374,7 @@
   {
     "RowIndex": 7708,
     "Id": "CurrencyExchangeNotification",
-    "Text": "Faustus has completed one of your Currency Exchange orders",
+    "Text": "Alva has completed one of your Currency Exchange orders",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 322159718,
@@ -72839,7 +72839,7 @@
   {
     "RowIndex": 8093,
     "Id": "ReceivedAtlasPassivePointPinnacleBoss1",
-    "Text": "You have received a Pinnacle Boss Atlas Skill Point.",
+    "Text": "You have received an Arbiter Boss Atlas Skill Point.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -2070842229,
@@ -72848,7 +72848,7 @@
   {
     "RowIndex": 8094,
     "Id": "ReceivedAtlasPassivePointPinnacleBossN",
-    "Text": "You have received {0} Pinnacle Boss Atlas Skill Points.",
+    "Text": "You have received {0} Arbiter Boss Atlas Skill Points.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -901521946,
@@ -75169,6 +75169,42 @@
   },
   {
     "RowIndex": 8352,
+    "Id": "ConsoleActionSocketJewel",
+    "Text": "Socket Jewel",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 1401700865,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8353,
+    "Id": "MissingSocketedSkillError",
+    "Text": "Missing socketed skill",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 1430419449,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8354,
+    "Id": "EShopPanelNavigationButtonCosmetics",
+    "Text": "Cosmetics",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -205838374,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8355,
+    "Id": "EShopPanelNavigationButtonSales",
+    "Text": "Sales",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -1895835604,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8356,
     "Id": "AscendancyToBeHad",
     "Text": "Completing this Trial will allow you to choose your Ascendancy Class",
     "XBoxText": "",
@@ -75177,7 +75213,7 @@
     "PlaystationText": ""
   },
   {
-    "RowIndex": 8353,
+    "RowIndex": 8357,
     "Id": "AscendancyPointsToBeHad",
     "Text": "Completing this Ascension Trial will grant additional [AscendancyPoints|Ascendancy Skill Points]",
     "XBoxText": "",
@@ -75186,7 +75222,7 @@
     "PlaystationText": ""
   },
   {
-    "RowIndex": 8354,
+    "RowIndex": 8358,
     "Id": "AscendancyPointsToBeHadTrialMaster",
     "Text": "Completing the secret challenge behind the door at the end of this Trial\nwill grant additional [AscendancyPoints|Ascendancy Skill Points]",
     "XBoxText": "",
@@ -75195,12 +75231,39 @@
     "PlaystationText": ""
   },
   {
-    "RowIndex": 8355,
+    "RowIndex": 8359,
     "Id": "AscendancyPointsNotToBeHad",
     "Text": "Completing this Ascension Trial will not grant additional [AscendancyPoints|Ascendancy Skill Points]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1267411395,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8360,
+    "Id": "AreaMapWindowCheckpointWarpingTitle",
+    "Text": "Checkpoints",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 950660375,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8361,
+    "Id": "WarpCheckpointButtonHover",
+    "Text": "Travel to Checkpoint",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 1651064761,
+    "PlaystationText": ""
+  },
+  {
+    "RowIndex": 8362,
+    "Id": "CurrentCheckpointButtonHover",
+    "Text": "You are here",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 926585170,
     "PlaystationText": ""
   }
 ]

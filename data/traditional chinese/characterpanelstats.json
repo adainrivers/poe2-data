@@ -8628,13 +8628,13 @@
   },
   {
     "RowIndex": 252,
-    "Id": "APS",
+    "Id": "AttackTime",
     "Text": "",
     "StatsKeys1": [
       {
-        "RowIndex": 657,
+        "RowIndex": 21112,
         "TableName": "Stats",
-        "Id": "hundred_times_attacks_per_second"
+        "Id": "attack_duration_ms"
       }
     ],
     "CharacterPanelDescriptionModesKey": {
@@ -8676,13 +8676,66 @@
   },
   {
     "RowIndex": 253,
-    "Id": "CPS",
+    "Id": "APS",
     "Text": "",
     "StatsKeys1": [
       {
-        "RowIndex": 661,
+        "RowIndex": 657,
         "TableName": "Stats",
-        "Id": "hundred_times_casts_per_second"
+        "Id": "hundred_times_attacks_per_second"
+      }
+    ],
+    "CharacterPanelDescriptionModesKey": {
+      "RowIndex": 12,
+      "TableName": "CharacterPanelDescriptionModes",
+      "Id": "FindActualDescription"
+    },
+    "StatsKeys2": [],
+    "StatsKeys3": [
+      {
+        "RowIndex": 424,
+        "TableName": "Stats",
+        "Id": "casting_spell"
+      },
+      {
+        "RowIndex": 1598,
+        "TableName": "Stats",
+        "Id": "display_skill_deals_secondary_damage"
+      },
+      {
+        "RowIndex": 7716,
+        "TableName": "Stats",
+        "Id": "skill_is_instant"
+      },
+      {
+        "RowIndex": 20732,
+        "TableName": "Stats",
+        "Id": "display_statset_hide_usage_stats"
+      },
+      {
+        "RowIndex": 1953,
+        "TableName": "Stats",
+        "Id": "base_skill_show_average_damage_instead_of_dps"
+      }
+    ],
+    "CharacterPanelTabsKey": {
+      "RowIndex": 2,
+      "TableName": "CharacterPanelTabs",
+      "Id": "SkillUsage"
+    },
+    "Unk007": true,
+    "Unk008": [],
+    "Unk009": 0
+  },
+  {
+    "RowIndex": 254,
+    "Id": "CastTime",
+    "Text": "",
+    "StatsKeys1": [
+      {
+        "RowIndex": 21113,
+        "TableName": "Stats",
+        "Id": "spell_cast_duration_ms"
       }
     ],
     "CharacterPanelDescriptionModesKey": {
@@ -8724,7 +8777,142 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 254,
+    "RowIndex": 255,
+    "Id": "CPS",
+    "Text": "",
+    "StatsKeys1": [
+      {
+        "RowIndex": 661,
+        "TableName": "Stats",
+        "Id": "hundred_times_casts_per_second"
+      }
+    ],
+    "CharacterPanelDescriptionModesKey": {
+      "RowIndex": 12,
+      "TableName": "CharacterPanelDescriptionModes",
+      "Id": "FindActualDescription"
+    },
+    "StatsKeys2": [
+      {
+        "RowIndex": 424,
+        "TableName": "Stats",
+        "Id": "casting_spell"
+      }
+    ],
+    "StatsKeys3": [
+      {
+        "RowIndex": 1598,
+        "TableName": "Stats",
+        "Id": "display_skill_deals_secondary_damage"
+      },
+      {
+        "RowIndex": 7716,
+        "TableName": "Stats",
+        "Id": "skill_is_instant"
+      },
+      {
+        "RowIndex": 20732,
+        "TableName": "Stats",
+        "Id": "display_statset_hide_usage_stats"
+      },
+      {
+        "RowIndex": 1953,
+        "TableName": "Stats",
+        "Id": "base_skill_show_average_damage_instead_of_dps"
+      }
+    ],
+    "CharacterPanelTabsKey": {
+      "RowIndex": 2,
+      "TableName": "CharacterPanelTabs",
+      "Id": "SkillUsage"
+    },
+    "Unk007": true,
+    "Unk008": [],
+    "Unk009": 0
+  },
+  {
+    "RowIndex": 256,
+    "Id": "UseTime",
+    "Text": "",
+    "StatsKeys1": [
+      {
+        "RowIndex": 21114,
+        "TableName": "Stats",
+        "Id": "non_spell_cast_duration_ms"
+      }
+    ],
+    "CharacterPanelDescriptionModesKey": {
+      "RowIndex": 12,
+      "TableName": "CharacterPanelDescriptionModes",
+      "Id": "FindActualDescription"
+    },
+    "StatsKeys2": [],
+    "StatsKeys3": [
+      {
+        "RowIndex": 2840,
+        "TableName": "Stats",
+        "Id": "skill_is_attack"
+      },
+      {
+        "RowIndex": 424,
+        "TableName": "Stats",
+        "Id": "casting_spell"
+      },
+      {
+        "RowIndex": 7716,
+        "TableName": "Stats",
+        "Id": "skill_is_instant"
+      },
+      {
+        "RowIndex": 20732,
+        "TableName": "Stats",
+        "Id": "display_statset_hide_usage_stats"
+      }
+    ],
+    "CharacterPanelTabsKey": {
+      "RowIndex": 2,
+      "TableName": "CharacterPanelTabs",
+      "Id": "SkillUsage"
+    },
+    "Unk007": true,
+    "Unk008": [],
+    "Unk009": 0
+  },
+  {
+    "RowIndex": 257,
+    "Id": "Cooldown",
+    "Text": "",
+    "StatsKeys1": [
+      {
+        "RowIndex": 21111,
+        "TableName": "Stats",
+        "Id": "display_skill_cooldown_time_ms"
+      }
+    ],
+    "CharacterPanelDescriptionModesKey": {
+      "RowIndex": 12,
+      "TableName": "CharacterPanelDescriptionModes",
+      "Id": "FindActualDescription"
+    },
+    "StatsKeys2": [],
+    "StatsKeys3": [
+      {
+        "RowIndex": 20732,
+        "TableName": "Stats",
+        "Id": "display_statset_hide_usage_stats"
+      }
+    ],
+    "CharacterPanelTabsKey": {
+      "RowIndex": 2,
+      "TableName": "CharacterPanelTabs",
+      "Id": "SkillUsage"
+    },
+    "Unk007": true,
+    "Unk008": [],
+    "Unk009": 0
+  },
+  {
+    "RowIndex": 258,
     "Id": "CooldownCount",
     "Text": "",
     "StatsKeys1": [
@@ -8757,46 +8945,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 255,
-    "Id": "CooldownRecovery",
-    "Text": "",
-    "StatsKeys1": [
-      {
-        "RowIndex": 3220,
-        "TableName": "Stats",
-        "Id": "virtual_cooldown_speed_+%"
-      }
-    ],
-    "CharacterPanelDescriptionModesKey": {
-      "RowIndex": 12,
-      "TableName": "CharacterPanelDescriptionModes",
-      "Id": "FindActualDescription"
-    },
-    "StatsKeys2": [
-      {
-        "RowIndex": 17642,
-        "TableName": "Stats",
-        "Id": "virtual_total_cooldown_count"
-      }
-    ],
-    "StatsKeys3": [
-      {
-        "RowIndex": 20732,
-        "TableName": "Stats",
-        "Id": "display_statset_hide_usage_stats"
-      }
-    ],
-    "CharacterPanelTabsKey": {
-      "RowIndex": 2,
-      "TableName": "CharacterPanelTabs",
-      "Id": "SkillUsage"
-    },
-    "Unk007": true,
-    "Unk008": [],
-    "Unk009": 0
-  },
-  {
-    "RowIndex": 256,
+    "RowIndex": 259,
     "Id": "LifeLossOnSkilluse",
     "Text": "",
     "StatsKeys1": [
@@ -8823,7 +8972,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 257,
+    "RowIndex": 260,
     "Id": "TriggerGemMaximumEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -8850,7 +8999,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 258,
+    "RowIndex": 261,
     "Id": "CastOnShockEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -8877,7 +9026,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 259,
+    "RowIndex": 262,
     "Id": "CastOnFreezeEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -8904,7 +9053,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 260,
+    "RowIndex": 263,
     "Id": "CastOnIgniteEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -8931,7 +9080,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 261,
+    "RowIndex": 264,
     "Id": "CastOnMeleeKillEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -8958,7 +9107,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 262,
+    "RowIndex": 265,
     "Id": "CastWhenStunnedEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -8985,7 +9134,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 263,
+    "RowIndex": 266,
     "Id": "CastOnDamageTakenEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -9012,7 +9161,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 264,
+    "RowIndex": 267,
     "Id": "CastOnCritEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -9039,7 +9188,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 265,
+    "RowIndex": 268,
     "Id": "CastOnDodgeEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -9066,7 +9215,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 266,
+    "RowIndex": 269,
     "Id": "CastOnMinionDeathEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -9093,7 +9242,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 267,
+    "RowIndex": 270,
     "Id": "CastWhileChannellingEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -9120,7 +9269,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 268,
+    "RowIndex": 271,
     "Id": "CastOnMeleeStunEnergy1",
     "Text": "",
     "StatsKeys1": [
@@ -9147,7 +9296,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 269,
+    "RowIndex": 272,
     "Id": "CastOnMeleeStunEnergy2",
     "Text": "",
     "StatsKeys1": [
@@ -9174,7 +9323,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 270,
+    "RowIndex": 273,
     "Id": "BarrierInvocationEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -9201,7 +9350,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 271,
+    "RowIndex": 274,
     "Id": "ElementalInvocationEnergy1",
     "Text": "",
     "StatsKeys1": [
@@ -9228,7 +9377,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 272,
+    "RowIndex": 275,
     "Id": "ElementalInvocationEnergy2",
     "Text": "",
     "StatsKeys1": [
@@ -9255,7 +9404,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 273,
+    "RowIndex": 276,
     "Id": "ElementalInvocationEnergy3",
     "Text": "",
     "StatsKeys1": [
@@ -9282,7 +9431,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 274,
+    "RowIndex": 277,
     "Id": "MeleeKillInvocationEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -9309,7 +9458,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 275,
+    "RowIndex": 278,
     "Id": "CastOnBlockEnergy",
     "Text": "",
     "StatsKeys1": [
@@ -9336,7 +9485,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 276,
+    "RowIndex": 279,
     "Id": "TriggerGemEnergyGainModifier",
     "Text": "",
     "StatsKeys1": [
@@ -9363,7 +9512,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 277,
+    "RowIndex": 280,
     "Id": "MH_CritChance",
     "Text": "",
     "StatsKeys1": [
@@ -9422,7 +9571,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 278,
+    "RowIndex": 281,
     "Id": "MH_CritMulti",
     "Text": "",
     "StatsKeys1": [
@@ -9486,7 +9635,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 279,
+    "RowIndex": 282,
     "Id": "OH_CritChance",
     "Text": "",
     "StatsKeys1": [
@@ -9545,7 +9694,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 280,
+    "RowIndex": 283,
     "Id": "OH_CritMulti",
     "Text": "",
     "StatsKeys1": [
@@ -9609,7 +9758,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 281,
+    "RowIndex": 284,
     "Id": "Spell_CritChance",
     "Text": "",
     "StatsKeys1": [
@@ -9663,7 +9812,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 282,
+    "RowIndex": 285,
     "Id": "Spell_CritMulti",
     "Text": "",
     "StatsKeys1": [
@@ -9722,7 +9871,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 283,
+    "RowIndex": 286,
     "Id": "CritChance",
     "Text": "",
     "StatsKeys1": [
@@ -9771,7 +9920,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 284,
+    "RowIndex": 287,
     "Id": "CritMulti",
     "Text": "",
     "StatsKeys1": [
@@ -9825,7 +9974,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 285,
+    "RowIndex": 288,
     "Id": "CritVsImmobilised",
     "Text": "",
     "StatsKeys1": [
@@ -9868,7 +10017,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 286,
+    "RowIndex": 289,
     "Id": "MH_Accuracy",
     "Text": "",
     "StatsKeys1": [
@@ -9927,7 +10076,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 287,
+    "RowIndex": 290,
     "Id": "OH_Accuracy",
     "Text": "",
     "StatsKeys1": [
@@ -9986,7 +10135,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 288,
+    "RowIndex": 291,
     "Id": "MH_HitChance",
     "Text": "2 公尺內預期主手命中機率",
     "StatsKeys1": [
@@ -10006,14 +10155,14 @@
         "RowIndex": 7234,
         "TableName": "Stats",
         "Id": "skill_uses_main_hand"
+      },
+      {
+        "RowIndex": 2840,
+        "TableName": "Stats",
+        "Id": "skill_is_attack"
       }
     ],
     "StatsKeys3": [
-      {
-        "RowIndex": 424,
-        "TableName": "Stats",
-        "Id": "casting_spell"
-      },
       {
         "RowIndex": 1598,
         "TableName": "Stats",
@@ -10030,7 +10179,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 289,
+    "RowIndex": 292,
     "Id": "OH_HitChance",
     "Text": "2 公尺內預期副手命中機率",
     "StatsKeys1": [
@@ -10050,14 +10199,14 @@
         "RowIndex": 7235,
         "TableName": "Stats",
         "Id": "skill_uses_off_hand"
+      },
+      {
+        "RowIndex": 2840,
+        "TableName": "Stats",
+        "Id": "skill_is_attack"
       }
     ],
     "StatsKeys3": [
-      {
-        "RowIndex": 424,
-        "TableName": "Stats",
-        "Id": "casting_spell"
-      },
       {
         "RowIndex": 1598,
         "TableName": "Stats",
@@ -10074,7 +10223,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 290,
+    "RowIndex": 293,
     "Id": "MH_BleedingChance",
     "Text": "",
     "StatsKeys1": [
@@ -10128,7 +10277,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 291,
+    "RowIndex": 294,
     "Id": "MH_BleedingDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10166,7 +10315,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 292,
+    "RowIndex": 295,
     "Id": "OH_BleedingChance",
     "Text": "",
     "StatsKeys1": [
@@ -10220,7 +10369,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 293,
+    "RowIndex": 296,
     "Id": "OH_BleedingDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10258,7 +10407,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 294,
+    "RowIndex": 297,
     "Id": "Spell_BleedingChance",
     "Text": "",
     "StatsKeys1": [
@@ -10307,7 +10456,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 295,
+    "RowIndex": 298,
     "Id": "Spell_BleedingDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10361,7 +10510,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 296,
+    "RowIndex": 299,
     "Id": "Secondary_BleedingChance",
     "Text": "",
     "StatsKeys1": [
@@ -10405,7 +10554,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 297,
+    "RowIndex": 300,
     "Id": "Secondary_BleedingDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10454,7 +10603,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 298,
+    "RowIndex": 301,
     "Id": "BleedingDuration",
     "Text": "",
     "StatsKeys1": [
@@ -10492,7 +10641,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 299,
+    "RowIndex": 302,
     "Id": "MH_IgniteDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10556,7 +10705,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 300,
+    "RowIndex": 303,
     "Id": "OH_IgniteDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10620,7 +10769,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 301,
+    "RowIndex": 304,
     "Id": "Spell_IgniteDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10674,7 +10823,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 302,
+    "RowIndex": 305,
     "Id": "Secondary_IgniteDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10723,7 +10872,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 303,
+    "RowIndex": 306,
     "Id": "IgniteDuration",
     "Text": "",
     "StatsKeys1": [
@@ -10761,7 +10910,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 304,
+    "RowIndex": 307,
     "Id": "MH_ChanceToPoison",
     "Text": "",
     "StatsKeys1": [
@@ -10820,7 +10969,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 305,
+    "RowIndex": 308,
     "Id": "MH_PoisonDamage",
     "Text": "",
     "StatsKeys1": [
@@ -10884,7 +11033,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 306,
+    "RowIndex": 309,
     "Id": "OH_ChanceToPoison",
     "Text": "",
     "StatsKeys1": [
@@ -10943,7 +11092,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 307,
+    "RowIndex": 310,
     "Id": "OH_PoisonDamage",
     "Text": "",
     "StatsKeys1": [
@@ -11007,7 +11156,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 308,
+    "RowIndex": 311,
     "Id": "Spell_ChanceToPoison",
     "Text": "",
     "StatsKeys1": [
@@ -11056,7 +11205,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 309,
+    "RowIndex": 312,
     "Id": "Spell_PoisonDamage",
     "Text": "",
     "StatsKeys1": [
@@ -11110,7 +11259,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 310,
+    "RowIndex": 313,
     "Id": "Secondary_ChanceToPoison",
     "Text": "",
     "StatsKeys1": [
@@ -11154,7 +11303,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 311,
+    "RowIndex": 314,
     "Id": "Secondary_PoisonDamage",
     "Text": "",
     "StatsKeys1": [
@@ -11203,7 +11352,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 312,
+    "RowIndex": 315,
     "Id": "PoisonDuration",
     "Text": "",
     "StatsKeys1": [
@@ -11241,7 +11390,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 313,
+    "RowIndex": 316,
     "Id": "SkillCannotShock",
     "Text": "",
     "StatsKeys1": [
@@ -11279,7 +11428,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 314,
+    "RowIndex": 317,
     "Id": "SkillCannotIgnite",
     "Text": "",
     "StatsKeys1": [
@@ -11317,7 +11466,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 315,
+    "RowIndex": 318,
     "Id": "SkillCannotChill",
     "Text": "",
     "StatsKeys1": [
@@ -11355,7 +11504,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 316,
+    "RowIndex": 319,
     "Id": "SkillCannotFreeze",
     "Text": "",
     "StatsKeys1": [
@@ -11393,7 +11542,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 317,
+    "RowIndex": 320,
     "Id": "ChillEffect",
     "Text": "",
     "StatsKeys1": [
@@ -11431,7 +11580,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 318,
+    "RowIndex": 321,
     "Id": "ChillDuration",
     "Text": "",
     "StatsKeys1": [
@@ -11469,7 +11618,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 319,
+    "RowIndex": 322,
     "Id": "FreezeBuildup",
     "Text": "",
     "StatsKeys1": [
@@ -11507,7 +11656,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 320,
+    "RowIndex": 323,
     "Id": "LightningElectrocutes",
     "Text": "",
     "StatsKeys1": [
@@ -11545,7 +11694,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 321,
+    "RowIndex": 324,
     "Id": "ElectrocutePrimed",
     "Text": "",
     "StatsKeys1": [
@@ -11578,7 +11727,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 322,
+    "RowIndex": 325,
     "Id": "IgniteProliferation",
     "Text": "",
     "StatsKeys1": [
@@ -11611,7 +11760,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 323,
+    "RowIndex": 326,
     "Id": "FireExposureOnIgnite",
     "Text": "",
     "StatsKeys1": [
@@ -11644,7 +11793,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 324,
+    "RowIndex": 327,
     "Id": "LightningExposureOnShock",
     "Text": "",
     "StatsKeys1": [
@@ -11677,7 +11826,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 325,
+    "RowIndex": 328,
     "Id": "ArmourBreakFromPoison",
     "Text": "",
     "StatsKeys1": [
@@ -11710,7 +11859,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 326,
+    "RowIndex": 329,
     "Id": "ColdExposureOnCrit",
     "Text": "",
     "StatsKeys1": [
@@ -11743,7 +11892,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 327,
+    "RowIndex": 330,
     "Id": "MH_LifeLeech",
     "Text": "主手物理攻擊偷取生命",
     "StatsKeys1": [
@@ -11794,7 +11943,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 328,
+    "RowIndex": 331,
     "Id": "OH_LifeLeech",
     "Text": "副手物理攻擊生命偷取",
     "StatsKeys1": [
@@ -11845,7 +11994,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 329,
+    "RowIndex": 332,
     "Id": "MH_ManaLeech",
     "Text": "主手物理攻擊魔力偷取",
     "StatsKeys1": [
@@ -11896,7 +12045,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 330,
+    "RowIndex": 333,
     "Id": "OH_ManaLeech",
     "Text": "副手物理攻擊魔力偷取",
     "StatsKeys1": [
@@ -11947,7 +12096,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 331,
+    "RowIndex": 334,
     "Id": "MH_ESLeech",
     "Text": "主手物理攻擊偷取能量護盾",
     "StatsKeys1": [
@@ -11998,7 +12147,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 332,
+    "RowIndex": 335,
     "Id": "OH_ESLeech",
     "Text": "副手物理攻擊傷害偷取能量護盾",
     "StatsKeys1": [
@@ -12049,7 +12198,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 333,
+    "RowIndex": 336,
     "Id": "MH_Stun",
     "Text": "",
     "StatsKeys1": [
@@ -12103,7 +12252,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 334,
+    "RowIndex": 337,
     "Id": "MH_Blind",
     "Text": "主手[Blind|致盲]機率",
     "StatsKeys1": [
@@ -12152,7 +12301,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 335,
+    "RowIndex": 338,
     "Id": "MH_BlockReduce",
     "Text": "主手武器被格擋減免",
     "StatsKeys1": [
@@ -12201,7 +12350,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 336,
+    "RowIndex": 339,
     "Id": "OH_Stun",
     "Text": "",
     "StatsKeys1": [
@@ -12255,7 +12404,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 337,
+    "RowIndex": 340,
     "Id": "OH_Blind",
     "Text": "副手[Blind|致盲]機率",
     "StatsKeys1": [
@@ -12304,7 +12453,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 338,
+    "RowIndex": 341,
     "Id": "OH_BlockReduce",
     "Text": "副手武器被格擋減免",
     "StatsKeys1": [
@@ -12353,7 +12502,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 339,
+    "RowIndex": 342,
     "Id": "MH_Maim",
     "Text": "主手[Maim|癱瘓]機率",
     "StatsKeys1": [
@@ -12386,7 +12535,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 340,
+    "RowIndex": 343,
     "Id": "OH_Maim",
     "Text": "副手[Maim|癱瘓]機率",
     "StatsKeys1": [
@@ -12419,7 +12568,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 341,
+    "RowIndex": 344,
     "Id": "Spell_BlockReduce",
     "Text": "敵人格擋減免",
     "StatsKeys1": [
@@ -12458,7 +12607,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 342,
+    "RowIndex": 345,
     "Id": "Stun",
     "Text": "",
     "StatsKeys1": [
@@ -12506,7 +12655,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 343,
+    "RowIndex": 346,
     "Id": "StunVsDazed",
     "Text": "",
     "StatsKeys1": [
@@ -12544,7 +12693,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 344,
+    "RowIndex": 347,
     "Id": "Knockback",
     "Text": "",
     "StatsKeys1": [
@@ -12582,7 +12731,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 345,
+    "RowIndex": 348,
     "Id": "KnockbackChance",
     "Text": "",
     "StatsKeys1": [
@@ -12625,7 +12774,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 346,
+    "RowIndex": 349,
     "Id": "KnockbackOnCrit",
     "Text": "",
     "StatsKeys1": [
@@ -12668,7 +12817,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 347,
+    "RowIndex": 350,
     "Id": "KnockbackDistance",
     "Text": "",
     "StatsKeys1": [
@@ -12706,7 +12855,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 348,
+    "RowIndex": 351,
     "Id": "Blind",
     "Text": "致盲機率",
     "StatsKeys1": [
@@ -12745,7 +12894,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 349,
+    "RowIndex": 352,
     "Id": "AttackStunDuration",
     "Text": "暈眩門檻修正",
     "StatsKeys1": [
@@ -12783,7 +12932,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 350,
+    "RowIndex": 353,
     "Id": "SpellStunDuration",
     "Text": "暈眩門檻修正",
     "StatsKeys1": [
@@ -12822,7 +12971,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 351,
+    "RowIndex": 354,
     "Id": "PhysicalPinning",
     "Text": "",
     "StatsKeys1": [
@@ -12855,7 +13004,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 352,
+    "RowIndex": 355,
     "Id": "PinBuildup",
     "Text": "",
     "StatsKeys1": [
@@ -12888,7 +13037,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 353,
+    "RowIndex": 356,
     "Id": "BonusCombo",
     "Text": "",
     "StatsKeys1": [
@@ -12915,7 +13064,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 354,
+    "RowIndex": 357,
     "Id": "WitherOnHitChance",
     "Text": "",
     "StatsKeys1": [
@@ -12942,7 +13091,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 355,
+    "RowIndex": 358,
     "Id": "RageOnHit",
     "Text": "",
     "StatsKeys1": [
@@ -12969,7 +13118,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 356,
+    "RowIndex": 359,
     "Id": "NumProjectiles",
     "Text": "",
     "StatsKeys1": [
@@ -12996,7 +13145,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 357,
+    "RowIndex": 360,
     "Id": "Split",
     "Text": "",
     "StatsKeys1": [
@@ -13029,7 +13178,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 358,
+    "RowIndex": 361,
     "Id": "Pierce",
     "Text": "",
     "StatsKeys1": [
@@ -13073,7 +13222,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 359,
+    "RowIndex": 362,
     "Id": "PierceChance",
     "Text": "",
     "StatsKeys1": [
@@ -13117,7 +13266,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 360,
+    "RowIndex": 363,
     "Id": "Fork",
     "Text": "",
     "StatsKeys1": [
@@ -13156,7 +13305,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 361,
+    "RowIndex": 364,
     "Id": "Chain",
     "Text": "",
     "StatsKeys1": [
@@ -13200,7 +13349,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 362,
+    "RowIndex": 365,
     "Id": "ChainTerrainChance",
     "Text": "",
     "StatsKeys1": [
@@ -13233,7 +13382,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 363,
+    "RowIndex": 366,
     "Id": "ChainTerrainExtraChance",
     "Text": "",
     "StatsKeys1": [
@@ -13266,7 +13415,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 364,
+    "RowIndex": 367,
     "Id": "Return",
     "Text": "",
     "StatsKeys1": [
@@ -13299,7 +13448,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 365,
+    "RowIndex": 368,
     "Id": "Shotgun",
     "Text": "",
     "StatsKeys1": [
@@ -13332,7 +13481,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 366,
+    "RowIndex": 369,
     "Id": "AreaPrimary",
     "Text": "",
     "StatsKeys1": [
@@ -13365,7 +13514,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 367,
+    "RowIndex": 370,
     "Id": "AreaSecondary",
     "Text": "",
     "StatsKeys1": [
@@ -13398,7 +13547,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 368,
+    "RowIndex": 371,
     "Id": "AreaTertiary",
     "Text": "",
     "StatsKeys1": [
@@ -13431,7 +13580,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 369,
+    "RowIndex": 372,
     "Id": "AreaCloudGrowth",
     "Text": "",
     "StatsKeys1": [
@@ -13463,7 +13612,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 370,
+    "RowIndex": 373,
     "Id": "AreaProjected",
     "Text": "",
     "StatsKeys1": [
@@ -13490,7 +13639,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 371,
+    "RowIndex": 374,
     "Id": "DurationPrimary",
     "Text": "",
     "StatsKeys1": [
@@ -13517,7 +13666,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 372,
+    "RowIndex": 375,
     "Id": "DurationSecondary",
     "Text": "",
     "StatsKeys1": [
@@ -13544,7 +13693,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 373,
+    "RowIndex": 376,
     "Id": "DurationTertiary",
     "Text": "",
     "StatsKeys1": [
@@ -13571,7 +13720,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 374,
+    "RowIndex": 377,
     "Id": "GroundEffectDuration",
     "Text": "",
     "StatsKeys1": [
@@ -13598,7 +13747,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 375,
+    "RowIndex": 378,
     "Id": "GroundEffectDurationSecondary",
     "Text": "",
     "StatsKeys1": [
@@ -13625,7 +13774,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 376,
+    "RowIndex": 379,
     "Id": "GroundEffectDurationLightningWarp",
     "Text": "",
     "StatsKeys1": [
@@ -13652,7 +13801,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 377,
+    "RowIndex": 380,
     "Id": "GroundEffectDurationIceSupport",
     "Text": "",
     "StatsKeys1": [
@@ -13679,7 +13828,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 378,
+    "RowIndex": 381,
     "Id": "GroundEffectDurationVortexSupport",
     "Text": "",
     "StatsKeys1": [
@@ -13706,7 +13855,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 379,
+    "RowIndex": 382,
     "Id": "GroundEffectDurationHolySupport",
     "Text": "",
     "StatsKeys1": [
@@ -13733,7 +13882,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 380,
+    "RowIndex": 383,
     "Id": "GroundEffectDurationJagged",
     "Text": "",
     "StatsKeys1": [
@@ -13760,7 +13909,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 381,
+    "RowIndex": 384,
     "Id": "WitherDuration",
     "Text": "",
     "StatsKeys1": [
@@ -13787,7 +13936,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 382,
+    "RowIndex": 385,
     "Id": "MH_ChanceToImpale",
     "Text": "主手擊中穿刺機率",
     "StatsKeys1": [
@@ -13831,7 +13980,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 383,
+    "RowIndex": 386,
     "Id": "OH_ChanceToImpale",
     "Text": "副手擊中穿刺機率",
     "StatsKeys1": [
@@ -13875,7 +14024,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 384,
+    "RowIndex": 387,
     "Id": "Spell_ChanceToImpale",
     "Text": "穿刺激率",
     "StatsKeys1": [
@@ -13924,7 +14073,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 385,
+    "RowIndex": 388,
     "Id": "Secondary_ChanceToImpale",
     "Text": "穿刺激率",
     "StatsKeys1": [
@@ -13968,7 +14117,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 386,
+    "RowIndex": 389,
     "Id": "BuffDuration",
     "Text": "增益持續時間修正",
     "StatsKeys1": [
@@ -13995,7 +14144,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 387,
+    "RowIndex": 390,
     "Id": "CurseEffect",
     "Text": "詛咒效果修正",
     "StatsKeys1": [
@@ -14028,7 +14177,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 388,
+    "RowIndex": 391,
     "Id": "CurseDelay",
     "Text": "",
     "StatsKeys1": [
@@ -14061,7 +14210,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 389,
+    "RowIndex": 392,
     "Id": "MarkEffect",
     "Text": "印記效果修正",
     "StatsKeys1": [
@@ -14094,7 +14243,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 390,
+    "RowIndex": 393,
     "Id": "ChainNonProjectile",
     "Text": "",
     "StatsKeys1": [
@@ -14127,7 +14276,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 391,
+    "RowIndex": 394,
     "Id": "SkipChargeConsumption",
     "Text": "",
     "StatsKeys1": [
@@ -14154,7 +14303,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 392,
+    "RowIndex": 395,
     "Id": "MH_LifeOnHit",
     "Text": "主手擊中時回復生命",
     "StatsKeys1": [
@@ -14198,7 +14347,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 393,
+    "RowIndex": 396,
     "Id": "OH_LifeOnHit",
     "Text": "副手擊中時回復生命",
     "StatsKeys1": [
@@ -14242,7 +14391,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 394,
+    "RowIndex": 397,
     "Id": "LifeOnSpellHit",
     "Text": "擊中生命回復",
     "StatsKeys1": [
@@ -14281,7 +14430,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 395,
+    "RowIndex": 398,
     "Id": "MH_ManaOnHit",
     "Text": "主手擊中時回復魔力",
     "StatsKeys1": [
@@ -14325,7 +14474,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 396,
+    "RowIndex": 399,
     "Id": "OH_ManaOnHit",
     "Text": "副手擊中時回復魔力",
     "StatsKeys1": [
@@ -14369,7 +14518,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 397,
+    "RowIndex": 400,
     "Id": "ManaOnSpellHit",
     "Text": "擊中魔力回復",
     "StatsKeys1": [
@@ -14408,7 +14557,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 398,
+    "RowIndex": 401,
     "Id": "ESOnSpellHit",
     "Text": "擊中能量護盾回復",
     "StatsKeys1": [
@@ -14447,7 +14596,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 399,
+    "RowIndex": 402,
     "Id": "ESOnHit",
     "Text": "擊中能量護盾回復",
     "StatsKeys1": [
@@ -14485,7 +14634,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 400,
+    "RowIndex": 403,
     "Id": "RageOnMeleeHit",
     "Text": "",
     "StatsKeys1": [
@@ -14518,7 +14667,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 401,
+    "RowIndex": 404,
     "Id": "LifeOnKill",
     "Text": "擊殺生命回復",
     "StatsKeys1": [
@@ -14545,7 +14694,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 402,
+    "RowIndex": 405,
     "Id": "ManaOnKill",
     "Text": "擊殺回復魔力",
     "StatsKeys1": [
@@ -14572,7 +14721,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 403,
+    "RowIndex": 406,
     "Id": "ESonKill",
     "Text": "擊殺回復能量護盾",
     "StatsKeys1": [
@@ -14599,7 +14748,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 404,
+    "RowIndex": 407,
     "Id": "LifeOnCull",
     "Text": "",
     "StatsKeys1": [
@@ -14626,7 +14775,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 405,
+    "RowIndex": 408,
     "Id": "ManaOnCull",
     "Text": "",
     "StatsKeys1": [
@@ -14653,7 +14802,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 406,
+    "RowIndex": 409,
     "Id": "MinionDamage",
     "Text": "召喚物傷害修正",
     "StatsKeys1": [
@@ -14680,7 +14829,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 407,
+    "RowIndex": 410,
     "Id": "MinionLife",
     "Text": "召喚物生命修正",
     "StatsKeys1": [
@@ -14707,7 +14856,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 408,
+    "RowIndex": 411,
     "Id": "MinionMana",
     "Text": "召喚物魔力修正",
     "StatsKeys1": [
@@ -14734,7 +14883,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 409,
+    "RowIndex": 412,
     "Id": "MinionEnergyShield",
     "Text": "召喚物能量護盾修正",
     "StatsKeys1": [
@@ -14761,7 +14910,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 410,
+    "RowIndex": 413,
     "Id": "ProjectileSpeed",
     "Text": "投射速度修正",
     "StatsKeys1": [
@@ -14788,7 +14937,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 411,
+    "RowIndex": 414,
     "Id": "IIQ",
     "Text": "增加此技能擊殺怪物的道具掉落數量",
     "StatsKeys1": [
@@ -14815,7 +14964,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 412,
+    "RowIndex": 415,
     "Id": "IIR",
     "Text": "增加此技能擊殺怪物的道具掉落品質",
     "StatsKeys1": [
@@ -14842,7 +14991,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 413,
+    "RowIndex": 416,
     "Id": "TotemLimit",
     "Text": "",
     "StatsKeys1": [
@@ -14869,7 +15018,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 414,
+    "RowIndex": 417,
     "Id": "TotemDuration",
     "Text": "圖騰持續時間修正",
     "StatsKeys1": [
@@ -14896,7 +15045,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 415,
+    "RowIndex": 418,
     "Id": "TotemsSummoned",
     "Text": "",
     "StatsKeys1": [
@@ -14923,7 +15072,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 416,
+    "RowIndex": 419,
     "Id": "TotemLife",
     "Text": "圖騰生命修正",
     "StatsKeys1": [
@@ -14950,7 +15099,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 417,
+    "RowIndex": 420,
     "Id": "TotemES",
     "Text": "",
     "StatsKeys1": [
@@ -14977,7 +15126,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 418,
+    "RowIndex": 421,
     "Id": "TotemFireResistance",
     "Text": "",
     "StatsKeys1": [
@@ -15004,7 +15153,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 419,
+    "RowIndex": 422,
     "Id": "TotemColdResistance",
     "Text": "",
     "StatsKeys1": [
@@ -15031,7 +15180,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 420,
+    "RowIndex": 423,
     "Id": "TotemLightningResistance",
     "Text": "",
     "StatsKeys1": [
@@ -15058,7 +15207,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 421,
+    "RowIndex": 424,
     "Id": "FishingRange",
     "Text": "釣魚距離加成",
     "StatsKeys1": [
@@ -15085,7 +15234,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 422,
+    "RowIndex": 425,
     "Id": "FishingLineStrength",
     "Text": "魚線強度加成",
     "StatsKeys1": [
@@ -15112,7 +15261,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 423,
+    "RowIndex": 426,
     "Id": "IFQ",
     "Text": "漁獲數量增加",
     "StatsKeys1": [
@@ -15139,7 +15288,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 424,
+    "RowIndex": 427,
     "Id": "IFR",
     "Text": "漁獲稀有度增加",
     "StatsKeys1": [
@@ -15166,7 +15315,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 425,
+    "RowIndex": 428,
     "Id": "FishingPoolConsumption",
     "Text": "魚池消耗修正",
     "StatsKeys1": [
@@ -15193,7 +15342,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 426,
+    "RowIndex": 429,
     "Id": "ExoticFish",
     "Text": "可以釣到外來魚",
     "StatsKeys1": [
@@ -15220,7 +15369,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 427,
+    "RowIndex": 430,
     "Id": "CorruptedFish",
     "Text": "可以釣到被汙染的魚",
     "StatsKeys1": [
@@ -15247,7 +15396,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 428,
+    "RowIndex": 431,
     "Id": "FlaskRecoveryToAllies",
     "Text": "",
     "StatsKeys1": [
@@ -15274,7 +15423,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 429,
+    "RowIndex": 432,
     "Id": "AlchemistsBoonFlaskCharges",
     "Text": "",
     "StatsKeys1": [
@@ -15301,7 +15450,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 430,
+    "RowIndex": 433,
     "Id": "RampingDamageInPresence",
     "Text": "",
     "StatsKeys1": [
@@ -15333,7 +15482,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 431,
+    "RowIndex": 434,
     "Id": "AttritionCull",
     "Text": "",
     "StatsKeys1": [
@@ -15360,7 +15509,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 432,
+    "RowIndex": 435,
     "Id": "CriticalStrikeAura",
     "Text": "",
     "StatsKeys1": [
@@ -15387,7 +15536,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 433,
+    "RowIndex": 436,
     "Id": "BlazingClusterMaximum",
     "Text": "",
     "StatsKeys1": [
@@ -15414,7 +15563,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 434,
+    "RowIndex": 437,
     "Id": "BoneSpearRadius",
     "Text": "",
     "StatsKeys1": [
@@ -15441,7 +15590,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 435,
+    "RowIndex": 438,
     "Id": "BoneSpearChargeAoE",
     "Text": "",
     "StatsKeys1": [
@@ -15468,7 +15617,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 436,
+    "RowIndex": 439,
     "Id": "ChannelledSlamShockwaveAoE",
     "Text": "",
     "StatsKeys1": [
@@ -15495,7 +15644,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 437,
+    "RowIndex": 440,
     "Id": "ChargeMasteryConsume",
     "Text": "",
     "StatsKeys1": [
@@ -15522,7 +15671,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 438,
+    "RowIndex": 441,
     "Id": "ChargeMasteryPower",
     "Text": "",
     "StatsKeys1": [
@@ -15549,7 +15698,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 439,
+    "RowIndex": 442,
     "Id": "ChargeMasteryFrenzy",
     "Text": "",
     "StatsKeys1": [
@@ -15576,7 +15725,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 440,
+    "RowIndex": 443,
     "Id": "ChargeMasteryEndurance",
     "Text": "",
     "StatsKeys1": [
@@ -15603,7 +15752,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 441,
+    "RowIndex": 444,
     "Id": "DefianceBannerDefences",
     "Text": "",
     "StatsKeys1": [
@@ -15630,7 +15779,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 442,
+    "RowIndex": 445,
     "Id": "DefianceBannerSpeed",
     "Text": "",
     "StatsKeys1": [
@@ -15657,7 +15806,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 443,
+    "RowIndex": 446,
     "Id": "DreadBannerFlaskCharges",
     "Text": "",
     "StatsKeys1": [
@@ -15684,7 +15833,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 444,
+    "RowIndex": 447,
     "Id": "DreadBannerThreshold",
     "Text": "",
     "StatsKeys1": [
@@ -15711,7 +15860,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 445,
+    "RowIndex": 448,
     "Id": "ElementalConfluxDamage",
     "Text": "",
     "StatsKeys1": [
@@ -15738,7 +15887,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 446,
+    "RowIndex": 449,
     "Id": "EmergencyReloadDamage",
     "Text": "",
     "StatsKeys1": [
@@ -15765,7 +15914,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 447,
+    "RowIndex": 450,
     "Id": "EnfeebleDamagePenalty",
     "Text": "",
     "StatsKeys1": [
@@ -15792,7 +15941,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 448,
+    "RowIndex": 451,
     "Id": "EnfeebleDamagePenaltyUnique",
     "Text": "",
     "StatsKeys1": [
@@ -15819,7 +15968,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 449,
+    "RowIndex": 452,
     "Id": "GrenadeSkillFuseDuration",
     "Text": "",
     "StatsKeys1": [
@@ -15846,7 +15995,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 450,
+    "RowIndex": 453,
     "Id": "OilGroundSlow",
     "Text": "",
     "StatsKeys1": [
@@ -15873,7 +16022,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 451,
+    "RowIndex": 454,
     "Id": "OilGroundExposure",
     "Text": "",
     "StatsKeys1": [
@@ -15900,7 +16049,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 452,
+    "RowIndex": 455,
     "Id": "CoverInOilSlow",
     "Text": "",
     "StatsKeys1": [
@@ -15927,7 +16076,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 453,
+    "RowIndex": 456,
     "Id": "CoverInOilExposure",
     "Text": "",
     "StatsKeys1": [
@@ -15954,7 +16103,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 454,
+    "RowIndex": 457,
     "Id": "FlameWallProjectileDamage",
     "Text": "",
     "StatsKeys1": [
@@ -15981,7 +16130,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 455,
+    "RowIndex": 458,
     "Id": "FlameWallIgniteDamage",
     "Text": "",
     "StatsKeys1": [
@@ -16008,7 +16157,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 456,
+    "RowIndex": 459,
     "Id": "FreezingMarkFreezeBuildup",
     "Text": "",
     "StatsKeys1": [
@@ -16046,7 +16195,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 457,
+    "RowIndex": 460,
     "Id": "IceCrystalLife",
     "Text": "",
     "StatsKeys1": [
@@ -16073,7 +16222,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 458,
+    "RowIndex": 461,
     "Id": "ShieldWallLife",
     "Text": "",
     "StatsKeys1": [
@@ -16100,7 +16249,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 459,
+    "RowIndex": 462,
     "Id": "MetaEnergyRefund",
     "Text": "",
     "StatsKeys1": [
@@ -16127,7 +16276,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 460,
+    "RowIndex": 463,
     "Id": "GhostDanceShroudCap",
     "Text": "",
     "StatsKeys1": [
@@ -16154,7 +16303,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 461,
+    "RowIndex": 464,
     "Id": "GhostDanceRecovery",
     "Text": "",
     "StatsKeys1": [
@@ -16181,7 +16330,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 462,
+    "RowIndex": 465,
     "Id": "GlacialCascadeLength",
     "Text": "",
     "StatsKeys1": [
@@ -16208,7 +16357,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 463,
+    "RowIndex": 466,
     "Id": "GlacialCascadeSpikeCount",
     "Text": "",
     "StatsKeys1": [
@@ -16235,7 +16384,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 464,
+    "RowIndex": 467,
     "Id": "HeraldOfThunderBoltCount",
     "Text": "",
     "StatsKeys1": [
@@ -16262,7 +16411,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 465,
+    "RowIndex": 468,
     "Id": "ArmourBrokenStunDamage",
     "Text": "",
     "StatsKeys1": [
@@ -16289,7 +16438,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 466,
+    "RowIndex": 469,
     "Id": "LightningArrowExtraTargets",
     "Text": "",
     "StatsKeys1": [
@@ -16316,7 +16465,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 467,
+    "RowIndex": 470,
     "Id": "ManaTempestDamage",
     "Text": "",
     "StatsKeys1": [
@@ -16343,7 +16492,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 468,
+    "RowIndex": 471,
     "Id": "ManaTempestChains",
     "Text": "",
     "StatsKeys1": [
@@ -16370,7 +16519,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 469,
+    "RowIndex": 472,
     "Id": "ManaTempestChainTargets",
     "Text": "",
     "StatsKeys1": [
@@ -16397,7 +16546,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 470,
+    "RowIndex": 473,
     "Id": "ManaTempestForks",
     "Text": "",
     "StatsKeys1": [
@@ -16424,7 +16573,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 471,
+    "RowIndex": 474,
     "Id": "ManaTempestCost",
     "Text": "",
     "StatsKeys1": [
@@ -16451,7 +16600,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 472,
+    "RowIndex": 475,
     "Id": "FallingThunderProjectiles",
     "Text": "",
     "StatsKeys1": [
@@ -16478,7 +16627,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 473,
+    "RowIndex": 476,
     "Id": "FallingThunderChargeDamage1",
     "Text": "",
     "StatsKeys1": [
@@ -16505,7 +16654,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 474,
+    "RowIndex": 477,
     "Id": "FallingThunderChargeDamage2",
     "Text": "",
     "StatsKeys1": [
@@ -16532,7 +16681,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 475,
+    "RowIndex": 478,
     "Id": "OrbOfStormsLimit",
     "Text": "",
     "StatsKeys1": [
@@ -16559,7 +16708,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 476,
+    "RowIndex": 479,
     "Id": "OverwhelmingPressureStunThreshold",
     "Text": "",
     "StatsKeys1": [
@@ -16586,7 +16735,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 477,
+    "RowIndex": 480,
     "Id": "OverwhelmingPressureAilmentThreshold",
     "Text": "",
     "StatsKeys1": [
@@ -16613,7 +16762,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 478,
+    "RowIndex": 481,
     "Id": "VineArrowStoredPoison",
     "Text": "",
     "StatsKeys1": [
@@ -16640,7 +16789,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 479,
+    "RowIndex": 482,
     "Id": "VineArrowSlow",
     "Text": "",
     "StatsKeys1": [
@@ -16673,7 +16822,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 480,
+    "RowIndex": 483,
     "Id": "RapidShotHeatGain",
     "Text": "",
     "StatsKeys1": [
@@ -16700,14 +16849,14 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 481,
-    "Id": "RapidShotHeatDamage",
+    "RowIndex": 484,
+    "Id": "RapidShotChargeTime",
     "Text": "",
     "StatsKeys1": [
       {
-        "RowIndex": 20256,
+        "RowIndex": 21115,
         "TableName": "Stats",
-        "Id": "rapid_shot_charge_up_time_as_%_of_attack_time"
+        "Id": "display_rapid_shot_charge_up_time_ms"
       }
     ],
     "CharacterPanelDescriptionModesKey": {
@@ -16718,16 +16867,16 @@
     "StatsKeys2": [],
     "StatsKeys3": [],
     "CharacterPanelTabsKey": {
-      "RowIndex": 1,
+      "RowIndex": 2,
       "TableName": "CharacterPanelTabs",
-      "Id": "SkillOffence"
+      "Id": "SkillUsage"
     },
     "Unk007": true,
     "Unk008": [],
     "Unk009": 0
   },
   {
-    "RowIndex": 482,
+    "RowIndex": 485,
     "Id": "RapidShotGrenadeDamage",
     "Text": "",
     "StatsKeys1": [
@@ -16754,7 +16903,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 483,
+    "RowIndex": 486,
     "Id": "IceShardMaximum",
     "Text": "",
     "StatsKeys1": [
@@ -16781,7 +16930,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 484,
+    "RowIndex": 487,
     "Id": "IceShardDelayedDamage",
     "Text": "",
     "StatsKeys1": [
@@ -16808,7 +16957,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 485,
+    "RowIndex": 488,
     "Id": "ShardDespoilerFrequency",
     "Text": "",
     "StatsKeys1": [
@@ -16835,7 +16984,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 486,
+    "RowIndex": 489,
     "Id": "CrossbowClipSize",
     "Text": "",
     "StatsKeys1": [
@@ -16868,7 +17017,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 487,
+    "RowIndex": 490,
     "Id": "CrossbowReloadTime",
     "Text": "",
     "StatsKeys1": [
@@ -16906,7 +17055,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 488,
+    "RowIndex": 491,
     "Id": "StormblastBoltMaxBolts",
     "Text": "",
     "StatsKeys1": [
@@ -16933,7 +17082,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 489,
+    "RowIndex": 492,
     "Id": "CrossbowAmmoSaveChance",
     "Text": "",
     "StatsKeys1": [
@@ -16966,7 +17115,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 490,
+    "RowIndex": 493,
     "Id": "CrossbowReloadOnHeavyStun",
     "Text": "",
     "StatsKeys1": [
@@ -17004,7 +17153,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 491,
+    "RowIndex": 494,
     "Id": "SnipersMarkCritMulti",
     "Text": "",
     "StatsKeys1": [
@@ -17031,7 +17180,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 492,
+    "RowIndex": 495,
     "Id": "SolarOrbLimit",
     "Text": "",
     "StatsKeys1": [
@@ -17058,7 +17207,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 493,
+    "RowIndex": 496,
     "Id": "VoltaicMarkShockChance",
     "Text": "",
     "StatsKeys1": [
@@ -17085,7 +17234,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 494,
+    "RowIndex": 497,
     "Id": "VoltaicMarkShockEffect",
     "Text": "",
     "StatsKeys1": [
@@ -17112,7 +17261,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 495,
+    "RowIndex": 498,
     "Id": "TimeOfNeedLifeGain",
     "Text": "",
     "StatsKeys1": [
@@ -17139,7 +17288,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 496,
+    "RowIndex": 499,
     "Id": "CursedGround",
     "Text": "",
     "StatsKeys1": [
@@ -17166,7 +17315,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 497,
+    "RowIndex": 500,
     "Id": "TornadoShotLimit",
     "Text": "",
     "StatsKeys1": [
@@ -17193,7 +17342,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 498,
+    "RowIndex": 501,
     "Id": "TornadoShotHitLimit",
     "Text": "",
     "StatsKeys1": [
@@ -17220,7 +17369,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 499,
+    "RowIndex": 502,
     "Id": "TornadoShotDamage",
     "Text": "",
     "StatsKeys1": [
@@ -17247,7 +17396,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 500,
+    "RowIndex": 503,
     "Id": "TornadoShotRange",
     "Text": "",
     "StatsKeys1": [
@@ -17274,7 +17423,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 501,
+    "RowIndex": 504,
     "Id": "WarBannerDamage",
     "Text": "",
     "StatsKeys1": [
@@ -17301,7 +17450,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 502,
+    "RowIndex": 505,
     "Id": "WarBannerAccuracy",
     "Text": "",
     "StatsKeys1": [
@@ -17328,7 +17477,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 503,
+    "RowIndex": 506,
     "Id": "ScavengedPlatingArmour",
     "Text": "",
     "StatsKeys1": [
@@ -17355,7 +17504,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 504,
+    "RowIndex": 507,
     "Id": "ScavengedPlatingThorns",
     "Text": "",
     "StatsKeys1": [
@@ -17387,7 +17536,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 505,
+    "RowIndex": 508,
     "Id": "ScavengedPlatingMaximum",
     "Text": "",
     "StatsKeys1": [
@@ -17414,7 +17563,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 506,
+    "RowIndex": 509,
     "Id": "MHArmourBreakOnHit",
     "Text": "",
     "StatsKeys1": [
@@ -17453,7 +17602,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 507,
+    "RowIndex": 510,
     "Id": "OHArmourBreakOnHit",
     "Text": "",
     "StatsKeys1": [
@@ -17492,7 +17641,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 508,
+    "RowIndex": 511,
     "Id": "CannotBreakArmour",
     "Text": "",
     "StatsKeys1": [
@@ -17519,7 +17668,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 509,
+    "RowIndex": 512,
     "Id": "BreakArmourOnHeavyStun",
     "Text": "",
     "StatsKeys1": [
@@ -17552,7 +17701,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 510,
+    "RowIndex": 513,
     "Id": "HeraldOfAshThreshold",
     "Text": "",
     "StatsKeys1": [
@@ -17579,7 +17728,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 511,
+    "RowIndex": 514,
     "Id": "HeraldOfAshDamage",
     "Text": "",
     "StatsKeys1": [
@@ -17606,7 +17755,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 512,
+    "RowIndex": 515,
     "Id": "WarcryEmpoweredAttacks",
     "Text": "",
     "StatsKeys1": [
@@ -17633,7 +17782,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 513,
+    "RowIndex": 516,
     "Id": "WarcryChargeConsumeEmpower",
     "Text": "",
     "StatsKeys1": [
@@ -17660,7 +17809,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 514,
+    "RowIndex": 517,
     "Id": "InfernalCryDamage",
     "Text": "",
     "StatsKeys1": [
@@ -17692,7 +17841,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 515,
+    "RowIndex": 518,
     "Id": "SuperchargedSlamDamagePerStage",
     "Text": "",
     "StatsKeys1": [
@@ -17719,7 +17868,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 516,
+    "RowIndex": 519,
     "Id": "SuperchargedSlamStages",
     "Text": "",
     "StatsKeys1": [
@@ -17746,7 +17895,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 517,
+    "RowIndex": 520,
     "Id": "TemporalChainsActionSpeed",
     "Text": "",
     "StatsKeys1": [
@@ -17773,7 +17922,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 518,
+    "RowIndex": 521,
     "Id": "TemporalChainsBuffExpiry",
     "Text": "",
     "StatsKeys1": [
@@ -17800,7 +17949,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 519,
+    "RowIndex": 522,
     "Id": "FirestormFrequency",
     "Text": "",
     "StatsKeys1": [
@@ -17827,7 +17976,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 520,
+    "RowIndex": 523,
     "Id": "FirestormLimit",
     "Text": "",
     "StatsKeys1": [
@@ -17854,7 +18003,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 521,
+    "RowIndex": 524,
     "Id": "ArcChainDamage",
     "Text": "",
     "StatsKeys1": [
@@ -17881,7 +18030,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 522,
+    "RowIndex": 525,
     "Id": "ArcticArmourStageGain",
     "Text": "",
     "StatsKeys1": [
@@ -17913,7 +18062,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 523,
+    "RowIndex": 526,
     "Id": "FlameblastRadius",
     "Text": "",
     "StatsKeys1": [
@@ -17940,7 +18089,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 524,
+    "RowIndex": 527,
     "Id": "FlameblastDamage",
     "Text": "",
     "StatsKeys1": [
@@ -17967,7 +18116,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 525,
+    "RowIndex": 528,
     "Id": "FlameblastMaxStages",
     "Text": "",
     "StatsKeys1": [
@@ -17994,7 +18143,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 526,
+    "RowIndex": 529,
     "Id": "OrbOfStormsBoltFrequency",
     "Text": "",
     "StatsKeys1": [
@@ -18021,7 +18170,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 527,
+    "RowIndex": 530,
     "Id": "OrbOfStormsMaximumBolts",
     "Text": "",
     "StatsKeys1": [
@@ -18048,7 +18197,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 528,
+    "RowIndex": 531,
     "Id": "LightningConduitShockDamage",
     "Text": "",
     "StatsKeys1": [
@@ -18075,7 +18224,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 529,
+    "RowIndex": 532,
     "Id": "SolarOrbPulseFrequency",
     "Text": "",
     "StatsKeys1": [
@@ -18102,7 +18251,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 530,
+    "RowIndex": 533,
     "Id": "ManaRemnantsRecovery",
     "Text": "",
     "StatsKeys1": [
@@ -18129,7 +18278,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 531,
+    "RowIndex": 534,
     "Id": "ManaRemnantsChance",
     "Text": "",
     "StatsKeys1": [
@@ -18156,7 +18305,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 532,
+    "RowIndex": 535,
     "Id": "ManaRemnantsInterval",
     "Text": "",
     "StatsKeys1": [
@@ -18183,7 +18332,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 533,
+    "RowIndex": 536,
     "Id": "EmberFusilladeDamage",
     "Text": "",
     "StatsKeys1": [
@@ -18210,7 +18359,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 534,
+    "RowIndex": 537,
     "Id": "DetonateDeadDamage",
     "Text": "",
     "StatsKeys1": [
@@ -18237,7 +18386,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 535,
+    "RowIndex": 538,
     "Id": "ContagionSpreadDamage",
     "Text": "",
     "StatsKeys1": [
@@ -18269,7 +18418,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 536,
+    "RowIndex": 539,
     "Id": "VulnerabilityArmourLoss",
     "Text": "",
     "StatsKeys1": [
@@ -18296,7 +18445,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 537,
+    "RowIndex": 540,
     "Id": "HexblastMaximumExplosions",
     "Text": "",
     "StatsKeys1": [
@@ -18323,7 +18472,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 538,
+    "RowIndex": 541,
     "Id": "PainOfferingSpeed",
     "Text": "",
     "StatsKeys1": [
@@ -18350,7 +18499,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 539,
+    "RowIndex": 542,
     "Id": "PainOfferingDamage",
     "Text": "",
     "StatsKeys1": [
@@ -18377,7 +18526,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 540,
+    "RowIndex": 543,
     "Id": "UnearthBoneConstructLimit",
     "Text": "",
     "StatsKeys1": [
@@ -18404,7 +18553,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 541,
+    "RowIndex": 544,
     "Id": "RitualofPowerLimit",
     "Text": "",
     "StatsKeys1": [
@@ -18431,7 +18580,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 542,
+    "RowIndex": 545,
     "Id": "GrimFeastRecovery",
     "Text": "",
     "StatsKeys1": [
@@ -18458,7 +18607,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 543,
+    "RowIndex": 546,
     "Id": "GrimFeastChance",
     "Text": "",
     "StatsKeys1": [
@@ -18485,7 +18634,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 544,
+    "RowIndex": 547,
     "Id": "FlickerStrikeRepeatCount",
     "Text": "",
     "StatsKeys1": [
@@ -18512,7 +18661,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 545,
+    "RowIndex": 548,
     "Id": "ChargedStaffDuration",
     "Text": "",
     "StatsKeys1": [
@@ -18539,7 +18688,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 546,
+    "RowIndex": 549,
     "Id": "ChargedStaffDamage",
     "Text": "",
     "StatsKeys1": [
@@ -18571,7 +18720,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 547,
+    "RowIndex": 550,
     "Id": "ComboRequirement",
     "Text": "",
     "StatsKeys1": [
@@ -18598,7 +18747,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 548,
+    "RowIndex": 551,
     "Id": "TempestBellLimit",
     "Text": "",
     "StatsKeys1": [
@@ -18625,7 +18774,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 549,
+    "RowIndex": 552,
     "Id": "RainOfArrowsFrenzyProjectiles1",
     "Text": "",
     "StatsKeys1": [
@@ -18652,7 +18801,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 550,
+    "RowIndex": 553,
     "Id": "RainOfArrowsFrenzyProjectiles2",
     "Text": "",
     "StatsKeys1": [
@@ -18679,7 +18828,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 551,
+    "RowIndex": 554,
     "Id": "RainOfArrowsLimit",
     "Text": "",
     "StatsKeys1": [
@@ -18706,7 +18855,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 552,
+    "RowIndex": 555,
     "Id": "RainOfArrowsDelay",
     "Text": "",
     "StatsKeys1": [
@@ -18733,7 +18882,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 553,
+    "RowIndex": 556,
     "Id": "ToxicGrowthDamageFromPoison",
     "Text": "",
     "StatsKeys1": [
@@ -18760,7 +18909,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 554,
+    "RowIndex": 557,
     "Id": "ToxicGrowthRadiusFromPoison",
     "Text": "",
     "StatsKeys1": [
@@ -18787,7 +18936,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 555,
+    "RowIndex": 558,
     "Id": "WindDancerStages",
     "Text": "",
     "StatsKeys1": [
@@ -18814,7 +18963,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 556,
+    "RowIndex": 559,
     "Id": "WindDancerStageGain",
     "Text": "",
     "StatsKeys1": [
@@ -18841,7 +18990,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 557,
+    "RowIndex": 560,
     "Id": "WindDancerEvasion",
     "Text": "",
     "StatsKeys1": [
@@ -18868,7 +19017,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 558,
+    "RowIndex": 561,
     "Id": "HarvesterResummonSpeed",
     "Text": "",
     "StatsKeys1": [
@@ -18895,7 +19044,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 559,
+    "RowIndex": 562,
     "Id": "LightningRodLimit",
     "Text": "",
     "StatsKeys1": [
@@ -18922,7 +19071,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 560,
+    "RowIndex": 563,
     "Id": "LightningRodHitLimit",
     "Text": "",
     "StatsKeys1": [
@@ -18949,7 +19098,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 561,
+    "RowIndex": 564,
     "Id": "FreezingSalvoMaxSeals",
     "Text": "",
     "StatsKeys1": [
@@ -18976,7 +19125,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 562,
+    "RowIndex": 565,
     "Id": "FreezingSalvoSealGeneration",
     "Text": "",
     "StatsKeys1": [
@@ -19003,7 +19152,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 563,
+    "RowIndex": 566,
     "Id": "CombatFrenzyInterval",
     "Text": "",
     "StatsKeys1": [
@@ -19030,7 +19179,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 564,
+    "RowIndex": 567,
     "Id": "HeraldOfAgony",
     "Text": "",
     "StatsKeys1": [
@@ -19057,7 +19206,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 565,
+    "RowIndex": 568,
     "Id": "HeraldOfAgonyHinder",
     "Text": "",
     "StatsKeys1": [
@@ -19084,7 +19233,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 566,
+    "RowIndex": 569,
     "Id": "BerserkRageEffect",
     "Text": "",
     "StatsKeys1": [
@@ -19111,7 +19260,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 567,
+    "RowIndex": 570,
     "Id": "BerserkLifeLeech",
     "Text": "",
     "StatsKeys1": [
@@ -19138,7 +19287,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 568,
+    "RowIndex": 571,
     "Id": "BerserkLifeLoss",
     "Text": "",
     "StatsKeys1": [
@@ -19165,7 +19314,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 569,
+    "RowIndex": 572,
     "Id": "WitheringPresenceFrequency",
     "Text": "",
     "StatsKeys1": [
@@ -19192,7 +19341,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 570,
+    "RowIndex": 573,
     "Id": "ArchmageCost",
     "Text": "",
     "StatsKeys1": [
@@ -19219,7 +19368,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 571,
+    "RowIndex": 574,
     "Id": "ArchmageDamage",
     "Text": "",
     "StatsKeys1": [
@@ -19246,7 +19395,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 572,
+    "RowIndex": 575,
     "Id": "EarthquakeLimit",
     "Text": "",
     "StatsKeys1": [
@@ -19273,7 +19422,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 573,
+    "RowIndex": 576,
     "Id": "IncinerateExposure",
     "Text": "",
     "StatsKeys1": [
@@ -19305,7 +19454,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 574,
+    "RowIndex": 577,
     "Id": "IncinerateMaxStages",
     "Text": "",
     "StatsKeys1": [
@@ -19332,7 +19481,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 575,
+    "RowIndex": 578,
     "Id": "IncinerateDamagePerStage",
     "Text": "",
     "StatsKeys1": [
@@ -19359,7 +19508,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 576,
+    "RowIndex": 579,
     "Id": "MarkLimit",
     "Text": "",
     "StatsKeys1": [
@@ -19386,7 +19535,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 577,
+    "RowIndex": 580,
     "Id": "BonestormMaxProjectiles",
     "Text": "",
     "StatsKeys1": [
@@ -19413,7 +19562,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 578,
+    "RowIndex": 581,
     "Id": "GatheringStormMaxShockwaves",
     "Text": "",
     "StatsKeys1": [
@@ -19440,7 +19589,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 579,
+    "RowIndex": 582,
     "Id": "LifeRemnantsRecovery",
     "Text": "",
     "StatsKeys1": [
@@ -19467,7 +19616,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 580,
+    "RowIndex": 583,
     "Id": "LifeRemnantsChance",
     "Text": "",
     "StatsKeys1": [
@@ -19494,7 +19643,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 581,
+    "RowIndex": 584,
     "Id": "LifeRemnantsInterval",
     "Text": "",
     "StatsKeys1": [
@@ -19521,7 +19670,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 582,
+    "RowIndex": 585,
     "Id": "SpiralVolleyFrenzyDamage1",
     "Text": "",
     "StatsKeys1": [
@@ -19548,7 +19697,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 583,
+    "RowIndex": 586,
     "Id": "SpiralVolleyFrenzyDamage2",
     "Text": "",
     "StatsKeys1": [
@@ -19575,7 +19724,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 584,
+    "RowIndex": 587,
     "Id": "SpiralVolleyChains",
     "Text": "",
     "StatsKeys1": [
@@ -19602,7 +19751,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 585,
+    "RowIndex": 588,
     "Id": "SupportChanceForExtraProjectilesInCircle",
     "Text": "",
     "StatsKeys1": [
@@ -19629,7 +19778,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 586,
+    "RowIndex": 589,
     "Id": "ManaDrainLeech",
     "Text": "",
     "StatsKeys1": [
@@ -19656,7 +19805,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 587,
+    "RowIndex": 590,
     "Id": "AdditionalChargeChance",
     "Text": "",
     "StatsKeys1": [
@@ -19683,7 +19832,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 588,
+    "RowIndex": 591,
     "Id": "LivingBombSeedLimit",
     "Text": "",
     "StatsKeys1": [
@@ -19710,7 +19859,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 589,
+    "RowIndex": 592,
     "Id": "DisciplineESGranted",
     "Text": "",
     "StatsKeys1": [
@@ -19737,7 +19886,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 590,
+    "RowIndex": 593,
     "Id": "SigilOfPowerMaxStages",
     "Text": "",
     "StatsKeys1": [
@@ -19764,7 +19913,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 591,
+    "RowIndex": 594,
     "Id": "SigilOfPowerStageGain",
     "Text": "",
     "StatsKeys1": [
@@ -19791,7 +19940,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 592,
+    "RowIndex": 595,
     "Id": "SigilOfPowerBuff",
     "Text": "",
     "StatsKeys1": [
@@ -19818,7 +19967,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 593,
+    "RowIndex": 596,
     "Id": "TemporalRiftSnapshotInterval",
     "Text": "",
     "StatsKeys1": [
@@ -19845,7 +19994,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 594,
+    "RowIndex": 597,
     "Id": "TemporalRiftMaxSnapshots",
     "Text": "",
     "StatsKeys1": [
@@ -19872,7 +20021,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 595,
+    "RowIndex": 598,
     "Id": "AegisMaximumAmount",
     "Text": "",
     "StatsKeys1": [
@@ -19899,7 +20048,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 596,
+    "RowIndex": 599,
     "Id": "AegisRechargeDelay",
     "Text": "",
     "StatsKeys1": [
@@ -19926,7 +20075,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 597,
+    "RowIndex": 600,
     "Id": "ConcoctionChargeConsumption",
     "Text": "",
     "StatsKeys1": [
@@ -19953,7 +20102,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 598,
+    "RowIndex": 601,
     "Id": "ConcoctionFireExposure",
     "Text": "",
     "StatsKeys1": [
@@ -19980,7 +20129,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 599,
+    "RowIndex": 602,
     "Id": "ConcoctionColdExposure",
     "Text": "",
     "StatsKeys1": [
@@ -20007,7 +20156,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 600,
+    "RowIndex": 603,
     "Id": "ConcoctionLightningExposure",
     "Text": "",
     "StatsKeys1": [
@@ -20034,7 +20183,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 601,
+    "RowIndex": 604,
     "Id": "MeditateESRecharge",
     "Text": "",
     "StatsKeys1": [
@@ -20061,7 +20210,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 602,
+    "RowIndex": 605,
     "Id": "IntoTheBreachSpawnRate",
     "Text": "",
     "StatsKeys1": [
@@ -20088,7 +20237,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 603,
+    "RowIndex": 606,
     "Id": "EncaseInJadeAbsorption",
     "Text": "",
     "StatsKeys1": [
@@ -20115,7 +20264,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 604,
+    "RowIndex": 607,
     "Id": "TornadoHinder",
     "Text": "",
     "StatsKeys1": [
@@ -20142,7 +20291,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 605,
+    "RowIndex": 608,
     "Id": "TornadoHitInterval",
     "Text": "",
     "StatsKeys1": [
@@ -20169,7 +20318,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 606,
+    "RowIndex": 609,
     "Id": "DemonFormLifeLoss",
     "Text": "",
     "StatsKeys1": [
@@ -20196,7 +20345,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 607,
+    "RowIndex": 610,
     "Id": "DemonFormSpellDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20223,7 +20372,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 608,
+    "RowIndex": 611,
     "Id": "DemonFormGemLevel",
     "Text": "",
     "StatsKeys1": [
@@ -20250,7 +20399,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 609,
+    "RowIndex": 612,
     "Id": "DemonFormCastSpeed",
     "Text": "",
     "StatsKeys1": [
@@ -20277,7 +20426,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 610,
+    "RowIndex": 613,
     "Id": "DemonFormMaxStacks",
     "Text": "",
     "StatsKeys1": [
@@ -20304,7 +20453,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 611,
+    "RowIndex": 614,
     "Id": "UnboundAvatarMaxCharges",
     "Text": "",
     "StatsKeys1": [
@@ -20331,7 +20480,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 612,
+    "RowIndex": 615,
     "Id": "UnboundAvatarChargeGainInterval",
     "Text": "",
     "StatsKeys1": [
@@ -20358,7 +20507,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 613,
+    "RowIndex": 616,
     "Id": "UnboundAvatarDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20385,7 +20534,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 614,
+    "RowIndex": 617,
     "Id": "UnboundAvatarAilmentChance",
     "Text": "",
     "StatsKeys1": [
@@ -20412,7 +20561,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 615,
+    "RowIndex": 618,
     "Id": "UnboundAvatarAilmentBuildup",
     "Text": "",
     "StatsKeys1": [
@@ -20439,7 +20588,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 616,
+    "RowIndex": 619,
     "Id": "GrenadeDoubleExplodeChance",
     "Text": "",
     "StatsKeys1": [
@@ -20478,7 +20627,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 617,
+    "RowIndex": 620,
     "Id": "SupportBloodlustDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20517,7 +20666,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 618,
+    "RowIndex": 621,
     "Id": "DamageGainedAsFireVsIgnited",
     "Text": "",
     "StatsKeys1": [
@@ -20550,7 +20699,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 619,
+    "RowIndex": 622,
     "Id": "SupportCloseCombatDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20583,7 +20732,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 620,
+    "RowIndex": 623,
     "Id": "SupportBeheadModSteal",
     "Text": "",
     "StatsKeys1": [
@@ -20610,7 +20759,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 621,
+    "RowIndex": 624,
     "Id": "SupportRuthlessStun",
     "Text": "",
     "StatsKeys1": [
@@ -20648,7 +20797,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 622,
+    "RowIndex": 625,
     "Id": "SupportExecuteLowLifeDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20681,7 +20830,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 623,
+    "RowIndex": 626,
     "Id": "SupportFistOfWarFrequency",
     "Text": "",
     "StatsKeys1": [
@@ -20708,7 +20857,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 624,
+    "RowIndex": 627,
     "Id": "SupportUnbreakableStunThreshold",
     "Text": "",
     "StatsKeys1": [
@@ -20735,7 +20884,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 625,
+    "RowIndex": 628,
     "Id": "SupportImpactShockwaveRadius",
     "Text": "",
     "StatsKeys1": [
@@ -20762,7 +20911,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 626,
+    "RowIndex": 629,
     "Id": "SupportExploitWeaknessDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20789,7 +20938,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 627,
+    "RowIndex": 630,
     "Id": "SupportEnragedWarcryDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20821,7 +20970,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 628,
+    "RowIndex": 631,
     "Id": "EnduranceChargeOnArmourBreakChance",
     "Text": "",
     "StatsKeys1": [
@@ -20854,7 +21003,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 629,
+    "RowIndex": 632,
     "Id": "SupportEmpoweredDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20881,7 +21030,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 630,
+    "RowIndex": 633,
     "Id": "SupportEmpoweredCull",
     "Text": "",
     "StatsKeys1": [
@@ -20908,7 +21057,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 631,
+    "RowIndex": 634,
     "Id": "WarcryRagePerPower",
     "Text": "",
     "StatsKeys1": [
@@ -20935,7 +21084,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 632,
+    "RowIndex": 635,
     "Id": "SupportRuptureBleedAggravate",
     "Text": "",
     "StatsKeys1": [
@@ -20962,7 +21111,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 633,
+    "RowIndex": 636,
     "Id": "SupportRageforgedDamage",
     "Text": "",
     "StatsKeys1": [
@@ -20994,7 +21143,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 634,
+    "RowIndex": 637,
     "Id": "SupportArmourExplosionTrigger",
     "Text": "",
     "StatsKeys1": [
@@ -21021,7 +21170,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 635,
+    "RowIndex": 638,
     "Id": "SupportStompingGroundTrigger",
     "Text": "",
     "StatsKeys1": [
@@ -21048,7 +21197,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 636,
+    "RowIndex": 639,
     "Id": "SupportCorruptingCryDamage",
     "Text": "",
     "StatsKeys1": [
@@ -21075,7 +21224,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 637,
+    "RowIndex": 640,
     "Id": "SupportCorruptingCryDuration",
     "Text": "",
     "StatsKeys1": [
@@ -21102,7 +21251,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 638,
+    "RowIndex": 641,
     "Id": "SupportVitalityRegeneration",
     "Text": "",
     "StatsKeys1": [
@@ -21129,7 +21278,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 639,
+    "RowIndex": 642,
     "Id": "SupportHerbalismFlaskRecovery",
     "Text": "",
     "StatsKeys1": [
@@ -21156,7 +21305,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 640,
+    "RowIndex": 643,
     "Id": "SupportCannibalismLifeGain",
     "Text": "",
     "StatsKeys1": [
@@ -21183,7 +21332,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 641,
+    "RowIndex": 644,
     "Id": "SupportClarityRegeneration",
     "Text": "",
     "StatsKeys1": [
@@ -21210,7 +21359,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 642,
+    "RowIndex": 645,
     "Id": "SupportPrecisionAccuracy",
     "Text": "",
     "StatsKeys1": [
@@ -21237,7 +21386,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 643,
+    "RowIndex": 646,
     "Id": "SupportArmourBreakFromDamage",
     "Text": "",
     "StatsKeys1": [
@@ -21264,7 +21413,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 644,
+    "RowIndex": 647,
     "Id": "SupportDazeWarcryDuration",
     "Text": "",
     "StatsKeys1": [
@@ -21291,7 +21440,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 645,
+    "RowIndex": 648,
     "Id": "SupportLifeFont",
     "Text": "",
     "StatsKeys1": [
@@ -21323,7 +21472,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 646,
+    "RowIndex": 649,
     "Id": "SupportManaFont",
     "Text": "",
     "StatsKeys1": [
@@ -21355,7 +21504,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 647,
+    "RowIndex": 650,
     "Id": "SupportRageFont",
     "Text": "",
     "StatsKeys1": [
@@ -21387,7 +21536,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 648,
+    "RowIndex": 651,
     "Id": "SupportHolyDescentDuration",
     "Text": "",
     "StatsKeys1": [
@@ -21414,7 +21563,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 649,
+    "RowIndex": 652,
     "Id": "SupportFreshClipDamage",
     "Text": "",
     "StatsKeys1": [
@@ -21441,7 +21590,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 650,
+    "RowIndex": 653,
     "Id": "SupportSpellEchoCount",
     "Text": "",
     "StatsKeys1": [
@@ -21468,7 +21617,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 651,
+    "RowIndex": 654,
     "Id": "SupportSpellEchoArea",
     "Text": "",
     "StatsKeys1": [
@@ -21495,7 +21644,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 652,
+    "RowIndex": 655,
     "Id": "SupportIceBiteDamage",
     "Text": "",
     "StatsKeys1": [
@@ -21527,7 +21676,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 653,
+    "RowIndex": 656,
     "Id": "SupportInnervate",
     "Text": "",
     "StatsKeys1": [
@@ -21559,7 +21708,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 654,
+    "RowIndex": 657,
     "Id": "SupportArcaneSurge",
     "Text": "",
     "StatsKeys1": [
@@ -21591,7 +21740,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 655,
+    "RowIndex": 658,
     "Id": "SupportUnleashSealGain",
     "Text": "",
     "StatsKeys1": [
@@ -21618,7 +21767,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 656,
+    "RowIndex": 659,
     "Id": "SupportUnleashMaxSeals",
     "Text": "",
     "StatsKeys1": [
@@ -21645,7 +21794,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 657,
+    "RowIndex": 660,
     "Id": "SupportUnleashRepeatDamage",
     "Text": "",
     "StatsKeys1": [
@@ -21678,7 +21827,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 658,
+    "RowIndex": 661,
     "Id": "SupportImpendingDoomTrigger",
     "Text": "",
     "StatsKeys1": [
@@ -21705,7 +21854,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 659,
+    "RowIndex": 662,
     "Id": "CurseTransferOnDeath",
     "Text": "",
     "StatsKeys1": [
@@ -21732,7 +21881,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 660,
+    "RowIndex": 663,
     "Id": "SupportFrostNexusDuration",
     "Text": "",
     "StatsKeys1": [
@@ -21759,7 +21908,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 661,
+    "RowIndex": 664,
     "Id": "SupportShockSiphonESGain",
     "Text": "",
     "StatsKeys1": [
@@ -21786,7 +21935,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 662,
+    "RowIndex": 665,
     "Id": "SupportCoursingCurrent",
     "Text": "",
     "StatsKeys1": [
@@ -21818,7 +21967,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 663,
+    "RowIndex": 666,
     "Id": "SupportFortress",
     "Text": "",
     "StatsKeys1": [
@@ -21845,7 +21994,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 664,
+    "RowIndex": 667,
     "Id": "SupportBitingFrostDamage",
     "Text": "",
     "StatsKeys1": [
@@ -21872,7 +22021,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 665,
+    "RowIndex": 668,
     "Id": "SupportStormfire",
     "Text": "",
     "StatsKeys1": [
@@ -21905,7 +22054,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 666,
+    "RowIndex": 669,
     "Id": "SupportEnergyBarrier",
     "Text": "",
     "StatsKeys1": [
@@ -21932,7 +22081,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 667,
+    "RowIndex": 670,
     "Id": "SupportElementalDischargeTrigger",
     "Text": "",
     "StatsKeys1": [
@@ -21959,7 +22108,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 668,
+    "RowIndex": 671,
     "Id": "SupportFrostfireIgniteMagnitude",
     "Text": "",
     "StatsKeys1": [
@@ -21992,7 +22141,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 669,
+    "RowIndex": 672,
     "Id": "SupportFieryDeathTrigger",
     "Text": "",
     "StatsKeys1": [
@@ -22019,7 +22168,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 670,
+    "RowIndex": 673,
     "Id": "SupportManaFlareTrigger",
     "Text": "",
     "StatsKeys1": [
@@ -22052,7 +22201,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 671,
+    "RowIndex": 674,
     "Id": "ChanceToNotConsumeCorpse",
     "Text": "",
     "StatsKeys1": [
@@ -22079,7 +22228,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 672,
+    "RowIndex": 675,
     "Id": "SupportDecayingHexDamage",
     "Text": "",
     "StatsKeys1": [
@@ -22106,7 +22255,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 673,
+    "RowIndex": 676,
     "Id": "SupportMinionPact",
     "Text": "",
     "StatsKeys1": [
@@ -22138,7 +22287,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 674,
+    "RowIndex": 677,
     "Id": "SupportLastGaspDuration",
     "Text": "",
     "StatsKeys1": [
@@ -22165,7 +22314,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 675,
+    "RowIndex": 678,
     "Id": "SupportAmbushCritChance",
     "Text": "",
     "StatsKeys1": [
@@ -22192,7 +22341,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 676,
+    "RowIndex": 679,
     "Id": "SupportHinder",
     "Text": "",
     "StatsKeys1": [
@@ -22219,7 +22368,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 677,
+    "RowIndex": 680,
     "Id": "SupportIntenseAgonyDamage",
     "Text": "",
     "StatsKeys1": [
@@ -22246,7 +22395,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 678,
+    "RowIndex": 681,
     "Id": "SupportDrainAilmentsDamage",
     "Text": "",
     "StatsKeys1": [
@@ -22273,7 +22422,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 679,
+    "RowIndex": 682,
     "Id": "SupportChaoticFreeze",
     "Text": "",
     "StatsKeys1": [
@@ -22300,7 +22449,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 680,
+    "RowIndex": 683,
     "Id": "SupportSpellcascadeCount",
     "Text": "",
     "StatsKeys1": [
@@ -22327,7 +22476,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 681,
+    "RowIndex": 684,
     "Id": "SupportSpellCascadeArea",
     "Text": "",
     "StatsKeys1": [
@@ -22354,7 +22503,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 682,
+    "RowIndex": 685,
     "Id": "SupportDanseMacabre",
     "Text": "",
     "StatsKeys1": [
@@ -22381,7 +22530,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 683,
+    "RowIndex": 686,
     "Id": "SupportBurningRunes",
     "Text": "",
     "StatsKeys1": [
@@ -22408,7 +22557,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 684,
+    "RowIndex": 687,
     "Id": "SupportExposureEffect",
     "Text": "",
     "StatsKeys1": [
@@ -22435,7 +22584,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 685,
+    "RowIndex": 688,
     "Id": "SupportCrescendo",
     "Text": "",
     "StatsKeys1": [
@@ -22468,7 +22617,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 686,
+    "RowIndex": 689,
     "Id": "SupportRangedCombatDamage",
     "Text": "",
     "StatsKeys1": [
@@ -22495,7 +22644,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 687,
+    "RowIndex": 690,
     "Id": "SupportCullingStrike",
     "Text": "",
     "StatsKeys1": [
@@ -22522,7 +22671,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 688,
+    "RowIndex": 691,
     "Id": "SupportDazeBuildup",
     "Text": "",
     "StatsKeys1": [
@@ -22549,7 +22698,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 689,
+    "RowIndex": 692,
     "Id": "SupportBreakPostureDazeDuration",
     "Text": "",
     "StatsKeys1": [
@@ -22576,7 +22725,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 690,
+    "RowIndex": 693,
     "Id": "SupportFerocitySkillSpeed",
     "Text": "",
     "StatsKeys1": [
@@ -22603,7 +22752,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 691,
+    "RowIndex": 694,
     "Id": "SupportPotentialCritChance",
     "Text": "",
     "StatsKeys1": [
@@ -22630,7 +22779,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 692,
+    "RowIndex": 695,
     "Id": "SupportCulminationDamage",
     "Text": "",
     "StatsKeys1": [
@@ -22657,7 +22806,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 693,
+    "RowIndex": 696,
     "Id": "SupportPierceDamageAfterPierce",
     "Text": "",
     "StatsKeys1": [
@@ -22684,7 +22833,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 694,
+    "RowIndex": 697,
     "Id": "SupportForkDamageAfterFork",
     "Text": "",
     "StatsKeys1": [
@@ -22711,7 +22860,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 695,
+    "RowIndex": 698,
     "Id": "SupportMomentum",
     "Text": "",
     "StatsKeys1": [
@@ -22743,7 +22892,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 696,
+    "RowIndex": 699,
     "Id": "SupportBurstingPlague",
     "Text": "",
     "StatsKeys1": [
@@ -22781,7 +22930,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 697,
+    "RowIndex": 700,
     "Id": "SupportKnockbackWave",
     "Text": "",
     "StatsKeys1": [
@@ -22808,7 +22957,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 698,
+    "RowIndex": 701,
     "Id": "SupportLockdownPin",
     "Text": "",
     "StatsKeys1": [
@@ -22835,7 +22984,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 699,
+    "RowIndex": 702,
     "Id": "SupportManaFlaskCharges",
     "Text": "",
     "StatsKeys1": [
@@ -22862,7 +23011,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 700,
+    "RowIndex": 703,
     "Id": "SupportLifeFlaskCharges",
     "Text": "",
     "StatsKeys1": [
@@ -22889,7 +23038,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 701,
+    "RowIndex": 704,
     "Id": "FlameWallProjectileAddedFlatDamage",
     "Text": "",
     "StatsKeys1": [
@@ -22921,7 +23070,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 702,
+    "RowIndex": 705,
     "Id": "InfernalCryExplosionDamageFromPower",
     "Text": "",
     "StatsKeys1": [
@@ -22948,7 +23097,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 703,
+    "RowIndex": 706,
     "Id": "SkeletalReaverEnrageDecay",
     "Text": "",
     "StatsKeys1": [
@@ -22975,7 +23124,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 704,
+    "RowIndex": 707,
     "Id": "SkeletalArsonistCommandThreshold",
     "Text": "",
     "StatsKeys1": [
@@ -23002,7 +23151,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 705,
+    "RowIndex": 708,
     "Id": "SkeletalClericHeal",
     "Text": "",
     "StatsKeys1": [
@@ -23035,7 +23184,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 706,
+    "RowIndex": 709,
     "Id": "PlagueBearerStorage",
     "Text": "",
     "StatsKeys1": [
@@ -23068,7 +23217,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 707,
+    "RowIndex": 710,
     "Id": "PlagueBearerNovaAoE",
     "Text": "",
     "StatsKeys1": [
@@ -23095,7 +23244,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 708,
+    "RowIndex": 711,
     "Id": "MagmaBarrierWindow",
     "Text": "",
     "StatsKeys1": [
@@ -23122,7 +23271,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 709,
+    "RowIndex": 712,
     "Id": "MagmaBarrierCooldown",
     "Text": "",
     "StatsKeys1": [
@@ -23149,7 +23298,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 710,
+    "RowIndex": 713,
     "Id": "SkillFireResistanceGranted",
     "Text": "",
     "StatsKeys1": [
@@ -23176,7 +23325,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 711,
+    "RowIndex": 714,
     "Id": "SkillColdResistanceGranted",
     "Text": "",
     "StatsKeys1": [
@@ -23203,7 +23352,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 712,
+    "RowIndex": 715,
     "Id": "SkillLightningResistanceGranted",
     "Text": "",
     "StatsKeys1": [
@@ -23230,7 +23379,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 713,
+    "RowIndex": 716,
     "Id": "SkillChaosResistanceGranted",
     "Text": "",
     "StatsKeys1": [
@@ -23257,7 +23406,7 @@
     "Unk009": 0
   },
   {
-    "RowIndex": 714,
+    "RowIndex": 717,
     "Id": "SkillEnergyGainPenalty",
     "Text": "",
     "StatsKeys1": [

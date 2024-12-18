@@ -12188,6 +12188,31 @@
     {
       "Path": "metadata/statdescriptions/gem_stat_descriptions",
       "Ids": [
+        "support_command_skill_damage_+%_final"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Supported [Minion|Minions'] Command Skills deal {0}% more Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Supported [Minion|Minions'] Command Skills deal {0}% less Damage",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
         "support_conduction_chance_to_shock_+%_final"
       ],
       "Descriptions": [
@@ -17889,6 +17914,73 @@
           "Description": "Minions from Supported Skills are Defensive",
           "IsCanonical": false,
           "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
+        "support_slam_chance_for_one_additional_aftershock_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Supported Skills have {0}% chance to\ncause an additional [Aftershock]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
+        "support_slam_chance_for_two_additional_aftershocks_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Supported Skills have {0}% chance to\ncause two additional [Aftershock|Aftershocks]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
+        "support_slam_chance_for_three_additional_aftershocks_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "#",
+          "Description": "Supported Skills have {0}% chance to cause\nthree additional [Aftershock|Aftershocks]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
+        "support_unstable_earth_damage_+%_final"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Supported Skills deal {0}% more Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Supported Skills deal {0}% less Damage",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
         }
       ]
     }

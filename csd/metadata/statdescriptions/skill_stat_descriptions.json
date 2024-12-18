@@ -8232,6 +8232,31 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "active_skill_damage_+%_final_against_heavy_stunned_enemies"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% more Damage against [HeavyStun|Heavy Stunned] Enemies",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% less Damage against [HeavyStun|Heavy Stunned] Enemies",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "active_skill_damage_+%_final_while_dual_wielding"
       ],
       "Descriptions": [
@@ -9700,6 +9725,25 @@
           "Parameters": [
             {
               "Name": "negate",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "attack_duration_ms"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Attack time@{0}s",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
               "Value": 1
             }
           ]
@@ -11500,7 +11544,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] per [Power] of enemies you\n[Critical|Critically Hit] with Skills",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you\n[Critical|Critically Hit] with Skills, modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the Critical Hit will deal",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -15149,6 +15193,25 @@
           "Description": "Minimum 1 second between gaining Stages",
           "IsCanonical": false,
           "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "display_skill_cooldown_time_ms"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cooldown@{0}s",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
         }
       ]
     },
@@ -21767,6 +21830,25 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "non_spell_cast_duration_ms"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Use time@{0}s",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "nova_skills_cast_at_target_location"
       ],
       "Descriptions": [
@@ -25602,6 +25684,25 @@
           "Parameters": [
             {
               "Name": "negate",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "spell_cast_duration_ms"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# table_only",
+          "Description": "Cast time@{0}s",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_2dp_if_required",
               "Value": 1
             }
           ]
@@ -30830,20 +30931,6 @@
         {
           "Operator": "1|#",
           "Description": "Chills from Hits always reduce Action Speed by at least {0}%",
-          "IsCanonical": false,
-          "Parameters": []
-        }
-      ]
-    },
-    {
-      "Path": "metadata/statdescriptions/skill_stat_descriptions",
-      "Ids": [
-        "virtual_cooldown_speed_+%"
-      ],
-      "Descriptions": [
-        {
-          "Operator": "1|# table_only",
-          "Description": "Cooldown recovery modifier@{0}%",
           "IsCanonical": false,
           "Parameters": []
         }

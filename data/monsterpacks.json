@@ -18531,7 +18531,7 @@
     "Id": "chaos-tigerchimeral",
     "Unk001": 1,
     "WorldAreasKeys": [],
-    "Unk003": 4,
+    "Unk003": 7,
     "Unk004": 0,
     "BossMonsterSpawnChance": 0,
     "BossMonsterCount": 0,
@@ -20700,7 +20700,7 @@
     "Id": "breach-neutral",
     "Unk001": 1,
     "WorldAreasKeys": [],
-    "Unk003": 4,
+    "Unk003": 3,
     "Unk004": 0,
     "BossMonsterSpawnChance": 0,
     "BossMonsterCount": 0,
@@ -20734,8 +20734,8 @@
     "Id": "breach-chaos",
     "Unk001": 1,
     "WorldAreasKeys": [],
-    "Unk003": 3,
-    "Unk004": 100,
+    "Unk003": 2,
+    "Unk004": 50,
     "BossMonsterSpawnChance": 1,
     "BossMonsterCount": 1,
     "BossMonster_MonsterVarietiesKeys": [],
@@ -20768,8 +20768,8 @@
     "Id": "breach-physical",
     "Unk001": 1,
     "WorldAreasKeys": [],
-    "Unk003": 3,
-    "Unk004": 100,
+    "Unk003": 2,
+    "Unk004": 50,
     "BossMonsterSpawnChance": 1,
     "BossMonsterCount": 1,
     "BossMonster_MonsterVarietiesKeys": [],
@@ -20802,8 +20802,8 @@
     "Id": "breach-cold",
     "Unk001": 1,
     "WorldAreasKeys": [],
-    "Unk003": 4,
-    "Unk004": 100,
+    "Unk003": 3,
+    "Unk004": 50,
     "BossMonsterSpawnChance": 1,
     "BossMonsterCount": 1,
     "BossMonster_MonsterVarietiesKeys": [],
@@ -20836,8 +20836,8 @@
     "Id": "breach-fire",
     "Unk001": 1,
     "WorldAreasKeys": [],
-    "Unk003": 3,
-    "Unk004": 100,
+    "Unk003": 2,
+    "Unk004": 50,
     "BossMonsterSpawnChance": 1,
     "BossMonsterCount": 1,
     "BossMonster_MonsterVarietiesKeys": [],
@@ -20871,7 +20871,7 @@
     "Unk001": 1,
     "WorldAreasKeys": [],
     "Unk003": 3,
-    "Unk004": 100,
+    "Unk004": 50,
     "BossMonsterSpawnChance": 1,
     "BossMonsterCount": 1,
     "BossMonster_MonsterVarietiesKeys": [],
@@ -20901,7 +20901,7 @@
   },
   {
     "RowIndex": 608,
-    "Id": "breach-bat-emerge",
+    "Id": "breach-neutral-endgame",
     "Unk001": 1,
     "WorldAreasKeys": [],
     "Unk003": 4,
@@ -20935,6 +20935,210 @@
   },
   {
     "RowIndex": 609,
+    "Id": "breach-chaos-endgame",
+    "Unk001": 1,
+    "WorldAreasKeys": [],
+    "Unk003": 3,
+    "Unk004": 100,
+    "BossMonsterSpawnChance": 1,
+    "BossMonsterCount": 1,
+    "BossMonster_MonsterVarietiesKeys": [],
+    "Unk008": false,
+    "Unk009": [],
+    "Unk010": [],
+    "TagsKeys": [],
+    "MinLevel": 100,
+    "MaxLevel": 0,
+    "WorldAreas2": [],
+    "Unk015": -16843010,
+    "PackFormation": null,
+    "Unk017": 0,
+    "Unk018": false,
+    "Unk019": [],
+    "Unk020": false,
+    "Unk021": false,
+    "Unk022": true,
+    "Unk023": false,
+    "Unk024": [
+      "ⴀ昀愀挀琀椀漀渀㈀ⴀ攀氀椀琀攀㄀"
+    ],
+    "NecropolisPack": {
+      "RowIndex": 1,
+      "TableName": "NecropolisPacks"
+    }
+  },
+  {
+    "RowIndex": 610,
+    "Id": "breach-physical-endgame",
+    "Unk001": 1,
+    "WorldAreasKeys": [],
+    "Unk003": 3,
+    "Unk004": 100,
+    "BossMonsterSpawnChance": 1,
+    "BossMonsterCount": 1,
+    "BossMonster_MonsterVarietiesKeys": [],
+    "Unk008": false,
+    "Unk009": [],
+    "Unk010": [],
+    "TagsKeys": [],
+    "MinLevel": 100,
+    "MaxLevel": 0,
+    "WorldAreas2": [],
+    "Unk015": -16843010,
+    "PackFormation": null,
+    "Unk017": 0,
+    "Unk018": false,
+    "Unk019": [],
+    "Unk020": false,
+    "Unk021": false,
+    "Unk022": true,
+    "Unk023": false,
+    "Unk024": [
+      "-faction2-elite1"
+    ],
+    "NecropolisPack": {
+      "RowIndex": 1,
+      "TableName": "NecropolisPacks"
+    }
+  },
+  {
+    "RowIndex": 611,
+    "Id": "breach-cold-endgame",
+    "Unk001": 1,
+    "WorldAreasKeys": [],
+    "Unk003": 4,
+    "Unk004": 100,
+    "BossMonsterSpawnChance": 1,
+    "BossMonsterCount": 1,
+    "BossMonster_MonsterVarietiesKeys": [],
+    "Unk008": false,
+    "Unk009": [],
+    "Unk010": [],
+    "TagsKeys": [],
+    "MinLevel": 100,
+    "MaxLevel": 0,
+    "WorldAreas2": [],
+    "Unk015": -16843010,
+    "PackFormation": null,
+    "Unk017": 0,
+    "Unk018": false,
+    "Unk019": [],
+    "Unk020": false,
+    "Unk021": false,
+    "Unk022": true,
+    "Unk023": false,
+    "Unk024": [
+      "愀挀琀椀漀渀㈀ⴀ攀氀椀琀攀㄀"
+    ],
+    "NecropolisPack": {
+      "RowIndex": 1,
+      "TableName": "NecropolisPacks"
+    }
+  },
+  {
+    "RowIndex": 612,
+    "Id": "breach-fire-endgame",
+    "Unk001": 1,
+    "WorldAreasKeys": [],
+    "Unk003": 3,
+    "Unk004": 100,
+    "BossMonsterSpawnChance": 1,
+    "BossMonsterCount": 1,
+    "BossMonster_MonsterVarietiesKeys": [],
+    "Unk008": false,
+    "Unk009": [],
+    "Unk010": [],
+    "TagsKeys": [],
+    "MinLevel": 100,
+    "MaxLevel": 0,
+    "WorldAreas2": [],
+    "Unk015": -16843010,
+    "PackFormation": null,
+    "Unk017": 0,
+    "Unk018": false,
+    "Unk019": [],
+    "Unk020": false,
+    "Unk021": false,
+    "Unk022": true,
+    "Unk023": false,
+    "Unk024": [
+      "ⴀ攀氀椀琀攀㈀"
+    ],
+    "NecropolisPack": {
+      "RowIndex": 1,
+      "TableName": "NecropolisPacks"
+    }
+  },
+  {
+    "RowIndex": 613,
+    "Id": "breach-lightning-endgame",
+    "Unk001": 1,
+    "WorldAreasKeys": [],
+    "Unk003": 3,
+    "Unk004": 100,
+    "BossMonsterSpawnChance": 1,
+    "BossMonsterCount": 1,
+    "BossMonster_MonsterVarietiesKeys": [],
+    "Unk008": false,
+    "Unk009": [],
+    "Unk010": [],
+    "TagsKeys": [],
+    "MinLevel": 100,
+    "MaxLevel": 0,
+    "WorldAreas2": [],
+    "Unk015": -16843010,
+    "PackFormation": null,
+    "Unk017": 0,
+    "Unk018": false,
+    "Unk019": [],
+    "Unk020": false,
+    "Unk021": false,
+    "Unk022": true,
+    "Unk023": false,
+    "Unk024": [
+      "琀攀㈀"
+    ],
+    "NecropolisPack": {
+      "RowIndex": 1,
+      "TableName": "NecropolisPacks"
+    }
+  },
+  {
+    "RowIndex": 614,
+    "Id": "breach-bat-emerge",
+    "Unk001": 1,
+    "WorldAreasKeys": [],
+    "Unk003": 4,
+    "Unk004": 0,
+    "BossMonsterSpawnChance": 0,
+    "BossMonsterCount": 0,
+    "BossMonster_MonsterVarietiesKeys": [],
+    "Unk008": false,
+    "Unk009": [],
+    "Unk010": [],
+    "TagsKeys": [],
+    "MinLevel": 100,
+    "MaxLevel": 0,
+    "WorldAreas2": [],
+    "Unk015": -16843010,
+    "PackFormation": null,
+    "Unk017": 0,
+    "Unk018": false,
+    "Unk019": [],
+    "Unk020": false,
+    "Unk021": false,
+    "Unk022": true,
+    "Unk023": false,
+    "Unk024": [
+      "lite2"
+    ],
+    "NecropolisPack": {
+      "RowIndex": 1,
+      "TableName": "NecropolisPacks"
+    }
+  },
+  {
+    "RowIndex": 615,
     "Id": "deliriumdemonpack1-bigclaws",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -20968,7 +21172,7 @@
     }
   },
   {
-    "RowIndex": 610,
+    "RowIndex": 616,
     "Id": "deliriumdemonpack2-bigranged",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21002,7 +21206,7 @@
     }
   },
   {
-    "RowIndex": 611,
+    "RowIndex": 617,
     "Id": "deliriumdemonpack3-tankspikes",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21036,7 +21240,7 @@
     }
   },
   {
-    "RowIndex": 612,
+    "RowIndex": 618,
     "Id": "ultimatum-jaguar",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21070,7 +21274,7 @@
     }
   },
   {
-    "RowIndex": 613,
+    "RowIndex": 619,
     "Id": "ultimatum-triheadbat",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21104,7 +21308,7 @@
     }
   },
   {
-    "RowIndex": 614,
+    "RowIndex": 620,
     "Id": "ultimatum-gorilla",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21138,7 +21342,7 @@
     }
   },
   {
-    "RowIndex": 615,
+    "RowIndex": 621,
     "Id": "ultimatum-triceratops",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21172,7 +21376,7 @@
     }
   },
   {
-    "RowIndex": 616,
+    "RowIndex": 622,
     "Id": "ultimatum-triheadlizard",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21206,7 +21410,7 @@
     }
   },
   {
-    "RowIndex": 617,
+    "RowIndex": 623,
     "Id": "ultimatum-VaalZealotsAtziriMelee",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21243,7 +21447,7 @@
     }
   },
   {
-    "RowIndex": 618,
+    "RowIndex": 624,
     "Id": "ultimatum-VaalZealotsAtziriCaster",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21280,7 +21484,7 @@
     }
   },
   {
-    "RowIndex": 619,
+    "RowIndex": 625,
     "Id": "ultimatum-VaalZealotsLightningMelee",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21317,7 +21521,7 @@
     }
   },
   {
-    "RowIndex": 620,
+    "RowIndex": 626,
     "Id": "ultimatum-VaalZealotsLightningCaster",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21354,7 +21558,7 @@
     }
   },
   {
-    "RowIndex": 621,
+    "RowIndex": 627,
     "Id": "ultimatum-VaalZealotsSerpentMelee",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21391,7 +21595,7 @@
     }
   },
   {
-    "RowIndex": 622,
+    "RowIndex": 628,
     "Id": "ultimatum-VaalZealotsSerpentCaster",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21428,7 +21632,7 @@
     }
   },
   {
-    "RowIndex": 623,
+    "RowIndex": 629,
     "Id": "ultimatum-VaalZealotsMonkeyMelee",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21465,7 +21669,7 @@
     }
   },
   {
-    "RowIndex": 624,
+    "RowIndex": 630,
     "Id": "ultimatum-VaalZealotsMonkeyCaster",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21502,7 +21706,7 @@
     }
   },
   {
-    "RowIndex": 625,
+    "RowIndex": 631,
     "Id": "ultimatum-VaalZealotsSunMelee",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21539,7 +21743,7 @@
     }
   },
   {
-    "RowIndex": 626,
+    "RowIndex": 632,
     "Id": "ultimatum-VaalZealotsSunCaster",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21576,7 +21780,7 @@
     }
   },
   {
-    "RowIndex": 627,
+    "RowIndex": 633,
     "Id": "ultimatum-bloodbatherswordshield",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21610,7 +21814,7 @@
     }
   },
   {
-    "RowIndex": 628,
+    "RowIndex": 634,
     "Id": "ultimatum-bloodbatherdualwieldflail",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21644,7 +21848,7 @@
     }
   },
   {
-    "RowIndex": 629,
+    "RowIndex": 635,
     "Id": "ultimatum-bloodbatherspearsmace",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21678,7 +21882,7 @@
     }
   },
   {
-    "RowIndex": 630,
+    "RowIndex": 636,
     "Id": "ritual-dryads-funguszombies",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21712,7 +21916,7 @@
     }
   },
   {
-    "RowIndex": 631,
+    "RowIndex": 637,
     "Id": "ritual-dryads-splithooks",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21746,7 +21950,7 @@
     }
   },
   {
-    "RowIndex": 632,
+    "RowIndex": 638,
     "Id": "ritual-dryads-twigmonsters-behemoth",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21780,7 +21984,7 @@
     }
   },
   {
-    "RowIndex": 633,
+    "RowIndex": 639,
     "Id": "ritual-dryads-twigmonsters",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21815,7 +22019,7 @@
     }
   },
   {
-    "RowIndex": 634,
+    "RowIndex": 640,
     "Id": "ritual-dryads-stag",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21849,7 +22053,7 @@
     }
   },
   {
-    "RowIndex": 635,
+    "RowIndex": 641,
     "Id": "ritual-demons-rats",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21883,7 +22087,7 @@
     }
   },
   {
-    "RowIndex": 636,
+    "RowIndex": 642,
     "Id": "ritual-demons-rhoa",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21918,7 +22122,7 @@
     }
   },
   {
-    "RowIndex": 637,
+    "RowIndex": 643,
     "Id": "ritual-demons-hulk",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21952,7 +22156,7 @@
     }
   },
   {
-    "RowIndex": 638,
+    "RowIndex": 644,
     "Id": "ritual-demons-dweller",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -21987,7 +22191,7 @@
     }
   },
   {
-    "RowIndex": 639,
+    "RowIndex": 645,
     "Id": "ritual-canopy-bow",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22021,7 +22225,7 @@
     }
   },
   {
-    "RowIndex": 640,
+    "RowIndex": 646,
     "Id": "ritual-canopy-melee",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22055,7 +22259,7 @@
     }
   },
   {
-    "RowIndex": 641,
+    "RowIndex": 647,
     "Id": "ritual-canopy-staff",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22091,7 +22295,7 @@
     }
   },
   {
-    "RowIndex": 642,
+    "RowIndex": 648,
     "Id": "ritual-canopy-elite",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22127,7 +22331,7 @@
     }
   },
   {
-    "RowIndex": 643,
+    "RowIndex": 649,
     "Id": "beyond-demon-fodder1",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22159,7 +22363,7 @@
     }
   },
   {
-    "RowIndex": 644,
+    "RowIndex": 650,
     "Id": "beyond-demon-fodder2",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22191,7 +22395,7 @@
     }
   },
   {
-    "RowIndex": 645,
+    "RowIndex": 651,
     "Id": "beyond-demon-fodder3",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22223,7 +22427,7 @@
     }
   },
   {
-    "RowIndex": 646,
+    "RowIndex": 652,
     "Id": "beyond-demon-elite1",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22257,7 +22461,7 @@
     }
   },
   {
-    "RowIndex": 647,
+    "RowIndex": 653,
     "Id": "beyond-demon-elite2",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22291,7 +22495,7 @@
     }
   },
   {
-    "RowIndex": 648,
+    "RowIndex": 654,
     "Id": "strongbox-graveskeletonmixed",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22325,7 +22529,7 @@
     }
   },
   {
-    "RowIndex": 649,
+    "RowIndex": 655,
     "Id": "strongbox-skeletalknight",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22359,7 +22563,7 @@
     }
   },
   {
-    "RowIndex": 650,
+    "RowIndex": 656,
     "Id": "strongbox-skeletalreaper",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22393,7 +22597,7 @@
     }
   },
   {
-    "RowIndex": 651,
+    "RowIndex": 657,
     "Id": "strongbox-deathknightgrave",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22427,7 +22631,7 @@
     }
   },
   {
-    "RowIndex": 652,
+    "RowIndex": 658,
     "Id": "strongbox-coldwraithgrave",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22461,7 +22665,7 @@
     }
   },
   {
-    "RowIndex": 653,
+    "RowIndex": 659,
     "Id": "strongbox-lightningwraithgrave",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22495,7 +22699,7 @@
     }
   },
   {
-    "RowIndex": 654,
+    "RowIndex": 660,
     "Id": "strongbox-golemancer",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22529,7 +22733,7 @@
     }
   },
   {
-    "RowIndex": 655,
+    "RowIndex": 661,
     "Id": "strongbox-bloodcretincourtesan",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22563,7 +22767,7 @@
     }
   },
   {
-    "RowIndex": 656,
+    "RowIndex": 662,
     "Id": "strongbox-ghoulcommander",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22597,7 +22801,7 @@
     }
   },
   {
-    "RowIndex": 657,
+    "RowIndex": 663,
     "Id": "strongbox-werewolfprowler",
     "Unk001": 1,
     "WorldAreasKeys": [],
@@ -22631,7 +22835,7 @@
     }
   },
   {
-    "RowIndex": 658,
+    "RowIndex": 664,
     "Id": "encases-logbook-monsters",
     "Unk001": 1,
     "WorldAreasKeys": [],
