@@ -1,3411 +1,2729 @@
 [
   {
-    "RowIndex": 0,
     "Id": "AccountNameAlreadyExists",
     "Text": "Аккаунт с таким именем уже существует"
   },
   {
-    "RowIndex": 1,
     "Id": "AccountNameInvalid",
     "Text": "Имя аккаунта должно содержать по меньшей мере 3 символа, включая a-z, 0-9 и _"
   },
   {
-    "RowIndex": 2,
     "Id": "EmailInvalid",
     "Text": "Данный адрес электронной почты не существует."
   },
   {
-    "RowIndex": 3,
     "Id": "EmailAlreadyExists",
     "Text": "Аккаунт с таким адресом электронной почты уже существует."
   },
   {
-    "RowIndex": 4,
     "Id": "AccountDoesNotExist",
     "Text": "Данный аккаунт не существует."
   },
   {
-    "RowIndex": 5,
     "Id": "InvalidPassword",
     "Text": "Вы указали неверный пароль."
   },
   {
-    "RowIndex": 6,
     "Id": "AlreadyLoggedOn",
     "Text": "Операция не может быть выполнена, поскольку аккаунт уже авторизован в игре из другого места."
   },
   {
-    "RowIndex": 7,
     "Id": "InvalidProtocolVersion",
     "Text": "Выпущен новый патч игры, необходимо обновление. Пожалуйста, перезапустите Path of Exile."
   },
   {
-    "RowIndex": 8,
     "Id": "NotAllowedGameLogin",
     "Text": "В настоящее время доступ в игру для данного аккаунта закрыт."
   },
   {
-    "RowIndex": 9,
     "Id": "OtherAccountLoggedOn",
     "Text": "На данный аккаунт вошёл другой человек."
   },
   {
-    "RowIndex": 10,
     "Id": "AccountNotLoggedIn",
     "Text": "Для данной операции необходимо авторизоваться."
   },
   {
-    "RowIndex": 11,
     "Id": "Timeout",
     "Text": "Время истекло."
   },
   {
-    "RowIndex": 12,
     "Id": "Disconnected",
     "Text": "Отключен от сервера."
   },
   {
-    "RowIndex": 13,
     "Id": "TerrainGenerationOutOfSync",
     "Text": "Генератор местности для клиента не синхронизирован с сервером. Пожалуйста, создайте новую локацию и повторите попытку."
   },
   {
-    "RowIndex": 14,
     "Id": "UnexpectedDisconnect",
     "Text": "Произошло неожиданное отключение от сервера."
   },
   {
-    "RowIndex": 15,
     "Id": "CharacterDoesNotExist",
     "Text": "Указанный персонаж не существует"
   },
   {
-    "RowIndex": 16,
     "Id": "NotCharacterOwner",
     "Text": "Совершена попытка восстановления персонажа, не относящегося к данной учетной записи."
   },
   {
-    "RowIndex": 17,
     "Id": "LinkedItemDoesNotExist",
     "Text": "Указанный предмет не существует"
   },
   {
-    "RowIndex": 18,
     "Id": "DatabaseError",
     "Text": "Ошибка баз данных. Попробуйте позже."
   },
   {
-    "RowIndex": 19,
     "Id": "TransferredToInstance",
     "Text": "Персонаж был перемещён в другую местность."
   },
   {
-    "RowIndex": 20,
     "Id": "CharacterNameAlreadyExists",
     "Text": "Персонаж с таким именем уже существует."
   },
   {
-    "RowIndex": 21,
     "Id": "CharacterNameInvalid",
     "Text": "Имя персонажа содержит запрещённые символы. Разрешается использовать только буквы и нижние подчеркивания."
   },
   {
-    "RowIndex": 22,
     "Id": "CharacterNameTooShort",
     "Text": "Имя персонажа слишком короткое."
   },
   {
-    "RowIndex": 23,
     "Id": "CharacterNameTooLong",
     "Text": "Имя персонажа чересчур длинное."
   },
   {
-    "RowIndex": 24,
     "Id": "CharacterInvalidClass",
     "Text": "Неверный класс персонажа."
   },
   {
-    "RowIndex": 25,
     "Id": "LeagueDoesNotExist",
     "Text": "Такой лиги не существует."
   },
   {
-    "RowIndex": 26,
     "Id": "InvalidCharacterFlags",
     "Text": "Неверный флаг персонажа."
   },
   {
-    "RowIndex": 27,
     "Id": "LeagueNameAlreadyExists",
     "Text": "Лига с таким названием уже существует."
   },
   {
-    "RowIndex": 28,
     "Id": "LeagueNameInvalid",
     "Text": "Недопустимое название лиги."
   },
   {
-    "RowIndex": 29,
     "Id": "LeagueDescriptionInvalid",
     "Text": "Недопустимое описание лиги."
   },
   {
-    "RowIndex": 30,
     "Id": "AlreadyInParty",
     "Text": "Действие невозможно выполнить, поскольку вы находитесь в группе."
   },
   {
-    "RowIndex": 31,
     "Id": "NotItemOwner",
     "Text": "Ваш персонаж не является владельцем этого предмета."
   },
   {
-    "RowIndex": 32,
     "Id": "NotAPartyMember",
     "Text": "Цель данной операции не была членом группы"
   },
   {
-    "RowIndex": 33,
     "Id": "PartyPromotionRequired",
     "Text": "Вы не можете осуществить это действие, так как вы не лидер группы"
   },
   {
-    "RowIndex": 34,
     "Id": "PartyDoesNotExist",
     "Text": "Группа не существует."
   },
   {
-    "RowIndex": 35,
     "Id": "PartyLeaderOnlyCanOpenMapPortals",
     "Text": "Только лидер группы может открывать порталы на карту. Лидер группы может повысить других игроков до лидера группы в интерфейсе группы. "
   },
   {
-    "RowIndex": 36,
     "Id": "ServiceDoesNotExist",
     "Text": "Сервис не существует."
   },
   {
-    "RowIndex": 37,
     "Id": "CommandInvalid",
     "Text": "Сервис не ответил на команду, либо была допущена ошибка синтаксиса."
   },
   {
-    "RowIndex": 38,
     "Id": "DestinationUnreachable",
     "Text": "Не удалось создать контакт."
   },
   {
-    "RowIndex": 39,
     "Id": "NotInPartyWith",
     "Text": "Вы должны быть в группе с этим игроком"
   },
   {
-    "RowIndex": 40,
     "Id": "NotInParty",
     "Text": "Вы не находитесь в данной группе."
   },
   {
-    "RowIndex": 41,
     "Id": "InstanceFull",
     "Text": "Подземелье заполнено."
   },
   {
-    "RowIndex": 42,
     "Id": "InvalidInstanceTransfer",
     "Text": "Перемещение в область невозможно данным способом."
   },
   {
-    "RowIndex": 43,
     "Id": "PortalDoesNotExist",
     "Text": "Портал с другой стороны был закрыт."
   },
   {
-    "RowIndex": 44,
     "Id": "OutOfYourLeague",
     "Text": "Этот персонаж в другой лиге."
   },
   {
-    "RowIndex": 45,
     "Id": "DownForMaintenance",
     "Text": "Сервер в настоящее время закрыт на техническое обслуживание. Попробуйте еще раз позже."
   },
   {
-    "RowIndex": 46,
     "Id": "InstanceAuthenticationInvalid",
     "Text": "Авторизация на перемещение в область не удалась"
   },
   {
-    "RowIndex": 47,
     "Id": "PartyFull",
     "Text": "Ваша группа заполнена."
   },
   {
-    "RowIndex": 48,
     "Id": "TooManyCharacters",
     "Text": "Достигнут предел максимального количества персонажей."
   },
   {
-    "RowIndex": 49,
     "Id": "InvalidActivationKey",
     "Text": "Неверный ключ активации."
   },
   {
-    "RowIndex": 50,
     "Id": "EmailValidationRequired",
     "Text": "Аккаунт с такой электронной почтой уже был создан. Чтобы авторизоваться, вам необходимо активировать аккаунт с помощью данных из письма."
   },
   {
-    "RowIndex": 51,
     "Id": "MissingRequiredField",
     "Text": "Пожалуйста, заполните все требуемые поля."
   },
   {
-    "RowIndex": 52,
     "Id": "InvalidArgument",
     "Text": "Аргумент неверен"
   },
   {
-    "RowIndex": 53,
     "Id": "GameComplete",
     "Text": "Игра завершена"
   },
   {
-    "RowIndex": 54,
     "Id": "LeagueHasEnded",
     "Text": "Лига завершена. Вы больше не можете создавать персонажей."
   },
   {
-    "RowIndex": 55,
     "Id": "LeagueClosedForEntry",
     "Text": "Возможность входа в эту лигу была закрыта."
   },
   {
-    "RowIndex": 56,
     "Id": "AlreadyOnIgnoreList",
     "Text": "Этот аккаунт уже в вашем списке игнорирования."
   },
   {
-    "RowIndex": 57,
     "Id": "NotOnIgnoreList",
     "Text": "Аккаунт не находится в вашем списке игнорирования."
   },
   {
-    "RowIndex": 58,
     "Id": "IgnoreListFull",
     "Text": "Ваш список игнорирования заполнен."
   },
   {
-    "RowIndex": 59,
     "Id": "AddToIgnoreListFailed",
     "Text": "Не удалось добавить {0} в список игнорирования: {1}"
   },
   {
-    "RowIndex": 60,
     "Id": "AddedToIgnoreList",
     "Text": "{0} был добавлен в ваш список игнорирования."
   },
   {
-    "RowIndex": 61,
     "Id": "RemoveFromIgnoreListFailed",
     "Text": "Невозможно удалить {0} из списка игнорирования: {1}"
   },
   {
-    "RowIndex": 62,
     "Id": "RemovedFromIgnoreList",
     "Text": "{0} был удалён из списка игнорирования."
   },
   {
-    "RowIndex": 63,
     "Id": "FailedToClearIgnoreList",
     "Text": "Не удалось очистить список игнорирования: {0}"
   },
   {
-    "RowIndex": 64,
     "Id": "IgnoreListCleared",
     "Text": "Ваш список игнорирования был очищен."
   },
   {
-    "RowIndex": 65,
     "Id": "FailedToAddNamedFriend",
     "Text": "Не удалось добавить {0} в список друзей: {1}"
   },
   {
-    "RowIndex": 66,
     "Id": "FailedToAddUnnamedFriend",
     "Text": "Не удалось добавить аккаунт в список друзей: {0}"
   },
   {
-    "RowIndex": 67,
     "Id": "FailedToAcceptFriend",
     "Text": "Не удалось принять заявку в друзья: {0}"
   },
   {
-    "RowIndex": 68,
     "Id": "FailedToRemoveFriend",
     "Text": "Не удалось удалить друга: {0}"
   },
   {
-    "RowIndex": 69,
     "Id": "TriedToFriendSelf",
     "Text": "Вы не можете добавить самого себя в друзья."
   },
   {
-    "RowIndex": 70,
     "Id": "AccountBanned",
     "Text": "Ваш аккаунт был заблокирован администратором."
   },
   {
-    "RowIndex": 71,
     "Id": "AccountChildLocked",
     "Text": "Ваш аккаунт был заблокирован родителями."
   },
   {
-    "RowIndex": 72,
     "Id": "LoginRateLimited",
     "Text": "Вы пытались авторизоваться слишком часто за короткий промежуток времени. Пожалуйста, попробуйте позже."
   },
   {
-    "RowIndex": 73,
     "Id": "AccountLocked",
     "Text": "Ваш аккаунт заблокирован. Пожалуйста, свяжитесь со службой поддержки."
   },
   {
-    "RowIndex": 74,
     "Id": "NotAccountOwner",
     "Text": "Операция не может быть выполнена."
   },
   {
-    "RowIndex": 75,
     "Id": "TemporaryLockout",
     "Text": "Ваш аккаунт был временно закрыт, поскольку администрация работает с ним."
   },
   {
-    "RowIndex": 76,
     "Id": "Kicked",
     "Text": "Вы были отключены от сервера администратором."
   },
   {
-    "RowIndex": 77,
     "Id": "StashTabDoesNotExist",
     "Text": "Указанной секции не существует."
   },
   {
-    "RowIndex": 78,
     "Id": "LeaguePasswordInvalid",
     "Text": "Указан неверный пароль для этой лиги."
   },
   {
-    "RowIndex": 79,
     "Id": "InstanceRateLimited",
     "Text": "Вы были отключены, поскольку совершали слишком много действий и очень быстро."
   },
   {
-    "RowIndex": 80,
     "Id": "FriendsListFull",
     "Text": "Достигнут предел количества друзей."
   },
   {
-    "RowIndex": 81,
     "Id": "NotOnFriendsList",
     "Text": "Данный аккаунт не находится в вашем списке друзей."
   },
   {
-    "RowIndex": 82,
     "Id": "AlreadyOnFriendsList",
     "Text": "Аккаунт уже в вашем списке друзей."
   },
   {
-    "RowIndex": 83,
     "Id": "LeagueUnavailableToNonBeta",
     "Text": "Эта лига доступна только для Бета-игроков."
   },
   {
-    "RowIndex": 84,
     "Id": "InstanceDoesNotExist",
     "Text": "Область не существует."
   },
   {
-    "RowIndex": 85,
     "Id": "Muted",
     "Text": "Вы не можете совершать это действие пока заглушены."
   },
   {
-    "RowIndex": 86,
     "Id": "Ignored",
     "Text": "Вы игнорируетесь выбранным игроком."
   },
   {
-    "RowIndex": 87,
     "Id": "PvPMatchDoesNotExist",
     "Text": "Данный тип PvP матча не существует."
   },
   {
-    "RowIndex": 88,
     "Id": "ItemDoesNotExist",
     "Text": "Указанный предмет не существует."
   },
   {
-    "RowIndex": 89,
     "Id": "NeedNormalStashTab",
     "Text": "Вам необходим хотя бы 1 обычный тайник для улучшения."
   },
   {
-    "RowIndex": 90,
     "Id": "NotEnoughCredit",
     "Text": "У вас недостаточно денег для покупки этого предмета."
   },
   {
-    "RowIndex": 91,
     "Id": "PackagePurchaseIncomplete",
     "Text": "Ваша покупка не была успешно завершена. Пожалуйста, обратитесь в службу поддержки."
   },
   {
-    "RowIndex": 92,
     "Id": "MultiplePurchasesNotAllowed",
     "Text": "Вы можете осуществить эту микротранзакцию лишь однажды."
   },
   {
-    "RowIndex": 93,
     "Id": "CantDeleteWithMicrotransactions",
     "Text": "Пожалуйста, сначала удалите все косметические эффекты с предметов на этом персонаже. Вы можете сделать это в сундуке микротранзакций."
   },
   {
-    "RowIndex": 94,
     "Id": "NotEnoughRoomForItem",
     "Text": "Недостаточно ячеек для предмета."
   },
   {
-    "RowIndex": 95,
     "Id": "SavedCredentialsNewLocation",
     "Text": "Вы вошли в игру из нового места. Пожалуйста, введите ваш пароль повторно."
   },
   {
-    "RowIndex": 96,
     "Id": "SavedCredentialsBad",
     "Text": "Ваши сохраненные учетные данные устарели. Пожалуйста, введите ваш пароль повторно."
   },
   {
-    "RowIndex": 97,
     "Id": "LoginRequiresUnlockCode",
     "Text": "Ваш аккаунт заблокирован, пока вы не предоставите код активации, отправленный вам на почту регистрации."
   },
   {
-    "RowIndex": 98,
     "Id": "UnlockCodeIncorrect",
     "Text": "Предоставленный код активации неверен."
   },
   {
-    "RowIndex": 99,
     "Id": "UnlockEmailTooSoon",
     "Text": "Прошло слишком мало времени с момента последнего письма активации."
   },
   {
-    "RowIndex": 100,
     "Id": "DailyDealDoesNotExist",
     "Text": "Сделка не существует."
   },
   {
-    "RowIndex": 101,
     "Id": "MicrotransactionDoesNotExist",
     "Text": "Микротранзакция не существует."
   },
   {
-    "RowIndex": 102,
     "Id": "AccountNameDisallowed",
     "Text": "Данное имя аккаунта запрещено."
   },
   {
-    "RowIndex": 103,
     "Id": "BannedLoginIp",
     "Text": "Ваш IP был заблокирован. Пожалуйста, свяжитесь со службой поддержки, если считаете это ошибкой."
   },
   {
-    "RowIndex": 104,
     "Id": "GeneralFailure",
     "Text": "Неизвестная ошибка."
   },
   {
-    "RowIndex": 105,
     "Id": "CurrencyTradingPrevented",
     "Text": "Вы не можете торговать валютой или уникальными предметами с другими игроками до того, как достигнете 25 уровня на хотя бы одном персонаже аккаунта."
   },
   {
-    "RowIndex": 106,
     "Id": "SteamAssociateEmailSent",
     "Text": "Электронное письмо было отправлено вам для подтверждения. Пожалуйста, перейдите по ссылке из письма, чтобы продолжить."
   },
   {
-    "RowIndex": 107,
     "Id": "EmailAlreadyInUse",
     "Text": "С этим адресом электронной почты уже связан аккаунт Path of Exile."
   },
   {
-    "RowIndex": 108,
     "Id": "AccountAlreadyHasEmail",
     "Text": "С данным аккаунтом уже связан другой адрес электронной почты."
   },
   {
-    "RowIndex": 109,
     "Id": "NoAssociatedEmail",
     "Text": "С данным аккаунтом не связан адрес электронной почты."
   },
   {
-    "RowIndex": 110,
     "Id": "SteamIdAlreadyInUse",
     "Text": "Этот аккаунт Steam уже связан с аккаунтом Path of Exile."
   },
   {
-    "RowIndex": 111,
     "Id": "AccountAlreadyHasSteam",
     "Text": "Этот аккаунт уже связан с аккаунтом Steam."
   },
   {
-    "RowIndex": 112,
     "Id": "NoAssociatedSteamId",
     "Text": "Этот аккаунт не связан с аккаунтом Steam."
   },
   {
-    "RowIndex": 113,
     "Id": "EpicIdAlreadyInUse",
     "Text": "Этот аккаунт Epic уже связан с аккаунтом Path of Exile."
   },
   {
-    "RowIndex": 114,
     "Id": "AccountAlreadyHasEpic",
     "Text": "Этот аккаунт уже связан с аккаунтом Epic."
   },
   {
-    "RowIndex": 115,
     "Id": "NoAssociatedEpicId",
     "Text": "Этот аккаунт не связан с аккаунтом Epic."
   },
   {
-    "RowIndex": 116,
     "Id": "KakaoIdAlreadyInUse",
     "Text": "Этот аккаунт Kakao уже связан с аккаунтом Path of Exile."
   },
   {
-    "RowIndex": 117,
     "Id": "AccountAlreadyHasKakao",
     "Text": "Этот аккаунт уже связан с аккаунтом Kakao."
   },
   {
-    "RowIndex": 118,
     "Id": "NoAssociatedKakaoId",
     "Text": "Этот аккаунт не связан с аккаунтом Kakao."
   },
   {
-    "RowIndex": 119,
     "Id": "SonyIdAlreadyInUse",
     "Text": "Эта учётная запись Sony уже связана с аккаунтом Path of Exile."
   },
   {
-    "RowIndex": 120,
     "Id": "AccountAlreadyHasSony",
     "Text": "Этот аккаунт уже связан с учётной записью Sony."
   },
   {
-    "RowIndex": 121,
     "Id": "NoAssociatedSonyId",
     "Text": "Этот аккаунт не связан с учётной записью Sony."
   },
   {
-    "RowIndex": 122,
     "Id": "XboxIdAlreadyInUse",
     "Text": "Этот аккаунт Xbox уже связан с аккаунтом Path of Exile."
   },
   {
-    "RowIndex": 123,
     "Id": "AccountAlreadyHasXbox",
     "Text": "Этот аккаунт уже связан с аккаунтом Xbox."
   },
   {
-    "RowIndex": 124,
     "Id": "NoAssociatedXboxId",
     "Text": "Этот аккаунт не связан с аккаунтом Xbox."
   },
   {
-    "RowIndex": 125,
     "Id": "QqNumberAlreadyInUse",
     "Text": "Этот аккаунт WeGame уже связан с аккаунтом Path of Exile."
   },
   {
-    "RowIndex": 126,
     "Id": "AccountAlreadyHasQq",
     "Text": "Этот аккаунт уже связан с аккаунтом WeGame."
   },
   {
-    "RowIndex": 127,
     "Id": "NoAssociatedQqNumber",
     "Text": "Этот аккаунт не связан с аккаунтом WeGame."
   },
   {
-    "RowIndex": 128,
     "Id": "MapDeviceBusy",
     "Text": "Активация не удалась. Устройство занято."
   },
   {
-    "RowIndex": 129,
     "Id": "MapDeviceTooManyItems",
     "Text": "Активация не удалась."
   },
   {
-    "RowIndex": 130,
     "Id": "MapDeviceTooManyItemsSound",
     "Text": "Активация не удалась. Вы слышите отдаленные звуки."
   },
   {
-    "RowIndex": 131,
     "Id": "MapDeviceNotMap",
     "Text": "Активация не удалась. Карта не найдена."
   },
   {
-    "RowIndex": 132,
     "Id": "MapDeviceCreateInstanceFailed",
     "Text": "Активация не удалась. Невозможно открыть порталы в заданную область."
   },
   {
-    "RowIndex": 133,
     "Id": "MapDeviceCancelled",
     "Text": "Активация отменена."
   },
   {
-    "RowIndex": 134,
     "Id": "MapDeviceEmpty",
     "Text": "Активация не удалась. Устройство требует наличие карты."
   },
   {
-    "RowIndex": 135,
     "Id": "PlayerDisconnected",
     "Text": "{0} покинул область."
   },
   {
-    "RowIndex": 136,
     "Id": "PlayerJoined",
     "Text": "{0} присоединился."
   },
   {
-    "RowIndex": 137,
     "Id": "EnteredArea",
     "Text": "Вы вошли в область {0}."
   },
   {
-    "RowIndex": 138,
     "Id": "LeagueNotYetStarted",
     "Text": "Лига еще не стартовала, поэтому вы не можете двигаться. Как только лига будет запущена, вы сможете начать играть."
   },
   {
-    "RowIndex": 139,
     "Id": "LeagueAlreadyEnded",
     "Text": "Лига уже завершена."
   },
   {
-    "RowIndex": 140,
     "Id": "LadderRankAlive",
     "Text": "{1}. {0} Уровень {2} {3} Опыт: {4}"
   },
   {
-    "RowIndex": 141,
     "Id": "LadderRankDead",
     "Text": "{1}. {0} (Мертв) Уровень {2} {3} Опыт: {4}"
   },
   {
-    "RowIndex": 142,
     "Id": "LadderRankTimed",
     "Text": "{1}. {0} Уровень {2} {3} Время: {4}"
   },
   {
-    "RowIndex": 143,
     "Id": "LevelUp",
     "Text": "{0} ({1}) достигает {2} уровня"
   },
   {
-    "RowIndex": 144,
     "Id": "AlreadyInPVPQueue",
     "Text": "Сначала вам необходимо покинуть PvP очередь."
   },
   {
-    "RowIndex": 145,
     "Id": "MissingRequiredQuestState",
     "Text": "Вы не находитесь на требуемом этапе задания"
   },
   {
-    "RowIndex": 146,
     "Id": "FailedToJoinAnyInstances",
     "Text": "Ошибка: Не удалось войти в область."
   },
   {
-    "RowIndex": 147,
     "Id": "FailedToJoinInstance",
     "Text": "Ошибка: Не удалось войти в область: {0}"
   },
   {
-    "RowIndex": 148,
     "Id": "FailedToConnectToInstance",
     "Text": "Не удалось подключиться к области."
   },
   {
-    "RowIndex": 149,
     "Id": "FailedToApplyCurrency",
     "Text": "Не удалось применить предмет: {0}"
   },
   {
-    "RowIndex": 150,
     "Id": "TooManyGlobalItemLinks",
     "Text": "Вы не можете продать более {0}-х предметов в Общем чате"
   },
   {
-    "RowIndex": 151,
     "Id": "MutedUntilSeconds",
     "Text": "Ваш аккаунт был заглушен Администратором. Вы сможете писать в чат через {0}."
   },
   {
-    "RowIndex": 152,
     "Id": "MutedUntilSecondsConsole",
     "Text": "Ваш аккаунт был заглушен Администратором. Вы сможете писать в чат через {0}. Если вы хотели бы это обсудить, пожалуйста, отправьте приватное сообщение адресату \"Support\" через веб-сайт."
   },
   {
-    "RowIndex": 153,
     "Id": "ObaPlayerJoined",
     "Text": "Ты должно быть очень храбрый или глупый, чтобы подумать, что можешь забрать мои сокровища и выжить. В любом случае, я приветствую тебя!"
   },
   {
-    "RowIndex": 154,
     "Id": "ObaDoorUnlocked",
     "Text": "Пройди вперёд, изгнанник, и попробуй взять, что можешь, и пока можешь."
   },
   {
-    "RowIndex": 155,
     "Id": "ObaBeginDeathCount",
     "Text": "Осквернение разрастается. Поторопись, прежде чем оно поглотит тебя так, как меня."
   },
   {
-    "RowIndex": 156,
     "Id": "ObaFinalCountdown",
     "Text": "{0}"
   },
   {
-    "RowIndex": 157,
     "Id": "ObaKillPlayer",
     "Text": "Ба-х! Ты не достоин нести моё наследие. Скверна поглотит твой труп."
   },
   {
-    "RowIndex": 158,
     "Id": "Oba75PercentOxygen",
     "Text": "Кошмар почуял тебя. Теперь он жаждет твоей плоти."
   },
   {
-    "RowIndex": 159,
     "Id": "Oba50PercentOxygen",
     "Text": "Твоя чаша наполовину пуста или наполовину полна, изгнанник?"
   },
   {
-    "RowIndex": 160,
     "Id": "Oba25PercentOxygen",
     "Text": "Разочарование. Кажется, скверна получит лучших из вас рано или поздно."
   },
   {
-    "RowIndex": 161,
     "Id": "CowardsTrialNextWave",
     "Text": "Темнота вырисовывается зловеще..."
   },
   {
-    "RowIndex": 162,
     "Id": "CowardsTrialRoomClear",
     "Text": "В комнате стало тихо и спокойно..."
   },
   {
-    "RowIndex": 163,
     "Id": "CowardsTrialLevelClear",
     "Text": "Гнетущая атмосфера медленно рассеивается..."
   },
   {
-    "RowIndex": 164,
     "Id": "VaalKillOversoul",
     "Text": "Вам нужно убить Вседушу ваал"
   },
   {
-    "RowIndex": 165,
     "Id": "VaalDeliverAmulets",
     "Text": "Вы должны отдать бандитские амулеты Эрамиру и получить Верхушку"
   },
   {
-    "RowIndex": 166,
     "Id": "VaalAcquireAmulets",
     "Text": "Вы должны забрать амулеты у главарей разбойников."
   },
   {
-    "RowIndex": 167,
     "Id": "VaalGetApexDex",
     "Text": "Вам нужно взять Верхушку у Крайтина"
   },
   {
-    "RowIndex": 168,
     "Id": "VaalGetApexStr",
     "Text": "Вам нужно взять Верхушку у Дуба"
   },
   {
-    "RowIndex": 169,
     "Id": "VaalGetApexInt",
     "Text": "Вам нужно взять Верхушку у Алиры"
   },
   {
-    "RowIndex": 170,
     "Id": "VaalGetApexTown",
     "Text": "Вам нужно взять Верхушку у Эрамира"
   },
   {
-    "RowIndex": 171,
     "Id": "MonsterRemaining1",
     "Text": "Остался 1 монстр"
   },
   {
-    "RowIndex": 172,
     "Id": "MonstersRemainingN",
     "Text": "Осталось монстров: {0}."
   },
   {
-    "RowIndex": 173,
     "Id": "MonstersRemainingMoreThan50",
     "Text": "Осталось более 50 монстров."
   },
   {
-    "RowIndex": 174,
     "Id": "PlayerDeathCount1",
     "Text": "Вы погибли 1 раз."
   },
   {
-    "RowIndex": 175,
     "Id": "PlayerDeathCountN",
     "Text": "Вы погибли {0} раз."
   },
   {
-    "RowIndex": 176,
     "Id": "PlayerKillCountN",
     "Text": "Вы уничтожили {0} монстров."
   },
   {
-    "RowIndex": 177,
     "Id": "PvPStats1v1",
     "Text": "1v1 W/L/D: {0}/{1}/{2}"
   },
   {
-    "RowIndex": 178,
     "Id": "PvPStats3v3",
     "Text": "3v3 W/L/D: {0}/{1}/{2}"
   },
   {
-    "RowIndex": 179,
     "Id": "PvPPlayerJoinedTeam",
     "Text": "{0} присоединился к {1} команде."
   },
   {
-    "RowIndex": 180,
     "Id": "PvPNotEnoughPlayers",
     "Text": "Не удалось начать матч. Присоединилось недостаточно игроков."
   },
   {
-    "RowIndex": 181,
     "Id": "PvPPlayerKilled",
     "Text": "{0} был убит {1}."
   },
   {
-    "RowIndex": 182,
     "Id": "PvPPartyTooLarge",
     "Text": "Невозможно присоединиться к PvP: слишком много игроков группы для этого типа PvP."
   },
   {
-    "RowIndex": 183,
     "Id": "PvPPlayerAlreadyInQueue",
     "Text": "Невозможно присоединиться к PvP: вы уже находитесь в очереди PvP"
   },
   {
-    "RowIndex": 184,
     "Id": "PvPPartyMemberAlreadyInQueue",
     "Text": "Невозможно присоединиться к PvP: член группы уже находится в очереди PvP"
   },
   {
-    "RowIndex": 185,
     "Id": "PvPPlayerTooFarQuest",
     "Text": "Невозможно присоединиться к PvP: вы перешли за предел сложности для данного типа PvP"
   },
   {
-    "RowIndex": 186,
     "Id": "PvPPartyMemberTooFarQuest",
     "Text": "Невозможно присоединиться к PvP: член группы перешел за пределы сложности для данного типа PvP"
   },
   {
-    "RowIndex": 187,
     "Id": "PvPPlayerTooHighLevel",
     "Text": "Невозможно присоединиться к PvP: ваш уровень выше требуемого для данного типа PvP"
   },
   {
-    "RowIndex": 188,
     "Id": "PvPPartyMemberTooHighLevel",
     "Text": "Невозможно присоединиться к PvP: уровень члена группы выше требуемого для данного типа PvP"
   },
   {
-    "RowIndex": 189,
     "Id": "PvPPlayerHasAscendancy",
     "Text": "Невозможно присоединиться к PvP: вы выбрали класс Восхождения, что недопустимо для данного типа PvP"
   },
   {
-    "RowIndex": 190,
     "Id": "PvPPartyMemberHasAscendancy",
     "Text": "Невозможно присоединиться к PvP: член группы выбрал класс Восхождения, что недопустимо для данного типа PvP"
   },
   {
-    "RowIndex": 191,
     "Id": "PvPJoinFail",
     "Text": "Не удалось присоединиться к PvP очереди: {0}"
   },
   {
-    "RowIndex": 192,
     "Id": "PvPQueueCancelled",
     "Text": "PvP Очередь отменена."
   },
   {
-    "RowIndex": 193,
     "Id": "PvPQueueCancelledBy",
     "Text": "PvP Очередь отменена игроком {0}."
   },
   {
-    "RowIndex": 194,
     "Id": "PvPMatchListUnreachable",
     "Text": "Не удалось получить список PvP матча:"
   },
   {
-    "RowIndex": 195,
     "Id": "PvPDisabled",
     "Text": "PvP отключена для этой лиги."
   },
   {
-    "RowIndex": 196,
     "Id": "PlayerSuicide",
     "Text": "{0} покончил с собой"
   },
   {
-    "RowIndex": 197,
     "Id": "PlayerSlain",
     "Text": "{0} был повержен."
   },
   {
-    "RowIndex": 198,
     "Id": "NoCharacterSpecified",
     "Text": "Пожалуйста, укажите имя персонажа."
   },
   {
-    "RowIndex": 199,
     "Id": "WhoIsOffline",
     "Text": "{0} имеет уровень {2} {3} в лиге {1}, в настоящее время игрок не в сети."
   },
   {
-    "RowIndex": 200,
     "Id": "WhoIsOnline",
     "Text": "{0} имеет уровень {2} {3} в лиге {1} и сейчас играет в {4}."
   },
   {
-    "RowIndex": 201,
     "Id": "ItemOnCursorLevel",
     "Text": "Предмет под курсором имеет уровень {0}."
   },
   {
-    "RowIndex": 202,
     "Id": "NoItemOnCursor",
     "Text": "Нет предмета под курсором."
   },
   {
-    "RowIndex": 203,
     "Id": "ItemOnCursorHasNoLevel",
     "Text": "Предмет под курсором не имеет уровня (должен иметь возможность модификации)."
   },
   {
-    "RowIndex": 204,
     "Id": "FixMyHelmetSuccess",
     "Text": "Шлем обновлен"
   },
   {
-    "RowIndex": 205,
     "Id": "OperationFailed",
     "Text": "Действие не удалось"
   },
   {
-    "RowIndex": 206,
     "Id": "FixMyHelmetAlreadyFixed",
     "Text": "Этот шлем уже имеет корректный вид"
   },
   {
-    "RowIndex": 207,
     "Id": "FixMyHelmetUnique",
     "Text": "Шлем под курсором является Уникальным"
   },
   {
-    "RowIndex": 208,
     "Id": "FixMyHelmetNotHelmet",
     "Text": "Предмет под курсором - не шлем"
   },
   {
-    "RowIndex": 209,
     "Id": "ItemHasMicrotransaction",
     "Text": "Вы не можете делать это с предметом, на который наложен дополнительный эффект. Пожалуйста, удалите имеющийся дополнительный эффект и попробуйте снова."
   },
   {
-    "RowIndex": 210,
     "Id": "BugReportNumber",
     "Text": "Номер вашего баг репорта {0}."
   },
   {
-    "RowIndex": 211,
     "Id": "PlayedTime",
     "Text": "Время игры на этом персонаже: {0}."
   },
   {
-    "RowIndex": 212,
     "Id": "CharacterAge",
     "Text": "Ваш персонаж был создан {0} назад."
   },
   {
-    "RowIndex": 213,
     "Id": "CharacterAgeUnknown",
     "Text": "Дата создания персонажа не записана."
   },
   {
-    "RowIndex": 214,
     "Id": "HelpCtrlClick",
     "Text": "Ctrl+Клик по области или порталу, чтобы создать новую область"
   },
   {
-    "RowIndex": 215,
     "Id": "ReceivedRespecPoint1",
     "Text": "Вы получили очко сброса пассивных умений."
   },
   {
-    "RowIndex": 216,
     "Id": "ReceivedRespecPointN",
     "Text": "Вы получили очков сброса пассивных умений: {0}."
   },
   {
-    "RowIndex": 217,
     "Id": "ReceivedPassivePoint1",
     "Text": "Вы получили очко пассивных умений."
   },
   {
-    "RowIndex": 218,
     "Id": "ReceivedPassivePointN",
     "Text": "Вы получили очков пассивных умений: {0}."
   },
   {
-    "RowIndex": 219,
     "Id": "ReceivedStatBonus",
     "Text": "Вы получили {0}."
   },
   {
-    "RowIndex": 220,
     "Id": "LeagueTradeDisabled",
     "Text": "Вы не можете торговать в этой лиге."
   },
   {
-    "RowIndex": 221,
     "Id": "TradeItemOnCursor",
     "Text": "Вы не можете торговать предметом под курсором."
   },
   {
-    "RowIndex": 222,
     "Id": "TradePlayerBusy",
     "Text": "В настоящее время этот игрок занят."
   },
   {
-    "RowIndex": 223,
     "Id": "TradeAccepted",
     "Text": "Сделка совершена."
   },
   {
-    "RowIndex": 224,
     "Id": "TradeCancelled",
     "Text": "Сделка отклонена."
   },
   {
-    "RowIndex": 225,
     "Id": "YouWereIgnored",
     "Text": "Данный игрок игнорирует вас."
   },
   {
-    "RowIndex": 226,
     "Id": "AchievementServerUnreachable",
     "Text": "Ошибка: Не удалось присоединиться к серверу достижений"
   },
   {
-    "RowIndex": 227,
     "Id": "DestroyCursorItem",
     "Text": "Указанный предмет уничтожен"
   },
   {
-    "RowIndex": 228,
     "Id": "DestroyItemInTrade",
     "Text": "Вы не можете уничтожать предметы во время Торговли"
   },
   {
-    "RowIndex": 229,
     "Id": "DestroyQuestItem",
     "Text": "Вы не можете разрушать квестовые предметы."
   },
   {
-    "RowIndex": 230,
     "Id": "DestroyMicrotransactions",
     "Text": "Вы не можете разрушать предметы, которые имеют эффект от микротранзакции."
   },
   {
-    "RowIndex": 231,
     "Id": "DestroyBanditRespec",
     "Text": "Этот предмет нельзя уничтожить, но вы можете продать его неигровому персонажу, получив компенсацию."
   },
   {
-    "RowIndex": 232,
     "Id": "CannotCreatePublicPartyYet",
     "Text": "Вы должны достигнуть первого города, прежде чем вы сможете создавать публичные группы."
   },
   {
-    "RowIndex": 233,
     "Id": "PublicPartyListUnreachable",
     "Text": "Не удалось получить публичный список группы: {0}"
   },
   {
-    "RowIndex": 234,
     "Id": "FullPassiveSkillRefund",
     "Text": "Ваши пассивные умения были возвращены."
   },
   {
-    "RowIndex": 235,
     "Id": "FullAtlasPassiveSkillRefund",
     "Text": "Ваши пассивные умения Атласа были возвращены."
   },
   {
-    "RowIndex": 236,
     "Id": "TeleportFailed",
     "Text": "Перемещение отменено: не удалось разместить героя в пункте назначения"
   },
   {
-    "RowIndex": 237,
     "Id": "TutorialShowItems",
     "Text": "Удерживайте Alt для отображения предметов на земле."
   },
   {
-    "RowIndex": 238,
     "Id": "FinishedDescent",
     "Text": "Поздравляем, вы завершили Спуск!"
   },
   {
-    "RowIndex": 239,
     "Id": "JoinedGlobalChannel",
     "Text": "Вы присоединились к Общему каналу чата {1}."
   },
   {
-    "RowIndex": 240,
     "Id": "JoinedTradeChannel",
     "Text": "Вы присоединились к чату Торговли {1}."
   },
   {
-    "RowIndex": 241,
     "Id": "ShopPackageDoesNotExist",
     "Text": "Пакет не существует."
   },
   {
-    "RowIndex": 242,
     "Id": "ShopPackagePurchaseFailed",
     "Text": "Не удалось приобрести пакет."
   },
   {
-    "RowIndex": 243,
     "Id": "ShopPackageTransactionDoesNotExist",
     "Text": "Транзакция магазина не существует."
   },
   {
-    "RowIndex": 244,
     "Id": "DownForMaintenanceTemp",
     "Text": "Сервер был отключен на техническое обслуживание. Пожалуйста, авторизуйтесь снова."
   },
   {
-    "RowIndex": 245,
     "Id": "GuildNameTooLong",
     "Text": "Название гильдии слишком длинное"
   },
   {
-    "RowIndex": 246,
     "Id": "GuildTagTooLong",
     "Text": "Тэг гильдии слишком длинный"
   },
   {
-    "RowIndex": 247,
     "Id": "AccountAlreadyInGuild",
     "Text": "Аккаунт уже состоит в гильдии"
   },
   {
-    "RowIndex": 248,
     "Id": "GuildDoesNotExist",
     "Text": "Указанная гильдия не найдена"
   },
   {
-    "RowIndex": 249,
     "Id": "GuildMustBeOfficer",
     "Text": "Вы должны быть лидером или офицером гильдии, чтобы осуществлять данные действия"
   },
   {
-    "RowIndex": 250,
     "Id": "NotInGuild",
     "Text": "Аккаунт не является членом этой гильдии."
   },
   {
-    "RowIndex": 251,
     "Id": "GuildFull",
     "Text": "Гильдия заполнена и больше вы не можете приглашать в неё игроков."
   },
   {
-    "RowIndex": 252,
     "Id": "GuildMustBeLeader",
     "Text": "Вы должны быть главой гильдии, чтобы осуществить это действие."
   },
   {
-    "RowIndex": 253,
     "Id": "DisallowedOnSelf",
     "Text": "Вы не можете сделать это с собой."
   },
   {
-    "RowIndex": 254,
     "Id": "TooManyGuildInvites",
     "Text": "Этот персонаж уже был приглашен в слишком большое число гильдий."
   },
   {
-    "RowIndex": 255,
     "Id": "GuildStatusMessageTooLong",
     "Text": "Статус-сообщение гильдии слишком велико."
   },
   {
-    "RowIndex": 256,
     "Id": "NotEnoughPointsForTransaction",
     "Text": "У вас нет достаточно очков для завершения транзакции."
   },
   {
-    "RowIndex": 257,
     "Id": "GuildMustBeMember",
     "Text": "Вы должны быть членом гильдии, чтобы выполнить это действие."
   },
   {
-    "RowIndex": 258,
     "Id": "RemoteStashAlreadyLocked",
     "Text": "Удалённый тайник закрыт. Попробуйте позже."
   },
   {
-    "RowIndex": 259,
     "Id": "RemoteStashOperationRequiresLock",
     "Text": "Удалённому тайнику нужен замок."
   },
   {
-    "RowIndex": 260,
     "Id": "BadGuildStashPermissions",
     "Text": "У вас недостаточно прав для этого действия с гильдейским хранилищем."
   },
   {
-    "RowIndex": 261,
     "Id": "MaximumGuildSlots",
     "Text": "Вам не разрешено иметь больше гильдейских мест."
   },
   {
-    "RowIndex": 262,
     "Id": "GuildTagTooShort",
     "Text": "Тэг гильдии должен иметь минимум 3 символа."
   },
   {
-    "RowIndex": 263,
     "Id": "GuildKickDisabledForAccount",
     "Text": "Вы не можете исключить этот аккаунт из гильдии, поскольку"
   },
   {
-    "RowIndex": 264,
     "Id": "FriendNoteTooLong",
     "Text": "Заметка друга слишком велика."
   },
   {
-    "RowIndex": 265,
     "Id": "TooHighLevelForCap",
     "Text": "Максимальный уровень в этой области {0}."
   },
   {
-    "RowIndex": 266,
     "Id": "PlayerWins",
     "Text": "Команда {0} победила!"
   },
   {
-    "RowIndex": 267,
     "Id": "TooLowLevelToSendWhisper",
     "Text": "Вы не можете отправлять личные сообщения, пока не достигнете уровня {0}"
   },
   {
-    "RowIndex": 268,
     "Id": "TooLowLevelToSendChat",
     "Text": "Вы не можете общаться в чате \"{0}\", пока не достигнете {1} уровня"
   },
   {
-    "RowIndex": 269,
     "Id": "ReachedRegularChatLimit",
     "Text": "Пожалуйста, не отправляйте сообщения чата слишком часто"
   },
   {
-    "RowIndex": 270,
     "Id": "ReachedTradeChatLimit",
     "Text": "Пожалуйста, не отправляйте сообщения в чат Торговли слишком часто"
   },
   {
-    "RowIndex": 271,
     "Id": "PortalEffectChanged",
     "Text": "Ваш персонаж теперь будет использовать {0}."
   },
   {
-    "RowIndex": 272,
     "Id": "PortraitFrameChanged",
     "Text": "Ваш персонаж теперь будет использовать {0}. Вам необходимо выйти из игры и авторизоваться вновь, чтобы изменения вступили в силу."
   },
   {
-    "RowIndex": 273,
     "Id": "CharacterPortraitChanged",
     "Text": "Ваш персонаж теперь будет использовать {0}. Вам необходимо выйти из игры и авторизоваться вновь, чтобы изменения вступили в силу."
   },
   {
-    "RowIndex": 274,
     "Id": "NoHideout",
     "Text": "У этого игрока нет убежища в данной лиге."
   },
   {
-    "RowIndex": 275,
     "Id": "FailedToUseItem",
     "Text": "Не удалось использовать предмет: {0}"
   },
   {
-    "RowIndex": 276,
     "Id": "ObaCompleted",
     "Text": "Ха-ха! Вы действительно могучий авантюрист. Используйте то, что я дал вам и распространите моё наследие по всему Рэкласту."
   },
   {
-    "RowIndex": 277,
     "Id": "ArenaScoreTitle",
     "Text": "Текущие рейтинги: (Убийств / Смертей)"
   },
   {
-    "RowIndex": 278,
     "Id": "ArenaScore",
     "Text": "{1}: {0} ({2}/{3})"
   },
   {
-    "RowIndex": 279,
     "Id": "LostPassivePoint1",
     "Text": "Вы потеряли Очко пассивных умений"
   },
   {
-    "RowIndex": 280,
     "Id": "LostPassivePointN",
     "Text": "Вы потеряли Очков пассивных умений: {0}."
   },
   {
-    "RowIndex": 281,
     "Id": "LostStatBonus",
     "Text": "Вы потеряли {0}."
   },
   {
-    "RowIndex": 282,
     "Id": "FFALadderUpdate",
     "Text": "Вы теперь #{0} на арене."
   },
   {
-    "RowIndex": 283,
     "Id": "CraftingFailed",
     "Text": "Не удалось создать {0}"
   },
   {
-    "RowIndex": 284,
     "Id": "SpectatorJoined",
     "Text": "{0} теперь наблюдает."
   },
   {
-    "RowIndex": 285,
     "Id": "LeagueStartingSoonGlobal",
     "Text": "Следующая гонка стартует через {1}. Чтобы присоединиться к ней, войдите на экран выбора персонажа и нажмите \"Вступить\" по Лиге \"{0}\". Информация о событии доступна на форуме События/Лиги."
   },
   {
-    "RowIndex": 286,
     "Id": "LeagueStartingSoonLocal",
     "Text": "Лига начинается через {0}."
   },
   {
-    "RowIndex": 287,
     "Id": "LeagueStartingNow",
     "Text": "Лига стартовала!"
   },
   {
-    "RowIndex": 288,
     "Id": "LeagueEndingMinutes",
     "Text": "Лига заканчивается через {0}."
   },
   {
-    "RowIndex": 289,
     "Id": "LeagueFinished",
     "Text": "Лига завершена!"
   },
   {
-    "RowIndex": 290,
     "Id": "LeagueFirstToReachLevel",
     "Text": "{0} — первый персонаж, достигший {1} уровня!"
   },
   {
-    "RowIndex": 291,
     "Id": "LeagueFirstToEnterArea",
     "Text": "{0} — первый персонаж, вошедший в область {1}!"
   },
   {
-    "RowIndex": 292,
     "Id": "LeagueFirstToEnterDelveLevelSolo",
     "Text": "{0} — первый персонаж, в одиночку достигший {1} глубины!"
   },
   {
-    "RowIndex": 293,
     "Id": "LeagueFirstToEnterDelveLevelParty",
     "Text": "{0} — первый персонаж, достигший {1} глубины!"
   },
   {
-    "RowIndex": 294,
     "Id": "LeagueFirstToFullyClear",
     "Text": "{0} — первый персонаж, зачистивший область {1}!"
   },
   {
-    "RowIndex": 295,
     "Id": "LeagueFirstToDoQuest",
     "Text": "{0} — первый персонаж, завершивший задание {1}!"
   },
   {
-    "RowIndex": 296,
     "Id": "RealmRestartingSoon",
     "Text": "Игровой мир будет перезагружен через {0}."
   },
   {
-    "RowIndex": 297,
     "Id": "RealmShuttingDownSown",
     "Text": "Игровой мир будет отключен через {0}."
   },
   {
-    "RowIndex": 298,
     "Id": "RealmRestarting",
     "Text": "Начало перезагрузки игрового мира..."
   },
   {
-    "RowIndex": 299,
     "Id": "RealmShuttingDown",
     "Text": "Начало отключения игрового мира..."
   },
   {
-    "RowIndex": 300,
     "Id": "RealmRestartDeployPatchNotification",
     "Text": "Мы начинаем перезагрузку игровых миров для установки обновления {0}. Список изменений обновления доступен на нашем форуме. {1}"
   },
   {
-    "RowIndex": 301,
     "Id": "RealmMaintenanceNotification",
     "Text": "Игровые миры будут закрыты на техническое обслуживание. {0}"
   },
   {
-    "RowIndex": 302,
     "Id": "CharacterOffline",
     "Text": "Персонаж не в сети."
   },
   {
-    "RowIndex": 303,
     "Id": "CharacterNameOffline",
     "Text": "{0} не в сети."
   },
   {
-    "RowIndex": 304,
     "Id": "CharacterDifferentLeague",
     "Text": "Персонаж находится в другой лиге."
   },
   {
-    "RowIndex": 305,
     "Id": "NotMutualFriends",
     "Text": "Этот аккаунт не принял вашу заявку в друзья."
   },
   {
-    "RowIndex": 306,
     "Id": "CharacterNotInPvP",
     "Text": "Этот персонаж в настоящее время не занимается PvP."
   },
   {
-    "RowIndex": 307,
     "Id": "SpectateFollow",
     "Text": "Вы готовы к наблюдению за игроком."
   },
   {
-    "RowIndex": 308,
     "Id": "HideoutDoodadLimitReached",
     "Text": "Нельзя разместить другой объект убежища. Вы можете единовременно иметь 750 объект(-ов) в убежище."
   },
   {
-    "RowIndex": 309,
     "Id": "HardcoreDeathAnnouncement",
     "Text": "{0} (уровень {1}) погиб на позиции {2} в ладдере."
   },
   {
-    "RowIndex": 310,
     "Id": "InteractErrorIncaBossSpawner",
     "Text": "Похоже, требуется треугольный ключ."
   },
   {
-    "RowIndex": 311,
     "Id": "InteractErrorMalachaiPortal",
     "Text": "Вам необходимо убить Владыку, возможно вы не присутствовали в области в момент его смерти."
   },
   {
-    "RowIndex": 312,
     "Id": "InteractErrorMervielExit",
     "Text": "Вам необходимо убить Мервейл, возможно вы не присутствовали в области в момент её смерти."
   },
   {
-    "RowIndex": 313,
     "Id": "InteractErrorHillockGate",
     "Text": "Вам необходимо убить Хиллока"
   },
   {
-    "RowIndex": 314,
     "Id": "InteractErrorTowerTransition",
     "Text": "Вам необходимо убить Владыку, возможно вы не присутствовали в области в момент его смерти."
   },
   {
-    "RowIndex": 315,
     "Id": "InteractErrorMineEntranceSeal",
     "Text": "Вход в Шахты закрыт печатью Дешрет"
   },
   {
-    "RowIndex": 316,
     "Id": "InteractErrorLockedDoor",
     "Text": "Дверь заперта"
   },
   {
-    "RowIndex": 317,
     "Id": "InteractErrorTowerKey",
     "Text": "Ключ Башни не был использован на дверной замок."
   },
   {
-    "RowIndex": 318,
     "Id": "InteractErrorPoisonTree",
     "Text": "Заросли деревьев закрывают вам путь.\r\nВозможно, они могут быть открыты\r\nчуть позже."
   },
   {
-    "RowIndex": 319,
     "Id": "InteractErrorUndyingBlockage",
     "Text": "Путь заблокирован."
   },
   {
-    "RowIndex": 320,
     "Id": "InteractErrorLocked",
     "Text": "Заблокировано."
   },
   {
-    "RowIndex": 321,
     "Id": "InteractErrorBlockageTransition",
     "Text": "Путь блокирован."
   },
   {
-    "RowIndex": 322,
     "Id": "InteractErrorSpikeBlockage",
     "Text": "Похоже, тут нужен ключ."
   },
   {
-    "RowIndex": 323,
     "Id": "InteractErrorGlyphWall",
     "Text": "Эта стена, кажется, требует три странных по своей форме объекта."
   },
   {
-    "RowIndex": 324,
     "Id": "InteractErrorWaterCave",
     "Text": "Сначала вы должны найти способ снизить уровень воды."
   },
   {
-    "RowIndex": 325,
     "Id": "InteractErrorNotYourCraftingTable",
     "Text": "Вы не можете использовать верстаки других людей."
   },
   {
-    "RowIndex": 326,
     "Id": "InteractErrorNotYourMapDevice",
     "Text": "Вы не можете использовать машины картоходца других людей."
   },
   {
-    "RowIndex": 327,
     "Id": "InteractErrorCoreTransition",
     "Text": "Убейте всех трёх стражей Малахая. Вы не можете войти в Средоточие тьмы, пока они живы."
   },
   {
-    "RowIndex": 328,
     "Id": "InteractErrorCoreTransitionOrgans",
     "Text": "Чтобы войти в Средоточие тьмы - убейте трёх стражей Малахая и отнесите Вере органы Малахая."
   },
   {
-    "RowIndex": 329,
     "Id": "InteractErrorPietyGateTransition",
     "Text": "Сначала вы должны поговорить с Верой."
   },
   {
-    "RowIndex": 330,
     "Id": "InteractErrorVinktarSquareGateLocked",
     "Text": "Врата защищены силой Стражников."
   },
   {
-    "RowIndex": 331,
     "Id": "NotAllowedInPlayersHideout",
     "Text": "Вы не можете попасть в убежище этого игрока."
   },
   {
-    "RowIndex": 332,
     "Id": "CantChangeToHideoutFromHere",
     "Text": "Вы не можете попасть в убежище отсюда."
   },
   {
-    "RowIndex": 333,
     "Id": "StrMissionStartPointRocks",
     "Text": "Вход рухнул"
   },
   {
-    "RowIndex": 334,
     "Id": "LoginTokenExpired",
     "Text": "Срок действия данных вашей учетной записи истек. Пожалуйста, перезапустите игру."
   },
   {
-    "RowIndex": 335,
     "Id": "IgnoredPvP",
     "Text": "Вас проигнорировали."
   },
   {
-    "RowIndex": 336,
     "Id": "LocalChatDisabledWhileSpectating",
     "Text": "Локальный чат отключен во время наблюдения PvP"
   },
   {
-    "RowIndex": 337,
     "Id": "AbandonDailyNotInHideout",
     "Text": "Вы можете использовать эту команду только находясь в своем убежище"
   },
   {
-    "RowIndex": 338,
     "Id": "NoDailyActive",
     "Text": "В настоящее время нет активных дневных миссий."
   },
   {
-    "RowIndex": 339,
     "Id": "GrandmasterSaved",
     "Text": "Грандмастер файл был сохранён. Разработчик будет уведомлён."
   },
   {
-    "RowIndex": 340,
     "Id": "LeagueFinishTimeRaceCompleted",
     "Text": "Вы выполнили задачу этой гонки. Проверьте Ладдер, чтобы увидеть свой рейтинг."
   },
   {
-    "RowIndex": 341,
     "Id": "LeagueFinishTimeRaceLogin",
     "Text": "Вы уже выполнили задачу этой гонки с данного персонажа."
   },
   {
-    "RowIndex": 342,
     "Id": "CharacterNotFriendOrGuildmate",
     "Text": "Этот аккаунт не в гильдии или в списке друзей."
   },
   {
-    "RowIndex": 343,
     "Id": "MapDeviceDisabled",
     "Text": "Машина картоходца отключена в этой лиге."
   },
   {
-    "RowIndex": 344,
     "Id": "PVPTeamDoesNotExist",
     "Text": "PVP команда не принимает участия в этом событии."
   },
   {
-    "RowIndex": 345,
     "Id": "ForwardedToMasterShard",
     "Text": "Запрос был отправлен на мастер-сервер. Запрос нужно отменить, если не будет ответа."
   },
   {
-    "RowIndex": 346,
     "Id": "PVPTournamentFinished",
     "Text": "Турнир завершён."
   },
   {
-    "RowIndex": 347,
     "Id": "ErrorNotInHideout",
     "Text": "Вы должны быть в убежище, чтобы сделать это."
   },
   {
-    "RowIndex": 348,
     "Id": "ErrorHideoutSuperceded",
     "Text": "Изменения убежища сейчас отключены. Создайте новую область убежища и попробуйте снова."
   },
   {
-    "RowIndex": 349,
     "Id": "ErrorCannotModifyGuildHideout",
     "Text": "У вас нет разрешения изменять убежище гильдии."
   },
   {
-    "RowIndex": 350,
     "Id": "ClaimCraftingBenchSuccess",
     "Text": "Верстаки добавлены в хранилище убежища."
   },
   {
-    "RowIndex": 351,
     "Id": "CharacterIsPVPOnly",
     "Text": "PVP персонажи не могут делать этого."
   },
   {
-    "RowIndex": 352,
     "Id": "StoppedSpectateFollow",
     "Text": "Вы больше не готовитесь к наблюдению."
   },
   {
-    "RowIndex": 353,
     "Id": "CannotTradeItemLockedToCharacter",
     "Text": "Предмет не может быть передан или изменён."
   },
   {
-    "RowIndex": 354,
     "Id": "CannotTradeItemLockedToAccount",
     "Text": "Предмет не может быть передан."
   },
   {
-    "RowIndex": 355,
     "Id": "PvPRelocatingArena",
     "Text": "Вас переносят на другую PVP арену для баланса игроков."
   },
   {
-    "RowIndex": 356,
     "Id": "MapCraftingFailedCost",
     "Text": "У вас недостаточно ресурсов."
   },
   {
-    "RowIndex": 357,
     "Id": "MapCraftingFailedTrade",
     "Text": "Не удалось открыть карту. Нельзя расходовать предметы при открытом окне торговли."
   },
   {
-    "RowIndex": 358,
     "Id": "PvPMustHaveFullParty",
     "Text": "В вашей группе нехватает игроков для этого режима PVP."
   },
   {
-    "RowIndex": 359,
     "Id": "WithdrawnFromPVPTournament",
     "Text": "Вы покинули этот PVP турнир."
   },
   {
-    "RowIndex": 360,
     "Id": "SpectatingDisabled",
     "Text": "Наблюдение отключено для этого матча"
   },
   {
-    "RowIndex": 361,
     "Id": "ChestLocked",
     "Text": "Сундук заперт"
   },
   {
-    "RowIndex": 362,
     "Id": "HideoutPortalLocked",
     "Text": "Порталы на карту заблокированы"
   },
   {
-    "RowIndex": 363,
     "Id": "PVPCTFOwnFlag",
     "Text": "Принесите сюда флаг вражеской команды, чтобы получить очко"
   },
   {
-    "RowIndex": 364,
     "Id": "SpiderChestLocked",
     "Text": "Вы слышите шуршание..."
   },
   {
-    "RowIndex": 365,
     "Id": "AFKModeEnabled",
     "Text": "Режим \"отошёл\" включён. Авто-ответ \"{0}\"."
   },
   {
-    "RowIndex": 366,
     "Id": "AFKModeDisabled",
     "Text": "Режим \"отошёл\" выключен."
   },
   {
-    "RowIndex": 367,
     "Id": "DNDModeEnabled",
     "Text": "Режим \"недоступен\" включён. Авто-ответ \"{0}\"."
   },
   {
-    "RowIndex": 368,
     "Id": "DNDModeDisabled",
     "Text": "Режим \"недоступен\" выключен."
   },
   {
-    "RowIndex": 369,
     "Id": "AutoReplyEnabled",
     "Text": "Установлен авто-ответ \"{0}\""
   },
   {
-    "RowIndex": 370,
     "Id": "IncaApexDoorLocked",
     "Text": "Сейчас дверь нельзя открыть."
   },
   {
-    "RowIndex": 371,
     "Id": "CharacterNameExistsButCanExpire",
     "Text": "Создание персонажа с таким именем изменит имя уже существующего персонажа."
   },
   {
-    "RowIndex": 372,
     "Id": "CharacterIsNotExpired",
     "Text": "Срок действия этого имени ещё не истёк."
   },
   {
-    "RowIndex": 373,
     "Id": "CharacterIsExpired",
     "Text": "Имя этого персонажа было занято другим игроком, так как вы давно не входили на аккаунт. Укажите новое имя."
   },
   {
-    "RowIndex": 374,
     "Id": "OrphanedInstance",
     "Text": "Потеряна связь с сервером."
   },
   {
-    "RowIndex": 375,
     "Id": "ErrorLabyrinthLocked",
     "Text": "Лабиринт уже был открыт и в него больше нельзя войти. Посетите Площадь претендентов, чтобы начать новый."
   },
   {
-    "RowIndex": 376,
     "Id": "ErrorZanaMissionLocked",
     "Text": "Вы уже посещали нестабильную область. Вы не сможете в неё вернуться."
   },
   {
-    "RowIndex": 377,
     "Id": "InteractErrorDoorRequiresGoldenKey",
     "Text": "Дверь заперта. Для неё нужен золотой ключ."
   },
   {
-    "RowIndex": 378,
     "Id": "InteractErrorDoorRequiresSilverKey",
     "Text": "Дверь заперта. Для неё нужен серебряный ключ."
   },
   {
-    "RowIndex": 379,
     "Id": "InteractErrorDoorRequiresBronzeKey",
     "Text": "Дверь заперта. Для неё нужен бронзовый ключ."
   },
   {
-    "RowIndex": 380,
     "Id": "TooManyCharacterSlots",
     "Text": "На одном аккаунте нельзя иметь более 255 персонажей."
   },
   {
-    "RowIndex": 381,
     "Id": "EchoClientString",
     "Text": "{0}"
   },
   {
-    "RowIndex": 382,
     "Id": "ErrorCannotWhisperIgnored",
     "Text": "Вы не можете отправлять личные сообщения игрокам из вашего списка игнорирования."
   },
   {
-    "RowIndex": 383,
     "Id": "AccountIsOnline",
     "Text": "Этот аккаунт сейчас в сети."
   },
   {
-    "RowIndex": 384,
     "Id": "IzaroChestLocked",
     "Text": "Этот сундук закрыт. Для него нужен ключ от сокровищницы."
   },
   {
-    "RowIndex": 385,
     "Id": "ProfanityCheckFailed",
     "Text": "Введенный текст содержит ненормативную лексику."
   },
   {
-    "RowIndex": 386,
     "Id": "ErrorCannotChangeAscendancyClass",
     "Text": "Вы не можете изменять класс Восхождения в этой лиге."
   },
   {
-    "RowIndex": 387,
     "Id": "TencentAasLoginDenied",
     "Text": "Вы являетесь несовершеннолетним и не можете авторизоваться."
   },
   {
-    "RowIndex": 388,
     "Id": "TencentAasNotification",
     "Text": "Вы играете {0} часов, пожалуйста, отдохните немного."
   },
   {
-    "RowIndex": 389,
     "Id": "TencentAasAlarm",
     "Text": "Вы играли более трех часов и являетесь несовершеннолетним. Вы сможете авторизоваться только после 5-часового перерыва."
   },
   {
-    "RowIndex": 390,
     "Id": "LeagueDisallowsCharacterDeletion",
     "Text": "В настоящий момент эта лига не позволяет удалять персонажей."
   },
   {
-    "RowIndex": 391,
     "Id": "ErrorCannotAccessMapLabyrinth",
     "Text": "Вы ещё не завершили испытания лабиринта на картах."
   },
   {
-    "RowIndex": 392,
     "Id": "ErrorCannotSealProphecy",
     "Text": "Не удалось запечатать пророчество."
   },
   {
-    "RowIndex": 393,
     "Id": "InviteErrorAlreadyInParty",
     "Text": "Не удалось отправить приглашение в группу: этот персонаж уже в группе."
   },
   {
-    "RowIndex": 394,
     "Id": "TencentCannotAccessMapDevice",
     "Text": "Завершите Лабиринт Правителя, чтобы получить доступ к Машине картоходца. Отправляйтесь в Лагерь Сарна и нажмите на плиту Восхождения, чтобы узнать о Лабиринте подробнее. Завершите испытания Восхождения и победите императора Изаро, чтобы получить доступ к высокоуровневым картам."
   },
   {
-    "RowIndex": 395,
     "Id": "DailyPortalBlocked",
     "Text": "Невозможно открыть ежедневное задание: область портала заблокирована. Используйте режим перестановки, чтобы переместить мастера в другое место и попробуйте снова."
   },
   {
-    "RowIndex": 396,
     "Id": "OfferDoesNotExist",
     "Text": "Предложения не существует."
   },
   {
-    "RowIndex": 397,
     "Id": "OfferInWrongState",
     "Text": "Предложение находится в недопустимом состоянии для выполнения этого действия."
   },
   {
-    "RowIndex": 398,
     "Id": "OfferContainsUntradeableItems",
     "Text": "Предложение нельзя отправить, поскольку оно содержит предметы, которыми нельзя торговать."
   },
   {
-    "RowIndex": 399,
     "Id": "NoOffersOnYourOwnItems",
     "Text": "Вы не можете сделать предложение на этот предмет, поскольку он у вас уже есть."
   },
   {
-    "RowIndex": 400,
     "Id": "PublicListingLockedDueToLevel",
     "Text": "Вы не можете выставлять предметы на продажу в открытый доступ пока не повысите уровень хотя бы одного персонажа на вашем аккаунте до 25."
   },
   {
-    "RowIndex": 401,
     "Id": "OffersLockedDueToLevel",
     "Text": "Вы не можете делать предложения пока не повысите уровень хотя бы одного персонажа на вашем аккаунте до 25."
   },
   {
-    "RowIndex": 402,
     "Id": "AccountNoLongerHasItem",
     "Text": "У игрока больше нет указанного предмета."
   },
   {
-    "RowIndex": 403,
     "Id": "TooManyBuyerOffers",
     "Text": "Вы не можете сделать ещё одно предложение, пока предыдущее не будет завершено."
   },
   {
-    "RowIndex": 404,
     "Id": "TooManySellerOffers",
     "Text": "У продавца слишком много предложений. Попробуйте позже."
   },
   {
-    "RowIndex": 405,
     "Id": "AlreadyHaveOfferOnItem",
     "Text": "У вас уже есть действующее предложение на этот предмет."
   },
   {
-    "RowIndex": 406,
     "Id": "SentOfferTooRecently",
     "Text": "Вы недавно отправляли предложение на этот аккаунт."
   },
   {
-    "RowIndex": 407,
     "Id": "EventErrorLevelTooLow",
     "Text": "Чтобы принять участие в событии, вы должны достичь {0} уровня."
   },
   {
-    "RowIndex": 408,
     "Id": "EnteredPathOfEnduranceLevel",
     "Text": "Вы достигли {0} уровня."
   },
   {
-    "RowIndex": 409,
     "Id": "EventEndsIn",
     "Text": "Событие заканчивается в {0}."
   },
   {
-    "RowIndex": 410,
     "Id": "GuildTagAlreadyExists",
     "Text": "Такой тэг гильдии уже используется."
   },
   {
-    "RowIndex": 411,
     "Id": "GlobalChatOnCooldown",
     "Text": "Пожалуйста, подождите несколько секунд, прежде чем вновь писать в Общем чате."
   },
   {
-    "RowIndex": 412,
     "Id": "InteractErrorKaruiDoorLocked",
     "Text": "Врата закрыты, но, кажется, в них не хватает глаза…"
   },
   {
-    "RowIndex": 413,
     "Id": "LabyrinthErrorPartyTooBigTencent",
     "Text": "Вы можете входить в Лабиринт, только если в вашей группе {0} или меньше участников. "
   },
   {
-    "RowIndex": 414,
     "Id": "InteractErrorNoSignOfPurity",
     "Text": "Для активации вам нужен Символ Чистоты."
   },
   {
-    "RowIndex": 415,
     "Id": "InteractErrorCannotAccessEndgame",
     "Text": "Вы не можете получить доступ к высокоуровневому контенту, пока не завершите кампанию."
   },
   {
-    "RowIndex": 416,
     "Id": "CharacterNameContainsProfanity",
     "Text": "Такое имя персонажа запрещено."
   },
   {
-    "RowIndex": 417,
     "Id": "ConsoleDisconnectedBecauseActiveUserChanged",
     "Text": "Соединение прервано, так как текущий пользователь завершил сеанс."
   },
   {
-    "RowIndex": 418,
     "Id": "ConsoleDisconnectedBecauseSuspending",
     "Text": "Соединение прервано, так как игра была приостановлена."
   },
   {
-    "RowIndex": 419,
     "Id": "InteractErrorNeedSunMoonOrbs",
     "Text": "Для активации вам нужны сферы Солнца и Луны."
   },
   {
-    "RowIndex": 420,
     "Id": "TheBeaconLever",
     "Text": "Невозможно разжечь огонь, недостаточно горючего."
   },
   {
-    "RowIndex": 421,
     "Id": "OnlyOneAllowedInHideout",
     "Text": "Вы не можете разместить больше одного предмета этого типа в вашем убежище."
   },
   {
-    "RowIndex": 422,
     "Id": "AccountLoggedInOnOtherRealm",
     "Text": "Вы не можете войти одновременно в бету и в обычный клиент Path of Exile."
   },
   {
-    "RowIndex": 423,
     "Id": "KitavaArenaLocked",
     "Text": "Входить в портал этой области небезопасно."
   },
   {
-    "RowIndex": 424,
     "Id": "InteractErrorBeaconMissingFlag",
     "Text": "Заберите Чёрный флаг из Пещеры злобы и сожгите его на маяке."
   },
   {
-    "RowIndex": 425,
     "Id": "InteractErrorGreustShrine",
     "Text": "Древняя святыня азмири. Возможно, Елена что-то о ней знает."
   },
   {
-    "RowIndex": 426,
     "Id": "PantheonFailedToCreateSoulItem",
     "Text": "Не удалось создать захваченную душу в Машине картоходца."
   },
   {
-    "RowIndex": 427,
     "Id": "PantheonCannotConsumeVessel",
     "Text": "Активация не удалась. Невозможно захватить душу босса этой карты."
   },
   {
-    "RowIndex": 428,
     "Id": "PantheonCannotConsumeVesselAlreadyCaptured",
     "Text": "Активация не удалась. Вы уже захватили душу босса этой карты."
   },
   {
-    "RowIndex": 429,
     "Id": "ExitToLoginFailed",
     "Text": "Не удалось подключиться к серверу авторизации. Пожалуйста, авторизуйтесь и повторите попытку."
   },
   {
-    "RowIndex": 430,
     "Id": "MessageDoesNotExist",
     "Text": "Такого сообщения не существует."
   },
   {
-    "RowIndex": 431,
     "Id": "MessageTooLong",
     "Text": "Сообщение слишком длинное."
   },
   {
-    "RowIndex": 432,
     "Id": "AreaErrorLevelTooLow",
     "Text": "Чтобы войти в эту область, персонаж должен быть минимум {0} уровня."
   },
   {
-    "RowIndex": 433,
     "Id": "AreaErrorLevelTooLowGeneric",
     "Text": "Вы не достигли достаточного уровня для входа в эту область."
   },
   {
-    "RowIndex": 434,
     "Id": "TradeMarketCloseOfferWithItems",
     "Text": "В предложении все ещё есть предметы. Удалите их, чтобы закрыть предложение."
   },
   {
-    "RowIndex": 435,
     "Id": "TradeMarketSendOfferWithNoItems",
     "Text": "Вы не можете согласиться на торговлю, не предложив взамен валюту."
   },
   {
-    "RowIndex": 436,
     "Id": "XboxLoginErrorNoLiveAccess",
     "Text": "Не удалось войти: сервис Xbox Live недоступен."
   },
   {
-    "RowIndex": 437,
     "Id": "ConsoleLoginErrorNoInternetConnection",
     "Text": "Не удалось войти: отсутствует соединение с интернетом."
   },
   {
-    "RowIndex": 438,
     "Id": "ErrorChatIsFull",
     "Text": "Не удалось поключиться к каналу чата, поскольку он переполнен."
   },
   {
-    "RowIndex": 439,
     "Id": "LoginConnectionLimitReached",
     "Text": "Сервер авторизации перегружен. Пожалуйста, повторите попытку позднее."
   },
   {
-    "RowIndex": 440,
     "Id": "TooManyObjects",
     "Text": "Запрошено слишком много объектов. Пожалуйста, обратитесь в техподдержку."
   },
   {
-    "RowIndex": 441,
     "Id": "SubtabAlreadyExists",
     "Text": "Такая подсекция уже существует."
   },
   {
-    "RowIndex": 442,
     "Id": "MaxInventoryColumns",
     "Text": "You have reached the maximum number of inventory columns allowed. CHINA ONLY NOT FOR WORLDWIDE REALM"
   },
   {
-    "RowIndex": 443,
     "Id": "IncorrectInventoryColumnUpgrade",
     "Text": "You are trying to purchase the inventory upgrade for the incorrect number of existing slots. CHINA ONLY NOT FOR WORLDWIDE REALM"
   },
   {
-    "RowIndex": 444,
     "Id": "GenericRateLimit",
     "Text": "Запрос отклонен, поскольку вы отправили слишком много запросов за короткий промежуток времени."
   },
   {
-    "RowIndex": 445,
     "Id": "RequestInProgress",
     "Text": "Запрос уже обрабатывается. Пожалуйста, попробуйте позже."
   },
   {
-    "RowIndex": 446,
     "Id": "ItemNotInStash",
     "Text": "Такого предмета нет в этой секции."
   },
   {
-    "RowIndex": 447,
     "Id": "BestiaryNetChanged",
     "Text": "Теперь для отлова животных будет использоваться {0}."
   },
   {
-    "RowIndex": 448,
     "Id": "ErrorPlayerHasNoMenagerie",
     "Text": "У этого игрока нет зверинца."
   },
   {
-    "RowIndex": 449,
     "Id": "MicrotransactionNotAvailableInLeague",
     "Text": "Вы не можете купить эту микротранзакцию в данной лиге."
   },
   {
-    "RowIndex": 450,
     "Id": "CaptureMonsterSuccess",
     "Text": "Пойманный монстр: {0}"
   },
   {
-    "RowIndex": 451,
     "Id": "DeletedExcessBestiaryUnique",
     "Text": "Ваш зверинец был полон, поэтому из него удалён самый ранний пойманный зверь ({0}), чтобы высвободить место."
   },
   {
-    "RowIndex": 452,
     "Id": "DeletedExcessBestiaryRare",
     "Text": "Ваш зверинец был полон, поэтому из него удалён самый ранний пойманный зверь ({0}; {1}), чтобы высвободить место."
   },
   {
-    "RowIndex": 453,
     "Id": "PlayersRemainingN",
     "Text": "Осталось игроков: {0}"
   },
   {
-    "RowIndex": 454,
     "Id": "AccountNotVerifiedChatError",
     "Text": "Вы должны подтвердить ваш аккаунт, прежде чем пользоваться чатом."
   },
   {
-    "RowIndex": 455,
     "Id": "TooLowLevelToChooseChatIndex",
     "Text": "Вы не сможете выбрать определенный канал чата, пока не достигнете {0} уровня"
   },
   {
-    "RowIndex": 456,
     "Id": "IncursionLockedDoorError",
     "Text": "У вас нет нужного предмета для открытия этого прохода."
   },
   {
-    "RowIndex": 457,
     "Id": "IncursionDestructibleWallError",
     "Text": "У вас нет взрывчатки."
   },
   {
-    "RowIndex": 458,
     "Id": "InstanceExpiredError",
     "Text": "Невозможно подключиться к области. Время действия подобласти истекло, поскольку она больше не является новейшей для этой области."
   },
   {
-    "RowIndex": 459,
     "Id": "InstanceTerminatedError",
     "Text": "Не удалось подключиться к области:  подобласть больше не существует."
   },
   {
-    "RowIndex": 460,
     "Id": "FailedToLoadDelveMap",
     "Text": "Не удалось загрузить данные карты Спуска: {0}"
   },
   {
-    "RowIndex": 461,
     "Id": "DelveInProgressError",
     "Text": "Вы не можете войти в шахту в процессе спуска."
   },
   {
-    "RowIndex": 462,
     "Id": "LoginRequiresUnlockCodeStrict",
     "Text": "Ваш аккаунт заблокирован, пока вы не предоставите код разблокировки, отправленный на вашу электронную почту."
   },
   {
-    "RowIndex": 463,
     "Id": "DelveSocketableCurrencySameFossilError",
     "Text": "Вы не можете помещать одинаковые ископаемые в один и тот же резонатор"
   },
   {
-    "RowIndex": 464,
     "Id": "GenericSocketError",
     "Text": "Вы не можете вставить в гнездо этот предмет"
   },
   {
-    "RowIndex": 465,
     "Id": "OfferNotYetReadyForAccept",
     "Text": "Предложение ожидает принятия решения по прошлому запросу. Попробуйте позже."
   },
   {
-    "RowIndex": 466,
     "Id": "InteractErrorEssence",
     "Text": "Что-то ещё удерживает Сущность."
   },
   {
-    "RowIndex": 467,
     "Id": "NotEnoughIngredients",
     "Text": "У вас недостаточно материалов для совершения действия."
   },
   {
-    "RowIndex": 468,
     "Id": "ConsoleDisconnectedBecauseActiveUserSignedOut",
     "Text": "Соединение прервано, так как текущий пользователь завершил сеанс."
   },
   {
-    "RowIndex": 469,
     "Id": "PS4LoginErrorNoPSNAccess",
     "Text": "Не удалось войти: сервис \"PlayStation Network\" недоступен."
   },
   {
-    "RowIndex": 470,
     "Id": "PS4LoginErrorOutOfMemory",
     "Text": "Не удалось войти: недостаточно памяти."
   },
   {
-    "RowIndex": 471,
     "Id": "PS4LoginErrorSignedOut",
     "Text": "Не удалось войти: вы вышли из системы."
   },
   {
-    "RowIndex": 472,
     "Id": "PS4LoginErrorNotSignedUp",
     "Text": "Не удалось войти: вы не вошли в систему."
   },
   {
-    "RowIndex": 473,
     "Id": "PS4LoginErrorAgeRestriction",
     "Text": "Не удалось войти: ограничение по возрасту."
   },
   {
-    "RowIndex": 474,
     "Id": "PS4LoginErrorLoggedOut",
     "Text": "Не удалось войти: вы вышли из системы."
   },
   {
-    "RowIndex": 475,
     "Id": "PS4LoginErrorLatestSystemSoftwareExist",
     "Text": "Не удалось войти: доступно обновление програмного обеспечения."
   },
   {
-    "RowIndex": 476,
     "Id": "PS4LoginErrorLatestSystemSoftwareExistForTitle",
     "Text": "Не удалось войти: для этого приложения вышло новое необходимое обновление."
   },
   {
-    "RowIndex": 477,
     "Id": "PS4LoginErrorLatestPatchPackageExists",
     "Text": "Не удалось войти: доступен новый пакет обновлений."
   },
   {
-    "RowIndex": 478,
     "Id": "PS4LoginErrorLatestPatchPackageDownloaded",
     "Text": "Не удалось войти: доступен новый скачиваемый пакет обновлений."
   },
   {
-    "RowIndex": 479,
     "Id": "PS4LoginErrorPatchNotChecked",
     "Text": "Не удалось войти: не получилось запустить проверку наличия новых обновлений. Пожалуйста, повторите попытку."
   },
   {
-    "RowIndex": 480,
     "Id": "HideoutExportFailed",
     "Text": "Чтобы выгрузить шаблон убежища, вы должны находиться в убежище."
   },
   {
-    "RowIndex": 481,
     "Id": "HideoutImportSuccess",
     "Text": "Шаблон убежища успешно загружен."
   },
   {
-    "RowIndex": 482,
     "Id": "HideoutImportFailed",
     "Text": "Не удалось загрузить шаблон убежища."
   },
   {
-    "RowIndex": 483,
     "Id": "HideoutImportFailedMustBeInHideout",
     "Text": "Чтобы загрузить шаблон убежища, вы должны находиться в своем убежище."
   },
   {
-    "RowIndex": 484,
     "Id": "HideoutImportFailedWrongHideout",
     "Text": "Установите {0} в качестве своего убежища, чтобы загрузить этот шаблон."
   },
   {
-    "RowIndex": 485,
     "Id": "TencentTradeMarketNotExactPrice",
     "Text": "Your offer does not match the exact price for this item."
   },
   {
-    "RowIndex": 486,
     "Id": "TencentTradeMarketTooManyCompletedOffers",
     "Text": "You have too many completed trades in your Trade Market to make this offer."
   },
   {
-    "RowIndex": 487,
     "Id": "IncursionRecipeUnlockRejected",
     "Text": "Ремесленный рецепт уже открыт"
   },
   {
-    "RowIndex": 488,
     "Id": "FailedToReclaimSomeHideoutDoodads",
     "Text": "Не удалось отозвать один или более объектов убежища. Пожалуйста, создайте новую копию области убежища и повторите попытку."
   },
   {
-    "RowIndex": 489,
     "Id": "FailedToLoadHideoutDoodads",
     "Text": "Не удалось загрузить список объектов убежища."
   },
   {
-    "RowIndex": 490,
     "Id": "HideoutImportWarningGeneric",
     "Text": "Предупреждение: невозможно загрузить одно или более украшений убежища ({0})."
   },
   {
-    "RowIndex": 491,
     "Id": "HideoutImportWarningUnowned",
     "Text": "Предупреждение: невозможно загрузить одно или более украшений убежища ({0}),  потому что у вас нет запасных."
   },
   {
-    "RowIndex": 492,
     "Id": "HideoutImportWarningBlocked",
     "Text": "Предупреждение: невозможно загрузить одно или более украшений убежища ({0}),  потому что указанная область заблокирована."
   },
   {
-    "RowIndex": 493,
     "Id": "HideoutReclaimAllSuccess",
     "Text": "Все украшения убежища были отозваны."
   },
   {
-    "RowIndex": 494,
     "Id": "AreaTransitionPartyError",
     "Text": "Чтобы попасть в эту область, вы должны быть в группе с её владельцем."
   },
   {
-    "RowIndex": 495,
     "Id": "AreaTransitionOwnerError",
     "Text": "Для перехода в эту область с вами должен быть владелец области."
   },
   {
-    "RowIndex": 496,
     "Id": "BestiaryErrorNoData",
     "Text": "Не удалось извлечь данные Бестиария."
   },
   {
-    "RowIndex": 497,
     "Id": "BestiaryErrorFailedToCaptureMonster",
     "Text": "Не удалось сохранить пойманного монстра: {0}"
   },
   {
-    "RowIndex": 498,
     "Id": "PS4BadRedeemToken",
     "Text": "Ошибка активации маркера"
   },
   {
-    "RowIndex": 499,
     "Id": "CurrencyTradingPrevented2",
     "Text": "Вы не можете обмениваться валютой или уникальными вещами с другими игроками, пока не подтвердите ваш аккаунт."
   },
   {
-    "RowIndex": 500,
     "Id": "PublicListingLockedDueToVerified",
     "Text": "Вы не можете выставлять предметы на продажу в открытый доступ, пока не подтвердите ваш аккаунт."
   },
   {
-    "RowIndex": 501,
     "Id": "OffersLockedDueToVerified",
     "Text": "Вы не можете предлагать цену за предметы, пока не подтвердите ваш аккаунт."
   },
   {
-    "RowIndex": 502,
     "Id": "SynthesisPortalFullyDecayed",
     "Text": "Эта область истощилась."
   },
   {
-    "RowIndex": 503,
     "Id": "SynthesisTooManyMemories",
     "Text": "Вы разместили слишком много воспоминаний. Пожалуйста, удалите часть из них, прежде чем добавлять ещё."
   },
   {
-    "RowIndex": 504,
     "Id": "SynthesisOtherMemoryInstance",
     "Text": "Вы не можете разместить воспоминания в Нексусе другого игрока или на Просторах памяти."
   },
   {
-    "RowIndex": 505,
     "Id": "ConsoleDisconnectedBecauseNoInternetConnection",
     "Text": "Вы были отключены из-за отсутствия подключения к Интернету."
   },
   {
-    "RowIndex": 506,
     "Id": "PS4DisconnectedBecauseNoPSNAccess",
     "Text": "Вы были отключены из-за отсутствия связи с \"PlayStation Network\"."
   },
   {
-    "RowIndex": 507,
     "Id": "XboxDisconnectedBecauseNoXboxLiveAccess",
     "Text": "Вы были отключены из-за отсутствия связи с Xbox Live."
   },
   {
-    "RowIndex": 508,
     "Id": "PS4CannotLogInUGMRestriction",
     "Text": "Невозможно подключиться из-за родительского контроля."
   },
   {
-    "RowIndex": 509,
     "Id": "SynthesisMaxGlobalModsReached",
     "Text": "Вы достигли максимального количества свойств памяти на вашей карте Синтеза."
   },
   {
-    "RowIndex": 510,
     "Id": "BetrayalCannotAccessLab",
     "Text": "В данный момент вы заняты в другой активности Синдиката. Завершите активность и примите оставшиеся решения, чтобы открыть этот проход."
   },
   {
-    "RowIndex": 511,
     "Id": "SynthesisCannotApplyGlobalMod",
     "Text": "На выбранное воспоминание и расположенные рядом с ним воспоминания нельзя наложить больше свойств памяти."
   },
   {
-    "RowIndex": 512,
     "Id": "KakaoAPIError",
     "Text": "Не получилось авторизоваться через центр авторизации Kakao."
   },
   {
-    "RowIndex": 513,
     "Id": "KakaoRequireLogin",
     "Text": "Вы должны переподключиться к своему аккаунту Kakao."
   },
   {
-    "RowIndex": 514,
     "Id": "MapDeviceCannotUseFragmentWithMap",
     "Text": "Не удалось активировать. {0} нельзя использовать с картой."
   },
   {
-    "RowIndex": 515,
     "Id": "MapDeviceFragmentNeedsRecipe",
     "Text": "Не удалось активировать. {0} необходимо использовать с другими фрагментами карты из того же набора."
   },
   {
-    "RowIndex": 516,
     "Id": "MapDeviceFragmentNeedsRecipeOrMap",
     "Text": "Не удалось активировать. {0} необходимо использовать с картой или другими фрагментами карты из того же набора."
   },
   {
-    "RowIndex": 517,
     "Id": "MapDeviceDuplicateFragments",
     "Text": "Не удалось активировать. Нельзя использовать несколько фрагментов карты одного вида."
   },
   {
-    "RowIndex": 518,
     "Id": "EmailLoginDisabledKakao",
     "Text": "Данный способ авторизации был отключен для этого аккаунта. Пожалуйста, авторизуйтесь через http://poe.game.daum.net"
   },
   {
-    "RowIndex": 519,
     "Id": "EmailLoginDisabled",
     "Text": "Данный способ авторизации был отключен для этого аккаунта. "
   },
   {
-    "RowIndex": 520,
     "Id": "GatewayDisallowedForThisLoginType",
     "Text": "Этот шлюз не доступен для данного вида авторизации."
   },
   {
-    "RowIndex": 521,
     "Id": "UnacceptableChatMessage",
     "Text": "Неприемлемое содержимое сообщения."
   },
   {
-    "RowIndex": 522,
     "Id": "ChannelOnlyAllowsASCII",
     "Text": "Неприемлемое содержимое сообщения. Пожалуйста, используйте только стандартные ASCII-символы в этом канале."
   },
   {
-    "RowIndex": 523,
     "Id": "ActionRejectedDueToPerPlayerFreeze",
     "Text": "Вы недавно умерли и не можете предпринимать действия в течение {0}."
   },
   {
-    "RowIndex": 524,
     "Id": "PerPlayerDeathFreezeRemoved",
     "Text": "Теперь вы можете выполнять действия."
   },
   {
-    "RowIndex": 525,
     "Id": "LeagueDisallowsManualMigration",
     "Text": "В данный момент переход из этой лиги в другую невозможен."
   },
   {
-    "RowIndex": 526,
     "Id": "RecycleMicroItemNotFound",
     "Text": "Микротранзакция не найдена."
   },
   {
-    "RowIndex": 527,
     "Id": "RecycleMicroCannotRemoveMicro",
     "Text": "Микротранзакцию нельзя убрать."
   },
   {
-    "RowIndex": 528,
     "Id": "RecycleMicroNoValue",
     "Text": "Микротранзакция не имеет ценности."
   },
   {
-    "RowIndex": 529,
     "Id": "RecycleMicroGeneric",
     "Text": "Невозможно совершить действие в данный момент."
   },
   {
-    "RowIndex": 530,
     "Id": "TradeBanError",
     "Text": "Вы не можете совершить это действие. Вашему аккаунту запрещены торговые операции. "
   },
   {
-    "RowIndex": 531,
     "Id": "InteractErrorCoreTransitionMap",
     "Text": "Для доступа к Чёрному сердцу вы должны убить всех трёх защитников Пожирателя душ."
   },
   {
-    "RowIndex": 532,
     "Id": "CombineMTXTimeLimitedError",
     "Text": "Невозможно объединить временные микротранзакции."
   },
   {
-    "RowIndex": 533,
     "Id": "SalvageMTXTimeLimitedError",
     "Text": "Невозможно переработать временные микротранзакции."
   },
   {
-    "RowIndex": 534,
     "Id": "ItemIsInLeagueInventory",
     "Text": "Вы не можете выполнить эту операцию с предметом в инвентаре лиги."
   },
   {
-    "RowIndex": 535,
     "Id": "MetamorphosisCannotOpenUIError",
     "Text": "Образцы Метаморфа могут быть объединены только владельцем области."
   },
   {
-    "RowIndex": 536,
     "Id": "PurchaseLimitReached",
     "Text": "Достигнут лимит покупок данного предмета."
   },
   {
-    "RowIndex": 537,
     "Id": "EpicAssociateEmailSent",
     "Text": "Электронное письмо было отправлено вам для подтверждения. Пожалуйста, перейдите по ссылке из письма, чтобы продолжить."
   },
   {
-    "RowIndex": 538,
     "Id": "DestroyHarvestInfrastructure",
     "Text": "Вы не можете разрушить оборудование Жатвы."
   },
   {
-    "RowIndex": 539,
     "Id": "CharacterActionDeniedHarvestItems",
     "Text": "Вы должны удалить всё оборудование Жатвы из рюкзака вашего персонажа перед совершением этого действия."
   },
   {
-    "RowIndex": 540,
     "Id": "HarvestOshabiFightOnlyInMaps",
     "Text": "Событие может начаться только на карте"
   },
   {
-    "RowIndex": 541,
     "Id": "ConsoleGuildTagProfanityError",
     "Text": "Тэг гильдии, который вы пытаетесь использовать, содержит запрещённую фразу. Используйте другой тэг."
   },
   {
-    "RowIndex": 542,
     "Id": "ConsoleGuildNameProfanityError",
     "Text": "Название гильдии, которое вы пытаетесь использовать, содержит запрещённую фразу. Используйте другое название."
   },
   {
-    "RowIndex": 543,
     "Id": "ConsoleGuildStashTabProfanityError",
     "Text": "Название секции сундука, которое вы пытаетесь использовать, содержит запрещённую фразу. Используйте другое название."
   },
   {
-    "RowIndex": 544,
     "Id": "TradeErrorItemStolenFromHeist",
     "Text": "Предмет не может быть передан."
   },
   {
-    "RowIndex": 545,
     "Id": "HeistAlarmError",
     "Text": "Ошибка: невозможно присоединиться к области Кражи под изоляцией"
   },
   {
-    "RowIndex": 546,
     "Id": "HeistHubAccessError",
     "Text": "Для доступа в Разбойничью гавань вы должны использовать Разбойничий жетон."
   },
   {
-    "RowIndex": 547,
     "Id": "NotHeistOwner",
     "Text": "Ошибка: вы не являетесь владельцем этого ограбления"
   },
   {
-    "RowIndex": 548,
     "Id": "ReceivedAtlasRespecPoint1",
     "Text": "Вы получили очко сброса пассивных умений Атласа."
   },
   {
-    "RowIndex": 549,
     "Id": "ReceivedAtlasRespecPointN",
     "Text": "Вы получили очков сброса пассивных умений Атласа: {0}."
   },
   {
-    "RowIndex": 550,
     "Id": "ReceivedAtlasPassivePoint1",
     "Text": "Вы получили очко пассивных умений Атласа."
   },
   {
-    "RowIndex": 551,
     "Id": "ReceivedAtlasPassivePointN",
     "Text": "Вы получили очков пассивных умений Атласа: {0}."
   },
   {
-    "RowIndex": 552,
     "Id": "MavenNotEnoughBosses",
     "Text": "Активация не удалась. Вы не собрали достаточно боссов в этом регионе Атласа."
   },
   {
-    "RowIndex": 553,
     "Id": "MavenCitadelNotUnlocked",
     "Text": "Активация не удалась. Вы не разблокировали крепость в этом регионе Атласа."
   },
   {
-    "RowIndex": 554,
     "Id": "StashAffinityFailedNoRoom",
     "Text": "В вашей секции сундука с привязкой \"{0}\" недостаточно места для этого предмета."
   },
   {
-    "RowIndex": 555,
     "Id": "FailedToAddMavenToMap",
     "Text": "Не удалось призвать Мейвен на карту, поскольку: {0}"
   },
   {
-    "RowIndex": 556,
     "Id": "RitualFragmentNotValidForUse",
     "Text": "Активация не удалась. Пропитанные кровью чучела можно использовать только в лиге Ритуал."
   },
   {
-    "RowIndex": 557,
     "Id": "MapDeviceInvalidQuestState",
     "Text": "Активация не удалась. Вы не находитесь на требуемом этапе задания."
   },
   {
-    "RowIndex": 558,
     "Id": "MapDeviceFull",
     "Text": "Ваша машина картоходца полна."
   },
   {
-    "RowIndex": 559,
     "Id": "AccountNotVerified",
     "Text": "Учетная запись не подтверждена."
   },
   {
-    "RowIndex": 560,
     "Id": "UltimatumTrialStarted",
     "Text": "Вы не можете присоединиться к уже начатому испытанию."
   },
   {
-    "RowIndex": 561,
     "Id": "RoyaleMatchEndedWonReward",
     "Text": "Победа, победа, время обеда!\n В список ваших украшений для убежища добавлен жареный роа {0} уровня."
   },
   {
-    "RowIndex": 562,
     "Id": "RoyaleMatchEndedWon",
     "Text": "Победа, победа, время обеда!\n Следующее украшение для убежища через {0} побед(-ы)."
   },
   {
-    "RowIndex": 563,
     "Id": "RoyaleMatchEndedWonMax",
     "Text": "Победа, победа, время обеда!"
   },
   {
-    "RowIndex": 564,
     "Id": "RoyaleMatchEnded",
     "Text": "{0} - победитель этого матча!"
   },
   {
-    "RowIndex": 565,
     "Id": "RoyaleMatchEndedTeam",
     "Text": "{0} и {1} победили в этом матче!"
   },
   {
-    "RowIndex": 566,
     "Id": "TradeNoteBlacklistedCharactersError",
     "Text": "Примечание содержит запрещённые символы. Пожалуйста, попробуйте ещё раз."
   },
   {
-    "RowIndex": 567,
     "Id": "ExpeditionDetonatorNotInstanceOwner",
     "Text": "Только владелец области может взаимодействовать со взрывчаткой и детонатором."
   },
   {
-    "RowIndex": 568,
     "Id": "ActionTemporarilyDisabled",
     "Text": "Возможность совершения данного действия временно отключена."
   },
   {
-    "RowIndex": 569,
     "Id": "CannotAccessGuildHideout",
     "Text": "У вас нет доступа к убежищу гильдии этого игрока, так как вы не состоите в его гильдии."
   },
   {
-    "RowIndex": 570,
     "Id": "SettingDeliveryDetailsFailed",
     "Text": "Не удалось задать подробности доставки:"
   },
   {
-    "RowIndex": 571,
     "Id": "ExpeditionCurrencyNotification",
     "Text": "В ваш сундук Экспедиции добавлено: {0}x {1}"
   },
   {
-    "RowIndex": 572,
     "Id": "GuildStashDisabled",
     "Text": "Хранилище гильдии временно отключено."
   },
   {
-    "RowIndex": 573,
     "Id": "TencentItcServerError",
     "Text": "Сервер ITC возвратил ошибку."
   },
   {
-    "RowIndex": 574,
     "Id": "OperationCancelled",
     "Text": "Операция отменена."
   },
   {
-    "RowIndex": 575,
     "Id": "ConvertMapsPartialSuccess",
     "Text": "Некоторые карты не удалось преобразовать либо из-за нехватки места, либо из-за отсутствия подходящих карт, в которые должно осуществляться преобразование."
   },
   {
-    "RowIndex": 576,
     "Id": "CannotPromoteEmptyStashToActive",
     "Text": "Нельзя назначить активной пустую секцию."
   },
   {
-    "RowIndex": 577,
     "Id": "CannotFindActiveStashToReplace",
     "Text": "Не найдена пустая активная секция такого типа на замену. Удостоверьтесь, что она загружена, и попробуйте снова."
   },
   {
-    "RowIndex": 578,
     "Id": "TencentUicServerError",
     "Text": "Соединение не удалось, пожалуйста, попробуйте позже."
   },
   {
-    "RowIndex": 579,
     "Id": "PlayerKillCount1",
     "Text": "Вы убили 1 монстра."
   },
   {
-    "RowIndex": 580,
     "Id": "PlayerKillCountCapped",
     "Text": "Вы убили неисчислимое количество монстров."
   },
   {
-    "RowIndex": 581,
     "Id": "TencentActionFailedMarketBanned",
     "Text": "Ваши действия нарушили Условия использования и негативно повлияли на нормальную работу игры. Вам заблокирован доступ на торговый рынок на {0}."
   },
   {
-    "RowIndex": 582,
     "Id": "TencentGlobalStatusError",
     "Text": "Система находится на техническом обслуживании. Пожалуйста, повторите попытку позже."
   },
   {
-    "RowIndex": 583,
     "Id": "WhisperFailed",
     "Text": "Не удалось отправить сообщение игроку {0}, причина: {1}"
   },
   {
-    "RowIndex": 584,
     "Id": "HideoutExportFailedLackingPermission",
     "Text": "У вас нет разрешения для экспорта этого убежища."
   },
   {
-    "RowIndex": 585,
     "Id": "CurrencyTradingPreventedDueToReview",
     "Text": "Вы не можете обменивать валюту или уникальные предметы у других игроков, пока ваша учётная запись не будет проверена. Это может занять до 24 часов."
   },
   {
-    "RowIndex": 586,
     "Id": "PublicListingLockedDueToReview",
     "Text": "Вы не можете выставлять предметы на продажу, пока ваша учётная запись не будет проверена. Это может занять до 24 часов."
   },
   {
-    "RowIndex": 587,
     "Id": "InteractErrorNotYourLakeStampingDevice",
     "Text": "Вы не можете использовать эту зеркальную табличку."
   },
   {
-    "RowIndex": 588,
     "Id": "SanctumStabilityError",
     "Text": "Ошибка: нельзя войти в Святилище, не имея решимости"
   },
   {
-    "RowIndex": 589,
     "Id": "FeedbackNumber",
     "Text": "Спасибо за ваш отзыв! Номер вашего отзыва: {0}"
   },
   {
-    "RowIndex": 590,
     "Id": "LootAllocationOptionDisabledInHardMode",
     "Text": "В Беспощадном режиме нельзя настроить распределение добычи."
   },
   {
-    "RowIndex": 591,
     "Id": "ExtraInventoryColumnsDisabledInHardMode",
     "Text": "[DNT]Extra inventory columns are disabled in Ruthless leagues. CHINA ONLY NOT FOR WORLDWIDE REALM"
   },
   {
-    "RowIndex": 592,
     "Id": "PathOfEnduranceDisabledInHardMode",
     "Text": "[DNT]Path of Endurance is disabled in Ruthless leagues."
   },
   {
-    "RowIndex": 593,
     "Id": "RelicCannotPlaceItemSanctumInProgressError",
     "Text": "Реликвии нельзя поменять, пока у вас есть активное Святилище."
   },
   {
-    "RowIndex": 594,
     "Id": "CoinFlipHeads",
     "Text": "{0} выпадает орёл!"
   },
   {
-    "RowIndex": 595,
     "Id": "CoinFlipTails",
     "Text": "{0} выпадает решка!"
   },
   {
-    "RowIndex": 596,
     "Id": "HideoutPvpInvalidPosition",
     "Text": "Арена для PvP слишком близко к порталу, PvP отключено."
   },
   {
-    "RowIndex": 597,
     "Id": "HideoutPvpEnded",
     "Text": "Матч окончен, {0} побеждает!"
   },
   {
-    "RowIndex": 598,
     "Id": "HideoutPvpEndedDraw",
     "Text": "Матч окончился ничьей."
   },
   {
-    "RowIndex": 599,
     "Id": "HideoutPvpCancelled",
     "Text": "Матч отменён."
   },
   {
-    "RowIndex": 600,
     "Id": "HideoutPvpDefeated",
     "Text": "{0} терпит поражение!"
   },
   {
-    "RowIndex": 601,
     "Id": "AccountNeedsToBeOffline",
     "Text": "Данная операция требует, чтобы аккаунт был не в сети."
   },
   {
-    "RowIndex": 602,
     "Id": "AccountTransferInProgress",
     "Text": "На этом аккаунте сейчас происходит смена области. Подождите немного и попробуйте ещё раз."
   },
   {
-    "RowIndex": 603,
     "Id": "SanctumAlreadyOpenedError",
     "Text": "Это Святилище уже открыто, поэтому к нему больше нельзя присоединиться."
   },
   {
-    "RowIndex": 604,
     "Id": "CXInvalidRequest",
     "Text": "Неверный запрос."
   },
   {
-    "RowIndex": 605,
     "Id": "CXOrderDoesNotExist",
     "Text": "Заказ не существует."
   },
   {
-    "RowIndex": 606,
     "Id": "CXOrderAlreadyClosed",
     "Text": "Заказ уже выполнен."
   },
   {
-    "RowIndex": 607,
     "Id": "CXOrderIsNotClosed",
     "Text": "Сначала нужно закрыть заказ."
   },
   {
-    "RowIndex": 608,
     "Id": "CXMarketDisabled",
     "Text": "Ранок закрыт."
   },
   {
-    "RowIndex": 609,
     "Id": "CXPendingTransactionOpen",
     "Text": "Незавершенная транзакция в процессе."
   },
   {
-    "RowIndex": 610,
     "Id": "CXPendingChangeRollback",
     "Text": "Незавершенная транзакция отменена."
   },
   {
-    "RowIndex": 611,
     "Id": "CXNoPendingCommit",
     "Text": "Незавершенных транзакций не найдено."
   },
   {
-    "RowIndex": 612,
     "Id": "CXTooManyOrders",
     "Text": "У вас слишком много заказов."
   },
   {
-    "RowIndex": 613,
     "Id": "CXQueryOrderRateLimited",
     "Text": "Вам придется подождать, прежде чем размещать дополнительные сделки."
   },
   {
-    "RowIndex": 614,
     "Id": "CXGenericQueryFailure",
     "Text": "Торговый запрос не выполнен."
   },
   {
-    "RowIndex": 615,
     "Id": "CXGenericOrderFailure",
     "Text": "Не удалось разместить заказ."
   },
   {
-    "RowIndex": 616,
     "Id": "CXCouldNotFindSellItems",
     "Text": "Не удалось найти предметы, которые вы пытаетесь продать."
   },
   {
-    "RowIndex": 617,
     "Id": "InstanceClosingSoon",
     "Text": "Эта область будет закрыта через несколько минут. Перейдите в другую область, чтобы избежать отключения."
   },
   {
-    "RowIndex": 618,
     "Id": "NotEnoughGoldStorage",
     "Text": "Вы не можете внести такое количество золота."
   },
   {
-    "RowIndex": 619,
     "Id": "AccountNotAuthorizedOnServer",
     "Text": "Данная учётная запись не имеет прав доступа к этому серверу."
   },
   {
-    "RowIndex": 620,
     "Id": "CharacterSentToVoidLeague",
     "Text": "Герой {0} (уровень 100) отправлен в Пустоту!"
   },
   {
-    "RowIndex": 621,
     "Id": "MustMigrateGarena",
     "Text": "Сначала эту учетную запись необходимо перенести с Garena на Hotcool."
   },
   {
-    "RowIndex": 622,
     "Id": "GuildLeaderCannotLeave",
     "Text": "Вы должны повысить другого члена гильдии до лидера, прежде чем сможете покинуть свою гильдию."
   },
   {
-    "RowIndex": 623,
     "Id": "NoHideoutSet",
     "Text": "У вас нет убежища."
   },
   {
-    "RowIndex": 624,
     "Id": "NotImplemented",
     "Text": "Не реализовано."
   },
   {
-    "RowIndex": 625,
     "Id": "SonyWebApiBadRequest",
     "Text": "Неправильный запрос."
   },
   {
-    "RowIndex": 626,
     "Id": "SonyWebApiNotAuthorized",
     "Text": "Нет авторизации."
   },
   {
-    "RowIndex": 627,
     "Id": "SonyWebApiForbidden",
     "Text": "Отказано в доступе."
   },
   {
-    "RowIndex": 628,
     "Id": "SonyWebApiAccessTokenExpired",
     "Text": "Время действия маркера доступа истекло."
   },
   {
-    "RowIndex": 629,
     "Id": "SonyWebApiNotPermitted",
     "Text": "Отсутствуют права для выполнения операции."
   },
   {
-    "RowIndex": 630,
     "Id": "SonyWebApiContextIdAlreadyRegistered",
     "Text": "Указанный ContextId уже используется."
   },
   {
-    "RowIndex": 631,
     "Id": "SonyWebApiServiceUnavailable",
     "Text": "Сервис недоступен."
   },
   {
-    "RowIndex": 632,
     "Id": "SonyWebApiSessionManagerAlreadyJoinedPlayerSession",
     "Text": "Вы уже состоите в этой игровой сессии."
   },
   {
-    "RowIndex": 633,
     "Id": "SonyWebApiSessionManagerPlayerSessionDoesNotExist",
     "Text": "Игровая сессия не существует."
   },
   {
-    "RowIndex": 634,
     "Id": "SonyWebApiSessionManagerBlockedUserExists",
     "Text": "В сессии состоит заблокированный пользователь."
   },
   {
-    "RowIndex": 635,
     "Id": "SonyWebApiSessionManagerNotPermittedToJoinPlayerSession",
     "Text": "Подключение к сессии не разрешено."
   },
   {
-    "RowIndex": 636,
     "Id": "SonyWebApiSessionManagerNotMemberOfSession",
     "Text": "Участник не присоединился к сессии."
   },
   {
-    "RowIndex": 637,
     "Id": "SonyWebApiSessionManagerBlocked",
     "Text": "Доступ заблокирован."
   },
   {
-    "RowIndex": 638,
     "Id": "SonyWebApiSessionManagerSessionFull",
     "Text": "Сессия заполнена."
   },
   {
-    "RowIndex": 639,
     "Id": "MapDeviceMissingRecipeRequirement",
     "Text": "Активация не удалась. Чтобы бросить вызов высвобождённому боссу, вы должны хотя бы раз победить его обычную версию."
   },
   {
-    "RowIndex": 640,
     "Id": "ReliquaryVaultKeyMissing",
     "Text": "Этот механизм заблокирован, для его открытия нужен ключ."
   },
   {
-    "RowIndex": 641,
     "Id": "MapCraftingFailedCraftNoExtraContent",
     "Text": "Активация не удалась. На эту карту нельзя добавить дополнительный контент."
   },
   {
-    "RowIndex": 642,
     "Id": "StopwatchElapsedTime",
     "Text": "Прошло времени: {0}"
   },
   {
-    "RowIndex": 643,
     "Id": "StopwatchSplitTime",
     "Text": "Текущая разница: {0}"
   },
   {
-    "RowIndex": 644,
     "Id": "AncestralTrialRosterFull",
     "Text": "Достигнут максимум воинов и полевых предметов. Чтобы приобрести новых, продайте существующих."
   },
   {
-    "RowIndex": 645,
     "Id": "AncestralTrialInventoryFull",
     "Text": "Достигнут максимум предметов снаряжения. Чтобы приобрести новые, продайте существующие."
   },
   {
-    "RowIndex": 646,
     "Id": "LeagueFirstToAncestorRank",
     "Text": "{0} — первый персонаж, достигший {1} ранга в Испытании предков!"
   },
   {
-    "RowIndex": 647,
     "Id": "AncestralTrialMatchInProgress",
     "Text": "Невозможно войти в Залы мёртвых, пока идёт Испытание предков."
   },
   {
-    "RowIndex": 648,
     "Id": "MapLethalAfterTimeBeginDeathCount",
     "Text": "Беги отсюда! Основополагающие воспоминания этого места растворяются!"
   },
   {
-    "RowIndex": 649,
     "Id": "MapLethalAfterTimeFinalCountdown",
     "Text": " {0}"
   },
   {
-    "RowIndex": 650,
     "Id": "MapLethalAfterTimeKillPlayer",
     "Text": "Это место больше не способно поддерживать жизнь. Я могу лишь надеяться, что ты уже покинула его."
   },
   {
-    "RowIndex": 651,
     "Id": "MapLethalAfterTime75Percent",
     "Text": "Как я и боялся, это не стабильная карта. Ты уже потратила четверть своего времени здесь."
   },
   {
-    "RowIndex": 652,
     "Id": "MapLethalAfterTime50Percent",
     "Text": "Целостность этой области нарушена наполовину."
   },
   {
-    "RowIndex": 653,
     "Id": "MapLethalAfterTime25Percent",
     "Text": "Время почти вышло. Осталась всего четверть!"
   },
   {
-    "RowIndex": 654,
     "Id": "MapLethalAfterTimeCompletion",
     "Text": "Угроза миновала. Теперь здесь безопасно... насколько может быть безопасно в Атласе."
   },
   {
-    "RowIndex": 655,
     "Id": "MapLethalAfterTimeEntrance",
     "Text": "Милая Зана, ты не должна оставаться в этом месте. Это больше сон, нежели реальность. Я оставлю предупреждения, какие смогу."
   },
   {
-    "RowIndex": 656,
     "Id": "MapDeviceCannotUseFragmentWithMapTier",
     "Text": "Активация не удалась. {0} нельзя применить к карте этого уровня."
   },
   {
-    "RowIndex": 657,
     "Id": "CharacterNotUsableInCouchCoop",
     "Text": "Этот персонаж не может быть использован в совместном режиме."
   },
   {
-    "RowIndex": 658,
     "Id": "ReceivedWeaponSpecialisationPoint1",
     "Text": "Вы получили очко пассивных умений для набора оружия."
   },
   {
-    "RowIndex": 659,
     "Id": "ReceivedWeaponSpecialisationPointN",
     "Text": "Вы получили {0} очка пассивных умений для набора оружия."
   },
   {
-    "RowIndex": 660,
     "Id": "DemoComplete",
     "Text": "Поздравляем, вы прошли демонстрационную версию! Спасибо за игру!"
   },
   {
-    "RowIndex": 661,
     "Id": "DemoDisconnectWarning",
     "Text": "Через 20 секунд вы вернётесь на главный экран..."
   },
   {
-    "RowIndex": 662,
     "Id": "DemoTimeUp",
     "Text": "Ваше время истекло. Спасибо за игру!"
   },
   {
-    "RowIndex": 663,
     "Id": "InteractErrorSacrificialHeart",
     "Text": "Кажется, для этого требуется какое-то сердце."
   },
   {
-    "RowIndex": 664,
     "Id": "InteractErrorSacrificialDagger",
     "Text": "Кажется, для этого требуется какой-то кинжал."
   },
   {
-    "RowIndex": 665,
     "Id": "CannotRejoinAreaAfterDeath",
     "Text": "Вы не сможете вернуться в эту область после смерти."
   },
   {
-    "RowIndex": 666,
     "Id": "INTLFailedToGetLoginInfo",
     "Text": "Не удалось получить данные для входа."
   },
   {
-    "RowIndex": 667,
     "Id": "InteractErrorDoorIsOneWay",
     "Text": "[DNT] The door does not open from this side."
   },
   {
-    "RowIndex": 668,
     "Id": "InteractErrorDoorRequiresKey1",
     "Text": "[DNT] The Martyr Relief is flecked with gold, as though it once held a golden sceptre."
   },
   {
-    "RowIndex": 669,
     "Id": "InteractErrorDoorRequiresKey2",
     "Text": "[DNT] The Painter Relief is flecked with gold, as though it once held a golden palette."
   },
   {
-    "RowIndex": 670,
     "Id": "InteractErrorDoorRequiresKey3",
     "Text": "[DNT] The Scholar relief is flecked with gold, as though it once held a golden tome."
   },
   {
-    "RowIndex": 671,
     "Id": "InteractErrorDoorRequiresKey4",
     "Text": "[DNT] The Bard relief is flecked with gold, as though it once held a golden lyre."
   },
   {
-    "RowIndex": 672,
     "Id": "InteractErrorDominusSecretPassage",
     "Text": "[DNT] The bust of Dominus is flecked with gold, as though it once wore a golden crown."
   },
   {
-    "RowIndex": 673,
     "Id": "QuestRewardConsumeMessage",
     "Text": "Удалено из инвентаря:\r\n{0}"
   },
   {
-    "RowIndex": 674,
     "Id": "CannotDisenchantEquippedItem",
     "Text": "Невозможно распылить надетый предмет."
   },
   {
-    "RowIndex": 675,
     "Id": "CrossplayRequestRejected",
     "Text": "Запрос отклонён из-за кроссплатформенных ограничений с вашей стороны."
   },
   {
-    "RowIndex": 676,
     "Id": "CrossplayRequestRejectedByCounterpart",
     "Text": "Запрос отклонён из-за кроссплатформенных ограничений со стороны партнёра."
   },
   {
-    "RowIndex": 677,
     "Id": "CrossplayRequestIgnored",
     "Text": "Входящий запрос проигнорирован из-за кроссплатформенных ограничений с вашей стороны."
   },
   {
-    "RowIndex": 678,
     "Id": "AccountMergeFailed",
     "Text": "Не удалось объединить аккаунты."
   },
   {
-    "RowIndex": 679,
     "Id": "AccountUnmergeFailed",
     "Text": "Не удалось разделить аккаунты."
   },
   {
-    "RowIndex": 680,
     "Id": "AccountNameUnavailable",
     "Text": "Данное имя аккаунта недоступно."
   },
   {
-    "RowIndex": 681,
     "Id": "NotEnoughPortalsForParty",
     "Text": "Недостаточно порталов для входа."
   }

@@ -1,3411 +1,2729 @@
 [
   {
-    "RowIndex": 0,
     "Id": "AccountNameAlreadyExists",
     "Text": "この名前のアカウントは既に存在しています。"
   },
   {
-    "RowIndex": 1,
     "Id": "AccountNameInvalid",
     "Text": "アカウント名は最低3文字でa-z、0-9、_の文字のみ使用可能です。"
   },
   {
-    "RowIndex": 2,
     "Id": "EmailInvalid",
     "Text": "不正なメールアドレスです。"
   },
   {
-    "RowIndex": 3,
     "Id": "EmailAlreadyExists",
     "Text": "このメールアドレスのアカウントは既に存在しています。"
   },
   {
-    "RowIndex": 4,
     "Id": "AccountDoesNotExist",
     "Text": "指定されたアカウントは存在していません。"
   },
   {
-    "RowIndex": 5,
     "Id": "InvalidPassword",
     "Text": "アカウントのパスワードが間違っています。"
   },
   {
-    "RowIndex": 6,
     "Id": "AlreadyLoggedOn",
     "Text": "このアカウントには既に何者かがログインしているため、処理を完了できませんでした。"
   },
   {
-    "RowIndex": 7,
     "Id": "InvalidProtocolVersion",
     "Text": "更新の必要なパッチがあります。Path of Exileを再起動してください。"
   },
   {
-    "RowIndex": 8,
     "Id": "NotAllowedGameLogin",
     "Text": "このアカウントは現在ゲームへのアクセスが停止されています。"
   },
   {
-    "RowIndex": 9,
     "Id": "OtherAccountLoggedOn",
     "Text": "何者かがこのアカウントにログインしました。"
   },
   {
-    "RowIndex": 10,
     "Id": "AccountNotLoggedIn",
     "Text": "この処理にはアカウントにログインしている必要があります。"
   },
   {
-    "RowIndex": 11,
     "Id": "Timeout",
     "Text": "処理がタイムアウトしました。"
   },
   {
-    "RowIndex": 12,
     "Id": "Disconnected",
     "Text": "サーバーから切断されました。"
   },
   {
-    "RowIndex": 13,
     "Id": "TerrainGenerationOutOfSync",
     "Text": "クライアントの地形ジェネレータがサーバーと同期していません。新しいインスタンスを作成して操作をやり直してください。"
   },
   {
-    "RowIndex": 14,
     "Id": "UnexpectedDisconnect",
     "Text": "予期せぬ切断が発生しました。"
   },
   {
-    "RowIndex": 15,
     "Id": "CharacterDoesNotExist",
     "Text": "指定されたキャラクターは存在していません。"
   },
   {
-    "RowIndex": 16,
     "Id": "NotCharacterOwner",
     "Text": "このアカウントが所有者ではないキャラクターの取得が試みられました。"
   },
   {
-    "RowIndex": 17,
     "Id": "LinkedItemDoesNotExist",
     "Text": "指定のリンクされたアイテムは存在していません。"
   },
   {
-    "RowIndex": 18,
     "Id": "DatabaseError",
     "Text": "予期せぬデータベースエラーが発生しました。操作をやり直してください。"
   },
   {
-    "RowIndex": 19,
     "Id": "TransferredToInstance",
     "Text": "アカウントは別のインスタンスに移動させられました。"
   },
   {
-    "RowIndex": 20,
     "Id": "CharacterNameAlreadyExists",
     "Text": "その名前のキャラクターは既に存在しています。"
   },
   {
-    "RowIndex": 21,
     "Id": "CharacterNameInvalid",
     "Text": "キャラクター名に不正な文字が含まれています。適正な名前には文字とアンダースコアのみ使用可能です。"
   },
   {
-    "RowIndex": 22,
     "Id": "CharacterNameTooShort",
     "Text": "キャラクター名が短すぎます。"
   },
   {
-    "RowIndex": 23,
     "Id": "CharacterNameTooLong",
     "Text": "キャラクター名が長すぎます。"
   },
   {
-    "RowIndex": 24,
     "Id": "CharacterInvalidClass",
     "Text": "不正なキャラクタークラスです。"
   },
   {
-    "RowIndex": 25,
     "Id": "LeagueDoesNotExist",
     "Text": "このリーグは存在していません。"
   },
   {
-    "RowIndex": 26,
     "Id": "InvalidCharacterFlags",
     "Text": "不正なキャラクターフラグです。"
   },
   {
-    "RowIndex": 27,
     "Id": "LeagueNameAlreadyExists",
     "Text": "この名前のリーグは既に存在しています。"
   },
   {
-    "RowIndex": 28,
     "Id": "LeagueNameInvalid",
     "Text": "不正なリーグ名です。"
   },
   {
-    "RowIndex": 29,
     "Id": "LeagueDescriptionInvalid",
     "Text": "不正なリーグ説明文です。"
   },
   {
-    "RowIndex": 30,
     "Id": "AlreadyInParty",
     "Text": "あなたが既にパーティーに参加しているため、処理を完了できませんでした。"
   },
   {
-    "RowIndex": 31,
     "Id": "NotItemOwner",
     "Text": "あなたのキャラクターはこのアイテムの所有者ではありません。"
   },
   {
-    "RowIndex": 32,
     "Id": "NotAPartyMember",
     "Text": "処理の目標がパーティーメンバーではありませんでした。"
   },
   {
-    "RowIndex": 33,
     "Id": "PartyPromotionRequired",
     "Text": "あなたはパーティーリーダーではないため、この処理を行うことはできません。"
   },
   {
-    "RowIndex": 34,
     "Id": "PartyDoesNotExist",
     "Text": "パーティーが存在していません。"
   },
   {
-    "RowIndex": 35,
     "Id": "PartyLeaderOnlyCanOpenMapPortals",
     "Text": "パーティーリーダーのみがマップポータルを開くことができます。パーティーリーダーはパーティーUIから他のプレイヤーをリーダーに昇格させることができます。"
   },
   {
-    "RowIndex": 36,
     "Id": "ServiceDoesNotExist",
     "Text": "サービスが存在していません。"
   },
   {
-    "RowIndex": 37,
     "Id": "CommandInvalid",
     "Text": "サービスがこのコマンドに対応していないか、書式が間違っています。"
   },
   {
-    "RowIndex": 38,
     "Id": "DestinationUnreachable",
     "Text": "サービスとの接触ができません。"
   },
   {
-    "RowIndex": 39,
     "Id": "NotInPartyWith",
     "Text": "あなたはこのプレイヤーとパーティーに入っている必要があります。"
   },
   {
-    "RowIndex": 40,
     "Id": "NotInParty",
     "Text": "あなたはこのパーティーに参加していません。"
   },
   {
-    "RowIndex": 41,
     "Id": "InstanceFull",
     "Text": "このインスタンスは満員です。"
   },
   {
-    "RowIndex": 42,
     "Id": "InvalidInstanceTransfer",
     "Text": "この方法でのこのインスタンスへの移動は許可されていません。"
   },
   {
-    "RowIndex": 43,
     "Id": "PortalDoesNotExist",
     "Text": "ポータルの反対側が切断されました。"
   },
   {
-    "RowIndex": 44,
     "Id": "OutOfYourLeague",
     "Text": "そのキャラクターは別のリーグにいます。"
   },
   {
-    "RowIndex": 45,
     "Id": "DownForMaintenance",
     "Text": "現在メンテナンス中です。時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 46,
     "Id": "InstanceAuthenticationInvalid",
     "Text": "あなたのインスタンス移動の認証が失敗しました。"
   },
   {
-    "RowIndex": 47,
     "Id": "PartyFull",
     "Text": "あなたのパーティーは満員です。"
   },
   {
-    "RowIndex": 48,
     "Id": "TooManyCharacters",
     "Text": "キャラクタースロットが残っていません。"
   },
   {
-    "RowIndex": 49,
     "Id": "InvalidActivationKey",
     "Text": "不正なアクティベーションキーです。"
   },
   {
-    "RowIndex": 50,
     "Id": "EmailValidationRequired",
     "Text": "このメールアドレスを使ったアカウントは既に作成されています。ログインする前にメールでアカウントを認証する必要があります。"
   },
   {
-    "RowIndex": 51,
     "Id": "MissingRequiredField",
     "Text": "全ての必須項目に記入してください。"
   },
   {
-    "RowIndex": 52,
     "Id": "InvalidArgument",
     "Text": "不正な引数です。"
   },
   {
-    "RowIndex": 53,
     "Id": "GameComplete",
     "Text": "ゲームは終了しました。"
   },
   {
-    "RowIndex": 54,
     "Id": "LeagueHasEnded",
     "Text": "リーグは終了しました。これ以上ここでキャラクターを作成することはできません。"
   },
   {
-    "RowIndex": 55,
     "Id": "LeagueClosedForEntry",
     "Text": "このリーグへの入場は終了しました。"
   },
   {
-    "RowIndex": 56,
     "Id": "AlreadyOnIgnoreList",
     "Text": "このアカウントは既にあなたのブロックリストに追加されています。"
   },
   {
-    "RowIndex": 57,
     "Id": "NotOnIgnoreList",
     "Text": "このアカウントはあなたのブロックリストに追加されていません。"
   },
   {
-    "RowIndex": 58,
     "Id": "IgnoreListFull",
     "Text": "あなたのブロックリストは満員です。"
   },
   {
-    "RowIndex": 59,
     "Id": "AddToIgnoreListFailed",
     "Text": "{0}をブロックリストに加えることができません。原因：{1}"
   },
   {
-    "RowIndex": 60,
     "Id": "AddedToIgnoreList",
     "Text": "{0}があなたのブロックリストに追加されました。"
   },
   {
-    "RowIndex": 61,
     "Id": "RemoveFromIgnoreListFailed",
     "Text": "{0}をブロックリストから削除することができません。原因：{1}"
   },
   {
-    "RowIndex": 62,
     "Id": "RemovedFromIgnoreList",
     "Text": "{0}があなたのブロックリストから削除されました。"
   },
   {
-    "RowIndex": 63,
     "Id": "FailedToClearIgnoreList",
     "Text": "ブロックリストの初期化ができません。原因：{0}"
   },
   {
-    "RowIndex": 64,
     "Id": "IgnoreListCleared",
     "Text": "あなたのブロックリストは初期化されました。"
   },
   {
-    "RowIndex": 65,
     "Id": "FailedToAddNamedFriend",
     "Text": "{0}をフレンドリストに加えることができません。原因：{1}"
   },
   {
-    "RowIndex": 66,
     "Id": "FailedToAddUnnamedFriend",
     "Text": "フレンドリストにアカウントを追加することができません。原因：{0}"
   },
   {
-    "RowIndex": 67,
     "Id": "FailedToAcceptFriend",
     "Text": "フレンドリクエストを承認することができません。原因：{0}"
   },
   {
-    "RowIndex": 68,
     "Id": "FailedToRemoveFriend",
     "Text": "フレンドを削除することができません。原因：{0}"
   },
   {
-    "RowIndex": 69,
     "Id": "TriedToFriendSelf",
     "Text": "自分をフレンドとして追加することはできません。"
   },
   {
-    "RowIndex": 70,
     "Id": "AccountBanned",
     "Text": "あなたのアカウントは管理者によって停止されました。"
   },
   {
-    "RowIndex": 71,
     "Id": "AccountChildLocked",
     "Text": "あなたのアカウントは両親によってロックされました。"
   },
   {
-    "RowIndex": 72,
     "Id": "LoginRateLimited",
     "Text": "短い期間で繰り返しのログインが試みられました。時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 73,
     "Id": "AccountLocked",
     "Text": "あなたのアカウントはロックされました。サポートに連絡してください。"
   },
   {
-    "RowIndex": 74,
     "Id": "NotAccountOwner",
     "Text": "このインスタンスはアカウントのオーナーではないためこの処理を行うことはできません。"
   },
   {
-    "RowIndex": 75,
     "Id": "TemporaryLockout",
     "Text": "あなたのアカウントは管理者が作業中の間、一時的にロックされています。"
   },
   {
-    "RowIndex": 76,
     "Id": "Kicked",
     "Text": "あなたは管理者によってサーバーから追放されました。"
   },
   {
-    "RowIndex": 77,
     "Id": "StashTabDoesNotExist",
     "Text": "指定されたスタッシュタブは存在しません。"
   },
   {
-    "RowIndex": 78,
     "Id": "LeaguePasswordInvalid",
     "Text": "このリーグのパスワードが間違っています。"
   },
   {
-    "RowIndex": 79,
     "Id": "InstanceRateLimited",
     "Text": "あなたは多くのアクションを速く行いすぎていたため追放されました。"
   },
   {
-    "RowIndex": 80,
     "Id": "FriendsListFull",
     "Text": "あなたのフレンドリストは最大数に達しています。"
   },
   {
-    "RowIndex": 81,
     "Id": "NotOnFriendsList",
     "Text": "このアカウントはあなたのフレンドリストに追加されていません。"
   },
   {
-    "RowIndex": 82,
     "Id": "AlreadyOnFriendsList",
     "Text": "このアカウントは既にあなたのフレンドリストに追加されています。"
   },
   {
-    "RowIndex": 83,
     "Id": "LeagueUnavailableToNonBeta",
     "Text": "このリーグはベータプレイヤーのみが参加可能です。"
   },
   {
-    "RowIndex": 84,
     "Id": "InstanceDoesNotExist",
     "Text": "このインスタンスは存在していません。"
   },
   {
-    "RowIndex": 85,
     "Id": "Muted",
     "Text": "ミュート中にこのアクションを行うことはできません。"
   },
   {
-    "RowIndex": 86,
     "Id": "Ignored",
     "Text": "あなたはそのプレイヤーからブロックされています。"
   },
   {
-    "RowIndex": 87,
     "Id": "PvPMatchDoesNotExist",
     "Text": "このPvPマッチの種類は存在していません。"
   },
   {
-    "RowIndex": 88,
     "Id": "ItemDoesNotExist",
     "Text": "指定されたアイテムは存在していません。"
   },
   {
-    "RowIndex": 89,
     "Id": "NeedNormalStashTab",
     "Text": "アップグレードするためには少なくとも一つの通常スタッシュタブが必要です。"
   },
   {
-    "RowIndex": 90,
     "Id": "NotEnoughCredit",
     "Text": "このアイテムを購入するためのクレジットが足りていません。"
   },
   {
-    "RowIndex": 91,
     "Id": "PackagePurchaseIncomplete",
     "Text": "購入が失敗しました。サポートに連絡してください。"
   },
   {
-    "RowIndex": 92,
     "Id": "MultiplePurchasesNotAllowed",
     "Text": "この有料アイテムは一度のみ購入可能です。"
   },
   {
-    "RowIndex": 93,
     "Id": "CantDeleteWithMicrotransactions",
     "Text": "このキャラクターのアイテムからすべてのコスメティックエフェクトを取り除いてください。これはコスメティックスタッシュから行うことができます。"
   },
   {
-    "RowIndex": 94,
     "Id": "NotEnoughRoomForItem",
     "Text": "アイテムを置く場所がありません。"
   },
   {
-    "RowIndex": 95,
     "Id": "SavedCredentialsNewLocation",
     "Text": "新しい場所からログインしています。パスワードを再入力してください。"
   },
   {
-    "RowIndex": 96,
     "Id": "SavedCredentialsBad",
     "Text": "保存された認証情報の有効期限が切れています。パスワードを再入力してください。"
   },
   {
-    "RowIndex": 97,
     "Id": "LoginRequiresUnlockCode",
     "Text": "メールからアンロックコードを入力するまでアカウントはロックされています。"
   },
   {
-    "RowIndex": 98,
     "Id": "UnlockCodeIncorrect",
     "Text": "入力したアンロックコードが間違っています。"
   },
   {
-    "RowIndex": 99,
     "Id": "UnlockEmailTooSoon",
     "Text": "最後のアカウントアンロックメールが送られてから十分な時間が経過していません。"
   },
   {
-    "RowIndex": 100,
     "Id": "DailyDealDoesNotExist",
     "Text": "割引商品は存在していません。"
   },
   {
-    "RowIndex": 101,
     "Id": "MicrotransactionDoesNotExist",
     "Text": "コスメティックアイテムは存在していません。"
   },
   {
-    "RowIndex": 102,
     "Id": "AccountNameDisallowed",
     "Text": "アカウント名が許可されていません。"
   },
   {
-    "RowIndex": 103,
     "Id": "BannedLoginIp",
     "Text": "あなたのIPはアクセスが禁止されました。これが誤りである場合、サポートに連絡してください。"
   },
   {
-    "RowIndex": 104,
     "Id": "GeneralFailure",
     "Text": "予期せぬ問題が発生しました。"
   },
   {
-    "RowIndex": 105,
     "Id": "CurrencyTradingPrevented",
     "Text": "キャラクターがレベル25に達したことのないアカウントではカレンシーやユニークアイテムを他プレイヤーと取引することができません。"
   },
   {
-    "RowIndex": 106,
     "Id": "SteamAssociateEmailSent",
     "Text": "あなたがこのアカウントを所有していることを確認するためのメールが送られました。続行するためにはメール内のリンクをクリックしてください。"
   },
   {
-    "RowIndex": 107,
     "Id": "EmailAlreadyInUse",
     "Text": "このメールアドレスはすでにPath of Exileアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 108,
     "Id": "AccountAlreadyHasEmail",
     "Text": "このアカウントはすでにメールアドレスと紐づけられています。"
   },
   {
-    "RowIndex": 109,
     "Id": "NoAssociatedEmail",
     "Text": "このアカウントはメールアドレスと紐づけられていません。"
   },
   {
-    "RowIndex": 110,
     "Id": "SteamIdAlreadyInUse",
     "Text": "このSteamアカウントはすでにPath of Exileアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 111,
     "Id": "AccountAlreadyHasSteam",
     "Text": "このアカウントはすでにSteamアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 112,
     "Id": "NoAssociatedSteamId",
     "Text": "このアカウントはSteamアカウントと紐づけられていません。"
   },
   {
-    "RowIndex": 113,
     "Id": "EpicIdAlreadyInUse",
     "Text": "このEpicアカウントはすでにPath of Exileアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 114,
     "Id": "AccountAlreadyHasEpic",
     "Text": "このアカウントはすでにEpicアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 115,
     "Id": "NoAssociatedEpicId",
     "Text": "このアカウントはEpicアカウントと紐づけられていません。"
   },
   {
-    "RowIndex": 116,
     "Id": "KakaoIdAlreadyInUse",
     "Text": "このKakaoアカウントはすでにPath of Exileアカウントと紐付けられています。"
   },
   {
-    "RowIndex": 117,
     "Id": "AccountAlreadyHasKakao",
     "Text": "このアカウントはすでにKakaoアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 118,
     "Id": "NoAssociatedKakaoId",
     "Text": "このアカウントはKakaoアカウントと紐づけられていません。"
   },
   {
-    "RowIndex": 119,
     "Id": "SonyIdAlreadyInUse",
     "Text": "このSonyアカウントはすでにPath of Exileアカウントと紐付けられています。"
   },
   {
-    "RowIndex": 120,
     "Id": "AccountAlreadyHasSony",
     "Text": "このアカウントはすでにSonyアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 121,
     "Id": "NoAssociatedSonyId",
     "Text": "このアカウントはSonyアカウントと紐づけられていません。"
   },
   {
-    "RowIndex": 122,
     "Id": "XboxIdAlreadyInUse",
     "Text": "このXboxアカウントはすでにPath of Exileアカウントと紐付けられています。"
   },
   {
-    "RowIndex": 123,
     "Id": "AccountAlreadyHasXbox",
     "Text": "このアカウントはすでにXboxアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 124,
     "Id": "NoAssociatedXboxId",
     "Text": "このアカウントはXboxアカウントと紐づけられていません。"
   },
   {
-    "RowIndex": 125,
     "Id": "QqNumberAlreadyInUse",
     "Text": "このWeGameアカウントはすでにPath of Exileアカウントと紐付けられています。"
   },
   {
-    "RowIndex": 126,
     "Id": "AccountAlreadyHasQq",
     "Text": "このアカウントはすでにWeGameアカウントと紐づけられています。"
   },
   {
-    "RowIndex": 127,
     "Id": "NoAssociatedQqNumber",
     "Text": "このアカウントはWeGameアカウントと紐づけられていません。"
   },
   {
-    "RowIndex": 128,
     "Id": "MapDeviceBusy",
     "Text": "起動に失敗。デバイスの応答がありません。"
   },
   {
-    "RowIndex": 129,
     "Id": "MapDeviceTooManyItems",
     "Text": "起動に失敗。"
   },
   {
-    "RowIndex": 130,
     "Id": "MapDeviceTooManyItemsSound",
     "Text": "起動に失敗。どこかから音が聞こえて来る。"
   },
   {
-    "RowIndex": 131,
     "Id": "MapDeviceNotMap",
     "Text": "起動に失敗。マップデバイスにマップがありません。"
   },
   {
-    "RowIndex": 132,
     "Id": "MapDeviceCreateInstanceFailed",
     "Text": "起動に失敗。そのエリアへのポータルを開けません。"
   },
   {
-    "RowIndex": 133,
     "Id": "MapDeviceCancelled",
     "Text": "起動がキャンセルされました。"
   },
   {
-    "RowIndex": 134,
     "Id": "MapDeviceEmpty",
     "Text": "起動に失敗。このデバイスにはマップが必要です。"
   },
   {
-    "RowIndex": 135,
     "Id": "PlayerDisconnected",
     "Text": "{0}がエリアから退場しました。"
   },
   {
-    "RowIndex": 136,
     "Id": "PlayerJoined",
     "Text": "{0}がエリアに参加しました。"
   },
   {
-    "RowIndex": 137,
     "Id": "EnteredArea",
     "Text": "あなたは{0}に入場しました。"
   },
   {
-    "RowIndex": 138,
     "Id": "LeagueNotYetStarted",
     "Text": "リーグが開始されていないため、動くことができません。リーグが始まると動けるようになります。"
   },
   {
-    "RowIndex": 139,
     "Id": "LeagueAlreadyEnded",
     "Text": "このリーグは既に終了しました。"
   },
   {
-    "RowIndex": 140,
     "Id": "LadderRankAlive",
     "Text": "{1}. {0} レベル {2} {3} 経験値：{4}"
   },
   {
-    "RowIndex": 141,
     "Id": "LadderRankDead",
     "Text": "{1}. {0} （死亡） レベル {2} {3} 経験値：{4}"
   },
   {
-    "RowIndex": 142,
     "Id": "LadderRankTimed",
     "Text": "{1}. {0} レベル {2} {3}  時間：{4}"
   },
   {
-    "RowIndex": 143,
     "Id": "LevelUp",
     "Text": "{0} （{1}）はレベル{2}になりました"
   },
   {
-    "RowIndex": 144,
     "Id": "AlreadyInPVPQueue",
     "Text": "先にPvPの待機状態をキャンセルしてください。"
   },
   {
-    "RowIndex": 145,
     "Id": "MissingRequiredQuestState",
     "Text": "必要なクエスト状態がありません。"
   },
   {
-    "RowIndex": 146,
     "Id": "FailedToJoinAnyInstances",
     "Text": "エラー：どのインスタンスにも参加することができませんでした。"
   },
   {
-    "RowIndex": 147,
     "Id": "FailedToJoinInstance",
     "Text": "エラー：インスタンスへの参加に失敗しました。原因：{0}"
   },
   {
-    "RowIndex": 148,
     "Id": "FailedToConnectToInstance",
     "Text": "インスタンスへの接続に失敗しました"
   },
   {
-    "RowIndex": 149,
     "Id": "FailedToApplyCurrency",
     "Text": "アイテムの適用に失敗しました：{0}"
   },
   {
-    "RowIndex": 150,
     "Id": "TooManyGlobalItemLinks",
     "Text": "グローバルチャットで{0}個を超えるアイテムを送信することはできません。"
   },
   {
-    "RowIndex": 151,
     "Id": "MutedUntilSeconds",
     "Text": "あなたのアカウントはGMによりミュートされました。話せるようになるまで{0}。"
   },
   {
-    "RowIndex": 152,
     "Id": "MutedUntilSecondsConsole",
     "Text": "あなたのアカウントはGMによりミュートされました。話せるようになるまで{0}。この件に関してご意見があれば、ウェブサイト経由で「サポート」へメッセージを送信してください。"
   },
   {
-    "RowIndex": 153,
     "Id": "ObaPlayerJoined",
     "Text": "我が宝を盗み生きて帰れると考えているとは、勇敢なのか、愚かなのか。いずれにせよ、称賛を贈ろう！"
   },
   {
-    "RowIndex": 154,
     "Id": "ObaDoorUnlocked",
     "Text": "進め、追放者よ。拾えるものを拾っておくがいい。拾えるうちにな。"
   },
   {
-    "RowIndex": 155,
     "Id": "ObaBeginDeathCount",
     "Text": "腐敗が広がっている。急げ、私のように飲み込まれる前にな。"
   },
   {
-    "RowIndex": 156,
     "Id": "ObaFinalCountdown",
     "Text": "{0}"
   },
   {
-    "RowIndex": 157,
     "Id": "ObaKillPlayer",
     "Text": "ふん！貴様は我が宝を持つに値しない。死んで腐敗に喰われるがいい。"
   },
   {
-    "RowIndex": 158,
     "Id": "Oba75PercentOxygen",
     "Text": "ナイトメアは貴様の匂いを覚えたぞ。貴様の肉を喰いたがっている。"
   },
   {
-    "RowIndex": 159,
     "Id": "Oba50PercentOxygen",
     "Text": "追放者よ、もう半分か？それともまだ半分か？"
   },
   {
-    "RowIndex": 160,
     "Id": "Oba25PercentOxygen",
     "Text": "残念だ。結局貴様も腐敗にやられてしまうようだな。"
   },
   {
-    "RowIndex": 161,
     "Id": "CowardsTrialNextWave",
     "Text": "嫌な予感のする闇だ…"
   },
   {
-    "RowIndex": 162,
     "Id": "CowardsTrialRoomClear",
     "Text": "部屋は静まり返る…"
   },
   {
-    "RowIndex": 163,
     "Id": "CowardsTrialLevelClear",
     "Text": "重苦しい雰囲気が次第に霧散して行く…"
   },
   {
-    "RowIndex": 164,
     "Id": "VaalKillOversoul",
     "Text": "ヴァールオーバーソウルを倒す必要があります。"
   },
   {
-    "RowIndex": 165,
     "Id": "VaalDeliverAmulets",
     "Text": "盗賊達のアミュレットをエラミールに渡し、エイペックスを手に入れる必要があります。"
   },
   {
-    "RowIndex": 166,
     "Id": "VaalAcquireAmulets",
     "Text": "盗賊の長達のアミュレットを手に入れる必要があります。"
   },
   {
-    "RowIndex": 167,
     "Id": "VaalGetApexDex",
     "Text": "クレイティンからエイペックスを手に入れる必要があります。"
   },
   {
-    "RowIndex": 168,
     "Id": "VaalGetApexStr",
     "Text": "オークからエイペックスを手に入れる必要があります。"
   },
   {
-    "RowIndex": 169,
     "Id": "VaalGetApexInt",
     "Text": "アリーラからエイペックスを手に入れる必要があります。"
   },
   {
-    "RowIndex": 170,
     "Id": "VaalGetApexTown",
     "Text": "エラミールからエイペックスを手に入れる必要があります。"
   },
   {
-    "RowIndex": 171,
     "Id": "MonsterRemaining1",
     "Text": "モンスター残り1体。"
   },
   {
-    "RowIndex": 172,
     "Id": "MonstersRemainingN",
     "Text": "モンスター残り{0}体。"
   },
   {
-    "RowIndex": 173,
     "Id": "MonstersRemainingMoreThan50",
     "Text": "モンスター残り50体以上。"
   },
   {
-    "RowIndex": 174,
     "Id": "PlayerDeathCount1",
     "Text": "あなたは1回死亡しています。"
   },
   {
-    "RowIndex": 175,
     "Id": "PlayerDeathCountN",
     "Text": "あなたは{0}回死亡しています。"
   },
   {
-    "RowIndex": 176,
     "Id": "PlayerKillCountN",
     "Text": "あなたは{0}体のモンスターを倒しました。"
   },
   {
-    "RowIndex": 177,
     "Id": "PvPStats1v1",
     "Text": "1v1 勝/負/分：{0}/{1}/{2}"
   },
   {
-    "RowIndex": 178,
     "Id": "PvPStats3v3",
     "Text": "3v3 勝/負/分：{0}/{1}/{2}"
   },
   {
-    "RowIndex": 179,
     "Id": "PvPPlayerJoinedTeam",
     "Text": "{0}が{1}チームに加わりました。"
   },
   {
-    "RowIndex": 180,
     "Id": "PvPNotEnoughPlayers",
     "Text": "試合の開始に失敗しました。プレイヤー人数が足りませんでした。"
   },
   {
-    "RowIndex": 181,
     "Id": "PvPPlayerKilled",
     "Text": "{0}が{1}によって倒されました。"
   },
   {
-    "RowIndex": 182,
     "Id": "PvPPartyTooLarge",
     "Text": "PvPに参加することができません：この種類のPvPに参加するにはパーティーメンバーが多すぎます。"
   },
   {
-    "RowIndex": 183,
     "Id": "PvPPlayerAlreadyInQueue",
     "Text": "PvPに参加することができません：既にPvPの待機状態です。"
   },
   {
-    "RowIndex": 184,
     "Id": "PvPPartyMemberAlreadyInQueue",
     "Text": "PvPに参加することができません：パーティーメンバーが既にPvPの待機状態です。"
   },
   {
-    "RowIndex": 185,
     "Id": "PvPPlayerTooFarQuest",
     "Text": "PvPに参加することができません：この種類のPvPのクエスト上限を超えています。"
   },
   {
-    "RowIndex": 186,
     "Id": "PvPPartyMemberTooFarQuest",
     "Text": "PvPに参加することができません：パーティーメンバーがこの種類のPvPのクエスト上限を超えています。"
   },
   {
-    "RowIndex": 187,
     "Id": "PvPPlayerTooHighLevel",
     "Text": "PvPに参加することができません：この種類のPvPのレベル上限を超えています。"
   },
   {
-    "RowIndex": 188,
     "Id": "PvPPartyMemberTooHighLevel",
     "Text": "PvPに参加することができません：パーティーメンバーがこの種類のPvPのレベル上限を超えています。"
   },
   {
-    "RowIndex": 189,
     "Id": "PvPPlayerHasAscendancy",
     "Text": "PvPに参加することができません：あなたはアセンダンシークラスを選択しており、この種類のPvPに参加することができません。"
   },
   {
-    "RowIndex": 190,
     "Id": "PvPPartyMemberHasAscendancy",
     "Text": "PvPに参加することができません：パーティーメンバーはアセンダンシークラスを選択しており、この種類のPvPに参加することができません。"
   },
   {
-    "RowIndex": 191,
     "Id": "PvPJoinFail",
     "Text": "PvPの参加に待機することができません。原因：{0}"
   },
   {
-    "RowIndex": 192,
     "Id": "PvPQueueCancelled",
     "Text": "PvPの待機状態がキャンセルされました。"
   },
   {
-    "RowIndex": 193,
     "Id": "PvPQueueCancelledBy",
     "Text": "PvPの待機状態が{0}によりキャンセルされました。"
   },
   {
-    "RowIndex": 194,
     "Id": "PvPMatchListUnreachable",
     "Text": "PvPのマッチリストの取得に失敗しました。原因：{0}"
   },
   {
-    "RowIndex": 195,
     "Id": "PvPDisabled",
     "Text": "ここではPvPを行うことはできません。"
   },
   {
-    "RowIndex": 196,
     "Id": "PlayerSuicide",
     "Text": "{0}が自殺しました。"
   },
   {
-    "RowIndex": 197,
     "Id": "PlayerSlain",
     "Text": "{0}が死亡しました。"
   },
   {
-    "RowIndex": 198,
     "Id": "NoCharacterSpecified",
     "Text": "キャラクター名を指定してください。"
   },
   {
-    "RowIndex": 199,
     "Id": "WhoIsOffline",
     "Text": "{0}は{1}リーグのレベル{2} {3} で、現在オンラインではありません。"
   },
   {
-    "RowIndex": 200,
     "Id": "WhoIsOnline",
     "Text": "{0}は{1}リーグのレベル{2} {3} で、現在{4}でプレイ中です。"
   },
   {
-    "RowIndex": 201,
     "Id": "ItemOnCursorLevel",
     "Text": "カーソルのアイテムはレベル{0}です。"
   },
   {
-    "RowIndex": 202,
     "Id": "NoItemOnCursor",
     "Text": "カーソルにアイテムはありません。"
   },
   {
-    "RowIndex": 203,
     "Id": "ItemOnCursorHasNoLevel",
     "Text": "カーソルのアイテムにはレベルがありません（モッドを得られるものである必要があります）。"
   },
   {
-    "RowIndex": 204,
     "Id": "FixMyHelmetSuccess",
     "Text": "ヘルメットが更新されました。"
   },
   {
-    "RowIndex": 205,
     "Id": "OperationFailed",
     "Text": "操作が失敗しました。"
   },
   {
-    "RowIndex": 206,
     "Id": "FixMyHelmetAlreadyFixed",
     "Text": "その兜は既に適切な見た目になっています。"
   },
   {
-    "RowIndex": 207,
     "Id": "FixMyHelmetUnique",
     "Text": "カーソルの兜はユニークです。"
   },
   {
-    "RowIndex": 208,
     "Id": "FixMyHelmetNotHelmet",
     "Text": "カーソルのアイテムは兜ではありません。"
   },
   {
-    "RowIndex": 209,
     "Id": "ItemHasMicrotransaction",
     "Text": "コスメティックエフェクトのついたアイテムにこの操作を行うことはできません。コスメティックエフェクトを外し、やり直してください。"
   },
   {
-    "RowIndex": 210,
     "Id": "BugReportNumber",
     "Text": "あなたのバグレポート参照番号は{0}です。"
   },
   {
-    "RowIndex": 211,
     "Id": "PlayedTime",
     "Text": "あなたのプレイ時間は{0}です。"
   },
   {
-    "RowIndex": 212,
     "Id": "CharacterAge",
     "Text": "あなたのキャラクターは{0}前に作成されました。"
   },
   {
-    "RowIndex": 213,
     "Id": "CharacterAgeUnknown",
     "Text": "あなたのキャラクターの作成時間の記録はありません。"
   },
   {
-    "RowIndex": 214,
     "Id": "HelpCtrlClick",
     "Text": "新しいエリアインスタンスを作るには、エリアの入り口やウェイポイントをctrl+クリックします。"
   },
   {
-    "RowIndex": 215,
     "Id": "ReceivedRespecPoint1",
     "Text": "パッシブ振り直しポイントを獲得しました。"
   },
   {
-    "RowIndex": 216,
     "Id": "ReceivedRespecPointN",
     "Text": "{0}点のパッシブ振り直しポイントを獲得しました。"
   },
   {
-    "RowIndex": 217,
     "Id": "ReceivedPassivePoint1",
     "Text": "パッシブポイントを獲得しました。"
   },
   {
-    "RowIndex": 218,
     "Id": "ReceivedPassivePointN",
     "Text": "{0}点のパッシブポイントを獲得しました。"
   },
   {
-    "RowIndex": 219,
     "Id": "ReceivedStatBonus",
     "Text": "{0}を獲得しました。"
   },
   {
-    "RowIndex": 220,
     "Id": "LeagueTradeDisabled",
     "Text": "このリーグで取引を行うことはできません。"
   },
   {
-    "RowIndex": 221,
     "Id": "TradeItemOnCursor",
     "Text": "カーソルにアイテムがある状態で取引を行うことはできません。"
   },
   {
-    "RowIndex": 222,
     "Id": "TradePlayerBusy",
     "Text": "そのプレイヤーは現在取り込み中です。"
   },
   {
-    "RowIndex": 223,
     "Id": "TradeAccepted",
     "Text": "取引が実行されました。"
   },
   {
-    "RowIndex": 224,
     "Id": "TradeCancelled",
     "Text": "取引がキャンセルされました。"
   },
   {
-    "RowIndex": 225,
     "Id": "YouWereIgnored",
     "Text": "そのプレイヤーはあなたをブロックしています。"
   },
   {
-    "RowIndex": 226,
     "Id": "AchievementServerUnreachable",
     "Text": "エラー：実績サーバーに接続できません。"
   },
   {
-    "RowIndex": 227,
     "Id": "DestroyCursorItem",
     "Text": "カーソルのアイテムが破壊されました。"
   },
   {
-    "RowIndex": 228,
     "Id": "DestroyItemInTrade",
     "Text": "取引中にアイテムを破壊することはできません。"
   },
   {
-    "RowIndex": 229,
     "Id": "DestroyQuestItem",
     "Text": "クエストアイテムを破壊することはできません。"
   },
   {
-    "RowIndex": 230,
     "Id": "DestroyMicrotransactions",
     "Text": "コスメティックエフェクトのついたアイテムを破壊することはできません。"
   },
   {
-    "RowIndex": 231,
     "Id": "DestroyBanditRespec",
     "Text": "このアイテムは破壊できませんが、NPCに売却し返金してもらうことができます。"
   },
   {
-    "RowIndex": 232,
     "Id": "CannotCreatePublicPartyYet",
     "Text": "パブリックパーティーを作るには最初の町に辿り着く必要があります。"
   },
   {
-    "RowIndex": 233,
     "Id": "PublicPartyListUnreachable",
     "Text": "パブリックパーティーリストの取得ができません。原因：{0}"
   },
   {
-    "RowIndex": 234,
     "Id": "FullPassiveSkillRefund",
     "Text": "パッシブスキルがリセットされました。"
   },
   {
-    "RowIndex": 235,
     "Id": "FullAtlasPassiveSkillRefund",
     "Text": "アトラスパッシブスキルがリセットされました。"
   },
   {
-    "RowIndex": 236,
     "Id": "TeleportFailed",
     "Text": "テレポート失敗：プレイヤーを目的地に配置できませんでした。"
   },
   {
-    "RowIndex": 237,
     "Id": "TutorialShowItems",
     "Text": "Alt押下で地面のアイテムを表示。"
   },
   {
-    "RowIndex": 238,
     "Id": "FinishedDescent",
     "Text": "おめでとうございます！あなたはディセントを攻略しました！"
   },
   {
-    "RowIndex": 239,
     "Id": "JoinedGlobalChannel",
     "Text": "あなたはグローバルチャットチャンネル {1} {0} に参加しました。"
   },
   {
-    "RowIndex": 240,
     "Id": "JoinedTradeChannel",
     "Text": "あなたは取引用チャットチャンネル {1} {0} に参加しました。"
   },
   {
-    "RowIndex": 241,
     "Id": "ShopPackageDoesNotExist",
     "Text": "ショップパッケージが存在しません。"
   },
   {
-    "RowIndex": 242,
     "Id": "ShopPackagePurchaseFailed",
     "Text": "パッケージの購入に失敗しました。"
   },
   {
-    "RowIndex": 243,
     "Id": "ShopPackageTransactionDoesNotExist",
     "Text": "ショップトランズアクションが存在しません。"
   },
   {
-    "RowIndex": 244,
     "Id": "DownForMaintenanceTemp",
     "Text": "あなたのいたサーバーはメンテナンスのために停止されました。再度ログインしてください。"
   },
   {
-    "RowIndex": 245,
     "Id": "GuildNameTooLong",
     "Text": "ギルド名が長すぎます。"
   },
   {
-    "RowIndex": 246,
     "Id": "GuildTagTooLong",
     "Text": "ギルドタグが長すぎます。"
   },
   {
-    "RowIndex": 247,
     "Id": "AccountAlreadyInGuild",
     "Text": "このアカウントは既にギルドに参加しています。"
   },
   {
-    "RowIndex": 248,
     "Id": "GuildDoesNotExist",
     "Text": "指定したギルドは見つかりませんでした。"
   },
   {
-    "RowIndex": 249,
     "Id": "GuildMustBeOfficer",
     "Text": "この操作を実行するにはギルド幹部かリーダーである必要があります。"
   },
   {
-    "RowIndex": 250,
     "Id": "NotInGuild",
     "Text": "このアカウントはこのギルドのメンバーではありません。"
   },
   {
-    "RowIndex": 251,
     "Id": "GuildFull",
     "Text": "このギルドは満員でメンバーを追加することはできません。"
   },
   {
-    "RowIndex": 252,
     "Id": "GuildMustBeLeader",
     "Text": "この操作を実行するにはギルドリーダーである必要があります。"
   },
   {
-    "RowIndex": 253,
     "Id": "DisallowedOnSelf",
     "Text": "自分にこの操作を行うことはできません。"
   },
   {
-    "RowIndex": 254,
     "Id": "TooManyGuildInvites",
     "Text": "このキャラクターに招待を送ることのできるギルドが上限に達しています。"
   },
   {
-    "RowIndex": 255,
     "Id": "GuildStatusMessageTooLong",
     "Text": "ギルドステータスメッセージが長すぎます。"
   },
   {
-    "RowIndex": 256,
     "Id": "NotEnoughPointsForTransaction",
     "Text": "このトランズアクションを行うためのポイントが足りません。"
   },
   {
-    "RowIndex": 257,
     "Id": "GuildMustBeMember",
     "Text": "この操作を行うにはギルドメンバーである必要があります。"
   },
   {
-    "RowIndex": 258,
     "Id": "RemoteStashAlreadyLocked",
     "Text": "リモートスタッシュは既にロックされています。少し時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 259,
     "Id": "RemoteStashOperationRequiresLock",
     "Text": "この操作が完了できる前にリモートスタッシュにロックが必要です。"
   },
   {
-    "RowIndex": 260,
     "Id": "BadGuildStashPermissions",
     "Text": "ギルドスタッシュにこの操作を行う権限がありません。"
   },
   {
-    "RowIndex": 261,
     "Id": "MaximumGuildSlots",
     "Text": "これ以上ギルドスロットを追加することはできません。"
   },
   {
-    "RowIndex": 262,
     "Id": "GuildTagTooShort",
     "Text": "ギルドタグは3文字以上である必要があります。"
   },
   {
-    "RowIndex": 263,
     "Id": "GuildKickDisabledForAccount",
     "Text": "このアカウントは最近有料クレジットをギフトしているため、このアカウントをギルドから追放することはできません。"
   },
   {
-    "RowIndex": 264,
     "Id": "FriendNoteTooLong",
     "Text": "フレンドノートが長すぎます。"
   },
   {
-    "RowIndex": 265,
     "Id": "TooHighLevelForCap",
     "Text": "このエリアのレベル上限は{0}です。"
   },
   {
-    "RowIndex": 266,
     "Id": "PlayerWins",
     "Text": "{0}の勝利！"
   },
   {
-    "RowIndex": 267,
     "Id": "TooLowLevelToSendWhisper",
     "Text": "ウィスパーを行うにはレベル{0}以上必要です。"
   },
   {
-    "RowIndex": 268,
     "Id": "TooLowLevelToSendChat",
     "Text": "チャットで話すにはレベル{1}以上必要です。"
   },
   {
-    "RowIndex": 269,
     "Id": "ReachedRegularChatLimit",
     "Text": "次のチャットメッセージを送る前に時間を置いてください。"
   },
   {
-    "RowIndex": 270,
     "Id": "ReachedTradeChatLimit",
     "Text": "トレードチャットで次のメッセージを送る前に時間を置いてください。"
   },
   {
-    "RowIndex": 271,
     "Id": "PortalEffectChanged",
     "Text": "あなたのキャラクターは{0}を使用します。"
   },
   {
-    "RowIndex": 272,
     "Id": "PortraitFrameChanged",
     "Text": "あなたのキャラクターは{0}を使用します。変更を有効にするには一度ログアウトし、再ログインする必要があります。"
   },
   {
-    "RowIndex": 273,
     "Id": "CharacterPortraitChanged",
     "Text": "あなたのキャラクターは{0}を使用します。変更を有効にするには一度ログアウトし、再ログインする必要があります。"
   },
   {
-    "RowIndex": 274,
     "Id": "NoHideout",
     "Text": "このプレイヤーはこのリーグに隠れ家を持っていません。"
   },
   {
-    "RowIndex": 275,
     "Id": "FailedToUseItem",
     "Text": "アイテムの使用に失敗：{0}"
   },
   {
-    "RowIndex": 276,
     "Id": "ObaCompleted",
     "Text": "ハハ！お前は実に強い冒険者のようだ。私が与えた物を使い、我が遺産をレイクラスト中に広めるがいい。"
   },
   {
-    "RowIndex": 277,
     "Id": "ArenaScoreTitle",
     "Text": "現在のランキング：（キル/デス）"
   },
   {
-    "RowIndex": 278,
     "Id": "ArenaScore",
     "Text": "{1}: {0} ({2}/{3})"
   },
   {
-    "RowIndex": 279,
     "Id": "LostPassivePoint1",
     "Text": "1点のパッシブポイントを失いました。"
   },
   {
-    "RowIndex": 280,
     "Id": "LostPassivePointN",
     "Text": "{0}点のパッシブポイントを失いました。"
   },
   {
-    "RowIndex": 281,
     "Id": "LostStatBonus",
     "Text": "{0}を失いました。"
   },
   {
-    "RowIndex": 282,
     "Id": "FFALadderUpdate",
     "Text": "あなたは現在闘技場で{0}位です。"
   },
   {
-    "RowIndex": 283,
     "Id": "CraftingFailed",
     "Text": "クラフト失敗：{0}"
   },
   {
-    "RowIndex": 284,
     "Id": "SpectatorJoined",
     "Text": "{0}が観戦を始めました。"
   },
   {
-    "RowIndex": 285,
     "Id": "LeagueStartingSoonGlobal",
     "Text": "次のレースイベントが{1}後に開始されます。参加するにはキャラクター選択画面に行き、\"{0}\"リーグの参加ボタンをクリックしてください。このイベントに関する情報はイベント/リーグ掲示板で入手できます。"
   },
   {
-    "RowIndex": 286,
     "Id": "LeagueStartingSoonLocal",
     "Text": "このリーグは{0}後に開始されます。"
   },
   {
-    "RowIndex": 287,
     "Id": "LeagueStartingNow",
     "Text": "このリーグは開始されました！"
   },
   {
-    "RowIndex": 288,
     "Id": "LeagueEndingMinutes",
     "Text": "このリーグは{0}後に終了します。"
   },
   {
-    "RowIndex": 289,
     "Id": "LeagueFinished",
     "Text": "このリーグは終了しました！"
   },
   {
-    "RowIndex": 290,
     "Id": "LeagueFirstToReachLevel",
     "Text": "初めてレベル{1}に到達したキャラクターは{0}です！"
   },
   {
-    "RowIndex": 291,
     "Id": "LeagueFirstToEnterArea",
     "Text": "初めて{1}に入ったキャラクターは{0}です！"
   },
   {
-    "RowIndex": 292,
     "Id": "LeagueFirstToEnterDelveLevelSolo",
     "Text": "初めてソロデルヴで深さ{1}に到達したキャラクターは{0}です！"
   },
   {
-    "RowIndex": 293,
     "Id": "LeagueFirstToEnterDelveLevelParty",
     "Text": "初めてデルヴで深さ{1}に到達したキャラクターは{0}です！"
   },
   {
-    "RowIndex": 294,
     "Id": "LeagueFirstToFullyClear",
     "Text": "初めて{1}を完全に攻略したキャラクターは{0}です！"
   },
   {
-    "RowIndex": 295,
     "Id": "LeagueFirstToDoQuest",
     "Text": "{0}は初めて{1}をしたキャラクターです！"
   },
   {
-    "RowIndex": 296,
     "Id": "RealmRestartingSoon",
     "Text": "レルムは{0}後に再起動します。"
   },
   {
-    "RowIndex": 297,
     "Id": "RealmShuttingDownSown",
     "Text": "レルムは{0}後にシャットダウンします。"
   },
   {
-    "RowIndex": 298,
     "Id": "RealmRestarting",
     "Text": "レルム再起動開始…"
   },
   {
-    "RowIndex": 299,
     "Id": "RealmShuttingDown",
     "Text": "レルムシャットダウン開始…"
   },
   {
-    "RowIndex": 300,
     "Id": "RealmRestartDeployPatchNotification",
     "Text": "{0}アップデートを適用するため、レルムを再起動します。パッチノートはパッチノート掲示板をご確認ください。レルムの停止時間は{2}ほどとなります。{1}"
   },
   {
-    "RowIndex": 301,
     "Id": "RealmMaintenanceNotification",
     "Text": "メンテナンスのためにレルムをシャットダウンします。停止時間は{1}ほどとなります。{0}"
   },
   {
-    "RowIndex": 302,
     "Id": "CharacterOffline",
     "Text": "そのキャラクターはオンラインではありません。"
   },
   {
-    "RowIndex": 303,
     "Id": "CharacterNameOffline",
     "Text": "{0}はオンラインではありません。"
   },
   {
-    "RowIndex": 304,
     "Id": "CharacterDifferentLeague",
     "Text": "そのキャラクターは違うリーグに参加しています。"
   },
   {
-    "RowIndex": 305,
     "Id": "NotMutualFriends",
     "Text": "そのアカウントはあなたのフレンド申請を許可していません。"
   },
   {
-    "RowIndex": 306,
     "Id": "CharacterNotInPvP",
     "Text": "そのキャラクターは現在PvPを遊んでいません。"
   },
   {
-    "RowIndex": 307,
     "Id": "SpectateFollow",
     "Text": "そのアカウントの観戦をする順番待ちに並びました。"
   },
   {
-    "RowIndex": 308,
     "Id": "HideoutDoodadLimitReached",
     "Text": "隠れ家に物が置けません。隠れ家には最大750個までしか物を置くことが出来ません。"
   },
   {
-    "RowIndex": 309,
     "Id": "HardcoreDeathAnnouncement",
     "Text": "{0} （レベル{1}）はラダーの{2}位で死亡しました。"
   },
   {
-    "RowIndex": 310,
     "Id": "InteractErrorIncaBossSpawner",
     "Text": "三角形の鍵が必要なようです。"
   },
   {
-    "RowIndex": 311,
     "Id": "InteractErrorMalachaiPortal",
     "Text": "あなたはマラカイを倒していないか、マラカイが倒された時にそのエリアにいませんでした。"
   },
   {
-    "RowIndex": 312,
     "Id": "InteractErrorMervielExit",
     "Text": "あなたはメルヴェーユを倒していないか、倒した時にそのエリアにいませんでした。"
   },
   {
-    "RowIndex": 313,
     "Id": "InteractErrorHillockGate",
     "Text": "先にヒロックを倒す必要があります。"
   },
   {
-    "RowIndex": 314,
     "Id": "InteractErrorTowerTransition",
     "Text": "あなたはドミナスを倒していないか、倒した時にそのエリアにいませんでした。"
   },
   {
-    "RowIndex": 315,
     "Id": "InteractErrorMineEntranceSeal",
     "Text": "鉱山への入り口はデシュレットの封印により塞がれています。"
   },
   {
-    "RowIndex": 316,
     "Id": "InteractErrorLockedDoor",
     "Text": "扉は鍵がかかっています。"
   },
   {
-    "RowIndex": 317,
     "Id": "InteractErrorTowerKey",
     "Text": "扉を開くために塔の鍵が使われていません。"
   },
   {
-    "RowIndex": 318,
     "Id": "InteractErrorPoisonTree",
     "Text": "木の根が道を塞いでいます。\r\n後で開くことができるかもしれません。"
   },
   {
-    "RowIndex": 319,
     "Id": "InteractErrorUndyingBlockage",
     "Text": "道が塞がれています。"
   },
   {
-    "RowIndex": 320,
     "Id": "InteractErrorLocked",
     "Text": "鍵がかかっています。"
   },
   {
-    "RowIndex": 321,
     "Id": "InteractErrorBlockageTransition",
     "Text": "道が塞がれています。"
   },
   {
-    "RowIndex": 322,
     "Id": "InteractErrorSpikeBlockage",
     "Text": "何らかの鍵が必要なようです。"
   },
   {
-    "RowIndex": 323,
     "Id": "InteractErrorGlyphWall",
     "Text": "この壁は、３つの変わった形の物が必要なようです。"
   },
   {
-    "RowIndex": 324,
     "Id": "InteractErrorWaterCave",
     "Text": "まずは水位を下げる方法を見つけなければなりません。"
   },
   {
-    "RowIndex": 325,
     "Id": "InteractErrorNotYourCraftingTable",
     "Text": "他人のクラフトベンチを使用することはできません。"
   },
   {
-    "RowIndex": 326,
     "Id": "InteractErrorNotYourMapDevice",
     "Text": "他人のマップデバイスを使用することはできません。"
   },
   {
-    "RowIndex": 327,
     "Id": "InteractErrorCoreTransition",
     "Text": "ブラックコアに入るには、マラカイの守護者3人全てを倒す必要があります。"
   },
   {
-    "RowIndex": 328,
     "Id": "InteractErrorCoreTransitionOrgans",
     "Text": "ブラックコアに入るには、マラカイの守護者3人全てを倒し、パイエティに臓器を届ける必要があります。"
   },
   {
-    "RowIndex": 329,
     "Id": "InteractErrorPietyGateTransition",
     "Text": "先にパイエティを倒す必要があります。"
   },
   {
-    "RowIndex": 330,
     "Id": "InteractErrorVinktarSquareGateLocked",
     "Text": "ゲートは守護者の力に満ちています。"
   },
   {
-    "RowIndex": 331,
     "Id": "NotAllowedInPlayersHideout",
     "Text": "このプレーヤーのエリアには現在アクセスすることができません。"
   },
   {
-    "RowIndex": 332,
     "Id": "CantChangeToHideoutFromHere",
     "Text": "このエリアには、ここから行くことはできません。"
   },
   {
-    "RowIndex": 333,
     "Id": "StrMissionStartPointRocks",
     "Text": "入口が崩壊しました。"
   },
   {
-    "RowIndex": 334,
     "Id": "LoginTokenExpired",
     "Text": "認証の期限が切れました。ゲームを再スタートしてください。"
   },
   {
-    "RowIndex": 335,
     "Id": "IgnoredPvP",
     "Text": "無視されました。"
   },
   {
-    "RowIndex": 336,
     "Id": "LocalChatDisabledWhileSpectating",
     "Text": "PvP観戦中は、ローカルチャットは使用できません。"
   },
   {
-    "RowIndex": 337,
     "Id": "AbandonDailyNotInHideout",
     "Text": "このコマンドは隠れ家でしか使用できません。"
   },
   {
-    "RowIndex": 338,
     "Id": "NoDailyActive",
     "Text": "デイリーミッションが開かれていません。"
   },
   {
-    "RowIndex": 339,
     "Id": "GrandmasterSaved",
     "Text": "グランドマスターファイルがセーブされました。Grinding Gear Gamesのスタッフに通知が送られます。"
   },
   {
-    "RowIndex": 340,
     "Id": "LeagueFinishTimeRaceCompleted",
     "Text": "このレースの目標を完了しました。ランキングを見るには、ラダーのスレッドを確認してください。"
   },
   {
-    "RowIndex": 341,
     "Id": "LeagueFinishTimeRaceLogin",
     "Text": "このキャラクターでは既にこのレースの目標を完了しています。"
   },
   {
-    "RowIndex": 342,
     "Id": "CharacterNotFriendOrGuildmate",
     "Text": "このアカウントは、相互フレンドでもギルド仲間でもありません。"
   },
   {
-    "RowIndex": 343,
     "Id": "MapDeviceDisabled",
     "Text": "このマップデバイスは、このリーグでは無効です。"
   },
   {
-    "RowIndex": 344,
     "Id": "PVPTeamDoesNotExist",
     "Text": "このPvPチームは、イベントに登録していません。"
   },
   {
-    "RowIndex": 345,
     "Id": "ForwardedToMasterShard",
     "Text": "このリクエストはマスターデータベースに送られました。このリクエストへの応答は通常はありません。"
   },
   {
-    "RowIndex": 346,
     "Id": "PVPTournamentFinished",
     "Text": "トーナメントが完了しました。"
   },
   {
-    "RowIndex": 347,
     "Id": "ErrorNotInHideout",
     "Text": "この操作は、隠れ家でしか行えません。"
   },
   {
-    "RowIndex": 348,
     "Id": "ErrorHideoutSuperceded",
     "Text": "隠れ家の模様替えを現在行うことができません。新しい隠れ家インスタンスを作成してから再度行ってください。"
   },
   {
-    "RowIndex": 349,
     "Id": "ErrorCannotModifyGuildHideout",
     "Text": "ギルドの隠れ家を模様替えする権限がありません。"
   },
   {
-    "RowIndex": 350,
     "Id": "ClaimCraftingBenchSuccess",
     "Text": "隠れ家のスタッシュにクラフトベンチを追加します。"
   },
   {
-    "RowIndex": 351,
     "Id": "CharacterIsPVPOnly",
     "Text": "PvP専用のキャラクターはこれを行うことはできません。"
   },
   {
-    "RowIndex": 352,
     "Id": "StoppedSpectateFollow",
     "Text": "観戦の順番待ちから外れました。"
   },
   {
-    "RowIndex": 353,
     "Id": "CannotTradeItemLockedToCharacter",
     "Text": "このアイテムはトレードおよび変更することができません。"
   },
   {
-    "RowIndex": 354,
     "Id": "CannotTradeItemLockedToAccount",
     "Text": "このアイテムはトレードすることができません。"
   },
   {
-    "RowIndex": 355,
     "Id": "PvPRelocatingArena",
     "Text": "プレーヤーの数を再調整するため、別のPvP闘技場に移動されました。"
   },
   {
-    "RowIndex": 356,
     "Id": "MapCraftingFailedCost",
     "Text": "十分なカレンシーを持っていません。"
   },
   {
-    "RowIndex": 357,
     "Id": "MapCraftingFailedTrade",
     "Text": "マップが開けません。トレード画面が開いているあいだは、アイテムを消費することができません。"
   },
   {
-    "RowIndex": 358,
     "Id": "PvPMustHaveFullParty",
     "Text": "PvPマッチを行うには、パーティーの人数が足りません。"
   },
   {
-    "RowIndex": 359,
     "Id": "WithdrawnFromPVPTournament",
     "Text": "PvPトーナメントから辞退しました。"
   },
   {
-    "RowIndex": 360,
     "Id": "SpectatingDisabled",
     "Text": "このマッチは、観戦が無効になっています。"
   },
   {
-    "RowIndex": 361,
     "Id": "ChestLocked",
     "Text": "この宝箱には鍵がかかっています。"
   },
   {
-    "RowIndex": 362,
     "Id": "HideoutPortalLocked",
     "Text": "マップポータルがロックされています。"
   },
   {
-    "RowIndex": 363,
     "Id": "PVPCTFOwnFlag",
     "Text": "ポイントを得るために、ここに他チームのフラッグを持ってきてください。"
   },
   {
-    "RowIndex": 364,
     "Id": "SpiderChestLocked",
     "Text": "近くで何かが動く音が聞こえる..."
   },
   {
-    "RowIndex": 365,
     "Id": "AFKModeEnabled",
     "Text": "AFKモードがONになっています。自動応答 \"{0}\""
   },
   {
-    "RowIndex": 366,
     "Id": "AFKModeDisabled",
     "Text": "AFKモードはOFFになっています。"
   },
   {
-    "RowIndex": 367,
     "Id": "DNDModeEnabled",
     "Text": "DNDモードがONになっています。自動応答 \"{0}\""
   },
   {
-    "RowIndex": 368,
     "Id": "DNDModeDisabled",
     "Text": "DNDモードはOFFになっています。"
   },
   {
-    "RowIndex": 369,
     "Id": "AutoReplyEnabled",
     "Text": "自動応答は \"{0}\" にセットされています。"
   },
   {
-    "RowIndex": 370,
     "Id": "IncaApexDoorLocked",
     "Text": "現時点では、扉を開くことができません。"
   },
   {
-    "RowIndex": 371,
     "Id": "CharacterNameExistsButCanExpire",
     "Text": "このキャラクターを作成すると、他のキャラクターのキャラクター名が有効でなくなります。"
   },
   {
-    "RowIndex": 372,
     "Id": "CharacterIsNotExpired",
     "Text": "このキャラクターの名前は有効期間が切れていません。"
   },
   {
-    "RowIndex": 373,
     "Id": "CharacterIsExpired",
     "Text": "このアカウントの活動がなかったため、このキャラクターの名前は他のプレイヤーに使用されています。名前をつけ直してください。"
   },
   {
-    "RowIndex": 374,
     "Id": "OrphanedInstance",
     "Text": "レルムとの接続を失いました。"
   },
   {
-    "RowIndex": 375,
     "Id": "ErrorLabyrinthLocked",
     "Text": "ラビリンスは既に開かれているため、"
   },
   {
-    "RowIndex": 376,
     "Id": "ErrorZanaMissionLocked",
     "Text": "この不安定なエリアには以前来たことがあり、再び進入することができません。"
   },
   {
-    "RowIndex": 377,
     "Id": "InteractErrorDoorRequiresGoldenKey",
     "Text": "この扉には鍵がかかっています。開けるには金の鍵が必要です。"
   },
   {
-    "RowIndex": 378,
     "Id": "InteractErrorDoorRequiresSilverKey",
     "Text": "この扉には鍵がかかっています。開けるには銀の鍵が必要です。"
   },
   {
-    "RowIndex": 379,
     "Id": "InteractErrorDoorRequiresBronzeKey",
     "Text": "この扉には鍵がかかっています。開けるには銅の鍵が必要です。"
   },
   {
-    "RowIndex": 380,
     "Id": "TooManyCharacterSlots",
     "Text": "ひとつのアカウントで、255以上のキャラクターを所持することはできません。"
   },
   {
-    "RowIndex": 381,
     "Id": "EchoClientString",
     "Text": "{0}"
   },
   {
-    "RowIndex": 382,
     "Id": "ErrorCannotWhisperIgnored",
     "Text": "「無視する」リストに入っているプレーヤーには、ウィスパーすることはできません。"
   },
   {
-    "RowIndex": 383,
     "Id": "AccountIsOnline",
     "Text": "このアカウントは現在オンラインです。"
   },
   {
-    "RowIndex": 384,
     "Id": "IzaroChestLocked",
     "Text": "この宝箱には鍵がかかっています。開けるには宝の鍵が必要です。"
   },
   {
-    "RowIndex": 385,
     "Id": "ProfanityCheckFailed",
     "Text": "このテキストには、冒涜的表現が含まれています。"
   },
   {
-    "RowIndex": 386,
     "Id": "ErrorCannotChangeAscendancyClass",
     "Text": "このリーグ内では、アセンダンシークラスを変更することはできません。"
   },
   {
-    "RowIndex": 387,
     "Id": "TencentAasLoginDenied",
     "Text": "未成年者はログインできません。"
   },
   {
-    "RowIndex": 388,
     "Id": "TencentAasNotification",
     "Text": "あなたは{0}時間プレーしています。休憩を取ってください。"
   },
   {
-    "RowIndex": 389,
     "Id": "TencentAasAlarm",
     "Text": "あなたは未成年で、３時間以上プレーしています。５時間休憩を取るまではログインできません。"
   },
   {
-    "RowIndex": 390,
     "Id": "LeagueDisallowsCharacterDeletion",
     "Text": "このリーグでは現在キャラクターの削除ができません。"
   },
   {
-    "RowIndex": 391,
     "Id": "ErrorCannotAccessMapLabyrinth",
     "Text": "マップラビリンスの試練をまだ完了していません。"
   },
   {
-    "RowIndex": 392,
     "Id": "ErrorCannotSealProphecy",
     "Text": "予言の封印に失敗しました。"
   },
   {
-    "RowIndex": 393,
     "Id": "InviteErrorAlreadyInParty",
     "Text": "パーティーへの招待に失敗しました。このキャラクターは既にパーティに参加しています。"
   },
   {
-    "RowIndex": 394,
     "Id": "TencentCannotAccessMapDevice",
     "Text": "マップデバイスを利用するには皇帝のラビリンスを完了させましょう。サーンの野営地に赴き、アセンダンシーの碑をクリックしてラビリンスの詳細を調べましょう。アセンダンシーの試練を終え、ラビリンスで待ち受ける皇帝イザロを倒し、エンドゲームのマップへの道を開きましょう。"
   },
   {
-    "RowIndex": 395,
     "Id": "DailyPortalBlocked",
     "Text": "デイリーミッションを開くことができません：ポータル位置が塞がっています。編集モードでマスターを別の場所へ移動させ、やり直してください。"
   },
   {
-    "RowIndex": 396,
     "Id": "OfferDoesNotExist",
     "Text": "このオファーは既に存在しません。"
   },
   {
-    "RowIndex": 397,
     "Id": "OfferInWrongState",
     "Text": "このオファーはこの操作をすることができない状態です。"
   },
   {
-    "RowIndex": 398,
     "Id": "OfferContainsUntradeableItems",
     "Text": "トレード不可のアイテムが含まれているため、オファーを提示することができません。"
   },
   {
-    "RowIndex": 399,
     "Id": "NoOffersOnYourOwnItems",
     "Text": "既にこのアイテムを持っているため、このアイテムに対するオファーを行うことができません。"
   },
   {
-    "RowIndex": 400,
     "Id": "PublicListingLockedDueToLevel",
     "Text": "アカウントのキャラクターがレベル25に到達するまでアイテムを出品することができません。"
   },
   {
-    "RowIndex": 401,
     "Id": "OffersLockedDueToLevel",
     "Text": "アカウントのキャラクターがレベル25に到達するまでアイテムに対してオファーを行うことができません。"
   },
   {
-    "RowIndex": 402,
     "Id": "AccountNoLongerHasItem",
     "Text": "このプレイヤーはもう出品されたアイテムを持っていません。"
   },
   {
-    "RowIndex": 403,
     "Id": "TooManyBuyerOffers",
     "Text": "一度に10件のオファーまでしか有効にすることができません。有効なオファーを解決してから新たなオファーを作成してください。"
   },
   {
-    "RowIndex": 404,
     "Id": "TooManySellerOffers",
     "Text": "この出品者のアイテムへのオファーが多すぎます。時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 405,
     "Id": "AlreadyHaveOfferOnItem",
     "Text": "あなたは既にこのアイテムに対するオファーを出している状態です。"
   },
   {
-    "RowIndex": 406,
     "Id": "SentOfferTooRecently",
     "Text": "前のこのアカウントへオファーを行ってから十分な時間が経過していません。"
   },
   {
-    "RowIndex": 407,
     "Id": "EventErrorLevelTooLow",
     "Text": "このイベントには、レベル{0}でないと参加できません。"
   },
   {
-    "RowIndex": 408,
     "Id": "EnteredPathOfEnduranceLevel",
     "Text": "レベル{0}に達しました。"
   },
   {
-    "RowIndex": 409,
     "Id": "EventEndsIn",
     "Text": "このイベント終了まであと{0}"
   },
   {
-    "RowIndex": 410,
     "Id": "GuildTagAlreadyExists",
     "Text": "このギルドタグは既に使用されています。"
   },
   {
-    "RowIndex": 411,
     "Id": "GlobalChatOnCooldown",
     "Text": "グローバルチャットを再び使用するまで数秒お待ち下さい。"
   },
   {
-    "RowIndex": 412,
     "Id": "InteractErrorKaruiDoorLocked",
     "Text": "この門には鍵がかかっているが、目が一つ足りないようだ…"
   },
   {
-    "RowIndex": 413,
     "Id": "LabyrinthErrorPartyTooBigTencent",
     "Text": "パーティーの人数が{0}人以下でないとラビリンスに入ることができません。"
   },
   {
-    "RowIndex": 414,
     "Id": "InteractErrorNoSignOfPurity",
     "Text": "これを起動するには浄化の印が必要です。"
   },
   {
-    "RowIndex": 415,
     "Id": "InteractErrorCannotAccessEndgame",
     "Text": "キャンペーンを完了するまで、エンドゲームコンテンツにアクセスすることはできません。"
   },
   {
-    "RowIndex": 416,
     "Id": "CharacterNameContainsProfanity",
     "Text": "このキャラクターの名前には制限がかかっています。"
   },
   {
-    "RowIndex": 417,
     "Id": "ConsoleDisconnectedBecauseActiveUserChanged",
     "Text": "アクティブユーザーがサインアウトした為切断されました。"
   },
   {
-    "RowIndex": 418,
     "Id": "ConsoleDisconnectedBecauseSuspending",
     "Text": "ゲームが停止されたため切断されました。"
   },
   {
-    "RowIndex": 419,
     "Id": "InteractErrorNeedSunMoonOrbs",
     "Text": "これを起動するには太陽と月のオーブが必要です。"
   },
   {
-    "RowIndex": 420,
     "Id": "TheBeaconLever",
     "Text": "トーチを点火するのに十分な燃料がありません。"
   },
   {
-    "RowIndex": 421,
     "Id": "OnlyOneAllowedInHideout",
     "Text": "隠れ家にはこの種類のアイテムを一つまでしか設置できません。"
   },
   {
-    "RowIndex": 422,
     "Id": "AccountLoggedInOnOtherRealm",
     "Text": "同時にPath of Exileのベータと通常のレルムにログインすることはできません。"
   },
   {
-    "RowIndex": 423,
     "Id": "KitavaArenaLocked",
     "Text": "この場所へポータルで移動するのは危険です。"
   },
   {
-    "RowIndex": 424,
     "Id": "InteractErrorBeaconMissingFlag",
     "Text": "灯台で黒い旗を使うには怒りの洞窟で入手する必要があります。"
   },
   {
-    "RowIndex": 425,
     "Id": "InteractErrorGreustShrine",
     "Text": "古代アズメリ人の祠です。ヘレナが何か知っているかもしれません。"
   },
   {
-    "RowIndex": 426,
     "Id": "PantheonFailedToCreateSoulItem",
     "Text": "マップデバイスで捕獲した魂の生成に失敗しました。"
   },
   {
-    "RowIndex": 427,
     "Id": "PantheonCannotConsumeVessel",
     "Text": "起動に失敗しました。このマップのボスの魂を捕らえることはできません。"
   },
   {
-    "RowIndex": 428,
     "Id": "PantheonCannotConsumeVesselAlreadyCaptured",
     "Text": "起動に失敗しました。このマップのボスの魂は既に捕らえています。"
   },
   {
-    "RowIndex": 429,
     "Id": "ExitToLoginFailed",
     "Text": "ログインサーバーへの接続に失敗しました。ログインしてやり直してください。"
   },
   {
-    "RowIndex": 430,
     "Id": "MessageDoesNotExist",
     "Text": "指定されたメッセージは存在しません。"
   },
   {
-    "RowIndex": 431,
     "Id": "MessageTooLong",
     "Text": "メッセージが長すぎます。"
   },
   {
-    "RowIndex": 432,
     "Id": "AreaErrorLevelTooLow",
     "Text": "このエリアにアクセスするには、レベル{0}である必要があります。"
   },
   {
-    "RowIndex": 433,
     "Id": "AreaErrorLevelTooLowGeneric",
     "Text": "このエリアにアクセスするには、レベルが足りません。"
   },
   {
-    "RowIndex": 434,
     "Id": "TradeMarketCloseOfferWithItems",
     "Text": "まだオファーにアイテムが残っています。オファーを閉じるにはこれらのアイテムをオファーから取り除いてください。"
   },
   {
-    "RowIndex": 435,
     "Id": "TradeMarketSendOfferWithNoItems",
     "Text": "カレンシーアイテムなしでオファーを行うことはできません。"
   },
   {
-    "RowIndex": 436,
     "Id": "XboxLoginErrorNoLiveAccess",
     "Text": "Xboxライブにアクセスできないため、ログインできません。"
   },
   {
-    "RowIndex": 437,
     "Id": "ConsoleLoginErrorNoInternetConnection",
     "Text": "インターネットに接続されていないため、ログインできません。"
   },
   {
-    "RowIndex": 438,
     "Id": "ErrorChatIsFull",
     "Text": "そのチャットチャンネルは満員のため参加できませんでした。"
   },
   {
-    "RowIndex": 439,
     "Id": "LoginConnectionLimitReached",
     "Text": "ログインサーバーが混みあっています。後でもう一度試してください。"
   },
   {
-    "RowIndex": 440,
     "Id": "TooManyObjects",
     "Text": "リクエストされたオブジェクトが多すぎます。サポートに連絡してください。"
   },
   {
-    "RowIndex": 441,
     "Id": "SubtabAlreadyExists",
     "Text": "そのサブタブは既に存在しています。"
   },
   {
-    "RowIndex": 442,
     "Id": "MaxInventoryColumns",
     "Text": "インベントリの行が最大数に達しました。「中国クライアントのみでグルーバル版には存在しない。」"
   },
   {
-    "RowIndex": 443,
     "Id": "IncorrectInventoryColumnUpgrade",
     "Text": "すでにお持ちの番号のインベントリアップグレードを間違って買おうとしています。「中国クライアントのみでグルーバル版には存在しない。」"
   },
   {
-    "RowIndex": 444,
     "Id": "GenericRateLimit",
     "Text": "短時間でリクエストを行いすぎたため、リクエストが失敗しました。"
   },
   {
-    "RowIndex": 445,
     "Id": "RequestInProgress",
     "Text": "既に進行中のリクエストがあります。少し時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 446,
     "Id": "ItemNotInStash",
     "Text": "そのアイテムはそのスタッシュにありません。"
   },
   {
-    "RowIndex": 447,
     "Id": "BestiaryNetChanged",
     "Text": "あなたのキャラクターは獣を捕らえるために{0}を使用します。"
   },
   {
-    "RowIndex": 448,
     "Id": "ErrorPlayerHasNoMenagerie",
     "Text": "そのプレイヤーは怪物園を持っていません。"
   },
   {
-    "RowIndex": 449,
     "Id": "MicrotransactionNotAvailableInLeague",
     "Text": "このリーグ内では、このコスメティックアイテムを購入することはできません。"
   },
   {
-    "RowIndex": 450,
     "Id": "CaptureMonsterSuccess",
     "Text": "捕獲したビースト: {0}"
   },
   {
-    "RowIndex": 451,
     "Id": "DeletedExcessBestiaryUnique",
     "Text": "怪獣園が満杯だったため、空きを作るために最も古いビースト ({0})が取り除かれました。"
   },
   {
-    "RowIndex": 452,
     "Id": "DeletedExcessBestiaryRare",
     "Text": "怪獣園が満杯だったため、空きを作るために最も古いビースト ({0}; {1})が取り除かれました。"
   },
   {
-    "RowIndex": 453,
     "Id": "PlayersRemainingN",
     "Text": "{0}人のプレーヤーが残っています。"
   },
   {
-    "RowIndex": 454,
     "Id": "AccountNotVerifiedChatError",
     "Text": "チャットを始める前に、アカウント認証を行ってください。"
   },
   {
-    "RowIndex": 455,
     "Id": "TooLowLevelToChooseChatIndex",
     "Text": "レベル{0}になるまで特定のチャットチャンネルを選択することはできません。"
   },
   {
-    "RowIndex": 456,
     "Id": "IncursionLockedDoorError",
     "Text": "この道を開くためのアイテムを所持していません。"
   },
   {
-    "RowIndex": 457,
     "Id": "IncursionDestructibleWallError",
     "Text": "爆発物を所持していません。"
   },
   {
-    "RowIndex": 458,
     "Id": "InstanceExpiredError",
     "Text": "インスタンスに接続できません。そのサブエリアはこのエリアの最新の子インスタンスではなくなったため、削除されました。"
   },
   {
-    "RowIndex": 459,
     "Id": "InstanceTerminatedError",
     "Text": "インスタンスに接続できません。そのサブエリアはもう存在していません。"
   },
   {
-    "RowIndex": 460,
     "Id": "FailedToLoadDelveMap",
     "Text": "デルヴマップのデータ読み込みに失敗しました: {0}"
   },
   {
-    "RowIndex": 461,
     "Id": "DelveInProgressError",
     "Text": "進行中にデルヴに参加することはできません。"
   },
   {
-    "RowIndex": 462,
     "Id": "LoginRequiresUnlockCodeStrict",
     "Text": "メールで受け取ったアンロックコードを入力するまであなたのアカウントはロックされています。(strict)"
   },
   {
-    "RowIndex": 463,
     "Id": "DelveSocketableCurrencySameFossilError",
     "Text": "一つの共鳴器のソケットに同じ化石を入れることはできません。"
   },
   {
-    "RowIndex": 464,
     "Id": "GenericSocketError",
     "Text": "そのアイテムをソケットにいれることはできません。"
   },
   {
-    "RowIndex": 465,
     "Id": "OfferNotYetReadyForAccept",
     "Text": "前回のオファーが解決されるのを待っている状態です。再度やり直してください。"
   },
   {
-    "RowIndex": 466,
     "Id": "InteractErrorEssence",
     "Text": "別の何かがこのエッセンスを封印しているようです。"
   },
   {
-    "RowIndex": 467,
     "Id": "NotEnoughIngredients",
     "Text": "このアクションを行うのに十分な材料を所持していません。"
   },
   {
-    "RowIndex": 468,
     "Id": "ConsoleDisconnectedBecauseActiveUserSignedOut",
     "Text": "アクティブユーザーがサインアウトしたため、接続が切れました。"
   },
   {
-    "RowIndex": 469,
     "Id": "PS4LoginErrorNoPSNAccess",
     "Text": "PlayStation Networkにアクセスできないため、ログインできません。"
   },
   {
-    "RowIndex": 470,
     "Id": "PS4LoginErrorOutOfMemory",
     "Text": "メモリが足りないため、ログインできません。"
   },
   {
-    "RowIndex": 471,
     "Id": "PS4LoginErrorSignedOut",
     "Text": "サインアウトしたため、ログインできません。"
   },
   {
-    "RowIndex": 472,
     "Id": "PS4LoginErrorNotSignedUp",
     "Text": "登録していないため、ログインできません。"
   },
   {
-    "RowIndex": 473,
     "Id": "PS4LoginErrorAgeRestriction",
     "Text": "年齢制限のため、ログインできません。"
   },
   {
-    "RowIndex": 474,
     "Id": "PS4LoginErrorLoggedOut",
     "Text": "ログアウトしているためログインできません。"
   },
   {
-    "RowIndex": 475,
     "Id": "PS4LoginErrorLatestSystemSoftwareExist",
     "Text": "新しいシステムのソフトウェアアップデートファイルがあるためログインできません。"
   },
   {
-    "RowIndex": 476,
     "Id": "PS4LoginErrorLatestSystemSoftwareExistForTitle",
     "Text": "このアプリケーションにはシステムソフトウェアアップデートファイルの新しいバージョンがあるためログインできません。"
   },
   {
-    "RowIndex": 477,
     "Id": "PS4LoginErrorLatestPatchPackageExists",
     "Text": "そのパッチパッケージには新しいバージョンがあるためログインできません。"
   },
   {
-    "RowIndex": 478,
     "Id": "PS4LoginErrorLatestPatchPackageDownloaded",
     "Text": "ダウンロードされたパッチパッケージには新しいバージョンがあるためログインできません。"
   },
   {
-    "RowIndex": 479,
     "Id": "PS4LoginErrorPatchNotChecked",
     "Text": "新しいバージョンアップデートファイルの有無を確認できなかったためログインできません。再度やり直してください。"
   },
   {
-    "RowIndex": 480,
     "Id": "HideoutExportFailed",
     "Text": "隠れ家テンプレートをエクスポートするには隠れ家にいる必要があります。"
   },
   {
-    "RowIndex": 481,
     "Id": "HideoutImportSuccess",
     "Text": "隠れ家テンプレートのインポートに成功しました。"
   },
   {
-    "RowIndex": 482,
     "Id": "HideoutImportFailed",
     "Text": "隠れ家テンプレートのインポートに失敗しました。"
   },
   {
-    "RowIndex": 483,
     "Id": "HideoutImportFailedMustBeInHideout",
     "Text": "隠れ家テンプレートをインポートするには隠れ家にいる必要があります。"
   },
   {
-    "RowIndex": 484,
     "Id": "HideoutImportFailedWrongHideout",
     "Text": "この隠れ家テンプレートをインポートするには先に隠れ家を{0}に設定する必要があります。"
   },
   {
-    "RowIndex": 485,
     "Id": "TencentTradeMarketNotExactPrice",
     "Text": "あなたのオファーはこのアイテムの価格に正確に一致しません。"
   },
   {
-    "RowIndex": 486,
     "Id": "TencentTradeMarketTooManyCompletedOffers",
     "Text": "取引所に完了された取引が多すぎるため、このオファーを行うことができません。"
   },
   {
-    "RowIndex": 487,
     "Id": "IncursionRecipeUnlockRejected",
     "Text": "クラフトレシピは既に解除されています。"
   },
   {
-    "RowIndex": 488,
     "Id": "FailedToReclaimSomeHideoutDoodads",
     "Text": "一つ以上の隠れ家の装飾品の回収に失敗しました。新たな隠れ家インスタンスを作り、やり直してください。"
   },
   {
-    "RowIndex": 489,
     "Id": "FailedToLoadHideoutDoodads",
     "Text": "隠れ家の装飾品リストのロードに失敗しました。"
   },
   {
-    "RowIndex": 490,
     "Id": "HideoutImportWarningGeneric",
     "Text": "警告：{0}個の装飾品がインポートできませんでした。"
   },
   {
-    "RowIndex": 491,
     "Id": "HideoutImportWarningUnowned",
     "Text": "警告：所持数が足りないため{0}個の装飾品がインポートできませんでした。"
   },
   {
-    "RowIndex": 492,
     "Id": "HideoutImportWarningBlocked",
     "Text": "警告：指定された位置が塞がっているため{0}個の装飾品がインポートできませんでした。"
   },
   {
-    "RowIndex": 493,
     "Id": "HideoutReclaimAllSuccess",
     "Text": "全ての隠れ家の装飾品は回収されました。"
   },
   {
-    "RowIndex": 494,
     "Id": "AreaTransitionPartyError",
     "Text": "このエリアに進入するにはエリアのオーナーとパーティーを組む必要があります。"
   },
   {
-    "RowIndex": 495,
     "Id": "AreaTransitionOwnerError",
     "Text": "このエリアに進入するにはエリアのオーナーがいる必要があります。"
   },
   {
-    "RowIndex": 496,
     "Id": "BestiaryErrorNoData",
     "Text": "ベスティアリーのデータ取得に失敗しました。"
   },
   {
-    "RowIndex": 497,
     "Id": "BestiaryErrorFailedToCaptureMonster",
     "Text": "以下の捕獲したモンスターを記録できませんでした：{0}"
   },
   {
-    "RowIndex": 498,
     "Id": "PS4BadRedeemToken",
     "Text": "不正な交換用トークン"
   },
   {
-    "RowIndex": 499,
     "Id": "CurrencyTradingPrevented2",
     "Text": "カレンシーやユニークアイテムを他のプレーヤーとトレードするには、アカウント認証が必要です。"
   },
   {
-    "RowIndex": 500,
     "Id": "PublicListingLockedDueToVerified",
     "Text": "アカウントの認証が済むまでトレード用にアイテムを公開することはできません。"
   },
   {
-    "RowIndex": 501,
     "Id": "OffersLockedDueToVerified",
     "Text": "アカウントの認証が済むまでトレードの申込みをすることはできません。"
   },
   {
-    "RowIndex": 502,
     "Id": "SynthesisPortalFullyDecayed",
     "Text": "このエリアは崩壊しています。"
   },
   {
-    "RowIndex": 503,
     "Id": "SynthesisTooManyMemories",
     "Text": "メモリーを設置しすぎです。これ以上設置する場合、いくつか取り除いてください。"
   },
   {
-    "RowIndex": 504,
     "Id": "SynthesisOtherMemoryInstance",
     "Text": "他のプレーヤーのメモリーネクサスとメモリーエクスパンスにはメモリーを設置することはできません。"
   },
   {
-    "RowIndex": 505,
     "Id": "ConsoleDisconnectedBecauseNoInternetConnection",
     "Text": "インターネットに接続していないため、接続が遮断されました。"
   },
   {
-    "RowIndex": 506,
     "Id": "PS4DisconnectedBecauseNoPSNAccess",
     "Text": "プレイステーションネットワークにアクセスできないため、接続が遮断されました。"
   },
   {
-    "RowIndex": 507,
     "Id": "XboxDisconnectedBecauseNoXboxLiveAccess",
     "Text": "Xbox Liveにアクセスできないため、接続が切れました。"
   },
   {
-    "RowIndex": 508,
     "Id": "PS4CannotLogInUGMRestriction",
     "Text": "視聴年齢制限のため、ログインできません。"
   },
   {
-    "RowIndex": 509,
     "Id": "SynthesisMaxGlobalModsReached",
     "Text": "シンセシスマップのメモリーモッドが最大数に達しました。"
   },
   {
-    "RowIndex": 510,
     "Id": "BetrayalCannotAccessLab",
     "Text": "ビトレイアルの別の部署との戦いが進行中です。この入口から入るには他の部署との遭遇戦を完了し、部署のメンバーへの選択肢を全て選び終えてください。"
   },
   {
-    "RowIndex": 511,
     "Id": "SynthesisCannotApplyGlobalMod",
     "Text": "選択中のメモリーとその隣のメモリーにはこれ以上メモリーモッドを適応できません。"
   },
   {
-    "RowIndex": 512,
     "Id": "KakaoAPIError",
     "Text": "Kakao認証サーバーによる認証に失敗しました。"
   },
   {
-    "RowIndex": 513,
     "Id": "KakaoRequireLogin",
     "Text": "もう一度Kakaoアカウントにログインしてください。"
   },
   {
-    "RowIndex": 514,
     "Id": "MapDeviceCannotUseFragmentWithMap",
     "Text": "アクティベーションに失敗しました。{0}はマップとともに使うことができません。"
   },
   {
-    "RowIndex": 515,
     "Id": "MapDeviceFragmentNeedsRecipe",
     "Text": "アクティベーションに失敗しました。{0}は同じ種類の他のマップの断片とともに使わなければなりません。"
   },
   {
-    "RowIndex": 516,
     "Id": "MapDeviceFragmentNeedsRecipeOrMap",
     "Text": "アクティベーションに失敗しました。{0}はマップとともに使うことができないか、もしくは同じ種類の他のマップの断片とともに使わなければなりません。"
   },
   {
-    "RowIndex": 517,
     "Id": "MapDeviceDuplicateFragments",
     "Text": "アクティベーションに失敗しました。同一のマップの断片を複数個使うことはできません。"
   },
   {
-    "RowIndex": 518,
     "Id": "EmailLoginDisabledKakao",
     "Text": "このログイン方法は、このアカウントでは無効になっています。 http://poe.game.daum.net を使ってログインしてください。"
   },
   {
-    "RowIndex": 519,
     "Id": "EmailLoginDisabled",
     "Text": "このログイン方法は、このアカウントでは無効になっています。"
   },
   {
-    "RowIndex": 520,
     "Id": "GatewayDisallowedForThisLoginType",
     "Text": "このログイン方法ではこのログインゲートウェイは使用できません。"
   },
   {
-    "RowIndex": 521,
     "Id": "UnacceptableChatMessage",
     "Text": "メッセージ内容が不適切です。"
   },
   {
-    "RowIndex": 522,
     "Id": "ChannelOnlyAllowsASCII",
     "Text": "メッセージ内容が不適切です。このチャンネルでは標準のASCII文字のみを使用してください。"
   },
   {
-    "RowIndex": 523,
     "Id": "ActionRejectedDueToPerPlayerFreeze",
     "Text": "あなたは最近死んでおり、{0}経過するまで行動を行うことができません。"
   },
   {
-    "RowIndex": 524,
     "Id": "PerPlayerDeathFreezeRemoved",
     "Text": "行動可能となりました。"
   },
   {
-    "RowIndex": 525,
     "Id": "LeagueDisallowsManualMigration",
     "Text": "現在このリーグからキャラクラーを移動することはできません。"
   },
   {
-    "RowIndex": 526,
     "Id": "RecycleMicroItemNotFound",
     "Text": "コスメティックアイテムが見つかりません。"
   },
   {
-    "RowIndex": 527,
     "Id": "RecycleMicroCannotRemoveMicro",
     "Text": "コスメティックアイテムを外せません。"
   },
   {
-    "RowIndex": 528,
     "Id": "RecycleMicroNoValue",
     "Text": "この有料アイテムにリサイクル可能な価値がありません。"
   },
   {
-    "RowIndex": 529,
     "Id": "RecycleMicroGeneric",
     "Text": "現在その操作を行うことができません。"
   },
   {
-    "RowIndex": 530,
     "Id": "TradeBanError",
     "Text": "現在その操作を行うことができません。あなたのアカウントはトレード禁止になっています。"
   },
   {
-    "RowIndex": 531,
     "Id": "InteractErrorCoreTransitionMap",
     "Text": "ブラックコアにアクセスするには三体の魂の捕食者全てを倒さなければなりません。"
   },
   {
-    "RowIndex": 532,
     "Id": "CombineMTXTimeLimitedError",
     "Text": "時間制限のある有料アイテムどうしを組み合わせることはできません。"
   },
   {
-    "RowIndex": 533,
     "Id": "SalvageMTXTimeLimitedError",
     "Text": "時間制限のある有料アイテムをサルベージすることはできません。"
   },
   {
-    "RowIndex": 534,
     "Id": "ItemIsInLeagueInventory",
     "Text": "リーグインベントリ中のアイテムにその操作を行うことができません。"
   },
   {
-    "RowIndex": 535,
     "Id": "MetamorphosisCannotOpenUIError",
     "Text": "メタモルフのサンプルはインスタンスのオーナーによって組み立てられる必要があります。"
   },
   {
-    "RowIndex": 536,
     "Id": "PurchaseLimitReached",
     "Text": "このアイテムの購入限度数に達しています。"
   },
   {
-    "RowIndex": 537,
     "Id": "EpicAssociateEmailSent",
     "Text": "あなたがこのアカウントの所有者か確認するためにメールが送信されました。続けるにはメール中のリンクをクリックしてください。"
   },
   {
-    "RowIndex": 538,
     "Id": "DestroyHarvestInfrastructure",
     "Text": "ハーベストの構造物アイテムを破棄することはできません。"
   },
   {
-    "RowIndex": 539,
     "Id": "CharacterActionDeniedHarvestItems",
     "Text": "この行動をする前にキャラクターから全てのハーベストの構造物アイテムを取り除いてください。"
   },
   {
-    "RowIndex": 540,
     "Id": "HarvestOshabiFightOnlyInMaps",
     "Text": "エンカウンターはマップでのみ開始することができます。"
   },
   {
-    "RowIndex": 541,
     "Id": "ConsoleGuildTagProfanityError",
     "Text": "あなたがつけようとしているギルドタグには使用禁止単語が含まれています。別のタグを入力してください。"
   },
   {
-    "RowIndex": 542,
     "Id": "ConsoleGuildNameProfanityError",
     "Text": "あなたがつけようとしているギルドの名前には使用禁止単語が含まれています。別の名前を入力してください。"
   },
   {
-    "RowIndex": 543,
     "Id": "ConsoleGuildStashTabProfanityError",
     "Text": "あなたがつけようとしているスタッシュタブの名前には使用禁止単語が含まれています。別の名前を入力してください。"
   },
   {
-    "RowIndex": 544,
     "Id": "TradeErrorItemStolenFromHeist",
     "Text": "アイテムがトレードできません。"
   },
   {
-    "RowIndex": 545,
     "Id": "HeistAlarmError",
     "Text": "エラー：ロックダウン中のハイストエリアに入ることはできません。"
   },
   {
-    "RowIndex": 546,
     "Id": "HeistHubAccessError",
     "Text": "ローグハーバーにアクセスするにはローグマーカーを使わなければなりません。"
   },
   {
-    "RowIndex": 547,
     "Id": "NotHeistOwner",
     "Text": "エラー：あなたはこのハイストインスタンスのオーナーではありません。"
   },
   {
-    "RowIndex": 548,
     "Id": "ReceivedAtlasRespecPoint1",
     "Text": "アトラスパッシブ振り直しポイントを入手しました。"
   },
   {
-    "RowIndex": 549,
     "Id": "ReceivedAtlasRespecPointN",
     "Text": "アトラスパッシブ振り直しポイントを{0}ポイント入手しました。"
   },
   {
-    "RowIndex": 550,
     "Id": "ReceivedAtlasPassivePoint1",
     "Text": "アトラススキルポイントを1ポイント入手しました。"
   },
   {
-    "RowIndex": 551,
     "Id": "ReceivedAtlasPassivePointN",
     "Text": "アトラススキルポイントを{0}ポイント入手しました。"
   },
   {
-    "RowIndex": 552,
     "Id": "MavenNotEnoughBosses",
     "Text": "アクティベーションに失敗しました。このアトラス領域で十分な数のボスを収集していません。"
   },
   {
-    "RowIndex": 553,
     "Id": "MavenCitadelNotUnlocked",
     "Text": "アクティベーションに失敗しました。このアトラス領域で城塞をアンロックしていません。"
   },
   {
-    "RowIndex": 554,
     "Id": "StashAffinityFailedNoRoom",
     "Text": "{0}のアフィニティーを設定したスタッシュタブにこのアイテムを入れる十分な空きがありません。"
   },
   {
-    "RowIndex": 555,
     "Id": "FailedToAddMavenToMap",
     "Text": "メイヴェンをマップに召喚することに失敗しました。理由：{0}"
   },
   {
-    "RowIndex": 556,
     "Id": "RitualFragmentNotValidForUse",
     "Text": "アクティベーションに失敗しました。血塗れの人形はリチュアルリーグでしか使えません。"
   },
   {
-    "RowIndex": 557,
     "Id": "MapDeviceInvalidQuestState",
     "Text": "アクティベーションに失敗しました。必要なクエストの進行度を達成していません。"
   },
   {
-    "RowIndex": 558,
     "Id": "MapDeviceFull",
     "Text": "マップデバイスが満杯です。"
   },
   {
-    "RowIndex": 559,
     "Id": "AccountNotVerified",
     "Text": "アカウントが認証されていません。"
   },
   {
-    "RowIndex": 560,
     "Id": "UltimatumTrialStarted",
     "Text": "すでに始まっているアルティメイタムの試練に参加することはできません。"
   },
   {
-    "RowIndex": 561,
     "Id": "RoyaleMatchEndedWonReward",
     "Text": "勝った！勝った！夕飯はロアだ！\n ティア{0}のロアディナーが隠れ家の装飾品に追加されました。"
   },
   {
-    "RowIndex": 562,
     "Id": "RoyaleMatchEndedWon",
     "Text": "勝った！勝った！夕飯はロアだ！\n あと{0}勝で次の隠れ家の装飾品が獲得できます。"
   },
   {
-    "RowIndex": 563,
     "Id": "RoyaleMatchEndedWonMax",
     "Text": "勝った！勝った！夕飯はロアだ！"
   },
   {
-    "RowIndex": 564,
     "Id": "RoyaleMatchEnded",
     "Text": "{0} がこの試合に勝利しました！"
   },
   {
-    "RowIndex": 565,
     "Id": "RoyaleMatchEndedTeam",
     "Text": "{0} と {1} がこの試合に勝利しました！"
   },
   {
-    "RowIndex": 566,
     "Id": "TradeNoteBlacklistedCharactersError",
     "Text": "あなたのトレードノートには不正なキャラクターが含まれています。時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 567,
     "Id": "ExpeditionDetonatorNotInstanceOwner",
     "Text": "このインスタンスのオーナーであるプレイヤーのみが、爆発物または起爆装置を使用することができます。"
   },
   {
-    "RowIndex": 568,
     "Id": "ActionTemporarilyDisabled",
     "Text": "この動作は、一時的に使用できません。"
   },
   {
-    "RowIndex": 569,
     "Id": "CannotAccessGuildHideout",
     "Text": "ギルドのメンバーではないため、このプレイヤーのギルドの隠れ家に入ることはできません。"
   },
   {
-    "RowIndex": 570,
     "Id": "SettingDeliveryDetailsFailed",
     "Text": "配送情報の設定に失敗:"
   },
   {
-    "RowIndex": 571,
     "Id": "ExpeditionCurrencyNotification",
     "Text": "{0}個の{1}がエクスペディションロッカーに追加されました。"
   },
   {
-    "RowIndex": 572,
     "Id": "GuildStashDisabled",
     "Text": "ギルドスタッシュは一時的に利用できません。"
   },
   {
-    "RowIndex": 573,
     "Id": "TencentItcServerError",
     "Text": "ITCサーバーでエラーが発生しました。"
   },
   {
-    "RowIndex": 574,
     "Id": "OperationCancelled",
     "Text": "処理が中断されました。"
   },
   {
-    "RowIndex": 575,
     "Id": "ConvertMapsPartialSuccess",
     "Text": "空きスペースの不足していたか、適切な変換先が見つからなかったため、一部のマップを変換することができませんでした。"
   },
   {
-    "RowIndex": 576,
     "Id": "CannotPromoteEmptyStashToActive",
     "Text": "空のスタッシュをアクティブにすることはできません。"
   },
   {
-    "RowIndex": 577,
     "Id": "CannotFindActiveStashToReplace",
     "Text": "この種類の置き換えられる空のアクティブなスタッシュが見つかりませんでした。ロードされていることを確認して再度操作を行ってください。"
   },
   {
-    "RowIndex": 578,
     "Id": "TencentUicServerError",
     "Text": "接続に失敗しました。時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 579,
     "Id": "PlayerKillCount1",
     "Text": "これまでに倒したモンスターは1体です。"
   },
   {
-    "RowIndex": 580,
     "Id": "PlayerKillCountCapped",
     "Text": "数えきれないほどの敵を倒しています。"
   },
   {
-    "RowIndex": 581,
     "Id": "TencentActionFailedMarketBanned",
     "Text": "あなたの行為はサービス利用規約に違反しており、ゲームの正常な運営に悪影響を及ぼしました。(0}の間、トレードマーケットの利用を禁止されます。"
   },
   {
-    "RowIndex": 582,
     "Id": "TencentGlobalStatusError",
     "Text": "システムは現在メンテナンス中です。時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 583,
     "Id": "WhisperFailed",
     "Text": "{0}にウィスパーを送ることに失敗しました。原因: {1}"
   },
   {
-    "RowIndex": 584,
     "Id": "HideoutExportFailedLackingPermission",
     "Text": "あなたはこの隠れ家をエクスポートする権限を持っていません。"
   },
   {
-    "RowIndex": 585,
     "Id": "CurrencyTradingPreventedDueToReview",
     "Text": "あなたのアカウントのレビューが完了するまでカレンシーおよびユニークアイテムを他のプレイヤーとトレードすることはできません。このプロセスは最大24時間かかります。"
   },
   {
-    "RowIndex": 586,
     "Id": "PublicListingLockedDueToReview",
     "Text": "あなたのアカウントのレビューが完了するまで販売のためにパブリックリストに掲載することはできません。このプロセスは最大24時間かかります。"
   },
   {
-    "RowIndex": 587,
     "Id": "InteractErrorNotYourLakeStampingDevice",
     "Text": "この鏡の石板を使用することはできません。"
   },
   {
-    "RowIndex": 588,
     "Id": "SanctumStabilityError",
     "Text": "エラー: 決心が無い状態でサンクタムエリアに入ることはできません。"
   },
   {
-    "RowIndex": 589,
     "Id": "FeedbackNumber",
     "Text": "フィードバックしていただきありがとうございます。あなたの参照番号は{0}です。"
   },
   {
-    "RowIndex": 590,
     "Id": "LootAllocationOptionDisabledInHardMode",
     "Text": "ルースレスリーグではアイテム分配モードを設定することはできません。"
   },
   {
-    "RowIndex": 591,
     "Id": "ExtraInventoryColumnsDisabledInHardMode",
     "Text": "[DNT]Extra inventory columns are disabled in Ruthless leagues. CHINA ONLY NOT FOR WORLDWIDE REALM"
   },
   {
-    "RowIndex": 592,
     "Id": "PathOfEnduranceDisabledInHardMode",
     "Text": "[DNT]Path of Endurance is disabled in Ruthless leagues."
   },
   {
-    "RowIndex": 593,
     "Id": "RelicCannotPlaceItemSanctumInProgressError",
     "Text": "アクティブなサンクタムがある場合はレリックを変更できません。"
   },
   {
-    "RowIndex": 594,
     "Id": "CoinFlipHeads",
     "Text": "{0} が表を出した！"
   },
   {
-    "RowIndex": 595,
     "Id": "CoinFlipTails",
     "Text": "{0} が裏を出した！"
   },
   {
-    "RowIndex": 596,
     "Id": "HideoutPvpInvalidPosition",
     "Text": "PvPアリーナがウェイポイントに近すぎるため、PvPは無効化されます。"
   },
   {
-    "RowIndex": 597,
     "Id": "HideoutPvpEnded",
     "Text": "試合終了、{0}の勝利！"
   },
   {
-    "RowIndex": 598,
     "Id": "HideoutPvpEndedDraw",
     "Text": "試合は引き分けとなりました。"
   },
   {
-    "RowIndex": 599,
     "Id": "HideoutPvpCancelled",
     "Text": "試合はキャンセルされました。"
   },
   {
-    "RowIndex": 600,
     "Id": "HideoutPvpDefeated",
     "Text": "{0}は倒されました！"
   },
   {
-    "RowIndex": 601,
     "Id": "AccountNeedsToBeOffline",
     "Text": "この操作をするにはアカウントがオフラインである必要があります。"
   },
   {
-    "RowIndex": 602,
     "Id": "AccountTransferInProgress",
     "Text": "このアカウントは現在インスタンス間を移動中です。時間を置いてやり直してください。"
   },
   {
-    "RowIndex": 603,
     "Id": "SanctumAlreadyOpenedError",
     "Text": "このサンクタムは既に開いているため、参加することはできません。"
   },
   {
-    "RowIndex": 604,
     "Id": "CXInvalidRequest",
     "Text": "無効なリクエスト"
   },
   {
-    "RowIndex": 605,
     "Id": "CXOrderDoesNotExist",
     "Text": "注文は存在しません。"
   },
   {
-    "RowIndex": 606,
     "Id": "CXOrderAlreadyClosed",
     "Text": "注文は既に終了しています。"
   },
   {
-    "RowIndex": 607,
     "Id": "CXOrderIsNotClosed",
     "Text": "先に注文を終了してください。"
   },
   {
-    "RowIndex": 608,
     "Id": "CXMarketDisabled",
     "Text": "市場は閉じています。"
   },
   {
-    "RowIndex": 609,
     "Id": "CXPendingTransactionOpen",
     "Text": "保留中のトランザクションが進行中です。"
   },
   {
-    "RowIndex": 610,
     "Id": "CXPendingChangeRollback",
     "Text": "保留中のトランザクションがロールバックされました。"
   },
   {
-    "RowIndex": 611,
     "Id": "CXNoPendingCommit",
     "Text": "保留中のトランザクションが見つかりません。"
   },
   {
-    "RowIndex": 612,
     "Id": "CXTooManyOrders",
     "Text": "注文が多すぎます。"
   },
   {
-    "RowIndex": 613,
     "Id": "CXQueryOrderRateLimited",
     "Text": "さらに取引を問い合わせる前に待たなければなりません。"
   },
   {
-    "RowIndex": 614,
     "Id": "CXGenericQueryFailure",
     "Text": "取引の問い合わせに失敗しました。"
   },
   {
-    "RowIndex": 615,
     "Id": "CXGenericOrderFailure",
     "Text": "注文に失敗しました。"
   },
   {
-    "RowIndex": 616,
     "Id": "CXCouldNotFindSellItems",
     "Text": "売却しようとしているアイテムが見つかりません。"
   },
   {
-    "RowIndex": 617,
     "Id": "InstanceClosingSoon",
     "Text": "このインスタンスはあと数分で閉じます。回線の切断を避けるために他のエリアに移動してください。"
   },
   {
-    "RowIndex": 618,
     "Id": "NotEnoughGoldStorage",
     "Text": "この量の金貨を貯めることはできません。"
   },
   {
-    "RowIndex": 619,
     "Id": "AccountNotAuthorizedOnServer",
     "Text": "このアカウントはこのサーバーにアクセスするための認証を受けていません。"
   },
   {
-    "RowIndex": 620,
     "Id": "CharacterSentToVoidLeague",
     "Text": "{0} （レベル100）がヴォイドに送られました！"
   },
   {
-    "RowIndex": 621,
     "Id": "MustMigrateGarena",
     "Text": "このアカウントは始めにGarenaからHotcoolに移行する必要があります。"
   },
   {
-    "RowIndex": 622,
     "Id": "GuildLeaderCannotLeave",
     "Text": "ギルドから脱退するには、他のギルドメンバーをリーダーに昇格させなければなりません。"
   },
   {
-    "RowIndex": 623,
     "Id": "NoHideoutSet",
     "Text": "隠れ家を持っていません。"
   },
   {
-    "RowIndex": 624,
     "Id": "NotImplemented",
     "Text": "未実装です。"
   },
   {
-    "RowIndex": 625,
     "Id": "SonyWebApiBadRequest",
     "Text": "不適切なリクエスト"
   },
   {
-    "RowIndex": 626,
     "Id": "SonyWebApiNotAuthorized",
     "Text": "承認されていません。"
   },
   {
-    "RowIndex": 627,
     "Id": "SonyWebApiForbidden",
     "Text": "禁止されています。"
   },
   {
-    "RowIndex": 628,
     "Id": "SonyWebApiAccessTokenExpired",
     "Text": "アクセストークンが期限切れです。"
   },
   {
-    "RowIndex": 629,
     "Id": "SonyWebApiNotPermitted",
     "Text": "この操作を行う権限がありません。"
   },
   {
-    "RowIndex": 630,
     "Id": "SonyWebApiContextIdAlreadyRegistered",
     "Text": "指定されたContextIdはすでに登録されています。"
   },
   {
-    "RowIndex": 631,
     "Id": "SonyWebApiServiceUnavailable",
     "Text": "サービスは利用できません。"
   },
   {
-    "RowIndex": 632,
     "Id": "SonyWebApiSessionManagerAlreadyJoinedPlayerSession",
     "Text": "すでにプレイヤーセッションのメンバーです。"
   },
   {
-    "RowIndex": 633,
     "Id": "SonyWebApiSessionManagerPlayerSessionDoesNotExist",
     "Text": "プレイヤーセッションが存在しません。"
   },
   {
-    "RowIndex": 634,
     "Id": "SonyWebApiSessionManagerBlockedUserExists",
     "Text": "ブロックされたユーザーが存在します。"
   },
   {
-    "RowIndex": 635,
     "Id": "SonyWebApiSessionManagerNotPermittedToJoinPlayerSession",
     "Text": "セッションへの参加は許可されていません。"
   },
   {
-    "RowIndex": 636,
     "Id": "SonyWebApiSessionManagerNotMemberOfSession",
     "Text": "メンバーがセッションに参加していません。"
   },
   {
-    "RowIndex": 637,
     "Id": "SonyWebApiSessionManagerBlocked",
     "Text": "ブロックされています。"
   },
   {
-    "RowIndex": 638,
     "Id": "SonyWebApiSessionManagerSessionFull",
     "Text": "セッションは定員に達しました。"
   },
   {
-    "RowIndex": 639,
     "Id": "MapDeviceMissingRecipeRequirement",
     "Text": "起動に失敗。解放されたボスに挑戦するには、このボスの通常バージョンを一度倒している必要があります。"
   },
   {
-    "RowIndex": 640,
     "Id": "ReliquaryVaultKeyMissing",
     "Text": "この機構はロックされており、開くためには鍵が必要です。"
   },
   {
-    "RowIndex": 641,
     "Id": "MapCraftingFailedCraftNoExtraContent",
     "Text": "起動に失敗。このマップには追加コンテンツを付与できません。"
   },
   {
-    "RowIndex": 642,
     "Id": "StopwatchElapsedTime",
     "Text": "経過時間：{0}"
   },
   {
-    "RowIndex": 643,
     "Id": "StopwatchSplitTime",
     "Text": "このスプリット：{0}"
   },
   {
-    "RowIndex": 644,
     "Id": "AncestralTrialRosterFull",
     "Text": "戦士およびフィールドアイテムの最大数に達しました。新しいものを購入するために既存のものを売却してください。"
   },
   {
-    "RowIndex": 645,
     "Id": "AncestralTrialInventoryFull",
     "Text": "装備アイテムの最大数に達しました。新しいものを購入するために既存のものを売却してください。"
   },
   {
-    "RowIndex": 646,
     "Id": "LeagueFirstToAncestorRank",
     "Text": "{0}が先祖の試練において最初にランキングレート{1}に到達したキャラクターです！"
   },
   {
-    "RowIndex": 647,
     "Id": "AncestralTrialMatchInProgress",
     "Text": "先祖の試練進行中は死者の殿堂に入ることはできません。"
   },
   {
-    "RowIndex": 648,
     "Id": "MapLethalAfterTimeBeginDeathCount",
     "Text": "逃げるのだ！この場所の基礎を成す記憶が溶けていっている。"
   },
   {
-    "RowIndex": 649,
     "Id": "MapLethalAfterTimeFinalCountdown",
     "Text": " {0}"
   },
   {
-    "RowIndex": 650,
     "Id": "MapLethalAfterTimeKillPlayer",
     "Text": "この場所はこれ以上生命を維持することができぬ。お前がすでに逃げていることを祈るばかりだ。"
   },
   {
-    "RowIndex": 651,
     "Id": "MapLethalAfterTime75Percent",
     "Text": "恐れていた通り、ここは安定したマップではない。ここの時間の四分の一を消費している。"
   },
   {
-    "RowIndex": 652,
     "Id": "MapLethalAfterTime50Percent",
     "Text": "エリアの完全性の半分が破壊されたぞ。"
   },
   {
-    "RowIndex": 653,
     "Id": "MapLethalAfterTime25Percent",
     "Text": "もうすぐ時間切れだ。残り四分の一！"
   },
   {
-    "RowIndex": 654,
     "Id": "MapLethalAfterTimeCompletion",
     "Text": "危険は去った。この場所は今は安全だ......いや、アトラスと同じくらいには安全だ。"
   },
   {
-    "RowIndex": 655,
     "Id": "MapLethalAfterTimeEntrance",
     "Text": "愛しのザナ、お前はこの場所に長くいてはいけない。現実というより夢だ。できる限りの警告を刻み込むつもりだ。"
   },
   {
-    "RowIndex": 656,
     "Id": "MapDeviceCannotUseFragmentWithMapTier",
     "Text": "起動に失敗。{0}はこのティアのマップに適用できません。"
   },
   {
-    "RowIndex": 657,
     "Id": "CharacterNotUsableInCouchCoop",
     "Text": "このキャラクターはローカル協力プレイでは使用できません。"
   },
   {
-    "RowIndex": 658,
     "Id": "ReceivedWeaponSpecialisationPoint1",
     "Text": "武器セットパッシブポイントを獲得しました。"
   },
   {
-    "RowIndex": 659,
     "Id": "ReceivedWeaponSpecialisationPointN",
     "Text": "{0}店の武器セットパッシブポイントを獲得しました。"
   },
   {
-    "RowIndex": 660,
     "Id": "DemoComplete",
     "Text": "おめでとうございます！デモプレイを完了しました。プレイしていただきありがとうございました！"
   },
   {
-    "RowIndex": 661,
     "Id": "DemoDisconnectWarning",
     "Text": "20秒でタイトル画面に戻ります......"
   },
   {
-    "RowIndex": 662,
     "Id": "DemoTimeUp",
     "Text": "プレイ時間が終了しました。プレイしていただきありがとうございました！"
   },
   {
-    "RowIndex": 663,
     "Id": "InteractErrorSacrificialHeart",
     "Text": "ある種の心臓が必要なようだ。"
   },
   {
-    "RowIndex": 664,
     "Id": "InteractErrorSacrificialDagger",
     "Text": "ある種の短剣が必要なようだ。"
   },
   {
-    "RowIndex": 665,
     "Id": "CannotRejoinAreaAfterDeath",
     "Text": "このエリアに死亡後に再度参加することはできません。"
   },
   {
-    "RowIndex": 666,
     "Id": "INTLFailedToGetLoginInfo",
     "Text": "ログイン情報の取得に失敗"
   },
   {
-    "RowIndex": 667,
     "Id": "InteractErrorDoorIsOneWay",
     "Text": "[DNT] The door does not open from this side."
   },
   {
-    "RowIndex": 668,
     "Id": "InteractErrorDoorRequiresKey1",
     "Text": "[DNT] The Martyr Relief is flecked with gold, as though it once held a golden sceptre."
   },
   {
-    "RowIndex": 669,
     "Id": "InteractErrorDoorRequiresKey2",
     "Text": "[DNT] The Painter Relief is flecked with gold, as though it once held a golden palette."
   },
   {
-    "RowIndex": 670,
     "Id": "InteractErrorDoorRequiresKey3",
     "Text": "[DNT] The Scholar relief is flecked with gold, as though it once held a golden tome."
   },
   {
-    "RowIndex": 671,
     "Id": "InteractErrorDoorRequiresKey4",
     "Text": "[DNT] The Bard relief is flecked with gold, as though it once held a golden lyre."
   },
   {
-    "RowIndex": 672,
     "Id": "InteractErrorDominusSecretPassage",
     "Text": "[DNT] The bust of Dominus is flecked with gold, as though it once wore a golden crown."
   },
   {
-    "RowIndex": 673,
     "Id": "QuestRewardConsumeMessage",
     "Text": "インベントリから削除：\r\n{0}"
   },
   {
-    "RowIndex": 674,
     "Id": "CannotDisenchantEquippedItem",
     "Text": "このアイテムは装備中のため解呪することはできません。"
   },
   {
-    "RowIndex": 675,
     "Id": "CrossplayRequestRejected",
     "Text": "ご自身のクロスプラットフォーム制限のためリクエストは拒否されました。"
   },
   {
-    "RowIndex": 676,
     "Id": "CrossplayRequestRejectedByCounterpart",
     "Text": "相手のクロスプラットフォーム制限のためリクエストは拒否されました。"
   },
   {
-    "RowIndex": 677,
     "Id": "CrossplayRequestIgnored",
     "Text": "ご自身のクロスプラットフォーム制限のため受信中のリクエストは無視されました。"
   },
   {
-    "RowIndex": 678,
     "Id": "AccountMergeFailed",
     "Text": "アカウントの統合に失敗しました。"
   },
   {
-    "RowIndex": 679,
     "Id": "AccountUnmergeFailed",
     "Text": "アカウントの分割に失敗しました。"
   },
   {
-    "RowIndex": 680,
     "Id": "AccountNameUnavailable",
     "Text": "このアカウント名は利用できません。"
   },
   {
-    "RowIndex": 681,
     "Id": "NotEnoughPortalsForParty",
     "Text": "入るためのポータルが不足しています。"
   }

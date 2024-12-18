@@ -1,27 +1,23 @@
 [
   {
-    "RowIndex": 0,
     "Id": "ItemInLeague",
     "Whisper": "สวัสดี เราต้องการซื้อ {{ITEM}} ที่คุณตั้งขายไว้ในลีก {{LEAGUE}}",
     "InStash": false,
     "IsPriced": false
   },
   {
-    "RowIndex": 1,
     "Id": "ItemInLeaguePriced",
     "Whisper": "สวัสดี เราต้องการซื้อ {{ITEM}} ที่คุณตั้งขายไว้ในราคา {{PRICE}} ในลีก {{LEAGUE}}",
     "InStash": false,
     "IsPriced": true
   },
   {
-    "RowIndex": 2,
     "Id": "ItemInLeagueInStash",
     "Whisper": "สวัสดี เราต้องการซื้อ {{ITEM}} ที่คุณตั้งขายไว้ในลีก {{LEAGUE}} (แท็บ \"{{STASH}}\" ตำแหน่ง: ซ้าย {{LEFT}}, บน {{TOP}})",
     "InStash": true,
     "IsPriced": false
   },
   {
-    "RowIndex": 3,
     "Id": "ItemInLeaguePricedInStash",
     "Whisper": "สวัสดี เราต้องการซื้อ {{ITEM}} ที่คุณตั้งขายไว้ในราคา {{PRICE}} ในลีก {{LEAGUE}} (แท็บ \"{{STASH}}\" ตำแหน่ง: ซ้าย {{LEFT}}, บน {{TOP}})",
     "InStash": true,

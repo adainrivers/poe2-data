@@ -1,1076 +1,861 @@
 [
   {
-    "RowIndex": 0,
     "Id": "BlackguardZombie",
     "ArtString_SMFile": "Art\\Models\\MONSTERS\\ZombieBlackguard\\Zombie_BlackGuard_arrows1.sm ! Art\\Models\\MONSTERS\\ZombieBlackguard\\Zombie_BlackGuard_arrows2.sm ! Art\\Models\\MONSTERS\\ZombieBlackguard\\Zombie_BlackGuard_arrows3.sm"
   },
   {
-    "RowIndex": 1,
     "Id": "BanditCaster",
     "ArtString_SMFile": "Art\\Models\\MONSTERS\\Bandits\\HelmetDexInt8Bandit2.sm"
   },
   {
-    "RowIndex": 2,
     "Id": "BanditBow",
     "ArtString_SMFile": "Art\\Models\\Items\\Armours\\BodyArmours\\BodyStr2A\\BodyStr2AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStr4A\\BodyStr4AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrDex1A\\BodyStrDex1AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrInt1A\\BodyStrInt1AmBandit.sm ~ bandit_upperbody_0Shape1 & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBa"
   },
   {
-    "RowIndex": 3,
     "Id": "BanditBowParasiteFace",
     "ArtString_SMFile": "Art\\Models\\Items\\Armours\\BodyArmours\\BodyStr2A\\BodyStr2AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStr4A\\BodyStr4AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrDex1A\\BodyStrDex1AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrInt1A\\BodyStrInt1AmBandit.sm ~ bandit_upperbody_0Shape1 & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBa"
   },
   {
-    "RowIndex": 4,
     "Id": "BanditBowBoss2",
     "ArtString_SMFile": "Art\\Models\\Items\\Armours\\BodyArmours\\Unique\\KintsugiBodyArmour\\KintsugiBodyBandit.sm & Art\\Models\\Items\\Armours\\Helmets\\Microtransactions\\DragonSet\\DragonSetHelmetBandit.sm & Art\\Models\\Items\\Armours\\Gloves\\Microtransactions\\GloomArmour\\GloomArmourGlovesBandit.sm & Art\\Models\\Items\\Armours\\Boots\\Microtransactions\\GloomArmour\\GloomArmourBootsBandit.sm bandit_head_0Shape2 -bandit_head_0Shape3 -bandit_head_0Shape5 -bandit_legs_0Shape1 -bandit_legs_0Shape2 -bandit_legs_0Shape3 -bandit_legs_0Shape5 -bandit_Lhand"
   },
   {
-    "RowIndex": 5,
     "Id": "BanditChampionMelee",
     "ArtString_SMFile": "Art\\Models\\MONSTERS\\Bandits\\BodyStr2BBandit.sm & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrDexSpecial1\\BootsStrDexSpecial1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrInt2\\BootsStrInt2mBandit.sm & Art\\Models\\Items\\Armours\\Gloves\\GlovesStr1\\GlovesStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Gloves\\GlovesStrDex1\\GlovesStrDex1mBandit.sm ! Art\\Models\\Items\\Armours\\Gloves\\GlovesStrInt1\\G"
   },
   {
-    "RowIndex": 6,
     "Id": "BanditChampionMeleeParasiteFace",
     "ArtString_SMFile": "Art\\Models\\MONSTERS\\Bandits\\BodyStr2BBandit.sm & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrDexSpecial1\\BootsStrDexSpecial1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrInt2\\BootsStrInt2mBandit.sm & Art\\Models\\Items\\Armours\\Gloves\\GlovesStr1\\GlovesStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Gloves\\GlovesStrDex1\\GlovesStrDex1mBandit.sm ! Art\\Models\\Items\\Armours\\Gloves\\GlovesStrInt1\\G"
   },
   {
-    "RowIndex": 7,
     "Id": "BanditChampionBow",
     "ArtString_SMFile": "Art\\Models\\MONSTERS\\Bandits\\BanditArmour08.sm & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrDexSpecial1\\BootsStrDexSpecial1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrInt2\\BootsStrInt2mBandit.sm & Art\\Models\\Items\\Armours\\Gloves\\GlovesStr1\\GlovesStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Gloves\\GlovesStrDex1\\GlovesStrDex1mBandit.sm ! Art\\Models\\Items\\Armours\\Gloves\\GlovesStrInt1\\Gl"
   },
   {
-    "RowIndex": 8,
     "Id": "BanditBoss",
     "ArtString_SMFile": "Art\\Models\\MONSTERS\\Bandits\\BodyStr2CBandit.sm ~ bandit_upperbody_0Shape1 & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrDexSpecial1\\BootsStrDexSpecial1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrInt2\\BootsStrInt2mBandit.sm & Art\\Models\\Items\\Armours\\Gloves\\GlovesStr1\\GlovesStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Gloves\\GlovesStrDex1\\GlovesStrDex1mBandit.sm ! Art\\Models\\Items\\Arm"
   },
   {
-    "RowIndex": 9,
     "Id": "BanditStag",
     "ArtString_SMFile": "Art\\Models\\Items\\Armours\\BodyArmours\\BodyStr2A\\BodyStr2AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrDex1A\\BodyStrDex1AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrInt1A\\BodyStrInt1AmBandit.sm ~ bandit_upperbody_0Shape1 & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrDexSpecial1\\BootsStrDexSpecial1mBandit.sm ! Art"
   },
   {
-    "RowIndex": 10,
     "Id": "BanditBear",
     "ArtString_SMFile": "Art\\Models\\Items\\Armours\\BodyArmours\\BodyStr2A\\BodyStr2AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrDex1A\\BodyStrDex1AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrInt1A\\BodyStrInt1AmBandit.sm ~ bandit_upperbody_0Shape1 & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrDexSpecial1\\BootsStrDexSpecial1mBandit.sm ! Art"
   },
   {
-    "RowIndex": 11,
     "Id": "BanditBoar",
     "ArtString_SMFile": "Art\\Models\\Items\\Armours\\BodyArmours\\BodyStr2A\\BodyStr2AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrDex1A\\BodyStrDex1AmBandit.sm ~ bandit_upperbody_0Shape1 ! Art\\Models\\Items\\Armours\\BodyArmours\\BodyStrInt1A\\BodyStrInt1AmBandit.sm ~ bandit_upperbody_0Shape1 & Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStr1\\BootsStr1mBandit.sm ! Art\\Models\\Items\\Armours\\Boots\\BootsStrDexSpecial1\\BootsStrDexSpecial1mBandit.sm ! Art"
   },
   {
-    "RowIndex": 12,
     "Id": "BanditAnimalTrio",
     "ArtString_SMFile": "Art\\Models\\MONSTERS\\Bandits\\BanditBearArmourSet.sm ~ bandit_upperbody_0Shape1 & Art\\Models\\Monsters\\Bandits\\TheAnimalPack.sm"
   },
   {
-    "RowIndex": 13,
     "Id": "AnimatedArmourMonster",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyStr6A/BodyStr6AStrInt.sm & Art/Models/Items/Armours/Boots/BootsStr4/BootsStr4StrInt.sm & Art/Models/Items/Armours/Gloves/GlovesStr2/GlovesStr2StrInt.sm"
   },
   {
-    "RowIndex": 14,
     "Id": "AnimatedArmourBoss",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceStrInt.sm & Art/Models/Items/Armours/Boots/BootsDex5/BootsDex5StrInt.sm & Art/Models/Items/Armours/Gloves/Unique/DemigodsTouch/GlovesDemigodsTouchStrInt.sm & Art/Models/Items/Armours/Helmets/Uniques/DemigodsTriumphAlt/HelmetDeligodsTriumphAltStrInt.sm"
   },
   {
-    "RowIndex": 15,
     "Id": "AnimatedArmourTreasureGolem",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/RadiantArmour/RadiantBodyStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/RadiantArmour/RadiantBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/RadiantArmour/RadiantGlovesStrInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/RadiantArmour/RadiantHelmetStrInt.sm"
   },
   {
-    "RowIndex": 16,
     "Id": "Fairgraves",
     "ArtString_SMFile": "Art/Models/NPC/traders/Trader3/fairgraves.sm"
   },
   {
-    "RowIndex": 17,
     "Id": "Pirate",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/HelmetPirate01Bandit.sm ! Art/Models/MONSTERS/Bandits/HelmetPirate02Bandit.sm"
   },
   {
-    "RowIndex": 18,
     "Id": "PirateChampion",
     "ArtString_SMFile": "Art/Models/MONSTERS/pirateghosts/PirateGhostHelmetDex6.sm"
   },
   {
-    "RowIndex": 19,
     "Id": "Skeleton",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/BodySkeleton.sm"
   },
   {
-    "RowIndex": 20,
     "Id": "Skeleton2",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/BodySkeleton2.sm"
   },
   {
-    "RowIndex": 21,
     "Id": "Skeleton2Ice",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/BodySkeleton2_Ice.sm"
   },
   {
-    "RowIndex": 22,
     "Id": "SkeletonLarge",
     "ArtString_SMFile": "Art/Models/MONSTERS/SkeletonLarge/skeletonknight2.sm ! Art/Models/MONSTERS/SkeletonLarge/skeletonknight1.sm & Art/Models/MONSTERS/SkeletonLarge/BootsStrInt2Skeleton.sm & Art/Models/MONSTERS/SkeletonLarge/HelmetStr5skeleton.sm"
   },
   {
-    "RowIndex": 23,
     "Id": "SkeletonKnight1",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/skeletonknight1.sm & Art/Models/MONSTERS/skeleton/BootsStrInt2Skeleton.sm"
   },
   {
-    "RowIndex": 24,
     "Id": "SkeletonKnight2",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/skeletonknight2.sm ! Art/Models/MONSTERS/skeleton/skeletonknight1.sm & Art/Models/MONSTERS/skeleton/BootsStrInt2Skeleton.sm & Art/Models/MONSTERS/skeleton/HelmetStr5Skeleton.sm"
   },
   {
-    "RowIndex": 25,
     "Id": "SkeletonKnight3",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/skeletonknight3.sm & Art/Models/MONSTERS/skeleton/BootsStrInt2Skeleton.sm"
   },
   {
-    "RowIndex": 26,
     "Id": "SkeletonKnightMachinarium",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/PayloadKnight02.sm ! Art/Models/MONSTERS/skeleton/PayloadKnight01.sm & Art/Models/MONSTERS/skeleton/PayloadBoots.sm & Art/Models/MONSTERS/skeleton/PayloadHelmet.sm"
   },
   {
-    "RowIndex": 27,
     "Id": "SkeletonCasterMachinarium",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/PayloadKnight02.sm & Art/Models/MONSTERS/skeleton/PayloadBoots.sm"
   },
   {
-    "RowIndex": 28,
     "Id": "SkeletonSuperUnique",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/SkeletonSuperUnique.sm"
   },
   {
-    "RowIndex": 29,
     "Id": "SkeletonGeofri",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/SkeletonGeofri.sm"
   },
   {
-    "RowIndex": 30,
     "Id": "SkeletonKiteWest",
     "ArtString_SMFile": "Art/Models/Items/Armours/AnimateArmour/GreenSkullWestBoss.sm & Art/Models/Items/Armours/AnimateArmour/BodyZahndethusCassockWestBoss.sm & Art/Models/Items/Armours/Boots/BootsInt4/BootsInt4StrInt.sm & Art/Models/Items/Armours/AnimateArmour/HellBringerWestBoss.sm"
   },
   {
-    "RowIndex": 31,
     "Id": "SkeletonThaumaturgist",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/BootsStrInt2Skeleton.sm & Art/Models/MONSTERS/skeleton/skeletonknight2.sm"
   },
   {
-    "RowIndex": 32,
     "Id": "SkeletonBandit",
     "ArtString_SMFile": "Art\\Models\\MONSTERS\\skeleton\\SkeletonHelmetStr1mBandit.sm ! Art\\Models\\MONSTERS\\skeleton\\SkeletonHelmetStr3mBandit.sm ! Art\\Models\\MONSTERS\\skeleton\\SkeletonHelmetStrDex1mBandit.sm ! Art\\Models\\MONSTERS\\skeleton\\SkeletonHelmetStrDex2mBandit.sm ! Art\\Models\\MONSTERS\\skeleton\\SkeletonHelmetStrDex3mBandit.sm ! Art\\Models\\MONSTERS\\skeleton\\SkeletonHelmetStrInt1mBandit.sm ! Art\\Models\\MONSTERS\\skeleton\\SkeletonHelmetStrInt2mBandit.sm ! Art\\Models\\MONSTERS\\skeleton\\SkeletonHelmetStrInt3mBandit.sm & Art\\Models\\MON"
   },
   {
-    "RowIndex": 33,
     "Id": "SkeletonSaint",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/SkeletonGoldenWreath.sm ! Art/Models/MONSTERS/skeleton/SkeletonHelmetStrInt10.sm ! Art/Models/MONSTERS/skeleton/SkeletonHelmetStr11.sm & Art/Models/MONSTERS/skeleton/SkeletonGeofrisSanctuaryGlowless.sm ! Art/Models/MONSTERS/skeleton/SkeletonLioneyeVision.sm ! Art/Models/MONSTERS/skeleton/SkeletonDemigodDominance.sm & Art/Models/MONSTERS/skeleton/SkeletonGlovesDemigodsTouchGlowless.sm & Art/Models/MONSTERS/skeleton/SkeletonDemigodsStrideAltGlowless.sm ! Art/Models/MONSTERS/skelet"
   },
   {
-    "RowIndex": 34,
     "Id": "CannibalMaleBoss",
     "ArtString_SMFile": "Art/Models/MONSTERS/Cannibals/male/propsmodel.sm"
   },
   {
-    "RowIndex": 35,
     "Id": "CannibalFemaleBoss",
     "ArtString_SMFile": "Art/Models/MONSTERS/Cannibals/female/fingersnecklace.sm"
   },
   {
-    "RowIndex": 36,
     "Id": "CityStalkerWorkmen",
     "ArtString_SMFile": "Art/Models/MONSTERS/CityStalkers/Male/UndyingWorkmen01.sm ! Art/Models/MONSTERS/CityStalkers/Male/UndyingWorkmen02.sm ! Art/Models/MONSTERS/CityStalkers/Male/UndyingWorkmen03.sm"
   },
   {
-    "RowIndex": 37,
     "Id": "CityStalkerMale",
     "ArtString_SMFile": "Art/Models/MONSTERS/CityStalkers/Male/aristocrat01.sm ! Art/Models/MONSTERS/CityStalkers/Male/aristocrat02.sm ! Art/Models/MONSTERS/CityStalkers/Male/aristocrat03.sm"
   },
   {
-    "RowIndex": 38,
     "Id": "CityStalkerFemale",
     "ArtString_SMFile": "Art/Models/MONSTERS/CityStalkers/Female/aristocratfemale01.sm ! Art/Models/MONSTERS/CityStalkers/Female/aristocratfemale02.sm"
   },
   {
-    "RowIndex": 39,
     "Id": "CityStalkerFemaleCaliga",
     "ArtString_SMFile": "Art/Models/MONSTERS/CityStalkers/Female/aristocratfemale02.sm & Art/Models/MONSTERS/CityStalkers/Female/CaligaHelmetHalo.sm"
   },
   {
-    "RowIndex": 40,
     "Id": "CityStalkerFemaleInvasion",
     "ArtString_SMFile": "Art/Models/MONSTERS/CityStalkers/Female/aristocratfemale02.sm & Art/Models/MONSTERS/CityStalkers/Female/MohawkUndying.sm"
   },
   {
-    "RowIndex": 41,
     "Id": "BeyondDemon3-1",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/BodyAshrendBandit_ALT.sm"
   },
   {
-    "RowIndex": 42,
     "Id": "BeyondDemon3-2",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/BodyCarcassJackBandit_ALT.sm"
   },
   {
-    "RowIndex": 43,
     "Id": "BeyondDemon3-3",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/BodyTheCovenantBandit_ALT.sm"
   },
   {
-    "RowIndex": 44,
     "Id": "BeyondDemon3-4",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/BodyDeathsOathBandit_ALT.sm"
   },
   {
-    "RowIndex": 45,
     "Id": "BeyondDemon3-5",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/BodyBellyoftheBeastBandit_ALT.sm"
   },
   {
-    "RowIndex": 46,
     "Id": "VaganAllyRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/HelmetDex5/HelmetDex5Dex.sm & Art/Models/Items/Armours/Helmets/HelmetDexInt7/HelmetDexInt7Dex.sm & Art/Models/Items/Armours/Gloves/GlovesDexInt1/GlovesDexInt1Dex.sm & Art/Models/Items/Armours/BodyArmours/BodyDex2C/BodyDex2CDex.sm"
   },
   {
-    "RowIndex": 47,
     "Id": "VaganAllyShadow",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/HelmetDex5/HelmetDex5DexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDexInt7/HelmetDexInt7DexInt.sm & Art/Models/Items/Armours/Gloves/GlovesDexInt1/GlovesDexInt1DexInt.sm & Art/Models/Items/Armours/BodyArmours/BodyDex2C/BodyDex2CDexInt.sm"
   },
   {
-    "RowIndex": 48,
     "Id": "GemlingLegionnaire1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyInt.sm -witch_headShape -witch_hairBottomShape -witch_hairTopShape -witch_feetShape -witch_handsShape -witch_armsShape -witch_forearmsShape -witch_bodyShape -witch_skirtShape -w"
   },
   {
-    "RowIndex": 49,
     "Id": "GemlingLegionnaire2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesStr.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyStr.sm -warrior_hairShape -warrior_headShape -warrior_feetShape -warrior_handsShape -warrior_skirtShape -warrior_bodyShape -warrior_armsShape -warrior_forearmsShape -warrior_upp"
   },
   {
-    "RowIndex": 50,
     "Id": "GemlingLegionnaire3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyStrDexInt.sm -adventurer_hairShape -adventurer_headShape -adventurer_feetShape -adventurer_handsShape -adventurer_necklaceShape -adventurer_bodyShape -adventur"
   },
   {
-    "RowIndex": 51,
     "Id": "GemlingLegionnaire4",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesStrDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyStrDex.sm -swordman_headShape -swordman_hairShape -swordman_feetShape -swordman_handsShape -swordman_bodyShape -swordman_armsShape -swordman_forearmsShape -swordman_upp"
   },
   {
-    "RowIndex": 52,
     "Id": "GemlingLegionnaire5",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyDexInt.sm -hairShape -headShape -feetShape -handsShape -armsShape -bodyShape -forearmsShape -aprinShape -upper_legsShape -lower_legsShape"
   },
   {
-    "RowIndex": 53,
     "Id": "GemlingLegionnaire6",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesStrInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyStrInt.sm -templar_headShape -templar_feetShape -templar_handsShape -templar_bodyShape -templar_armsShape -templar_forearmsShape -templar_bookShape -templar_cloth_botto"
   },
   {
-    "RowIndex": 54,
     "Id": "GemlingLegionnaire7",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyDex.sm -hunter_headShape -hunter_hairShape -hunter_feetShape -hunter_handsShape -hunter_armsShape -hunter_forearmsShape -hunter_bodyShape -hunter_beltShape -hunter_upper_legsSha"
   },
   {
-    "RowIndex": 55,
     "Id": "RogueExileWitch1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/WrittenCharm/written_charmInt.sm & Art/Models/Items/Armours/BodyArmours/BodyInt2C/BodyInt2CInt.sm & Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1Int.sm & Art/Models/Items/Armours/Boots/BootsInt4/BootsInt4Int.sm & Art/Models/Items/Armours/Helmets/HelmetInt5/HelmetInt5Int.sm"
   },
   {
-    "RowIndex": 56,
     "Id": "RogueExileWitch2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/HelmetInt7/HelmetInt7Int.sm & Art/Models/Items/Armours/BodyArmours/Unique/ShavronnesWrappings/ShavronnesWrappingsInt.sm -witch_lower_legsShape -witch_upper_legsShape -witch_bodyShape -witch_armsShape -witch_skirtShape & Art/Models/Items/Armours/Boots/BootsInt2/BootsInt2Int.sm"
   },
   {
-    "RowIndex": 57,
     "Id": "RogueExileWitch3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/IronMaiden/HelmetInt7Int.sm & Art/Models/Items/Armours/BodyArmours/BodyInt2A/BodyInt2AInt.sm & Art/Models/Items/Armours/Boots/BootsInt2/BootsInt2Int.sm -witch_hairBottomShape -witch_hairTopShape -witch_headShape"
   },
   {
-    "RowIndex": 58,
     "Id": "RogueExileWitch4",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Necrotic/NecroticHelmetInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Necrotic/NecroticBootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Necrotic/NecroticGlovesInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/Necrotic/NecroticBodyInt.sm -witch_armsShape -witch_forearmsShape -witch_bodyShape -witch_skirtShape -witch_upper_legsShape -witch_lower_legsShape -witch_handsShape -witch_feetShape -witch_hairBottomShape -witch_"
   },
   {
-    "RowIndex": 59,
     "Id": "RogueExileWitch5",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/GrandIceCrown/GrandIceCrownInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/ArcticArmour/ArcticBodyInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcticArmour/ArcticGlovesInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/ArcticArmour/ArcticBootsInt.sm -witch_armsShape -witch_bodyShape -witch_feetShape -witch_forearmsShape -witch_handsShape -witch_lower_legsShape -witch_skirtShape -witch_upper_legsShape"
   },
   {
-    "RowIndex": 60,
     "Id": "RogueExileWitch6",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/GhostFire/GhostFireHelmetInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/ghostflame_skull/SkullGhostFlameInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/GhostFire/GhostFireBodyInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/GhostFire/GhostFireBootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/GhostFire/GhostFireGlovesInt.sm -witch_armsShape -witch_bodyShape -witch_feetShape -witch_forearmsShape -witch_hands"
   },
   {
-    "RowIndex": 61,
     "Id": "RogueExileWitch7",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/UltimateChaosArmourSet/UltimateChaosArmourHelmetInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/UltimateChaosArmourSet/UltimateChaosArmourBodyInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/UltimateChaosArmourSet/UltimateChaosArmourGlovesInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/UltimateChaosArmourSet/UltimateChaosArmourBootsInt.sm -witch_armsShape -witch_bodyShape -witch_feetShape -witch_forearmsShape -witch_hairB"
   },
   {
-    "RowIndex": 62,
     "Id": "RogueExileRanger1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/HornAntlers/horn_antlersDex.sm & Art/Models/Items/Armours/BodyArmours/BodyDex2C/BodyDex2CDex.sm -hunter_bodyShape -hunter_armsShape"
   },
   {
-    "RowIndex": 63,
     "Id": "RogueExileRanger2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/IronWings/iron_wingsDex.sm & Art/Models/Items/Armours/BodyArmours/BodyDex3C/BodyDex3CDex.sm & Art/Models/Items/Armours/Gloves/GlovesDex1/GlovesDex1Dex.sm & Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4Dex.sm -hunter_hairShape"
   },
   {
-    "RowIndex": 64,
     "Id": "RogueExileRanger3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/wedjat/wedjatDex.sm & Art/Models/Items/Armours/BodyArmours/BodyDex1C/BodyDex1CDex.sm -hunter_bodyShape -hunter_armsShape & Art/Models/Items/Armours/Helmets/HelmetDex6/HelmetDex6Dex.sm -hunter_hairShape"
   },
   {
-    "RowIndex": 65,
     "Id": "RogueExileRanger4",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/HelmetDex2/HelmetDex2Dex.sm & Art/Models/Items/Armours/BodyArmours/BodyDex3A/BodyDex3ADex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Mohawk/MohawkDex.sm"
   },
   {
-    "RowIndex": 66,
     "Id": "RogueExileRanger5",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/DragonSet/DragonSetBodyDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/DragonSet/DragonSetBootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/DragonSet/DragonSetGlovesDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/DragonSet/DragonSetHelmetDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/DragonMask/DragonMaskDex.sm -hunter_bodyShape -hunter_armsShape -hunter_lower_legsShape -hunter_feetShape -hunter_handsShap"
   },
   {
-    "RowIndex": 67,
     "Id": "RogueExileRangerX",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/ArcticArmour/ArcticBodyDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/ArcticArmour/ArcticBootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcticArmour/ArcticGlovesDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/ArcticArmour/ArcticHelmetDex.sm -hunter_hairShape -hunter_beltShape -hunter_upper_legsShape"
   },
   {
-    "RowIndex": 68,
     "Id": "RogueExileMarauder1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Horn_01/horn_01Str.sm & Art/Models/Items/Armours/BodyArmours/BodyStr3C/BodyStr3CStr.sm -warrior_bodyShape -warrior_skirtShape & Art/Models/Items/Armours/Boots/BootsStr3/BootsStr3Str.sm & Art/Models/Items/Armours/Helmets/HelmetStr4/HelmetStr4Str.sm -warrior_hairShape"
   },
   {
-    "RowIndex": 69,
     "Id": "RogueExileMarauder2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/DemonKingHorns/demon_king_hornsStr.sm & Art/Models/Items/Armours/BodyArmours/BodyStr6A/BodyStr6AStr.sm & Art/Models/Items/Armours/Boots/BootsStr4/BootsStr4Str.sm & Art/Models/Items/Armours/Gloves/GlovesStr2/GlovesStr2Str.sm -warrior_handsShape"
   },
   {
-    "RowIndex": 70,
     "Id": "RogueExileMarauder3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/DemonKingHorns/demon_king_hornsStr.sm & Art/Models/Items/Armours/BodyArmours/Unique/DeathsOath/BodyDeathsOathStr.sm & Art/Models/Items/Armours/Boots/WindscreamAlt/BootsWindScreamAltStr.sm & Art/Models/Items/Armours/Gloves/GlovesStr1/GlovesStr1Str.sm -warrior_handsShape"
   },
   {
-    "RowIndex": 71,
     "Id": "RogueExileMarauder4",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/HelmetStr2/HelmetStr2Str.sm & Art/Models/Items/Armours/Boots/BootsStr4/BootsStr4Str.sm & Art/Models/Items/Armours/Gloves/Unique/FacebreakerAlt/GlovesFacebreakerAltStr.sm -warrior_handsShape"
   },
   {
-    "RowIndex": 72,
     "Id": "RogueExileMarauder5",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/VerdantArmour/VerdantArmourBodyStr.sm -warrior_bodyShape -warrior_armsShape -warrior_upper_legsShape -warrior_lower_legsShape -warrior_skirtShape & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsStr.sm -warrior_feetShape & Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesStr.sm -warrior_handsShape & Art/Models/Items/Armours/Helmets/Microtransactions/VerdantArmour/VerdantArmourHelmetStr."
   },
   {
-    "RowIndex": 73,
     "Id": "RogueExileMarauder6",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/BeastGore/BeastGoreBodyStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/BeastGore/BeastGoreBootsStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/BeastGore/BeastGoreGlovesStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/BeastGore/BeastGoreHelmetStr.sm -warrior_bodyShape -warrior_armsShape -warrior_upper_legsShape -warrior_lower_legsShape -warrior_skirtShape -warrior_feetShape -warrior_handsShape -warrior_hairShape"
   },
   {
-    "RowIndex": 74,
     "Id": "RogueExileMarauder7",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/iceskull/SkullIceStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Harbinger_eyes/mesh/HarbEyesStr.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SeraphSkinCerulean/SeraphCeruleanBodyStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/SeraphSkinCerulean/SeraphCeruleanBootsStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/SeraphSkinCerulean/SeraphCeruleanGlovesStr.sm -warrior_armsShape -warrior_bodyShape -warrior_feetSha"
   },
   {
-    "RowIndex": 75,
     "Id": "RogueExileMarauderX",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/BearArmourSet/BearArmourBodyStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/BearArmourSet/BearArmourBootsStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/BearArmourSet/BearArmourGlovesStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/BearArmourSet/BearArmourHelmetStr.sm -warrior_bodyShape -warrior_armsShape -warrior_upper_legsShape -warrior_lower_legsShape -warrior_skirtShape -warrior_feetShape -warrior_handsShape -warrior_"
   },
   {
-    "RowIndex": 76,
     "Id": "RogueExileDuelist1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/IronWings/iron_wingsStrDex.sm & Art/Models/Items/Armours/BodyArmours/BodyStrDex2C/BodyStrDex2CStrDex.sm -swordman_armsShape -swordman_bodyShape & Art/Models/Items/Armours/Boots/BootsStrDex3/BootsStrDex3StrDex.sm & Art/Models/Items/Armours/Gloves/GlovesStrDex1/GlovesStrDex1StrDex.sm -swordman_handsShape & Art/Models/Items/Armours/Helmets/HelmetStrDex2/HelmetStrDex2StrDex.sm -swordman_hairShape "
   },
   {
-    "RowIndex": 77,
     "Id": "RogueExileDuelist2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/LeftFeathers/victory_feathersStrDex.sm & Art/Models/Items/Armours/BodyArmours/BodyStrDex1C/BodyStrDex1CStrDex.sm -swordman_armsShape -swordman_bodyShape -swordman_forearmsShape & Art/Models/Items/Armours/Boots/BootsStrDex3/BootsStrDex3StrDex.sm"
   },
   {
-    "RowIndex": 78,
     "Id": "RogueExileDuelist3",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyStrDex2A/BodyStrDex2AStrDex.sm & Art/Models/Items/Armours/Helmets/HelmetStrDex3/HelmetStrDex3StrDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/LeftFeathers/victory_feathersStrDex.sm & Art/Models/Items/Armours/Gloves/GlovesStrDex1/GlovesStrDex1StrDex.sm -swordman_hairShape -swordman_handsShape"
   },
   {
-    "RowIndex": 79,
     "Id": "RogueExileDuelist4",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/VampiricArmour/VampiricArmourBodyStrDex.sm -swordman_bodyShape -swordman_armsShape -swordman_upper_legsShape -swordman_lower_legsShape & Art/Models/Items/Armours/Boots/Microtransactions/VampiricArmour/VampiricArmourBootsStrDex.sm -swordman_feetShape & Art/Models/Items/Armours/Gloves/Microtransactions/VampiricArmour/VampiricArmourGlovesStrDex.sm -swordman_handsShape & Art/Models/Items/Armours/Helmets/Microtransactions/VampiricArmour/VampiricArmourHelmetS"
   },
   {
-    "RowIndex": 80,
     "Id": "RogueExileDuelist5",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/GloomArmour/GloomArmourBodyStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/GloomArmour/GloomArmourBootsStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/GloomArmour/GloomArmourGlovesStrDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/GloomArmour/GloomArmourHelmetStrDex.sm -swordman_bodyShape -swordman_armsShape -swordman_upper_legsShape -swordman_lower_legsShape -swordman_feetShape -swordman_handsShape -swordman_headS"
   },
   {
-    "RowIndex": 81,
     "Id": "RogueExileDuelist6",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/QueenoftheForest/QueenoftheForestStrDex.sm & Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1StrDex.sm & Art/Models/Items/Armours/Boots/BootsDex4/BootsDex4StrDex.sm & Art/Models/Items/Armours/Helmets/HelmetStrInt2/HelmetStrInt2StrDex.sm -swordman_armsShape -swordman_bodyShape -swordman_forearmsShape -swordman_lower_legsShape -swordman_upper_legsShape -swordman_handsShape -swordman_feetShape -swordman_hairShape -swordman_headShape"
   },
   {
-    "RowIndex": 82,
     "Id": "RogueExileDuelistX",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/DragonSet/DragonSetBodyStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/DragonSet/DragonSetBootsStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/DragonSet/DragonSetGlovesStrDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/DragonMask/DragonMaskStrDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/DragonSet/DragonSetHelmetStrDex.sm -swordman_bodyShape -swordman_armsShape -swordman_upper_legsShape -swordman_lowe"
   },
   {
-    "RowIndex": 83,
     "Id": "RogueExileTemplar1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/IceCrown/ice_crownStrInt.sm & Art/Models/Items/Armours/BodyArmours/BodyStrInt2C/BodyStrInt2CStrInt.sm -templar_bodyShape -templar_bookShape -templar_cloth_bottomShape -templar_cloth_topShape -templar_forearmsShape -templar_armsShape & Art/Models/Items/Armours/Boots/BootsStrInt3/BootsStrInt3StrInt.sm"
   },
   {
-    "RowIndex": 84,
     "Id": "RogueExileTemplar2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/AngelHalo_01/angel_halo_01StrInt.sm & Art/Models/Items/Armours/BodyArmours/BodyStrInt3C/BodyStrInt3CStrInt.sm -templar_bodyShape -templar_bookShape -templar_cloth_bottomShape -templar_cloth_topShape -templar_forearmsShape -templar_armsShape & Art/Models/Items/Armours/Boots/BootsStrInt3/BootsStrInt3StrInt.sm & Art/Models/Items/Armours/Helmets/HelmetStrInt5/HelmetStrInt5StrInt.sm"
   },
   {
-    "RowIndex": 85,
     "Id": "RogueExileTemplar3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/HelmetStrInt2/HelmetStrInt2StrInt.sm & Art/Models/Items/Armours/Boots/BootsStrInt1/BootsStrInt1StrInt.sm & Art/Models/Items/Armours/BodyArmours/BodyStrInt2A/BodyStrInt2AStrInt.sm -templar_headShape -templar_feetShape -templar_bodyShape -templar_bookShape -templar_cloth_topShape"
   },
   {
-    "RowIndex": 86,
     "Id": "RogueExileTemplar4",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/PilgrimHat/PilgrimHatStrInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceStrInt.sm -templar_bodyShape -templar_armsShape -templar_upper_legsShape -templar_lower_legsShape -templar_bookShape -templar_cloth_topShape -templar_cloth_bottomShape & Art/Models/Items/Armours/Boots/BootsWakeOfDestruction/BootsWakeOfDestructionStrInt.sm -templar_feetShape & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStrInt.s"
   },
   {
-    "RowIndex": 87,
     "Id": "RogueExileTemplar5",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/ArcticArmour/ArcticBodyStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/ArcticArmour/ArcticBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcticArmour/ArcticGlovesStrInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/ArcticArmour/ArcticHelmetStrInt.sm -templar_bodyShape -templar_armsShape -templar_upper_legsShape -templar_lower_legsShape -templar_bookShape -templar_cloth_topShape -templar_cloth_bottomShape -templ"
   },
   {
-    "RowIndex": 88,
     "Id": "RogueExileTemplar6",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/WarlockArmourSet/WarlockArmourBodyStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/WarlockArmourSet/WarlockArmourBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/WarlockArmourSet/WarlockArmourGlovesStrInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/WarlockArmourSet/WarlockArmourHelmetStrInt.sm -templar_armsShape -templar_bodyShape -templar_bookShape -templar_cloth_bottomShape -templar_cloth_topShape -templar_fee"
   },
   {
-    "RowIndex": 89,
     "Id": "RogueExileTemplarX",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/RadiantArmour/RadiantBodyStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/RadiantArmour/RadiantBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/RadiantArmour/RadiantGlovesStrInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/RadiantArmour/RadiantHelmetStrInt.sm -templar_bodyShape -templar_armsShape -templar_upper_legsShape -templar_lower_legsShape -templar_bookShape -templar_cloth_topShape -templar_cloth_bottomShap"
   },
   {
-    "RowIndex": 90,
     "Id": "RogueExileShadow1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Horn_02/horn_02DexInt.sm & Art/Models/Items/Armours/BodyArmours/BodyDexInt4C/BodyDexInt4CDexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDexInt5/HelmetDexInt5DexInt.sm"
   },
   {
-    "RowIndex": 91,
     "Id": "RogueExileShadow2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/FireHorns/fire_hornsDexInt.sm & Art/Models/Items/Armours/BodyArmours/BodyDexInt2B/BodyDexInt2BDexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDexInt1/HelmetDexInt1DexInt.sm & Art/Models/Items/Armours/Gloves/GlovesDexInt1/GlovesDexInt1DexInt.sm & Art/Models/Items/Armours/Boots/BootsDexInt3/BootsDexInt3DexInt.sm"
   },
   {
-    "RowIndex": 92,
     "Id": "RogueExileShadow3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/SkullHead/GreenSkullDexInt.sm & Art/Models/Items/Armours/BodyArmours/BodyDexInt2A/BodyDexInt2ADexInt.sm"
   },
   {
-    "RowIndex": 93,
     "Id": "RogueExileShadow4",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/LightningArmour/LigtningBodyDexInt.sm -bodyShape -armsShape -aprinShape -lower_legsShape -upper_legsShape & Art/Models/Items/Armours/Boots/Microtransactions/LightningArmour/LigtningBootsDexInt.sm -feetShape & Art/Models/Items/Armours/Gloves/Microtransactions/LightningArmour/LigtningGlovesDexInt.sm -handsShape & Art/Models/Items/Armours/Helmets/Microtransactions/LightningArmour/LigtningHelmetDexInt.sm -headShape -hairShape"
   },
   {
-    "RowIndex": 94,
     "Id": "RogueExileShadow5",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/ArcaneArmour/ArcaneArmourBodyDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/ArcaneArmour/ArcaneArmourBootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcaneArmour/ArcaneArmourGlovesDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/ArcaneArmour/ArcaneArmourHelmetDexInt.sm -bodyShape -armsShape -aprinShape -lower_legsShape -upper_legsShape -feetShape -handsShape -headShape -hairShape"
   },
   {
-    "RowIndex": 95,
     "Id": "RogueExileShadow6",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/StormcallerArmour/StormcallerBodyDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/StormcallerArmour/StormcallerHelmetDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/StormcallerArmour/StormcallerGlovesDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/StormcallerArmour/StormcallerBootsDexInt.sm -bodyShape -armsShape -aprinShape -lower_legsShape -upper_legsShape -feetShape -handsShape -hairShape"
   },
   {
-    "RowIndex": 96,
     "Id": "RogueExileShadowX",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/LightningArmour/LigtningBodyDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/LightningArmour/LigtningBootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/LightningArmour/LigtningGlovesDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/LightningArmour/LigtningHelmetDexInt.sm -bodyShape -armsShape -aprinShape -lower_legsShape -upper_legsShape -feetShape -handsShape -headShape -hairShape"
   },
   {
-    "RowIndex": 97,
     "Id": "RogueExileScion1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/wedjat/wedjatStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/BodyStrDexInt1C/BodyStrDexInt1CStrDexInt.sm & Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1StrDexInt.sm & Art/Models/Items/Armours/Boots/BootsStrDex2/BootsStrDex2StrDexInt.sm -adventurer_bodyShape -adventurer_forearmsShape -adventurer_skirtShape -adventurer_upper_legsShape -adventurer_lower_legsShape -adventurer_armsShape -adventurer_forearmsShape -adventurer_handsShape -adventurer_fee"
   },
   {
-    "RowIndex": 98,
     "Id": "RogueExileScion2",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/SeraphSkin/SeraphBodyStrDexInt.sm -adventurer_bodyShape -adventurer_armsShape -adventurer_lower_legsShape -adventurer_upper_legsShape -adventurer_skirtShape & Art/Models/Items/Armours/Boots/Microtransactions/SeraphSkin/SeraphBootsStrDexInt.sm -adventurer_feetShape & Art/Models/Items/Armours/Gloves/Microtransactions/SeraphSkin/SeraphGlovesStrDexInt.sm -adventurer_handsShape -adventurer_forearmsShape & Art/Models/Items/Armours/Helmets/Microtransactions/Se"
   },
   {
-    "RowIndex": 99,
     "Id": "RogueExileScion3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Infernal/InfernalHelmetStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Infernal/InfernalBootsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Infernal/InfernalGlovesStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/Infernal/InfernalBodyStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/wings/SteampunkBackpack/SteampunkBackpackStrDexInt.sm -adventurer_necklaceShape -adventurer_bodyShape -"
   },
   {
-    "RowIndex": 100,
     "Id": "RogueExileScion4",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/DemonKingArmour/DemonKingArmourHelmetsStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/DemonKingArmour/DemonKingArmourBootsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/DemonKingArmour/DemonKingArmourGlovesStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/DemonKingArmour/DemonKingArmourBodyStrDexInt.sm -adventurer_necklaceShape -adventurer_bodyShape -adventurer_forearmsShape -adventurer_armsShape -advent"
   },
   {
-    "RowIndex": 101,
     "Id": "DarkExileMarauder",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/DemonKingHorns/demon_king_hornsStr.sm & Art/Models/Items/Armours/BodyArmours/Unique/DeathsOath/BodyDeathsOathStr.sm -warrior_bodyShape -warrior_skirtShape & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStr.sm -warrior_handsShape -warrior_forearmsShape & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Str.sm -warrior_feetShape"
   },
   {
-    "RowIndex": 102,
     "Id": "DarkExileRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4Dex.sm -hunter_hairShape & Art/Models/Items/Armours/BodyArmours/Unique/BronnsLithe/BodyBronsLitheDex.sm -hunter_bodyShape -hunter_upper_legsShape -hunter_beltShape & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerDex.sm -hunter_handsShape -hunter_forearmsShape & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Dex.sm -hunter_feetShape"
   },
   {
-    "RowIndex": 103,
     "Id": "DarkExileWitch",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/ShavronnesWrappings/ShavronnesWrappingsInt.sm -witch_lower_legsShape -witch_upper_legsShape -witch_bodyShape -witch_armsShape -witch_skirtShape & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerInt.sm -witch_handsShape & Art/Models/Items/Armours/Helmets/HelmetDexInt6/HelmetDexInt6Int.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Int.sm -witch_feetShape"
   },
   {
-    "RowIndex": 104,
     "Id": "DarkExileDuelist",
     "ArtString_SMFile": "Art/Models/Items/Armours/Boots/BootsWakeOfDestruction/BootsWakeOfDestructionStrDex.sm -swordman_feetShape & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStrDex.sm -swordman_handsShape -swordman_forearmsShape & Art/Models/Items/Armours/BodyArmours/BodyStrDex1C/BodyStrDex1CStrDex.sm -swordman_armsShape -swordman_bodyShape -swordman_forearmsShape & Art/Models/Items/Armours/Helmets/HelmetDex3/HelmetDex3StrDex.sm -swordman_hairShape & Art/Models/Items/Armours/Helmets/Microtransactions/HornAntler"
   },
   {
-    "RowIndex": 105,
     "Id": "DarkExileTemplar",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/PilgrimHat/PilgrimHatStrInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceStrInt.sm -templar_bodyShape -templar_armsShape -templar_upper_legsShape -templar_lower_legsShape -templar_bookShape -templar_cloth_topShape -templar_cloth_bottomShape & Art/Models/Items/Armours/Boots/BootsWakeOfDestruction/BootsWakeOfDestructionStrInt.sm -templar_feetShape & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStrInt.s"
   },
   {
-    "RowIndex": 106,
     "Id": "DarkExileShadow",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyDexInt5A/BodyDexInt5ADexInt.sm -upper_legsShape -aprinShape -forearmsShape & Art/Models/Items/Armours/Boots/BootsDexInt5/BootsDexInt5DexInt.sm -feetShape & Art/Models/Items/Armours/AnimateArmour/GreenSkullDexIntExileUniqueMap.sm & Art/Models/Items/Armours/BodyArmours/BodyDexInt1A/BodyDexInt1ADexInt.sm -bodyShape -aprinShape & Art/Models/Items/Armours/Helmets/Microtransactions/Bandana/bandanaDexInt.sm -headShape"
   },
   {
-    "RowIndex": 107,
     "Id": "DarkExileScion",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/SeraphSkinObsidian/SeraphObsidianBodyStrDexInt.sm -adventurer_bodyShape -adventurer_armsShape -adventurer_lower_legsShape -adventurer_upper_legsShape -adventurer_skirtShape & Art/Models/Items/Armours/Boots/Microtransactions/SeraphSkinObsidian/SeraphObsidianBootsStrDexInt.sm -adventurer_feetShape & Art/Models/Items/Armours/Gloves/Microtransactions/SeraphSkinObsidian/SeraphObsidianGlovesStrDexInt.sm -adventurer_handsShape -adventurer_forearmsShape & Art/M"
   },
   {
-    "RowIndex": 108,
     "Id": "DaressoExileMaruader",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour02/MasterArmour02BodyStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/MasterArmour02/MasterArmour02HelmetStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour02/MasterArmour02BootsStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour02/MasterArmour02GlovesStr.sm -warrior_bodyShape -warrior_armsShape -warrior_upper_legsShape -warrior_lower_legsShape -warrior_skirtShape -warrior_headShape -warrior_"
   },
   {
-    "RowIndex": 109,
     "Id": "DaressoExileRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour04/MasterArmour04BodyDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/MasterArmour04/MasterArmour04HelmetDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour04/MasterArmour04BootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour04/MasterArmour04GlovesDex.sm -hunter_bodyShape -hunter_armsShape -hunter_lower_legsShape -hunter_upper_legsShape -hunter_beltShape -hunter_hairShape -hunter_headShap"
   },
   {
-    "RowIndex": 110,
     "Id": "DaressoExileWitch",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour03/MasterArmour03BodyInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/MasterArmour03/MasterArmour03HelmetInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour03/MasterArmour03BootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour03/MasterArmour03GlovesInt.sm -witch_bodyShape -witch_armsShape -witch_upper_legsShape -witch_lower_legsShape -witch_skirtShape -witch_headShape -witch_hairBottomShap"
   },
   {
-    "RowIndex": 111,
     "Id": "WbFireGrunt",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStr.sm & Art/Models/Items/Armours/BodyArmours/BodyDexInt1C/BodyDexInt1CStr.sm & Art/Models/Items/Armours/Helmets/Uniques/Goldrim/GoldrimStr.sm & Art/Models/Items/Armours/Boots/BootsShavronnesPace/BootsShavronnesPaceStr.sm -warrior_skirtShape -warrior_bodyShape -warrior_armsShape -warrior_forearmsShape -warrior_hairShape -warrior_feetShape -warrior_handsShape"
   },
   {
-    "RowIndex": 112,
     "Id": "WbFireSupport",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerInt.sm & Art/Models/Items/Armours/BodyArmours/BodyDexInt1C/BodyDexInt1CInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex9/HelmetDex9Int.sm & Art/Models/Items/Armours/Boots/BootsShavronnesPace/BootsShavronnesPaceInt.sm -witch_armsShape -witch_forearmsShape -witch_bodyShape -witch_hairBottomShape -witch_hairTopShape -witch_feetShape -witch_handsShape"
   },
   {
-    "RowIndex": 113,
     "Id": "WbFireEliteTemplar",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStrInt.sm & Art/Models/Items/Armours/BodyArmours/BodyDexInt1C/BodyDexInt1CStrInt.sm & Art/Models/Items/Armours/Boots/BootsShavronnesPace/BootsShavronnesPaceStrInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex9/HelmetDex9StrInt.sm -templar_handsShape -templar_forearmsShape -templar_bodyShape -templar_bookShape -templar_cloth_topShape -templar_cloth_bottomShape -templar_armsShape -templar_feetShape"
   },
   {
-    "RowIndex": 114,
     "Id": "WbFireEliteDuelist",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStrDex.sm & Art/Models/Items/Armours/BodyArmours/BodyDexInt1C/BodyDexInt1CStrDex.sm & Art/Models/Items/Armours/Boots/BootsShavronnesPace/BootsShavronnesPaceStrDex.sm & Art/Models/Items/Armours/Helmets/HelmetDex9/HelmetDex9StrDex.sm -swordman_handsShape -swordman_armsShape -swordman_bodyShape -swordman_forearmsShape -swordman_feetShape -swordman_hairShape"
   },
   {
-    "RowIndex": 115,
     "Id": "WbFireLeaderMarauder",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/Infernal/InfernalBodyStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Infernal/InfernalHelmetStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Infernal/InfernalGlovesStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/Infernal/InfernalBootsStr.sm -warrior_armsShape -warrior_bodyShape -warrior_feetShape -warrior_forearmsShape -warrior_hairShape -warrior_handsShape -warrior_lower_legsShape -warrior_upper_legsShape -warrior_neckSh"
   },
   {
-    "RowIndex": 116,
     "Id": "WbFireLeaderRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/Infernal/InfernalBodyDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Infernal/InfernalHelmetDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Infernal/InfernalGlovesDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/Infernal/InfernalBootsDex.sm -hunter_hairShape -hunter_feetShape -hunter_handsShape -hunter_armsShape -hunter_forearmsShape -hunter_bodyShape -hunter_beltShape -hunter_upper_legsShape -hunter_lower_legsShape"
   },
   {
-    "RowIndex": 117,
     "Id": "WbLightningGruntDuelist",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/LightbaneRainment/BodyLightbaneRainmentStrDex.sm & Art/Models/Items/Armours/Helmets/HelmetDex2/HelmetDex2StrDex.sm & Art/Models/Items/Armours/Gloves/GlovesStrInt1/GlovesStrInt1StrDex.sm & Art/Models/Items/Armours/Boots/BootsStrInt3/BootsStrInt3StrDex.sm -swordman_armsShape -swordman_bodyShape -swordman_hairShape -swordman_handsShape -swordman_feetShape"
   },
   {
-    "RowIndex": 118,
     "Id": "WbLightningGruntRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/LightbaneRainment/BodyLightbaneRainmentDex.sm & Art/Models/Items/Armours/Helmets/HelmetDex2/HelmetDex2Dex.sm & Art/Models/Items/Armours/Gloves/GlovesStrInt1/GlovesStrInt1Dex.sm & Art/Models/Items/Armours/Boots/BootsStrInt3/BootsStrInt3Dex.sm -swordman_armsShape -swordman_bodyShape -swordman_hairShape -swordman_handsShape -swordman_forearmsShape -swordman_feetShape"
   },
   {
-    "RowIndex": 119,
     "Id": "WbLightningSupport",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/ZahndethusCassock/BodyZahndethusCassockStrDexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDexInt6/HelmetDexInt6StrDexInt.sm & Art/Models/Items/Armours/Helmets/Uniques/FairgravesTricorne/HelmetFairgravesTricorneStrDexInt.sm & Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1StrDexInt.sm & Art/Models/Items/Armours/Boots/BootsInt4/BootsInt4StrDexInt.sm -adventurer_armsShape -adventurer_bodyShape -adventurer_necklaceShape -adventurer_skirtShape -adventurer_uppe"
   },
   {
-    "RowIndex": 120,
     "Id": "WbLightningEliteTemplar",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/ShavronnesWrappings/ShavronnesWrappingsStrInt.sm & Art/Models/Items/Armours/Helmets/Uniques/FairgravesTricorneAlt/HelmetFairgravesTricorneAltStrInt.sm & Art/Models/Items/Armours/Helmets/HelmetDexInt5/HelmetDexInt5StrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcaneArmour/ArcaneArmourGlovesStrInt.sm -templar_lower_legsShape -templar_upper_legsShape -templar_bodyShap"
   },
   {
-    "RowIndex": 121,
     "Id": "WbLightningEliteWitch",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/ArcaneArmour/ArcaneArmourBodyInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex6/HelmetDex6Int.sm & Art/Models/Items/Armours/Helmets/HelmetDexInt7/HelmetDexInt7Int.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcaneArmour/ArcaneArmourGlovesInt.sm -witch_hairBottomShape -witch_hairTopShape -witch_armsShape -witch_bodyShape -witch_upper_legsShape -witch_lower_legs"
   },
   {
-    "RowIndex": 122,
     "Id": "WbColdGruntMarauder",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1Str.sm & Art/Models/Items/Armours/BodyArmours/Unique/FoxShade/BodyFoxShadeStr.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Str.sm & Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4Str.sm -warrior_handsShape -warrior_armsShape -warrior_bodyShape -warrior_skirtShape -warrior_feetShape -warrior_hairShape"
   },
   {
-    "RowIndex": 123,
     "Id": "WbColdGruntRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1Dex.sm & Art/Models/Items/Armours/BodyArmours/Unique/FoxShade/BodyFoxShadeDex.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Dex.sm & Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4Dex.sm -hunter_handsShape -hunter_armsShape -hunter_bodyShape -hunter_upper_legsShape -hunter_beltShape -hunter_feetShape -hunter_hairShape"
   },
   {
-    "RowIndex": 124,
     "Id": "WbColdGruntWitch",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1Int.sm & Art/Models/Items/Armours/BodyArmours/Unique/FoxShade/BodyFoxShadeInt.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Int.sm & Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4Int.sm -witch_handsShape -witch_armsShape -witch_bodyShape -witch_upper_legsShape -witch_feetShape"
   },
   {
-    "RowIndex": 125,
     "Id": "WbColdGruntDuelist",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1StrDex.sm & Art/Models/Items/Armours/BodyArmours/Unique/FoxShade/BodyFoxShadeStrDex.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1StrDex.sm & Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4StrDex.sm -swordman_handsShape -swordman_armsShape -swordman_bodyShape -swordman_upper_legsShape -swordman_feetShape -swordman_hairShape"
   },
   {
-    "RowIndex": 126,
     "Id": "WbColdGruntTemplar",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1StrInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/FoxShade/BodyFoxShadeStrInt.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1StrInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4StrInt.sm -templar_handsShape -templar_armsShape -templar_bodyShape -templar_neckShape -templar_upper_legsShape -templar_bookShape -templar_cloth_topShape -templar_cloth_bottomShape -templar_feetShape -templar_headShape"
   },
   {
-    "RowIndex": 127,
     "Id": "WbColdGruntShadow",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1DexInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/FoxShade/BodyFoxShadeDexInt.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1DexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4DexInt.sm -handsShape -armsShape -bodyShape -upper_legsShape -aprinShape -feetShape"
   },
   {
-    "RowIndex": 128,
     "Id": "WbColdGruntScion",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1StrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/FoxShade/BodyFoxShadeStrDexInt.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1StrDexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex4/HelmetDex4StrDexInt.sm -adventurer_handsShape -adventurer_bodyShape -adventurer_skirtShape -adventurer_armsShape -adventurer_feetShape -adventurer_hairShape"
   },
   {
-    "RowIndex": 129,
     "Id": "WbColdSupportMarauder",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyDex3C/BodyDex3CStr.sm & Art/Models/Items/Armours/Gloves/GlovesDex1/GlovesDex1Str.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Str.sm & Art/Models/Items/Armours/Helmets/Uniques/Wolf/HelmetWolfStr.sm -warrior_hairShape -warrior_handsShape -warrior_feetShape -warrior_bodyShape"
   },
   {
-    "RowIndex": 130,
     "Id": "WbColdSupportRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyDex3C/BodyDex3CDex.sm & Art/Models/Items/Armours/Gloves/GlovesDex1/GlovesDex1Dex.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Dex.sm & Art/Models/Items/Armours/Helmets/Uniques/Wolf/HelmetWolfDex.sm -hunter_hairShape -hunter_bodyShape -hunter_beltShape -hunter_handsShape -hunter_feetShape -hunter_hairShape "
   },
   {
-    "RowIndex": 131,
     "Id": "WbColdSupportWitch",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyDex3C/BodyDex3CInt.sm & Art/Models/Items/Armours/Gloves/GlovesDex1/GlovesDex1Int.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1Int.sm & Art/Models/Items/Armours/Helmets/Uniques/Wolf/HelmetWolfInt.sm -witch_bodyShape -witch_handsShape -witch_feetShape -witch_hairBottomShape -witch_hairTopShape"
   },
   {
-    "RowIndex": 132,
     "Id": "WbColdSupportShadow",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyDex3C/BodyDex3CDexInt.sm & Art/Models/Items/Armours/Gloves/GlovesDex1/GlovesDex1DexInt.sm & Art/Models/Items/Armours/Boots/BootsDexUnique1/BootsDexUnique1DexInt.sm & Art/Models/Items/Armours/Helmets/Uniques/Wolf/HelmetWolfDexInt.sm -hairShape -handsShape -feetShape -aprinShape"
   },
   {
-    "RowIndex": 133,
     "Id": "WbColdEliteTemplar",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesStrInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsStrInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex7/HelmetDex7StrInt.sm -templar_handsShape -templar_feetShape -templar_bodyShape -templar_armsShape -templar_upper_legsShape -templar_lower_legsShape -templar_bookShape -templar_cloth_topSha"
   },
   {
-    "RowIndex": 134,
     "Id": "WbColdEliteRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesDex.sm & Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsDex.sm & Art/Models/Items/Armours/Helmets/HelmetDex7/HelmetDex7Dex.sm -hunter_hairShape -hunter_bodyShape -hunter_armsShape -hunter_upper_legsShape -hunter_lower_legsShape -hunter_beltShape -hunter_feetShape -hunter_handsShape"
   },
   {
-    "RowIndex": 135,
     "Id": "WbColdEliteShadow",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesDexInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsDexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex7/HelmetDex7DexInt.sm -feetShape -handsShape -bodyShape -armsShape -lower_legsShape -upper_legsShape -aprinShape"
   },
   {
-    "RowIndex": 136,
     "Id": "WbColdEliteScion",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsStrDexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex7/HelmetDex7StrDexInt.sm -adventurer_hairShape -adventurer_feetShape -adventurer_handsShape -adventurer_bodyShape -adventurer_armsShape -adventurer_upper_legsShape -adventurer_lowe"
   },
   {
-    "RowIndex": 137,
     "Id": "WbColdLeaderRanger",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/VerdantArmour/VerdantArmourBodyDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsDex.sm & Art/Models/Items/Armours/Helmets/Uniques/WolfAlt/WolfAltDex.sm -hunter_bodyShape -hunter_armsShape -hunter_lower_legsShape -hunter_upper_legsShape -hunter_beltShape -hunter_feetShape -hunter_handsShape -hunter_hairShape -hunter_headSha"
   },
   {
-    "RowIndex": 138,
     "Id": "WbColdLeaderDuelist",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesStrDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/VerdantArmour/VerdantArmourBodyStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsStrDex.sm & Art/Models/Items/Armours/Helmets/Uniques/FurryHeadOfStarkonjaAlt/StarkonjasAltStrDex.sm -swordman_hairShape -swordman_bodyShape -swordman_armsShape -swordman_upper_legsShape -swordman_lower_legsShape -swordman_feetShape -sword"
   },
   {
-    "RowIndex": 139,
     "Id": "WbColdLeaderScion",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/VerdantArmour/VerdantArmourBodyStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsStrDexInt.sm & Art/Models/Items/Armours/Helmets/HelmetDex10/HelmetDex10StrDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/HornAntlers/horn_antlersStrDexInt.sm -adventurer_bodyShape -adventurer_armsShape -adventurer_lo"
   },
   {
-    "RowIndex": 140,
     "Id": "WbChaosLeader1",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/SacrificialGarb/SacrificialGarbStr.sm & Art/Models/Items/Armours/Boots/WindscreamAlt/BootsWindScreamAltStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesStr.sm & Art/Models/Items/Armours/Helmets/Uniques/ThreeDragonsAlt/HelmetThreeDragonsAltStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Horn_02/horn_02Str.sm -warrior_skirtShape -warrior_lower_legsShape -warrior_upper_legsShape -warrior_bodyShape -warrior_armsShape - wa"
   },
   {
-    "RowIndex": 141,
     "Id": "WbChaosLeader2",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/Cherrubims/BodyCherrubimsInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/SeraphSkinObsidian/SeraphObsidianBootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/SeraphSkinObsidian/SeraphObsidianGlovesInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/SeraphSkinObsidian/SeraphObsidianHelmetInt.sm -witch_feetShape -witch_handsShape -witch_forearmsShape -witch_hairBottomShape -witch_hairTopShape -witch_armsShape -witch_bodyShape -witch_low"
   },
   {
-    "RowIndex": 142,
     "Id": "WbChaosLeader3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/VaalMTX/helmetVaalMTXDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/VampiricArmour/VampiricArmourBodyDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/SeraphSkinSanguine/SeraphSanguineGlovesDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/VampiricArmour/VampiricArmourBootsDexInt.sm -hairShape -bodyShape -armsShape -aprinShape -lower_legsShape -upper_legsShape -handsShape -forearmsShape -feetShape"
   },
   {
-    "RowIndex": 143,
     "Id": "WbChaosLeader4",
     "ArtString_SMFile": "Art/Models/Items/Armours/AnimateArmour/SeraphBodyAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/SeraphBootsAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/SeraphHelmetAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/SeraphGlovesAnimateArmour.sm -aprinShape -armsShape -bodyShape -feetShape -forearmsShape -hairShape -handsShape -headShape -lower_legsShape -neckShape -upper_legsShape"
   },
   {
-    "RowIndex": 144,
     "Id": "WbChaosLeader5",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/Necrotic/NecroticBodyDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/HornSideScrew/horn_sidescrewDexInt.sm"
   },
   {
-    "RowIndex": 145,
     "Id": "WbChaosLeader6",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/DemonKingArmour/DemonKingArmourBodyDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/DemonKingArmour/DemonKingArmourBootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/DemonKingArmour/DemonKingArmourGlovesDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetDexInt.sm -aprinShape -armsShape -bodyShape -feetShape -forearmsShape -hairShape -handsShape -headShape -lower_legsShape -neckShape -upper"
   },
   {
-    "RowIndex": 146,
     "Id": "WbChaosLeader7",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/Necrotic/NecroticBodyDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Necrotic/NecroticGlovesDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Necrotic/NecroticBootsDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Bandana/bandanaDexInt.sm & Art/Models/Items/Armours/AnimateArmour/GreenSkullDexIntExileUniqueMap.sm -aprinShape -armsShape -bodyShape -feetShape -forearmsShape -hairShape -handsShape -headShape -lower_legs"
   },
   {
-    "RowIndex": 147,
     "Id": "WbChaosLeader8",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceStrDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/MasterArmour01/MasterArmour01HelmetStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/VampiricArmour/VampiricArmourBootsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/VampiricArmour/VampiricArmourGlovesStrDexInt.sm -adventurer_armsShape -adventurer_bodyShape -adventurer_feetShape -adventurer_hairShape -adventurer_handsShape -adventu"
   },
   {
-    "RowIndex": 148,
     "Id": "GladiatorBossSupport",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour02Alt/MasterArmour02AltBodyStrDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/MasterArmour02Alt/MasterArmour02AltHelmetStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour02Alt/MasterArmour02AltBootsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour02Alt/MasterArmour02AltGlovesStrDexInt.sm -adventurer_bodyShape -adventurer_armsShape -adventurer_lower_legsShape -adventurer_uppe"
   },
   {
-    "RowIndex": 149,
     "Id": "GladiatorBossElite",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour04Alt/MasterArmour04BodyStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/MasterArmour04Alt/MasterArmour04AltHelmetStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour04Alt/MasterArmour04AltBootsStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour04Alt/MasterArmour04AltGlovesStr.sm -warrior_bodyShape -warrior_armsShape -warrior_upper_legsShape -warrior_lower_legsShape -warrior_skirtShape -warrio"
   },
   {
-    "RowIndex": 150,
     "Id": "GladiatorBossLeader",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour03Alt/MasterArmour03BodyStrint.sm & Art/Models/Items/Armours/Helmets/Microtransactions/MasterArmour03Alt/MasterArmour03AltHelmetStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour03Alt/MasterArmour03AltBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour03Alt/MasterArmour03AltGlovesStrInt.sm -templar_bodyShape -templar_armsShape -templar_cloth_topShape -templar_cloth_bottomShape -templar_lower"
   },
   {
-    "RowIndex": 151,
     "Id": "VinktarBosses",
     "ArtString_SMFile": "Art/Models/Items/Armours/AnimateArmour/SeraphBodyAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/SeraphBootsAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/SeraphHelmetAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/SeraphGlovesAnimateArmour.sm -aprinShape -armsShape -bodyShape -feetShape -forearmsShape -hairShape -handsShape -headShape -lower_legsShape -neckShape -upper_legsShape"
   },
   {
-    "RowIndex": 152,
     "Id": "SkeletonLabyrinth",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/IzaroSkullArmour.sm"
   },
   {
-    "RowIndex": 153,
     "Id": "WolfKing",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/Beast/BEastBodyStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/Beast/BeastBootsStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Beast/BeastGlovesStrDex.sm & Art/Models/Items/Armours/Helmets/Uniques/AlphasHowl/AlphasHowlStrDex.sm -swordman_armsShape -swordman_bodyShape -swordman_feetShape -swordman_forearmsShape -swordman_hairShape -swordman_handsShape -swordman_lower_legsShape -swordman_neckShape -swordman_upper_legsShape"
   },
   {
-    "RowIndex": 154,
     "Id": "WolfBandits",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/HelmetDex4Bandit.sm ! Art/Models/MONSTERS/Bandits/HelmetAlphasHowlBandit.sm ! Art/Models/MONSTERS/Bandits/HelmetWolfBandit.sm ! Art/Models/MONSTERS/Bandits/HelmetWolfAltBandit.sm"
   },
   {
-    "RowIndex": 155,
     "Id": "PerandusLieutenant1",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour04/MasterArmour04BodyDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour04/MasterArmour04BootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour04/MasterArmour04GlovesDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/LeftFeathers/victory_feathersDex.sm -hunter_bodyShape -hunter_armsShape -hunter_lower_legsSha"
   },
   {
-    "RowIndex": 156,
     "Id": "PerandusLieutenant2",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/BronnsLithe/BodyBronsLitheDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/ArcaneArmour/ArcaneArmourBootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcaneArmour/ArcaneArmourGlovesDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/wedjat/wedjatDexInt.sm -handsShape -feetShape -hairShape -headShape -armsShape -bodyShape -upper_legsShape "
   },
   {
-    "RowIndex": 157,
     "Id": "PerandusLieutenant3",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/Ashrend/BodyAshrendStrInt.sm & Art/Models/Items/Armours/Boots/BootsUnique/BootsUniqueStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesStrInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrInt.sm -templar_headShape -templar_armsShape -templar_bodyShape -templar_upper_legsShape -templar_lower_legsShape -templar_bookShape -templar_cloth_bottomShape -templar_cloth_topShape -templar_neck"
   },
   {
-    "RowIndex": 158,
     "Id": "PerandusLieutenant4",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesStrDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/AngelHalo_01/angel_halo_01StrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactio"
   },
   {
-    "RowIndex": 159,
     "Id": "PerandusLieutenant5",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/DeathsOath/BodyDeathsOathStr.sm & Art/Models/Items/Armours/Boots/BootsUnique/BootsUniqueStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/VerdantArmour/VerdantArmourHelmetStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/FireHorns/fire_hornsStr.sm -warrior_feetShape -warrior_headShape -warrior_hairShape -warrior_bodyShape -warrior_skirtShape"
   },
   {
-    "RowIndex": 160,
     "Id": "PerandusLieutenant6",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/TheCovenant/BodyTheCovenantInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Infernal/InfernalBootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Infernal/InfernalGlovesInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Infernal/InfernalHelmetInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Halo/HelmetHaloInt.sm -witch_hairBottomShape -witch_hairTopShape -witch_feetShape -witch_armsShape -witch_bodyShape -witch_skirtShape -w"
   },
   {
-    "RowIndex": 161,
     "Id": "PerandusLieutenant7",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/DaressosDefiance/BodyDaressosDefianceStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/ArcaneArmour/ArcaneArmourBootsStrDex.sm & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStrDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/VictoryFeathers/victory_feathersStrDex.sm -swordman_headShape -swordman_hairShape -swordman_bodyShape -swordman_arm"
   },
   {
-    "RowIndex": 162,
     "Id": "PerandusGuardBasic1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour03/MasterArmour03BodyStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour03/MasterArmour03BootsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour03/MasterArmour03GlovesStrDexInt.sm -adventurer_hairShape -adventurer_headShape -adventurer_bodyShape -adventurer_armsShape -adventurer_lower_legsShape -adven"
   },
   {
-    "RowIndex": 163,
     "Id": "PerandusGuardBasic2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour03/MasterArmour03BodyStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour03/MasterArmour03BootsStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour03/MasterArmour03GlovesStrDex.sm -swordman_headShape -swordman_hairShape -swordman_bodyShape -swordman_armsShape -swordman_upper_legsShape -swordman_lower_legsShape -s"
   },
   {
-    "RowIndex": 164,
     "Id": "PerandusGuardBasic3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStr.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour03/MasterArmour03BodyStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour03/MasterArmour03BootsStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour03/MasterArmour03GlovesStr.sm -warrior_hairShape -warrior_headShape -warrior_bodyShape -warrior_armsShape -warrior_upper_legsShape -warrior_lower_legsShape -warrior_skirtShape "
   },
   {
-    "RowIndex": 165,
     "Id": "PerandusGuardBasic4",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour03/MasterArmour03BodyDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour03/MasterArmour03BootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour03/MasterArmour03GlovesDexint.sm -hairShape -headShape -bodyShape -armsShape -aprinShape -lower_legsShape -upper_legsShape -feetShape -handsShape"
   },
   {
-    "RowIndex": 166,
     "Id": "PerandusGuardBasic5",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour03/MasterArmour03BodyDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour03/MasterArmour03BootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour03/MasterArmour03GlovesDex.sm -hunter_headShape -hunter_hairShape -hunter_bodyShape -hunter_armsShape -hunter_lower_legsShape -hunter_upper_legsShape -hunter_beltShape -hunter_"
   },
   {
-    "RowIndex": 167,
     "Id": "PerandusGuardSupport1",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour02/MasterArmour02BodyInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour02/MasterArmour02BootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour02/MasterArmour02GlovesInt.sm -witch_headShape -witch_hairBottomShape -witch_hairTopShape -witch_bodyShape -witch_armsShape -witch_upper_legsShape -witch_lower_legsShape -witch"
   },
   {
-    "RowIndex": 168,
     "Id": "PerandusGuardSupport2",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour02/MasterArmour02BodyStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour02/MasterArmour02BootsStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour02/MasterArmour02GlovesStrDex.sm -swordman_headShape -swordman_hairShape -swordman_bodyShape -swordman_armsShape -swordman_upper_legsShape -swordman_lower_legsShape -s"
   },
   {
-    "RowIndex": 169,
     "Id": "PerandusGuardSupport3",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrDexInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour02/MasterArmour02BodyStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour02/MasterArmour02BootsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour02/MasterArmour02GlovesStrDexInt.sm -adventurer_hairShape -adventurer_headShape -adventurer_bodyShape -adventurer_armsShape -adventurer_lower_legsShape -adven"
   },
   {
-    "RowIndex": 170,
     "Id": "PerandusGuardSupport4",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour02/MasterArmour02BodyDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour02/MasterArmour02BootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour02/MasterArmour02GlovesDex.sm -hunter_headShape -hunter_hairShape -hunter_bodyShape -hunter_armsShape -hunter_lower_legsShape -hunter_upper_legsShape -hunter_beltShape -hunter_"
   },
   {
-    "RowIndex": 171,
     "Id": "IzaroSkeletons",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/IzaroSkullArmour02.sm"
   },
   {
-    "RowIndex": 172,
     "Id": "ProphecyWickedKing",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour01/MasterArmour01BodyStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour01/MasterArmour01BootsStrInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/GrandIceCrown_white/GrandIceCrown_white_StrInt.sm -templar_bodyShape -templar_bookShape -templar_cloth_bottomShape -templar_cloth_topShape -templar_upper_legsShape"
   },
   {
-    "RowIndex": 173,
     "Id": "ProphecyShadowQueen",
     "ArtString_SMFile": "Art/Models/Items/Armours/Boots/Microtransactions/ArcaneArmour/ArcaneArmourBootsDex.sm & Art/Models/Items/Armours/BodyArmours/Unique/ShavronnesWrappings/ShavronnesWrappingsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcaneArmour/ArcaneArmourGlovesDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/GrandIceCrown_white/GrandIceCrown_white_Dex.sm -hunter_armsShape -hunter_beltShape -hunter_bodyShape -hunter_feetShape -hunter_forearmsShape -hunter_hairShape -hunter_handsShape -hunter_lower"
   },
   {
-    "RowIndex": 174,
     "Id": "ProphecyVerdantKing",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/BronnsLithe/BodyBronsLitheDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/GrandIceCrown_white/GrandIceCrown_white_DexInt.sm -aprinShape -arms1Shape -HandsShape"
   },
   {
-    "RowIndex": 175,
     "Id": "ProphecyUnhallowQueen",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyStrDex1C/BodyStrDex1CStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/DemonKingArmour/DemonKingArmourBootsStrDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/GrandIceCrown_white/GrandIceCrown_white_StrDexInt.sm -adventurer_armsShape -adventurer_bodyShape -adventurer_feetShape -adventurer_forearmsShape -adventurer_necklaceShape"
   },
   {
-    "RowIndex": 176,
     "Id": "ProphecyFallenHeroFire",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/ThousandRibbons/BodyThousandRibbonsStrDexInt.sm & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerStrDexInt.sm & Art/Models/Items/Armours/Helmets/Uniques/Goldrim/GoldrimStrDexInt.sm & Art/Models/Items/Armours/Boots/BootsShavronnesPace/BootsShavronnesPaceStrDexInt.sm adventurer_armsShape -adventurer_bodyShape -adventurer_necklaceShape -adventurer_skirtShape -adventurer_forearmsShape -adventurer_handsShape -adventurer_hairShape -adventurer_feetShape"
   },
   {
-    "RowIndex": 177,
     "Id": "ProphecyFallenHeroIce",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Uniques/RimeGaze/HelmetRimeGazeInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/Icetomb/BodyIceTombInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/ArcticArmour/ArcticBootsInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcticArmour/ArcticGlovesInt.sm -witch_armsShape -witch_bodyShape -witch_forearmsShape -witch_lower_legsShape -witch_skirtShape -witch_upper_legsShape -witch_feetShape -witch_handsShape"
   },
   {
-    "RowIndex": 178,
     "Id": "ProphecyFallenHeroLightning",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Uniques/MindSpiral/HelmetMindSpiralDex.sm & Art/Models/Items/Armours/BodyArmours/Unique/Lioneye/LioneyeBodyDex.sm & Art/Models/Items/Armours/Gloves/Unique/WindsOfChange/WindsOfChangeDex.sm & Art/Models/Items/Armours/Boots/BootsWakeOfDestruction/BootsWakeOfDestructionDex.sm -hunter_hairShape -hunter_headShape -hunter_armsShape -hunter_bodyShape -hunter_beltShape -hunter_upper_legsShape -hunter_lower_legsShape -hunter_feetShape"
   },
   {
-    "RowIndex": 179,
     "Id": "ProphecyFallenHeroMinion",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/HelmetDex8/HelmetDex8StrInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/TheCovenant/BodyTheCovenantStrInt.sm & Art/Models/Items/Armours/Gloves/GlovesInt1/GlovesInt1StrInt.sm & Art/Models/Items/Armours/Boots/BootsInt4/BootsInt4StrInt.sm -polySurfaceShape3"
   },
   {
-    "RowIndex": 180,
     "Id": "ProphecyAmbitiousBandit",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/BodyTheCovenantBandit.sm -decorShape"
   },
   {
-    "RowIndex": 181,
     "Id": "ProphecyGemlingThaumaturge",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/DemonKingHorns/demon_king_hornsStrInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Steampunk/SteamPunkHelmetStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/Steampunk/SteamPunkBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Steampunk/SteamPunkGlovesStrInt.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/SteampunkGem/SteamPunkGemBodyStrInt.sm -templar_headShape -templar_feetShape -templar_handsShape -templ"
   },
   {
-    "RowIndex": 182,
     "Id": "FrostfireMageMapBoss",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Unique/CloakofFlameAlt/CloakofFlameAltBandit.sm & Art/Models/Items/Armours/Helmets/Uniques/HeatShiverAlt/HeatShiverAltBandit.sm & Art/Models/Items/Armours/Gloves/Unique/HellBringer/HellBringerBandit.sm & Art/Models/Items/Armours/Boots/BootsWakeOfDestruction/BootsWakeOfDestructionBandit.sm -bandit_upperbody_0Shape2 -bandit_legs_0Shape2 -bandit_Lhand_0Shape2 -bandit_Rhand_0Shape2"
   },
   {
-    "RowIndex": 183,
     "Id": "AtlasBossPhoenix",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/PhoenixArmourSet/PhoenixArmourSetBodyStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/PhoenixArmourSet/PhoenixArmourSetBootsStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/PhoenixArmourSet/PhoenixArmourSetGlovesStrDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/PhoenixArmourSet/PhoenixArmourSetHelmetStrDex.sm -swordman_feetShape -swordman_hairShape -swordman_headShape -swordman_handsShape -swordman_armsShape -swordm"
   },
   {
-    "RowIndex": 184,
     "Id": "AtlasBossHydra",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/HydraArmourSet/HydraArmourBodyDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/HydraArmour/HydraArmourBootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/HydraArmour/HydraArmourGlovesDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/HydraArmour/HydraArmourHelmetDex.sm -hunter_armsShape -hunter_beltShape -hunter_bodyShape -hunter_forearmsShape -hunter_lower_legsShape -hunter_neckShape -hunter_upper_legsShape -hunter_handsSh"
   },
   {
-    "RowIndex": 185,
     "Id": "AtlasBossMinotaur",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/MinotaurArmourSet/MinotaurArmourBodyStr.sm & Art/Models/Items/Armours/Boots/Microtransactions/MinotaurArmour/MinotaurArmourBootsStr.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MinotaurArmour/MinotaurArmourGlovesStr.sm & Art/Models/Items/Armours/Helmets/Microtransactions/MinotaurArmour/MinotaurArmourHelmetStr.sm -warrior_armsShape -warrior_bodyShape -warrior_forearmsShape -warrior_lower_legsShape -warrior_neckShape -warrior_skirtShape -warrior"
   },
   {
-    "RowIndex": 186,
     "Id": "AtlasBossChimera",
     "ArtString_SMFile": "Art/Models/Items/Armours/Gloves/Microtransactions/ThrasherClawSkin/TrasherClawGlovesChimera.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/ChimeraArmourSet/ChimeraArmourBodyStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/ChimeraArmourSet/ChimeraArmourBootsStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ChimeraArmourSet/ChimeraArmourGlovesStrDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/ChimeraArmourSet/ChimeraArmourHelmetStrDex.sm -swordman_feetShape -sw"
   },
   {
-    "RowIndex": 187,
     "Id": "GeofriBoss",
     "ArtString_SMFile": "Art/Models/MONSTERS/SkeletonLarge/skeletonGeofri.sm"
   },
   {
-    "RowIndex": 188,
     "Id": "BreachBossFire",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/Infernal/InfernalBodyStrBREACH.sm & Art/Models/Items/Armours/Boots/Microtransactions/Infernal/InfernalBootsStrBREACH.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Infernal/InfernalGlovesStrBREACH.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Infernal/InfernalHelmetStrBREACH.sm & Art/Models/Items/Armours/Gloves/Microtransactions/BreachDemonHand/DemonHandStr.sm -warrior_hairShape -warrior_feetShape -warrior_handsShape -warrior_skirtShap"
   },
   {
-    "RowIndex": 189,
     "Id": "BreachBossCold",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/DemonKingArmour/DemonKingArmourBodyStrDexIntBREACH.sm & Art/Models/Items/Armours/Boots/Microtransactions/DemonKingArmour/DemonKingArmourBootsStrDexIntBREACH.sm & Art/Models/Items/Armours/Gloves/Microtransactions/DemonKingArmour/DemonKingArmourGlovesStrDexIntBREACH.sm & Art/Models/Items/Armours/Helmets/Microtransactions/DemonKingArmour/DemonKingArmourHelmetsStrDexIntBREACH.sm -adventurer_hairShape -adventurer_feetShape -adventurer_handsShape -adventurer_"
   },
   {
-    "RowIndex": 190,
     "Id": "BreachBossLightning",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/ArcaneArmour/ArcaneArmourBodyDexBREACH.sm & Art/Models/Items/Armours/Boots/Microtransactions/ArcaneArmour/ArcaneArmourBootsDexBREACH.sm & Art/Models/Items/Armours/Gloves/Microtransactions/ArcaneArmour/ArcaneArmourGlovesDexBREACH.sm & Art/Models/Items/Armours/Helmets/Microtransactions/ArcaneArmour/ArcaneArmourHelmetDexBREACH.sm -hunter_bodyShape -hunter_armsShape -hunter_lower_legsShape -hunter_upper_legsShape -hunter_beltShape -hunter_feetShape -hunter_"
   },
   {
-    "RowIndex": 191,
     "Id": "BreachBossPhysical",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/VerdantArmour/VerdantArmourBodyIntBREACH.sm & Art/Models/Items/Armours/Boots/Microtransactions/VerdantArmour/VerdantArmourBootsIntBREACH.sm & Art/Models/Items/Armours/Gloves/Microtransactions/VerdantArmour/VerdantArmourGlovesIntBREACH.sm & Art/Models/Items/Armours/Helmets/Microtransactions/VerdantArmour/VerdantArmourHelmetIntBREACH.sm -witch_bodyShape -witch_armsShape -witch_upper_legsShape -witch_lower_legsShape -witch_skirtShape -witch_feetShape -witc"
   },
   {
-    "RowIndex": 192,
     "Id": "BreachBossChaos",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/Necrotic/NecroticBodyDexIntBREACH.sm & Art/Models/Items/Armours/Boots/Microtransactions/Necrotic/NecroticBootsDexIntBREACH.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Necrotic/NecroticGlovesDexIntBREACH.sm & Art/Models/Items/Armours/Helmets/Microtransactions/Necrotic/NecroticHelmetDexIntBREACH.sm -hairShape -feetShape -handsShape -armsShape -bodyShape -forearmsShape -aprinShape -upper_legsShape -lower_legsShape"
   },
   {
-    "RowIndex": 193,
     "Id": "BreachBossOverlord",
     "ArtString_SMFile": "Art/Models/Items/Armours/ArmourSets/Direblade/DirebladeBodyStrDexIntBREACH.sm & Art/Models/Items/Armours/ArmourSets/Direblade/DirebladeBootsStrDexIntBREACH.sm & Art/Models/Items/Armours/ArmourSets/Direblade/DirebladeGlovesStrDexIntBREACH.sm & Art/Models/Items/Armours/ArmourSets/Direblade/DirebladeHelmetStrDexIntBREACH.sm -adventurer_headShape -adventurer_feetShape -adventurer_handsShape -adventurer_armsShape -adventurer_bodyShape -adventurer_forearmsShape -adventurer_lower_legsShape -adventurer_necklaceShap"
   },
   {
-    "RowIndex": 194,
     "Id": "LunarisGuard",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/LunarisArmour/LunarisArmourBodyDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/LunarisArmour/LunarisArmourBootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/LunarisArmour/LunarisArmourGlovesDex.sm & Art/Models/Items/Armours/Helmets/Microtransactions/LunarisArmour/LunarisArmourHelmetDex.sm -hunter_armsShape -hunter_beltShape -hunter_bodyShape -hunter_feetShape -hunter_forearmsShape -hunter_hairShape -hunter_handsShape -hunter_headS"
   },
   {
-    "RowIndex": 195,
     "Id": "SolarisGuard",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/RadiantArmour/RadiantBodyStrInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/RadiantArmour/RadiantBootsStrInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/RadiantArmour/RadiantGlovesStrInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/RadiantArmour/RadiantHelmetStrInt.sm -templar_armsShape -templar_bodyShape -templar_bookShape -templar_cloth_bottomShape -templar_cloth_topShape -templar_feetShape -templar_headShape -templar_l"
   },
   {
-    "RowIndex": 196,
     "Id": "WarHeroDuelist",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyStrDex1C/BodyStrDex1CStrDex.sm & Art/Models/Items/Armours/Gloves/GlovesStrDex1/GlovesStrDex1StrDex.sm & Art/Models/Items/Armours/Boots/BootsStrDex3/BootsStrDex3StrDex.sm & Art/Models/Items/Armours/Helmets/HelmetStr8/HelmetStr8StrDex.sm -swordman_armsShape -swordman_bodyShape -swordman_feetShape -swordman_forearmsShape -swordman_hairShape -swordman_handsShape -swordman_headShape"
   },
   {
-    "RowIndex": 197,
     "Id": "WarHeroScion",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyStrDex1C/BodyStrDex1CStrDexInt.sm & Art/Models/Items/Armours/Gloves/GlovesStrDex1/GlovesStrDex1StrDexInt.sm & Art/Models/Items/Armours/Boots/BootsStrDex3/BootsStrDex3StrDexInt.sm & Art/Models/Items/Armours/Helmets/HelmetStr8/HelmetStr8StrDexInt.sm -adventurer_armsShape -adventurer_bodyShape -adventurer_feetShape -adventurer_forearmsShape -adventurer_hairShape -adventurer_handsShape -adventurer_headShape -adventurer_necklaceShape -adventurer_neckShape -adventurer_skir"
   },
   {
-    "RowIndex": 198,
     "Id": "WarHeroTemplar",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/BodyStrDex1C/BodyStrDex1CStrInt.sm & Art/Models/Items/Armours/Gloves/GlovesStrDex1/GlovesStrDex1StrInt.sm & Art/Models/Items/Armours/Boots/BootsStrDex3/BootsStrDex3StrInt.sm & Art/Models/Items/Armours/Helmets/HelmetStr8/HelmetStr8StrInt.sm -templar_armsShape -templar_bodyShape -templar_bookShape -templar_cloth_bottomShape -templar_cloth_topShape -templar_feetShape -templar_forearmsShape -templar_handsShape -templar_headShape -templar_neckShape -templar_upper_legsShape"
   },
   {
-    "RowIndex": 199,
     "Id": "KitavaMinionBoss",
     "ArtString_SMFile": "Art/Models/MONSTERS/KitavaUniqueMinion/gloves.sm & Art/Models/MONSTERS/KitavaUniqueMinion/helmet.sm & Art/Models/MONSTERS/KitavaUniqueMinion/body.sm & Art/Models/MONSTERS/KitavaUniqueMinion/boots.sm"
   },
   {
-    "RowIndex": 200,
     "Id": "Titucius",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/Beast/BeastHelmetAgedStrDex.sm & Art/Models/Items/Armours/BodyArmours/Unique/DomeofBrass/DomeofBrassAgedStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/Beast/BeastGlovesAgedStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/Beast/BeastBootsAgedStrDex.sm"
   },
   {
-    "RowIndex": 201,
     "Id": "SkeletonRoman",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/SkeletonRoman.sm"
   },
   {
-    "RowIndex": 202,
     "Id": "DockworkerChampion",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/BanditStormcallerGloves.sm"
   },
   {
-    "RowIndex": 203,
     "Id": "BanditRoman",
     "ArtString_SMFile": "Art/Models/MONSTERS/Bandits/BanditRomanArmour.sm"
   },
   {
-    "RowIndex": 204,
     "Id": "SkeletonRomanHelmet",
     "ArtString_SMFile": "Art/Models/MONSTERS/skeleton/SkeletonRoman.sm & Art/Models/MONSTERS/skeleton/SkeletonHelmetStr3Golden.sm"
   },
   {
-    "RowIndex": 205,
     "Id": "GeneralAdus",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/StormcallerArmour/StormcallerBodyStrAged.sm & Art/Models/Items/Armours/Boots/Microtransactions/StormcallerArmour/StormcallerBootsStrAged.sm & Art/Models/Items/Armours/Gloves/Microtransactions/StormcallerArmour/StormcallerGlovesStrAged.sm & Art/Models/Items/Armours/Helmets/Microtransactions/SkullSteamPunk/SkullSteamPunkStr.sm -warrior_hairShape -warrior_headShape -warrior_feetShape -warrior_handsShape -warrior_neckShape -warrior_armsShape -warrior_forear"
   },
   {
-    "RowIndex": 206,
     "Id": "BearerOfTheGuardian",
     "ArtString_SMFile": "Art/Models/Items/Armours/AnimateArmour/BootsMaster01BloodlineAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/GlovesMaster01BloodlineAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/HelmetMaster01BloodlineAnimateArmour.sm & Art/Models/Items/Armours/AnimateArmour/BodyMaster01BloodlineAnimateArmour.sm"
   },
   {
-    "RowIndex": 207,
     "Id": "StrongHarbinger",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/HarbringerArmour/HarbringerArmourBodyDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/HarbringerArmour/HarbringerArmourBootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/HarbringerArmour/HarbringerArmourGlovesDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/HarbringerArmour/HarbringerArmourHelmetDexInt.sm -aprinShape -armsShape -bodyShape -feetShape -forearmsShape -hairShape -handsShape -lower_legsShape -neckSha"
   },
   {
-    "RowIndex": 208,
     "Id": "MasterTH",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Uniques/FairgravesTricorneAlt/HelmetFairgravesTricorneAltDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/LioneyeArmour/LioneyeArmourBootsDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/LioneyeArmour/LioneyeArmourGlovesDexInt.sm & Art/Models/Items/Armours/BodyArmours/Unique/VictarioJacket/VictarioJacketDexInt.sm -feetShape -handsShape -aprinShape -armsShape -bodyShape -hairShape"
   },
   {
-    "RowIndex": 209,
     "Id": "DelveAbyssCultist",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/SkullHead/GreenSkullDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/StygianArmour/StygianBootsDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/StygianArmour/StygianGlovesDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/StygianArmour/StygianDex.sm -hunter_armsShape -hunter_beltShape -hunter_bodyShape -hunter_feetShape -hunter_forearmsShape -hunter_hairShape -hunter_handsShape -hunter_headShape -hunter_lower_legsShape -hunte"
   },
   {
-    "RowIndex": 210,
     "Id": "BlackguardZombieJaegerCape",
     "ArtString_SMFile": "Art/Models/MONSTERS/BlackguardScout/BlackGuardZombie.sm"
   },
   {
-    "RowIndex": 211,
     "Id": "BlackguardJaegerCape",
     "ArtString_SMFile": "Art/Models/MONSTERS/BlackguardScout/BlackGuard.sm"
   },
   {
-    "RowIndex": 212,
     "Id": "LegionSergeantSpear",
     "ArtString_SMFile": "Art/Models/Items/Armours/Helmets/Microtransactions/MasterArmour03/MasterArmour03HelmetStrDex.sm & Art/Models/Items/Armours/BodyArmours/Microtransactions/MasterArmour03/MasterArmour03BodyStrDex.sm & Art/Models/Items/Armours/Gloves/Microtransactions/MasterArmour03/MasterArmour03GlovesStrDex.sm & Art/Models/Items/Armours/Boots/Microtransactions/MasterArmour03/MasterArmour03BootsStrDex.sm -swordman_bodyShape -swordman_armsShape -swordman_upper_legsShape -swordman_lower_legsShape -swordman_headShape,swordman_hai"
   },
   {
-    "RowIndex": 213,
     "Id": "RiverBossArmour",
     "ArtString_SMFile": "Art/Models/Items/Armours/BodyArmours/Microtransactions/WaterElemental/WaterElementalBodyStrDexInt.sm & Art/Models/Items/Armours/Boots/Microtransactions/WaterElemental/WaterElementalBootsStrDexInt.sm & Art/Models/Items/Armours/Helmets/Microtransactions/WaterElemental/WaterElementalHelmetStrDexInt.sm & Art/Models/Items/Armours/Gloves/Microtransactions/WaterElemental/WaterElementalGlovesStrDexInt.sm -adventurer_armsShape -adventurer_bodyShape -adventurer_feetShape -adventurer_forearmsShape -adventurer_hairShap"
   },
   {
-    "RowIndex": 214,
     "Id": "InfectedMercenaryHelm",
     "ArtString_SMFile": "Art/Models/MONSTERS/InfectedMercenary/Armours/InfectedMercenaryHelmets01.sm ! Art/Models/MONSTERS/InfectedMercenary/Armours/InfectedMercenaryHelmets02.sm ! Art/Models/MONSTERS/InfectedMercenary/Armours/InfectedMercenaryHelmets03.sm ! Art/Models/MONSTERS/InfectedMercenary/Armours/InfectedMercenaryHelmets04.sm ! Art/Models/MONSTERS/InfectedMercenary/Armours/InfectedMercenaryHelmets05.sm ! Art/Models/MONSTERS/InfectedMercenary/Armours/InfectedMercenaryHelmets06.sm ! Art/Models/MONSTERS/InfectedMercenary/Armour"
   }

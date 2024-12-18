@@ -1,3411 +1,2729 @@
 [
   {
-    "RowIndex": 0,
     "Id": "AccountNameAlreadyExists",
     "Text": "Ya existe una cuenta con este nombre."
   },
   {
-    "RowIndex": 1,
     "Id": "AccountNameInvalid",
     "Text": "El nombre de la cuenta debe tener al menos 3 caracteres y está restringido a los caracteres a-z, 0-9 y _"
   },
   {
-    "RowIndex": 2,
     "Id": "EmailInvalid",
     "Text": "Esta no es una dirección de correo electrónico válida."
   },
   {
-    "RowIndex": 3,
     "Id": "EmailAlreadyExists",
     "Text": "Ya existe una cuenta con este correo electrónico."
   },
   {
-    "RowIndex": 4,
     "Id": "AccountDoesNotExist",
     "Text": "La cuenta especificada no existe."
   },
   {
-    "RowIndex": 5,
     "Id": "InvalidPassword",
     "Text": "La contraseña es incorrecta para esta cuenta."
   },
   {
-    "RowIndex": 6,
     "Id": "AlreadyLoggedOn",
     "Text": "La operación no se ha podido completar porque esta cuenta ya tiene una sesión iniciada por otra persona."
   },
   {
-    "RowIndex": 7,
     "Id": "InvalidProtocolVersion",
     "Text": "Hay un parche nuevo para descargar. Reinicia Path of Exile."
   },
   {
-    "RowIndex": 8,
     "Id": "NotAllowedGameLogin",
     "Text": "El acceso al juego no está habilitado actualmente en esta cuenta."
   },
   {
-    "RowIndex": 9,
     "Id": "OtherAccountLoggedOn",
     "Text": "Otra persona ha iniciado una sesión con esta cuenta."
   },
   {
-    "RowIndex": 10,
     "Id": "AccountNotLoggedIn",
     "Text": "Esta operación requiere que inicies sesión con tu cuenta."
   },
   {
-    "RowIndex": 11,
     "Id": "Timeout",
     "Text": "La operación ha caducado."
   },
   {
-    "RowIndex": 12,
     "Id": "Disconnected",
     "Text": "Desconectado del servidor."
   },
   {
-    "RowIndex": 13,
     "Id": "TerrainGenerationOutOfSync",
     "Text": "El generador de terreno para el cliente está desincronizado con el servidor. Inicia una nueva instancia e inténtalo de nuevo."
   },
   {
-    "RowIndex": 14,
     "Id": "UnexpectedDisconnect",
     "Text": "Se ha producido una desconexión inesperada."
   },
   {
-    "RowIndex": 15,
     "Id": "CharacterDoesNotExist",
     "Text": "El personaje especificado no existe."
   },
   {
-    "RowIndex": 16,
     "Id": "NotCharacterOwner",
     "Text": "Se ha intentado recuperar un personaje que no pertenece a esta cuenta."
   },
   {
-    "RowIndex": 17,
     "Id": "LinkedItemDoesNotExist",
     "Text": "El objeto vinculado especificado no existe."
   },
   {
-    "RowIndex": 18,
     "Id": "DatabaseError",
     "Text": "Se ha producido un error de base de datos inesperado. Inténtalo de nuevo."
   },
   {
-    "RowIndex": 19,
     "Id": "TransferredToInstance",
     "Text": "La cuenta se ha transferido a otra instancia."
   },
   {
-    "RowIndex": 20,
     "Id": "CharacterNameAlreadyExists",
     "Text": "Ya existe un personaje con este nombre."
   },
   {
-    "RowIndex": 21,
     "Id": "CharacterNameInvalid",
     "Text": "<size:28>{El nombre del personaje contiene caracteres inválidos. \nLos nombres válidos solamente contienen \nletras y guion bajo.}"
   },
   {
-    "RowIndex": 22,
     "Id": "CharacterNameTooShort",
     "Text": "El nombre del personaje es demasiado corto."
   },
   {
-    "RowIndex": 23,
     "Id": "CharacterNameTooLong",
     "Text": "El nombre del personaje es demasiado largo."
   },
   {
-    "RowIndex": 24,
     "Id": "CharacterInvalidClass",
     "Text": "Clase inválida de personaje."
   },
   {
-    "RowIndex": 25,
     "Id": "LeagueDoesNotExist",
     "Text": "Esta liga no existe."
   },
   {
-    "RowIndex": 26,
     "Id": "InvalidCharacterFlags",
     "Text": "Banderas de personaje inválidas."
   },
   {
-    "RowIndex": 27,
     "Id": "LeagueNameAlreadyExists",
     "Text": "Ya existe una liga con este nombre."
   },
   {
-    "RowIndex": 28,
     "Id": "LeagueNameInvalid",
     "Text": "Este no es un nombre de liga válido."
   },
   {
-    "RowIndex": 29,
     "Id": "LeagueDescriptionInvalid",
     "Text": "Esta no es una descripción de liga válida."
   },
   {
-    "RowIndex": 30,
     "Id": "AlreadyInParty",
     "Text": "La operación no se ha podido completar porque ya estás en un grupo."
   },
   {
-    "RowIndex": 31,
     "Id": "NotItemOwner",
     "Text": "Tu personaje no es el dueño de este objeto."
   },
   {
-    "RowIndex": 32,
     "Id": "NotAPartyMember",
     "Text": "El objetivo de esta operación no era un miembro del grupo."
   },
   {
-    "RowIndex": 33,
     "Id": "PartyPromotionRequired",
     "Text": "No puedes realizar esta operación porque no eres el líder del grupo."
   },
   {
-    "RowIndex": 34,
     "Id": "PartyDoesNotExist",
     "Text": "El grupo no existe."
   },
   {
-    "RowIndex": 35,
     "Id": "PartyLeaderOnlyCanOpenMapPortals",
     "Text": "Solo el líder del grupo puede abrir portales a los mapas. El líder del grupo puede promover a otros jugadores para que se conviertan en líder en la IU de los grupos."
   },
   {
-    "RowIndex": 36,
     "Id": "ServiceDoesNotExist",
     "Text": "El servicio no existe."
   },
   {
-    "RowIndex": 37,
     "Id": "CommandInvalid",
     "Text": "El servicio no responde a este comando, o hubo un error en la sintaxis."
   },
   {
-    "RowIndex": 38,
     "Id": "DestinationUnreachable",
     "Text": "No es posible contactar con el servicio."
   },
   {
-    "RowIndex": 39,
     "Id": "NotInPartyWith",
     "Text": "Debes estar en un grupo con este jugador."
   },
   {
-    "RowIndex": 40,
     "Id": "NotInParty",
     "Text": "No estás en este grupo."
   },
   {
-    "RowIndex": 41,
     "Id": "InstanceFull",
     "Text": "La instancia está completa."
   },
   {
-    "RowIndex": 42,
     "Id": "InvalidInstanceTransfer",
     "Text": "La transferencia a esta instancia no está permitida usando este método."
   },
   {
-    "RowIndex": 43,
     "Id": "PortalDoesNotExist",
     "Text": "El otro lado del portal se ha desconectado."
   },
   {
-    "RowIndex": 44,
     "Id": "OutOfYourLeague",
     "Text": "Este personaje está en una liga diferente."
   },
   {
-    "RowIndex": 45,
     "Id": "DownForMaintenance",
     "Text": "El reino está en mantenimiento. Inténtalo de nuevo más tarde."
   },
   {
-    "RowIndex": 46,
     "Id": "InstanceAuthenticationInvalid",
     "Text": "Tu autenticación para la transferencia de instancia es inválida."
   },
   {
-    "RowIndex": 47,
     "Id": "PartyFull",
     "Text": "Tu grupo está lleno."
   },
   {
-    "RowIndex": 48,
     "Id": "TooManyCharacters",
     "Text": "No tienes más espacios disponibles para personajes."
   },
   {
-    "RowIndex": 49,
     "Id": "InvalidActivationKey",
     "Text": "Clave de activación inválida."
   },
   {
-    "RowIndex": 50,
     "Id": "EmailValidationRequired",
     "Text": "Ya se ha creado una cuenta con esta dirección de correo electrónico. Debes verificar tu cuenta por correo electrónico antes de conectarte."
   },
   {
-    "RowIndex": 51,
     "Id": "MissingRequiredField",
     "Text": "Completa todos los campos requeridos."
   },
   {
-    "RowIndex": 52,
     "Id": "InvalidArgument",
     "Text": "Un argumento era inválido."
   },
   {
-    "RowIndex": 53,
     "Id": "GameComplete",
     "Text": "El juego ha terminado."
   },
   {
-    "RowIndex": 54,
     "Id": "LeagueHasEnded",
     "Text": "La liga ha terminado. Ya no puedes crear más personajes en ella."
   },
   {
-    "RowIndex": 55,
     "Id": "LeagueClosedForEntry",
     "Text": "El ingreso a esta liga ha cerrado."
   },
   {
-    "RowIndex": 56,
     "Id": "AlreadyOnIgnoreList",
     "Text": "Esta cuenta ya se encuentra en tu lista de ignorados."
   },
   {
-    "RowIndex": 57,
     "Id": "NotOnIgnoreList",
     "Text": "Esta cuenta no se encuentra en tu lista de ignorados."
   },
   {
-    "RowIndex": 58,
     "Id": "IgnoreListFull",
     "Text": "Tu lista de ignorados está llena."
   },
   {
-    "RowIndex": 59,
     "Id": "AddToIgnoreListFailed",
     "Text": "No se puede agregar a {0} a tu lista de ignorados porque: {1}"
   },
   {
-    "RowIndex": 60,
     "Id": "AddedToIgnoreList",
     "Text": "Se ha agregado a {0} a tu lista de ignorados."
   },
   {
-    "RowIndex": 61,
     "Id": "RemoveFromIgnoreListFailed",
     "Text": "No se puede eliminar a {0} de tu lista de ignorados porque: {1}"
   },
   {
-    "RowIndex": 62,
     "Id": "RemovedFromIgnoreList",
     "Text": "Se ha eliminado a {0} de tu lista de ignorados."
   },
   {
-    "RowIndex": 63,
     "Id": "FailedToClearIgnoreList",
     "Text": "No se puede borrar tu lista de ignorados porque: {0}"
   },
   {
-    "RowIndex": 64,
     "Id": "IgnoreListCleared",
     "Text": "Tu lista de ignorados se ha borrado."
   },
   {
-    "RowIndex": 65,
     "Id": "FailedToAddNamedFriend",
     "Text": "No puedes agregar a {0} a tu lista de amigos porque: {1}"
   },
   {
-    "RowIndex": 66,
     "Id": "FailedToAddUnnamedFriend",
     "Text": "No puedes agregar esta cuenta a tu lista de amigos porque: {0}"
   },
   {
-    "RowIndex": 67,
     "Id": "FailedToAcceptFriend",
     "Text": "No puedes aceptar la solicitud de amistad porque: {0}"
   },
   {
-    "RowIndex": 68,
     "Id": "FailedToRemoveFriend",
     "Text": "No puedes eliminar a este amigo porque: {0}"
   },
   {
-    "RowIndex": 69,
     "Id": "TriedToFriendSelf",
     "Text": "No puedes agregarte a ti mismo como amigo."
   },
   {
-    "RowIndex": 70,
     "Id": "AccountBanned",
     "Text": "Tu cuenta ha sido inhabilitada por un administrador."
   },
   {
-    "RowIndex": 71,
     "Id": "AccountChildLocked",
     "Text": "Tu cuenta ha sido bloqueada por tus padres."
   },
   {
-    "RowIndex": 72,
     "Id": "LoginRateLimited",
     "Text": "Has intentado conectarte demasiadas veces en un corto período de tiempo. Inténtalo de nuevo más tarde."
   },
   {
-    "RowIndex": 73,
     "Id": "AccountLocked",
     "Text": "Tu cuenta ha sido bloqueada. Contacta con soporte."
   },
   {
-    "RowIndex": 74,
     "Id": "NotAccountOwner",
     "Text": "La operación no se puede realizar porque esta instancia no es la propietaria de la cuenta."
   },
   {
-    "RowIndex": 75,
     "Id": "TemporaryLockout",
     "Text": "Tu cuenta se ha bloqueado temporalmente mientras un administrador trabaja en ella."
   },
   {
-    "RowIndex": 76,
     "Id": "Kicked",
     "Text": "Has sido expulsado del servidor por un administrador."
   },
   {
-    "RowIndex": 77,
     "Id": "StashTabDoesNotExist",
     "Text": "La pestaña de alijo especificada no existe."
   },
   {
-    "RowIndex": 78,
     "Id": "LeaguePasswordInvalid",
     "Text": "La contraseña es incorrecta para esta liga."
   },
   {
-    "RowIndex": 79,
     "Id": "InstanceRateLimited",
     "Text": "Has sido expulsado por realizar demasiadas acciones demasiado rápido."
   },
   {
-    "RowIndex": 80,
     "Id": "FriendsListFull",
     "Text": "Tu lista de amigos ha alcanzado el tamaño máximo."
   },
   {
-    "RowIndex": 81,
     "Id": "NotOnFriendsList",
     "Text": "Esta cuenta no está en tu lista de amigos."
   },
   {
-    "RowIndex": 82,
     "Id": "AlreadyOnFriendsList",
     "Text": "Esta cuenta ya está en tu lista de amigos."
   },
   {
-    "RowIndex": 83,
     "Id": "LeagueUnavailableToNonBeta",
     "Text": "Esta liga solo está disponible para los jugadores de la Beta."
   },
   {
-    "RowIndex": 84,
     "Id": "InstanceDoesNotExist",
     "Text": "La instancia no existe."
   },
   {
-    "RowIndex": 85,
     "Id": "Muted",
     "Text": "No puedes realizar esta acción mientras estás silenciado."
   },
   {
-    "RowIndex": 86,
     "Id": "Ignored",
     "Text": "Has sido ignorado por el jugador objetivo."
   },
   {
-    "RowIndex": 87,
     "Id": "PvPMatchDoesNotExist",
     "Text": "Este tipo de enfrentamiento JcJ no existe."
   },
   {
-    "RowIndex": 88,
     "Id": "ItemDoesNotExist",
     "Text": "El objeto especificado no existe."
   },
   {
-    "RowIndex": 89,
     "Id": "NeedNormalStashTab",
     "Text": "Debes tener al menos una pestaña normal de alijo para mejorar."
   },
   {
-    "RowIndex": 90,
     "Id": "NotEnoughCredit",
     "Text": "No tienes suficiente crédito para comprar este objeto."
   },
   {
-    "RowIndex": 91,
     "Id": "PackagePurchaseIncomplete",
     "Text": "Tu compra no se ha podido completar. Contacta con soporte."
   },
   {
-    "RowIndex": 92,
     "Id": "MultiplePurchasesNotAllowed",
     "Text": "Solo puedes comprar esta microtransacción una vez."
   },
   {
-    "RowIndex": 93,
     "Id": "CantDeleteWithMicrotransactions",
     "Text": "Primero quita todos los efectos cosméticos de los objetos de este personaje. Puedes realizarlo en el alijo de microtransacciones."
   },
   {
-    "RowIndex": 94,
     "Id": "NotEnoughRoomForItem",
     "Text": "No hay suficiente espacio para el objeto."
   },
   {
-    "RowIndex": 95,
     "Id": "SavedCredentialsNewLocation",
     "Text": "Te estás conectando desde una nueva ubicación. Introduce tu contraseña de nuevo."
   },
   {
-    "RowIndex": 96,
     "Id": "SavedCredentialsBad",
     "Text": "Tus credenciales guardadas están desactualizadas. Introduce tu contraseña de nuevo."
   },
   {
-    "RowIndex": 97,
     "Id": "LoginRequiresUnlockCode",
     "Text": "Tu cuenta ha sido bloqueada hasta que puedas proveer un código de desbloqueo de tu correo electrónico."
   },
   {
-    "RowIndex": 98,
     "Id": "UnlockCodeIncorrect",
     "Text": "El código de desbloqueo que has introducido es incorrecto."
   },
   {
-    "RowIndex": 99,
     "Id": "UnlockEmailTooSoon",
     "Text": "Ha pasado muy poco tiempo desde que se envió el último correo electrónico de desbloqueo."
   },
   {
-    "RowIndex": 100,
     "Id": "DailyDealDoesNotExist",
     "Text": "La oferta no existe."
   },
   {
-    "RowIndex": 101,
     "Id": "MicrotransactionDoesNotExist",
     "Text": "La microtransacción no existe."
   },
   {
-    "RowIndex": 102,
     "Id": "AccountNameDisallowed",
     "Text": "Nombre de cuenta denegado."
   },
   {
-    "RowIndex": 103,
     "Id": "BannedLoginIp",
     "Text": "Tu IP ha sido inhabilitada. Contacta con soporte si crees que esto es un error."
   },
   {
-    "RowIndex": 104,
     "Id": "GeneralFailure",
     "Text": "Se ha producido un problema inesperado."
   },
   {
-    "RowIndex": 105,
     "Id": "CurrencyTradingPrevented",
     "Text": "No puedes comerciar objetos monetarios u objetos únicos con otros jugadores hasta haber alcanzado al menos nivel 25 con un personaje de tu cuenta."
   },
   {
-    "RowIndex": 106,
     "Id": "SteamAssociateEmailSent",
     "Text": "Se ha enviado un correo electrónico para que confirmes que eres el dueño de esta cuenta. Haz clic en el enlace de tu correo electrónico para continuar."
   },
   {
-    "RowIndex": 107,
     "Id": "EmailAlreadyInUse",
     "Text": "Esta dirección de correo electrónico ya tiene una cuenta de Path of Exile asociada."
   },
   {
-    "RowIndex": 108,
     "Id": "AccountAlreadyHasEmail",
     "Text": "Esta cuenta ya tiene una dirección de correo electrónico asociada."
   },
   {
-    "RowIndex": 109,
     "Id": "NoAssociatedEmail",
     "Text": "Esta cuenta no tiene una dirección de correo electrónico asociada."
   },
   {
-    "RowIndex": 110,
     "Id": "SteamIdAlreadyInUse",
     "Text": "Esta cuenta de Steam ya tiene una cuenta de Path of Exile asociada."
   },
   {
-    "RowIndex": 111,
     "Id": "AccountAlreadyHasSteam",
     "Text": "Esta cuenta ya tiene una cuenta de Steam asociada."
   },
   {
-    "RowIndex": 112,
     "Id": "NoAssociatedSteamId",
     "Text": "Esta cuenta no tiene una cuenta de Steam asociada."
   },
   {
-    "RowIndex": 113,
     "Id": "EpicIdAlreadyInUse",
     "Text": "Esta cuenta de Epic ya tiene una cuenta de Path of Exile asociada."
   },
   {
-    "RowIndex": 114,
     "Id": "AccountAlreadyHasEpic",
     "Text": "Esta cuenta ya tiene una cuenta de Epic asociada."
   },
   {
-    "RowIndex": 115,
     "Id": "NoAssociatedEpicId",
     "Text": "Esta cuenta no tiene una cuenta de Epic asociada."
   },
   {
-    "RowIndex": 116,
     "Id": "KakaoIdAlreadyInUse",
     "Text": "Esta cuenta de Kakao ya tiene una cuenta de Path of Exile asociada."
   },
   {
-    "RowIndex": 117,
     "Id": "AccountAlreadyHasKakao",
     "Text": "Esta cuenta ya tiene una cuenta de Kakao asociada."
   },
   {
-    "RowIndex": 118,
     "Id": "NoAssociatedKakaoId",
     "Text": "Esta cuenta no tiene una cuenta de Kakao asociada."
   },
   {
-    "RowIndex": 119,
     "Id": "SonyIdAlreadyInUse",
     "Text": "Esta cuenta de Sony ya tiene una cuenta de Path of Exile asociada."
   },
   {
-    "RowIndex": 120,
     "Id": "AccountAlreadyHasSony",
     "Text": "Esta cuenta ya tiene una cuenta de Sony asociada."
   },
   {
-    "RowIndex": 121,
     "Id": "NoAssociatedSonyId",
     "Text": "Esta cuenta no tiene una cuenta de Sony asociada."
   },
   {
-    "RowIndex": 122,
     "Id": "XboxIdAlreadyInUse",
     "Text": "Esta cuenta de Xbox ya tiene una cuenta de Path of Exile asociada."
   },
   {
-    "RowIndex": 123,
     "Id": "AccountAlreadyHasXbox",
     "Text": "Esta cuenta ya tiene una cuenta de Xbox asociada."
   },
   {
-    "RowIndex": 124,
     "Id": "NoAssociatedXboxId",
     "Text": "Esta cuenta no tiene una cuenta de Xbox asociada."
   },
   {
-    "RowIndex": 125,
     "Id": "QqNumberAlreadyInUse",
     "Text": "Esta cuenta de WeGame ya tiene una cuenta de Path of Exile asociada."
   },
   {
-    "RowIndex": 126,
     "Id": "AccountAlreadyHasQq",
     "Text": "Esta cuenta ya tiene una cuenta de WeGame asociada."
   },
   {
-    "RowIndex": 127,
     "Id": "NoAssociatedQqNumber",
     "Text": "Esta cuenta no tiene una cuenta de WeGame asociada."
   },
   {
-    "RowIndex": 128,
     "Id": "MapDeviceBusy",
     "Text": "La activación ha fallado. El artefacto está ocupado."
   },
   {
-    "RowIndex": 129,
     "Id": "MapDeviceTooManyItems",
     "Text": "La activación ha fallado."
   },
   {
-    "RowIndex": 130,
     "Id": "MapDeviceTooManyItemsSound",
     "Text": "La activación ha fallado. Oyes un sonido en la distancia."
   },
   {
-    "RowIndex": 131,
     "Id": "MapDeviceNotMap",
     "Text": "La activación ha fallado. No hay ningún mapa en el artefacto de mapas."
   },
   {
-    "RowIndex": 132,
     "Id": "MapDeviceCreateInstanceFailed",
     "Text": "La activación ha fallado. No se pueden abrir portales al área."
   },
   {
-    "RowIndex": 133,
     "Id": "MapDeviceCancelled",
     "Text": "Activación cancelada."
   },
   {
-    "RowIndex": 134,
     "Id": "MapDeviceEmpty",
     "Text": "La activación ha fallado. El artefacto requiere un mapa."
   },
   {
-    "RowIndex": 135,
     "Id": "PlayerDisconnected",
     "Text": "{0} ha abandonado el área."
   },
   {
-    "RowIndex": 136,
     "Id": "PlayerJoined",
     "Text": "{0} se ha unido al área."
   },
   {
-    "RowIndex": 137,
     "Id": "EnteredArea",
     "Text": "Has entrado a {0}"
   },
   {
-    "RowIndex": 138,
     "Id": "LeagueNotYetStarted",
     "Text": "La liga aún no ha comenzado y por lo tanto no puedes moverte. Una vez que la liga haya comenzado, podrás moverte."
   },
   {
-    "RowIndex": 139,
     "Id": "LeagueAlreadyEnded",
     "Text": "Esta liga ya ha finalizado."
   },
   {
-    "RowIndex": 140,
     "Id": "LadderRankAlive",
     "Text": "{1}. {0} Nivel {2} {3} Exp: {4}"
   },
   {
-    "RowIndex": 141,
     "Id": "LadderRankDead",
     "Text": "{1}. {0} (Muerto) Nivel {2} {3} Exp: {4}"
   },
   {
-    "RowIndex": 142,
     "Id": "LadderRankTimed",
     "Text": "{1}. {0} Nivel {2} {3} Tiempo: {4}"
   },
   {
-    "RowIndex": 143,
     "Id": "LevelUp",
     "Text": "{0} ({1}) es ahora nivel {2}"
   },
   {
-    "RowIndex": 144,
     "Id": "AlreadyInPVPQueue",
     "Text": "Primero debes cancelar tu cola de espera JcJ."
   },
   {
-    "RowIndex": 145,
     "Id": "MissingRequiredQuestState",
     "Text": "No tienes el estado de misión requerido."
   },
   {
-    "RowIndex": 146,
     "Id": "FailedToJoinAnyInstances",
     "Text": "Error: Error al unirse a cualquier instancia."
   },
   {
-    "RowIndex": 147,
     "Id": "FailedToJoinInstance",
     "Text": "Error: Error al unirse a la instancia porque: {0}"
   },
   {
-    "RowIndex": 148,
     "Id": "FailedToConnectToInstance",
     "Text": "Error al conectar a la instancia."
   },
   {
-    "RowIndex": 149,
     "Id": "FailedToApplyCurrency",
     "Text": "Error al aplicar el objeto: {0}"
   },
   {
-    "RowIndex": 150,
     "Id": "TooManyGlobalItemLinks",
     "Text": "No puedes enviar más de {0} objetos en el chat global."
   },
   {
-    "RowIndex": 151,
     "Id": "MutedUntilSeconds",
     "Text": "Tu cuenta ha sido silenciada por un GM. Podrás hablar nuevamente en {0}."
   },
   {
-    "RowIndex": 152,
     "Id": "MutedUntilSecondsConsole",
     "Text": "Tu cuenta ha sido silenciada por un GM. Podrás hablar nuevamente en {0}. Si quieres discutir esto, envía un mensaje a \"Soporte\" desde la página web."
   },
   {
-    "RowIndex": 153,
     "Id": "ObaPlayerJoined",
     "Text": "Debes ser valiente o estúpido si piensas que puedes robar mi tesoro y sobrevivir. ¡En cualquier caso, te aplaudo!"
   },
   {
-    "RowIndex": 154,
     "Id": "ObaDoorUnlocked",
     "Text": "Procede, exiliado y toma lo que puedas, mientras puedas."
   },
   {
-    "RowIndex": 155,
     "Id": "ObaBeginDeathCount",
     "Text": "La corrupción está creciendo. Ahora date prisa, antes que te consuma como lo hizo conmigo."
   },
   {
-    "RowIndex": 156,
     "Id": "ObaFinalCountdown",
     "Text": "{0}"
   },
   {
-    "RowIndex": 157,
     "Id": "ObaKillPlayer",
     "Text": "¡Bah! No eres digno de asumir mi legado. Alimenta a la corrupción con tu cadáver."
   },
   {
-    "RowIndex": 158,
     "Id": "Oba75PercentOxygen",
     "Text": "La Pesadilla tiene tu aroma. Ahora ansía tu carne."
   },
   {
-    "RowIndex": 159,
     "Id": "Oba50PercentOxygen",
     "Text": "¿Está tu copa medio llena o medio vacía, exiliado?"
   },
   {
-    "RowIndex": 160,
     "Id": "Oba25PercentOxygen",
     "Text": "Decepcionante. Pareciera que la corrupción se apoderará de ti después de todo."
   },
   {
-    "RowIndex": 161,
     "Id": "CowardsTrialNextWave",
     "Text": "La oscuridad se avecina ominosamente…"
   },
   {
-    "RowIndex": 162,
     "Id": "CowardsTrialRoomClear",
     "Text": "La habitación se torna quieta y silenciosa…"
   },
   {
-    "RowIndex": 163,
     "Id": "CowardsTrialLevelClear",
     "Text": "La atmósfera opresiva se disipa lentamente..."
   },
   {
-    "RowIndex": 164,
     "Id": "VaalKillOversoul",
     "Text": "Tienes que matar al Alma Suprema Vaal."
   },
   {
-    "RowIndex": 165,
     "Id": "VaalDeliverAmulets",
     "Text": "Tienes que entregarle los amuletos de los bandidos a Eramir y obtener el Ápice."
   },
   {
-    "RowIndex": 166,
     "Id": "VaalAcquireAmulets",
     "Text": "Tienes que obtener los amuletos de los señores bandidos."
   },
   {
-    "RowIndex": 167,
     "Id": "VaalGetApexDex",
     "Text": "Tienes que tomar el Ápice de Kraityn."
   },
   {
-    "RowIndex": 168,
     "Id": "VaalGetApexStr",
     "Text": "Tienes que tomar el Ápice de Oak."
   },
   {
-    "RowIndex": 169,
     "Id": "VaalGetApexInt",
     "Text": "Tienes que tomar el Ápice de Alira."
   },
   {
-    "RowIndex": 170,
     "Id": "VaalGetApexTown",
     "Text": "Tienes que tomar el Ápice de Eramir."
   },
   {
-    "RowIndex": 171,
     "Id": "MonsterRemaining1",
     "Text": "Queda 1 monstruo."
   },
   {
-    "RowIndex": 172,
     "Id": "MonstersRemainingN",
     "Text": "Quedan {0} monstruos."
   },
   {
-    "RowIndex": 173,
     "Id": "MonstersRemainingMoreThan50",
     "Text": "Quedan más de 50 monstruos."
   },
   {
-    "RowIndex": 174,
     "Id": "PlayerDeathCount1",
     "Text": "Has muerto 1 vez."
   },
   {
-    "RowIndex": 175,
     "Id": "PlayerDeathCountN",
     "Text": "Has muerto {0} veces."
   },
   {
-    "RowIndex": 176,
     "Id": "PlayerKillCountN",
     "Text": "Has matado {0} monstruos."
   },
   {
-    "RowIndex": 177,
     "Id": "PvPStats1v1",
     "Text": "1c1 G/P/E: {0}/{1}/{2}"
   },
   {
-    "RowIndex": 178,
     "Id": "PvPStats3v3",
     "Text": "3c3 G/P/E: {0}/{1}/{2}"
   },
   {
-    "RowIndex": 179,
     "Id": "PvPPlayerJoinedTeam",
     "Text": "{0} se ha unido al equipo {1}."
   },
   {
-    "RowIndex": 180,
     "Id": "PvPNotEnoughPlayers",
     "Text": "Falló el inicio del combate. No se unieron los suficientes jugadores."
   },
   {
-    "RowIndex": 181,
     "Id": "PvPPlayerKilled",
     "Text": "{1} ha matado a {0}."
   },
   {
-    "RowIndex": 182,
     "Id": "PvPPartyTooLarge",
     "Text": "No es posible unirse a JcJ: hay demasiados miembros en el grupo para este tipo de combate JcJ."
   },
   {
-    "RowIndex": 183,
     "Id": "PvPPlayerAlreadyInQueue",
     "Text": "No es posible unirse a JcJ: ya te encuentras en cola para JcJ."
   },
   {
-    "RowIndex": 184,
     "Id": "PvPPartyMemberAlreadyInQueue",
     "Text": "No es posible unirse a JcJ: un miembro del grupo ya está en cola para JcJ."
   },
   {
-    "RowIndex": 185,
     "Id": "PvPPlayerTooFarQuest",
     "Text": "No es posible unirse a JcJ: has progresado más allá del límite de misión para este tipo de JcJ."
   },
   {
-    "RowIndex": 186,
     "Id": "PvPPartyMemberTooFarQuest",
     "Text": "No es posible unirse a JcJ: un miembro del grupo ha progresado más allá del nivel límite de misión para este tipo de JcJ."
   },
   {
-    "RowIndex": 187,
     "Id": "PvPPlayerTooHighLevel",
     "Text": "No es posible unirse a JcJ: estás por encima del nivel máximo para este tipo de JcJ."
   },
   {
-    "RowIndex": 188,
     "Id": "PvPPartyMemberTooHighLevel",
     "Text": "No es posible unirse a JcJ: un miembro del grupo está por encima del nivel máximo para este tipo de JcJ."
   },
   {
-    "RowIndex": 189,
     "Id": "PvPPlayerHasAscendancy",
     "Text": "No es posible unirse a JcJ: has elegido una clase de Ascendencia que no está permitida para este tipo de JcJ."
   },
   {
-    "RowIndex": 190,
     "Id": "PvPPartyMemberHasAscendancy",
     "Text": "No es posible unirse a JcJ: un miembro del grupo ha elegido una clase de Ascendencia que no está permitida para este tipo de JcJ."
   },
   {
-    "RowIndex": 191,
     "Id": "PvPJoinFail",
     "Text": "No es posible unirse a la lista de espera JcJ porque: {0}"
   },
   {
-    "RowIndex": 192,
     "Id": "PvPQueueCancelled",
     "Text": "Cola JcJ cancelada."
   },
   {
-    "RowIndex": 193,
     "Id": "PvPQueueCancelledBy",
     "Text": "Cola JcJ cancelada porque: {0}."
   },
   {
-    "RowIndex": 194,
     "Id": "PvPMatchListUnreachable",
     "Text": "No es posible obtener lista de combates JcJ porque: {0}"
   },
   {
-    "RowIndex": 195,
     "Id": "PvPDisabled",
     "Text": "JcJ está deshabilitado aquí."
   },
   {
-    "RowIndex": 196,
     "Id": "PlayerSuicide",
     "Text": "{0} se ha suicidado."
   },
   {
-    "RowIndex": 197,
     "Id": "PlayerSlain",
     "Text": "{0} ha muerto."
   },
   {
-    "RowIndex": 198,
     "Id": "NoCharacterSpecified",
     "Text": "Especifica un nombre de personaje."
   },
   {
-    "RowIndex": 199,
     "Id": "WhoIsOffline",
     "Text": "{0} es un {3} de nivel {2} en la liga {1} que actualmente no está conectado."
   },
   {
-    "RowIndex": 200,
     "Id": "WhoIsOnline",
     "Text": "{0} es un {3} de nivel {2} en la liga {1} y actualmente está jugando en {4}."
   },
   {
-    "RowIndex": 201,
     "Id": "ItemOnCursorLevel",
     "Text": "El objeto en el cursor es nivel {0}."
   },
   {
-    "RowIndex": 202,
     "Id": "NoItemOnCursor",
     "Text": "No hay objeto en el cursor."
   },
   {
-    "RowIndex": 203,
     "Id": "ItemOnCursorHasNoLevel",
     "Text": "El objeto en el cursor no tiene nivel (tiene que ser de uno que pueda recibir modificadores)."
   },
   {
-    "RowIndex": 204,
     "Id": "FixMyHelmetSuccess",
     "Text": "Casco actualizado."
   },
   {
-    "RowIndex": 205,
     "Id": "OperationFailed",
     "Text": "La operación ha fallado."
   },
   {
-    "RowIndex": 206,
     "Id": "FixMyHelmetAlreadyFixed",
     "Text": "Ese casco ya tiene la identidad visual correcta."
   },
   {
-    "RowIndex": 207,
     "Id": "FixMyHelmetUnique",
     "Text": "El casco en el cursor es único."
   },
   {
-    "RowIndex": 208,
     "Id": "FixMyHelmetNotHelmet",
     "Text": "El objeto en el cursor no es un casco."
   },
   {
-    "RowIndex": 209,
     "Id": "ItemHasMicrotransaction",
     "Text": "No puedes hacer esto con un objeto que tenga un efecto de microtransacción. Quita el efecto de microtransacción e inténtalo de nuevo."
   },
   {
-    "RowIndex": 210,
     "Id": "BugReportNumber",
     "Text": "Tu número de referencia del informe de error es {0}."
   },
   {
-    "RowIndex": 211,
     "Id": "PlayedTime",
     "Text": "Has jugado {0}."
   },
   {
-    "RowIndex": 212,
     "Id": "CharacterAge",
     "Text": "Tu personaje fue creado hace {0}."
   },
   {
-    "RowIndex": 213,
     "Id": "CharacterAgeUnknown",
     "Text": "Tu personaje no tiene registro de tiempo de creación."
   },
   {
-    "RowIndex": 214,
     "Id": "HelpCtrlClick",
     "Text": "Haz Ctrl+clic en una transición de área o en un transportador para crear una nueva instancia del área"
   },
   {
-    "RowIndex": 215,
     "Id": "ReceivedRespecPoint1",
     "Text": "Has recibido un punto de reasignación de pasivas."
   },
   {
-    "RowIndex": 216,
     "Id": "ReceivedRespecPointN",
     "Text": "Has recibido {0} puntos de reasignación de pasivas."
   },
   {
-    "RowIndex": 217,
     "Id": "ReceivedPassivePoint1",
     "Text": "Has recibido un punto de habilidades pasivas."
   },
   {
-    "RowIndex": 218,
     "Id": "ReceivedPassivePointN",
     "Text": "Has recibido {0} puntos de habilidades pasivas."
   },
   {
-    "RowIndex": 219,
     "Id": "ReceivedStatBonus",
     "Text": "Has recibido {0}."
   },
   {
-    "RowIndex": 220,
     "Id": "LeagueTradeDisabled",
     "Text": "No puedes comerciar en esta liga."
   },
   {
-    "RowIndex": 221,
     "Id": "TradeItemOnCursor",
     "Text": "No puedes comerciar con un objeto en el cursor."
   },
   {
-    "RowIndex": 222,
     "Id": "TradePlayerBusy",
     "Text": "Ese jugador está ocupado en este momento."
   },
   {
-    "RowIndex": 223,
     "Id": "TradeAccepted",
     "Text": "Intercambio aceptado."
   },
   {
-    "RowIndex": 224,
     "Id": "TradeCancelled",
     "Text": "Intercambio cancelado."
   },
   {
-    "RowIndex": 225,
     "Id": "YouWereIgnored",
     "Text": "Ese jugador te ha ignorado."
   },
   {
-    "RowIndex": 226,
     "Id": "AchievementServerUnreachable",
     "Text": "Error: no es posible conectar con el servidor de logros."
   },
   {
-    "RowIndex": 227,
     "Id": "DestroyCursorItem",
     "Text": "Objeto en el cursor destruido."
   },
   {
-    "RowIndex": 228,
     "Id": "DestroyItemInTrade",
     "Text": "No puedes destruir un objeto en comercio."
   },
   {
-    "RowIndex": 229,
     "Id": "DestroyQuestItem",
     "Text": "No puedes destruir objetos de misiones."
   },
   {
-    "RowIndex": 230,
     "Id": "DestroyMicrotransactions",
     "Text": "No puedes destruir objetos que tengan efectos de microtransacciones aplicados."
   },
   {
-    "RowIndex": 231,
     "Id": "DestroyBanditRespec",
     "Text": "Este objeto no se puede destruir, pero puedes venderlo a un NPC para obtener un reembolso."
   },
   {
-    "RowIndex": 232,
     "Id": "CannotCreatePublicPartyYet",
     "Text": "Debes llegar a la primera ciudad antes de poder crear grupos públicos."
   },
   {
-    "RowIndex": 233,
     "Id": "PublicPartyListUnreachable",
     "Text": "No es posible obtener la lista de grupos públicos porque: {0}"
   },
   {
-    "RowIndex": 234,
     "Id": "FullPassiveSkillRefund",
     "Text": "Tus habilidades pasivas han sido reintegradas."
   },
   {
-    "RowIndex": 235,
     "Id": "FullAtlasPassiveSkillRefund",
     "Text": "Tus habilidades pasivas del Atlas han sido reintegradas."
   },
   {
-    "RowIndex": 236,
     "Id": "TeleportFailed",
     "Text": "La teletransportación ha fallado: no se pudo colocar al jugador en el destino."
   },
   {
-    "RowIndex": 237,
     "Id": "TutorialShowItems",
     "Text": "Mantén apretado Alt para que se muestren los objetos en el suelo."
   },
   {
-    "RowIndex": 238,
     "Id": "FinishedDescent",
     "Text": "¡Felicitaciones, has conquistado Descenso!"
   },
   {
-    "RowIndex": 239,
     "Id": "JoinedGlobalChannel",
     "Text": "Te has unido al canal de chat global {1} {0}."
   },
   {
-    "RowIndex": 240,
     "Id": "JoinedTradeChannel",
     "Text": "Te has unido al canal de chat de comercio {1} {0}."
   },
   {
-    "RowIndex": 241,
     "Id": "ShopPackageDoesNotExist",
     "Text": "El paquete de la tienda no existe."
   },
   {
-    "RowIndex": 242,
     "Id": "ShopPackagePurchaseFailed",
     "Text": "Falló la compra del paquete."
   },
   {
-    "RowIndex": 243,
     "Id": "ShopPackageTransactionDoesNotExist",
     "Text": "La transacción de la tienda no existe."
   },
   {
-    "RowIndex": 244,
     "Id": "DownForMaintenanceTemp",
     "Text": "El servidor en el que estabas fue desconectado por mantenimiento. Inicia sesión de nuevo."
   },
   {
-    "RowIndex": 245,
     "Id": "GuildNameTooLong",
     "Text": "El nombre de la hermandad es demasiado largo."
   },
   {
-    "RowIndex": 246,
     "Id": "GuildTagTooLong",
     "Text": "La etiqueta de la hermandad es demasiado larga."
   },
   {
-    "RowIndex": 247,
     "Id": "AccountAlreadyInGuild",
     "Text": "La cuenta ya se encuentra dentro de una hermandad."
   },
   {
-    "RowIndex": 248,
     "Id": "GuildDoesNotExist",
     "Text": "No se pudo encontrar la hermandad especificada."
   },
   {
-    "RowIndex": 249,
     "Id": "GuildMustBeOfficer",
     "Text": "Debes ser un oficial o bien el líder de hermandad para realizar esta acción."
   },
   {
-    "RowIndex": 250,
     "Id": "NotInGuild",
     "Text": "La cuenta no es miembro de esta hermandad."
   },
   {
-    "RowIndex": 251,
     "Id": "GuildFull",
     "Text": "La hermandad está llena y no puedes aceptar más miembros."
   },
   {
-    "RowIndex": 252,
     "Id": "GuildMustBeLeader",
     "Text": "Debes ser el líder de la hermandad para realizar esta acción."
   },
   {
-    "RowIndex": 253,
     "Id": "DisallowedOnSelf",
     "Text": "No puedes hacerte esto a ti mismo."
   },
   {
-    "RowIndex": 254,
     "Id": "TooManyGuildInvites",
     "Text": "Este personaje ya ha sido invitado a demasiadas hermandades."
   },
   {
-    "RowIndex": 255,
     "Id": "GuildStatusMessageTooLong",
     "Text": "El mensaje de estado de la hermandad es demasiado largo."
   },
   {
-    "RowIndex": 256,
     "Id": "NotEnoughPointsForTransaction",
     "Text": "No tienes los puntos suficientes para completar esta transacción."
   },
   {
-    "RowIndex": 257,
     "Id": "GuildMustBeMember",
     "Text": "Debes ser un miembro de esta hermandad para realizar esta acción."
   },
   {
-    "RowIndex": 258,
     "Id": "RemoteStashAlreadyLocked",
     "Text": "El alijo remoto ya está bloqueado. Intenta nuevamente en breve."
   },
   {
-    "RowIndex": 259,
     "Id": "RemoteStashOperationRequiresLock",
     "Text": "El alijo remoto requiere bloquearse antes de realizar esta operación."
   },
   {
-    "RowIndex": 260,
     "Id": "BadGuildStashPermissions",
     "Text": "No tienes permiso para realizar esta acción en este alijo de hermandad."
   },
   {
-    "RowIndex": 261,
     "Id": "MaximumGuildSlots",
     "Text": "No tienes permitido tener más espacios en la hermandad."
   },
   {
-    "RowIndex": 262,
     "Id": "GuildTagTooShort",
     "Text": "La etiqueta de la hermandad debe tener un mínimo de 3 caracteres."
   },
   {
-    "RowIndex": 263,
     "Id": "GuildKickDisabledForAccount",
     "Text": "No puedes expulsar de la hermandad a esta cuenta ya que ha donado crédito para microtransacciones muy recientemente."
   },
   {
-    "RowIndex": 264,
     "Id": "FriendNoteTooLong",
     "Text": "Esta nota para un amigo es demasiado larga."
   },
   {
-    "RowIndex": 265,
     "Id": "TooHighLevelForCap",
     "Text": "Esta área tiene un nivel máximo de {0}."
   },
   {
-    "RowIndex": 266,
     "Id": "PlayerWins",
     "Text": "¡{0} gana!"
   },
   {
-    "RowIndex": 267,
     "Id": "TooLowLevelToSendWhisper",
     "Text": "No puedes enviar susurros hasta que seas nivel {0}"
   },
   {
-    "RowIndex": 268,
     "Id": "TooLowLevelToSendChat",
     "Text": "No puedes hablar en el chat {0} hasta que seas nivel {1}"
   },
   {
-    "RowIndex": 269,
     "Id": "ReachedRegularChatLimit",
     "Text": "Por favor espera antes de enviar otro mensaje de chat."
   },
   {
-    "RowIndex": 270,
     "Id": "ReachedTradeChatLimit",
     "Text": "Por favor espera antes de enviar otro mensaje en el chat de comercio."
   },
   {
-    "RowIndex": 271,
     "Id": "PortalEffectChanged",
     "Text": "Tu personaje ahora utilizará el {0}."
   },
   {
-    "RowIndex": 272,
     "Id": "PortraitFrameChanged",
     "Text": "Tu personaje ahora utilizará el {0}. Debes cerrar la sesión e iniciarla nuevamente para que el cambio tenga efecto."
   },
   {
-    "RowIndex": 273,
     "Id": "CharacterPortraitChanged",
     "Text": "Tu personaje ahora utilizará el {0}. Debes cerrar la sesión e iniciarla nuevamente para que el cambio tenga efecto."
   },
   {
-    "RowIndex": 274,
     "Id": "NoHideout",
     "Text": "Este jugador no tiene guarida en esta liga."
   },
   {
-    "RowIndex": 275,
     "Id": "FailedToUseItem",
     "Text": "Fallo al usar el objeto: {0}"
   },
   {
-    "RowIndex": 276,
     "Id": "ObaCompleted",
     "Text": "¡Jaja! Sin duda eres un poderoso aventurero. Utiliza lo que te he dado y propaga mi legado a lo largo y ancho de Wraeclast."
   },
   {
-    "RowIndex": 277,
     "Id": "ArenaScoreTitle",
     "Text": "Clasificación actual: (Asesinatos/Muertes)"
   },
   {
-    "RowIndex": 278,
     "Id": "ArenaScore",
     "Text": "{1}: {0} ({2}/{3})"
   },
   {
-    "RowIndex": 279,
     "Id": "LostPassivePoint1",
     "Text": "Has perdido un punto de habilidades pasivas."
   },
   {
-    "RowIndex": 280,
     "Id": "LostPassivePointN",
     "Text": "Has perdido {0} puntos de habilidades pasivas."
   },
   {
-    "RowIndex": 281,
     "Id": "LostStatBonus",
     "Text": "Has perdido {0}."
   },
   {
-    "RowIndex": 282,
     "Id": "FFALadderUpdate",
     "Text": "Ahora eres el #{0} en la arena."
   },
   {
-    "RowIndex": 283,
     "Id": "CraftingFailed",
     "Text": "La fabricación ha fallado: {0}"
   },
   {
-    "RowIndex": 284,
     "Id": "SpectatorJoined",
     "Text": "{0} está ahora observando."
   },
   {
-    "RowIndex": 285,
     "Id": "LeagueStartingSoonGlobal",
     "Text": "El siguiente evento de carrera comienza en {1}. Para entrar, ve a la pantalla de selección de personajes y haz clic en Unirte en la liga \"{0}\". Hay información disponible sobre este evento en el foro de Eventos/Ligas."
   },
   {
-    "RowIndex": 286,
     "Id": "LeagueStartingSoonLocal",
     "Text": "La liga comenzará en {0}."
   },
   {
-    "RowIndex": 287,
     "Id": "LeagueStartingNow",
     "Text": "¡La liga ya ha comenzado!"
   },
   {
-    "RowIndex": 288,
     "Id": "LeagueEndingMinutes",
     "Text": "La liga finalizará en {0}."
   },
   {
-    "RowIndex": 289,
     "Id": "LeagueFinished",
     "Text": "¡La liga ha finalizado!"
   },
   {
-    "RowIndex": 290,
     "Id": "LeagueFirstToReachLevel",
     "Text": "¡{0} es el primer personaje en llegar a nivel {1}!"
   },
   {
-    "RowIndex": 291,
     "Id": "LeagueFirstToEnterArea",
     "Text": "¡{0} es el primer personaje en acceder a {1}!"
   },
   {
-    "RowIndex": 292,
     "Id": "LeagueFirstToEnterDelveLevelSolo",
     "Text": "¡{0} es el primer personaje en excavar en solitario hasta una profundidad de {1}!"
   },
   {
-    "RowIndex": 293,
     "Id": "LeagueFirstToEnterDelveLevelParty",
     "Text": "¡{0} es el primer personaje en excavar hasta una profundidad de {1}!"
   },
   {
-    "RowIndex": 294,
     "Id": "LeagueFirstToFullyClear",
     "Text": "¡{0} es el primer personaje en completar {1}!"
   },
   {
-    "RowIndex": 295,
     "Id": "LeagueFirstToDoQuest",
     "Text": "¡{0} es el primer personaje en {1}!"
   },
   {
-    "RowIndex": 296,
     "Id": "RealmRestartingSoon",
     "Text": "El reino se reiniciará en {0}."
   },
   {
-    "RowIndex": 297,
     "Id": "RealmShuttingDownSown",
     "Text": "El reino se cerrará en {0}."
   },
   {
-    "RowIndex": 298,
     "Id": "RealmRestarting",
     "Text": "Comenzando el reinicio del reino…"
   },
   {
-    "RowIndex": 299,
     "Id": "RealmShuttingDown",
     "Text": "Comenzando el cierre del reino…"
   },
   {
-    "RowIndex": 300,
     "Id": "RealmRestartDeployPatchNotification",
     "Text": "Estamos reiniciando el reino para implementar la actualización {0}. Las notas de parche están en el foro de Notas de Parches. El tiempo de parada será de aproximadamente {2}. {1}"
   },
   {
-    "RowIndex": 301,
     "Id": "RealmMaintenanceNotification",
     "Text": "Estamos cerrando el reino por mantenimiento. El tiempo de parada será de aproximadamente {1}. {0}"
   },
   {
-    "RowIndex": 302,
     "Id": "CharacterOffline",
     "Text": "Ese personaje no está en línea."
   },
   {
-    "RowIndex": 303,
     "Id": "CharacterNameOffline",
     "Text": "{0} no está en línea."
   },
   {
-    "RowIndex": 304,
     "Id": "CharacterDifferentLeague",
     "Text": "Ese personaje está en una liga diferente."
   },
   {
-    "RowIndex": 305,
     "Id": "NotMutualFriends",
     "Text": "Esa cuenta no te ha aceptado como amigo."
   },
   {
-    "RowIndex": 306,
     "Id": "CharacterNotInPvP",
     "Text": "Ese personaje no está actualmente enfrentado en JcJ."
   },
   {
-    "RowIndex": 307,
     "Id": "SpectateFollow",
     "Text": "Ahora estás en cola para observar esa cuenta."
   },
   {
-    "RowIndex": 308,
     "Id": "HideoutDoodadLimitReached",
     "Text": "No puedes colocar más objetos en la guarida. El límite de objetos en la guarida es de 750."
   },
   {
-    "RowIndex": 309,
     "Id": "HardcoreDeathAnnouncement",
     "Text": "{0} (Nivel {1}) ha muerto en el puesto {2} de la clasificación."
   },
   {
-    "RowIndex": 310,
     "Id": "InteractErrorIncaBossSpawner",
     "Text": "Aparentemente requiere una llave triangular."
   },
   {
-    "RowIndex": 311,
     "Id": "InteractErrorMalachaiPortal",
     "Text": "No has matado a Malachai, o no estabas en el área cuando fue asesinado."
   },
   {
-    "RowIndex": 312,
     "Id": "InteractErrorMervielExit",
     "Text": "No has matado a Merveil, o no estabas en el área cuando fue asesinada."
   },
   {
-    "RowIndex": 313,
     "Id": "InteractErrorHillockGate",
     "Text": "Primero debes matar a Hillock."
   },
   {
-    "RowIndex": 314,
     "Id": "InteractErrorTowerTransition",
     "Text": "No has matado a Dóminus, o no estabas en el área cuando fue asesinado."
   },
   {
-    "RowIndex": 315,
     "Id": "InteractErrorMineEntranceSeal",
     "Text": "La entrada a las Minas está bloqueada por el Sello de Deshret."
   },
   {
-    "RowIndex": 316,
     "Id": "InteractErrorLockedDoor",
     "Text": "La puerta está bloqueada."
   },
   {
-    "RowIndex": 317,
     "Id": "InteractErrorTowerKey",
     "Text": "La Llave de la Torre no ha sido utilizada para abrir esta puerta."
   },
   {
-    "RowIndex": 318,
     "Id": "InteractErrorPoisonTree",
     "Text": "Hay raíces de árbol bloqueando tu camino. Quizá puedan apartarse en otro momento."
   },
   {
-    "RowIndex": 319,
     "Id": "InteractErrorUndyingBlockage",
     "Text": "El camino está bloqueado."
   },
   {
-    "RowIndex": 320,
     "Id": "InteractErrorLocked",
     "Text": "Está cerrado."
   },
   {
-    "RowIndex": 321,
     "Id": "InteractErrorBlockageTransition",
     "Text": "El camino está bloqueado."
   },
   {
-    "RowIndex": 322,
     "Id": "InteractErrorSpikeBlockage",
     "Text": "Aparentemente requiere algún tipo de llave."
   },
   {
-    "RowIndex": 323,
     "Id": "InteractErrorGlyphWall",
     "Text": "Este muro parece requerir tres objetos con formas extrañas."
   },
   {
-    "RowIndex": 324,
     "Id": "InteractErrorWaterCave",
     "Text": "Primero debes encontrar una manera de bajar el nivel del agua."
   },
   {
-    "RowIndex": 325,
     "Id": "InteractErrorNotYourCraftingTable",
     "Text": "No puedes utilizar las mesas de fabricación de otras personas."
   },
   {
-    "RowIndex": 326,
     "Id": "InteractErrorNotYourMapDevice",
     "Text": "No puedes usar el artefacto de mapas de otra persona."
   },
   {
-    "RowIndex": 327,
     "Id": "InteractErrorCoreTransition",
     "Text": "Debes matar a los tres guardianes de Malachai para acceder al Núcleo Negro."
   },
   {
-    "RowIndex": 328,
     "Id": "InteractErrorCoreTransitionOrgans",
     "Text": "Debes matar a los tres guardianes de Malachai y entregarle los órganos a Piedad para acceder al Núcleo Negro."
   },
   {
-    "RowIndex": 329,
     "Id": "InteractErrorPietyGateTransition",
     "Text": "Primero debes ocuparte de Piedad."
   },
   {
-    "RowIndex": 330,
     "Id": "InteractErrorVinktarSquareGateLocked",
     "Text": "El portón se levanta con el poder de los Guardianes."
   },
   {
-    "RowIndex": 331,
     "Id": "NotAllowedInPlayersHideout",
     "Text": "No puedes acceder al área de este jugador en este momento."
   },
   {
-    "RowIndex": 332,
     "Id": "CantChangeToHideoutFromHere",
     "Text": "No puedes ir a esta área desde aquí."
   },
   {
-    "RowIndex": 333,
     "Id": "StrMissionStartPointRocks",
     "Text": "La entrada ha colapsado."
   },
   {
-    "RowIndex": 334,
     "Id": "LoginTokenExpired",
     "Text": "Tus credenciales han caducado. Reinicia el juego."
   },
   {
-    "RowIndex": 335,
     "Id": "IgnoredPvP",
     "Text": "Has sido ignorado."
   },
   {
-    "RowIndex": 336,
     "Id": "LocalChatDisabledWhileSpectating",
     "Text": "El chat local está deshabilitado mientras observas JcJ."
   },
   {
-    "RowIndex": 337,
     "Id": "AbandonDailyNotInHideout",
     "Text": "Solamente puedes utilizar ese comando dentro de tu Guarida."
   },
   {
-    "RowIndex": 338,
     "Id": "NoDailyActive",
     "Text": "No tienes abierta una misión diaria."
   },
   {
-    "RowIndex": 339,
     "Id": "GrandmasterSaved",
     "Text": "El archivo Gran Maestro ha sido guardado. El personal de Grinding Gear Games será notificado."
   },
   {
-    "RowIndex": 340,
     "Id": "LeagueFinishTimeRaceCompleted",
     "Text": "Has completado el objetivo de esta carrera. Revisa la clasificación para ver tu ubicación."
   },
   {
-    "RowIndex": 341,
     "Id": "LeagueFinishTimeRaceLogin",
     "Text": "Ya has completado los objetivos de esta carrera con este personaje."
   },
   {
-    "RowIndex": 342,
     "Id": "CharacterNotFriendOrGuildmate",
     "Text": "Esa cuenta no es un amigo mutuo o miembro de hermandad."
   },
   {
-    "RowIndex": 343,
     "Id": "MapDeviceDisabled",
     "Text": "El Artefacto de Mapas está deshabilitado en esta liga."
   },
   {
-    "RowIndex": 344,
     "Id": "PVPTeamDoesNotExist",
     "Text": "Este equipo de JcJ no está registrado para este evento."
   },
   {
-    "RowIndex": 345,
     "Id": "ForwardedToMasterShard",
     "Text": "Esta solicitud fue enviada a la base de datos maestra. Esta solicitud debería ser descartada sin una respuesta."
   },
   {
-    "RowIndex": 346,
     "Id": "PVPTournamentFinished",
     "Text": "El torneo está completo."
   },
   {
-    "RowIndex": 347,
     "Id": "ErrorNotInHideout",
     "Text": "Debes estar en tu guarida para hacer esto."
   },
   {
-    "RowIndex": 348,
     "Id": "ErrorHideoutSuperceded",
     "Text": "Las modificaciones de guarida están desactivadas actualmente. Crea una nueva instancia de guarida y vuelve a intentarlo."
   },
   {
-    "RowIndex": 349,
     "Id": "ErrorCannotModifyGuildHideout",
     "Text": "No tienes permisos para modificar la guarida de la hermandad."
   },
   {
-    "RowIndex": 350,
     "Id": "ClaimCraftingBenchSuccess",
     "Text": "Agregando una mesa de fabricación al alijo de la guarida."
   },
   {
-    "RowIndex": 351,
     "Id": "CharacterIsPVPOnly",
     "Text": "Los personajes solo JcJ no pueden hacer esto."
   },
   {
-    "RowIndex": 352,
     "Id": "StoppedSpectateFollow",
     "Text": "Ya no estás en cola para observar."
   },
   {
-    "RowIndex": 353,
     "Id": "CannotTradeItemLockedToCharacter",
     "Text": "El objeto no puede ser comerciado o modificado."
   },
   {
-    "RowIndex": 354,
     "Id": "CannotTradeItemLockedToAccount",
     "Text": "El objeto no puede ser comerciado."
   },
   {
-    "RowIndex": 355,
     "Id": "PvPRelocatingArena",
     "Text": "Serás movido a otra arena JcJ para equilibrar el número de jugadores."
   },
   {
-    "RowIndex": 356,
     "Id": "MapCraftingFailedCost",
     "Text": "No tienes suficientes objetos monetarios."
   },
   {
-    "RowIndex": 357,
     "Id": "MapCraftingFailedTrade",
     "Text": "Fallo al abrir el mapa. No se pueden consumir objetos mientras la ventana de comercio está abierta."
   },
   {
-    "RowIndex": 358,
     "Id": "PvPMustHaveFullParty",
     "Text": "Tu grupo no es lo suficientemente grande para jugar en este combate JcJ."
   },
   {
-    "RowIndex": 359,
     "Id": "WithdrawnFromPVPTournament",
     "Text": "Te has retirado de este torneo JcJ."
   },
   {
-    "RowIndex": 360,
     "Id": "SpectatingDisabled",
     "Text": "El modo observador está deshabilitado para este combate."
   },
   {
-    "RowIndex": 361,
     "Id": "ChestLocked",
     "Text": "El cofre está cerrado."
   },
   {
-    "RowIndex": 362,
     "Id": "HideoutPortalLocked",
     "Text": "Los portales que llevan a los mapas están bloqueados."
   },
   {
-    "RowIndex": 363,
     "Id": "PVPCTFOwnFlag",
     "Text": "Trae la bandera de otro equipo aquí para ganar un punto."
   },
   {
-    "RowIndex": 364,
     "Id": "SpiderChestLocked",
     "Text": "Oyes algo escabullirse cerca…"
   },
   {
-    "RowIndex": 365,
     "Id": "AFKModeEnabled",
     "Text": "El modo Ausente está habilitado. Autorespuesta \"{0}\""
   },
   {
-    "RowIndex": 366,
     "Id": "AFKModeDisabled",
     "Text": "El modo Ausente está deshabilitado."
   },
   {
-    "RowIndex": 367,
     "Id": "DNDModeEnabled",
     "Text": "El modo No Molestar está habilitado. Autorespuesta \"{0}\""
   },
   {
-    "RowIndex": 368,
     "Id": "DNDModeDisabled",
     "Text": "El modo No Molestar está deshabilitado."
   },
   {
-    "RowIndex": 369,
     "Id": "AutoReplyEnabled",
     "Text": "Autorespuesta fijada \"{0}\""
   },
   {
-    "RowIndex": 370,
     "Id": "IncaApexDoorLocked",
     "Text": "Esta puerta no puede abrirse en este momento."
   },
   {
-    "RowIndex": 371,
     "Id": "CharacterNameExistsButCanExpire",
     "Text": "Crear este personaje hará que caduque el nombre de personaje de otro personaje."
   },
   {
-    "RowIndex": 372,
     "Id": "CharacterIsNotExpired",
     "Text": "El nombre de este personaje no ha caducado."
   },
   {
-    "RowIndex": 373,
     "Id": "CharacterIsExpired",
     "Text": "El nombre de este personaje ha sido tomado por otro jugador debido a inactividad de esta cuenta. Debe renombrarlo."
   },
   {
-    "RowIndex": 374,
     "Id": "OrphanedInstance",
     "Text": "El servidor del juego perdió contacto con el reino."
   },
   {
-    "RowIndex": 375,
     "Id": "ErrorLabyrinthLocked",
     "Text": "Este Laberinto ya ha sido abierto, y por lo tanto ya no puedes unirte a él. Visita una nueva Plaza de los Aspirantes para iniciar un nuevo Laberinto."
   },
   {
-    "RowIndex": 376,
     "Id": "ErrorZanaMissionLocked",
     "Text": "Ya has visitado esta área inestable con anterioridad, y no puedes volver a acceder a ella."
   },
   {
-    "RowIndex": 377,
     "Id": "InteractErrorDoorRequiresGoldenKey",
     "Text": "Esta puerta está cerrada. Necesitas una Llave de Oro para abrirla."
   },
   {
-    "RowIndex": 378,
     "Id": "InteractErrorDoorRequiresSilverKey",
     "Text": "Esta puerta está cerrada. Necesitas una Llave de Plata para abrirla."
   },
   {
-    "RowIndex": 379,
     "Id": "InteractErrorDoorRequiresBronzeKey",
     "Text": "Esta puerta está cerrada. Necesitas una Llave de Bronce para abrirla."
   },
   {
-    "RowIndex": 380,
     "Id": "TooManyCharacterSlots",
     "Text": "No puedes tener más de 255 espacios de personaje en una única cuenta."
   },
   {
-    "RowIndex": 381,
     "Id": "EchoClientString",
     "Text": "{0}"
   },
   {
-    "RowIndex": 382,
     "Id": "ErrorCannotWhisperIgnored",
     "Text": "No puedes susurrar a gente que se encuentra en tu lista de ignorados."
   },
   {
-    "RowIndex": 383,
     "Id": "AccountIsOnline",
     "Text": "Esta cuenta está actualmente en línea."
   },
   {
-    "RowIndex": 384,
     "Id": "IzaroChestLocked",
     "Text": "Este cofre está cerrado. Se requiere una Llave de Tesoro para abrirlo."
   },
   {
-    "RowIndex": 385,
     "Id": "ProfanityCheckFailed",
     "Text": "El texto que has introducido contiene obscenidades."
   },
   {
-    "RowIndex": 386,
     "Id": "ErrorCannotChangeAscendancyClass",
     "Text": "No puedes cambiar tu clase de Ascendencia en esta Liga."
   },
   {
-    "RowIndex": 387,
     "Id": "TencentAasLoginDenied",
     "Text": "Eres menor de edad y no puedes iniciar sesión. "
   },
   {
-    "RowIndex": 388,
     "Id": "TencentAasNotification",
     "Text": "Has estado jugando durante {0} horas, considera tomarte un descanso."
   },
   {
-    "RowIndex": 389,
     "Id": "TencentAasAlarm",
     "Text": "Has jugado durante más de tres horas y eres menor. No puedes conectarte hasta que no hayas descansado cinco horas."
   },
   {
-    "RowIndex": 390,
     "Id": "LeagueDisallowsCharacterDeletion",
     "Text": "Esta liga no permite borrar personajes en este momento."
   },
   {
-    "RowIndex": 391,
     "Id": "ErrorCannotAccessMapLabyrinth",
     "Text": "Aún no has completado las Pruebas del Mapa del Laberinto."
   },
   {
-    "RowIndex": 392,
     "Id": "ErrorCannotSealProphecy",
     "Text": "Error al sellar una Profecía."
   },
   {
-    "RowIndex": 393,
     "Id": "InviteErrorAlreadyInParty",
     "Text": "La invitación al grupo ha fallado. Ese personaje ya está en un grupo."
   },
   {
-    "RowIndex": 394,
     "Id": "TencentCannotAccessMapDevice",
     "Text": "Completa el Laberinto del Señor para obtener acceso al Artefacto de Mapas. Viaja al Campamento Sarn y haz clic en la Placa de Ascendencia para averiguar más sobre el Laberinto. Termina las Pruebas de Ascendencia y derrota al Emperador Izaro en su Laberinto para obtener acceso a los mapas del final de juego."
   },
   {
-    "RowIndex": 395,
     "Id": "DailyPortalBlocked",
     "Text": "No se puede abrir la misión diaria: la ubicación del portal está bloqueada. Usa el Modo Edición para mover el maestro a una nueva ubicación e intenta nuevamente."
   },
   {
-    "RowIndex": 396,
     "Id": "OfferDoesNotExist",
     "Text": "La oferta ya no existe."
   },
   {
-    "RowIndex": 397,
     "Id": "OfferInWrongState",
     "Text": "La oferta se encuentra en un estado inválido para esta acción."
   },
   {
-    "RowIndex": 398,
     "Id": "OfferContainsUntradeableItems",
     "Text": "La oferta no se puede enviar porque contiene objetos que no se pueden comerciar."
   },
   {
-    "RowIndex": 399,
     "Id": "NoOffersOnYourOwnItems",
     "Text": "No puedes realizar una oferta sobre este objeto porque ya lo posees."
   },
   {
-    "RowIndex": 400,
     "Id": "PublicListingLockedDueToLevel",
     "Text": "No puedes publicar objetos en venta hasta que tengas al menos un personaje en nivel 25 en tu cuenta."
   },
   {
-    "RowIndex": 401,
     "Id": "OffersLockedDueToLevel",
     "Text": "No puedes ofertar sobre objetos hasta que hayas tenido al menos un personaje en nivel 25 en tu cuenta."
   },
   {
-    "RowIndex": 402,
     "Id": "AccountNoLongerHasItem",
     "Text": "El jugador ya no tiene el objeto publicado."
   },
   {
-    "RowIndex": 403,
     "Id": "TooManyBuyerOffers",
     "Text": "Solo puedes tener 10 ofertas activas a la vez, resuelve ofertas activas para crear nuevas."
   },
   {
-    "RowIndex": 404,
     "Id": "TooManySellerOffers",
     "Text": "El vendedor tiene demasiadas ofertas en sus objetos. Intenta nuevamente más tarde."
   },
   {
-    "RowIndex": 405,
     "Id": "AlreadyHaveOfferOnItem",
     "Text": "Ya tienes una oferta en progreso por este objeto."
   },
   {
-    "RowIndex": 406,
     "Id": "SentOfferTooRecently",
     "Text": "Has enviado una oferta a esta cuenta muy recientemente."
   },
   {
-    "RowIndex": 407,
     "Id": "EventErrorLevelTooLow",
     "Text": "Debes ser al menos nivel {0} para entrar a este evento."
   },
   {
-    "RowIndex": 408,
     "Id": "EnteredPathOfEnduranceLevel",
     "Text": "Has alcanzado el Nivel {0}"
   },
   {
-    "RowIndex": 409,
     "Id": "EventEndsIn",
     "Text": "Este evento termina en {0}"
   },
   {
-    "RowIndex": 410,
     "Id": "GuildTagAlreadyExists",
     "Text": "Esa etiqueta de hermandad ya está en uso."
   },
   {
-    "RowIndex": 411,
     "Id": "GlobalChatOnCooldown",
     "Text": "Por favor espera unos segundos antes de usar el chat global de nuevo."
   },
   {
-    "RowIndex": 412,
     "Id": "InteractErrorKaruiDoorLocked",
     "Text": "El portón está cerrado, pero parece faltarle un ojo…"
   },
   {
-    "RowIndex": 413,
     "Id": "LabyrinthErrorPartyTooBigTencent",
     "Text": "Solamente puedes entrar al Laberinto con {0} o menos jugadores en tu grupo."
   },
   {
-    "RowIndex": 414,
     "Id": "InteractErrorNoSignOfPurity",
     "Text": "Necesitas el Signo de la Pureza para activar esto."
   },
   {
-    "RowIndex": 415,
     "Id": "InteractErrorCannotAccessEndgame",
     "Text": "No puedes acceder al contenido del final del juego hasta que hayas completado la campaña."
   },
   {
-    "RowIndex": 416,
     "Id": "CharacterNameContainsProfanity",
     "Text": "El nombre de este personaje está restringido."
   },
   {
-    "RowIndex": 417,
     "Id": "ConsoleDisconnectedBecauseActiveUserChanged",
     "Text": "Te has desconectado porque el usuario activo se ha desconectado"
   },
   {
-    "RowIndex": 418,
     "Id": "ConsoleDisconnectedBecauseSuspending",
     "Text": "Te has desconectado porque el juego se ha suspendido"
   },
   {
-    "RowIndex": 419,
     "Id": "InteractErrorNeedSunMoonOrbs",
     "Text": "Necesitas el Orbe del sol y el Orbe de la luna para activar esto."
   },
   {
-    "RowIndex": 420,
     "Id": "TheBeaconLever",
     "Text": "La antorcha no tiene suficiente combustible para encender."
   },
   {
-    "RowIndex": 421,
     "Id": "OnlyOneAllowedInHideout",
     "Text": "No puedes colocar más de un objeto de este tipo en tu guarida."
   },
   {
-    "RowIndex": 422,
     "Id": "AccountLoggedInOnOtherRealm",
     "Text": "No puedes tener sesiones iniciadas en el reino Beta y un reino normal de Path of Exile al mismo tiempo. "
   },
   {
-    "RowIndex": 423,
     "Id": "KitavaArenaLocked",
     "Text": "No es seguro usar un portal hacia esta área."
   },
   {
-    "RowIndex": 424,
     "Id": "InteractErrorBeaconMissingFlag",
     "Text": "Necesitas la Bandera Negra de la Caverna de la Rabia para usar el Faro."
   },
   {
-    "RowIndex": 425,
     "Id": "InteractErrorGreustShrine",
     "Text": "Un antiguo Santuario Azmeri. Quizá Helena sepa algo sobre él."
   },
   {
-    "RowIndex": 426,
     "Id": "PantheonFailedToCreateSoulItem",
     "Text": "El alma capturada no se ha podido generar en el artefacto de mapas."
   },
   {
-    "RowIndex": 427,
     "Id": "PantheonCannotConsumeVessel",
     "Text": "La activación ha fallado. No se puede capturar el alma del jefe de este mapa."
   },
   {
-    "RowIndex": 428,
     "Id": "PantheonCannotConsumeVesselAlreadyCaptured",
     "Text": "La activación ha fallado. Ya has capturado el alma del jefe de este mapa."
   },
   {
-    "RowIndex": 429,
     "Id": "ExitToLoginFailed",
     "Text": "La conexión al servidor ha fallado. Inicia sesión e inténtalo de nuevo. "
   },
   {
-    "RowIndex": 430,
     "Id": "MessageDoesNotExist",
     "Text": "El mensaje especificado no existe."
   },
   {
-    "RowIndex": 431,
     "Id": "MessageTooLong",
     "Text": "El mensaje es demasiado largo."
   },
   {
-    "RowIndex": 432,
     "Id": "AreaErrorLevelTooLow",
     "Text": "Debes ser al menos nivel {0} para acceder a esta área."
   },
   {
-    "RowIndex": 433,
     "Id": "AreaErrorLevelTooLowGeneric",
     "Text": "No has alcanzado un nivel lo suficientemente alto para acceder a esta área."
   },
   {
-    "RowIndex": 434,
     "Id": "TradeMarketCloseOfferWithItems",
     "Text": "Aún tienes objetos en la oferta. Quita esos objetos para poder cerrar la oferta."
   },
   {
-    "RowIndex": 435,
     "Id": "TradeMarketSendOfferWithNoItems",
     "Text": "No puedes enviar una oferta sin ofrecer ningún objeto monetario."
   },
   {
-    "RowIndex": 436,
     "Id": "XboxLoginErrorNoLiveAccess",
     "Text": "No se puede iniciar sesión porque no se puede acceder a Xbox Live."
   },
   {
-    "RowIndex": 437,
     "Id": "ConsoleLoginErrorNoInternetConnection",
     "Text": "No se puede iniciar sesión porque no hay conexión a internet."
   },
   {
-    "RowIndex": 438,
     "Id": "ErrorChatIsFull",
     "Text": "Falló la unión al canal de chat solicitado porque ya está lleno."
   },
   {
-    "RowIndex": 439,
     "Id": "LoginConnectionLimitReached",
     "Text": "El servidor de conexión está muy ocupado en este momento. Intenta nuevamente más tarde."
   },
   {
-    "RowIndex": 440,
     "Id": "TooManyObjects",
     "Text": "Se han solicitado demasiados objetos, por favor contacta con soporte."
   },
   {
-    "RowIndex": 441,
     "Id": "SubtabAlreadyExists",
     "Text": "Esta subpestaña ya existe."
   },
   {
-    "RowIndex": 442,
     "Id": "MaxInventoryColumns",
     "Text": "Alcanzaste el número máximo de columnas de inventario permitidas. SOLAMENTE PARA CHINA, NO PARA EL REINO MUNDIAL"
   },
   {
-    "RowIndex": 443,
     "Id": "IncorrectInventoryColumnUpgrade",
     "Text": "Estás intentando comprar una mejora de inventario para el número incorrecto de espacios existentes. SOLAMENTE PARA CHINA, NO PARA EL REINO MUNDIAL"
   },
   {
-    "RowIndex": 444,
     "Id": "GenericRateLimit",
     "Text": "La petición ha fallado porque has realizado demasiadas peticiones en poco tiempo."
   },
   {
-    "RowIndex": 445,
     "Id": "RequestInProgress",
     "Text": "Ya hay una petición en curso. Prueba de nuevo dentro de poco."
   },
   {
-    "RowIndex": 446,
     "Id": "ItemNotInStash",
     "Text": "El objeto no está en dicho alijo."
   },
   {
-    "RowIndex": 447,
     "Id": "BestiaryNetChanged",
     "Text": "Tu personaje ahora utilizará {0} para capturar Bestias."
   },
   {
-    "RowIndex": 448,
     "Id": "ErrorPlayerHasNoMenagerie",
     "Text": "Ese jugador no tiene un Animalario."
   },
   {
-    "RowIndex": 449,
     "Id": "MicrotransactionNotAvailableInLeague",
     "Text": "No puedes comprar esta microtransacción en esta liga."
   },
   {
-    "RowIndex": 450,
     "Id": "CaptureMonsterSuccess",
     "Text": "Bestia capturada: {0}"
   },
   {
-    "RowIndex": 451,
     "Id": "DeletedExcessBestiaryUnique",
     "Text": "Tu Animalario estaba lleno así que se ha eliminado una de las bestias más antiguas ({0}) para liberar espacio."
   },
   {
-    "RowIndex": 452,
     "Id": "DeletedExcessBestiaryRare",
     "Text": "Tu Animalario estaba lleno así que se ha eliminado una de las bestias más antiguas ({0}; {1}) para liberar espacio."
   },
   {
-    "RowIndex": 453,
     "Id": "PlayersRemainingN",
     "Text": "Quedan {0} jugadores."
   },
   {
-    "RowIndex": 454,
     "Id": "AccountNotVerifiedChatError",
     "Text": "Debes verificar tu cuenta para poder usar el chat."
   },
   {
-    "RowIndex": 455,
     "Id": "TooLowLevelToChooseChatIndex",
     "Text": "No puedes elegir un canal específico de chat a menos que seas nivel {0} o superior"
   },
   {
-    "RowIndex": 456,
     "Id": "IncursionLockedDoorError",
     "Text": "No tienes el objeto necesario para abrir este pasaje."
   },
   {
-    "RowIndex": 457,
     "Id": "IncursionDestructibleWallError",
     "Text": "No tienes explosivos."
   },
   {
-    "RowIndex": 458,
     "Id": "InstanceExpiredError",
     "Text": "No se puede conectar a la instancia. Esa subárea ha expirado porque ya no es la instancia secundaria más reciente de esta área."
   },
   {
-    "RowIndex": 459,
     "Id": "InstanceTerminatedError",
     "Text": "No es posible conectar con la instancia. Esa subárea ya no existe."
   },
   {
-    "RowIndex": 460,
     "Id": "FailedToLoadDelveMap",
     "Text": "Ocurrió un fallo al cargar los datos de mapa de Delve: {0}"
   },
   {
-    "RowIndex": 461,
     "Id": "DelveInProgressError",
     "Text": "No puedes unirte a un Delve que esté actualmente en curso."
   },
   {
-    "RowIndex": 462,
     "Id": "LoginRequiresUnlockCodeStrict",
     "Text": "Tu cuenta ha sido bloqueada hasta que puedas proveer un código de desbloqueo de tu correo electrónico (estricto)."
   },
   {
-    "RowIndex": 463,
     "Id": "DelveSocketableCurrencySameFossilError",
     "Text": "No puedes engarzar Fósiles idénticos en el mismo Resonador"
   },
   {
-    "RowIndex": 464,
     "Id": "GenericSocketError",
     "Text": "No puedes engarzar el objeto actual"
   },
   {
-    "RowIndex": 465,
     "Id": "OfferNotYetReadyForAccept",
     "Text": "La oferta está en un estado de espera de resolución de una consulta anterior. Intenta más tarde."
   },
   {
-    "RowIndex": 466,
     "Id": "InteractErrorEssence",
     "Text": "Algo más está manteniendo prisionera a esta Esencia."
   },
   {
-    "RowIndex": 467,
     "Id": "NotEnoughIngredients",
     "Text": "No tienes suficientes ingredientes para realizar esta acción."
   },
   {
-    "RowIndex": 468,
     "Id": "ConsoleDisconnectedBecauseActiveUserSignedOut",
     "Text": "Te has desconectado porque el usuario activo se ha desconectado"
   },
   {
-    "RowIndex": 469,
     "Id": "PS4LoginErrorNoPSNAccess",
     "Text": "No puedes iniciar sesión porque no hay conexión con \"PlayStation Network\"."
   },
   {
-    "RowIndex": 470,
     "Id": "PS4LoginErrorOutOfMemory",
     "Text": "No puedes iniciar sesión porque no tenemos memoria suficiente."
   },
   {
-    "RowIndex": 471,
     "Id": "PS4LoginErrorSignedOut",
     "Text": "No puedes iniciar sesión porque estás desconectado."
   },
   {
-    "RowIndex": 472,
     "Id": "PS4LoginErrorNotSignedUp",
     "Text": "No puedes iniciar sesión porque no estás registrado."
   },
   {
-    "RowIndex": 473,
     "Id": "PS4LoginErrorAgeRestriction",
     "Text": "No puedes iniciar sesión debido a una restricción de edad."
   },
   {
-    "RowIndex": 474,
     "Id": "PS4LoginErrorLoggedOut",
     "Text": "No puedes iniciar sesión porque no tienes la sesión iniciada."
   },
   {
-    "RowIndex": 475,
     "Id": "PS4LoginErrorLatestSystemSoftwareExist",
     "Text": "No puedes iniciar sesión porque existe una nueva versión del archivo de actualización del sistema del software."
   },
   {
-    "RowIndex": 476,
     "Id": "PS4LoginErrorLatestSystemSoftwareExistForTitle",
     "Text": "No puedes iniciar sesión porque existe una nueva versión del archivo de actualización del sistema del software, requerida para esta aplicación."
   },
   {
-    "RowIndex": 477,
     "Id": "PS4LoginErrorLatestPatchPackageExists",
     "Text": "No puedes iniciar sesión porque existe una nueva versión del paquete del parche."
   },
   {
-    "RowIndex": 478,
     "Id": "PS4LoginErrorLatestPatchPackageDownloaded",
     "Text": "No puedes iniciar sesión porque existe una nueva versión del paquete del parche descargado."
   },
   {
-    "RowIndex": 479,
     "Id": "PS4LoginErrorPatchNotChecked",
     "Text": "No puedes iniciar sesión porque no se ha podido comprobar si existe una nueva versión del archivo de actualización disponible. Inténtalo de nuevo."
   },
   {
-    "RowIndex": 480,
     "Id": "HideoutExportFailed",
     "Text": "Debes estar en una guarida para exportar una plantilla de guarida."
   },
   {
-    "RowIndex": 481,
     "Id": "HideoutImportSuccess",
     "Text": "Plantilla de guarida importada correctamente."
   },
   {
-    "RowIndex": 482,
     "Id": "HideoutImportFailed",
     "Text": "Falló la importación de la plantilla de guarida."
   },
   {
-    "RowIndex": 483,
     "Id": "HideoutImportFailedMustBeInHideout",
     "Text": "Debes estar en tu guarida para poder importar una plantilla de guarida."
   },
   {
-    "RowIndex": 484,
     "Id": "HideoutImportFailedWrongHideout",
     "Text": "Primero debes establecer tu guarida a {0} para poder importar esta plantilla de guarida."
   },
   {
-    "RowIndex": 485,
     "Id": "TencentTradeMarketNotExactPrice",
     "Text": "Tu oferta no coincide con el precio exacto para este objeto."
   },
   {
-    "RowIndex": 486,
     "Id": "TencentTradeMarketTooManyCompletedOffers",
     "Text": "Tienes demasiados intercambios completos en tu Mercado de Comercio para hacer esta oferta."
   },
   {
-    "RowIndex": 487,
     "Id": "IncursionRecipeUnlockRejected",
     "Text": "Ya has desbloqueado esta receta de fabricación"
   },
   {
-    "RowIndex": 488,
     "Id": "FailedToReclaimSomeHideoutDoodads",
     "Text": "No se han podido reclamar uno o más objetos de guarida. Crea una nueva instancia de guarida e inténtalo de nuevo."
   },
   {
-    "RowIndex": 489,
     "Id": "FailedToLoadHideoutDoodads",
     "Text": "Error al cargar la lista de decoraciones de la guarida."
   },
   {
-    "RowIndex": 490,
     "Id": "HideoutImportWarningGeneric",
     "Text": "Advertencia: no se han podido importar {0} objetos de guarida."
   },
   {
-    "RowIndex": 491,
     "Id": "HideoutImportWarningUnowned",
     "Text": "Advertencia: no se han podido importar {0} objetos de guarida porque no posees ninguno extra."
   },
   {
-    "RowIndex": 492,
     "Id": "HideoutImportWarningBlocked",
     "Text": "Advertencia: no se han podido importar {0} objetos de guarida porque la ubicación especificada estaba bloqueada."
   },
   {
-    "RowIndex": 493,
     "Id": "HideoutReclaimAllSuccess",
     "Text": "Se han recuperado todas las decoraciones de la guarida."
   },
   {
-    "RowIndex": 494,
     "Id": "AreaTransitionPartyError",
     "Text": "Debes estar en un grupo con el dueño del área para poder acceder a ella."
   },
   {
-    "RowIndex": 495,
     "Id": "AreaTransitionOwnerError",
     "Text": "El dueño del área debe estar presente para que puedas acceder a esta área."
   },
   {
-    "RowIndex": 496,
     "Id": "BestiaryErrorNoData",
     "Text": "Falló la recuperación de los datos de Bestiary."
   },
   {
-    "RowIndex": 497,
     "Id": "BestiaryErrorFailedToCaptureMonster",
     "Text": "Falló el guardado del monstruo capturado: {0}"
   },
   {
-    "RowIndex": 498,
     "Id": "PS4BadRedeemToken",
     "Text": "Error al canjear el token"
   },
   {
-    "RowIndex": 499,
     "Id": "CurrencyTradingPrevented2",
     "Text": "No puedes intercambiar objetos monetarios y objetos únicos con otros jugadores si no has verificado tu cuenta."
   },
   {
-    "RowIndex": 500,
     "Id": "PublicListingLockedDueToVerified",
     "Text": "no puedes listar públicamente los objetos a la venta hasta que hayas verificado tu cuenta."
   },
   {
-    "RowIndex": 501,
     "Id": "OffersLockedDueToVerified",
     "Text": "No puedes realizar ofertas sobre objetos hasta que hayas verificado tu cuenta."
   },
   {
-    "RowIndex": 502,
     "Id": "SynthesisPortalFullyDecayed",
     "Text": "Esta área se ha deteriorado."
   },
   {
-    "RowIndex": 503,
     "Id": "SynthesisTooManyMemories",
     "Text": "Has colocado demasiadas memorias, quita algunas antes de tratar de colocar más."
   },
   {
-    "RowIndex": 504,
     "Id": "SynthesisOtherMemoryInstance",
     "Text": "No puedes colocar memorias en el Nexo de la Memoria o la Extensión de Memoria de otra persona."
   },
   {
-    "RowIndex": 505,
     "Id": "ConsoleDisconnectedBecauseNoInternetConnection",
     "Text": "Te has desconectado porque no hay conexión a internet."
   },
   {
-    "RowIndex": 506,
     "Id": "PS4DisconnectedBecauseNoPSNAccess",
     "Text": "Te has desconectado porque no hay conexión con \"PlayStation Network\"."
   },
   {
-    "RowIndex": 507,
     "Id": "XboxDisconnectedBecauseNoXboxLiveAccess",
     "Text": "Te has desconectado porque no se ha podido acceder a Xbox Live."
   },
   {
-    "RowIndex": 508,
     "Id": "PS4CannotLogInUGMRestriction",
     "Text": "No puedes iniciar sesión debido a controles parentales."
   },
   {
-    "RowIndex": 509,
     "Id": "SynthesisMaxGlobalModsReached",
     "Text": "Has alcanzado el número máximo de modificadores de memoria en tu mapa de Synthesis."
   },
   {
-    "RowIndex": 510,
     "Id": "BetrayalCannotAccessLab",
     "Text": "Hay otro trabajo de Betrayal en proceso. Completa el otro encuentro o toma las decisiones que falten para habilitar esta entrada."
   },
   {
-    "RowIndex": 511,
     "Id": "SynthesisCannotApplyGlobalMod",
     "Text": "La memoria seleccionada y las memorias colocadas adyacentes a ella ya no pueden recibir más modificadores de memoria."
   },
   {
-    "RowIndex": 512,
     "Id": "KakaoAPIError",
     "Text": "Falló la autorización mediante el servidor de autenticación de Kakao."
   },
   {
-    "RowIndex": 513,
     "Id": "KakaoRequireLogin",
     "Text": "Debes volver a iniciar sesión con tu cuenta de Kakao."
   },
   {
-    "RowIndex": 514,
     "Id": "MapDeviceCannotUseFragmentWithMap",
     "Text": "La activación ha fallado. El {0} no se puede usar con un mapa."
   },
   {
-    "RowIndex": 515,
     "Id": "MapDeviceFragmentNeedsRecipe",
     "Text": "La activación ha fallado. El {0} se tiene que usar con otros fragmentos de mapa del mismo grupo."
   },
   {
-    "RowIndex": 516,
     "Id": "MapDeviceFragmentNeedsRecipeOrMap",
     "Text": "La activación ha fallado. El {0} se tiene que usar con un mapa o con otros fragmentos de mapa del mismo grupo."
   },
   {
-    "RowIndex": 517,
     "Id": "MapDeviceDuplicateFragments",
     "Text": "La activación ha fallado. No puedes usar varios fragmentos de mapa del mismo tipo."
   },
   {
-    "RowIndex": 518,
     "Id": "EmailLoginDisabledKakao",
     "Text": "Este método de inicio de sesión ha sido desactivado para esta cuenta. Por favor entra a través de http://poe.game.daum.net"
   },
   {
-    "RowIndex": 519,
     "Id": "EmailLoginDisabled",
     "Text": "Este método de inicio de sesión ha sido desactivado para esta cuenta."
   },
   {
-    "RowIndex": 520,
     "Id": "GatewayDisallowedForThisLoginType",
     "Text": "Esta puerta de enlace no está disponible para este método de inicio de sesión."
   },
   {
-    "RowIndex": 521,
     "Id": "UnacceptableChatMessage",
     "Text": "El contenido del mensaje es inaceptable."
   },
   {
-    "RowIndex": 522,
     "Id": "ChannelOnlyAllowsASCII",
     "Text": "El contenido del mensaje es inaceptable. Por favor utiliza solamente caracteres ASCII en este canal."
   },
   {
-    "RowIndex": 523,
     "Id": "ActionRejectedDueToPerPlayerFreeze",
     "Text": "Has muerto recientemente y no puedes ejecutar acciones durante {0}."
   },
   {
-    "RowIndex": 524,
     "Id": "PerPlayerDeathFreezeRemoved",
     "Text": "Ya puedes ejecutar acciones."
   },
   {
-    "RowIndex": 525,
     "Id": "LeagueDisallowsManualMigration",
     "Text": "No puedes migrar desde esta liga en este momento."
   },
   {
-    "RowIndex": 526,
     "Id": "RecycleMicroItemNotFound",
     "Text": "No se ha encontrado la microtransacción."
   },
   {
-    "RowIndex": 527,
     "Id": "RecycleMicroCannotRemoveMicro",
     "Text": "No se ha podido retirar la microtransacción."
   },
   {
-    "RowIndex": 528,
     "Id": "RecycleMicroNoValue",
     "Text": "La microtransacción no tiene valor."
   },
   {
-    "RowIndex": 529,
     "Id": "RecycleMicroGeneric",
     "Text": "No se ha podido completar la acción en este momento."
   },
   {
-    "RowIndex": 530,
     "Id": "TradeBanError",
     "Text": "No puedes hacer eso en este momento. Tu cuenta ha sido inhabilitada para acciones de comercio."
   },
   {
-    "RowIndex": 531,
     "Id": "InteractErrorCoreTransitionMap",
     "Text": "Tienes que matar a los tres guardianes del Devorador de Almas para acceder al Núcleo Negro."
   },
   {
-    "RowIndex": 532,
     "Id": "CombineMTXTimeLimitedError",
     "Text": "No se puede combinar microtransacciones de tiempo limitado."
   },
   {
-    "RowIndex": 533,
     "Id": "SalvageMTXTimeLimitedError",
     "Text": "No se puede reciclar microtransacciones de tiempo limitado."
   },
   {
-    "RowIndex": 534,
     "Id": "ItemIsInLeagueInventory",
     "Text": "No puedes realizar esta operación en un objeto de un inventario de liga."
   },
   {
-    "RowIndex": 535,
     "Id": "MetamorphosisCannotOpenUIError",
     "Text": "Las muestras de Metamorph solo puede combinarlas el propietario de la instancia."
   },
   {
-    "RowIndex": 536,
     "Id": "PurchaseLimitReached",
     "Text": "Has alcanzado el límite de compras para este objeto."
   },
   {
-    "RowIndex": 537,
     "Id": "EpicAssociateEmailSent",
     "Text": "Se ha enviado un correo electrónico para confirmar que eres el dueño de esta cuenta. Haz clic en el vínculo que has recibido para continuar."
   },
   {
-    "RowIndex": 538,
     "Id": "DestroyHarvestInfrastructure",
     "Text": "No puedes destruir los objetos de la infraestructura de Harvest."
   },
   {
-    "RowIndex": 539,
     "Id": "CharacterActionDeniedHarvestItems",
     "Text": "Tienes que eliminar todos los objetos de la infraestructura de Harvest que tenga tu personaje antes de realizar esta acción."
   },
   {
-    "RowIndex": 540,
     "Id": "HarvestOshabiFightOnlyInMaps",
     "Text": "El encuentro solo se puede iniciar desde un mapa"
   },
   {
-    "RowIndex": 541,
     "Id": "ConsoleGuildTagProfanityError",
     "Text": "La etiqueta de hermandad que intentas poner contiene una expresión prohibida. Inténtalo con una etiqueta diferente."
   },
   {
-    "RowIndex": 542,
     "Id": "ConsoleGuildNameProfanityError",
     "Text": "El nombre de hermandad que intentas poner contiene una expresión prohibida. Inténtalo con un nombre diferente."
   },
   {
-    "RowIndex": 543,
     "Id": "ConsoleGuildStashTabProfanityError",
     "Text": "El nombre de pestaña de alijo que intentas poner contiene una expresión prohibida. Inténtalo con un nombre diferente."
   },
   {
-    "RowIndex": 544,
     "Id": "TradeErrorItemStolenFromHeist",
     "Text": "El objeto no puede ser comerciado."
   },
   {
-    "RowIndex": 545,
     "Id": "HeistAlarmError",
     "Text": "Error: No puedes unirte a un área de Heist que tiene las puertas cerradas"
   },
   {
-    "RowIndex": 546,
     "Id": "HeistHubAccessError",
     "Text": "Para acceder al Puerto de los renegados, debes usar una Moneda del renegado."
   },
   {
-    "RowIndex": 547,
     "Id": "NotHeistOwner",
     "Text": "Error: No eres el dueño de esta instancia"
   },
   {
-    "RowIndex": 548,
     "Id": "ReceivedAtlasRespecPoint1",
     "Text": "Has recibido un punto de reasignación de pasivas del Atlas."
   },
   {
-    "RowIndex": 549,
     "Id": "ReceivedAtlasRespecPointN",
     "Text": "Has recibido {0} puntos de reasignación de pasivas del Atlas."
   },
   {
-    "RowIndex": 550,
     "Id": "ReceivedAtlasPassivePoint1",
     "Text": "Has recibido un punto de habilidad del Atlas."
   },
   {
-    "RowIndex": 551,
     "Id": "ReceivedAtlasPassivePointN",
     "Text": "Has recibido {0} puntos de habilidad del Atlas."
   },
   {
-    "RowIndex": 552,
     "Id": "MavenNotEnoughBosses",
     "Text": "La activación ha fallado. No has recolectado suficientes jefes de esta región del Atlas."
   },
   {
-    "RowIndex": 553,
     "Id": "MavenCitadelNotUnlocked",
     "Text": "La activación ha fallado. No has desbloqueado la ciudadela de esta región del Atlas."
   },
   {
-    "RowIndex": 554,
     "Id": "StashAffinityFailedNoRoom",
     "Text": "Tu pestaña de alijo con afinidad de {0} no tiene espacio suficiente para este objeto."
   },
   {
-    "RowIndex": 555,
     "Id": "FailedToAddMavenToMap",
     "Text": "No se ha podido agregar a la Especialista al mapa porque: {0}"
   },
   {
-    "RowIndex": 556,
     "Id": "RitualFragmentNotValidForUse",
     "Text": "La activación ha fallado. Los recipientes bañados en sangre solo se pueden usar en la liga de Ritual."
   },
   {
-    "RowIndex": 557,
     "Id": "MapDeviceInvalidQuestState",
     "Text": "La activación ha fallado. No tienes el estado de misión necesario."
   },
   {
-    "RowIndex": 558,
     "Id": "MapDeviceFull",
     "Text": "Tu artefacto de mapas está lleno."
   },
   {
-    "RowIndex": 559,
     "Id": "AccountNotVerified",
     "Text": "La cuenta no está verificada."
   },
   {
-    "RowIndex": 560,
     "Id": "UltimatumTrialStarted",
     "Text": "No puedes unirte a una prueba que ya ha empezado."
   },
   {
-    "RowIndex": 561,
     "Id": "RoyaleMatchEndedWonReward",
     "Text": "¡Ganador, ganador, la Cena de rhoa es para el vencedor!\nSe ha agregado una Cena de rhoa de grado {0} a tus decoraciones de guarida."
   },
   {
-    "RowIndex": 562,
     "Id": "RoyaleMatchEndedWon",
     "Text": "¡Ganador, ganador, la Cena de rhoa es para el vencedor!\nRecibirás la siguiente decoración de guarida como recompensa en {0} victorias."
   },
   {
-    "RowIndex": 563,
     "Id": "RoyaleMatchEndedWonMax",
     "Text": "¡Ganador, ganador, la Cena de rhoa es para el vencedor!"
   },
   {
-    "RowIndex": 564,
     "Id": "RoyaleMatchEnded",
     "Text": "¡{0} ha ganado la partida!"
   },
   {
-    "RowIndex": 565,
     "Id": "RoyaleMatchEndedTeam",
     "Text": "¡{0} y {1} han ganado la partida!"
   },
   {
-    "RowIndex": 566,
     "Id": "TradeNoteBlacklistedCharactersError",
     "Text": "Tu nota de intercambio contiene caracteres no permitidos. Intenta nuevamente."
   },
   {
-    "RowIndex": 567,
     "Id": "ExpeditionDetonatorNotInstanceOwner",
     "Text": "Solo puede interactuar con los explosivos y el detonador el jugador que sea el dueño de la instancia."
   },
   {
-    "RowIndex": 568,
     "Id": "ActionTemporarilyDisabled",
     "Text": "Esta acción ha sido deshabilitada temporalmente."
   },
   {
-    "RowIndex": 569,
     "Id": "CannotAccessGuildHideout",
     "Text": "No puedes acceder a la guarida de la hermandad de este jugador porque no eres un miembro de su hermandad."
   },
   {
-    "RowIndex": 570,
     "Id": "SettingDeliveryDetailsFailed",
     "Text": "Hubo un error al establecer los detalles del envío: "
   },
   {
-    "RowIndex": 571,
     "Id": "ExpeditionCurrencyNotification",
     "Text": "Se ha agregado {0}x {1} a tu Armario de Expedition"
   },
   {
-    "RowIndex": 572,
     "Id": "GuildStashDisabled",
     "Text": "El alijo de hermandad ha sido temporalmente deshabilitado."
   },
   {
-    "RowIndex": 573,
     "Id": "TencentItcServerError",
     "Text": "Ha ocurrido un error con el servidor ITC."
   },
   {
-    "RowIndex": 574,
     "Id": "OperationCancelled",
     "Text": "Operación cancelada."
   },
   {
-    "RowIndex": 575,
     "Id": "ConvertMapsPartialSuccess",
     "Text": "No se pudieron convertir algunos mapas, o bien por falta de espacio, o bien porque no se encontró una conversión válida."
   },
   {
-    "RowIndex": 576,
     "Id": "CannotPromoteEmptyStashToActive",
     "Text": "No puedes convertir una pestaña de alijo vacía en una activa."
   },
   {
-    "RowIndex": 577,
     "Id": "CannotFindActiveStashToReplace",
     "Text": "No se ha encontrado ninguna pestaña de alijo activa vacía de este tipo para reemplazar. Asegúrate de que has cargado una e inténtalo de nuevo."
   },
   {
-    "RowIndex": 578,
     "Id": "TencentUicServerError",
     "Text": "La conexión ha fallado, inténtalo de nuevo más tarde."
   },
   {
-    "RowIndex": 579,
     "Id": "PlayerKillCount1",
     "Text": "Has matado a 1 monstruo."
   },
   {
-    "RowIndex": 580,
     "Id": "PlayerKillCountCapped",
     "Text": "Has matado a una cantidad incalculable de monstruos."
   },
   {
-    "RowIndex": 581,
     "Id": "TencentActionFailedMarketBanned",
     "Text": "Tus acciones han infringido los Términos de servicio y han afectado negativamente al funcionamiento normal del juego. Tienes prohibido usar el mercado de comercio durante {0}."
   },
   {
-    "RowIndex": 582,
     "Id": "TencentGlobalStatusError",
     "Text": "El sistema está en mantenimiento, inténtalo de nuevo más tarde."
   },
   {
-    "RowIndex": 583,
     "Id": "WhisperFailed",
     "Text": "No se ha podido enviar el susurro a {0} porque: {1}"
   },
   {
-    "RowIndex": 584,
     "Id": "HideoutExportFailedLackingPermission",
     "Text": "No tienes permiso para exportar esta guarida."
   },
   {
-    "RowIndex": 585,
     "Id": "CurrencyTradingPreventedDueToReview",
     "Text": "No puedes intercambiar objetos monetarios ni objetos únicos con otros jugadores hasta que hayamos revisado tu cuenta. Este proceso puede tardar hasta 24 horas."
   },
   {
-    "RowIndex": 586,
     "Id": "PublicListingLockedDueToReview",
     "Text": "No puedes poner objetos a la venta hasta que hayamos revisado tu cuenta. Este proceso puede tardar hasta 24 horas."
   },
   {
-    "RowIndex": 587,
     "Id": "InteractErrorNotYourLakeStampingDevice",
     "Text": "No puedes usar esta placa reflejada."
   },
   {
-    "RowIndex": 588,
     "Id": "SanctumStabilityError",
     "Text": "Error: No puedes unirte al área del santuario si no tienes resolución"
   },
   {
-    "RowIndex": 589,
     "Id": "FeedbackNumber",
     "Text": "¡Gracias por tu comentario! Tu número de referencia es {0}"
   },
   {
-    "RowIndex": 590,
     "Id": "LootAllocationOptionDisabledInHardMode",
     "Text": "En las ligas Ruthless no se puede configurar el modo de asignación de objetos."
   },
   {
-    "RowIndex": 591,
     "Id": "ExtraInventoryColumnsDisabledInHardMode",
     "Text": "[DNT]Extra inventory columns are disabled in Ruthless leagues. CHINA ONLY NOT FOR WORLDWIDE REALM"
   },
   {
-    "RowIndex": 592,
     "Id": "PathOfEnduranceDisabledInHardMode",
     "Text": "[DNT]Path of Endurance is disabled in Ruthless leagues."
   },
   {
-    "RowIndex": 593,
     "Id": "RelicCannotPlaceItemSanctumInProgressError",
     "Text": "No puedes cambiar las reliquias si tienes un santuario activo."
   },
   {
-    "RowIndex": 594,
     "Id": "CoinFlipHeads",
     "Text": "¡{0} ha sacado cara!"
   },
   {
-    "RowIndex": 595,
     "Id": "CoinFlipTails",
     "Text": "¡{0} ha sacado cruz!"
   },
   {
-    "RowIndex": 596,
     "Id": "HideoutPvpInvalidPosition",
     "Text": "La arena JcJ está demasiado cerca de tu transportador, el área JcJ se ha desactivado."
   },
   {
-    "RowIndex": 597,
     "Id": "HideoutPvpEnded",
     "Text": "El combate ha terminado, ¡ha ganado {0}!"
   },
   {
-    "RowIndex": 598,
     "Id": "HideoutPvpEndedDraw",
     "Text": "El combate ha terminado en un empate."
   },
   {
-    "RowIndex": 599,
     "Id": "HideoutPvpCancelled",
     "Text": "Combate cancelado."
   },
   {
-    "RowIndex": 600,
     "Id": "HideoutPvpDefeated",
     "Text": "¡{0} ha perdido!"
   },
   {
-    "RowIndex": 601,
     "Id": "AccountNeedsToBeOffline",
     "Text": "Esta operación requiere que la cuenta esté sin conexión."
   },
   {
-    "RowIndex": 602,
     "Id": "AccountTransferInProgress",
     "Text": "Esta cuenta está actualmente siendo transferida entre instancias. Inténtalo de nuevo más tarde."
   },
   {
-    "RowIndex": 603,
     "Id": "SanctumAlreadyOpenedError",
     "Text": "Este santuario ya se ha abierto, así que no te puedes unir."
   },
   {
-    "RowIndex": 604,
     "Id": "CXInvalidRequest",
     "Text": "Solicitud inválida."
   },
   {
-    "RowIndex": 605,
     "Id": "CXOrderDoesNotExist",
     "Text": "El pedido no existe."
   },
   {
-    "RowIndex": 606,
     "Id": "CXOrderAlreadyClosed",
     "Text": "Este pedido ya se ha cancelado."
   },
   {
-    "RowIndex": 607,
     "Id": "CXOrderIsNotClosed",
     "Text": "Debes cancelar el pedido primero."
   },
   {
-    "RowIndex": 608,
     "Id": "CXMarketDisabled",
     "Text": "El mercado está cerrado."
   },
   {
-    "RowIndex": 609,
     "Id": "CXPendingTransactionOpen",
     "Text": "Transacción pendiente en progreso."
   },
   {
-    "RowIndex": 610,
     "Id": "CXPendingChangeRollback",
     "Text": "Transacción pendiente revertida."
   },
   {
-    "RowIndex": 611,
     "Id": "CXNoPendingCommit",
     "Text": "No se ha encontrado ninguna transacción pendiente."
   },
   {
-    "RowIndex": 612,
     "Id": "CXTooManyOrders",
     "Text": "Tienes demasiados pedidos."
   },
   {
-    "RowIndex": 613,
     "Id": "CXQueryOrderRateLimited",
     "Text": "Tienes que esperar antes de consultar más intercambios."
   },
   {
-    "RowIndex": 614,
     "Id": "CXGenericQueryFailure",
     "Text": "La consulta del intercambio ha fallado."
   },
   {
-    "RowIndex": 615,
     "Id": "CXGenericOrderFailure",
     "Text": "Error al realizar el pedido."
   },
   {
-    "RowIndex": 616,
     "Id": "CXCouldNotFindSellItems",
     "Text": "No se han podido encontrar los objetos que intentas vender."
   },
   {
-    "RowIndex": 617,
     "Id": "InstanceClosingSoon",
     "Text": "Esta instancia se cerrará en unos minutos. Viaja a otra área para evitar ser desconectado."
   },
   {
-    "RowIndex": 618,
     "Id": "NotEnoughGoldStorage",
     "Text": "No puedes almacenar esta cantidad de oro."
   },
   {
-    "RowIndex": 619,
     "Id": "AccountNotAuthorizedOnServer",
     "Text": "Esta cuenta no tiene autorización para acceder a este servidor"
   },
   {
-    "RowIndex": 620,
     "Id": "CharacterSentToVoidLeague",
     "Text": "¡{0} (nivel 100) se ha ido al vacío!"
   },
   {
-    "RowIndex": 621,
     "Id": "MustMigrateGarena",
     "Text": "Esta cuenta debe migrar primero de Garena a Hotcool."
   },
   {
-    "RowIndex": 622,
     "Id": "GuildLeaderCannotLeave",
     "Text": "Tienes que ascender a otro miembro de la hermandad al rango de Líder antes de poder abandonar la hermandad."
   },
   {
-    "RowIndex": 623,
     "Id": "NoHideoutSet",
     "Text": "No tienes una guarida."
   },
   {
-    "RowIndex": 624,
     "Id": "NotImplemented",
     "Text": "No está implementado."
   },
   {
-    "RowIndex": 625,
     "Id": "SonyWebApiBadRequest",
     "Text": "Solicitud errónea."
   },
   {
-    "RowIndex": 626,
     "Id": "SonyWebApiNotAuthorized",
     "Text": "No tienes autorización."
   },
   {
-    "RowIndex": 627,
     "Id": "SonyWebApiForbidden",
     "Text": "Prohibido."
   },
   {
-    "RowIndex": 628,
     "Id": "SonyWebApiAccessTokenExpired",
     "Text": "El token de acceso ha expirado."
   },
   {
-    "RowIndex": 629,
     "Id": "SonyWebApiNotPermitted",
     "Text": "No tienes privilegios para realizar esta operación."
   },
   {
-    "RowIndex": 630,
     "Id": "SonyWebApiContextIdAlreadyRegistered",
     "Text": "El ContextId especificado ya se ha registrado."
   },
   {
-    "RowIndex": 631,
     "Id": "SonyWebApiServiceUnavailable",
     "Text": "El servicio no está disponible."
   },
   {
-    "RowIndex": 632,
     "Id": "SonyWebApiSessionManagerAlreadyJoinedPlayerSession",
     "Text": "Ya estás en la sesión del jugador."
   },
   {
-    "RowIndex": 633,
     "Id": "SonyWebApiSessionManagerPlayerSessionDoesNotExist",
     "Text": "La sesión del jugador no existe."
   },
   {
-    "RowIndex": 634,
     "Id": "SonyWebApiSessionManagerBlockedUserExists",
     "Text": "El usuario bloqueado existe."
   },
   {
-    "RowIndex": 635,
     "Id": "SonyWebApiSessionManagerNotPermittedToJoinPlayerSession",
     "Text": "No tienes permiso para unirte a la sesión."
   },
   {
-    "RowIndex": 636,
     "Id": "SonyWebApiSessionManagerNotMemberOfSession",
     "Text": "El miembro no se ha unido a la sesión."
   },
   {
-    "RowIndex": 637,
     "Id": "SonyWebApiSessionManagerBlocked",
     "Text": "Bloqueado."
   },
   {
-    "RowIndex": 638,
     "Id": "SonyWebApiSessionManagerSessionFull",
     "Text": "La sesión está llena."
   },
   {
-    "RowIndex": 639,
     "Id": "MapDeviceMissingRecipeRequirement",
     "Text": "La activación ha fallado. Para poder desafiar al jefe desatado primero tienes que derrotar a la versión normal de ese jefe."
   },
   {
-    "RowIndex": 640,
     "Id": "ReliquaryVaultKeyMissing",
     "Text": "Este mecanismo está bloqueado, necesitas una llave para abrirlo."
   },
   {
-    "RowIndex": 641,
     "Id": "MapCraftingFailedCraftNoExtraContent",
     "Text": "La activación ha fallado. No se ha podido añadir el contenido adicional a este mapa."
   },
   {
-    "RowIndex": 642,
     "Id": "StopwatchElapsedTime",
     "Text": "Tiempo transcurrido: {0}"
   },
   {
-    "RowIndex": 643,
     "Id": "StopwatchSplitTime",
     "Text": "Tiempo intermedio: {0}"
   },
   {
-    "RowIndex": 644,
     "Id": "AncestralTrialRosterFull",
     "Text": "Has alcanzado la cantidad máxima de guerreros y objetos del campo de batalla. Vende algunos si quieres comprar más."
   },
   {
-    "RowIndex": 645,
     "Id": "AncestralTrialInventoryFull",
     "Text": "Has alcanzado la cantidad máxima de objetos de equipamiento. Vende algunos si quieres comprar más."
   },
   {
-    "RowIndex": 646,
     "Id": "LeagueFirstToAncestorRank",
     "Text": "¡{0} es el primer personaje en alcanzar la posición {1} en el Torneo de los ancestros!"
   },
   {
-    "RowIndex": 647,
     "Id": "AncestralTrialMatchInProgress",
     "Text": "No puedes entrar a los Salones de los muertos mientras se esté celebrando un Torneo de los ancestros."
   },
   {
-    "RowIndex": 648,
     "Id": "MapLethalAfterTimeBeginDeathCount",
     "Text": "¡Huye! ¡Los recuerdos fundacionales de este lugar se están disolviendo!"
   },
   {
-    "RowIndex": 649,
     "Id": "MapLethalAfterTimeFinalCountdown",
     "Text": " {0}"
   },
   {
-    "RowIndex": 650,
     "Id": "MapLethalAfterTimeKillPlayer",
     "Text": "Este lugar ya no es compatible con la vida. Espero que hayas podido escapar."
   },
   {
-    "RowIndex": 651,
     "Id": "MapLethalAfterTime75Percent",
     "Text": "Como temía, este no es un mapa estable. Ya has consumido una cuarta parte del tiempo que puedes estar aquí."
   },
   {
-    "RowIndex": 652,
     "Id": "MapLethalAfterTime50Percent",
     "Text": "La integridad del área se ha fracturado a la mitad."
   },
   {
-    "RowIndex": 653,
     "Id": "MapLethalAfterTime25Percent",
     "Text": "El tiempo se agota. ¡Solo te queda un cuarto!"
   },
   {
-    "RowIndex": 654,
     "Id": "MapLethalAfterTimeCompletion",
     "Text": "El peligro ha pasado. Este lugar es seguro ahora... o tan seguro como puede serlo el Atlas."
   },
   {
-    "RowIndex": 655,
     "Id": "MapLethalAfterTimeEntrance",
     "Text": "Mi querida Zana, no debes permanecer en este lugar. Es más sueño que realidad. Registraré todas las advertencias que pueda."
   },
   {
-    "RowIndex": 656,
     "Id": "MapDeviceCannotUseFragmentWithMapTier",
     "Text": "La activación ha fallado. No se puede aplicar {0} en un mapa de este grado."
   },
   {
-    "RowIndex": 657,
     "Id": "CharacterNotUsableInCouchCoop",
     "Text": "Este personaje no puede jugar en modo cooperativo local"
   },
   {
-    "RowIndex": 658,
     "Id": "ReceivedWeaponSpecialisationPoint1",
     "Text": "Has recibido un punto de habilidad pasiva de set de armas."
   },
   {
-    "RowIndex": 659,
     "Id": "ReceivedWeaponSpecialisationPointN",
     "Text": "Has recibido {0} puntos de habilidad pasiva de set de armas."
   },
   {
-    "RowIndex": 660,
     "Id": "DemoComplete",
     "Text": "¡Felicitaciones, has llegado al final de la demostración! ¡Gracias por jugar!"
   },
   {
-    "RowIndex": 661,
     "Id": "DemoDisconnectWarning",
     "Text": "Volverás a la pantalla de inicio en 20 segundos..."
   },
   {
-    "RowIndex": 662,
     "Id": "DemoTimeUp",
     "Text": "Tu tiempo se ha acabado. ¡Gracias por jugar!"
   },
   {
-    "RowIndex": 663,
     "Id": "InteractErrorSacrificialHeart",
     "Text": "Parece que requiere algún tipo de corazón."
   },
   {
-    "RowIndex": 664,
     "Id": "InteractErrorSacrificialDagger",
     "Text": "Parece que requiere algún tipo de daga."
   },
   {
-    "RowIndex": 665,
     "Id": "CannotRejoinAreaAfterDeath",
     "Text": "No puedes volver a unirte a esta área después de morir."
   },
   {
-    "RowIndex": 666,
     "Id": "INTLFailedToGetLoginInfo",
     "Text": "Error al obtener la información de inicio de sesión"
   },
   {
-    "RowIndex": 667,
     "Id": "InteractErrorDoorIsOneWay",
     "Text": "[DNT] The door does not open from this side."
   },
   {
-    "RowIndex": 668,
     "Id": "InteractErrorDoorRequiresKey1",
     "Text": "[DNT] The Martyr Relief is flecked with gold, as though it once held a golden sceptre."
   },
   {
-    "RowIndex": 669,
     "Id": "InteractErrorDoorRequiresKey2",
     "Text": "[DNT] The Painter Relief is flecked with gold, as though it once held a golden palette."
   },
   {
-    "RowIndex": 670,
     "Id": "InteractErrorDoorRequiresKey3",
     "Text": "[DNT] The Scholar relief is flecked with gold, as though it once held a golden tome."
   },
   {
-    "RowIndex": 671,
     "Id": "InteractErrorDoorRequiresKey4",
     "Text": "[DNT] The Bard relief is flecked with gold, as though it once held a golden lyre."
   },
   {
-    "RowIndex": 672,
     "Id": "InteractErrorDominusSecretPassage",
     "Text": "[DNT] The bust of Dominus is flecked with gold, as though it once wore a golden crown."
   },
   {
-    "RowIndex": 673,
     "Id": "QuestRewardConsumeMessage",
     "Text": "Eliminado del inventario:\r\n{0}"
   },
   {
-    "RowIndex": 674,
     "Id": "CannotDisenchantEquippedItem",
     "Text": "Este objeto no se puede desencantar porque está equipado."
   },
   {
-    "RowIndex": 675,
     "Id": "CrossplayRequestRejected",
     "Text": "Solicitud rechazada debido a tus limitaciones multiplataforma."
   },
   {
-    "RowIndex": 676,
     "Id": "CrossplayRequestRejectedByCounterpart",
     "Text": "Solicitud rechazada debido a las limitaciones multiplataforma de la otra persona."
   },
   {
-    "RowIndex": 677,
     "Id": "CrossplayRequestIgnored",
     "Text": "Solicitud entrante rechazada debido a tus limitaciones multiplataforma."
   },
   {
-    "RowIndex": 678,
     "Id": "AccountMergeFailed",
     "Text": "Error al fusionar las cuentas."
   },
   {
-    "RowIndex": 679,
     "Id": "AccountUnmergeFailed",
     "Text": "Error al separar las cuentas."
   },
   {
-    "RowIndex": 680,
     "Id": "AccountNameUnavailable",
     "Text": "Este nombre de cuenta no está disponible."
   },
   {
-    "RowIndex": 681,
     "Id": "NotEnoughPortalsForParty",
     "Text": "No hay suficientes portales para entrar."
   }

@@ -1,27 +1,23 @@
 [
   {
-    "RowIndex": 0,
     "Id": "ItemInLeague",
     "Whisper": "Здравствуйте, хочу купить у вас {{ITEM}} в лиге {{LEAGUE}}",
     "InStash": false,
     "IsPriced": false
   },
   {
-    "RowIndex": 1,
     "Id": "ItemInLeaguePriced",
     "Whisper": "Здравствуйте, хочу купить у вас {{ITEM}} за {{PRICE}} в лиге {{LEAGUE}}",
     "InStash": false,
     "IsPriced": true
   },
   {
-    "RowIndex": 2,
     "Id": "ItemInLeagueInStash",
     "Whisper": "Здравствуйте, хочу купить у вас {{ITEM}} в лиге {{LEAGUE}} (секция \"{{STASH}}\"; позиция: {{LEFT}} столбец, {{TOP}} ряд)",
     "InStash": true,
     "IsPriced": false
   },
   {
-    "RowIndex": 3,
     "Id": "ItemInLeaguePricedInStash",
     "Whisper": "Здравствуйте, хочу купить у вас {{ITEM}} за {{PRICE}} в лиге {{LEAGUE}} (секция \"{{STASH}}\"; позиция: {{LEFT}} столбец, {{TOP}} ряд)",
     "InStash": true,

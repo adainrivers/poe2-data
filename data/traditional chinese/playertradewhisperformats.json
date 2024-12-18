@@ -1,27 +1,23 @@
 [
   {
-    "RowIndex": 0,
     "Id": "ItemInLeague",
     "Whisper": "你好，我想購買 {{ITEM}} 在 {{LEAGUE}}",
     "InStash": false,
     "IsPriced": false
   },
   {
-    "RowIndex": 1,
     "Id": "ItemInLeaguePriced",
     "Whisper": "你好，我想購買 {{ITEM}} 標價 {{PRICE}} 在 {{LEAGUE}}",
     "InStash": false,
     "IsPriced": true
   },
   {
-    "RowIndex": 2,
     "Id": "ItemInLeagueInStash",
     "Whisper": "你好，我想購買 {{ITEM}} 在 {{LEAGUE}} (倉庫頁 \"{{STASH}}\"; 位置: 左 {{LEFT}}, 上 {{TOP}})",
     "InStash": true,
     "IsPriced": false
   },
   {
-    "RowIndex": 3,
     "Id": "ItemInLeaguePricedInStash",
     "Whisper": "你好，我想購買 {{ITEM}} 標價 {{PRICE}} 在 {{LEAGUE}} (倉庫頁 \"{{STASH}}\"; 位置: 左 {{LEFT}}, 上 {{TOP}})",
     "InStash": true,
