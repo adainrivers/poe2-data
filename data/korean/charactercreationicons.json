@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "Id": "Ranger1",
+    "Type": "원거리",
+    "Description": "화살을 멀리서 발사합니다. 적이 도착하기 전에 처치합니다.",
+    "Video": "Art/Videos/CharacterCreation/RangerLongRange.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureRanger1.dds"
+  },
+  {
+    "Id": "Ranger2",
+    "Type": "민첩함",
+    "Description": "이동 중 사격하고, 적을 뛰어넘고, 도약하여 위험으로부터 멀어집니다.",
+    "Video": "Art/Videos/CharacterCreation/RangerAgility.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureRanger2.dds"
+  },
+  {
+    "Id": "Ranger3",
+    "Type": "군중 제어",
+    "Description": "적을 감속시키고 제자리에 동결시킵니다. 적이 가까이 오지 못하게 합니다.",
+    "Video": "Art/Videos/CharacterCreation/Ranger_Crowd.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureRanger3.dds"
+  },
+  {
+    "Id": "Warrior1",
+    "Type": "묵직한 강타",
+    "Description": "강하게 타격합니다. 철퇴로 지면을 내리칩니다. 대지를 가릅니다.",
+    "Video": "Art/Videos/CharacterCreation/WarriorHeavySlams.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureWarrior1.dds"
+  },
+  {
+    "Id": "Warrior2",
+    "Type": "기절 및 밀어내기",
+    "Description": "적을 기절시키고 뒤로 밀어냅니다. 적을 지면으로 쓰러뜨립니다.",
+    "Video": "Art/Videos/CharacterCreation/WarriorStuns.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureWarrior3.dds"
+  },
+  {
+    "Id": "Warrior3",
+    "Type": "방어력",
+    "Description": "묵직한 방어구로 약한 공격을 흘려버립니다. 방패로 강한 공격을 막습니다. 막대한 생명력으로 나머지 공격을 흡수합니다.",
+    "Video": "Art/Videos/CharacterCreation/WarriorDefence.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureWarrior2.dds"
+  },
+  {
+    "Id": "Sorceress1",
+    "Type": "화염 주문",
+    "Description": "대규모 폭발을 일으킵니다. 적을 불태우고 불타는 모습을 바라봅니다.",
+    "Video": "Art/Videos/CharacterCreation/SorceressFire.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureSorceress1.dds"
+  },
+  {
+    "Id": "Sorceress2",
+    "Type": "냉기 주문",
+    "Description": "적을 감속시키고 제자리에 동결시킵니다. 적의 움직임을 제한합니다.",
+    "Video": "Art/Videos/CharacterCreation/SorceressCold.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureSorceress2.dds"
+  },
+  {
+    "Id": "Sorceress3",
+    "Type": "번개 주문",
+    "Description": "적 주위에 번개를 튕깁니다. 충격을 줘서 더 큰 피해를 줍니다.",
+    "Video": "Art/Videos/CharacterCreation/SorceressLightning.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureSorceress3.dds"
+  },
+  {
+    "Id": "Witch1",
+    "Type": "소환수",
+    "Description": "망자의 군대를 앞세웁니다. 이들을 지배해서 마음대로 부립니다.",
+    "Video": "Art/Videos/CharacterCreation/Witch_Necro.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureWitch1.dds"
+  },
+  {
+    "Id": "Witch2",
+    "Type": "카오스 마법",
+    "Description": "역병과 고사시키는 질환을 방출합니다. 느리지만 고통스러운 죽음을 선사합니다.",
+    "Video": "Art/Videos/CharacterCreation/Witch_Chaos.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureWitch2.dds"
+  },
+  {
+    "Id": "Witch3",
+    "Type": "뼈점술",
+    "Description": "명령에 따라 뼈 가시가 자랍니다. 빠르고 치명적인 마법입니다.",
+    "Video": "Art/Videos/CharacterCreation/Witch_Bone.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureWitch3.dds"
+  },
+  {
+    "Id": "Monk1",
+    "Type": "빠른 타격",
+    "Description": "난타로 적을 압도합니다. 한시도 누그러지지 않습니다.",
+    "Video": "Art/Videos/CharacterCreation/Monk_Quick.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureMonk1.dds"
+  },
+  {
+    "Id": "Monk2",
+    "Type": "기동성",
+    "Description": "적 사이사이를 날렵하게 누빕니다. 위험이 닥치면 회피합니다. 적에게 접근하여 처치를 노립니다.",
+    "Video": "Art/Videos/CharacterCreation/Monk_Mobility.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureMonk2.dds"
+  },
+  {
+    "Id": "Monk3",
+    "Type": "연계",
+    "Description": "힘을 축적했다가 파괴적인 마무리 공격을 날립니다.",
+    "Video": "Art/Videos/CharacterCreation/Monk_Combo.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureMonk3.dds"
+  },
+  {
+    "Id": "Mercenary1",
+    "Type": "탄약",
+    "Description": "석궁 탄약을 교체합니다. 적의 행동에 대응하고, 적의 약점을 이용합니다.",
+    "Video": "Art/Videos/CharacterCreation/MercAmmunition.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureMercenary1.dds"
+  },
+  {
+    "Id": "Mercenary2",
+    "Type": "원소 탄환",
+    "Description": "냉기를 이용해 적을 동결시킵니다. 화염 탄환을 사용해 불태웁니다. 쏟아지는 번개 볼트를 날립니다.",
+    "Video": "Art/Videos/CharacterCreation/MercElementalRounds.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureMercenary2.dds"
+  },
+  {
+    "Id": "Mercenary3",
+    "Type": "융통성 있는 원거리",
+    "Description": "적 행동에 대응합니다. 멀리서 적을 공격하며, 가까이 오는 적이 있으면 처단합니다.",
+    "Video": "Art/Videos/CharacterCreation/MercLongRange.bk2",
+    "Icon": "Art/Textures/Interface/2D/2DArt/UIImages/InGame/CharacterCreation/IconFeatureMercenary3.dds"
+  }
+]

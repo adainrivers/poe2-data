@@ -26,60 +26,60 @@
       "TableName": "SkillGems",
       "RowIndex": 458
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 2422361554944
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/Str42D/Mar_01.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/OneHandWeapons/OneHandAxes/FourOneHandAxe1"
+      }
+    ],
+    "Gender": "M",
+    "TraitDescription": "特性：オフハンドでブロックにカウンター",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/MarauderBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 2602750181376
+      "RowIndex": 609
     },
-    "Unk030": 0,
-    "Unk031": [],
-    "PassiveTreeImage": "뮻뮻뮻뮻Metadata/Characters/Str/StrFour",
+    "Unk031": {
+      "TableName": null,
+      "RowIndex": 372
+    },
     "Unk033": 1,
-    "Unk034": 606,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/MarauderBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "StrFour",
+    "LoginScreen": "Metadata/Characters/Str/StrFourLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/StrCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/StrFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/StrFourAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 390842023936
+      "Id": "Metadata/Monsters/Mirage/MarauderFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 365072220160
+      "Id": "Metadata/Monsters/Clone/MarauderFourCloneImmobile"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 416611827712
+      "Id": "Metadata/Monsters/Mirage/MarauderReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 648540061696
+      "Id": "Metadata/Monsters/Clone/MarauderLightningClone"
     },
-    "Unk045": 0.0,
-    "Unk046": 350.0,
-    "SkillTreeBackground": null,
+    "Unk045": 350.0,
+    "Unk046": -574.0,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/Str/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 313532612608
+      "Id": "Metadata/Monsters/Clone/MarauderClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -87,34 +87,37 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 163208757248
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 712964571136
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorMarauder"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 188978561024
+      "Id": "Metadata/Monsters/Double/DoubleMarauderTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "Str",
+    "AttrLowercase": "str",
+    "Script": "str_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2216203124736
+      "RowIndex": 516
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424036
+    "Unk057": 100,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 1364,
+    "Unk062": 1,
+    "Unk063": {
+      "TableName": null,
+      "RowIndex": 1693
     },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "Id": "Metadata/Monsters/PerennialKingStage2/PerennialKingCorpseFriend13"
-    },
-    "Unk060": 0,
-    "Unk061": 0.0
+    "Unk064": 0,
+    "Unk065": 1384,
+    "Unk066": 103.0,
+    "Unk067": 1384
   },
   {
     "Id": "Metadata/Characters/Int/IntFour",
@@ -143,60 +146,57 @@
       "TableName": "SkillGems",
       "RowIndex": 2819
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 8435315769344
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand1"
+      }
+    ],
+    "Gender": "F",
+    "TraitDescription": "特性：混沌に対する天賦の回復力",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/WitchBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 8581344657408
+      "RowIndex": 611
     },
-    "Unk030": 0,
     "Unk031": null,
-    "PassiveTreeImage": null,
     "Unk033": 1,
-    "Unk034": 1998,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/WitchBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "IntFour",
+    "LoginScreen": "Metadata/Characters/Int/IntFourLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/IntCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/IntFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/IntFourAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 399431958528
+      "Id": "Metadata/Monsters/Mirage/WitchFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 373662154752
+      "Id": "Metadata/Monsters/Clone/WitchFourCloneImmobile_"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 425201762304
+      "Id": "Metadata/Monsters/Mirage/WitchReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 665719930880
+      "Id": "Metadata/Monsters/Clone/WitchLightningClone"
     },
     "Unk045": 0.0,
     "Unk046": 0.0,
-    "SkillTreeBackground": null,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/Int/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 322122547200
+      "Id": "Metadata/Monsters/Clone/WitchClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -204,34 +204,37 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 171798691840
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 721554505728
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorWitch"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 197568495616
+      "Id": "Metadata/Monsters/Double/DoubleWitchTwo_"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "Int",
+    "AttrLowercase": "int",
+    "Script": "int_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2375116914688
+      "RowIndex": 553
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424016
+    "Unk057": 80,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 2750,
+    "Unk062": 3,
+    "Unk063": {
+      "TableName": null,
+      "RowIndex": 1862
     },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 2750
-    },
-    "Unk060": 0,
-    "Unk061": 0.0
+    "Unk064": 3,
+    "Unk065": 2764,
+    "Unk066": 92.5,
+    "Unk067": 2812
   },
   {
     "Id": "Metadata/Characters/Dex/DexFour",
@@ -260,60 +263,57 @@
       "TableName": "SkillGems",
       "RowIndex": 401
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 14791867367424
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/Dex42D/Ranger_01.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/TwoHandWeapons/Bows/FourBow1"
+      }
+    ],
+    "Gender": "F",
+    "TraitDescription": "特性：矢が速く正確に飛ぶ",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/RangerBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 14912126451712
+      "RowIndex": 610
     },
-    "Unk030": 0,
     "Unk031": null,
-    "PassiveTreeImage": null,
     "Unk033": 1,
-    "Unk034": 3472,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/RangerBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "DexFour",
+    "LoginScreen": "Metadata/Characters/Dex/DexFourLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/DexCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/DexFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/DexFourAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 395136991232
+      "Id": "Metadata/Monsters/Mirage/RangerFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 369367187456
+      "Id": "Metadata/Monsters/Clone/RangerFourCloneImmobile"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 420906795008
+      "Id": "Metadata/Monsters/Mirage/RangerReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 657129996288
+      "Id": "Metadata/Monsters/Clone/RangerLightningClone"
     },
-    "Unk045": 0.0,
-    "Unk046": -536.0,
-    "SkillTreeBackground": null,
+    "Unk045": -536.0,
+    "Unk046": -281.92,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/Dex/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 317827579904
+      "Id": "Metadata/Monsters/Clone/RangerClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -321,34 +321,37 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 167503724544
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 717259538432
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorRanger"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 193273528320
+      "Id": "Metadata/Monsters/Double/DoubleRangerTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "Dex",
+    "AttrLowercase": "dex",
+    "Script": "dex_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2370821947392
+      "RowIndex": 552
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424016
+    "Unk057": 80,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 4226,
+    "Unk062": 2,
+    "Unk063": {
+      "TableName": null,
+      "RowIndex": 2178
     },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4226
-    },
-    "Unk060": 0,
-    "Unk061": 0.0
+    "Unk064": 3,
+    "Unk065": 4242,
+    "Unk066": 90.0,
+    "Unk067": 4290
   },
   {
     "Id": "Metadata/Characters/StrDex/StrDexFour",
@@ -377,60 +380,60 @@
       "TableName": "SkillGems",
       "RowIndex": 2696
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 21749714386944
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_01.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/FourOneHandSword1"
+      }
+    ],
+    "Gender": "M",
+    "TraitDescription": "特性：オフハンド武器による素早いアタック",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/DuelistBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 21938692947968
+      "RowIndex": 612
     },
-    "Unk030": 0,
-    "Unk031": [],
-    "PassiveTreeImage": "뮻뮻뮻뮻Metadata/Characters/Str/StrFour",
+    "Unk031": {
+      "TableName": null,
+      "RowIndex": 372
+    },
     "Unk033": 1,
-    "Unk034": 5108,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/DuelistBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "StrDexFour",
+    "LoginScreen": "Metadata/Characters/StrDex/StrDexFourLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/StrDexCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/StrDexFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/StrDexFourAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 403726925824
+      "Id": "Metadata/Monsters/Mirage/DuelistFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 377957122048
+      "Id": "Metadata/Monsters/Clone/DuelistFourCloneImmobile"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 429496729600
+      "Id": "Metadata/Monsters/Mirage/DuelistReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 674309865472
+      "Id": "Metadata/Monsters/Clone/DuelistLightningClone"
     },
     "Unk045": 0.0,
-    "Unk046": 0.0,
-    "SkillTreeBackground": null,
+    "Unk046": -699.2,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/StrDex/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 326417514496
+      "Id": "Metadata/Monsters/Clone/DuelistClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -438,34 +441,37 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 176093659136
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 725849473024
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorDuelist"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 201863462912
+      "Id": "Metadata/Monsters/Double/DoubleDuelistTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "StrDex",
+    "AttrLowercase": "strdex",
+    "Script": "strdex_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2379411881984
+      "RowIndex": 554
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424026
+    "Unk057": 90,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 5924,
+    "Unk062": 4,
+    "Unk063": {
+      "TableName": null,
+      "RowIndex": 1667
     },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 5924
-    },
-    "Unk060": 0,
-    "Unk061": 0.0
+    "Unk064": 0,
+    "Unk065": 5942,
+    "Unk066": 100.0,
+    "Unk067": 5942
   },
   {
     "Id": "Metadata/Characters/DexInt/DexIntFour",
@@ -494,60 +500,57 @@
       "TableName": "SkillGems",
       "RowIndex": 2693
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 29205777612800
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_02.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/OneHandWeapons/Daggers/FourDagger1"
+      }
+    ],
+    "Gender": "M",
+    "TraitDescription": "特性：毒が強く長く持続",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/ShadowBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 29317446762496
+      "RowIndex": 613
     },
-    "Unk030": 0,
     "Unk031": null,
-    "PassiveTreeImage": null,
     "Unk033": 1,
-    "Unk034": 6826,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/ShadowBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "DexIntFour",
+    "LoginScreen": "Metadata/Characters/DexInt/DexIntFourLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/DexIntCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/DexIntFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/DexIntFourAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 412316860416
+      "Id": "Metadata/Monsters/Mirage/ShadowFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 386547056640
+      "Id": "Metadata/Monsters/Clone/ShadowFourCloneImmobile_"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 438086664192
+      "Id": "Metadata/Monsters/Mirage/ShadowReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 691489734656
+      "Id": "Metadata/Monsters/Clone/ShadowLightningClone__"
     },
     "Unk045": 0.0,
-    "Unk046": 0.0,
-    "SkillTreeBackground": null,
+    "Unk046": -291.4,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/DexInt/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 335007449088
+      "Id": "Metadata/Monsters/Clone/ShadowClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -555,34 +558,37 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 184683593728
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 734439407616
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorShadow"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 210453397504
+      "Id": "Metadata/Monsters/Double/DoubleShadowTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "DexInt",
+    "AttrLowercase": "dexint",
+    "Script": "dexint_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2388001816576
+      "RowIndex": 556
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424016
+    "Unk057": 80,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 7640,
+    "Unk062": 6,
+    "Unk063": {
+      "TableName": null,
+      "RowIndex": 1771
     },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 7640
-    },
-    "Unk060": 0,
-    "Unk061": 0.0
+    "Unk064": 0,
+    "Unk065": 7656,
+    "Unk066": 96.0,
+    "Unk067": 7656
   },
   {
     "Id": "Metadata/Characters/StrInt/StrIntFour",
@@ -611,60 +617,60 @@
       "TableName": "SkillGems",
       "RowIndex": 468
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 36240934043648
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_01.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/OneHandWeapons/Flails/FourFlail1"
+      }
+    ],
+    "Gender": "M",
+    "TraitDescription": "特性：スピリットが誰よりも強い",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/TemplarBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 36386962931712
+      "RowIndex": 614
     },
-    "Unk030": 0,
-    "Unk031": [],
-    "PassiveTreeImage": "뮻뮻뮻뮻Metadata/Characters/Str/StrFour",
+    "Unk031": {
+      "TableName": null,
+      "RowIndex": 372
+    },
     "Unk033": 1,
-    "Unk034": 8472,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/TemplarBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "StrIntFour",
+    "LoginScreen": "Metadata/Characters/StrInt/StrIntFourLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/StrIntCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/StrIntFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/StrIntFourAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 408021893120
+      "Id": "Metadata/Monsters/Mirage/TemplarFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 382252089344
+      "Id": "Metadata/Monsters/Clone/TemplarFourCloneImmobile"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 433791696896
+      "Id": "Metadata/Monsters/Mirage/TemplarReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 682899800064
+      "Id": "Metadata/Monsters/Clone/TemplarLightningClone"
     },
-    "Unk045": 0.0,
-    "Unk046": 717.0,
-    "SkillTreeBackground": null,
+    "Unk045": 717.0,
+    "Unk046": 182.4,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/StrInt/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 330712481792
+      "Id": "Metadata/Monsters/Clone/TemplarClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -672,34 +678,37 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 180388626432
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 730144440320
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorTemplar"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 206158430208
+      "Id": "Metadata/Monsters/Double/DoubleTemplarTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "StrInt",
+    "AttrLowercase": "strint",
+    "Script": "strint_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2383706849280
+      "RowIndex": 555
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424016
+    "Unk057": 80,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 9288,
+    "Unk062": 5,
+    "Unk063": {
+      "TableName": null,
+      "RowIndex": 2141
     },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 9288
-    },
-    "Unk060": 0,
-    "Unk061": 0.0
+    "Unk064": 0,
+    "Unk065": 9306,
+    "Unk066": 98.0,
+    "Unk067": 9306
   },
   {
     "Id": "Metadata/Characters/Str/StrFourb",
@@ -728,60 +737,60 @@
       "TableName": "SkillGems",
       "RowIndex": 461
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 42485816492032
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/Str42D/Mar_01.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/FourOneHandMace1"
+      }
+    ],
+    "Gender": "M",
+    "TraitDescription": "特性：アタック時に相手をノックバック",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/WarriorBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 42657615183872
+      "RowIndex": 609
     },
-    "Unk030": 0,
-    "Unk031": [],
-    "PassiveTreeImage": "뮻뮻뮻뮻Metadata/Characters/Str/StrFour",
+    "Unk031": {
+      "TableName": null,
+      "RowIndex": 372
+    },
     "Unk033": 1,
-    "Unk034": 9932,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/WarriorBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "StrFourb",
+    "LoginScreen": "Metadata/Characters/Str/StrFourBLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/StrCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/StrFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/StrFourBAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 390842023936
+      "Id": "Metadata/Monsters/Mirage/MarauderFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 6635724472320
+      "Id": "Metadata/Monsters/Clone/WarriorFourCloneImmobile"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 416611827712
+      "Id": "Metadata/Monsters/Mirage/MarauderReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 652835028992
+      "Id": "Metadata/Monsters/Clone/WarriorLightningClone"
     },
-    "Unk045": 0.0,
-    "Unk046": 350.0,
-    "SkillTreeBackground": null,
+    "Unk045": 350.0,
+    "Unk046": -574.0,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/Str/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 313532612608
+      "Id": "Metadata/Monsters/Clone/MarauderClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -789,34 +798,37 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 163208757248
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 712964571136
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorMarauder"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 188978561024
+      "Id": "Metadata/Monsters/Double/DoubleMarauderTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "Str",
+    "AttrLowercase": "str",
+    "Script": "str_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2216203124736
+      "RowIndex": 516
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424036
+    "Unk057": 100,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 1364,
+    "Unk062": 1,
+    "Unk063": {
+      "TableName": null,
+      "RowIndex": 2117
     },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "Id": "Metadata/Monsters/PerennialKingStage2/PerennialKingCorpseFriend13"
-    },
-    "Unk060": 0,
-    "Unk061": 0.0
+    "Unk064": 3,
+    "Unk065": 10318,
+    "Unk066": 103.0,
+    "Unk067": 10366
   },
   {
     "Id": "Metadata/Characters/Int/IntFourb",
@@ -845,60 +857,57 @@
       "TableName": "SkillGems",
       "RowIndex": 378
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 47313359732736
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/Int42D/Witch_001.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff1"
+      }
+    ],
+    "Gender": "F",
+    "TraitDescription": "特性：元素に対する天賦の回復力",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/SorceressBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 47459388620800
+      "RowIndex": 611
     },
-    "Unk030": 0,
     "Unk031": null,
-    "PassiveTreeImage": null,
     "Unk033": 1,
-    "Unk034": 11050,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/SorceressBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "IntFourb",
+    "LoginScreen": "Metadata/Characters/Int/IntFourBLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/IntCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/IntFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/IntFourBAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 399431958528
+      "Id": "Metadata/Monsters/Mirage/WitchFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 6644314406912
+      "Id": "Metadata/Monsters/Clone/SorceressFourCloneImmobile_"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 425201762304
+      "Id": "Metadata/Monsters/Mirage/WitchReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 670014898176
+      "Id": "Metadata/Monsters/Clone/SorceressLightningClone"
     },
     "Unk045": 0.0,
     "Unk046": 0.0,
-    "SkillTreeBackground": null,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/Int/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 322122547200
+      "Id": "Metadata/Monsters/Clone/WitchClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -906,34 +915,34 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 171798691840
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 721554505728
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorWitch"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 197568495616
+      "Id": "Metadata/Monsters/Double/DoubleWitchTwo_"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "Int",
+    "AttrLowercase": "int",
+    "Script": "int_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2375116914688
+      "RowIndex": 553
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424016
-    },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 2750
-    },
-    "Unk060": -16843010,
-    "Unk061": -1.6947395E+38
+    "Unk057": 80,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 2750,
+    "Unk062": 3,
+    "Unk063": null,
+    "Unk064": 3,
+    "Unk065": 11440,
+    "Unk066": 92.5,
+    "Unk067": 11488
   },
   {
     "Id": "Metadata/Characters/Dex/DexFourb",
@@ -962,60 +971,57 @@
       "TableName": "SkillGems",
       "RowIndex": 453
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 51616916963328
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/Dex42D/Ranger_01.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/OneHandWeapons/OneHandSpears/FourSpear1"
+      }
+    ],
+    "Gender": "F",
+    "TraitDescription": "特性：受けるアタックをブロックする訓練済",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/HuntressBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 51805895524352
+      "RowIndex": 610
     },
-    "Unk030": 0,
     "Unk031": null,
-    "PassiveTreeImage": null,
     "Unk033": 1,
-    "Unk034": 12062,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/HuntressBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "DexFourb",
+    "LoginScreen": "Metadata/Characters/Dex/DexFourBLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/DexCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/DexFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/DexFourBAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 395136991232
+      "Id": "Metadata/Monsters/Mirage/RangerFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 6640019439616
+      "Id": "Metadata/Monsters/Clone/HuntressFourCloneImmobile"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 420906795008
+      "Id": "Metadata/Monsters/Mirage/RangerReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 661424963584
+      "Id": "Metadata/Monsters/Clone/HuntressLightningClone"
     },
-    "Unk045": 0.0,
-    "Unk046": -536.0,
-    "SkillTreeBackground": null,
+    "Unk045": -536.0,
+    "Unk046": -281.92,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/Dex/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 317827579904
+      "Id": "Metadata/Monsters/Clone/RangerClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -1023,34 +1029,37 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 167503724544
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 717259538432
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorRanger"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 193273528320
+      "Id": "Metadata/Monsters/Double/DoubleRangerTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "Dex",
+    "AttrLowercase": "dex",
+    "Script": "dex_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2370821947392
+      "RowIndex": 552
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424016
+    "Unk057": 80,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 4226,
+    "Unk062": 2,
+    "Unk063": {
+      "TableName": null,
+      "RowIndex": 2152
     },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4226
-    },
-    "Unk060": 0,
-    "Unk061": 0.0
+    "Unk064": 0,
+    "Unk065": 12450,
+    "Unk066": 90.0,
+    "Unk067": 12450
   },
   {
     "Id": "Metadata/Characters/StrDex/StrDexFourb",
@@ -1079,60 +1088,60 @@
       "TableName": "SkillGems",
       "RowIndex": 3041
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 55808805044224
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_01.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/TwoHandWeapons/Crossbows/FourCrossbow1"
+      }
+    ],
+    "Gender": "M",
+    "TraitDescription": "特性：トーテムが長く持続",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/MercenaryBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 55929064128512
+      "RowIndex": 612
     },
-    "Unk030": 0,
-    "Unk031": [],
-    "PassiveTreeImage": "뮻뮻뮻뮻Metadata/Characters/Str/StrFour",
+    "Unk031": {
+      "TableName": null,
+      "RowIndex": 372
+    },
     "Unk033": 1,
-    "Unk034": 13022,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/MercenaryBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "StrDexFourb",
+    "LoginScreen": "Metadata/Characters/StrDex/StrDexFourBLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/StrDexCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/StrDexFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/StrDexFourBAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 403726925824
+      "Id": "Metadata/Monsters/Mirage/DuelistFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 6648609374208
+      "Id": "Metadata/Monsters/Clone/MercenaryFourCloneImmobile"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 429496729600
+      "Id": "Metadata/Monsters/Mirage/DuelistReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 678604832768
+      "Id": "Metadata/Monsters/Clone/MercenaryLightningClone"
     },
     "Unk045": 0.0,
-    "Unk046": 0.0,
-    "SkillTreeBackground": null,
+    "Unk046": -699.2,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/StrDex/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 326417514496
+      "Id": "Metadata/Monsters/Clone/DuelistClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -1140,34 +1149,34 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 176093659136
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 725849473024
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorDuelist"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 201863462912
+      "Id": "Metadata/Monsters/Double/DoubleDuelistTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "StrDex",
+    "AttrLowercase": "strdex",
+    "Script": "strdex_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2379411881984
+      "RowIndex": 554
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424026
-    },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 5924
-    },
-    "Unk060": -16843010,
-    "Unk061": -1.6947395E+38
+    "Unk057": 90,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 5924,
+    "Unk062": 4,
+    "Unk063": null,
+    "Unk064": 3,
+    "Unk065": 13436,
+    "Unk066": 100.0,
+    "Unk067": 13484
   },
   {
     "Id": "Metadata/Characters/DexInt/DexIntFourb",
@@ -1196,60 +1205,57 @@
       "TableName": "SkillGems",
       "RowIndex": 399
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 60258391162880
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_02.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourQuarterstaff1"
+      }
+    ],
+    "Gender": "M",
+    "TraitDescription": "特性：受けるアタックを回避する訓練済",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/MonkBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 60430189854720
+      "RowIndex": 613
     },
-    "Unk030": 0,
     "Unk031": null,
-    "PassiveTreeImage": null,
     "Unk033": 1,
-    "Unk034": 14070,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/MonkBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "DexIntFourb",
+    "LoginScreen": "Metadata/Characters/DexInt/DexIntFourBLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/DexIntCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/DexIntFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/DexIntFourBAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 412316860416
+      "Id": "Metadata/Monsters/Mirage/ShadowFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 6657199308800
+      "Id": "Metadata/Monsters/Clone/MonkFourCloneImmobile_"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 438086664192
+      "Id": "Metadata/Monsters/Mirage/ShadowReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 695784701952
+      "Id": "Metadata/Monsters/Clone/MonkLightningClone__"
     },
     "Unk045": 0.0,
-    "Unk046": 0.0,
-    "SkillTreeBackground": null,
+    "Unk046": -291.4,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/DexInt/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 335007449088
+      "Id": "Metadata/Monsters/Clone/ShadowClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -1257,34 +1263,34 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 184683593728
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 734439407616
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorShadow"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 210453397504
+      "Id": "Metadata/Monsters/Double/DoubleShadowTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "DexInt",
+    "AttrLowercase": "dexint",
+    "Script": "dexint_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2388001816576
+      "RowIndex": 556
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424016
-    },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 7640
-    },
-    "Unk060": -16843010,
-    "Unk061": -1.6947395E+38
+    "Unk057": 80,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 7640,
+    "Unk062": 6,
+    "Unk063": null,
+    "Unk064": 3,
+    "Unk065": 14474,
+    "Unk066": 96.0,
+    "Unk067": 14522
   },
   {
     "Id": "Metadata/Characters/StrInt/StrIntFourb",
@@ -1313,60 +1319,60 @@
       "TableName": "SkillGems",
       "RowIndex": 2735
     },
-    "Unk018": {
-      "TableName": null,
-      "RowIndex": 0
-    },
     "Unk019": 5,
-    "Unk020": 0,
-    "CharacterSize": 0,
-    "IntroSoundFile": null,
-    "StartWeapons": [],
-    "Gender": null,
-    "TraitDescription": null,
-    "Unk026": {
-      "TableName": null,
-      "RowIndex": 63986422775808
-    },
+    "Unk20": 1,
+    "Unk21": 2,
+    "IntroSoundFile": "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_01.ogg",
+    "StartWeapons": [
+      {
+        "TableName": "BaseItemTypes",
+        "Id": "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff1"
+      }
+    ],
+    "Gender": "M",
+    "TraitDescription": "特性：雷に対する天賦の回復力",
     "Unk027": null,
     "Unk028": null,
-    "Unk029": {
+    "Unk029": 0,
+    "PassiveTreeImage": "Art/2DArt/BaseClassIllustrations/DruidBaseIllustration.dds",
+    "Unk030": {
       "TableName": null,
-      "RowIndex": 64123861729280
+      "RowIndex": 614
     },
-    "Unk030": 0,
-    "Unk031": [],
-    "PassiveTreeImage": "뮻뮻뮻뮻Metadata/Characters/Str/StrFour",
+    "Unk031": {
+      "TableName": null,
+      "RowIndex": 372
+    },
     "Unk033": 1,
-    "Unk034": 14930,
-    "TencentVideo": null,
-    "AttrsAsId": null,
-    "LoginScreen": null,
-    "PlayerCritter": null,
-    "PlayerEffect": null,
-    "AfterImage": null,
+    "PassiveTreeImageAgain": "Art/2DArt/BaseClassIllustrations/DruidBaseIllustration.dds",
+    "TencentVideo": "",
+    "AttrsAsId": "StrIntFourb",
+    "LoginScreen": "Metadata/Characters/StrInt/StrIntFourBLoginScene.ao",
+    "PlayerCritter": "Metadata/Critters/PlayerCritters/StrIntCritter",
+    "PlayerEffect": "Metadata/Effects/PlayerEffects/StrIntFourEffect",
+    "AfterImage": "Metadata/Effects/Spells/maneuver_mechanics/AfterImage/StrIntFourBAfterImage",
     "Mirage": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 408021893120
+      "Id": "Metadata/Monsters/Mirage/TemplarFourMirage"
     },
     "CloneImmobile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 6652904341504
+      "Id": "Metadata/Monsters/Clone/DruidFourCloneImmobile"
     },
     "ReplicateClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 433791696896
+      "Id": "Metadata/Monsters/Mirage/TemplarReplicateClone"
     },
     "LightningClone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 687194767360
+      "Id": "Metadata/Monsters/Clone/DruidLightningClone"
     },
-    "Unk045": 0.0,
-    "Unk046": 717.0,
-    "SkillTreeBackground": null,
+    "Unk045": 717.0,
+    "Unk046": 182.4,
+    "SkillTreeBackground": "Art/2DArt/UIImages/InGame/Classes/StrInt/PassiveSkillScreenStartNodeBackground",
     "Clone": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 330712481792
+      "Id": "Metadata/Monsters/Clone/TemplarClone"
     },
     "Double": {
       "TableName": "MonsterVarieties",
@@ -1374,33 +1380,33 @@
     },
     "MirageWarrior": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 180388626432
+      "Id": "Any"
     },
     "DoubleTwo": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 730144440320
+      "Id": "Metadata/Monsters/MirageWarrior/MirageWarriorTemplar"
     },
     "DarkExile": {
       "TableName": "MonsterVarieties",
-      "RowIndex": 206158430208
+      "Id": "Metadata/Monsters/Double/DoubleTemplarTwo"
     },
-    "Attr": null,
-    "AttrLowercase": null,
-    "Script": null,
+    "Attr": "StrInt",
+    "AttrLowercase": "strint",
+    "Script": "strint_back",
     "Unk056": {
       "TableName": null,
-      "RowIndex": 2383706849280
+      "RowIndex": 555
     },
-    "Unk057": 0,
-    "Unk058": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 4575657221408424016
-    },
-    "Unk059": {
-      "TableName": "MonsterVarieties",
-      "RowIndex": 9288
-    },
-    "Unk060": -16843010,
-    "Unk061": -1.6947395E+38
+    "Unk057": 80,
+    "Unk058": 1.0,
+    "Unk059": 190.0,
+    "Unk060": 1.0,
+    "Unk061": 9288,
+    "Unk062": 5,
+    "Unk063": null,
+    "Unk064": 0,
+    "Unk065": 15336,
+    "Unk066": 98.0,
+    "Unk067": 15336
   }
 ]
