@@ -439,7 +439,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Number of Explosives is one\\n150% increased Explosive Radius in your Maps\\nExpedition Monsters in your Maps spawn with an additional 20% of Life missing\\n100% increased Explosive Placement Range in your Maps",
+          "Description": "Number of Explosives is one\n150% increased Explosive Radius in your Maps\nExpedition Monsters in your Maps spawn with an additional 20% of Life missing\n100% increased Explosive Placement Range in your Maps",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -492,7 +492,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Rusted Scarabs instead grant 5% increased Pack Size\\nPolished Scarabs instead grant 7% increased Pack Size\\nGilded Scarabs instead grant 10% increased Pack Size\\nWinged Scarabs instead grant 15% increased Pack Size",
+          "Description": "Rusted Scarabs instead grant 5% increased Pack Size\nPolished Scarabs instead grant 7% increased Pack Size\nGilded Scarabs instead grant 10% increased Pack Size\nWinged Scarabs instead grant 15% increased Pack Size",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -506,7 +506,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Rusted Scarabs instead grant 3% increased Pack Size\\nPolished Scarabs instead grant 5% increased Pack Size\\nGilded Scarabs instead grant 7% increased Pack Size",
+          "Description": "Rusted Scarabs instead grant 3% increased Pack Size\nPolished Scarabs instead grant 5% increased Pack Size\nGilded Scarabs instead grant 7% increased Pack Size",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -520,7 +520,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "The Cortex is level 85\\nVenarius' full power is unleashed in the Cortex",
+          "Description": "The Cortex is level 85\nVenarius' full power is unleashed in the Cortex",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -548,7 +548,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "The Absence of Symmetry and Harmony is level 85\\nThe Eater of Worlds' full power is unleashed in The Absence of Symmetry and Harmony",
+          "Description": "The Absence of Symmetry and Harmony is level 85\nThe Eater of Worlds' full power is unleashed in The Absence of Symmetry and Harmony",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -562,7 +562,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "The Absence of Mercy and Empathy is level 85\\nThe Maven's full power is unleashed in The Absence of Mercy and Empathy",
+          "Description": "The Absence of Mercy and Empathy is level 85\nThe Maven's full power is unleashed in The Absence of Mercy and Empathy",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -590,7 +590,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "The Absence of Patience and Wisdom is level 85\\nThe Searing Exarch's full power is unleashed in The Absence of Patience and Wisdom",
+          "Description": "The Absence of Patience and Wisdom is level 85\nThe Searing Exarch's full power is unleashed in The Absence of Patience and Wisdom",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -604,7 +604,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "The Shaper's Realm is level 85\\nThe Shaper's and The Elder's full power are unleashed in The Shaper's Realm",
+          "Description": "The Shaper's Realm is level 85\nThe Shaper's and The Elder's full power are unleashed in The Shaper's Realm",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -618,7 +618,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "The Eye of the Storm is level 85\\nSirus' full power is unleashed in The Eye of the Storm",
+          "Description": "The Eye of the Storm is level 85\nSirus' full power is unleashed in The Eye of the Storm",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -2617,13 +2617,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Immortal Syndicate Members in your Maps are {0}% more\\nlikely to offer to Bargain for Items",
+          "Description": "Immortal Syndicate Members in your Maps are {0}% more\nlikely to offer to Bargain for Items",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Immortal Syndicate Members in your Maps are {0}% less\\nlikely to offer to Bargain for Items",
+          "Description": "Immortal Syndicate Members in your Maps are {0}% less\nlikely to offer to Bargain for Items",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -2637,7 +2637,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Immortal Syndicate Members in your Maps drop 200% more\\nItems when Bargained with for Items",
+          "Description": "Immortal Syndicate Members in your Maps drop 200% more\nItems when Bargained with for Items",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -2665,7 +2665,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Defeated Immortal Syndicate Members in your Maps grant {0} [Intelligence] for\\nthe current Encounter's Safehouse if not Interrogated or Released",
+          "Description": "Defeated Immortal Syndicate Members in your Maps grant {0} [Intelligence] for\nthe current Encounter's Safehouse if not Interrogated or Released",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -6442,12 +6442,143 @@
     {
       "Path": "metadata/statdescriptions/atlas_stat_descriptions",
       "Ids": [
+        "map_fishy_effect_0",
+        "map_fishy_effect_1",
+        "map_fishy_effect_2",
+        "map_fishy_effect_3"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# 1|20 0|99 1|#",
+          "Description": "Your Maps are Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 1|20 100|# 1|#",
+          "Description": "Your Maps are always Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 1|20 0|99 #|-1",
+          "Description": "Your Maps are Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 1|20 100|# #|-1",
+          "Description": "Your Maps are always Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 21|40 0|99 1|#",
+          "Description": "Your Maps are very Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 21|40 100|# 1|#",
+          "Description": "Your Maps are always very Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 21|40 0|99 #|-1",
+          "Description": "Your Maps are very Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 21|40 100|# #|-1",
+          "Description": "Your Maps are always very Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 41|60 0|99 1|#",
+          "Description": "Your Maps are extremely Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 41|60 100|# 1|#",
+          "Description": "Your Maps are always extremely Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 41|60 0|99 #|-1",
+          "Description": "Your Maps are extremely Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 41|60 100|# #|-1",
+          "Description": "Your Maps are always extremely Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 61|80 0|99 1|#",
+          "Description": "Your Maps are incredibly Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 61|80 100|# 1|#",
+          "Description": "Your Maps are always incredibly Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 61|80 0|99 #|-1",
+          "Description": "Your Maps are incredibly Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 61|80 100|# #|-1",
+          "Description": "Your Maps are always incredibly Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 81|100 0|99 1|#",
+          "Description": "Your Maps are alluringly Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 81|100 100|# 1|#",
+          "Description": "Your Maps are always alluringly Alluring",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 81|100 0|99 #|-1",
+          "Description": "Your Maps are alluringly Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 81|100 100|# #|-1",
+          "Description": "Your Maps are always alluringly Repulsive",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/atlas_stat_descriptions",
+      "Ids": [
         "map_double_conqueror_progress_chance_%"
       ],
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "{0}% chance on completing a Map influenced by a Conqueror of the Atlas\\nto gain double progress towards locating their Citadel",
+          "Description": "{0}% chance on completing a Map influenced by a Conqueror of the Atlas\nto gain double progress towards locating their Citadel",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -8928,7 +9059,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Killing non-resident Architects in your Maps has {}% chance to add\\nan additional Upgrade Tier to the surviving Architect's Room",
+          "Description": "Killing non-resident Architects in your Maps has {}% chance to add\nan additional Upgrade Tier to the surviving Architect's Room",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -9727,7 +9858,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Legion Monsters in your Maps have {0}% chance to drop an additional Timeless Splinter\\nLegion Chests in your Maps have {0}% chance to contain an additional Timeless Splinter",
+          "Description": "Legion Monsters in your Maps have {0}% chance to drop an additional Timeless Splinter\nLegion Chests in your Maps have {0}% chance to contain an additional Timeless Splinter",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -10062,13 +10193,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Alva\\nMaster Missions from completing your Maps have {0}% increased chance to be Alva",
+          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Alva\nMaster Missions from completing your Maps have {0}% increased chance to be Alva",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Alva\\nMaster Missions from completing your Maps have {0}% reduced chance to be Alva",
+          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Alva\nMaster Missions from completing your Maps have {0}% reduced chance to be Alva",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -10087,13 +10218,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Einhar\\nMaster Missions from completing your Maps have {0}% increased chance to be Einhar",
+          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Einhar\nMaster Missions from completing your Maps have {0}% increased chance to be Einhar",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Einhar\\nMaster Missions from completing your Maps have {0}% reduced chance to be Einhar",
+          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Einhar\nMaster Missions from completing your Maps have {0}% reduced chance to be Einhar",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -10112,13 +10243,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Jun\\nMaster Missions from completing your Maps have {0}% increased chance to be Jun",
+          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Jun\nMaster Missions from completing your Maps have {0}% increased chance to be Jun",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Jun\\nMaster Missions from completing your Maps have {0}% reduced chance to be Jun",
+          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Jun\nMaster Missions from completing your Maps have {0}% reduced chance to be Jun",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -10137,13 +10268,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Niko\\nMaster Missions from completing your Maps have {0}% increased chance to be Niko",
+          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Niko\nMaster Missions from completing your Maps have {0}% increased chance to be Niko",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Niko\\nMaster Missions from completing your Maps have {0}% reduced chance to be Niko",
+          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Niko\nMaster Missions from completing your Maps have {0}% reduced chance to be Niko",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -10176,13 +10307,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Zana\\nMaster Missions from completing your Maps have {0}% increased chance to be Zana",
+          "Description": "Randomly encountered Masters in your Maps have {0}% increased chance to be Zana\nMaster Missions from completing your Maps have {0}% increased chance to be Zana",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Zana\\nMaster Missions from completing your Maps have {0}% increased chance to be Zana",
+          "Description": "Randomly encountered Masters in your Maps have {0}% reduced chance to be Zana\nMaster Missions from completing your Maps have {0}% increased chance to be Zana",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -12203,7 +12334,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "Revived monsters from [ContainsRitual|Rituals] in your Maps have {0}% increased [Toughness]\\nand {1}% increased Damage for each time they have been Revived",
+          "Description": "Revived monsters from [ContainsRitual|Rituals] in your Maps have {0}% increased [Toughness]\nand {1}% increased Damage for each time they have been Revived",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -12627,19 +12758,19 @@
         },
         {
           "Operator": "1|99  1|99",
-          "Description": "Rogue Exiles in your Maps have {0}% chance to be Possessed by a Tormented Spirit\\nRogue Exiles in your Maps have {1}% chance to have Soul Eater",
+          "Description": "Rogue Exiles in your Maps have {0}% chance to be Possessed by a Tormented Spirit\nRogue Exiles in your Maps have {1}% chance to have Soul Eater",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "100|# 1|99",
-          "Description": "Rogue Exiles in your Maps are Possessed by a Tormented Spirit\\nRogue Exiles in your Maps have {1}% chance to have Soul Eater",
+          "Description": "Rogue Exiles in your Maps are Possessed by a Tormented Spirit\nRogue Exiles in your Maps have {1}% chance to have Soul Eater",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "1|99  100|#",
-          "Description": "Rogue Exiles in your Maps have {0}% chance to be Possessed by a Tormented Spirit\\nRogue Exiles in your Maps have Soul Eater",
+          "Description": "Rogue Exiles in your Maps have {0}% chance to be Possessed by a Tormented Spirit\nRogue Exiles in your Maps have Soul Eater",
           "IsCanonical": false,
           "Parameters": []
         },
@@ -12883,7 +13014,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Shaper and Elder Guardians are healed and joined by an ally on first reaching 33% Life\\nAllies have a chance to drop their Fragments",
+          "Description": "Shaper and Elder Guardians are healed and joined by an ally on first reaching 33% Life\nAllies have a chance to drop their Fragments",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -13961,7 +14092,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "The Shaper and The Elder in The Shaper's Realm have {0}% increased\\nchance to drop an Orb of Dominance",
+          "Description": "The Shaper and The Elder in The Shaper's Realm have {0}% increased\nchance to drop an Orb of Dominance",
           "IsCanonical": false,
           "Parameters": []
         }

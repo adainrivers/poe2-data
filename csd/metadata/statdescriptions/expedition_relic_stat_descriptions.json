@@ -519,6 +519,40 @@
     {
       "Path": "metadata/statdescriptions/expedition_relic_stat_descriptions",
       "Ids": [
+        "bleed_on_hit_with_attacks_%",
+        "attacks_inflict_bleeding_on_hit",
+        "cannot_cause_bleeding"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # !0",
+          "Description": "Monsters cannot inflict [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# !0 0",
+          "Description": "Monsters' [Attack|Attack] Hits inflict [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# 0 0",
+          "Description": "Monsters' [Attack|Attack] Hits inflict Bleeding",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0 0",
+          "Description": "Monsters' [Attack|Attack] Hits have {0}% chance to inflict [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/expedition_relic_stat_descriptions",
+      "Ids": [
         "base_cannot_have_life_leeched_from"
       ],
       "Descriptions": [

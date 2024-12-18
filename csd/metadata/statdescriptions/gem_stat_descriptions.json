@@ -828,7 +828,7 @@
       "Descriptions": [
         {
           "Operator": "10",
-          "Description": "[Ignite|Ignites] inflicted by Supported Skills [AilmentSpread|Spread] to other\\nenemies that stay within {0} metre for 2 seconds",
+          "Description": "[Ignite|Ignites] inflicted by Supported Skills [AilmentSpread|Spread] to other\nenemies that stay within {0} metre for 2 seconds",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -839,7 +839,7 @@
         },
         {
           "Operator": "1|#",
-          "Description": "[Ignite|Ignites] inflicted by Supported Skills [AilmentSpread|Spread] to other\\nenemies that stay within {0} metres for 2 seconds",
+          "Description": "[Ignite|Ignites] inflicted by Supported Skills [AilmentSpread|Spread] to other\nenemies that stay within {0} metres for 2 seconds",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -1679,13 +1679,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "[Projectile|Projectiles] from Supported Skills deal\\n{0}% more Damage after [Fork|Forking]",
+          "Description": "[Projectile|Projectiles] from Supported Skills deal\n{0}% more Damage after [Fork|Forking]",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "[Projectile|Projectiles] from Supported Skills deal\\n{0}% less Damage after [Fork|Forking]",
+          "Description": "[Projectile|Projectiles] from Supported Skills deal\n{0}% less Damage after [Fork|Forking]",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -2657,7 +2657,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "{0}% chance to Trigger Supported Spells when you are Stunned, or\\nBlock a Stunning Hit",
+          "Description": "{0}% chance to Trigger Supported Spells when you are Stunned, or\nBlock a Stunning Hit",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -2678,6 +2678,28 @@
         {
           "Operator": "100|#",
           "Description": "Trigger Supported Spells when you fire Projectiles from a Non-Triggered Wand [Attack]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
+        "cast_on_damage_taken_%",
+        "virtual_cast_when_damage_taken_threshold",
+        "cast_on_damage_taken_threshold"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|99 # 1|#",
+          "Description": "{0}% chance to Trigger Supported Spells when you take a total of {2} Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# # 1|#",
+          "Description": "Trigger Supported Spells when you take a total of {2} Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -3492,13 +3514,13 @@
       "Descriptions": [
         {
           "Operator": "1|99",
-          "Description": "{0}% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions\\nfrom Supported Skills, deal a Killing Blow",
+          "Description": "{0}% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions\nfrom Supported Skills, deal a Killing Blow",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "100|#",
-          "Description": "Summon a Phantasm when Supported Skills, or Non-Phantasm Minions\\nfrom Supported Skills, deal a Killing Blow",
+          "Description": "Summon a Phantasm when Supported Skills, or Non-Phantasm Minions\nfrom Supported Skills, deal a Killing Blow",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -3587,13 +3609,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported Skills have {0}% increased [Critical|Critical Hit] Chance per\\nPower Charge when used by Mines",
+          "Description": "Supported Skills have {0}% increased [Critical|Critical Hit] Chance per\nPower Charge when used by Mines",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Supported Skills have {0}% reduced [Critical|Critical Hit] Chance per\\nPower Charge when used by Mines",
+          "Description": "Supported Skills have {0}% reduced [Critical|Critical Hit] Chance per\nPower Charge when used by Mines",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -3786,7 +3808,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Hits with Supported Skills for which the highest Damage Type is Elemental cause you to gain 25 Resonance of other Elements per second for 2 seconds\\nLose 5 Resonance per second of each Element you are not gaining",
+          "Description": "Hits with Supported Skills for which the highest Damage Type is Elemental cause you to gain 25 Resonance of other Elements per second for 2 seconds\nLose 5 Resonance per second of each Element you are not gaining",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -3906,7 +3928,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Supported Skills can gain [Combo]\\nSupported Skills lose all [Combo] on use",
+          "Description": "Supported Skills can gain [Combo]\nSupported Skills lose all [Combo] on use",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -4210,25 +4232,25 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\\nSupported Skills fire an additional Projectile per Intensity",
+          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\nSupported Skills fire an additional Projectile per Intensity",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "2|#",
-          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\\nSupported Skills fire {0} additional Projectiles per Intensity",
+          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\nSupported Skills fire {0} additional Projectiles per Intensity",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "-1",
-          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\\nSupported Skills fire 1 fewer Projectile per Intensity",
+          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\nSupported Skills fire 1 fewer Projectile per Intensity",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\\nSupported Skills fire {0} fewer Projectiles per Intensity",
+          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\nSupported Skills fire {0} fewer Projectiles per Intensity",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -4414,7 +4436,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "[Poison|Poison] applied by supported Skills also\\n[ArmourBreak|Breaks] [Armour|Armour] equal to {0}% of [Poison|Poison] Damage dealt",
+          "Description": "[Poison|Poison] applied by supported Skills also\n[ArmourBreak|Breaks] [Armour|Armour] equal to {0}% of [Poison|Poison] Damage dealt",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -4957,7 +4979,7 @@
       "Descriptions": [
         {
           "Operator": "1000",
-          "Description": "Supported Skills lose [Combo] if you\\ngenerate no [Combo] for {0} second",
+          "Description": "Supported Skills lose [Combo] if you\ngenerate no [Combo] for {0} second",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -4968,7 +4990,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Supported Skills lose [Combo] if you\\ngenerate no [Combo] for {0} seconds",
+          "Description": "Supported Skills lose [Combo] if you\ngenerate no [Combo] for {0} seconds",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -5056,13 +5078,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "[Curse] zones from Supported\\nSkills erupt after {0}% increased delay",
+          "Description": "[Curse] zones from Supported\nSkills erupt after {0}% increased delay",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "[Curse] zones from Supported\\nSkills erupt after {0}% reduced delay",
+          "Description": "[Curse] zones from Supported\nSkills erupt after {0}% reduced delay",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -5708,6 +5730,40 @@
     {
       "Path": "metadata/statdescriptions/gem_stat_descriptions",
       "Ids": [
+        "bleed_on_hit_with_attacks_%",
+        "attacks_inflict_bleeding_on_hit",
+        "cannot_cause_bleeding"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # !0",
+          "Description": "Supported [Attack|Attacks] cannot cause [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# !0 0",
+          "Description": "Supported [Attack|Attacks] cause [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# 0 0",
+          "Description": "Supported [Attack|Attacks] cause [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0 0",
+          "Description": "Supported [Attack|Attacks] have {0}% chance to cause [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
         "blood_magic_skill_life_cost_+%_final"
       ],
       "Descriptions": [
@@ -5738,7 +5794,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Supported [Attack|Attacks] deal Added Physical Damage with Weapons equal\\nto {0}% of Maximum Life while on [LowLife|Low Life]",
+          "Description": "Supported [Attack|Attacks] deal Added Physical Damage with Weapons equal\nto {0}% of Maximum Life while on [LowLife|Low Life]",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -5991,7 +6047,7 @@
       "Descriptions": [
         {
           "Operator": "1|99",
-          "Description": "Supported Skills have {0}% chance to\\ngrant an additional [Charges|Charge]",
+          "Description": "Supported Skills have {0}% chance to\ngrant an additional [Charges|Charge]",
           "IsCanonical": false,
           "Parameters": []
         },
@@ -6133,13 +6189,13 @@
       "Descriptions": [
         {
           "Operator": "1|99",
-          "Description": "{0}% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions\\nfrom Supported Skills, Hit a Rare or Unique Enemy",
+          "Description": "{0}% chance to Summon a Phantasm when Supported Skills, or Non-Phantasm Minions\nfrom Supported Skills, Hit a Rare or Unique Enemy",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "100|#",
-          "Description": "Summon a Phantasm when Supported Skills, or Non-Phantasm Minions\\nfrom Supported Skills, Hit a Rare or Unique Enemy",
+          "Description": "Summon a Phantasm when Supported Skills, or Non-Phantasm Minions\nfrom Supported Skills, Hit a Rare or Unique Enemy",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -6153,7 +6209,7 @@
       "Descriptions": [
         {
           "Operator": "1|99",
-          "Description": "Enemies [Ignite|Ignited] by Supported Skills have {0}% chance to\\nexplode on death",
+          "Description": "Enemies [Ignite|Ignited] by Supported Skills have {0}% chance to\nexplode on death",
           "IsCanonical": false,
           "Parameters": []
         },
@@ -6488,7 +6544,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Supported Skills reload automatically on\\n[HeavyStun|Heavy Stunning] an enemy",
+          "Description": "Supported Skills reload automatically on\n[HeavyStun|Heavy Stunning] an enemy",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -6561,7 +6617,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Supported Skills create [Curse|Cursed] Ground\\nEnemies on the [Curse|Cursed] Ground from a Supported Skill are [Curse|Cursed] while within it\\nMaximum 1 area of [Curse|Cursed] Ground",
+          "Description": "Supported Skills create [Curse|Cursed] Ground\nEnemies on the [Curse|Cursed] Ground from a Supported Skill are [Curse|Cursed] while within it\nMaximum 1 area of [Curse|Cursed] Ground",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -7684,7 +7740,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported Skills create a Vortex on [Shatter|Shattering] an enemy\\nVortex deals {0}% of [Overkill|Overkill] Damage per second\\nVortex [Chill|Chills] Enemies",
+          "Description": "Supported Skills create a Vortex on [Shatter|Shattering] an enemy\nVortex deals {0}% of [Overkill|Overkill] Damage per second\nVortex [Chill|Chills] Enemies",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -7750,7 +7806,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported Skills have Added Spell Damage equal to {0}% of Damage of Equipped Wand\\nIf two Wands are Equipped, each contributes half as much Added Damage",
+          "Description": "Supported Skills have Added Spell Damage equal to {0}% of Damage of Equipped Wand\nIf two Wands are Equipped, each contributes half as much Added Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -7847,13 +7903,13 @@
       "Descriptions": [
         {
           "Operator": "1|99",
-          "Description": "{0}% chance to gain an Inspiration Charge when you Spend Mana on\\nUpfront Costs or Effects of Supported Skills",
+          "Description": "{0}% chance to gain an Inspiration Charge when you Spend Mana on\nUpfront Costs or Effects of Supported Skills",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "100|#",
-          "Description": "Gain an Inspiration Charge when you Spend Mana on Upfront\\nCosts or Effects of Supported Skills",
+          "Description": "Gain an Inspiration Charge when you Spend Mana on Upfront\nCosts or Effects of Supported Skills",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -7867,7 +7923,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Supported Skills gain a Vaal Soul on Hit\\nYou can only generate a Soul every {0} seconds",
+          "Description": "Supported Skills gain a Vaal Soul on Hit\nYou can only generate a Soul every {0} seconds",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -8676,7 +8732,7 @@
       "Descriptions": [
         {
           "Operator": "# 1|#",
-          "Description": "Supported Skills have base Mana Cost equal to {0}% of Unreserved Maximum Mana, if that value is higher\\nSupported Skills gain Added Lightning Damage equal to {1}% of Mana Cost, if Mana Cost is not higher than the maximum you could spend",
+          "Description": "Supported Skills have base Mana Cost equal to {0}% of Unreserved Maximum Mana, if that value is higher\nSupported Skills gain Added Lightning Damage equal to {1}% of Mana Cost, if Mana Cost is not higher than the maximum you could spend",
           "IsCanonical": false,
           "Parameters": []
         },
@@ -9443,7 +9499,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Elusive from Supported Skills also grants {0:+d}% to [CriticalDamageBonus|Critical Damage Bonus] for\\nSkills Supported by Nightblade",
+          "Description": "Elusive from Supported Skills also grants {0:+d}% to [CriticalDamageBonus|Critical Damage Bonus] for\nSkills Supported by Nightblade",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -9982,7 +10038,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "{0}% chance to gain a Frenzy Charge when a Mine from Supported\\nSkills is Detonated targeting an Enemy",
+          "Description": "{0}% chance to gain a Frenzy Charge when a Mine from Supported\nSkills is Detonated targeting an Enemy",
           "IsCanonical": false,
           "Parameters": []
         },
@@ -10022,7 +10078,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "{0}% chance to gain a Power Charge when a Mine from Supported\\nSkills is Detonated targeting an Enemy",
+          "Description": "{0}% chance to gain a Power Charge when a Mine from Supported\nSkills is Detonated targeting an Enemy",
           "IsCanonical": false,
           "Parameters": []
         },
@@ -10455,7 +10511,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "[FinalStrike|Final Strike] of Supported Skills can\\nbe performed twice in succession",
+          "Description": "[FinalStrike|Final Strike] of Supported Skills can\nbe performed twice in succession",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -10583,7 +10639,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Supported Skills also count as Blessing Skills\\nYou can only have one Aura on you from your Blessing Skills",
+          "Description": "Supported Skills also count as Blessing Skills\nYou can only have one Aura on you from your Blessing Skills",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -10678,13 +10734,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported Skills will consume a [Charges|Frenzy Charge] on use if possible\\nSupported Skills have {0}% more [SkillSpeed|Skill Speed] when consuming [Charges|Frenzy Charges]",
+          "Description": "Supported Skills will consume a [Charges|Frenzy Charge] on use if possible\nSupported Skills have {0}% more [SkillSpeed|Skill Speed] when consuming [Charges|Frenzy Charges]",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Supported Skills will consume a [Charges|Frenzy Charge] on use if possible\\nSupported Skills have {0}% less [SkillSpeed|Skill Speed] when consuming [Charges|Frenzy Charges]",
+          "Description": "Supported Skills will consume a [Charges|Frenzy Charge] on use if possible\nSupported Skills have {0}% less [SkillSpeed|Skill Speed] when consuming [Charges|Frenzy Charges]",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -10703,13 +10759,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported Skills will consume a [Charges|Power Charge] on use if possible\\nSupported Skills have {0}% more chance to [Critical|Critically Hit] when consuming [Charges|Power Charges]",
+          "Description": "Supported Skills will consume a [Charges|Power Charge] on use if possible\nSupported Skills have {0}% more chance to [Critical|Critically Hit] when consuming [Charges|Power Charges]",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Supported Skills will consume a [Charges|Power Charge] on use if possible\\nSupported Skills have {0}% less chance to [Critical|Critically Hit] when consuming [Charges|Power Charges]",
+          "Description": "Supported Skills will consume a [Charges|Power Charge] on use if possible\nSupported Skills have {0}% less chance to [Critical|Critically Hit] when consuming [Charges|Power Charges]",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -10842,7 +10898,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Supported [Offering] Skills target an additional skeletal [Minion]\\nSupport Effects are only applied if an additional skeletal [Minion] is targeted",
+          "Description": "Supported [Offering] Skills target an additional skeletal [Minion]\nSupport Effects are only applied if an additional skeletal [Minion] is targeted",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -11076,6 +11132,27 @@
             {
               "Name": "negate",
               "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
+        "support_%_chance_to_shock_nearby_enemy_on_shock",
+        "shock_nearby_enemy_area_of_effect_radius",
+        "shock_nearby_enemy_base_area_of_effect_radius"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # #",
+          "Description": "[Shock|Shocking] [HitDamage|Hits] from supported Skills have a {0}% chance to also [Shock] enemies in a {2} metre radius",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp",
+              "Value": 3
             }
           ]
         }
@@ -11963,7 +12040,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported Skills deal {0}% more [Attack] Damage to \\nenemies within 1 metre of you, scaling down to\\nno bonus at 3.5 metres or further",
+          "Description": "Supported Skills deal {0}% more [Attack] Damage to \nenemies within 1 metre of you, scaling down to\nno bonus at 3.5 metres or further",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -12191,7 +12268,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "[CorruptedBlood|Corrupted Blood] deals {0}% of your [Strength] as\\n[Physical] Damage per second",
+          "Description": "[CorruptedBlood|Corrupted Blood] deals {0}% of your [Strength] as\n[Physical] Damage per second",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -12418,13 +12495,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported [Crossbow] Skills deal {0}% more Damage for\\neach bolt Reloaded by that skill in the past 6 seconds",
+          "Description": "Supported [Crossbow] Skills deal {0}% more Damage for\neach bolt Reloaded by that skill in the past 6 seconds",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Supported [Crossbow] Skills deal {0}% less Damage for\\neach bolt Reloaded by that skill in the past 6 seconds",
+          "Description": "Supported [Crossbow] Skills deal {0}% less Damage for\neach bolt Reloaded by that skill in the past 6 seconds",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -12792,13 +12869,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported Skills deal {0}% more [ElementalDamage|Elemental Damage] for each\\nSkill used [Recently] of a different Elemental type",
+          "Description": "Supported Skills deal {0}% more [ElementalDamage|Elemental Damage] for each\nSkill used [Recently] of a different Elemental type",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Supported Skills deal {0}% less [ElementalDamage|Elemental Damage] for each\\nSkill used [Recently] of a different Elemental type",
+          "Description": "Supported Skills deal {0}% less [ElementalDamage|Elemental Damage] for each\nSkill used [Recently] of a different Elemental type",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -12964,7 +13041,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Supported Skills deal {0}% more [Attack|Attack] Damage to \\nenemies further than 7 metres from you, scaling down to\\nno bonus at 3.5 metres or closer",
+          "Description": "Supported Skills deal {0}% more [Attack|Attack] Damage to \nenemies further than 7 metres from you, scaling down to\nno bonus at 3.5 metres or closer",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -13745,7 +13822,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "You gain {0} Invocation when you cast a Supported Spell\\nCasting a Spell that is not supported by Invocation will consume all Invocation to grant that Spell -0.01 seconds to base Cast Time per Invocation",
+          "Description": "You gain {0} Invocation when you cast a Supported Spell\nCasting a Spell that is not supported by Invocation will consume all Invocation to grant that Spell -0.01 seconds to base Cast Time per Invocation",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -13897,7 +13974,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Gain Lifetap after Spending a total of {0} Life on Upfront\\nCosts and Effects of a Supported Skill",
+          "Description": "Gain Lifetap after Spending a total of {0} Life on Upfront\nCosts and Effects of a Supported Skill",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -14722,13 +14799,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "{0}% more Movement Speed penalty while\\nusing Supported Skills",
+          "Description": "{0}% more Movement Speed penalty while\nusing Supported Skills",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "{0}% less Movement Speed penalty while\\nusing Supported Skills",
+          "Description": "{0}% less Movement Speed penalty while\nusing Supported Skills",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -15528,13 +15605,13 @@
       "Descriptions": [
         {
           "Operator": "# 1|#",
-          "Description": "Supported Skills consume {0} [Rage] if possible to\\ndeal {1}% more Damage",
+          "Description": "Supported Skills consume {0} [Rage] if possible to\ndeal {1}% more Damage",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "# #|-1",
-          "Description": "Supported Skills consume {0} [Rage] if possible to\\ndeal {1}% less Damage",
+          "Description": "Supported Skills consume {0} [Rage] if possible to\ndeal {1}% less Damage",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -15811,7 +15888,7 @@
       "Descriptions": [
         {
           "Operator": "10",
-          "Description": "Your Skills target [Minion|Minions] from Supported Skills within\\n{0} metre if possible",
+          "Description": "Your Skills target [Minion|Minions] from Supported Skills within\n{0} metre if possible",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -15822,7 +15899,7 @@
         },
         {
           "Operator": "1|#",
-          "Description": "Your Skills target [Minion|Minions] from Supported Skills within\\n{0} metres if possible",
+          "Description": "Your Skills target [Minion|Minions] from Supported Skills within\n{0} metres if possible",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -15867,9 +15944,30 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "Supported Skills have {0}% chance to grant Onslaught for 3 seconds when\\nyou Hit a Unique Enemy",
+          "Description": "Supported Skills have {0}% chance to grant Onslaught for 3 seconds when\nyou Hit a Unique Enemy",
           "IsCanonical": false,
           "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
+        "support_scion_onslaught_on_killing_blow_%_chance",
+        "support_scion_onslaught_on_killing_blow_duration_ms",
+        "virtual_support_scion_onslaught_on_killing_blow_duration_ms"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# !0 #",
+          "Description": "Supported Skills have {0}% chance to grant Onslaught for {1} seconds on\ndealing a Killing Blow",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds",
+              "Value": 2
+            }
+          ]
         }
       ]
     },
@@ -15881,7 +15979,7 @@
       "Descriptions": [
         {
           "Operator": "1000",
-          "Description": "Supported Skills grant Combat Rush on Hit\\nCombat Rush lasts {0} second or until you use a Travel Skill",
+          "Description": "Supported Skills grant Combat Rush on Hit\nCombat Rush lasts {0} second or until you use a Travel Skill",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -15892,7 +15990,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Supported Skills grant Combat Rush on Hit\\nCombat Rush lasts {0} seconds or until you use a Travel Skill",
+          "Description": "Supported Skills grant Combat Rush on Hit\nCombat Rush lasts {0} seconds or until you use a Travel Skill",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -16026,13 +16124,13 @@
       "Descriptions": [
         {
           "Operator": "1|# 1|#",
-          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\\nSupported Skills deal {0}% more Area Damage with Hits per Intensity\\nSupported Skills have {1}% more Area of Effect per Intensity",
+          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\nSupported Skills deal {0}% more Area Damage with Hits per Intensity\nSupported Skills have {1}% more Area of Effect per Intensity",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1 1|#",
-          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\\nSupported Skills deal {0}% less Area Damage with Hits per Intensity\\nSupported Skills have {1}% more Area of Effect per Intensity",
+          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\nSupported Skills deal {0}% less Area Damage with Hits per Intensity\nSupported Skills have {1}% more Area of Effect per Intensity",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -16043,7 +16141,7 @@
         },
         {
           "Operator": "1|# #|-1",
-          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\\nSupported Skills deal {0}% more Area Damage with Hits per Intensity\\nSupported Skills have {1}% less Area of Effect per Intensity",
+          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\nSupported Skills deal {0}% more Area Damage with Hits per Intensity\nSupported Skills have {1}% less Area of Effect per Intensity",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -16054,7 +16152,7 @@
         },
         {
           "Operator": "#|-1 #|-1",
-          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\\nSupported Skills deal {0}% less Area Damage with Hits per Intensity\\nSupported Skills have {1}% less Area of Effect per Intensity",
+          "Description": "Supported Spells gain Intensity when you Cast them, to a maximum of 3\nSupported Skills deal {0}% less Area Damage with Hits per Intensity\nSupported Skills have {1}% less Area of Effect per Intensity",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -17440,7 +17538,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Skills Triggered by Supported [Meta] Skills\\nhave {0}% chance to refund half of their [Energy] cost",
+          "Description": "Skills Triggered by Supported [Meta] Skills\nhave {0}% chance to refund half of their [Energy] cost",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -17489,7 +17587,7 @@
         },
         {
           "Operator": "# #",
-          "Description": "Supported Skills Trigger once total Mana Spent on other Bow\\nAttacks exceeds {1}% of their Mana Cost",
+          "Description": "Supported Skills Trigger once total Mana Spent on other Bow\nAttacks exceeds {1}% of their Mana Cost",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -17503,7 +17601,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Supported Skills are used by Mirage Warriors Summoned by General's Cry\\nSupported Skills count as Triggered",
+          "Description": "Supported Skills are used by Mirage Warriors Summoned by General's Cry\nSupported Skills count as Triggered",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -17543,6 +17641,23 @@
         {
           "Operator": "100 table_only",
           "Description": "Triggers Burning Inscription on expiry",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
+        "unleash_support_seal_gain_frequency_as_%_of_total_cast_time",
+        "virtual_support_anticipation_charge_gain_interval_ms",
+        "support_anticipation_rapid_fire_count",
+        "skill_max_unleash_seals"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|# # 1|# #",
+          "Description": "Supported Spells gain a Seal every {0}% of cast time, to a maximum of {2} Seals\nSupported Spells are Unsealed when cast, and their effects Reoccur for each Seal lost",
           "IsCanonical": false,
           "Parameters": []
         }

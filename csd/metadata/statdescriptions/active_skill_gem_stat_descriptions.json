@@ -686,7 +686,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Fires {0} Shard [Projectile|Projectiles] in a Spiral when [Projectile|Projectile] ends\\nModifiers to number of [Projectile|Projectiles] only apply\\nto the final Spiral",
+          "Description": "Fires {0} Shard [Projectile|Projectiles] in a Spiral when [Projectile|Projectile] ends\nModifiers to number of [Projectile|Projectiles] only apply\nto the final Spiral",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -796,7 +796,7 @@
         },
         {
           "Operator": "# #",
-          "Description": "Can use Items requiring up to Level {1}\\nAnimated Weapons are transformed into random Unique Weapons with Level Requirement between {0} and {1}",
+          "Description": "Can use Items requiring up to Level {1}\nAnimated Weapons are transformed into random Unique Weapons with Level Requirement between {0} and {1}",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -1220,7 +1220,7 @@
         },
         {
           "Operator": "1000 #",
-          "Description": "[AddedAttackCastTime|{0:+d} second] to [Total] [Attack] Time, plus up to\\n{1:+d} seconds based on distance travelled",
+          "Description": "[AddedAttackCastTime|{0:+d} second] to [Total] [Attack] Time, plus up to\n{1:+d} seconds based on distance travelled",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -1235,7 +1235,7 @@
         },
         {
           "Operator": "# #",
-          "Description": "[AddedAttackCastTime|{0:+d} seconds] to [Total] [Attack] Time, plus up to\\n{1:+d} seconds based on distance travelled",
+          "Description": "[AddedAttackCastTime|{0:+d} seconds] to [Total] [Attack] Time, plus up to\n{1:+d} seconds based on distance travelled",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -1382,7 +1382,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "[Totem|Totem] uses its own weapon, dealing\\n{0} to {1} base [Physical|Physical] damage",
+          "Description": "[Totem|Totem] uses its own weapon, dealing\n{0} to {1} base [Physical|Physical] damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -2849,7 +2849,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "[Debuff|Debuffed] enemies take {0} to {1} additional\\n[Physical] damage from next [Attack]",
+          "Description": "[Debuff|Debuffed] enemies take {0} to {1} additional\n[Physical] damage from next [Attack]",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -5064,7 +5064,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Modifiers to number of Projectiles instead apply to\\nthe number of targets Projectile Splits towards",
+          "Description": "Modifiers to number of Projectiles instead apply to\nthe number of targets Projectile Splits towards",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -5652,7 +5652,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "{0}% of Damage from Hits is taken from the Buff before your Life or Energy Shield\\nBuff can take {1} Damage",
+          "Description": "{0}% of Damage from Hits is taken from the Buff before your Life or Energy Shield\nBuff can take {1} Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -5701,7 +5701,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "Lose {0}% of Life per second\\n{1}% more Life loss each second",
+          "Description": "Lose {0}% of Life per second\n{1}% more Life loss each second",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -5914,7 +5914,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "[Fire] Area [Spell|Spells] summon a Spirit per {0} metres of radius\\n[Projectile|Projectiles] from [Fire] [Spell|Spells] summon a Spirit on hit",
+          "Description": "[Fire] Area [Spell|Spells] summon a Spirit per {0} metres of radius\n[Projectile|Projectiles] from [Fire] [Spell|Spells] summon a Spirit on hit",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -6012,13 +6012,13 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Bounces up to {0} time\\nModifiers to number of Projectiles instead apply to the number of Bounces",
+          "Description": "Bounces up to {0} time\nModifiers to number of Projectiles instead apply to the number of Bounces",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "2|#",
-          "Description": "Bounces up to {0} times\\nModifiers to number of Projectiles instead apply to the number of Bounces",
+          "Description": "Bounces up to {0} times\nModifiers to number of Projectiles instead apply to the number of Bounces",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -6085,6 +6085,23 @@
     {
       "Path": "metadata/statdescriptions/active_skill_gem_stat_descriptions",
       "Ids": [
+        "storm_blade_minimum_lightning_damage",
+        "storm_blade_maximum_lightning_damage",
+        "storm_blade_minimum_lightning_damage_from_es_%",
+        "storm_blade_maximum_lightning_damage_from_es_%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # # #",
+          "Description": "Energy Blades have minimum Lightning Damage equal to {2}% of [EnergyShield|Energy Shield], plus {0}\nEnergy Blades have maximum Lightning Damage equal to {3}% of [EnergyShield|Energy Shield], plus {1}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/active_skill_gem_stat_descriptions",
+      "Ids": [
         "storm_blade_damage_+%_final_with_two_hand_weapon"
       ],
       "Descriptions": [
@@ -6143,13 +6160,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "{0}% more Area of Effect per 0.1 metres of\\n[Knockback] the triggering Hit would have caused",
+          "Description": "{0}% more Area of Effect per 0.1 metres of\n[Knockback] the triggering Hit would have caused",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "{0}% less Area of Effect per 0.1 metres of\\n[Knockback] the triggering Hit would have caused",
+          "Description": "{0}% less Area of Effect per 0.1 metres of\n[Knockback] the triggering Hit would have caused",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -6157,6 +6174,22 @@
               "Value": 1
             }
           ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/active_skill_gem_stat_descriptions",
+      "Ids": [
+        "tempest_bell_stat_suppression",
+        "tempest_bell_damage_+%_final_per_elemental_ailment",
+        "tempest_bell_physical_damage_%_to_elemental_ailment"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "0 # #",
+          "Description": "Deals {1}% more Damage per [ElementalAilments|Elemental Ailment] afflicting\nthe Bell\n{2}% of [Physical] Damage converted to the corresponding damage type of each [ElementalAilments|Elemental Ailment] afflicting the Bell",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     },
@@ -6360,13 +6393,13 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Projectiles change direction {0} time\\nProjectiles can Hit targets each time they change direction",
+          "Description": "Projectiles change direction {0} time\nProjectiles can Hit targets each time they change direction",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#",
-          "Description": "Projectiles change direction {0} times\\nProjectiles can Hit targets each time they change direction",
+          "Description": "Projectiles change direction {0} times\nProjectiles can Hit targets each time they change direction",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -6380,7 +6413,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Modifiers which would cause Projectiles to Fork or\\nChain instead cause them to change direction additional times",
+          "Description": "Modifiers which would cause Projectiles to Fork or\nChain instead cause them to change direction additional times",
           "IsCanonical": false,
           "Parameters": []
         }

@@ -155,6 +155,88 @@
     {
       "Path": "metadata/statdescriptions/chest_stat_descriptions",
       "Ids": [
+        "number_of_packs_to_summon",
+        "number_of_monsters_to_summon",
+        "summoned_monster_rarity"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "0 1 1",
+          "Description": "Guarded by a Magic Monster",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0 2|# 1",
+          "Description": "Guarded by {1} Magic Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0 1 2",
+          "Description": "Guarded by a Rare Monster",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0 2|# 2",
+          "Description": "Guarded by {1} Rare Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0 1 #",
+          "Description": "Guarded by a Monster",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0 2|# #",
+          "Description": "Guarded by {1} Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 # 1",
+          "Description": "Guarded by a pack of Magic Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|# # 1",
+          "Description": "Guarded by {0} packs of Magic Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 # 2",
+          "Description": "Guarded by a pack of Rare Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|# # 2",
+          "Description": "Guarded by {0} packs of Rare Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 # #",
+          "Description": "Guarded by a pack of Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|# # #",
+          "Description": "Guarded by {0} packs of Monsters",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/chest_stat_descriptions",
+      "Ids": [
         "chest_gems_drop_with_experience"
       ],
       "Descriptions": [
@@ -1043,7 +1125,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Guarded by Dario, the Living Void\\nGuarded by waves of Void Constructs",
+          "Description": "Guarded by Dario, the Living Void\nGuarded by waves of Void Constructs",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -1057,7 +1139,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Guarded by Ixtolatl, Artisan of Sacrifice\\nGuarded by waves of Vaal Monsters",
+          "Description": "Guarded by Ixtolatl, Artisan of Sacrifice\nGuarded by waves of Vaal Monsters",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -1071,7 +1153,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Guarded by Mahuatzi, Artisan of Desire\\nGuarded by waves of Vaal Monsters",
+          "Description": "Guarded by Mahuatzi, Artisan of Desire\nGuarded by waves of Vaal Monsters",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -1085,7 +1167,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Guarded by a stream of Ghost Pirates\\nGuarded by the Maiden of the Black Crest",
+          "Description": "Guarded by a stream of Ghost Pirates\nGuarded by the Maiden of the Black Crest",
           "IsCanonical": false,
           "Parameters": []
         }

@@ -100,7 +100,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Reflects Physical Damage around each Enemy equal to the Damage of removed Impales multiplied by the number of Hits they have left\\nGrants 1 Steel Shard for each Impale removed",
+          "Description": "Reflects Physical Damage around each Enemy equal to the Damage of removed Impales multiplied by the number of Hits they have left\nGrants 1 Steel Shard for each Impale removed",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -115,7 +115,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "Sacrifices {0}% of your total [EnergyShield|Energy Shield] and Life\\nDeals {1}% of Sacrificed [EnergyShield|Energy Shield] and Life as Fire Damage per second",
+          "Description": "Sacrifices {0}% of your total [EnergyShield|Energy Shield] and Life\nDeals {1}% of Sacrificed [EnergyShield|Energy Shield] and Life as Fire Damage per second",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -129,7 +129,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Projectiles continuously lose Damage, up to 50% less Damage by the time they dissipate\\nProjectiles have 25% chance to Freeze, which is lost over the first quarter of their flight",
+          "Description": "Projectiles continuously lose Damage, up to 50% less Damage by the time they dissipate\nProjectiles have 25% chance to Freeze, which is lost over the first quarter of their flight",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -334,7 +334,7 @@
         },
         {
           "Operator": "1|#",
-          "Description": "Deals [Physical|Physical] damage equal to {0}% of\\n[Corpse|Corpse's] maximum Life",
+          "Description": "Deals [Physical|Physical] damage equal to {0}% of\n[Corpse|Corpse's] maximum Life",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -1576,6 +1576,40 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "projectile_number_of_targets_to_pierce",
+        "virtual_always_pierce",
+        "virtual_projectiles_cannot_pierce"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# 0 0 table_only",
+          "Description": "Targets [Pierce|Pierced]@{0}",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 0 0",
+          "Description": "Projectiles [Pierce] 1 target",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|# 0 0",
+          "Description": "Projectiles [Pierce] {0} targets",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# # 0",
+          "Description": "Projectiles [Pierce] all targets",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "primary_projectile_display_targets_to_pierce"
       ],
       "Descriptions": [
@@ -2427,6 +2461,64 @@
               "Value": 1
             }
           ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "virtual_lightning_tendrils_channelled_larger_pulse_interval",
+        "lightning_tendrils_channelled_larger_pulse_interval",
+        "lightning_tendrils_channelled_larger_pulse_always_crit"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "0   1   0",
+          "Description": "Every Pulse is a Stronger Pulse",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0  2|#  0",
+          "Description": "Releases a Stronger Pulse every {1} Pulses",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0   1  !0",
+          "Description": "Every Pulse is a Stronger Pulse\nStronger Pulses always [Critical|Critical Hit]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0  2|# !0",
+          "Description": "Releases a Stronger Pulse every {1} Pulses\nStronger Pulses always [Critical|Critical Hit]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1   #   0",
+          "Description": "Every Pulse is a Stronger Pulse",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|#  #   0",
+          "Description": "Releases a Stronger Pulse every {0} Pulses",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1   #  !0",
+          "Description": "Every Pulse is a Stronger Pulse\nStronger Pulses always [Critical|Critical Hit]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|#  #  !0",
+          "Description": "Releases a Stronger Pulse every {0} Pulses\nStronger Pulses always [Critical|Critical Hit]",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     },
@@ -3657,7 +3749,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "Loses 1 Intensity every {0} seconds while moving\\nLoses {1} Intensity immediately if you teleport",
+          "Description": "Loses 1 Intensity every {0} seconds while moving\nLoses {1} Intensity immediately if you teleport",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -4858,7 +4950,7 @@
         },
         {
           "Operator": "# #",
-          "Description": "Can use Items requiring up to Level {1}\\nAnimated Weapons are transformed into random Unique\\nWeapons with Level Requirement between {0} and {1}",
+          "Description": "Can use Items requiring up to Level {1}\nAnimated Weapons are transformed into random Unique\nWeapons with Level Requirement between {0} and {1}",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -5080,7 +5172,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "{0}% chance to Trigger this Spell when you are Stunned, or\\nBlock a Stunning Hit",
+          "Description": "{0}% chance to Trigger this Spell when you are Stunned, or\nBlock a Stunning Hit",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -5235,6 +5327,22 @@
         {
           "Operator": "100|#",
           "Description": "Trigger this Skill on [Melee] Hit",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "cast_on_damage_taken_%",
+        "virtual_cast_when_damage_taken_threshold",
+        "cast_on_damage_taken_threshold"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# 1|# #",
+          "Description": "{0}% chance to Trigger this Spell when you take a total of {1} Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -5841,7 +5949,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Only Deals Damage of the chosen Element\\nDeals no Damage of other Damage Types",
+          "Description": "Only Deals Damage of the chosen Element\nDeals no Damage of other Damage Types",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -7937,13 +8045,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "While [DualWield|Dual Wielding], both weapons hit with\\n{0}% more attack speed",
+          "Description": "While [DualWield|Dual Wielding], both weapons hit with\n{0}% more attack speed",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "While [DualWield|Dual Wielding], both weapons hit with\\n{0}% less attack speed",
+          "Description": "While [DualWield|Dual Wielding], both weapons hit with\n{0}% less attack speed",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -8115,7 +8223,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Consumes [ArmourBreak|Fully Broken Armour] on\\nEnemies to deal {0}% more Damage",
+          "Description": "Consumes [ArmourBreak|Fully Broken Armour] on\nEnemies to deal {0}% more Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -8786,7 +8894,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Gain a Steel Ward if you have at least 2 Steel Shards, up to a maximum of 6\\nEach Steel Ward grants {0:+d}% Chance to Block Projectile [Attack] Damage",
+          "Description": "Gain a Steel Ward if you have at least 2 Steel Shards, up to a maximum of 6\nEach Steel Ward grants {0:+d}% Chance to Block Projectile [Attack] Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -8910,7 +9018,7 @@
       "Descriptions": [
         {
           "Operator": "1|# 1|#",
-          "Description": "Burning Ground deals {0}% of the Fire Damage per Second of strongest Ignite on Enemy\\nCaustic Ground deals {1}% of the Chaos Damage per Second of strongest Poison on Enemy\\nCan create each Ground effect no more than once each second",
+          "Description": "Burning Ground deals {0}% of the Fire Damage per Second of strongest Ignite on Enemy\nCaustic Ground deals {1}% of the Chaos Damage per Second of strongest Poison on Enemy\nCan create each Ground effect no more than once each second",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -9267,7 +9375,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "{0}% of Damage from Hits is taken from Buff before your Life or Energy Shield\\nBuff can take Damage equal to Mana Spent by this Skill's effect",
+          "Description": "{0}% of Damage from Hits is taken from Buff before your Life or Energy Shield\nBuff can take Damage equal to Mana Spent by this Skill's effect",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -9581,13 +9689,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Nearby Enemies are Blinded while in Sand Stance\\nYou take {0}% more Damage from [Attack|Attacks] from Enemies that aren't nearby while in Sand Stance\\nNearby Enemies are Maimed while in Blood Stance",
+          "Description": "Nearby Enemies are Blinded while in Sand Stance\nYou take {0}% more Damage from [Attack|Attacks] from Enemies that aren't nearby while in Sand Stance\nNearby Enemies are Maimed while in Blood Stance",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Nearby Enemies are Blinded while in Sand Stance\\nYou take {0}% less Damage from [Attack|Attacks] from Enemies that aren't nearby while in Sand Stance\\nNearby Enemies are Maimed while in Blood Stance",
+          "Description": "Nearby Enemies are Blinded while in Sand Stance\nYou take {0}% less Damage from [Attack|Attacks] from Enemies that aren't nearby while in Sand Stance\nNearby Enemies are Maimed while in Blood Stance",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -10108,7 +10216,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "[Lightning] damage from this skill [Contributes] to\\n[Electrocute|Electrocution] Buildup",
+          "Description": "[Lightning] damage from this skill [Contributes] to\n[Electrocute|Electrocution] Buildup",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -10794,6 +10902,40 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "bleed_on_hit_with_attacks_%",
+        "attacks_inflict_bleeding_on_hit",
+        "cannot_cause_bleeding"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # !0",
+          "Description": "Cannot cause [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# !0 0",
+          "Description": "Causes [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# 0 0",
+          "Description": "Causes [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0 0",
+          "Description": "{0}% chance to cause [Bleeding|Bleeding]",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "blind_effect_+%"
       ],
       "Descriptions": [
@@ -10894,13 +11036,13 @@
       "Descriptions": [
         {
           "Operator": "!0 !0",
-          "Description": "Gain a Blood Charge if this Skill Hits Enemies and none of them Die\\nLose a Blood Charge and Recover {1}% of Life when an Enemy Dies while affected by this Skill's Debuff",
+          "Description": "Gain a Blood Charge if this Skill Hits Enemies and none of them Die\nLose a Blood Charge and Recover {1}% of Life when an Enemy Dies while affected by this Skill's Debuff",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "!0  0",
-          "Description": "Gain a Blood Charge if this Skill Hits Enemies and none of them Die\\nLose a Blood Charge when an Enemy Dies while affected by this Skill's Debuff",
+          "Description": "Gain a Blood Charge if this Skill Hits Enemies and none of them Die\nLose a Blood Charge when an Enemy Dies while affected by this Skill's Debuff",
           "IsCanonical": false,
           "Parameters": []
         },
@@ -11195,7 +11337,7 @@
       "Descriptions": [
         {
           "Operator": "# table_only",
-          "Description": "[FlamesOfChayula|Flame of Chayula] manifestation interval\\n[FlamesOfChayula|Flame of Chayula] fade time@{0}s\\n25s",
+          "Description": "[FlamesOfChayula|Flame of Chayula] manifestation interval\n[FlamesOfChayula|Flame of Chayula] fade time@{0}s\n25s",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -11206,13 +11348,13 @@
         },
         {
           "Operator": "1000",
-          "Description": "A [FlamesOfChayula|Flame of Chayula] manifests nearby every second\\n[FlamesOfChayula|Flames of Chayula] fade after 25 seconds if not picked up",
+          "Description": "A [FlamesOfChayula|Flame of Chayula] manifests nearby every second\n[FlamesOfChayula|Flames of Chayula] fade after 25 seconds if not picked up",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#",
-          "Description": "A [FlamesOfChayula|Flame of Chayula] manifests nearby every {0} seconds\\n[FlamesOfChayula|Flames of Chayula] fade after 25 seconds if not picked up",
+          "Description": "A [FlamesOfChayula|Flame of Chayula] manifests nearby every {0} seconds\n[FlamesOfChayula|Flames of Chayula] fade after 25 seconds if not picked up",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -11358,7 +11500,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] per [Power] of enemies you\\n[Critical|Critically Hit] with Skills",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you\n[Critical|Critically Hit] with Skills",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -11492,7 +11634,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\\n[HitDamage|Hits] from Skills",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\n[HitDamage|Hits] from Skills",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -11632,7 +11774,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\\n[HitDamage|Hits] from Skills",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\n[HitDamage|Hits] from Skills",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -11691,7 +11833,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Loses {0} Energy per second while you are not Channelling\\nLoses all Energy when Reservation becomes inactive",
+          "Description": "Loses {0} Energy per second while you are not Channelling\nLoses all Energy when Reservation becomes inactive",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -11964,6 +12106,64 @@
         {
           "Operator": "# table_only",
           "Description": "[Charges|Endurance Charge] chance on [ArmourBreak|Full Armour Break]@{0}%",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "chance_to_gain_frenzy_charge_on_killing_enemy_affected_by_cold_snap_ground_%",
+        "vaal_cold_snap_gain_frenzy_charge_every_second_if_enemy_in_aura",
+        "active_skill_cooldown_bypass_type_override_to_power_charge"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|99  0 0",
+          "Description": "{0}% chance to gain a Frenzy Charge when an Enemy Dies while in this Skill's Area",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1|99  # 0",
+          "Description": "{0}% chance to gain a Frenzy Charge when an Enemy Dies while in this Skill's Area\nEvery second, gain a Frenzy Charge if an Enemy is in this Skill's Area",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# 0 0",
+          "Description": "Gain a Frenzy Charge when an Enemy Dies while in this Skill's Area",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# # 0",
+          "Description": "Gain a Frenzy Charge when an Enemy Dies while in this Skill's Area\nEvery second, gain a Frenzy Charge if an Enemy is in this Skill's Area",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1|99  0 #",
+          "Description": "{0}% chance to gain a Power Charge when an Enemy Dies while in this Skill's Area",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1|99  # #",
+          "Description": "{0}% chance to gain a Power Charge when an Enemy Dies while in this Skill's Area\nEvery second, gain a Power Charge if an Enemy is in this Skill's Area",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# 0 #",
+          "Description": "Gain a Power Charge when an Enemy Dies while in this Skill's Area",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100|# # #",
+          "Description": "Gain a Power Charge when an Enemy Dies while in this Skill's Area\nEvery second, gain a Power Charge if an Enemy is in Skill's Area",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -12976,7 +13176,7 @@
         },
         {
           "Operator": "# #",
-          "Description": "[Debuff] deals {0}% more damage for each\\ntime it has spread, up to {1}%",
+          "Description": "[Debuff] deals {0}% more damage for each\ntime it has spread, up to {1}%",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -14144,7 +14344,7 @@
       "Descriptions": [
         {
           "Operator": "1|# 1|#",
-          "Description": "Gain {0}% of Damage as extra [Fire|Fire] Damage per Stage\\nMaximum {1} Stages",
+          "Description": "Gain {0}% of Damage as extra [Fire|Fire] Damage per Stage\nMaximum {1} Stages",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -14217,7 +14417,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "{0:+d} to Beam Width Per Intensity\\n33% less branching angle per Intensity",
+          "Description": "{0:+d} to Beam Width Per Intensity\n33% less branching angle per Intensity",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -14537,13 +14737,13 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Maximum {0} Ascended Sentinel of Absolution\\nAscended Sentinel does not count towards the regular limit",
+          "Description": "Maximum {0} Ascended Sentinel of Absolution\nAscended Sentinel does not count towards the regular limit",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "2|#",
-          "Description": "Maximum {0} Ascended Sentinels of Absolution\\nAscended Sentinels do not count towards the regular limit",
+          "Description": "Maximum {0} Ascended Sentinels of Absolution\nAscended Sentinels do not count towards the regular limit",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -14557,13 +14757,13 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Maximum {0} Ascended Sentinel of Dominance\\nAscended Sentinel does not count towards the regular limits",
+          "Description": "Maximum {0} Ascended Sentinel of Dominance\nAscended Sentinel does not count towards the regular limits",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "2|#",
-          "Description": "Maximum {0} Ascended Sentinels of Dominance\\nAscended Sentinels do not count towards the regular limits",
+          "Description": "Maximum {0} Ascended Sentinels of Dominance\nAscended Sentinels do not count towards the regular limits",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -14865,13 +15065,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "First Mine Detonates Instantly\\nMines get {0}% more Detonation Speed for each prior Mine in Detonation Sequence",
+          "Description": "First Mine Detonates Instantly\nMines get {0}% more Detonation Speed for each prior Mine in Detonation Sequence",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "1|#",
-          "Description": "First Mine Detonates Instantly\\nMines get {0}% less Detonation Speed for each prior Mine in Detonation Sequence",
+          "Description": "First Mine Detonates Instantly\nMines get {0}% less Detonation Speed for each prior Mine in Detonation Sequence",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -14918,7 +15118,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Triggers either Flames of Judgement or Storm of Judgement,\\nalternating between the two",
+          "Description": "Triggers either Flames of Judgement or Storm of Judgement,\nalternating between the two",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -14932,7 +15132,7 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Cannot be Cast or Triggered while Elusive\\nGrants Elusive",
+          "Description": "Cannot be Cast or Triggered while Elusive\nGrants Elusive",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -15111,7 +15311,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Your Triggered Spells Trigger twice, once from each Triggerbot's location\\nThe additional Trigger ignores Cooldowns",
+          "Description": "Your Triggered Spells Trigger twice, once from each Triggerbot's location\nThe additional Trigger ignores Cooldowns",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -15481,7 +15681,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\\n[HitDamage|Hits] from Skills",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\n[HitDamage|Hits] from Skills",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -15541,7 +15741,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\\n[HitDamage|Hits] from Skills",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\n[HitDamage|Hits] from Skills",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -16148,6 +16348,22 @@
         {
           "Operator": "#",
           "Description": "Bleeding inflicted by this Skill deals Damage {0}% faster",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "feast_of_flesh_gain_X_life_per_corpse_consumed",
+        "feast_of_flesh_gain_X_mana_per_corpse_consumed",
+        "feast_of_flesh_gain_X_energy_shield_per_corpse_consumed"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # #",
+          "Description": "Gain {0} Life per corpse Consumed\nGain {1} Mana per corpse Consumed\nGain {2} [EnergyShield|Energy Shield] per corpse Consumed",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -17456,7 +17672,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Create a Vortex on [Shatter|Shattering] an Enemy\\nVortex deals {0}% of Overkill Damage per second",
+          "Description": "Create a Vortex on [Shatter|Shattering] an Enemy\nVortex deals {0}% of Overkill Damage per second",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -17727,7 +17943,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "[Attack] kills generates [Valour] equal to the enemy's [Power]\\nGains {0} [Valour] per second while a\\nUnique enemy is in your [Presence]",
+          "Description": "[Attack] kills generates [Valour] equal to the enemy's [Power]\nGains {0} [Valour] per second while a\nUnique enemy is in your [Presence]",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -17815,6 +18031,40 @@
               "Value": 1
             }
           ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "generic_ongoing_trigger_maximum_energy",
+        "generic_ongoing_trigger_triggers_at_maximum_energy",
+        "display_generic_ongoing_trigger_hide_energy_stats"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "#  # !0",
+          "Description": "",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "!0  0  0",
+          "Description": "Maximum [Energy|Energy] is {0}",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "!0 !0  0",
+          "Description": "Maximum [Energy|Energy] is {0}\nTrigger all Socketed [Spell|Spells] and loses all [Energy|Energy] on reaching maximum [Energy|Energy]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0 !0  0",
+          "Description": "Triggers all Socketed [Spell|Spells] and loses all [Energy|Energy] on reaching maximum [Energy|Energy]",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     },
@@ -18171,7 +18421,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "{0}% more Damage with Hits if Enemy is Hexed\\nRemoves a Hex after Damaging",
+          "Description": "{0}% more Damage with Hits if Enemy is Hexed\nRemoves a Hex after Damaging",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -18567,13 +18817,13 @@
       "Descriptions": [
         {
           "Operator": "0|# 1|#",
-          "Description": "{0}% increased Cooldown Recovery Rate for each Normal or Magic Enemy in Area\\n{1}% increased Cooldown Recovery Rate for each Rare or Unique Enemy in Area",
+          "Description": "{0}% increased Cooldown Recovery Rate for each Normal or Magic Enemy in Area\n{1}% increased Cooldown Recovery Rate for each Rare or Unique Enemy in Area",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1 #|-1",
-          "Description": "{0}% reduced Cooldown Recovery Rate for each Normal or Magic Enemy in Area\\n{1}% reduced Cooldown Recovery Rate for each Rare or Unique Enemy in Area",
+          "Description": "{0}% reduced Cooldown Recovery Rate for each Normal or Magic Enemy in Area\n{1}% reduced Cooldown Recovery Rate for each Rare or Unique Enemy in Area",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -19519,7 +19769,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Spear cannot [Split|Split], [Pierce|Pierce], [Fork|Fork], [Chain|Chain] or [Return|Return]\\nModifiers to the number of [Projectile|Projectiles] fired instead apply\\nto the maximum number of Lightning Bolts fired",
+          "Description": "Spear cannot [Split|Split], [Pierce|Pierce], [Fork|Fork], [Chain|Chain] or [Return|Return]\nModifiers to the number of [Projectile|Projectiles] fired instead apply\nto the maximum number of Lightning Bolts fired",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -20111,7 +20361,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Deals base Lightning Damage equal to {0}% of missing Unreserved Mana\\n+6 to length per 25% of Unreserved maximum Mana you have",
+          "Description": "Deals base Lightning Damage equal to {0}% of missing Unreserved Mana\n+6 to length per 25% of Unreserved maximum Mana you have",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -20249,7 +20499,7 @@
       "Descriptions": [
         {
           "Operator": "# # table_only",
-          "Description": "Stage gain interval\\nMaximum Stages@{0}s\\n{1}",
+          "Description": "Stage gain interval\nMaximum Stages@{0}s\n{1}",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -20339,6 +20589,34 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "maximum_number_of_snapping_adder_projectiles",
+        "vaal_venom_gyre_instantly_capture_maximum_projectiles",
+        "vaal_venom_gyre_capture_x_projectiles_per_second"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "#  0  0",
+          "Description": "Maximum {0} caught Projectiles",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# !0  0",
+          "Description": "Maximum {0} caught Projectiles\nCreates up to {0} caught Projectiles immediately",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# !0 !0",
+          "Description": "Maximum {0} caught Projectiles\nCreates up to {0} caught Projectiles immediately\nCreates {2} caught Projectiles per second",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "maximum_number_of_summoned_doubles"
       ],
       "Descriptions": [
@@ -20364,13 +20642,13 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Maximum {0} Summoned Mirage Sharpshooter\\nSummons {0} Mirage Sharpshooter which uses this Skill\\nMirage Sharpshooters fire at your target when you use Ice Shot",
+          "Description": "Maximum {0} Summoned Mirage Sharpshooter\nSummons {0} Mirage Sharpshooter which uses this Skill\nMirage Sharpshooters fire at your target when you use Ice Shot",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "2|#",
-          "Description": "Maximum {0} Summoned Mirage Sharpshooters\\nSummons {0} Mirage Sharpshooters which use this Skill\\nMirage Sharpshooters fire at your target when you use Ice Shot",
+          "Description": "Maximum {0} Summoned Mirage Sharpshooters\nSummons {0} Mirage Sharpshooters which use this Skill\nMirage Sharpshooters fire at your target when you use Ice Shot",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -20460,7 +20738,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Gains {0} [Energy] per [Power] of enemies you\\nkill with [Melee] [Attack|Attacks]",
+          "Description": "Gains {0} [Energy] per [Power] of enemies you\nkill with [Melee] [Attack|Attacks]",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -21114,6 +21392,28 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "molten_shell_damage_absorbed_%",
+        "molten_shell_damage_absorb_limit_%_of_armour",
+        "molten_shell_max_damage_absorbed"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "0 !0 0",
+          "Description": "Buff can take additional Damage equal to {1}% of your [Armour]",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# # #",
+          "Description": "{0}% of Damage from Hits is taken from the Buff before your Life or Energy Shield\nBuff can take Damage equal to {1}% of your Armour, up to a maximum of {2}",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "molten_shell_%_of_absorbed_damage_dealt_as_reflected_fire",
         "display_vaal_molten_shell_alternate_description"
       ],
@@ -21126,7 +21426,7 @@
         },
         {
           "Operator": "# #",
-          "Description": "Reflects {0}% of Damage taken from Buff as Fire Damage each second,\\nor when Buff expires or is depleted",
+          "Description": "Reflects {0}% of Damage taken from Buff as Fire Damage each second,\nor when Buff expires or is depleted",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -21154,7 +21454,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Projectiles can Chain when impacting the ground\\nProjectiles do not change direction when Chaining",
+          "Description": "Projectiles can Chain when impacting the ground\nProjectiles do not change direction when Chaining",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -21385,7 +21685,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Elusive from this Skill also grants {0:+d}% to [CriticalDamageBonus|Critical Damage Bonus] for\\nSkills Supported by Nightblade",
+          "Description": "Elusive from this Skill also grants {0:+d}% to [CriticalDamageBonus|Critical Damage Bonus] for\nSkills Supported by Nightblade",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -22090,7 +22390,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "+1 to Explosion Radius per Energy\\nPulse deals 50% more Damage with Hits",
+          "Description": "+1 to Explosion Radius per Energy\nPulse deals 50% more Damage with Hits",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -22227,7 +22527,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "Each Summoned Phantasm grants you Phantasmal Might\\nEach Phantasmal Might Buff grants {0} to {1} Added Spell Physical Damage",
+          "Description": "Each Summoned Phantasm grants you Phantasmal Might\nEach Phantasmal Might Buff grants {0} to {1} Added Spell Physical Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -22917,7 +23217,7 @@
       "Descriptions": [
         {
           "Operator": "!0",
-          "Description": "Fires a Payload Arrow into the air\\n[Projectile|Projectiles] Fire from where the Payload Arrow lands",
+          "Description": "Fires a Payload Arrow into the air\n[Projectile|Projectiles] Fire from where the Payload Arrow lands",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -22996,7 +23296,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "{0}% of Damage from Hits is taken from the Buff before Life or Energy Shield\\nBuff can take {1} Damage",
+          "Description": "{0}% of Damage from Hits is taken from the Buff before Life or Energy Shield\nBuff can take {1} Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -24949,13 +25249,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Skills used by Mirage Chieftains deal {0}% more Damage\\nSkills used by Mirage Chieftains cannot Repeat",
+          "Description": "Skills used by Mirage Chieftains deal {0}% more Damage\nSkills used by Mirage Chieftains cannot Repeat",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Skills used by Mirage Chieftains deal {0}% less Damage\\nSkills used by Mirage Chieftains cannot Repeat",
+          "Description": "Skills used by Mirage Chieftains deal {0}% less Damage\nSkills used by Mirage Chieftains cannot Repeat",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -25822,13 +26122,13 @@
       "Descriptions": [
         {
           "Operator": "1 #",
-          "Description": "Grants {0} Seal to the next Unleashable Spell you cast\\nThe Cooldown of this skill is {1}% of the Total Cast Time of the Spell that the Seal is granted to",
+          "Description": "Grants {0} Seal to the next Unleashable Spell you cast\nThe Cooldown of this skill is {1}% of the Total Cast Time of the Spell that the Seal is granted to",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "# #",
-          "Description": "Grants {0} Seals to the next Unleashable Spell you cast\\nThe Cooldown of this skill is {1}% of the Total Cast Time of the Spell that the Seals are granted to",
+          "Description": "Grants {0} Seals to the next Unleashable Spell you cast\nThe Cooldown of this skill is {1}% of the Total Cast Time of the Spell that the Seals are granted to",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -26401,6 +26701,27 @@
           "Description": "Wave cannot stop before Damaging {0} Areas",
           "IsCanonical": false,
           "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "support_%_chance_to_shock_nearby_enemy_on_shock",
+        "shock_nearby_enemy_area_of_effect_radius",
+        "shock_nearby_enemy_base_area_of_effect_radius"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# 1|# # table_only",
+          "Description": "Chance to [Shock] enemies within {1}m on [Shock]@{0}%",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "divide_by_ten_1dp",
+              "Value": 2
+            }
+          ]
         }
       ]
     },
@@ -27000,7 +27321,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Killing Blows against Rare Monsters grant one\\nof their Modifiers for {0} seconds",
+          "Description": "Killing Blows against Rare Monsters grant one\nof their Modifiers for {0} seconds",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -27482,7 +27803,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "You gain {0} Invocation when you cast this Spell\\nCasting a Spell that is not supported by Invocation will consume all Invocation to grant that Spell -0.01 seconds to base Cast Time per Invocation",
+          "Description": "You gain {0} Invocation when you cast this Spell\nCasting a Spell that is not supported by Invocation will consume all Invocation to grant that Spell -0.01 seconds to base Cast Time per Invocation",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -28271,12 +28592,33 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "support_scion_onslaught_on_killing_blow_%_chance",
+        "support_scion_onslaught_on_killing_blow_duration_ms",
+        "virtual_support_scion_onslaught_on_killing_blow_duration_ms"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # !0",
+          "Description": "{0}% chance to grant Onslaught for {2} seconds on\ndealing a Killing Blow",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds",
+              "Value": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "support_slashing_buff_duration_ms"
       ],
       "Descriptions": [
         {
           "Operator": "1000",
-          "Description": "Grants Combat Rush on Hit\\nCombat Rush lasts {0} second or until you use a Travel Skill",
+          "Description": "Grants Combat Rush on Hit\nCombat Rush lasts {0} second or until you use a Travel Skill",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -28287,7 +28629,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Grants Combat Rush on Hit\\nCombat Rush lasts {0} seconds or until you use a Travel Skill",
+          "Description": "Grants Combat Rush on Hit\nCombat Rush lasts {0} seconds or until you use a Travel Skill",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -28346,13 +28688,13 @@
       "Descriptions": [
         {
           "Operator": "1|# 1|#",
-          "Description": "{0}% more Area Damage with Hits per Intensity\\n{1}% more Area of Effect per Intensity",
+          "Description": "{0}% more Area Damage with Hits per Intensity\n{1}% more Area of Effect per Intensity",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1 1|#",
-          "Description": "{0}% less Area Damage with Hits per Intensity\\n{1}% more Area of Effect per Intensity",
+          "Description": "{0}% less Area Damage with Hits per Intensity\n{1}% more Area of Effect per Intensity",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -28363,7 +28705,7 @@
         },
         {
           "Operator": "1|# #|-1",
-          "Description": "{0}% more Area Damage with Hits per Intensity\\n{1}% less Area of Effect per Intensity",
+          "Description": "{0}% more Area Damage with Hits per Intensity\n{1}% less Area of Effect per Intensity",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -28374,7 +28716,7 @@
         },
         {
           "Operator": "#|-1 #|-1",
-          "Description": "{0}% less Area Damage with Hits per Intensity\\n{1}% less Area of Effect per Intensity",
+          "Description": "{0}% less Area Damage with Hits per Intensity\n{1}% less Area of Effect per Intensity",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -29570,6 +29912,66 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "trauma_duration_ms",
+        "trauma_base_duration_ms",
+        "trauma_strike_self_damage_per_trauma"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "0    0    1|#",
+          "Description": "Take {2} Physical Damage per Trauma when you gain Trauma",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "0    1000 1|#",
+          "Description": "Gain 1 Trauma the first time this [Attack] Hits an Enemy\nTake {2} Physical Damage per Trauma when you gain Trauma\nTrauma lasts {1} second",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_1dp",
+              "Value": 2
+            }
+          ]
+        },
+        {
+          "Operator": "0    1|#  1|#",
+          "Description": "Gain 1 Trauma the first time this [Attack] Hits an Enemy\nTake {2} Physical Damage per Trauma when you gain Trauma\nTrauma lasts {1} seconds",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_1dp",
+              "Value": 2
+            }
+          ]
+        },
+        {
+          "Operator": "1000 #    1|#",
+          "Description": "Gain 1 Trauma the first time this [Attack] Hits an Enemy\nTake {2} Physical Damage per Trauma when you gain Trauma\nTrauma lasts {0} second",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_1dp",
+              "Value": 1
+            }
+          ]
+        },
+        {
+          "Operator": "1|#  #    1|#",
+          "Description": "Gain 1 Trauma the first time this [Attack] Hits an Enemy\nTake {2} Physical Damage per Trauma when you gain Trauma\nTrauma lasts {0} seconds",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "milliseconds_to_seconds_1dp",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "trauma_strike_damage_+%_final_per_trauma"
       ],
       "Descriptions": [
@@ -29903,6 +30305,28 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
+        "triggered_by_generic_ongoing_trigger",
+        "display_generic_ongoing_triggerer_is_invocation_skill",
+        "virtual_energy_cost_for_generic_ongoing_trigger"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "#  0   0",
+          "Description": "Triggered on reaching maximum Energy",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "#  !0  #",
+          "Description": "Triggered by an Invocation Skill\nConsumes {2} Energy when Triggered",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
         "triggered_by_item_buff"
       ],
       "Descriptions": [
@@ -29922,7 +30346,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "This Skill is used by Mirage Warriors Summoned by General's Cry\\nThis Skill counts as Triggered",
+          "Description": "This Skill is used by Mirage Warriors Summoned by General's Cry\nThis Skill counts as Triggered",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -30084,7 +30508,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Base Circle Radius is 10\\n{0:+d} to Circle Radius per Stage\\nChannelling stops when Total Circle Radius reaches 90",
+          "Description": "Base Circle Radius is 10\n{0:+d} to Circle Radius per Stage\nChannelling stops when Total Circle Radius reaches 90",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -30099,7 +30523,7 @@
       "Descriptions": [
         {
           "Operator": "1|# 1|#",
-          "Description": "Buff grants [CullingStrike|Culling Strike] with Cleave\\nBuff grants {0}% more Cleave Area of Effect\\nBuff grants {1}% more Cleave Damage with Hits to Enemies that are on [LowLife|Low Life]",
+          "Description": "Buff grants [CullingStrike|Culling Strike] with Cleave\nBuff grants {0}% more Cleave Area of Effect\nBuff grants {1}% more Cleave Damage with Hits to Enemies that are on [LowLife|Low Life]",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -30168,7 +30592,7 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Modifiers to number of Projectiles do not apply to\\nthis Skill when used by Mirage Sharpshooters",
+          "Description": "Modifiers to number of Projectiles do not apply to\nthis Skill when used by Mirage Sharpshooters",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -31120,7 +31544,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "{0}% of Damage from Hits is taken from the Buff before Life or Energy Shield\\nBuff can take {1} Damage",
+          "Description": "{0}% of Damage from Hits is taken from the Buff before Life or Energy Shield\nBuff can take {1} Damage",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -31303,13 +31727,13 @@
       "Descriptions": [
         {
           "Operator": "1",
-          "Description": "Projectiles change direction {0} time\\nProjectiles can Hit targets each time they change direction",
+          "Description": "Projectiles change direction {0} time\nProjectiles can Hit targets each time they change direction",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#",
-          "Description": "Projectiles change direction {0} times\\nProjectiles can Hit targets each time they change direction",
+          "Description": "Projectiles change direction {0} times\nProjectiles can Hit targets each time they change direction",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -31649,7 +32073,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "Buff grants Added [Attack] Damage equal to {0}% of the Damage of your Main\\nHand Weapon per 5 Power, up to a maximum of 20%",
+          "Description": "Buff grants Added [Attack] Damage equal to {0}% of the Damage of your Main\nHand Weapon per 5 Power, up to a maximum of 20%",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -31749,7 +32173,7 @@
       "Descriptions": [
         {
           "Operator": "# #",
-          "Description": "Summons Mirage Warriors from {0} corpses per 5 Power, minimum 1 corpse\\nMaximum {1} Summoned Mirage Warriors",
+          "Description": "Summons Mirage Warriors from {0} corpses per 5 Power, minimum 1 corpse\nMaximum {1} Summoned Mirage Warriors",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -31816,6 +32240,142 @@
               "Value": 1
             }
           ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "skill_empowers_next_x_melee_attacks",
+        "warcry_exerts_x_additional_attacks_per_endurance_charge_consumed",
+        "skill_empower_limitation_specifier_for_stat_description"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# !0 # table_only",
+          "Description": "[Attack|Attacks] [Empowered] per [Charges|Endurance Charge]@{0}",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 0 0",
+          "Description": "[Empowered|Empowers] the next [Melee] [Attack] you perform",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 1 0",
+          "Description": "[Empowered|Empowers] the next [Melee] [Attack] you perform, plus an additional [Attack] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 # 0",
+          "Description": "[Empowered|Empowers] the next [Melee] [Attack] you perform, plus an additional {1} [Attack|Attacks] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0 0",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Attack|Attacks] you perform",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 1 0",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Attack|Attacks] you perform, plus an additional [Attack] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# # 0",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Attack|Attacks] you perform, plus an additional {1} [Attack|Attacks] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 0 1",
+          "Description": "[Empowered|Empowers] the next [Melee] [Strike] [Attack] you perform",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 1 1",
+          "Description": "[Empowered|Empowers] the next [Melee] [Strike] [Attack] you perform, plus an additional [Attack] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 # 1",
+          "Description": "[Empowered|Empowers] the next [Melee] [Strike] [Attack] you perform, plus an additional {1} [Attack|Attacks] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0 1",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Strike] [Attack|Attacks] you perform",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 1 1",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Strike] [Attack|Attacks] you perform, plus an additional [Attack] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# # 1",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Strike] [Attack|Attacks] you perform, plus an additional {1} [Attack|Attacks] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 0 2",
+          "Description": "[Empowered|Empowers] the next [Melee] [Slam] [Attack] you perform",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 1 2",
+          "Description": "[Empowered|Empowers] the next [Melee] [Slam] [Attack] you perform, plus an additional [Attack] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 # 2",
+          "Description": "[Empowered|Empowers] the next [Melee] [Slam] [Attack] you perform, plus an additional {1} [Attack|Attacks] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0 2",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Slam] [Attack|Attacks] you perform",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 1 2",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Slam] [Attack|Attacks] you perform, plus an additional [Attack] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# # 2",
+          "Description": "[Empowered|Empowers] the next {0} [Melee] [Slam] [Attack|Attacks] you perform, plus an additional {1} [Attack|Attacks] per [Charges|Endurance Charge] consumed",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 0 3",
+          "Description": "Buff is removed to [Empowered|Empower] the next [Melee] [Attack] you perform\n[Attack|Attacks] [Exert|Exerted] by this Skill cannot be [Exert|Exerted] by other Skills",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# 0 3",
+          "Description": "Buff is removed after [Empowered|Empower] the next {0} [Melee] [Attack|Attacks] you perform\n[Attack|Attacks] [Empowered] by this Skill cannot be [Empowered] by other Skills",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     },
@@ -32123,7 +32683,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "100% of Physical Damage Converted to Cold Damage while Sphere has no Ailments\\n100% of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped\\n100% of Physical Damage Converted to Cold Damage while Sphere is Frozen or Brittle",
+          "Description": "100% of Physical Damage Converted to Cold Damage while Sphere has no Ailments\n100% of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped\n100% of Physical Damage Converted to Cold Damage while Sphere is Frozen or Brittle",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -32333,7 +32893,7 @@
         },
         {
           "Operator": "1000",
-          "Description": "Cannot perform a magma-infused block for\\n{0} second after magma dissipates",
+          "Description": "Cannot perform a magma-infused block for\n{0} second after magma dissipates",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -32344,7 +32904,7 @@
         },
         {
           "Operator": "#",
-          "Description": "Cannot perform a magma-infused block for\\n{0} seconds after magma dissipates",
+          "Description": "Cannot perform a magma-infused block for\n{0} seconds after magma dissipates",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -32447,13 +33007,13 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Each Mine applies {0}% increased Damage Taken to Enemies near it, up\\nto a maximum of 150%",
+          "Description": "Each Mine applies {0}% increased Damage Taken to Enemies near it, up\nto a maximum of 150%",
           "IsCanonical": false,
           "Parameters": []
         },
         {
           "Operator": "#|-1",
-          "Description": "Each Mine applies {0}% reduced Damage Taken to Enemies near it, up\\nto a maximum of 150%",
+          "Description": "Each Mine applies {0}% reduced Damage Taken to Enemies near it, up\nto a maximum of 150%",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -32461,6 +33021,23 @@
               "Value": 1
             }
           ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/skill_stat_descriptions",
+      "Ids": [
+        "mortar_barrage_mine_minimum_added_fire_damage_taken",
+        "mortar_barrage_mine_maximum_added_fire_damage_taken",
+        "mortar_barrage_mine_minimum_added_fire_damage_taken_limit",
+        "mortar_barrage_mine_maximum_added_fire_damage_taken_limit"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "# # # #",
+          "Description": "Each Mine Adds {0} to {1} Fire Damage to Hits against Enemies near it, up\nto a maximum of {2} to {3}",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     },
