@@ -3,7 +3,6 @@
     "Id": "AfflictionMonsterMoreDamage",
     "Stats": [
       {
-        "RowIndex": 15391,
         "TableName": "Stats",
         "Id": "map_monster_damage_+%_final_from_deadly_atlas"
       }
@@ -16,7 +15,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -30,8 +28,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -45,7 +43,6 @@
     "Id": "BoonMonsterLessDamage",
     "Stats": [
       {
-        "RowIndex": 15390,
         "TableName": "Stats",
         "Id": "map_monster_damage_+%_final_from_vital_atlas"
       }
@@ -58,7 +55,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -72,8 +68,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -87,7 +83,6 @@
     "Id": "AfflictionTrapDamageMajor",
     "Stats": [
       {
-        "RowIndex": 19329,
         "TableName": "Stats",
         "Id": "map_sanctum_traps_always_deal_triple_damage"
       }
@@ -100,7 +95,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -114,8 +108,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -129,7 +123,6 @@
     "Id": "AfflictionTrapDamage",
     "Stats": [
       {
-        "RowIndex": 19330,
         "TableName": "Stats",
         "Id": "map_sanctum_traps_damage_+%"
       }
@@ -142,7 +135,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -156,8 +148,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -171,7 +163,6 @@
     "Id": "AfflictionLessSacredWater",
     "Stats": [
       {
-        "RowIndex": 16329,
         "TableName": "Stats",
         "Id": "map_sanctum_currency_found_+%_final_from_sanctum_curse"
       }
@@ -184,7 +175,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -198,8 +188,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -213,7 +203,6 @@
     "Id": "AfflictionLessDamage",
     "Stats": [
       {
-        "RowIndex": 16330,
         "TableName": "Stats",
         "Id": "map_player_damage_+%_final_from_sanctum_curse"
       }
@@ -226,7 +215,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -240,8 +228,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -255,7 +243,6 @@
     "Id": "AfflictionTrapSpeed",
     "Stats": [
       {
-        "RowIndex": 16321,
         "TableName": "Stats",
         "Id": "sanctum_hazards_are_faster"
       }
@@ -268,7 +255,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -282,8 +268,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -297,7 +283,6 @@
     "Id": "AfflictionTrapVolatiles",
     "Stats": [
       {
-        "RowIndex": 16323,
         "TableName": "Stats",
         "Id": "sanctum_has_volatiles"
       }
@@ -310,7 +295,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -324,8 +308,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -339,7 +323,6 @@
     "Id": "BoonMovementSpeed",
     "Stats": [
       {
-        "RowIndex": 5555,
         "TableName": "Stats",
         "Id": "map_players_movement_speed_+%"
       }
@@ -352,7 +335,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -366,8 +348,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -381,7 +363,6 @@
     "Id": "BoonMoreSacredWater",
     "Stats": [
       {
-        "RowIndex": 16387,
         "TableName": "Stats",
         "Id": "map_sanctum_currency_found_+%_final_from_sanctum_boon"
       }
@@ -394,7 +375,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -408,8 +388,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -423,7 +403,6 @@
     "Id": "BoonGainSacredWaterWhenDamaged",
     "Stats": [
       {
-        "RowIndex": 16388,
         "TableName": "Stats",
         "Id": "gain_x_sanctum_gold_when_taking_sanctum_hit_damage"
       }
@@ -436,7 +415,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -450,8 +428,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -465,7 +443,6 @@
     "Id": "AfflictionLoseSacredWaterWhenDamaged",
     "Stats": [
       {
-        "RowIndex": 16390,
         "TableName": "Stats",
         "Id": "lose_x_sanctum_gold_when_taking_sanctum_hit_damage"
       }
@@ -478,7 +455,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -492,8 +468,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -507,7 +483,6 @@
     "Id": "AfflictionLoseSacredWaterOnRoomComplete",
     "Stats": [
       {
-        "RowIndex": 16391,
         "TableName": "Stats",
         "Id": "lose_x_sanctum_gold_on_room_completion"
       }
@@ -520,7 +495,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -534,8 +508,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -549,7 +523,6 @@
     "Id": "AfflictionNoSacredWaterFromMonsters",
     "Stats": [
       {
-        "RowIndex": 16392,
         "TableName": "Stats",
         "Id": "sanctum_no_gold_from_monsters"
       }
@@ -562,7 +535,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -576,8 +548,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -591,12 +563,10 @@
     "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8",
     "Stats": [
       {
-        "RowIndex": 20909,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage"
       },
       {
-        "RowIndex": 20908,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage_after_x_rooms"
       }
@@ -610,12 +580,10 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 15,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms7"
     },
@@ -628,8 +596,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -643,12 +611,10 @@
     "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms7",
     "Stats": [
       {
-        "RowIndex": 20909,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage"
       },
       {
-        "RowIndex": 20908,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage_after_x_rooms"
       }
@@ -662,12 +628,10 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 16,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms6"
     },
@@ -680,12 +644,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 14,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
     },
@@ -699,12 +662,10 @@
     "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms6",
     "Stats": [
       {
-        "RowIndex": 20909,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage"
       },
       {
-        "RowIndex": 20908,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage_after_x_rooms"
       }
@@ -718,12 +679,10 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 17,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms5"
     },
@@ -736,12 +695,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 14,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
     },
@@ -755,12 +713,10 @@
     "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms5",
     "Stats": [
       {
-        "RowIndex": 20909,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage"
       },
       {
-        "RowIndex": 20908,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage_after_x_rooms"
       }
@@ -774,12 +730,10 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 18,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms4"
     },
@@ -792,12 +746,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 14,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
     },
@@ -811,12 +764,10 @@
     "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms4",
     "Stats": [
       {
-        "RowIndex": 20909,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage"
       },
       {
-        "RowIndex": 20908,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage_after_x_rooms"
       }
@@ -830,12 +781,10 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 19,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms3"
     },
@@ -848,12 +797,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 14,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
     },
@@ -867,12 +815,10 @@
     "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms3",
     "Stats": [
       {
-        "RowIndex": 20909,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage"
       },
       {
-        "RowIndex": 20908,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage_after_x_rooms"
       }
@@ -886,12 +832,10 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 20,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms2"
     },
@@ -904,12 +848,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 14,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
     },
@@ -923,12 +866,10 @@
     "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms2",
     "Stats": [
       {
-        "RowIndex": 20909,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage"
       },
       {
-        "RowIndex": 20908,
         "TableName": "Stats",
         "Id": "display_sanctum_take_damage_after_x_rooms"
       }
@@ -942,12 +883,10 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 21,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms1"
     },
@@ -960,12 +899,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 14,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
     },
@@ -979,7 +917,6 @@
     "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms1",
     "Stats": [
       {
-        "RowIndex": 17035,
         "TableName": "Stats",
         "Id": "sanctum_take_damage_on_room_completion"
       }
@@ -992,7 +929,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -1006,12 +942,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 14,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionLoseLifeAndEnergyShieldInXRooms8"
     },
@@ -1025,7 +960,6 @@
     "Id": "AfflictionNoSacredWaterFromChests",
     "Stats": [
       {
-        "RowIndex": 16393,
         "TableName": "Stats",
         "Id": "sanctum_no_gold_from_fountains"
       }
@@ -1038,7 +972,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1052,8 +985,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1067,7 +1000,6 @@
     "Id": "AfflictionMonsterLife",
     "Stats": [
       {
-        "RowIndex": 955,
         "TableName": "Stats",
         "Id": "map_monsters_life_+%"
       }
@@ -1080,7 +1012,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1094,8 +1025,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1109,7 +1040,6 @@
     "Id": "AfflictionMonsterPercentageDamage",
     "Stats": [
       {
-        "RowIndex": 19327,
         "TableName": "Stats",
         "Id": "map_monster_remove_%_life_mana_es_on_hit"
       }
@@ -1122,7 +1052,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1136,8 +1065,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1151,7 +1080,6 @@
     "Id": "AfflictionCannotRestoreHonour",
     "Stats": [
       {
-        "RowIndex": 16394,
         "TableName": "Stats",
         "Id": "sanctum_cannot_restore_honour"
       }
@@ -1164,7 +1092,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -1178,8 +1105,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1193,7 +1120,6 @@
     "Id": "AfflictionReducedHonourRestored",
     "Stats": [
       {
-        "RowIndex": 16397,
         "TableName": "Stats",
         "Id": "sanctum_honour_restored_+%"
       }
@@ -1206,7 +1132,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1220,8 +1145,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1235,7 +1160,6 @@
     "Id": "BoonSanctumHonourRestored",
     "Stats": [
       {
-        "RowIndex": 16397,
         "TableName": "Stats",
         "Id": "sanctum_honour_restored_+%"
       }
@@ -1248,7 +1172,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -1262,8 +1185,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -1277,7 +1200,6 @@
     "Id": "AfflictionViewRoomsAhead",
     "Stats": [
       {
-        "RowIndex": 16398,
         "TableName": "Stats",
         "Id": "sanctum_map_view_additional_rooms_ahead"
       }
@@ -1290,7 +1212,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1304,8 +1225,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1319,7 +1240,6 @@
     "Id": "BoonViewRoomsAhead",
     "Stats": [
       {
-        "RowIndex": 16398,
         "TableName": "Stats",
         "Id": "sanctum_map_view_additional_rooms_ahead"
       }
@@ -1332,7 +1252,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -1346,8 +1265,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -1361,7 +1280,6 @@
     "Id": "AfflictionMerchantCost",
     "Stats": [
       {
-        "RowIndex": 16403,
         "TableName": "Stats",
         "Id": "sanctum_merchant_gold_cost_+%"
       }
@@ -1374,7 +1292,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1388,8 +1305,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1403,7 +1320,6 @@
     "Id": "BoonMerchantCost",
     "Stats": [
       {
-        "RowIndex": 16403,
         "TableName": "Stats",
         "Id": "sanctum_merchant_gold_cost_+%"
       }
@@ -1416,7 +1332,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -1430,8 +1345,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -1445,7 +1360,6 @@
     "Id": "BoonDisableTraps",
     "Stats": [
       {
-        "RowIndex": 16402,
         "TableName": "Stats",
         "Id": "sanctum_traps_are_disabled"
       }
@@ -1458,7 +1372,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -1472,8 +1385,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -1487,7 +1400,6 @@
     "Id": "BoonIgnoreXHitsEachRoom",
     "Stats": [
       {
-        "RowIndex": 16408,
         "TableName": "Stats",
         "Id": "sanctum_no_damage_from_first_x_hits"
       }
@@ -1500,7 +1412,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -1514,8 +1425,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -1529,7 +1440,6 @@
     "Id": "AfflictionLoseAllSacredWaterOnFloorComplete",
     "Stats": [
       {
-        "RowIndex": 16409,
         "TableName": "Stats",
         "Id": "sanctum_lose_all_gold_on_floor_completion"
       }
@@ -1542,7 +1452,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1556,8 +1465,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1571,7 +1480,6 @@
     "Id": "BoonRestoreHonourOnRoomComplete",
     "Stats": [
       {
-        "RowIndex": 16410,
         "TableName": "Stats",
         "Id": "sanctum_restore_scaled_honour_on_room_completion"
       }
@@ -1584,7 +1492,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -1598,8 +1505,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -1613,7 +1520,6 @@
     "Id": "BoonDamageCooldown",
     "Stats": [
       {
-        "RowIndex": 20182,
         "TableName": "Stats",
         "Id": "map_players_cannot_be_damaged_for_1_second_after_enemy_hit"
       }
@@ -1626,7 +1532,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -1640,8 +1545,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -1655,12 +1560,10 @@
     "Id": "BoonRestoreHonourOnPercentHealth",
     "Stats": [
       {
-        "RowIndex": 16451,
         "TableName": "Stats",
         "Id": "sanctum_heal_on_%_health_threshold"
       },
       {
-        "RowIndex": 16452,
         "TableName": "Stats",
         "Id": "sanctum_heal_on_%_health_%_to_heal"
       }
@@ -1674,7 +1577,6 @@
     "Unk005": 0,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -1688,8 +1590,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -1703,7 +1605,6 @@
     "Id": "AfflictionHideRoomAll",
     "Stats": [
       {
-        "RowIndex": 16583,
         "TableName": "Stats",
         "Id": "sanctum_hide_room_all"
       }
@@ -1716,7 +1617,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -1730,8 +1630,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1745,7 +1645,6 @@
     "Id": "AfflictionHideRoomEncounter",
     "Stats": [
       {
-        "RowIndex": 16584,
         "TableName": "Stats",
         "Id": "sanctum_hide_room_encounter"
       }
@@ -1758,7 +1657,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1772,8 +1670,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1787,7 +1685,6 @@
     "Id": "AfflictionHideRoomReward",
     "Stats": [
       {
-        "RowIndex": 16585,
         "TableName": "Stats",
         "Id": "sanctum_hide_room_reward"
       }
@@ -1800,7 +1697,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1814,8 +1710,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1829,7 +1725,6 @@
     "Id": "AfflictionHideRoomAffliction",
     "Stats": [
       {
-        "RowIndex": 16586,
         "TableName": "Stats",
         "Id": "sanctum_hide_room_curse"
       }
@@ -1842,7 +1737,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -1856,8 +1750,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1871,7 +1765,6 @@
     "Id": "AfflictionHonurLossIsFatal3",
     "Stats": [
       {
-        "RowIndex": 16599,
         "TableName": "Stats",
         "Id": "sanctum_losing_honour_is_fatal"
       }
@@ -1884,12 +1777,10 @@
     "Unk005": 5,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 43,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionHonourLossIsFatal2"
     },
@@ -1902,8 +1793,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -1917,7 +1808,6 @@
     "Id": "AfflictionHonourLossIsFatal2",
     "Stats": [
       {
-        "RowIndex": 16599,
         "TableName": "Stats",
         "Id": "sanctum_losing_honour_is_fatal"
       }
@@ -1930,12 +1820,10 @@
     "Unk005": 5,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
     "NextEffect": {
-      "RowIndex": 44,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionHonourLossIsFatal1"
     },
@@ -1948,12 +1836,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 42,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionHonurLossIsFatal3"
     },
@@ -1967,7 +1854,6 @@
     "Id": "AfflictionHonourLossIsFatal1",
     "Stats": [
       {
-        "RowIndex": 16599,
         "TableName": "Stats",
         "Id": "sanctum_losing_honour_is_fatal"
       }
@@ -1980,7 +1866,6 @@
     "Unk005": 5,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -1994,12 +1879,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": {
-      "RowIndex": 42,
       "TableName": "SanctumPersistentEffects",
       "Id": "AfflictionHonurLossIsFatal3"
     },
@@ -2013,7 +1897,6 @@
     "Id": "BoonDefyDeathWithLessLife",
     "Stats": [
       {
-        "RowIndex": 20213,
         "TableName": "Stats",
         "Id": "sanctum_revive_once_with_50percent_life_and_es"
       }
@@ -2026,7 +1909,6 @@
     "Unk005": 12,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -2040,8 +1922,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2055,7 +1937,6 @@
     "Id": "PenaltyDefiedDeathWithLessHonour",
     "Stats": [
       {
-        "RowIndex": 20982,
         "TableName": "Stats",
         "Id": "sanctum_max_honour_+%_final_from_death_defy_boon"
       }
@@ -2068,7 +1949,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -2082,7 +1962,6 @@
     "Unk015": [],
     "Guard": [],
     "FirstEffect": {
-      "RowIndex": 45,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonDefyDeathWithLessLife"
     },
@@ -2096,7 +1975,6 @@
     "Id": "BoonDefyDeath",
     "Stats": [
       {
-        "RowIndex": 20215,
         "TableName": "Stats",
         "Id": "sanctum_revive_once"
       }
@@ -2109,7 +1987,6 @@
     "Unk005": 2,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -2123,8 +2000,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2138,7 +2015,6 @@
     "Id": "BoonPreventMinorAfflictions",
     "Stats": [
       {
-        "RowIndex": 16596,
         "TableName": "Stats",
         "Id": "sanctum_prevent_minor_afflictions"
       }
@@ -2151,7 +2027,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -2165,8 +2040,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2180,7 +2055,6 @@
     "Id": "AfflictionPreventBoons",
     "Stats": [
       {
-        "RowIndex": 16597,
         "TableName": "Stats",
         "Id": "sanctum_prevent_boons"
       }
@@ -2193,7 +2067,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -2207,8 +2080,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -2222,7 +2095,6 @@
     "Id": "BoonImmuneForNextRoom",
     "Stats": [
       {
-        "RowIndex": 19321,
         "TableName": "Stats",
         "Id": "map_player_base_cannot_be_damaged"
       }
@@ -2235,7 +2107,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2249,8 +2120,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2264,7 +2135,6 @@
     "Id": "AfflictionLose%LifeAndEnergyShieldOnRoomCompletion",
     "Stats": [
       {
-        "RowIndex": 17035,
         "TableName": "Stats",
         "Id": "sanctum_take_damage_on_room_completion"
       }
@@ -2277,7 +2147,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -2291,8 +2160,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -2306,12 +2175,10 @@
     "Id": "AfflictionNoMinimap",
     "Stats": [
       {
-        "RowIndex": 16661,
         "TableName": "Stats",
         "Id": "sanctum_hide_minimap"
       },
       {
-        "RowIndex": 16666,
         "TableName": "Stats",
         "Id": "map_player_light_radius_+%"
       }
@@ -2325,7 +2192,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -2339,8 +2205,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -2354,7 +2220,6 @@
     "Id": "AfflictionCannotGainSacredWater",
     "Stats": [
       {
-        "RowIndex": 16662,
         "TableName": "Stats",
         "Id": "sanctum_cannot_gain_gold"
       }
@@ -2367,7 +2232,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -2381,8 +2245,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -2396,7 +2260,6 @@
     "Id": "AfflictionDamageTakenOnLowLife",
     "Stats": [
       {
-        "RowIndex": 20679,
         "TableName": "Stats",
         "Id": "map_player_damage_taken_+%_on_low_life"
       }
@@ -2409,7 +2272,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -2423,8 +2285,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -2438,7 +2300,6 @@
     "Id": "BoonDoubleSacredWaterThisFloor",
     "Stats": [
       {
-        "RowIndex": 16664,
         "TableName": "Stats",
         "Id": "sanctum_double_gold_this_floor"
       }
@@ -2451,7 +2312,6 @@
     "Unk005": 4,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2465,8 +2325,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2480,7 +2340,6 @@
     "Id": "BoonDoubleSacredWater",
     "Stats": [
       {
-        "RowIndex": 16663,
         "TableName": "Stats",
         "Id": "sanctum_double_gold"
       }
@@ -2493,7 +2352,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -2507,8 +2365,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2522,7 +2380,6 @@
     "Id": "AfflictionWrongRoom",
     "Stats": [
       {
-        "RowIndex": 16665,
         "TableName": "Stats",
         "Id": "sanctum_wrong_room_%_chance"
       }
@@ -2535,7 +2392,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -2549,8 +2405,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -2564,7 +2420,6 @@
     "Id": "AfflictionNoHonourRecoveredThisFloor",
     "Stats": [
       {
-        "RowIndex": 16394,
         "TableName": "Stats",
         "Id": "sanctum_cannot_restore_honour"
       }
@@ -2577,7 +2432,6 @@
     "Unk005": 3,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -2591,8 +2445,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -2606,7 +2460,6 @@
     "Id": "BoonRevealWholeFloor",
     "Stats": [
       {
-        "RowIndex": 16668,
         "TableName": "Stats",
         "Id": "sanctum_reveal_full_floor"
       }
@@ -2619,7 +2472,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -2633,8 +2485,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2648,7 +2500,6 @@
     "Id": "BoonTrapSpeed",
     "Stats": [
       {
-        "RowIndex": 16342,
         "TableName": "Stats",
         "Id": "sanctum_hazards_are_slower"
       }
@@ -2661,7 +2512,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2675,8 +2525,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2690,7 +2540,6 @@
     "Id": "BoonMonsterReducedActionSpeed",
     "Stats": [
       {
-        "RowIndex": 16901,
         "TableName": "Stats",
         "Id": "map_monsters_action_speed_-%"
       }
@@ -2703,7 +2552,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2717,8 +2565,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2737,7 +2585,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2751,8 +2598,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2766,7 +2613,6 @@
     "Id": "BoonMonsterReducedMaximumLife",
     "Stats": [
       {
-        "RowIndex": 955,
         "TableName": "Stats",
         "Id": "map_monsters_life_+%"
       }
@@ -2779,7 +2625,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2793,8 +2638,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2808,7 +2653,6 @@
     "Id": "BoonPlayerMoreDamage",
     "Stats": [
       {
-        "RowIndex": 16934,
         "TableName": "Stats",
         "Id": "map_player_damage_+%_final_from_sanctum_boon"
       }
@@ -2821,7 +2665,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2835,8 +2678,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2850,7 +2693,6 @@
     "Id": "BoonInstaKillGuards10",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -2863,7 +2705,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2877,8 +2718,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -2892,7 +2733,6 @@
     "Id": "BoonInstaKillGuards9",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -2905,7 +2745,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2919,12 +2758,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -2938,7 +2776,6 @@
     "Id": "BoonInstaKillGuards8",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -2951,7 +2788,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -2965,12 +2801,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -2984,7 +2819,6 @@
     "Id": "BoonInstaKillGuards7",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -2997,7 +2831,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3011,12 +2844,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -3030,7 +2862,6 @@
     "Id": "BoonInstaKillGuards6",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -3043,7 +2874,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3057,12 +2887,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -3076,7 +2905,6 @@
     "Id": "BoonInstaKillGuards5",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -3089,7 +2917,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3103,12 +2930,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -3122,7 +2948,6 @@
     "Id": "BoonInstaKillGuards4",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -3135,7 +2960,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3149,12 +2973,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -3168,7 +2991,6 @@
     "Id": "BoonInstaKillGuards3",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -3181,7 +3003,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3195,12 +3016,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -3214,7 +3034,6 @@
     "Id": "BoonInstaKillGuards2",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -3227,7 +3046,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3241,12 +3059,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -3260,7 +3077,6 @@
     "Id": "BoonInstaKillGuards1",
     "Stats": [
       {
-        "RowIndex": 16756,
         "TableName": "Stats",
         "Id": "sanctum_kill_sanctum_guards_on_hit"
       }
@@ -3273,7 +3089,6 @@
     "Unk005": 9,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3287,12 +3102,11 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": {
-      "RowIndex": 65,
       "TableName": "SanctumPersistentEffects",
       "Id": "BoonInstaKillGuards10"
     },
@@ -3306,7 +3120,6 @@
     "Id": "BoonIncreasedRelicEffect",
     "Stats": [
       {
-        "RowIndex": 16788,
         "TableName": "Stats",
         "Id": "sanctum_non_unique_relic_effect_+%"
       }
@@ -3319,7 +3132,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3333,8 +3145,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3348,7 +3160,6 @@
     "Id": "BoonHonourRestoredOnEnterBossRoom",
     "Stats": [
       {
-        "RowIndex": 16858,
         "TableName": "Stats",
         "Id": "sanctum_restore_scaled_honour_on_entering_boss_room"
       }
@@ -3361,7 +3172,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3375,8 +3185,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3390,7 +3200,6 @@
     "Id": "BoonDuplicateARandomDeferredReward",
     "Stats": [
       {
-        "RowIndex": 20180,
         "TableName": "Stats",
         "Id": "sanctum_keys_are_duplicated_on_pickup"
       }
@@ -3403,7 +3212,6 @@
     "Unk005": 11,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3427,7 +3235,6 @@
     "Id": "BoonMaximumHonour",
     "Stats": [
       {
-        "RowIndex": 20983,
         "TableName": "Stats",
         "Id": "sanctum_max_honour_+%_final_from_boon"
       }
@@ -3440,7 +3247,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3454,8 +3260,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3469,7 +3275,6 @@
     "Id": "BoonRandomMinorBoonOnFountainUse",
     "Stats": [
       {
-        "RowIndex": 16744,
         "TableName": "Stats",
         "Id": "sanctum_gain_random_minor_boon_on_fountain_use"
       }
@@ -3482,7 +3287,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -3496,8 +3300,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3511,7 +3315,6 @@
     "Id": "BoonRestoreHonourOnFountainUse",
     "Stats": [
       {
-        "RowIndex": 16746,
         "TableName": "Stats",
         "Id": "sanctum_restore_scaled_honour_on_fountain_use"
       }
@@ -3524,7 +3327,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3538,8 +3340,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3553,7 +3355,6 @@
     "Id": "BoonNextMinorBoonConvertedToMajor",
     "Stats": [
       {
-        "RowIndex": 16740,
         "TableName": "Stats",
         "Id": "sanctum_next_minor_boon_converted_to_major_boon"
       }
@@ -3566,7 +3367,6 @@
     "Unk005": 8,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3580,8 +3380,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3595,7 +3395,6 @@
     "Id": "BoonTrapsReducedDamage",
     "Stats": [
       {
-        "RowIndex": 19330,
         "TableName": "Stats",
         "Id": "map_sanctum_traps_damage_+%"
       }
@@ -3608,7 +3407,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3622,8 +3420,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3637,7 +3435,6 @@
     "Id": "BoonNextMerchantItemFree",
     "Stats": [
       {
-        "RowIndex": 16859,
         "TableName": "Stats",
         "Id": "sanctum_next_merchant_purchase_is_free"
       }
@@ -3650,7 +3447,6 @@
     "Unk005": 10,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3664,8 +3460,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3679,7 +3475,6 @@
     "Id": "BoonCanRerollMerchantShop",
     "Stats": [
       {
-        "RowIndex": 16860,
         "TableName": "Stats",
         "Id": "sanctum_merchant_enable_reroll"
       }
@@ -3692,7 +3487,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3706,8 +3500,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3721,7 +3515,6 @@
     "Id": "BoonGoldPerRoomRemovedAtMerchant",
     "Stats": [
       {
-        "RowIndex": 16819,
         "TableName": "Stats",
         "Id": "sanctum_gold_%_interest_on_room_completion"
       }
@@ -3734,7 +3527,6 @@
     "Unk005": 10,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3748,8 +3540,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3763,7 +3555,6 @@
     "Id": "BoonDuplicateAllKeyFound",
     "Stats": [
       {
-        "RowIndex": 20180,
         "TableName": "Stats",
         "Id": "sanctum_keys_are_duplicated_on_pickup"
       }
@@ -3776,7 +3567,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -3800,7 +3590,6 @@
     "Id": "BoonNextAfflictionConvertedToMinorBoon",
     "Stats": [
       {
-        "RowIndex": 16742,
         "TableName": "Stats",
         "Id": "sanctum_next_affliction_converted_to_minor_boon"
       }
@@ -3813,7 +3602,6 @@
     "Unk005": 7,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 4,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorBoon"
     },
@@ -3827,8 +3615,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3842,7 +3630,6 @@
     "Id": "BoonMoreDefences",
     "Stats": [
       {
-        "RowIndex": 18484,
         "TableName": "Stats",
         "Id": "map_player_global_defences_+%_final_from_sanctum_boon"
       }
@@ -3855,7 +3642,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 2,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorBoon"
     },
@@ -3869,8 +3655,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8942,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8942
       }
     ],
     "FirstEffect": null,
@@ -3884,7 +3670,6 @@
     "Id": "AfflictionReducedEffectOfRelics",
     "Stats": [
       {
-        "RowIndex": 16788,
         "TableName": "Stats",
         "Id": "sanctum_non_unique_relic_effect_+%"
       }
@@ -3897,7 +3682,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -3911,8 +3695,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -3931,7 +3715,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -3945,8 +3728,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -3960,7 +3743,6 @@
     "Id": "AfflictionMerchantFewerChoices",
     "Stats": [
       {
-        "RowIndex": 16817,
         "TableName": "Stats",
         "Id": "sanctum_merchant_options_+%"
       }
@@ -3973,7 +3755,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -3987,8 +3768,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4002,7 +3783,6 @@
     "Id": "AfflictionAfflictionOnGainAffliction",
     "Stats": [
       {
-        "RowIndex": 16743,
         "TableName": "Stats",
         "Id": "sanctum_gain_random_minor_affliction_on_gaining_affliction"
       }
@@ -4015,7 +3795,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4029,8 +3808,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4044,7 +3823,6 @@
     "Id": "AfflictionAfflictionOnUseFountain",
     "Stats": [
       {
-        "RowIndex": 16745,
         "TableName": "Stats",
         "Id": "sanctum_gain_random_minor_affliction_on_fountain_use"
       }
@@ -4057,7 +3835,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4071,8 +3848,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4086,7 +3863,6 @@
     "Id": "AfflictionMonstersBindingChainsOnHit",
     "Stats": [
       {
-        "RowIndex": 16904,
         "TableName": "Stats",
         "Id": "map_monsters_binding_chains_for_X_seconds_on_hit"
       }
@@ -4099,7 +3875,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4113,8 +3888,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4128,7 +3903,6 @@
     "Id": "AfflictionMonstersVolatileOnDeath",
     "Stats": [
       {
-        "RowIndex": 16910,
         "TableName": "Stats",
         "Id": "map_sanctum_guards_volatile_on_death"
       }
@@ -4141,7 +3915,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4155,8 +3928,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4170,7 +3943,6 @@
     "Id": "AfflictionMonstersEnfeebled",
     "Stats": [
       {
-        "RowIndex": 965,
         "TableName": "Stats",
         "Id": "map_player_has_level_X_enfeeble"
       }
@@ -4183,7 +3955,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4197,8 +3968,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4212,7 +3983,6 @@
     "Id": "AfflictionMonstersKnockback",
     "Stats": [
       {
-        "RowIndex": 16902,
         "TableName": "Stats",
         "Id": "map_monsters_knockback"
       }
@@ -4225,7 +3995,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4239,8 +4008,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4254,7 +4023,6 @@
     "Id": "AfflictionLessMaxHonour",
     "Stats": [
       {
-        "RowIndex": 20984,
         "TableName": "Stats",
         "Id": "sanctum_max_honour_+%_final_from_curse"
       }
@@ -4267,7 +4035,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4281,8 +4048,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4296,12 +4063,10 @@
     "Id": "AfflictionMonsterSpeed",
     "Stats": [
       {
-        "RowIndex": 5454,
         "TableName": "Stats",
         "Id": "map_monster_attack_cast_and_movement_speed_+%"
       },
       {
-        "RowIndex": 5078,
         "TableName": "Stats",
         "Id": "map_monsters_movement_speed_cannot_be_reduced_below_base"
       }
@@ -4315,7 +4080,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4329,8 +4093,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4344,7 +4108,6 @@
     "Id": "AfflictionGuardsHavePet",
     "Stats": [
       {
-        "RowIndex": 16908,
         "TableName": "Stats",
         "Id": "map_sanctum_guards_have_pets"
       }
@@ -4357,7 +4120,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4371,8 +4133,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4391,7 +4153,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4405,8 +4166,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4420,7 +4181,6 @@
     "Id": "AfflictionChestsExplodeWhenOpened",
     "Stats": [
       {
-        "RowIndex": 16909,
         "TableName": "Stats",
         "Id": "map_sanctum_chests_explode"
       }
@@ -4433,7 +4193,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4447,8 +4206,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4462,7 +4221,6 @@
     "Id": "AfflictionReducedMovementSpeed",
     "Stats": [
       {
-        "RowIndex": 5555,
         "TableName": "Stats",
         "Id": "map_players_movement_speed_+%"
       }
@@ -4475,7 +4233,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4489,8 +4246,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4504,7 +4261,6 @@
     "Id": "AfflictionRelicsHaveNoEffect",
     "Stats": [
       {
-        "RowIndex": 16789,
         "TableName": "Stats",
         "Id": "sanctum_relics_disabled"
       }
@@ -4517,7 +4273,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -4531,8 +4286,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4546,7 +4301,6 @@
     "Id": "AfflictionMerchantOneItem",
     "Stats": [
       {
-        "RowIndex": 16818,
         "TableName": "Stats",
         "Id": "sanctum_merchant_only_one_option"
       }
@@ -4559,7 +4313,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4573,8 +4326,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4588,7 +4341,6 @@
     "Id": "AfflictionMonsterPetrifyOnHit",
     "Stats": [
       {
-        "RowIndex": 16903,
         "TableName": "Stats",
         "Id": "map_monsters_petrification_for_X_seconds_on_hit"
       }
@@ -4601,7 +4353,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -4615,8 +4366,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4630,7 +4381,6 @@
     "Id": "AfflictionBoonConveretedToMinorAffliction",
     "Stats": [
       {
-        "RowIndex": 16741,
         "TableName": "Stats",
         "Id": "sanctum_next_boon_converted_to_minor_affliction"
       }
@@ -4643,7 +4393,6 @@
     "Unk005": 6,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -4657,8 +4406,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4672,7 +4421,6 @@
     "Id": "AfflictionNoEvasion",
     "Stats": [
       {
-        "RowIndex": 19324,
         "TableName": "Stats",
         "Id": "map_player_no_evasion_rating"
       }
@@ -4685,7 +4433,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4699,8 +4446,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4714,7 +4461,6 @@
     "Id": "AfflictionNoArmour",
     "Stats": [
       {
-        "RowIndex": 19322,
         "TableName": "Stats",
         "Id": "map_player_no_physical_damage_reduction_rating"
       }
@@ -4727,7 +4473,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4741,8 +4486,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4756,7 +4501,6 @@
     "Id": "AfflictionNoEnergyShield",
     "Stats": [
       {
-        "RowIndex": 19323,
         "TableName": "Stats",
         "Id": "map_player_no_energy_shield"
       }
@@ -4769,7 +4513,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 1,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MinorCurse"
     },
@@ -4783,8 +4526,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4798,7 +4541,6 @@
     "Id": "AfflictionNoDefences",
     "Stats": [
       {
-        "RowIndex": 19326,
         "TableName": "Stats",
         "Id": "map_player_defences_are_zero"
       }
@@ -4811,7 +4553,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 3,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "MajorCurse"
     },
@@ -4825,8 +4566,8 @@
     "Unk015": [],
     "Guard": [
       {
-        "RowIndex": 8943,
-        "TableName": "MonsterVarieties"
+        "TableName": "MonsterVarieties",
+        "RowIndex": 8943
       }
     ],
     "FirstEffect": null,
@@ -4840,12 +4581,10 @@
     "Id": "PactOpenChestsWithNoKey",
     "Stats": [
       {
-        "RowIndex": 20683,
         "TableName": "Stats",
         "Id": "sanctum_open_chests_without_key_each_reward_room"
       },
       {
-        "RowIndex": 20684,
         "TableName": "Stats",
         "Id": "sanctum_take_damage_on_opening_chest_without_key"
       }
@@ -4859,7 +4598,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 5,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "Pact"
     },
@@ -4883,12 +4621,10 @@
     "Id": "PactEasierBosses",
     "Stats": [
       {
-        "RowIndex": 16609,
         "TableName": "Stats",
         "Id": "sanctum_damage_taken_+%_final_in_non_boss_encounters"
       },
       {
-        "RowIndex": 16610,
         "TableName": "Stats",
         "Id": "sanctum_damage_taken_+%_final_in_boss_encounters"
       }
@@ -4902,7 +4638,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 5,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "Pact"
     },
@@ -4926,12 +4661,10 @@
     "Id": "PactNoGoldGainReducedPrices",
     "Stats": [
       {
-        "RowIndex": 18202,
         "TableName": "Stats",
         "Id": "sanctum_merchant_gold_cost_+%_final"
       },
       {
-        "RowIndex": 16392,
         "TableName": "Stats",
         "Id": "sanctum_no_gold_from_monsters"
       }
@@ -4945,7 +4678,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 5,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "Pact"
     },
@@ -4969,12 +4701,10 @@
     "Id": "PactKeyOnAffliction",
     "Stats": [
       {
-        "RowIndex": 21079,
         "TableName": "Stats",
         "Id": "sanctum_gain_random_key_on_gaining_affliction"
       },
       {
-        "RowIndex": 16397,
         "TableName": "Stats",
         "Id": "sanctum_honour_restored_+%"
       }
@@ -4988,7 +4718,6 @@
     "Unk005": 13,
     "Unk006": true,
     "EffectCategory": {
-      "RowIndex": 5,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "Pact"
     },
@@ -5017,7 +4746,6 @@
     "Unk005": 13,
     "Unk006": false,
     "EffectCategory": {
-      "RowIndex": 0,
       "TableName": "SanctumPersistentEffectCategories",
       "Id": "None"
     },

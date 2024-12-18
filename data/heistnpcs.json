@@ -1,28 +1,23 @@
 [
   {
     "NPCsKey": {
-      "RowIndex": 127,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/Lockpick1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 70,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/Deepsomatic_"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 0,
         "TableName": "HeistJobs",
         "Id": "Lockpicking"
       },
       {
-        "RowIndex": 2,
         "TableName": "HeistJobs",
         "Id": "Perception"
       },
       {
-        "RowIndex": 6,
         "TableName": "HeistJobs",
         "Id": "Agility"
       }
@@ -30,8 +25,8 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/KarstCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 113,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 113
       }
     ],
     "StatValues": [
@@ -52,48 +47,41 @@
       -5.0
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 112,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistLockPick1"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/KarstIcon",
     "HeistJobsKey": {
-      "RowIndex": 0,
       "TableName": "HeistJobs",
       "Id": "Lockpicking"
     },
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7158,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_1"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Karst/Karst.ao",
     "Unk019": {
-      "RowIndex": 45,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 45
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 128,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/Interrogator1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 61,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/D1"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 4,
         "TableName": "HeistJobs",
         "Id": "CounterThaumaturge"
       },
       {
-        "RowIndex": 7,
         "TableName": "HeistJobs",
         "Id": "Deception"
       }
@@ -101,12 +89,12 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/NilesCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 57,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 57
       },
       {
-        "RowIndex": 106,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 106
       }
     ],
     "StatValues": [
@@ -123,66 +111,57 @@
     "Unk010": 742,
     "Unk011": 50,
     "HeistNPCsKey": {
-      "RowIndex": 2,
-      "TableName": "HeistNPCs"
+      "TableName": "HeistNPCs",
+      "RowIndex": 2
     },
     "StatValues2": [
       0.0,
       0.0
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 113,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistInterrogator1"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/NilesIcon",
     "HeistJobsKey": {
-      "RowIndex": 4,
       "TableName": "HeistJobs",
       "Id": "CounterThaumaturge"
     },
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7159,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_2"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Niles/Niles.ao",
     "Unk019": {
-      "RowIndex": 46,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 46
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 129,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/Soldier1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 62,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/D10"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 0,
         "TableName": "HeistJobs",
         "Id": "Lockpicking"
       },
       {
-        "RowIndex": 1,
         "TableName": "HeistJobs",
         "Id": "BruteForce"
       },
       {
-        "RowIndex": 3,
         "TableName": "HeistJobs",
         "Id": "Demolition"
       },
       {
-        "RowIndex": 8,
         "TableName": "HeistJobs",
         "Id": "Engineering"
       }
@@ -190,12 +169,12 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/HuckCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 108,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 108
       },
       {
-        "RowIndex": 134,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 134
       }
     ],
     "StatValues": [
@@ -214,15 +193,14 @@
     "Unk010": 739,
     "Unk011": 50,
     "HeistNPCsKey": {
-      "RowIndex": 0,
-      "TableName": "HeistNPCs"
+      "TableName": "HeistNPCs",
+      "RowIndex": 0
     },
     "StatValues2": [
       0.0,
       5.0
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 114,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistSoldier1"
     },
@@ -230,36 +208,31 @@
     "HeistJobsKey": null,
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7160,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_3"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Huck/Huck.ao",
     "Unk019": {
-      "RowIndex": 47,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 47
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 130,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/HeavyLifter1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 63,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/D100"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 1,
         "TableName": "HeistJobs",
         "Id": "BruteForce"
       },
       {
-        "RowIndex": 3,
         "TableName": "HeistJobs",
         "Id": "Demolition"
       }
@@ -267,8 +240,8 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/TibbsCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 58,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 58
       }
     ],
     "StatValues": [
@@ -288,48 +261,41 @@
       0.2
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 115,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistHeavyLifter1"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/TibbsIcon",
     "HeistJobsKey": {
-      "RowIndex": 1,
       "TableName": "HeistJobs",
       "Id": "BruteForce"
     },
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7161,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_4"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Tibbs/Tibbs.ao",
     "Unk019": {
-      "RowIndex": 48,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 48
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 131,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/Detector1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 64,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/D"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 2,
         "TableName": "HeistJobs",
         "Id": "Perception"
       },
       {
-        "RowIndex": 4,
         "TableName": "HeistJobs",
         "Id": "CounterThaumaturge"
       }
@@ -337,12 +303,12 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/NenetCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 109,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 109
       },
       {
-        "RowIndex": 114,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 114
       }
     ],
     "StatValues": [
@@ -359,61 +325,53 @@
     "Unk010": 741,
     "Unk011": 50,
     "HeistNPCsKey": {
-      "RowIndex": 6,
-      "TableName": "HeistNPCs"
+      "TableName": "HeistNPCs",
+      "RowIndex": 6
     },
     "StatValues2": [
       0.0,
       -3.0
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 117,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistDetector1"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/NenetIcon",
     "HeistJobsKey": {
-      "RowIndex": 2,
       "TableName": "HeistJobs",
       "Id": "Perception"
     },
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7162,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_5"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Nenet/Nenet.ao",
     "Unk019": {
-      "RowIndex": 49,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 49
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 132,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/Demolitionist1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 65,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/bd"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 3,
         "TableName": "HeistJobs",
         "Id": "Demolition"
       },
       {
-        "RowIndex": 5,
         "TableName": "HeistJobs",
         "Id": "TrapDisarmament"
       },
       {
-        "RowIndex": 8,
         "TableName": "HeistJobs",
         "Id": "Engineering"
       }
@@ -421,12 +379,12 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/VinderiCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 115,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 115
       },
       {
-        "RowIndex": 56,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 56
       }
     ],
     "StatValues": [
@@ -444,61 +402,53 @@
     "Unk010": 743,
     "Unk011": 50,
     "HeistNPCsKey": {
-      "RowIndex": 1,
-      "TableName": "HeistNPCs"
+      "TableName": "HeistNPCs",
+      "RowIndex": 1
     },
     "StatValues2": [
       4.0,
       2.0
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 118,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistDemolitionist1"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/VinderiIcon",
     "HeistJobsKey": {
-      "RowIndex": 3,
       "TableName": "HeistJobs",
       "Id": "Demolition"
     },
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7163,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_6"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Vinderi/Vinderi.ao",
     "Unk019": {
-      "RowIndex": 50,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 50
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 133,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/CatBurglar1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 71,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/DeepsomaticLarge"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 6,
         "TableName": "HeistJobs",
         "Id": "Agility"
       },
       {
-        "RowIndex": 0,
         "TableName": "HeistJobs",
         "Id": "Lockpicking"
       },
       {
-        "RowIndex": 5,
         "TableName": "HeistJobs",
         "Id": "TrapDisarmament"
       }
@@ -506,12 +456,12 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/TullinaCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 110,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 110
       },
       {
-        "RowIndex": 116,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 116
       }
     ],
     "StatValues": [
@@ -529,61 +479,53 @@
     "Unk010": 740,
     "Unk011": 50,
     "HeistNPCsKey": {
-      "RowIndex": 3,
-      "TableName": "HeistNPCs"
+      "TableName": "HeistNPCs",
+      "RowIndex": 3
     },
     "StatValues2": [
       4.0,
       -2.0
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 119,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistCatBurglar1"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/TullinaIcon",
     "HeistJobsKey": {
-      "RowIndex": 6,
       "TableName": "HeistJobs",
       "Id": "Agility"
     },
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7164,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_7"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Tullina/Tullina.ao",
     "Unk019": {
-      "RowIndex": 51,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 51
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 134,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/Illusionist1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 66,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/Placeholder1"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 7,
         "TableName": "HeistJobs",
         "Id": "Deception"
       },
       {
-        "RowIndex": 2,
         "TableName": "HeistJobs",
         "Id": "Perception"
       },
       {
-        "RowIndex": 4,
         "TableName": "HeistJobs",
         "Id": "CounterThaumaturge"
       }
@@ -591,12 +533,12 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/GiannaCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 107,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 107
       },
       {
-        "RowIndex": 111,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 111
       }
     ],
     "StatValues": [
@@ -614,56 +556,49 @@
     "Unk010": 744,
     "Unk011": 50,
     "HeistNPCsKey": {
-      "RowIndex": 5,
-      "TableName": "HeistNPCs"
+      "TableName": "HeistNPCs",
+      "RowIndex": 5
     },
     "StatValues2": [
       0.0,
       -5.0
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 121,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistIllusionist1_"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/GiannaIcon",
     "HeistJobsKey": {
-      "RowIndex": 7,
       "TableName": "HeistJobs",
       "Id": "Deception"
     },
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7165,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_8"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Gianna/Gianna.ao",
     "Unk019": {
-      "RowIndex": 52,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 52
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 135,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/Engineer1"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 67,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/Placeholder2"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 8,
         "TableName": "HeistJobs",
         "Id": "Engineering"
       },
       {
-        "RowIndex": 5,
         "TableName": "HeistJobs",
         "Id": "TrapDisarmament"
       }
@@ -671,12 +606,12 @@
     "PortraitFile": "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/IslaCharacterPortrait",
     "HeistNPCStatsKeys": [
       {
-        "RowIndex": 16,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 16
       },
       {
-        "RowIndex": 117,
-        "TableName": "HeistNPCStats"
+        "TableName": "HeistNPCStats",
+        "RowIndex": 117
       }
     ],
     "StatValues": [
@@ -698,43 +633,37 @@
       5.0
     ],
     "Ally_NPCsKey": {
-      "RowIndex": 122,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistEngineer1"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/IslaIcon",
     "HeistJobsKey": {
-      "RowIndex": 8,
       "TableName": "HeistJobs",
       "Id": "Engineering"
     },
     "Equip_AchievementItemsKeys": [
       {
-        "RowIndex": 7166,
         "TableName": "AchievementItems",
         "Id": "HeistEquipHeistRogues1_9"
       }
     ],
     "AOFile": "Metadata/NPC/League/Heist/Isla/Isla.ao",
     "Unk019": {
-      "RowIndex": 53,
-      "TableName": null
+      "TableName": null,
+      "RowIndex": 53
     }
   },
   {
     "NPCsKey": {
-      "RowIndex": 125,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/Driver"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 68,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/Placeholder3"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 2,
         "TableName": "HeistJobs",
         "Id": "Perception"
       }
@@ -753,13 +682,11 @@
     "HeistNPCsKey": null,
     "StatValues2": [],
     "Ally_NPCsKey": {
-      "RowIndex": 143,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistAdiyah"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/AdiyahIcon",
     "HeistJobsKey": {
-      "RowIndex": 2,
       "TableName": "HeistJobs",
       "Id": "Perception"
     },
@@ -769,18 +696,15 @@
   },
   {
     "NPCsKey": {
-      "RowIndex": 123,
       "TableName": "NPCs",
       "Id": "Metadata/NPC/League/Heist/TheBoss"
     },
     "MonsterVarietiesKey": {
-      "RowIndex": 69,
       "TableName": "MonsterVarieties",
       "Id": "Metadata/Monsters/Dummy/Placeholder4"
     },
     "SkillLevel_HeistJobsKeys": [
       {
-        "RowIndex": 0,
         "TableName": "HeistJobs",
         "Id": "Lockpicking"
       }
@@ -799,13 +723,11 @@
     "HeistNPCsKey": null,
     "StatValues2": [],
     "Ally_NPCsKey": {
-      "RowIndex": 144,
       "TableName": "NPCs",
       "Id": "Metadata/Monsters/LeagueHeist/NPCAllies/HeistKurai"
     },
     "ActiveNPCIcon": "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/KuraiIcon",
     "HeistJobsKey": {
-      "RowIndex": 0,
       "TableName": "HeistJobs",
       "Id": "Lockpicking"
     },

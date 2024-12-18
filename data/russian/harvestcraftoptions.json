@@ -3,8 +3,8 @@
     "Id": "ReforgeFire",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftingfire>{огня}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "fire ON rare",
@@ -18,7 +18,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -29,8 +28,8 @@
     "Id": "ReforgeCold",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftingcold>{холода} ",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "cold ON rare",
@@ -44,7 +43,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -55,8 +53,8 @@
     "Id": "ReforgeLightning",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftinglightning>{молнии}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "lightning ON rare",
@@ -70,7 +68,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -81,8 +78,8 @@
     "Id": "ReforgePhysical",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая <craftingphysical>{физическое} свойство",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "physical ON rare",
@@ -96,7 +93,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -107,8 +103,8 @@
     "Id": "ReforgeLife",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftinglife>{здоровья}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "life ON rare",
@@ -122,7 +118,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -133,8 +128,8 @@
     "Id": "ReforgeDefences",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftingdefences>{защиты}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "defences ON rare",
@@ -148,7 +143,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -159,8 +153,8 @@
     "Id": "ReforgeChaos",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftingchaos>{хаоса}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "chaos ON rare",
@@ -174,7 +168,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -185,8 +178,8 @@
     "Id": "ReforgeAttack",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftingattack>{атак}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "attack ON rare",
@@ -200,7 +193,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -211,8 +203,8 @@
     "Id": "ReforgeSpell",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftingcaster>{чар}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "caster ON rare",
@@ -226,7 +218,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -237,8 +228,8 @@
     "Id": "ReforgeSpeed",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftingspeed>{скорости}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "speed ON rare",
@@ -252,7 +243,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -263,8 +253,8 @@
     "Id": "ReforgeCritical",
     "Text": "<white>{Перековать} редкий предмет, наделяя его случайными свойствами, включая свойство <craftingcrit>{критического удара}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_mod",
     "Parameters": "critical ON rare",
@@ -278,7 +268,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -289,8 +278,8 @@
     "Id": "ReforgeMoreLikely",
     "Text": "<white>{Перековать редкий} предмет, при этом шанс появления свойств тех же типов значительно <white>{увеличен}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_current_tags_affinity_multiplier",
     "Parameters": "900",
@@ -304,7 +293,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -315,8 +303,8 @@
     "Id": "ReforgeLessLikely",
     "Text": "<white>{Перековать редкий} предмет, при этом шанс появления свойств тех же типов значительно <white>{уменьшен}",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_with_current_tags_affinity_multiplier",
     "Parameters": "-90",
@@ -330,7 +318,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -341,8 +328,8 @@
     "Id": "RerollCorruptedMap",
     "Text": "<white>{Потратить} редкую <white>{осквернённую карту}. Получить новую осквернённую карту такого же уровня и редкости.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "sacrifice_corrupted_map_for_new_corrupted_map",
     "Parameters": "",
@@ -356,7 +343,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -367,8 +353,8 @@
     "Id": "RerollFossils",
     "Text": "<white>{Обменять} стопку <white>{ископаемых} на стопку ископаемых другого типа. Размер новой стопки может быть меньше. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "delvefossils",
@@ -382,7 +368,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -393,8 +378,8 @@
     "Id": "RerollOils",
     "Text": "<white>{Обменять} стопку <white>{масел} на стопку масел другого цвета. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "mushrune",
@@ -408,7 +393,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -419,8 +403,8 @@
     "Id": "RerollCatalysts",
     "Text": "<white>{Обменять} стопку <white>{катализаторов} на стопку катализаторов другого типа. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "metamorphcatalystsspecial",
@@ -434,7 +418,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -445,8 +428,8 @@
     "Id": "RerollEssences",
     "Text": "<white>{Обменять} стопку <white>{Сущностей} на стопку Сущностей другого типа того же уровня. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "exchange_essences_for_other_essence_of_same_tier",
     "Parameters": "",
@@ -460,7 +443,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -471,8 +453,8 @@
     "Id": "RerollTimelessSplinters",
     "Text": "<white>{Обменять} стопку <white>{вневременных осколков} или <white>{вневременной знак} на стопку осколков или знаков другого типа. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "HarvestTimelessSplinterExchange HarvestTimelessEmblemExchange",
@@ -486,7 +468,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -497,8 +478,8 @@
     "Id": "RerollBreachSplinters",
     "Text": "<white>{Обменять} стопку <white>{осколков Разлома} или обычный либо безупречный <white>{камень Разлома} на осколки или камень Разлома другого типа. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "HarvestBreachSplinterExchange HarvestBreachStoneExchange\r\nHarvestBreachStoneExchange5",
@@ -512,7 +493,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -523,8 +503,8 @@
     "Id": "RerollScarabs",
     "Text": "<white>{Обменять} стопку <white>{скарабеев} на другую стопку скарабеев той же редкости. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "change_scarab_into_other_of_same_tier",
     "Parameters": "",
@@ -538,7 +518,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -549,8 +528,8 @@
     "Id": "RerollDeliriumOrbs",
     "Text": "<white>{Обменять} стопку <white>{сфер Делириума} на стопку сфер Делириума другого типа. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "afflictionorbs",
@@ -564,7 +543,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -575,8 +553,8 @@
     "Id": "RerollDivinationCards",
     "Text": "<white>{Обменять гадальную карту} на другую случайную гадальную карту",
     "Tier": {
-      "RowIndex": 0,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 0
     },
     "Command": "reroll_into_new_div_card",
     "Parameters": "",
@@ -590,7 +568,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -601,8 +578,8 @@
     "Id": "ChangeColdToFireResist",
     "Text": "<white>{Заменить} свойство, дарующее сопротивление <craftingcold>{холоду}, на свойство того же уровня, дарующее сопротивление <craftingfire>{огню}",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "convert_mod",
     "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold fire",
@@ -616,7 +593,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -627,8 +603,8 @@
     "Id": "ChangeLightningToFireResist",
     "Text": "<white>{Заменить} свойство, дарующее сопротивление <craftinglightning>{молнии}, на свойство того же уровня, дарующее сопротивление <craftingfire>{огню}",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "convert_mod",
     "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning fire",
@@ -642,7 +618,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -653,8 +628,8 @@
     "Id": "ChangeFireToColdResist",
     "Text": "<white>{Заменить} свойство, дарующее сопротивление <craftingfire>{огню}, на свойство того же уровня, дарующее сопротивление <craftingcold>{холоду}",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "convert_mod",
     "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire cold",
@@ -668,7 +643,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -679,8 +653,8 @@
     "Id": "ChangeLightningToColdResist",
     "Text": "<white>{Заменить} свойство, дарующее сопротивление <craftinglightning>{молнии}, на свойство того же уровня, дарующее сопротивление <craftingcold>{холоду}",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "convert_mod",
     "Parameters": "LightningResistance LightningResistanceAilments LightningResistanceForJewel LightningResistanceLeech MaximumLightningResistance LightningResistancePhysTakenAsLightning LightningResistancePrefix AfflictionJewelSmallPassivesGrantLightningRes CONVERT lightning cold",
@@ -694,7 +668,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -705,8 +678,8 @@
     "Id": "ChangeFireToLightningResist",
     "Text": "<white>{Заменить} свойство, дарующее сопротивление <craftingfire>{огню}, на свойство того же уровня, дарующее сопротивление <craftinglightning>{молнии}",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "convert_mod",
     "Parameters": "FireResistance FireResistanceAilments FireResistanceForJewel FireResistanceLeech MaximumFireResist FireResistancePhysTakenAsFire FireResistancePrefix AfflictionJewelSmallPassivesGrantFireRes CONVERT fire lightning",
@@ -720,7 +693,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -731,8 +703,8 @@
     "Id": "ChangeColdToLightningResist",
     "Text": "<white>{Заменить} свойство, дарующее сопротивление <craftingcold>{холоду}, на свойство того же уровня, дарующее сопротивление <craftinglightning>{молнии}",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "convert_mod",
     "Parameters": "ColdResistance ColdResistanceAilments ColdResistanceForJewel ColdResistanceLeech MaximumColdResist ColdResistancePhysTakenAsCold ColdResistancePrefix AfflictionJewelSmallPassivesGrantColdRes CONVERT cold lightning",
@@ -746,7 +718,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -757,8 +728,8 @@
     "Id": "FlaskDurationEnchant",
     "Text": "<white>{Зачаровать флакон} свойством, дарующим <enchanted>{увеличение длительности}. Сила эффекта уменьшается с каждым использованием",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_flask",
     "Parameters": "HarvestFlaskEnchantmentDurationLoweredOnUse1_",
@@ -772,7 +743,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -783,8 +753,8 @@
     "Id": "FlaskChargeEnchant",
     "Text": "<white>{Зачаровать флакон} свойством, дарующим <enchanted>{увеличение максимума зарядов}. Сила эффекта уменьшается с каждым использованием",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_flask",
     "Parameters": "HarvestFlaskEnchantmentMaximumChargesLoweredOnUse3_",
@@ -798,7 +768,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -809,8 +778,8 @@
     "Id": "FlaskEffectEnchant",
     "Text": "<white>{Зачаровать флакон} свойством, дарующим <enchanted>{усиление эффекта}. Сила эффекта уменьшается с каждым использованием",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_flask",
     "Parameters": "HarvestFlaskEnchantmentEffectLoweredOnUse2",
@@ -824,7 +793,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -835,8 +803,8 @@
     "Id": "FlaskReducedEnchant",
     "Text": "<white>{Зачаровать флакон} свойством, дарующим <enchanted>{уменьшение количества используемых зарядов}. Сила эффекта уменьшается с каждым использованием",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_flask",
     "Parameters": "HarvestFlaskEnchantmentChargesUsedLoweredOnUse4",
@@ -850,7 +818,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -861,8 +828,8 @@
     "Id": "RerollShaperFragment",
     "Text": "<white>{Обменять} стопку <white>{фрагментов Создателя} на стопку других случайных фрагментов Создателя. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "HarvestShaperFragmentExchange",
@@ -876,7 +843,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -887,8 +853,8 @@
     "Id": "RerollElderFragment",
     "Text": "<white>{Обменять} стопку <white>{фрагментов Древнего} на стопку других случайных фрагментов Древнего. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "HarvestElderFragmentExchange",
@@ -902,7 +868,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -913,8 +878,8 @@
     "Id": "RerollConquerorFragment",
     "Text": "<white>{Обменять} стопку <white>{фрагментов Завоевателя} на стопку других случайных фрагментов Завоевателя. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "HarvestConquerorFragmentExchange",
@@ -928,7 +893,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -939,8 +903,8 @@
     "Id": "RerollAtziriFragment",
     "Text": "<white>{Обменять} стопку {Смертных фрагментов} или <white>{фрагментов жертвы} на стопку других случайных фрагментов того же типа. Стоимость зависит от размера стопки.",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "exchange_item_in_set_for_other_item_in_set",
     "Parameters": "HarvestSacrificeFragmentExchange HarvestMortalSacrificeFragmentExchange",
@@ -954,7 +918,6 @@
     "Unk012": true,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -965,8 +928,8 @@
     "Id": "DivinationCardGamble",
     "Text": "<white>{Потратить} до половины колоды <white>{гадальных карт}, чтобы получить ту же самую карту в количестве от 0 до удвоенного числа потраченных карт",
     "Tier": {
-      "RowIndex": 1,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 1
     },
     "Command": "reroll_num_div_cards",
     "Parameters": "",
@@ -980,7 +943,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -991,8 +953,8 @@
     "Id": "MapNoSextantEnchant",
     "Text": "<white>{Зачаровать} неуникальную <white>{карту} свойством <enchanted>{«Карта с 50% шансом не расходует заряды секстантов»}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_mod_to_map",
     "Parameters": "sextant",
@@ -1006,7 +968,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1017,8 +978,8 @@
     "Id": "GemExperienceLens",
     "Text": "<white>{Потратить осквернённый камень}, чтобы получить 50% его опыта в виде <white>{линзы награнения}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "sacrifice_gem_for_currency",
     "Parameters": "experience 50",
@@ -1032,7 +993,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1043,8 +1003,8 @@
     "Id": "RerollInfluenceType",
     "Text": "<white>{Заменить} типы <white>{влияния} на обычном, волшебном или редком <white>{предмете} с влиянием, также <white>{перековывая} его и наделяя случайными свойствами",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "reroll_influence_types",
     "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre Quiver Gloves Boots Body_Armour Helmet Shield Amulet Ring Belt",
@@ -1058,7 +1018,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1069,8 +1028,8 @@
     "Id": "LifeBodyEnchant",
     "Text": "<white>{Зачаровать нательный доспех}. Качество не повышает защиту, но дарует <enchanted>{+1 к максимуму здоровья за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedLife",
@@ -1084,7 +1043,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1095,8 +1053,8 @@
     "Id": "ManaBodyEnchant",
     "Text": "<white>{Зачаровать нательный доспех}. Качество не повышает защиту, но дарует <enchanted>{+1 к максимуму маны за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIncreasedMana",
@@ -1110,7 +1068,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1121,8 +1078,8 @@
     "Id": "StrengthBodyEnchant",
     "Text": "<white>{Зачаровать нательный доспех}. Качество не повышает защиту, но дарует <enchanted>{+1 к силе за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityStrength",
@@ -1136,7 +1093,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1147,8 +1103,8 @@
     "Id": "DexterityBodyEnchant",
     "Text": "<white>{Зачаровать нательный доспех}. Качество не повышает защиту, но дарует <enchanted>{+1 к ловкости за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityDexterity",
@@ -1162,7 +1118,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1173,8 +1128,8 @@
     "Id": "IntelligenceBodyEnchant",
     "Text": "<white>{Зачаровать нательный доспех}. Качество не повышает защиту, но дарует <enchanted>{+1 к интеллекту за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityIntelligence_",
@@ -1188,7 +1143,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1199,8 +1153,8 @@
     "Id": "FireResistBodyEnchant",
     "Text": "<white>{Зачаровать нательный доспех}. Качество не повышает защиту, но дарует <enchanted>{+1% к сопротивлению огню за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityFireResistance",
@@ -1214,7 +1168,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1225,8 +1178,8 @@
     "Id": "ColdResistBodyEnchant",
     "Text": "<white>{Зачаровать нательный доспех}. Качество не повышает защиту, но дарует <enchanted>{+1% к сопротивлению холоду за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityColdResistance",
@@ -1240,7 +1193,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1251,8 +1203,8 @@
     "Id": "LightningResistBodyEnchant",
     "Text": "<white>{Зачаровать нательный доспех}. Качество не повышает защиту, но дарует <enchanted>{+1% к сопротивлению молнии за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Body_Armour ENCHANTS HarvestAlternateArmourQualityLightningResistance",
@@ -1266,7 +1218,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1277,8 +1228,8 @@
     "Id": "WeaponRangeEnchant",
     "Text": "<white>{Зачаровать оружие ближнего боя}. Качество не повышает его физический урон, но дарует <enchanted>{+1 к дальности оружия за 10% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Claw Dagger One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalMeleeWeaponRange_",
@@ -1292,7 +1243,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1303,8 +1253,8 @@
     "Id": "WeaponAreaEnchant",
     "Text": "<white>{Зачаровать оружие}. Качество не повышает его физический урон, но дарует <enchanted>{1% увеличение области действия за 4% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAreaOfEffect_",
@@ -1318,7 +1268,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1329,8 +1278,8 @@
     "Id": "WeaponAccuracyEnchant",
     "Text": "<white>{Зачаровать оружие}. Качество не повышает его физический урон, но дарует <enchanted>{1% увеличение меткости за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityAccuracyRatingIncrease_",
@@ -1344,7 +1293,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1355,8 +1303,8 @@
     "Id": "WeaponAttackSpeedEnchant",
     "Text": "<white>{Зачаровать оружие}. Качество не повышает его физический урон, но дарует <enchanted>{1% повышение скорости атаки за 8% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalIncreasedAttackSpeed",
@@ -1370,7 +1318,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1381,8 +1328,8 @@
     "Id": "WeaponCriticalEnchant",
     "Text": "<white>{Зачаровать оружие}. Качество не повышает его физический урон, но дарует <enchanted>{1% повышение шанса критического удара за 4% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityLocalCriticalStrikeChance__",
@@ -1396,7 +1343,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1407,8 +1353,8 @@
     "Id": "WeaponElementalEnchant",
     "Text": "<white>{Зачаровать оружие}. Качество не повышает его физический урон, но дарует <enchanted>{1% увеличение урона от стихий за 2% качества}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "add_enchant_to_class",
     "Parameters": "Claw Dagger Wand One_Hand_Sword Thrusting_One_Hand_Sword One_Hand_Axe One_Hand_Mace Bow Staff Two_Hand_Sword Two_Hand_Axe Two_Hand_Mace Rune_Dagger Warstaff Sceptre ENCHANTS HarvestAlternateWeaponQualityElementalDamagePercent",
@@ -1422,7 +1368,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1433,8 +1378,8 @@
     "Id": "ReforgeWhiteSocket",
     "Text": "<white>{Перековать} цвет случайного <white>{гнезда} на предмете, превращая его в <white>{белый}",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "modify_socket_colors",
     "Parameters": "W",
@@ -1448,7 +1393,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1459,8 +1403,8 @@
     "Id": "AugmentFire",
     "Text": "<white>{Добавить} новое свойство <craftingfire>{огня} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR fire noinfluence",
@@ -1474,7 +1418,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1485,8 +1428,8 @@
     "Id": "AugmentCold",
     "Text": "<white>{Добавить} новое свойство <craftingcold>{холода} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR cold noinfluence",
@@ -1500,7 +1443,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1511,8 +1453,8 @@
     "Id": "AugmentLightning",
     "Text": "<white>{Добавить} новое свойство <craftinglightning>{молнии} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR lightning noinfluence",
@@ -1526,7 +1468,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1537,8 +1478,8 @@
     "Id": "AugmentPhysical",
     "Text": "<white>{Добавить} новое <craftingphysical>{физическое} свойство и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR physical noinfluence",
@@ -1552,7 +1493,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1563,8 +1503,8 @@
     "Id": "AugmentLife",
     "Text": "<white>{Добавить} новое свойство <craftinglife>{здоровья} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR life noinfluence",
@@ -1578,7 +1518,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1589,8 +1528,8 @@
     "Id": "AugmentDefences",
     "Text": "<white>{Добавить} новое свойство <craftingdefences>{защиты} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR defences noinfluence",
@@ -1604,7 +1543,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1615,8 +1553,8 @@
     "Id": "AugmentChaos",
     "Text": "<white>{Добавить} новое свойство <craftingchaos>{хаоса} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR chaos noinfluence",
@@ -1630,7 +1568,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1641,8 +1578,8 @@
     "Id": "AugmentAttack",
     "Text": "<white>{Добавить} новое свойство <craftingattack>{атак} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR attack noinfluence",
@@ -1656,7 +1593,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1667,8 +1603,8 @@
     "Id": "AugmentSpell",
     "Text": "<white>{Добавить} новое свойство <craftingcaster>{чар} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR caster noinfluence",
@@ -1682,7 +1618,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1693,8 +1628,8 @@
     "Id": "AugmentSpeed",
     "Text": "<white>{Добавить} новое свойство <craftingspeed>{скорости} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR speed noinfluence",
@@ -1708,7 +1643,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1719,8 +1653,8 @@
     "Id": "AugmentCritical",
     "Text": "<white>{Добавить} новое свойство <craftingcrit>{критического удара} и <white>{удалить} другое случайное свойство с предмета без влияния",
     "Tier": {
-      "RowIndex": 2,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 2
     },
     "Command": "remove_type_and_add_type_mod",
     "Parameters": "ANY FOR critical noinfluence",
@@ -1734,7 +1668,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1745,8 +1678,8 @@
     "Id": "BossSynthesis1",
     "Text": "<white>{Синтезировать} предмет, наделив его случайными собственными свойствами Синтеза. Нельзя использовать на уникальных, синтезированных, расколотых предметах и на предметах с влиянием",
     "Tier": {
-      "RowIndex": 3,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 3
     },
     "Command": "add_synthesized_implicits",
     "Parameters": "12 3 1",
@@ -1760,7 +1693,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }
@@ -1771,8 +1703,8 @@
     "Id": "BossInfluence1",
     "Text": "<white>{Перековать} редкий предмет <white>{с влиянием}, наделяя его случайными свойствами, включая свойство <white>{влияния}",
     "Tier": {
-      "RowIndex": 3,
-      "TableName": "HarvestCraftTiers"
+      "TableName": "HarvestCraftTiers",
+      "RowIndex": 3
     },
     "Command": "reroll_with_influence_mod",
     "Parameters": "",
@@ -1786,7 +1718,6 @@
     "Unk012": false,
     "Achievements": [
       {
-        "RowIndex": 9193,
         "TableName": "AchievementItems",
         "Id": "CrucibleCompleteHarvestEncounters1_2"
       }

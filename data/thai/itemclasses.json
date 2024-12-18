@@ -3,12 +3,10 @@
     "Id": "LifeFlask",
     "Name": "ขวดยาพลังชีวิต",
     "TradeMarketCategory": {
-      "RowIndex": 28,
       "TableName": "TradeMarketCategory",
       "Id": "LifeFlasks"
     },
     "ItemClassCategory": {
-      "RowIndex": 0,
       "TableName": "ItemClassCategories",
       "Id": "Flask"
     },
@@ -42,12 +40,10 @@
     "Id": "ManaFlask",
     "Name": "ขวดยามานา",
     "TradeMarketCategory": {
-      "RowIndex": 29,
       "TableName": "TradeMarketCategory",
       "Id": "ManaFlasks"
     },
     "ItemClassCategory": {
-      "RowIndex": 0,
       "TableName": "ItemClassCategories",
       "Id": "Flask"
     },
@@ -112,12 +108,10 @@
     "Id": "Currency",
     "Name": "เงินตรา",
     "TradeMarketCategory": {
-      "RowIndex": 39,
       "TableName": "TradeMarketCategory",
       "Id": "Currency"
     },
     "ItemClassCategory": {
-      "RowIndex": 6,
       "TableName": "ItemClassCategories",
       "Id": "Currency"
     },
@@ -151,12 +145,10 @@
     "Id": "Amulet",
     "Name": "สร้อย",
     "TradeMarketCategory": {
-      "RowIndex": 21,
       "TableName": "TradeMarketCategory",
       "Id": "Amulets"
     },
     "ItemClassCategory": {
-      "RowIndex": 7,
       "TableName": "ItemClassCategories",
       "Id": "Amulet"
     },
@@ -164,7 +156,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -196,12 +187,10 @@
     "Id": "Ring",
     "Name": "แหวน",
     "TradeMarketCategory": {
-      "RowIndex": 22,
       "TableName": "TradeMarketCategory",
       "Id": "Rings"
     },
     "ItemClassCategory": {
-      "RowIndex": 8,
       "TableName": "ItemClassCategories",
       "Id": "Ring"
     },
@@ -209,7 +198,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -241,12 +229,10 @@
     "Id": "Claw",
     "Name": "กรงเล็บ",
     "TradeMarketCategory": {
-      "RowIndex": 4,
       "TableName": "TradeMarketCategory",
       "Id": "Claws"
     },
     "ItemClassCategory": {
-      "RowIndex": 9,
       "TableName": "ItemClassCategories",
       "Id": "Claw"
     },
@@ -254,7 +240,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -272,8 +257,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 0,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 0
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -289,12 +274,10 @@
     "Id": "Dagger",
     "Name": "มีด",
     "TradeMarketCategory": {
-      "RowIndex": 5,
       "TableName": "TradeMarketCategory",
       "Id": "Daggers"
     },
     "ItemClassCategory": {
-      "RowIndex": 3,
       "TableName": "ItemClassCategories",
       "Id": "Dagger"
     },
@@ -302,7 +285,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -320,8 +302,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 1,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 1
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -337,12 +319,10 @@
     "Id": "Wand",
     "Name": "ไม้กายสิทธิ์",
     "TradeMarketCategory": {
-      "RowIndex": 6,
       "TableName": "TradeMarketCategory",
       "Id": "Wands"
     },
     "ItemClassCategory": {
-      "RowIndex": 10,
       "TableName": "ItemClassCategories",
       "Id": "Wand"
     },
@@ -350,7 +330,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -368,8 +347,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 2,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 2
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -385,12 +364,10 @@
     "Id": "One Hand Sword",
     "Name": "ดาบมือเดียว",
     "TradeMarketCategory": {
-      "RowIndex": 7,
       "TableName": "TradeMarketCategory",
       "Id": "OneHandSwords"
     },
     "ItemClassCategory": {
-      "RowIndex": 2,
       "TableName": "ItemClassCategories",
       "Id": "One Hand Sword"
     },
@@ -398,7 +375,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -416,8 +392,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 3,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 3
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -464,12 +440,10 @@
     "Id": "One Hand Axe",
     "Name": "ขวานมือเดียว",
     "TradeMarketCategory": {
-      "RowIndex": 9,
       "TableName": "TradeMarketCategory",
       "Id": "OneHandAxes"
     },
     "ItemClassCategory": {
-      "RowIndex": 11,
       "TableName": "ItemClassCategories",
       "Id": "One Hand Axe"
     },
@@ -477,7 +451,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -495,8 +468,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 3,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 3
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -512,12 +485,10 @@
     "Id": "One Hand Mace",
     "Name": "กระบองมือเดียว",
     "TradeMarketCategory": {
-      "RowIndex": 10,
       "TableName": "TradeMarketCategory",
       "Id": "OneHandMaces"
     },
     "ItemClassCategory": {
-      "RowIndex": 1,
       "TableName": "ItemClassCategories",
       "Id": "One Hand Mace"
     },
@@ -525,7 +496,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -543,8 +513,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 3,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 3
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -560,12 +530,10 @@
     "Id": "Bow",
     "Name": "ธนู",
     "TradeMarketCategory": {
-      "RowIndex": 13,
       "TableName": "TradeMarketCategory",
       "Id": "Bows"
     },
     "ItemClassCategory": {
-      "RowIndex": 12,
       "TableName": "ItemClassCategories",
       "Id": "Bow"
     },
@@ -573,7 +541,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -591,8 +558,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 4,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 4
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -608,12 +575,10 @@
     "Id": "Staff",
     "Name": "ไม้พลอง",
     "TradeMarketCategory": {
-      "RowIndex": 14,
       "TableName": "TradeMarketCategory",
       "Id": "Staves"
     },
     "ItemClassCategory": {
-      "RowIndex": 4,
       "TableName": "ItemClassCategories",
       "Id": "Staff"
     },
@@ -621,7 +586,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -639,8 +603,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 5,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 5
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -656,12 +620,10 @@
     "Id": "Two Hand Sword",
     "Name": "ดาบสองมือ",
     "TradeMarketCategory": {
-      "RowIndex": 15,
       "TableName": "TradeMarketCategory",
       "Id": "TwoHandSwords"
     },
     "ItemClassCategory": {
-      "RowIndex": 13,
       "TableName": "ItemClassCategories",
       "Id": "Two Hand Sword"
     },
@@ -669,7 +631,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -687,8 +648,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 6,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 6
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -704,12 +665,10 @@
     "Id": "Two Hand Axe",
     "Name": "ขวานสองมือ",
     "TradeMarketCategory": {
-      "RowIndex": 16,
       "TableName": "TradeMarketCategory",
       "Id": "TwoHandAxes"
     },
     "ItemClassCategory": {
-      "RowIndex": 14,
       "TableName": "ItemClassCategories",
       "Id": "Two Hand Axe"
     },
@@ -717,7 +676,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -735,8 +693,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 7,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 7
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -752,12 +710,10 @@
     "Id": "Two Hand Mace",
     "Name": "กระบองสองมือ",
     "TradeMarketCategory": {
-      "RowIndex": 17,
       "TableName": "TradeMarketCategory",
       "Id": "TwoHandMaces"
     },
     "ItemClassCategory": {
-      "RowIndex": 15,
       "TableName": "ItemClassCategories",
       "Id": "Two Hand Mace"
     },
@@ -765,7 +721,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -783,8 +738,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 7,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 7
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -800,12 +755,10 @@
     "Id": "Active Skill Gem",
     "Name": "หินสกิล",
     "TradeMarketCategory": {
-      "RowIndex": 26,
       "TableName": "TradeMarketCategory",
       "Id": "ActiveSkillGems"
     },
     "ItemClassCategory": {
-      "RowIndex": 16,
       "TableName": "ItemClassCategories",
       "Id": "Active Skill Gem"
     },
@@ -839,12 +792,10 @@
     "Id": "Support Skill Gem",
     "Name": "หินเสริม",
     "TradeMarketCategory": {
-      "RowIndex": 27,
       "TableName": "TradeMarketCategory",
       "Id": "SupportSkillGems"
     },
     "ItemClassCategory": {
-      "RowIndex": 17,
       "TableName": "ItemClassCategories",
       "Id": "Support Skill Gem"
     },
@@ -878,12 +829,10 @@
     "Id": "Quiver",
     "Name": "ซองธนู",
     "TradeMarketCategory": {
-      "RowIndex": 19,
       "TableName": "TradeMarketCategory",
       "Id": "Quivers"
     },
     "ItemClassCategory": {
-      "RowIndex": 18,
       "TableName": "ItemClassCategories",
       "Id": "Quiver"
     },
@@ -891,7 +840,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -909,8 +857,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 8,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 8
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -926,12 +874,10 @@
     "Id": "Belt",
     "Name": "เข็มขัด",
     "TradeMarketCategory": {
-      "RowIndex": 23,
       "TableName": "TradeMarketCategory",
       "Id": "Belts"
     },
     "ItemClassCategory": {
-      "RowIndex": 19,
       "TableName": "ItemClassCategories",
       "Id": "Belt"
     },
@@ -939,7 +885,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -971,12 +916,10 @@
     "Id": "Gloves",
     "Name": "ถุงมือ",
     "TradeMarketCategory": {
-      "RowIndex": 0,
       "TableName": "TradeMarketCategory",
       "Id": "Gloves"
     },
     "ItemClassCategory": {
-      "RowIndex": 20,
       "TableName": "ItemClassCategories",
       "Id": "Gloves"
     },
@@ -984,7 +927,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1016,12 +958,10 @@
     "Id": "Boots",
     "Name": "รองเท้า",
     "TradeMarketCategory": {
-      "RowIndex": 1,
       "TableName": "TradeMarketCategory",
       "Id": "Boots"
     },
     "ItemClassCategory": {
-      "RowIndex": 21,
       "TableName": "ItemClassCategories",
       "Id": "Boots"
     },
@@ -1029,7 +969,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1061,12 +1000,10 @@
     "Id": "Body Armour",
     "Name": "เสื้อเกราะ",
     "TradeMarketCategory": {
-      "RowIndex": 2,
       "TableName": "TradeMarketCategory",
       "Id": "BodyArmours"
     },
     "ItemClassCategory": {
-      "RowIndex": 22,
       "TableName": "ItemClassCategories",
       "Id": "Body Armour"
     },
@@ -1074,7 +1011,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1106,12 +1042,10 @@
     "Id": "Helmet",
     "Name": "หมวก",
     "TradeMarketCategory": {
-      "RowIndex": 3,
       "TableName": "TradeMarketCategory",
       "Id": "Helmets"
     },
     "ItemClassCategory": {
-      "RowIndex": 23,
       "TableName": "ItemClassCategories",
       "Id": "Helmet"
     },
@@ -1119,7 +1053,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1151,12 +1084,10 @@
     "Id": "Shield",
     "Name": "โล่",
     "TradeMarketCategory": {
-      "RowIndex": 20,
       "TableName": "TradeMarketCategory",
       "Id": "Shields"
     },
     "ItemClassCategory": {
-      "RowIndex": 24,
       "TableName": "ItemClassCategories",
       "Id": "Shield"
     },
@@ -1164,7 +1095,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1182,8 +1112,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 9,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 9
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -1292,12 +1222,10 @@
     "Id": "StackableCurrency",
     "Name": "เงินตรารวมกองได้",
     "TradeMarketCategory": {
-      "RowIndex": 39,
       "TableName": "TradeMarketCategory",
       "Id": "Currency"
     },
     "ItemClassCategory": {
-      "RowIndex": 6,
       "TableName": "ItemClassCategories",
       "Id": "Currency"
     },
@@ -1332,7 +1260,6 @@
     "Name": "ไอเทมภารกิจ",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 25,
       "TableName": "ItemClassCategories",
       "Id": "QuestItem"
     },
@@ -1366,12 +1293,10 @@
     "Id": "Sceptre",
     "Name": "คทา",
     "TradeMarketCategory": {
-      "RowIndex": 11,
       "TableName": "TradeMarketCategory",
       "Id": "Sceptres"
     },
     "ItemClassCategory": {
-      "RowIndex": 61,
       "TableName": "ItemClassCategories",
       "Id": "Sceptre"
     },
@@ -1379,7 +1304,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1397,8 +1321,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 13,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 13
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -1414,12 +1338,10 @@
     "Id": "UtilityFlask",
     "Name": "ของขลัง",
     "TradeMarketCategory": {
-      "RowIndex": 31,
       "TableName": "TradeMarketCategory",
       "Id": "UtilityFlasks"
     },
     "ItemClassCategory": {
-      "RowIndex": 69,
       "TableName": "ItemClassCategories",
       "Id": "Charm"
     },
@@ -1448,7 +1370,6 @@
     "Unmodifiable": true,
     "CanBeFractured": false,
     "EquipAchievements": {
-      "RowIndex": 34,
       "TableName": "AchievementItems",
       "Id": "HaveUniqueGlovesInt2"
     }
@@ -1488,12 +1409,10 @@
     "Id": "Map",
     "Name": "ศิลานำทาง",
     "TradeMarketCategory": {
-      "RowIndex": 34,
       "TableName": "TradeMarketCategory",
       "Id": "Maps"
     },
     "ItemClassCategory": {
-      "RowIndex": 26,
       "TableName": "ItemClassCategories",
       "Id": "Map"
     },
@@ -1501,7 +1420,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1510,8 +1428,8 @@
     "AlwaysAllocate": true,
     "CanHaveVeiledMods": false,
     "PickedUpQuest": {
-      "RowIndex": 1783,
-      "TableName": "QuestFlags"
+      "TableName": "QuestFlags",
+      "RowIndex": 1783
     },
     "Unk011": 4119,
     "AlwaysShow": false,
@@ -1537,7 +1455,6 @@
     "Name": "",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 66,
       "TableName": "ItemClassCategories",
       "Id": "Unarmed"
     },
@@ -1572,7 +1489,6 @@
     "Name": "เบ็ดตกปลา",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 27,
       "TableName": "ItemClassCategories",
       "Id": "FishingRod"
     },
@@ -1580,7 +1496,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1598,8 +1513,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 6,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 6
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -1615,12 +1530,10 @@
     "Id": "MapFragment",
     "Name": "ชิ้นส่วนแผนที่",
     "TradeMarketCategory": {
-      "RowIndex": 37,
       "TableName": "TradeMarketCategory",
       "Id": "MapFragments"
     },
     "ItemClassCategory": {
-      "RowIndex": 28,
       "TableName": "ItemClassCategories",
       "Id": "MapFragment"
     },
@@ -1685,7 +1598,6 @@
     "Id": "Microtransaction",
     "Name": "สินค้าแฟชั่น",
     "TradeMarketCategory": {
-      "RowIndex": 53,
       "TableName": "TradeMarketCategory",
       "Id": "Microtransactions"
     },
@@ -1720,12 +1632,10 @@
     "Id": "Jewel",
     "Name": "จิวเวล",
     "TradeMarketCategory": {
-      "RowIndex": 35,
       "TableName": "TradeMarketCategory",
       "Id": "Jewels"
     },
     "ItemClassCategory": {
-      "RowIndex": 29,
       "TableName": "ItemClassCategories",
       "Id": "Jewel"
     },
@@ -1733,7 +1643,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -1742,8 +1651,8 @@
     "AlwaysAllocate": true,
     "CanHaveVeiledMods": false,
     "PickedUpQuest": {
-      "RowIndex": 1776,
-      "TableName": "QuestFlags"
+      "TableName": "QuestFlags",
+      "RowIndex": 1776
     },
     "Unk011": 4119,
     "AlwaysShow": false,
@@ -1768,12 +1677,10 @@
     "Id": "DivinationCard",
     "Name": "ไพ่พยากรณ์",
     "TradeMarketCategory": {
-      "RowIndex": 40,
       "TableName": "TradeMarketCategory",
       "Id": "DivinationCards"
     },
     "ItemClassCategory": {
-      "RowIndex": 30,
       "TableName": "ItemClassCategories",
       "Id": "DivinationCard"
     },
@@ -1784,8 +1691,8 @@
     "AlwaysAllocate": true,
     "CanHaveVeiledMods": false,
     "PickedUpQuest": {
-      "RowIndex": 1777,
-      "TableName": "QuestFlags"
+      "TableName": "QuestFlags",
+      "RowIndex": 1777
     },
     "Unk011": 4119,
     "AlwaysShow": false,
@@ -1903,12 +1810,10 @@
     "Id": "MiscMapItem",
     "Name": "ไอเทมแผนที่อื่นๆ",
     "TradeMarketCategory": {
-      "RowIndex": 38,
       "TableName": "TradeMarketCategory",
       "Id": "MiscMapItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 33,
       "TableName": "ItemClassCategories",
       "Id": "MiscMapItem"
     },
@@ -1942,12 +1847,10 @@
     "Id": "Leaguestone",
     "Name": "ศิลาลีก",
     "TradeMarketCategory": {
-      "RowIndex": 33,
       "TableName": "TradeMarketCategory",
       "Id": "Leaguestones"
     },
     "ItemClassCategory": {
-      "RowIndex": 34,
       "TableName": "ItemClassCategories",
       "Id": "Leaguestone"
     },
@@ -1982,7 +1885,6 @@
     "Name": "วิญญาณกลุ่มทวยเทพ",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 35,
       "TableName": "ItemClassCategories",
       "Id": "PantheonSoul"
     },
@@ -2016,12 +1918,10 @@
     "Id": "UniqueFragment",
     "Name": "ชิ้นส่วน (Piece)",
     "TradeMarketCategory": {
-      "RowIndex": 41,
       "TableName": "TradeMarketCategory",
       "Id": "UniqueFragments"
     },
     "ItemClassCategory": {
-      "RowIndex": 36,
       "TableName": "ItemClassCategories",
       "Id": "UniqueFragment"
     },
@@ -2055,12 +1955,10 @@
     "Id": "AbyssJewel",
     "Name": "จิวเวลอะบิส",
     "TradeMarketCategory": {
-      "RowIndex": 36,
       "TableName": "TradeMarketCategory",
       "Id": "AbyssJewels"
     },
     "ItemClassCategory": {
-      "RowIndex": 37,
       "TableName": "ItemClassCategories",
       "Id": "AbyssJewel"
     },
@@ -2068,7 +1966,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2101,7 +1998,6 @@
     "Name": "ไอเทมย้อนเวลา",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 38,
       "TableName": "ItemClassCategories",
       "Id": "IncursionItem"
     },
@@ -2135,12 +2031,10 @@
     "Id": "DelveSocketableCurrency",
     "Name": "เงินตรามีรูของเหมือง",
     "TradeMarketCategory": {
-      "RowIndex": 43,
       "TableName": "TradeMarketCategory",
       "Id": "Delve"
     },
     "ItemClassCategory": {
-      "RowIndex": 39,
       "TableName": "ItemClassCategories",
       "Id": "DelveSocketableCurrency"
     },
@@ -2174,12 +2068,10 @@
     "Id": "Incubator",
     "Name": "ตัวบ่มฟัก",
     "TradeMarketCategory": {
-      "RowIndex": 45,
       "TableName": "TradeMarketCategory",
       "Id": "Incubators"
     },
     "ItemClassCategory": {
-      "RowIndex": 40,
       "TableName": "ItemClassCategories",
       "Id": "Incubator"
     },
@@ -2306,12 +2198,10 @@
     "Id": "Warstaff",
     "Name": "ไม้พลองวรยุทธ์",
     "TradeMarketCategory": {
-      "RowIndex": 18,
       "TableName": "TradeMarketCategory",
       "Id": "Warstaves"
     },
     "ItemClassCategory": {
-      "RowIndex": 5,
       "TableName": "ItemClassCategories",
       "Id": "Warstaff"
     },
@@ -2319,7 +2209,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2337,8 +2226,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 5,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 5
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -2354,12 +2243,10 @@
     "Id": "DelveStackableSocketableCurrency",
     "Name": "เงินตรามีรูของเหมืองแบบรวมกองได้",
     "TradeMarketCategory": {
-      "RowIndex": 43,
       "TableName": "TradeMarketCategory",
       "Id": "Delve"
     },
     "ItemClassCategory": {
-      "RowIndex": 39,
       "TableName": "ItemClassCategories",
       "Id": "DelveSocketableCurrency"
     },
@@ -2394,7 +2281,6 @@
     "Name": "ไอเทมอัพเกรดแอตลาส",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 41,
       "TableName": "ItemClassCategories",
       "Id": "AtlasUpgradeItem"
     },
@@ -2583,12 +2469,10 @@
     "Id": "HeistContract",
     "Name": "สัญญาจ้าง",
     "TradeMarketCategory": {
-      "RowIndex": 48,
       "TableName": "TradeMarketCategory",
       "Id": "HeistItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 42,
       "TableName": "ItemClassCategories",
       "Id": "HeistContract"
     },
@@ -2596,7 +2480,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2628,12 +2511,10 @@
     "Id": "HeistEquipmentWeapon",
     "Name": "อุปกรณ์สวมใส่กองโจร",
     "TradeMarketCategory": {
-      "RowIndex": 48,
       "TableName": "TradeMarketCategory",
       "Id": "HeistItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 43,
       "TableName": "ItemClassCategories",
       "Id": "HeistEquipmentWeapon"
     },
@@ -2641,7 +2522,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2673,12 +2553,10 @@
     "Id": "HeistEquipmentTool",
     "Name": "เครื่องมือกองโจร",
     "TradeMarketCategory": {
-      "RowIndex": 48,
       "TableName": "TradeMarketCategory",
       "Id": "HeistItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 44,
       "TableName": "ItemClassCategories",
       "Id": "HeistEquipmentTool"
     },
@@ -2686,7 +2564,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2718,12 +2595,10 @@
     "Id": "HeistEquipmentUtility",
     "Name": "ผ้าคลุมกองโจร",
     "TradeMarketCategory": {
-      "RowIndex": 48,
       "TableName": "TradeMarketCategory",
       "Id": "HeistItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 45,
       "TableName": "ItemClassCategories",
       "Id": "HeistEquipmentUtility"
     },
@@ -2731,7 +2606,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2763,12 +2637,10 @@
     "Id": "HeistEquipmentReward",
     "Name": "เข็มกลัดกองโจร",
     "TradeMarketCategory": {
-      "RowIndex": 48,
       "TableName": "TradeMarketCategory",
       "Id": "HeistItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 46,
       "TableName": "ItemClassCategories",
       "Id": "HeistEquipmentReward"
     },
@@ -2776,7 +2648,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2808,12 +2679,10 @@
     "Id": "HeistBlueprint",
     "Name": "พิมพ์เขียว",
     "TradeMarketCategory": {
-      "RowIndex": 48,
       "TableName": "TradeMarketCategory",
       "Id": "HeistItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 47,
       "TableName": "ItemClassCategories",
       "Id": "HeistBlueprint"
     },
@@ -2821,7 +2690,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2853,12 +2721,10 @@
     "Id": "Trinket",
     "Name": "เครื่องประดับโจร",
     "TradeMarketCategory": {
-      "RowIndex": 25,
       "TableName": "TradeMarketCategory",
       "Id": "Trinkets"
     },
     "ItemClassCategory": {
-      "RowIndex": 48,
       "TableName": "ItemClassCategories",
       "Id": "Trinket"
     },
@@ -2893,7 +2759,6 @@
     "Name": "เป้าหมายโจรกรรม",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 49,
       "TableName": "ItemClassCategories",
       "Id": "HeistObjective"
     },
@@ -2927,12 +2792,10 @@
     "Id": "ExpeditionLogbook",
     "Name": "สมุดปูมเดินทางกองสำรวจ",
     "TradeMarketCategory": {
-      "RowIndex": 49,
       "TableName": "TradeMarketCategory",
       "Id": "ExpeditionItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 50,
       "TableName": "ItemClassCategories",
       "Id": "ExpeditionLogbook"
     },
@@ -2940,7 +2803,6 @@
     "Unk005": [],
     "IdentifyAchievements": [
       {
-        "RowIndex": 8711,
         "TableName": "AchievementItems",
         "Id": "LakeBeginnerChallenge1_3"
       }
@@ -2972,12 +2834,10 @@
     "Id": "IncubatorStackable",
     "Name": "ตัวบ่มฟัก",
     "TradeMarketCategory": {
-      "RowIndex": 45,
       "TableName": "TradeMarketCategory",
       "Id": "Incubators"
     },
     "ItemClassCategory": {
-      "RowIndex": 40,
       "TableName": "ItemClassCategories",
       "Id": "Incubator"
     },
@@ -3043,7 +2903,6 @@
     "Name": "",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 64,
       "TableName": "ItemClassCategories",
       "Id": "MetaSkillGem"
     },
@@ -3077,12 +2936,10 @@
     "Id": "Spear",
     "Name": "หอก",
     "TradeMarketCategory": {
-      "RowIndex": 55,
       "TableName": "TradeMarketCategory",
       "Id": "Spears"
     },
     "ItemClassCategory": {
-      "RowIndex": 57,
       "TableName": "ItemClassCategories",
       "Id": "Spear"
     },
@@ -3102,8 +2959,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 10,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 10
     },
     "CanScourge": false,
     "CanUpgradeRarity": true,
@@ -3119,12 +2976,10 @@
     "Id": "Crossbow",
     "Name": "หน้าไม้",
     "TradeMarketCategory": {
-      "RowIndex": 56,
       "TableName": "TradeMarketCategory",
       "Id": "Crossbows"
     },
     "ItemClassCategory": {
-      "RowIndex": 58,
       "TableName": "ItemClassCategories",
       "Id": "Crossbow"
     },
@@ -3144,8 +2999,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 12,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 12
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3162,7 +3017,6 @@
     "Name": "โฟกัส",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 59,
       "TableName": "ItemClassCategories",
       "Id": "Focus"
     },
@@ -3182,8 +3036,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 11,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 11
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3200,7 +3054,6 @@
     "Name": "ไอเทมประจำอินสแตนซ์",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 51,
       "TableName": "ItemClassCategories",
       "Id": "InstanceLocalItem"
     },
@@ -3234,12 +3087,10 @@
     "Id": "SentinelDrone",
     "Name": "หุ่นอารักษ์",
     "TradeMarketCategory": {
-      "RowIndex": 51,
       "TableName": "TradeMarketCategory",
       "Id": "Sentinel"
     },
     "ItemClassCategory": {
-      "RowIndex": 52,
       "TableName": "ItemClassCategories",
       "Id": "SentinelDrone"
     },
@@ -3273,12 +3124,10 @@
     "Id": "MemoryLine",
     "Name": "ความทรงจำ",
     "TradeMarketCategory": {
-      "RowIndex": 52,
       "TableName": "TradeMarketCategory",
       "Id": "MemoryLine"
     },
     "ItemClassCategory": {
-      "RowIndex": 54,
       "TableName": "ItemClassCategories",
       "Id": "MemoryLine"
     },
@@ -3313,7 +3162,6 @@
     "Name": "ลูกตุ้ม",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 60,
       "TableName": "ItemClassCategories",
       "Id": "Flail"
     },
@@ -3333,8 +3181,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 14,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 14
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3350,12 +3198,10 @@
     "Id": "Relic",
     "Name": "วัตถุตกทอด",
     "TradeMarketCategory": {
-      "RowIndex": 54,
       "TableName": "TradeMarketCategory",
       "Id": "Relics"
     },
     "ItemClassCategory": {
-      "RowIndex": 53,
       "TableName": "ItemClassCategories",
       "Id": "Relic"
     },
@@ -3390,7 +3236,6 @@
     "Name": "วัตถุตกทอดบริสุทธิ์",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 53,
       "TableName": "ItemClassCategories",
       "Id": "Relic"
     },
@@ -3424,12 +3269,10 @@
     "Id": "Breachstone",
     "Name": "ศิลาบรีช",
     "TradeMarketCategory": {
-      "RowIndex": 37,
       "TableName": "TradeMarketCategory",
       "Id": "MapFragments"
     },
     "ItemClassCategory": {
-      "RowIndex": 55,
       "TableName": "ItemClassCategories",
       "Id": "Breachstone"
     },
@@ -3494,12 +3337,10 @@
     "Id": "VaultKey",
     "Name": "กุญแจคลังวัตถุโบราณ",
     "TradeMarketCategory": {
-      "RowIndex": 38,
       "TableName": "TradeMarketCategory",
       "Id": "MiscMapItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 56,
       "TableName": "ItemClassCategories",
       "Id": "VaultKey"
     },
@@ -3533,12 +3374,10 @@
     "Id": "ItemisedSanctum",
     "Name": "เหรียญบททดสอบ",
     "TradeMarketCategory": {
-      "RowIndex": 38,
       "TableName": "TradeMarketCategory",
       "Id": "MiscMapItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 33,
       "TableName": "ItemClassCategories",
       "Id": "MiscMapItem"
     },
@@ -3604,7 +3443,6 @@
     "Name": "",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 65,
       "TableName": "ItemClassCategories",
       "Id": "UncutSkillGem"
     },
@@ -3638,7 +3476,6 @@
     "Id": "Buckler",
     "Name": "โล่บัคเลอร์",
     "TradeMarketCategory": {
-      "RowIndex": 57,
       "TableName": "TradeMarketCategory",
       "Id": "Bucklers"
     },
@@ -3659,8 +3496,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 15,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 15
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3693,8 +3530,8 @@
     "CanHaveAspects": false,
     "CanTransferSkin": false,
     "ItemStance": {
-      "RowIndex": 16,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 16
     },
     "CanScourge": false,
     "CanUpgradeRarity": false,
@@ -3727,8 +3564,8 @@
     "CanHaveAspects": false,
     "CanTransferSkin": false,
     "ItemStance": {
-      "RowIndex": 17,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 17
     },
     "CanScourge": false,
     "CanUpgradeRarity": false,
@@ -3776,7 +3613,6 @@
     "Name": "กับดัก",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 63,
       "TableName": "ItemClassCategories",
       "Id": "TrapTool"
     },
@@ -3796,8 +3632,8 @@
     "CanHaveAspects": true,
     "CanTransferSkin": true,
     "ItemStance": {
-      "RowIndex": 2,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 2
     },
     "CanScourge": true,
     "CanUpgradeRarity": true,
@@ -3844,12 +3680,10 @@
     "Id": "SkillGemToken",
     "Name": "เงินตรา",
     "TradeMarketCategory": {
-      "RowIndex": 39,
       "TableName": "TradeMarketCategory",
       "Id": "Currency"
     },
     "ItemClassCategory": {
-      "RowIndex": 6,
       "TableName": "ItemClassCategories",
       "Id": "Currency"
     },
@@ -3914,12 +3748,10 @@
     "Id": "UltimatumKey",
     "Name": "คำขาดจารึก",
     "TradeMarketCategory": {
-      "RowIndex": 38,
       "TableName": "TradeMarketCategory",
       "Id": "MiscMapItems"
     },
     "ItemClassCategory": {
-      "RowIndex": 33,
       "TableName": "ItemClassCategories",
       "Id": "MiscMapItem"
     },
@@ -3954,7 +3786,6 @@
     "Name": "",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 65,
       "TableName": "ItemClassCategories",
       "Id": "UncutSkillGem"
     },
@@ -3989,7 +3820,6 @@
     "Name": "",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 65,
       "TableName": "ItemClassCategories",
       "Id": "UncutSkillGem"
     },
@@ -4040,8 +3870,8 @@
     "CanHaveAspects": false,
     "CanTransferSkin": false,
     "ItemStance": {
-      "RowIndex": 18,
-      "TableName": "ItemStances"
+      "TableName": "ItemStances",
+      "RowIndex": 18
     },
     "CanScourge": false,
     "CanUpgradeRarity": false,
@@ -4058,7 +3888,6 @@
     "Name": "ไอเทมใส่รู",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 67,
       "TableName": "ItemClassCategories",
       "Id": "SoulCore"
     },
@@ -4093,7 +3922,6 @@
     "Name": "แผ่นหิน",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 68,
       "TableName": "ItemClassCategories",
       "Id": "TowerAugment"
     },
@@ -4128,7 +3956,6 @@
     "Name": "ลางบอกเหตุ",
     "TradeMarketCategory": null,
     "ItemClassCategory": {
-      "RowIndex": 70,
       "TableName": "ItemClassCategories",
       "Id": "Omen"
     },
