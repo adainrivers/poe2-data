@@ -1,1 +1,660 @@
-[]
+[
+  {
+    "Id": "Hidden",
+    "Label": "隱藏",
+    "Bool01": false,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shown",
+    "Label": "顯示",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Melee",
+    "Label": "近戰",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Projectile",
+    "Label": "投射物",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Impact",
+    "Label": "衝擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Explosion",
+    "Label": "爆炸",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FirstForm",
+    "Label": "第一型態",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "SecondForm",
+    "Label": "第二型態",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "InitialStrike",
+    "Label": "首次打擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FinalStrike",
+    "Label": "最終打擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "DamageOverTime",
+    "Label": "持續傷害",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Beam",
+    "Label": "射線",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Base",
+    "Label": "基礎",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ThirdStrike",
+    "Label": "第三次打擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FinalSpike",
+    "Label": "最終爆裂",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Wave",
+    "Label": "白浪",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "JaggedGroundEruption",
+    "Label": "碎裂地面爆炸",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FreezeConsumption",
+    "Label": "對凍結者",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Aftershock",
+    "Label": "餘震",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Armed",
+    "Label": "裝備武器時",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "SecondProjectile",
+    "Label": "第二投射物",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FireTrail",
+    "Label": "火焰蹤跡",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "DSFirstImpact",
+    "Label": "第一下重擊",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "DSSecondImpact",
+    "Label": "第二下重擊",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shockwave",
+    "Label": "震波",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Storm",
+    "Label": "暴風",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "WhenSlammed",
+    "Label": "遭重擊時",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Minion",
+    "Label": "召喚物",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Bolt",
+    "Label": "弩箭",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Arrow",
+    "Label": "箭矢",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Firebolts",
+    "Label": "火焰彈",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "CastOnFrostbolt",
+    "Label": "隨寒冰彈施放",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Nova",
+    "Label": "新星",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "NormalStrike",
+    "Label": "一般打擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PerfectStrike",
+    "Label": "完美打擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Collision",
+    "Label": "碰撞",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Vines",
+    "Label": "藤蔓",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Support",
+    "Label": "輔助",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "AoE",
+    "Label": "效果範圍",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Buff",
+    "Label": "增益效果",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Crystal",
+    "Label": "水晶",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FireRain",
+    "Label": "火焰之雨",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ChaosRain",
+    "Label": "混沌之雨",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Slam",
+    "Label": "重擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Swipe",
+    "Label": "揮掃",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Screech",
+    "Label": "海妖之嚎",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Pulse",
+    "Label": "脈搏",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "StaggeringPalmStaffProjectile",
+    "Label": "投射物（細杖）",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "StaggeringPalmUnarmedProjectile",
+    "Label": "投射物（空手）",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ExplosionStatSuppress",
+    "Label": "爆炸",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FourthStrike",
+    "Label": "第四次打擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Curses",
+    "Label": "詛咒",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Illusion",
+    "Label": "幻影",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Shrapnel",
+    "Label": "彈片",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "GroundEffect",
+    "Label": "地面",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ProjectileHideDescription",
+    "Label": "投射物",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "ImpactHideDescription",
+    "Label": "衝擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "Mark",
+    "Label": "印記",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Wall",
+    "Label": "牆壁",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Shard",
+    "Label": "碎片",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PoisonCloud",
+    "Label": "劇毒雲霧",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Footsteps",
+    "Label": "腳印",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ExplosionNoStats",
+    "Label": "爆炸",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shards",
+    "Label": "碎片",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FrozenShards",
+    "Label": "冰凍碎片",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeFire",
+    "Label": "烈炎爆炸",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeCold",
+    "Label": "寒風之波",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeLightning",
+    "Label": "電能弩箭",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Strike",
+    "Label": "打擊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "BoltsNoDescription",
+    "Label": "弩箭",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "ArtilleryNoDescription",
+    "Label": "砲火",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "Ballista",
+    "Label": "砲塔",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Tornado",
+    "Label": "龍捲風",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PrimaryGrenade",
+    "Label": "主要擲彈",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "MiniGrenades",
+    "Label": "小型擲彈",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ArmourBroken",
+    "Label": "對破甲者",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "BurningGround",
+    "Label": "燃燒地面",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Totem",
+    "Label": "圖騰",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Ammo",
+    "Label": "彈藥",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "MinionInfo",
+    "Label": "召喚物資訊",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Firestorm",
+    "Label": "烈炎風暴",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ImprovedBolt",
+    "Label": "強化弩箭",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "NormalDash",
+    "Label": "一般衝刺",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PerfectDash",
+    "Label": "完美衝刺",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ChilledGround",
+    "Label": "冰緩地面",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Command",
+    "Label": "命令",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Dash",
+    "Label": "瞬身",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Fire",
+    "Label": "火焰",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Lightning",
+    "Label": "閃電",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Cold",
+    "Label": "冰冷",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "LingeringIgnite",
+    "Label": "殘留點燃",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Heal",
+    "Label": "治療",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PoisonBurst",
+    "Label": "毒素爆發",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Ignite",
+    "Label": "點燃",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  }
+]

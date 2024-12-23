@@ -1,1 +1,660 @@
-[]
+[
+  {
+    "Id": "Hidden",
+    "Label": "Oculto",
+    "Bool01": false,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shown",
+    "Label": "Mostrado",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Melee",
+    "Label": "Cuerpo a cuerpo",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Projectile",
+    "Label": "Proyectil",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Impact",
+    "Label": "Choque",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Explosion",
+    "Label": "Explosión",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FirstForm",
+    "Label": "Primera forma",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "SecondForm",
+    "Label": "Segunda forma",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "InitialStrike",
+    "Label": "Golpe inicial",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FinalStrike",
+    "Label": "Golpe final",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "DamageOverTime",
+    "Label": "Daño degenerativo",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Beam",
+    "Label": "Haz",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Base",
+    "Label": "Base",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ThirdStrike",
+    "Label": "Tercer golpe",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FinalSpike",
+    "Label": "Estallido final",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Wave",
+    "Label": "Ola",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "JaggedGroundEruption",
+    "Label": "Erupción de suelo irregular",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FreezeConsumption",
+    "Label": "Vs. congelados",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Aftershock",
+    "Label": "Réplica",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Armed",
+    "Label": "Cuando estás armado",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "SecondProjectile",
+    "Label": "Segundo proyectil",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FireTrail",
+    "Label": "Rastro de fuego",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "DSFirstImpact",
+    "Label": "Primer embate",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "DSSecondImpact",
+    "Label": "Segundo embate",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shockwave",
+    "Label": "Onda expansiva",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Storm",
+    "Label": "Tormenta",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "WhenSlammed",
+    "Label": "Cuando recibes un embate",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Minion",
+    "Label": "Esbirro",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Bolt",
+    "Label": "Saeta",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Arrow",
+    "Label": "Flecha",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Firebolts",
+    "Label": "Bolas de fuego",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "CastOnFrostbolt",
+    "Label": "Lanzar sobre Descarga de escarcha",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Nova",
+    "Label": "Nova",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "NormalStrike",
+    "Label": "Golpes normales",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PerfectStrike",
+    "Label": "Golpe perfecto",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Collision",
+    "Label": "Colisión",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Vines",
+    "Label": "Enredaderas",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Support",
+    "Label": "Asistencia",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "AoE",
+    "Label": "Área de efecto",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Buff",
+    "Label": "Efecto beneficioso",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Crystal",
+    "Label": "Cristal",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FireRain",
+    "Label": "Lluvia de fuego",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ChaosRain",
+    "Label": "Lluvia de caos",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Slam",
+    "Label": "Embate",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Swipe",
+    "Label": "Barrido",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Screech",
+    "Label": "Chirrido",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Pulse",
+    "Label": "Pulso",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "StaggeringPalmStaffProjectile",
+    "Label": "Proyectil (bastón)",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "StaggeringPalmUnarmedProjectile",
+    "Label": "Proyectil (desarmado)",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ExplosionStatSuppress",
+    "Label": "Explosión",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FourthStrike",
+    "Label": "Cuarto golpe",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Curses",
+    "Label": "Maldiciones",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Illusion",
+    "Label": "Ilusión",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Shrapnel",
+    "Label": "Metralla",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "GroundEffect",
+    "Label": "Superficie de suelo",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ProjectileHideDescription",
+    "Label": "Proyectil",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "ImpactHideDescription",
+    "Label": "Choque",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "Mark",
+    "Label": "Señal",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Wall",
+    "Label": "Muro",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Shard",
+    "Label": "Esquirla",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PoisonCloud",
+    "Label": "Nube de veneno",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Footsteps",
+    "Label": "Pasos",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ExplosionNoStats",
+    "Label": "Explosión",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shards",
+    "Label": "Esquirlas",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FrozenShards",
+    "Label": "Esquirlas congeladas",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeFire",
+    "Label": "Explosión ardiente",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeCold",
+    "Label": "Ola helada",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeLightning",
+    "Label": "Descarga eléctrica",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Strike",
+    "Label": "Golpe",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "BoltsNoDescription",
+    "Label": "Saetas",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "ArtilleryNoDescription",
+    "Label": "Artillería",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "Ballista",
+    "Label": "Balista",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Tornado",
+    "Label": "Tornado",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PrimaryGrenade",
+    "Label": "Granada principal",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "MiniGrenades",
+    "Label": "Minigranadas",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ArmourBroken",
+    "Label": "Vs. armadura rota",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "BurningGround",
+    "Label": "Suelo incendiado",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Totem",
+    "Label": "Tótem",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Ammo",
+    "Label": "Munición",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "MinionInfo",
+    "Label": "Info de esbirros",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Firestorm",
+    "Label": "Tormenta de fuego",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ImprovedBolt",
+    "Label": "Saeta mejorada",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "NormalDash",
+    "Label": "Finta normal",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PerfectDash",
+    "Label": "Finta perfecta",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ChilledGround",
+    "Label": "Suelo escarchado",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Command",
+    "Label": "Orden",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Dash",
+    "Label": "Finta",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Fire",
+    "Label": "Fuego",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Lightning",
+    "Label": "Rayo",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Cold",
+    "Label": "Hielo",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "LingeringIgnite",
+    "Label": "Quemadura persistente",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Heal",
+    "Label": "Curación",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PoisonBurst",
+    "Label": "Estallido de veneno",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Ignite",
+    "Label": "Quemadura",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  }
+]

@@ -1,1 +1,660 @@
-[]
+[
+  {
+    "Id": "Hidden",
+    "Label": "숨겨짐",
+    "Bool01": false,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shown",
+    "Label": "표시됨",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Melee",
+    "Label": "근접",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Projectile",
+    "Label": "투사체",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Impact",
+    "Label": "충격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Explosion",
+    "Label": "폭파",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FirstForm",
+    "Label": "1차 형태",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "SecondForm",
+    "Label": "2차 형태",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "InitialStrike",
+    "Label": "최초 타격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FinalStrike",
+    "Label": "최후 타격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "DamageOverTime",
+    "Label": "지속 피해",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Beam",
+    "Label": "광선",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Base",
+    "Label": "기본",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ThirdStrike",
+    "Label": "3차 타격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FinalSpike",
+    "Label": "마지막 격발",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Wave",
+    "Label": "파도",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "JaggedGroundEruption",
+    "Label": "가시 지대 분출",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FreezeConsumption",
+    "Label": "동결 상대",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Aftershock",
+    "Label": "여진",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Armed",
+    "Label": "무장 시",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "SecondProjectile",
+    "Label": "2차 투사체",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FireTrail",
+    "Label": "화염 자취",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "DSFirstImpact",
+    "Label": "1차 강타",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "DSSecondImpact",
+    "Label": "2차 강타",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shockwave",
+    "Label": "충격파",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Storm",
+    "Label": "태풍",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "WhenSlammed",
+    "Label": "강타 시",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Minion",
+    "Label": "소환수",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Bolt",
+    "Label": "볼트",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Arrow",
+    "Label": "화살",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Firebolts",
+    "Label": "화염 화살",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "CastOnFrostbolt",
+    "Label": "서리 구체 시 시전",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Nova",
+    "Label": "폭발",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "NormalStrike",
+    "Label": "일반 타격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PerfectStrike",
+    "Label": "완벽한 타격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Collision",
+    "Label": "충돌",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Vines",
+    "Label": "덩굴",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Support",
+    "Label": "보조",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "AoE",
+    "Label": "효과 범위",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Buff",
+    "Label": "버프",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Crystal",
+    "Label": "수정",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FireRain",
+    "Label": "불의 비",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ChaosRain",
+    "Label": "카오스의 비",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Slam",
+    "Label": "강타",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Swipe",
+    "Label": "후려치기",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Screech",
+    "Label": "비명",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Pulse",
+    "Label": "파동",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "StaggeringPalmStaffProjectile",
+    "Label": "투사체 (육척봉)",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "StaggeringPalmUnarmedProjectile",
+    "Label": "투사체 (비무장)",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ExplosionStatSuppress",
+    "Label": "폭파",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FourthStrike",
+    "Label": "4차 타격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Curses",
+    "Label": "저주",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Illusion",
+    "Label": "환상",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Shrapnel",
+    "Label": "파편",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "GroundEffect",
+    "Label": "지대 효과",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ProjectileHideDescription",
+    "Label": "투사체",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "ImpactHideDescription",
+    "Label": "충격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "Mark",
+    "Label": "징표",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Wall",
+    "Label": "벽",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Shard",
+    "Label": "조각",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PoisonCloud",
+    "Label": "중독 구름",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Footsteps",
+    "Label": "발걸음",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ExplosionNoStats",
+    "Label": "폭발",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shards",
+    "Label": "파편",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FrozenShards",
+    "Label": "얼어붙은 파편",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeFire",
+    "Label": "불타는 폭발",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeCold",
+    "Label": "얼음 파도",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeLightning",
+    "Label": "지직거리는 번개",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Strike",
+    "Label": "타격",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "BoltsNoDescription",
+    "Label": "볼트",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "ArtilleryNoDescription",
+    "Label": "포대",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "Ballista",
+    "Label": "쇠뇌",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Tornado",
+    "Label": "회오리",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PrimaryGrenade",
+    "Label": "주 유탄",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "MiniGrenades",
+    "Label": "소형 유탄",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ArmourBroken",
+    "Label": "방어구 파괴 상태의 적 상대",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "BurningGround",
+    "Label": "용암 지대",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Totem",
+    "Label": "토템",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Ammo",
+    "Label": "탄약",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "MinionInfo",
+    "Label": "소환수 정보",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Firestorm",
+    "Label": "화염 폭풍",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ImprovedBolt",
+    "Label": "강화된 볼트",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "NormalDash",
+    "Label": "일반 질주",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PerfectDash",
+    "Label": "완벽한 질주",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ChilledGround",
+    "Label": "얼음 지대",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Command",
+    "Label": "명령",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Dash",
+    "Label": "질주",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Fire",
+    "Label": "화염",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Lightning",
+    "Label": "번개",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Cold",
+    "Label": "냉기",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "LingeringIgnite",
+    "Label": "지속되는 점화",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Heal",
+    "Label": "치유",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PoisonBurst",
+    "Label": "독 격발",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Ignite",
+    "Label": "점화",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  }
+]

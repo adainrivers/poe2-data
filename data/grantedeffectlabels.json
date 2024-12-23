@@ -1,1 +1,660 @@
-[]
+[
+  {
+    "Id": "Hidden",
+    "Label": "Hidden",
+    "Bool01": false,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shown",
+    "Label": "Shown",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Melee",
+    "Label": "Melee",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Projectile",
+    "Label": "Projectile",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Impact",
+    "Label": "Impact",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Explosion",
+    "Label": "Explosion",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FirstForm",
+    "Label": "First Form",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "SecondForm",
+    "Label": "Second Form",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "InitialStrike",
+    "Label": "Initial Strike",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FinalStrike",
+    "Label": "Final Strike",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "DamageOverTime",
+    "Label": "Damage over Time",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Beam",
+    "Label": "Beam",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Base",
+    "Label": "Base",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ThirdStrike",
+    "Label": "Third Strike",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FinalSpike",
+    "Label": "Final Burst",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Wave",
+    "Label": "Wave",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "JaggedGroundEruption",
+    "Label": "Jagged Ground Eruption",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FreezeConsumption",
+    "Label": "Vs Frozen",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Aftershock",
+    "Label": "Aftershock",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Armed",
+    "Label": "When Armed",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "SecondProjectile",
+    "Label": "Second Projectile",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FireTrail",
+    "Label": "Fire Trail",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "DSFirstImpact",
+    "Label": "First Slam",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "DSSecondImpact",
+    "Label": "Second Slam",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shockwave",
+    "Label": "Shockwave",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Storm",
+    "Label": "Storm",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "WhenSlammed",
+    "Label": "When Slammed",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Minion",
+    "Label": "Minion",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Bolt",
+    "Label": "Bolt",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Arrow",
+    "Label": "Arrow",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Firebolts",
+    "Label": "Firebolts",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "CastOnFrostbolt",
+    "Label": "Cast on Frostbolt",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Nova",
+    "Label": "Nova",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "NormalStrike",
+    "Label": "Normal Strikes",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PerfectStrike",
+    "Label": "Perfect Strike",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Collision",
+    "Label": "Collision",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Vines",
+    "Label": "Vines",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Support",
+    "Label": "Support",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "AoE",
+    "Label": "Area of Effect",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Buff",
+    "Label": "Buff",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Crystal",
+    "Label": "Crystal",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FireRain",
+    "Label": "Fire Rain",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ChaosRain",
+    "Label": "Chaos Rain",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Slam",
+    "Label": "Slam",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Swipe",
+    "Label": "Swipe",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Screech",
+    "Label": "Screech",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Pulse",
+    "Label": "Pulse",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "StaggeringPalmStaffProjectile",
+    "Label": "Projectile (Quarterstaff)",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "StaggeringPalmUnarmedProjectile",
+    "Label": "Projectile (Unarmed)",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ExplosionStatSuppress",
+    "Label": "Explosion",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "FourthStrike",
+    "Label": "Fourth Strike",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Curses",
+    "Label": "Curses",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Illusion",
+    "Label": "Illusion",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Shrapnel",
+    "Label": "Shrapnel",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "GroundEffect",
+    "Label": "Ground Surface",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ProjectileHideDescription",
+    "Label": "Projectile",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "ImpactHideDescription",
+    "Label": "Impact",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "Mark",
+    "Label": "Mark",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Wall",
+    "Label": "Wall",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Shard",
+    "Label": "Shard",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PoisonCloud",
+    "Label": "Poison Cloud",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Footsteps",
+    "Label": "Footsteps",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ExplosionNoStats",
+    "Label": "Explosion",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Shards",
+    "Label": "Shards",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "FrozenShards",
+    "Label": "Frozen Shards",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeFire",
+    "Label": "Fiery Explosion",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeCold",
+    "Label": "Icy Wave",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "WildStrikeLightning",
+    "Label": "Arcing Bolt",
+    "Bool01": true,
+    "Bool02": false,
+    "Bool03": true
+  },
+  {
+    "Id": "Strike",
+    "Label": "Strike",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "BoltsNoDescription",
+    "Label": "Bolts",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "ArtilleryNoDescription",
+    "Label": "Artillery",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": false
+  },
+  {
+    "Id": "Ballista",
+    "Label": "Ballista",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Tornado",
+    "Label": "Tornado",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PrimaryGrenade",
+    "Label": "Primary Grenade",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "MiniGrenades",
+    "Label": "Mini Grenades",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ArmourBroken",
+    "Label": "Vs Armour Broken",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "BurningGround",
+    "Label": "Burning Ground",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Totem",
+    "Label": "Totem",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Ammo",
+    "Label": "Ammunition",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "MinionInfo",
+    "Label": "Minion Info",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Firestorm",
+    "Label": "Firestorm",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ImprovedBolt",
+    "Label": "Improved Bolt",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "NormalDash",
+    "Label": "Normal Dash",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PerfectDash",
+    "Label": "Perfect Dash",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "ChilledGround",
+    "Label": "Chilled Ground",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Command",
+    "Label": "Command",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Dash",
+    "Label": "Dash",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Fire",
+    "Label": "Fire",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Lightning",
+    "Label": "Lightning",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Cold",
+    "Label": "Cold",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "LingeringIgnite",
+    "Label": "Lingering Ignite",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Heal",
+    "Label": "Heal",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "PoisonBurst",
+    "Label": "Poison Burst",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  },
+  {
+    "Id": "Ignite",
+    "Label": "Ignite",
+    "Bool01": true,
+    "Bool02": true,
+    "Bool03": true
+  }
+]

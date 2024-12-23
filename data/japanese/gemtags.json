@@ -1,1 +1,549 @@
-[]
+[
+  {
+    "Id": "fire",
+    "Tag": "[Fire|火]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "fire_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "virtual_fire_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_fire_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "cold",
+    "Tag": "[Cold|冷気]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "cold_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "virtual_cold_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_cold_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "lightning",
+    "Tag": "[Lightning|雷]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "lightning_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "virtual_lightning_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_lightning_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "chaos",
+    "Tag": "[Chaos|混沌]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "chaos_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "chaos_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_chaos_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "spell",
+    "Tag": "[Spell|スペル]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "spell_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "projectile",
+    "Tag": "[Projectile|投射物]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "projectile_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "bow",
+    "Tag": "弓",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "bow_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "melee",
+    "Tag": "[Melee|近接]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "melee_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "minion",
+    "Tag": "[Minion|ミニオン]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "minion_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_minion_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "strength",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "strength_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "dexterity",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "dexterity_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "intelligence",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "intelligence_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "aura",
+    "Tag": "[Aura|オーラ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_aura_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "attack",
+    "Tag": "[Attack|アタック]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "area",
+    "Tag": "[AoESkill|範囲効果]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "duration",
+    "Tag": "[DurationSkill|持続時間]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "support",
+    "Tag": "[SupportGem|サポート]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "curse",
+    "Tag": "[Curse|呪い]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "curse_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_curse_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "chaining",
+    "Tag": "[Chain|連鎖]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "totem",
+    "Tag": "[Totem|トーテム]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "totem_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "trap",
+    "Tag": "トラップ",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "trap_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "mine",
+    "Tag": "マイン",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "movement",
+    "Tag": "移動",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "cast",
+    "Tag": "キャスト",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "vaal",
+    "Tag": "ヴァール",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "vaal_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "grants_active_skill",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "trigger",
+    "Tag": "[Trigger|トリガー]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "warcry",
+    "Tag": "[Warcry|ウォークライ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "golem",
+    "Tag": "ゴーレム",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "low_max_level",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "channelling",
+    "Tag": "[Channelling|チャネリング]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "herald",
+    "Tag": "[Herald|ヘラルド]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "brand",
+    "Tag": "ブランド",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "physical",
+    "Tag": "[Physical|物理]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "physical_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "physical_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_physical_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "guard",
+    "Tag": "ガード",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "travel",
+    "Tag": "[Travel|トラベル]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "strike",
+    "Tag": "[Strike|ストライク]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_strike_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "blink",
+    "Tag": "ブリンク",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "nova",
+    "Tag": "[Nova|ノヴァ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "banner",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "slam",
+    "Tag": "[Slam|スラム]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "stance",
+    "Tag": "スタンス",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "hex",
+    "Tag": "呪術",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "mark",
+    "Tag": "[Mark|呪印]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "orb",
+    "Tag": "[Orb|オーブ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "random_element",
+    "Tag": "プリズマティック",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "arcane",
+    "Tag": "アーケイン",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "critical",
+    "Tag": "クリティカル",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "exceptional",
+    "Tag": "希少",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "link",
+    "Tag": "リンク",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "link_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "blessing",
+    "Tag": "ブレッシング",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "awakened",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "meta",
+    "Tag": "[Meta|メタ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "crossbow",
+    "Tag": "クロスボウ",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "crossbow_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "shapeshift",
+    "Tag": "シェープシフト",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "bear",
+    "Tag": "熊",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "wolf",
+    "Tag": "狼",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "detonator",
+    "Tag": "[Detonator|起爆]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "buff",
+    "Tag": "[Buff|バフ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "persistent",
+    "Tag": "[Persistent|永続]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "ammunition",
+    "Tag": "[Ammunition|弾薬]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "sustained",
+    "Tag": "[Sustained|維持]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "payoff",
+    "Tag": "[Payoff|ペイオフ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "grenade",
+    "Tag": "[Grenade|グレネード]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  }
+]

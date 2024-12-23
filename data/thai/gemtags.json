@@ -1,1 +1,549 @@
-[]
+[
+  {
+    "Id": "fire",
+    "Tag": "[Fire|ไฟ]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "fire_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "virtual_fire_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_fire_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "cold",
+    "Tag": "[Cold|น้ำแข็ง]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "cold_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "virtual_cold_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_cold_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "lightning",
+    "Tag": "[Lightning|สายฟ้า]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "lightning_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "virtual_lightning_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_lightning_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "chaos",
+    "Tag": "[Chaos|เคออส]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "chaos_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "chaos_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_chaos_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "spell",
+    "Tag": "[Spell|เวท]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "spell_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "projectile",
+    "Tag": "[Projectile|โพรเจกไทล์]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "projectile_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "bow",
+    "Tag": "ธนู",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "bow_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "melee",
+    "Tag": "[Melee|ประชิด]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "melee_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "minion",
+    "Tag": "[Minion|มิเนียน]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "minion_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_minion_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "strength",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "strength_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "dexterity",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "dexterity_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "intelligence",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "intelligence_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "aura",
+    "Tag": "[Aura|ออร่า]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_aura_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "attack",
+    "Tag": "[Attack|โจมตี]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "area",
+    "Tag": "[AoESkill|พื้นที่]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "duration",
+    "Tag": "[DurationSkill|ช่วงเวลา]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "support",
+    "Tag": "[SupportGem|เสริม]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "curse",
+    "Tag": "[Curse|คำสาป]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "curse_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_curse_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "chaining",
+    "Tag": "[Chain|ชิ่ง]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "totem",
+    "Tag": "[Totem|โทเทม]",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "totem_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "trap",
+    "Tag": "กับดัก",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "trap_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "mine",
+    "Tag": "ทุ่นระเบิด",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "movement",
+    "Tag": "เคลื่อนที่",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "cast",
+    "Tag": "ร่าย",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "vaal",
+    "Tag": "วาล์",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "vaal_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "grants_active_skill",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "trigger",
+    "Tag": "[Trigger|ทริกเกอร์]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "warcry",
+    "Tag": "[Warcry|คำราม]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "golem",
+    "Tag": "โกเลม",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "low_max_level",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "channelling",
+    "Tag": "[Channelling|แชนเนล]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "herald",
+    "Tag": "[Herald|สาสน์]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "brand",
+    "Tag": "ตราเวท",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "physical",
+    "Tag": "[Physical|กายภาพ]",
+    "Stat1": {
+      "TableName": "Stats",
+      "Id": "physical_spell_skill_gem_level_+"
+    },
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "physical_skill_gem_level_+"
+    },
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_physical_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "guard",
+    "Tag": "ตั้งรับ",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "travel",
+    "Tag": "[Travel|เดินทาง]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "strike",
+    "Tag": "[Strike|ฟาด]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": {
+      "TableName": "Stats",
+      "Id": "supported_strike_skill_gem_level_+"
+    }
+  },
+  {
+    "Id": "blink",
+    "Tag": "ก้าวพริบตา",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "nova",
+    "Tag": "[Nova|กระจาย]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "banner",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "slam",
+    "Tag": "[Slam|ทุบ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "stance",
+    "Tag": "กระบวนท่า",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "hex",
+    "Tag": "สาปสะกด",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "mark",
+    "Tag": "[Mark|คำแช่ง]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "orb",
+    "Tag": "[Orb|ลูกแก้ว]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "random_element",
+    "Tag": "สุ่มธาตุ",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "arcane",
+    "Tag": "อาคม",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "critical",
+    "Tag": "คริติคอล",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "exceptional",
+    "Tag": "ดีเด่น",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "link",
+    "Tag": "ประสาน",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "link_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "blessing",
+    "Tag": "พร",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "awakened",
+    "Tag": "",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "meta",
+    "Tag": "[Meta|เมต้า]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "crossbow",
+    "Tag": "หน้าไม้",
+    "Stat1": null,
+    "Stat2": {
+      "TableName": "Stats",
+      "Id": "crossbow_skill_gem_level_+"
+    },
+    "Stat3": null
+  },
+  {
+    "Id": "shapeshift",
+    "Tag": "กลายร่าง",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "bear",
+    "Tag": "หมี",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "wolf",
+    "Tag": "หมาป่า",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "detonator",
+    "Tag": "[Detonator|จุดระเบิด]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "buff",
+    "Tag": "[Buff|บัฟ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "persistent",
+    "Tag": "[Persistent|ยั่งยืน]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "ammunition",
+    "Tag": "[Ammunition|กระสุน]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "sustained",
+    "Tag": "[Sustained|ทยอยปะทะ]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "payoff",
+    "Tag": "[Payoff|ตอบแทน]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  },
+  {
+    "Id": "grenade",
+    "Tag": "[Grenade|ลูกระเบิด]",
+    "Stat1": null,
+    "Stat2": null,
+    "Stat3": null
+  }
+]
