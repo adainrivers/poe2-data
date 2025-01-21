@@ -5598,7 +5598,7 @@
   },
   {
     "Id": "curse_temporal_chains",
-    "Description": "[Slow|Ralenti].",
+    "Description": "Vous êtes [Slow|Ralenti] et les effets vous affectant expirent plus lentement.",
     "Invisible": false,
     "Removable": false,
     "Name": "Chaînes temporelles ",
@@ -7689,7 +7689,7 @@
     "StatsKeys": [
       {
         "TableName": "Stats",
-        "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
+        "Id": "base_maximum_life_%_to_gain_as_total_energy_shield"
       }
     ],
     "Unk006": true,
@@ -7731,7 +7731,7 @@
     "Unk039": [
       {
         "TableName": "Stats",
-        "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
+        "Id": "base_maximum_life_%_to_gain_as_total_energy_shield"
       }
     ],
     "Unk040": [],
@@ -11924,7 +11924,7 @@
     "StatsKeys": [
       {
         "TableName": "Stats",
-        "Id": "total_maximum_energy_shield_+"
+        "Id": "base_total_maximum_energy_shield_+"
       },
       {
         "TableName": "Stats",
@@ -11999,7 +11999,7 @@
     "Unk039": [
       {
         "TableName": "Stats",
-        "Id": "total_maximum_energy_shield_+"
+        "Id": "base_total_maximum_energy_shield_+"
       },
       {
         "TableName": "Stats",
@@ -17472,7 +17472,7 @@
     "Unk045": false,
     "Unk046": null,
     "Unk047": [],
-    "Unk048": "6",
+    "Unk048": "",
     "Unk049": [],
     "Unk050": false
   },
@@ -109841,7 +109841,7 @@
     "Description": "Votre Vitesse de déplacement est [Slow|Ralentie] et l'[Exposure|Exposition au feu] vous est infligée. Le [IgnitedGround|Sol embrasé] ou les Aptitudes de [Detonator|Détonation] [Ignite|Embraseront] l'Huile.",
     "Invisible": false,
     "Removable": false,
-    "Name": "Sol imbibé de pétrole ",
+    "Name": "Sol huileux",
     "StatsKeys": [
       {
         "TableName": "Stats",
@@ -122816,7 +122816,7 @@
   },
   {
     "Id": "spear_sandstorm",
-    "Description": "Vous êtes dans une tempête de sable, ce qui réduit votre vitesse de déplacement et vous aveugle.",
+    "Description": "Vous êtes dans une tempête de sable, ce qui réduit votre vitesse de déplacement et vous [Blind|Aveugle].",
     "Invisible": false,
     "Removable": false,
     "Name": "[DNT] Sandstorm Swipe",
@@ -150881,7 +150881,7 @@
   },
   {
     "Id": "procession_banner_blood_drain_regen",
-    "Description": "",
+    "Description": "Octroie de la Régénération de Vie",
     "Invisible": false,
     "Removable": false,
     "Name": "Sang du Porteur",
@@ -151233,10 +151233,10 @@
   },
   {
     "Id": "ziggurat_burning_sun",
-    "Description": "You are taking fire damage over time from being near a fragment of the Temple of Kopec's Sun.",
+    "Description": "Vous subissez des Dégâts de feu sur la durée en raison de votre proximité avec un fragment du Soleil du Temple de Kopec.",
     "Invisible": false,
     "Removable": false,
-    "Name": "A Fragment of Sun",
+    "Name": "Un fragment de Soleil",
     "StatsKeys": [
       {
         "TableName": "Stats",
@@ -151299,7 +151299,7 @@
   },
   {
     "Id": "ziggurat_burning_sun_severe",
-    "Description": "Vous subissez des Dégâts de feu sur la durée car vous êtes exposé au Soleil du Temple de Kopec.",
+    "Description": "Vous subissez des Dégâts de feu sur la durée en raison de votre exposition au Soleil du Temple de Kopec.",
     "Invisible": false,
     "Removable": false,
     "Name": "Soleil de la Ziggourat",
@@ -160883,80 +160883,6 @@
     "Unk050": false
   },
   {
-    "Id": "warrior_hunkered_down",
-    "Description": "",
-    "Invisible": true,
-    "Removable": false,
-    "Name": "",
-    "StatsKeys": [
-      {
-        "TableName": "Stats",
-        "Id": "additional_block_%"
-      },
-      {
-        "TableName": "Stats",
-        "Id": "base_pushiness_size_+"
-      }
-    ],
-    "Unk006": true,
-    "Unk007": 2,
-    "Unk008": false,
-    "Maximum_StatsKey": null,
-    "Current_StatsKey": null,
-    "Unk011": false,
-    "Unk012": 29,
-    "BuffVisualsKey": {
-      "TableName": "BuffVisuals",
-      "Id": "invisible"
-    },
-    "Unk014": true,
-    "Unk015": false,
-    "BuffCategory": 18,
-    "Unk017": false,
-    "Unk018": true,
-    "Unk019": true,
-    "Unk020": false,
-    "BuffLimit": 0,
-    "Unk022": false,
-    "Id2": "",
-    "IsRecovery": false,
-    "Unk025": false,
-    "Unk026": null,
-    "Unk027": false,
-    "Unk028": 7,
-    "Unk029": false,
-    "Unk030": false,
-    "Unk031": 0,
-    "Unk032": [],
-    "Unk033": false,
-    "Unk034": false,
-    "Unk035": [],
-    "Unk036": false,
-    "Unk037": [],
-    "BinaryStats": [],
-    "Unk039": [
-      {
-        "TableName": "Stats",
-        "Id": "additional_block_%"
-      },
-      {
-        "TableName": "Stats",
-        "Id": "base_pushiness_size_+"
-      }
-    ],
-    "Unk040": [],
-    "Unk041": false,
-    "Unk042": false,
-    "Unk043": false,
-    "Unk044": false,
-    "Unk045": false,
-    "Unk046": null,
-    "Unk047": [],
-    "Unk048": "뮻뮻뮻뮻ignited",
-    "Unk049": [],
-    "Unk050": false
-  },
-  {
     "Id": "ice_bind_debuff",
     "Description": "Vous êtes Ralenti par une Flèche d'empêtrement. Éloignez-vous d'elle pour tendre l'attache jusqu'à ce qu'elle casse.",
     "Invisible": false,
@@ -166873,7 +166799,7 @@
     "Description": "Vous infligez des dégâts réduits tant que vous vous trouvez à portée de l'étendard.",
     "Invisible": false,
     "Removable": false,
-    "Name": "Perte de morale",
+    "Name": "Perte de moral",
     "StatsKeys": [
       {
         "TableName": "Stats",

@@ -25825,7 +25825,7 @@
   },
   {
     "Id": "TutorialPanelGlossaryContent4",
-    "Text": "[Bleeding], [Ignite], [Chill], [Freeze], [Shock] and [Poison]. [Ailments] can be removed by certain flasks, or negated by items or passive skills.\r\n\r\nThere are also other Ailments that can be applied through certain rare items and passive skills. These are called Brittle, Sap and Scorch. ",
+    "Text": "[Bleeding], [Ignite], [Chill], [Freeze], [Shock] and [Poison]. [Ailments] can be removed by certain charms, or negated by items or passive skills.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 8648866,
@@ -39385,7 +39385,7 @@
   },
   {
     "Id": "BlightAnointErrorCorruptedItem",
-    "Text": "This Corrupted item requires a Tainted Oil to anoint.",
+    "Text": "Corrupted Items cannot be Instilled.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -585479479,
@@ -39393,7 +39393,7 @@
   },
   {
     "Id": "BlightAnointErrorMirrorItem",
-    "Text": "This Mirrored item requires a Reflective Oil to anoint.",
+    "Text": "Mirrored Items cannot be Instilled.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 845094853,
@@ -59617,7 +59617,7 @@
   },
   {
     "Id": "OptionAutoLogoutIfControllerDisconnectedPopup",
-    "Text": "Automatically return to the login screen if your controller is removed during gameplay.",
+    "Text": "Automatically return to the login screen if your controller is disconnected during gameplay and pausing of the game is unavailable.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1280383134,
@@ -61001,7 +61001,7 @@
   },
   {
     "Id": "SupportGemCantSupportAnyEquippedGem",
-    "Text": "This Support cannot be used with any equipped Skills",
+    "Text": "This Support cannot be socketed into any equipped Skills",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1995027879,
@@ -61057,7 +61057,7 @@
   },
   {
     "Id": "ItemDescriptionSoulCore",
-    "Text": "Place into an empty Rune Socket in a [MartialWeapon|Martial Weapon] or Armour to apply its effect to that item. Once socketed it cannot be removed or replaced.",
+    "Text": "Place into an empty Rune Socket in a [MartialWeapon|Martial Weapon] or Armour to apply its effect to that item. Once socketed it cannot be removed.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -17833895,
@@ -63865,7 +63865,7 @@
   },
   {
     "Id": "RuneSocketConfirmWarning",
-    "Text": "Are you sure you want to socket this Rune?\r\nRunes cannot be removed once socketed.\r\n",
+    "Text": "Socket {0}?\r\nRunes cannot be removed once socketed.\r\n",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 447893455,
@@ -66901,6 +66901,110 @@
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 926585170,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelGuildDonationWarningContent",
+    "Text": "In order for your points to be transferred to the Guild, the Guild Leader must accept the transaction:\n{0}\n\nIf the Guild Leader doesn't accept these points within 48 hours the points will be returned to you.",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 429795050,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelGuildDonationRequest",
+    "Text": "Your donation has been sent.\n Please wait for the Guild Leader to accept or cancel your point donation.",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 1760549124,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelBundlePurchaseOnly",
+    "Text": "Bundle Purchase Only",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -755060096,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelItemCannotPurchaseIndividual",
+    "Text": "This Item Cannot Be Purchased Individually",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -1586382482,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "SkillPopupCastTimeValue",
+    "Text": "{0} s",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 898359382,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "GamepadSSFInvalidInCOOP",
+    "Text": "Couch co-op is unavailable in Solo Self-Found",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -777655859,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "ConsoleActionPlaceSingle",
+    "Text": "Place Single",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -77014063,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "WeaponSetDisabledMessage",
+    "Text": "No Skill Points to allocate for Weapon Set Points",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -1884406229,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "PersistentBuffTutorial",
+    "Text": "Right click to activate your buff gem",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -2021994248,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "PersistentBuffTutorialNoSpirit",
+    "Text": "Right click to activate your buff gem when you have the spirit to do so",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 971475816,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "WorldPanelPinPopupBiome",
+    "Text": "Biome: <white>{{{0}}}",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -361254526,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "OptionsOpenPopularFiltersWebpageButtonPopup",
+    "Text": "Click to open the popular filters page in your web browser",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -867992411,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "MigrateAllLeaguesDropBoxOption",
+    "Text": "All",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -226971148,
     "PlaystationText": ""
   }
 ]

@@ -7483,6 +7483,31 @@
     {
       "Path": "metadata/statdescriptions/atlas_stat_descriptions",
       "Ids": [
+        "map_experience_gain_+%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Experience gain in your Maps",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Experience gain in your Maps",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/atlas_stat_descriptions",
+      "Ids": [
         "map_expiditon_logbooks_drop_with_3_implicits"
       ],
       "Descriptions": [
@@ -7620,7 +7645,7 @@
       "Descriptions": [
         {
           "Operator": "#",
-          "Description": "[MapBoss|Map Boss] has +{0}% chance to drop a Waystone",
+          "Description": "[MapBoss|Map Boss] has +{0}% chance to drop a Waystone of the current tier or higher",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -7944,6 +7969,31 @@
         {
           "Operator": "#|-1",
           "Description": "Mountain Biome Maps have {0}% reduced chance to drop Gold",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/atlas_stat_descriptions",
+      "Ids": [
+        "map_gold_+%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "{0}% increased Gold found in your Maps",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "{0}% reduced Gold found in your Maps",
           "IsCanonical": false,
           "Parameters": [
             {
@@ -11952,6 +12002,56 @@
         {
           "Operator": "#",
           "Description": "Waystones found in your Maps have {0}% chance to be Corrupted",
+          "IsCanonical": false,
+          "Parameters": []
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/atlas_stat_descriptions",
+      "Ids": [
+        "map_rare_monster_additional_modifier_chance_%_with_rollover"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|99",
+          "Description": "[Rarity|Rare] Monsters in your Maps have a {0}% chance to have an additional Modifier",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "100",
+          "Description": "[Rarity|Rare] Monsters in your Maps have an additional Modifier",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "101|199",
+          "Description": "[Rarity|Rare] Monsters in your Maps have an additional Modifier and a {0}% chance to have another additional Modifier",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "200",
+          "Description": "[Rarity|Rare] Monsters in your Maps have two additional Modifiers",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "201|299",
+          "Description": "[Rarity|Rare] Monsters in your Maps have two additional Modifiers and a {0}% chance to have another additional Modifier",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "300",
+          "Description": "[Rarity|Rare] Monsters in your Maps have three additional Modifiers",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "301|#",
+          "Description": "[Rarity|Rare] Monsters in your Maps have three additional Modifiers and a {0}% chance to have another additional Modifier",
           "IsCanonical": false,
           "Parameters": []
         }

@@ -7543,7 +7543,7 @@
   {
     "Id": "melee",
     "DisplayedName": "โจมตีพื้นฐาน",
-    "Description": "โจมตีศัตรูของคุณด้วยการจู่โจมอย่างมีกำลัง",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 34
@@ -8878,7 +8878,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 67342,
+    "Unk030": 67256,
     "AudioEvent": null,
     "Unk032": 54446,
     "Unk033": null,
@@ -9112,7 +9112,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 67342,
+    "Unk030": 67256,
     "AudioEvent": null,
     "Unk032": 54446,
     "Unk033": null,
@@ -9553,7 +9553,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 67342,
+    "Unk030": 67256,
     "AudioEvent": null,
     "Unk032": 1562,
     "Unk033": null,
@@ -9736,7 +9736,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 72076,
+    "Unk030": 71990,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -10718,7 +10718,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 83470,
+    "Unk032": 83384,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11626,7 +11626,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 407
     },
-    "Unk032": 93884,
+    "Unk032": 93798,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11994,7 +11994,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 398
     },
-    "Unk032": 93884,
+    "Unk032": 93798,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12230,7 +12230,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 465
     },
-    "Unk032": 103128,
+    "Unk032": 103042,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12373,7 +12373,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 420
     },
-    "Unk032": 93884,
+    "Unk032": 93798,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12978,9 +12978,9 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 112386,
+    "Unk030": 112300,
     "AudioEvent": null,
-    "Unk032": 112470,
+    "Unk032": 112384,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -14186,7 +14186,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 424
     },
-    "Unk032": 123072,
+    "Unk032": 122986,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -17059,7 +17059,7 @@
   {
     "Id": "discipline",
     "DisplayedName": "วินัย",
-    "Description": "แผ่[Aura|ออร่า]ที่มอบ[EnergyShield|โล่พลังงาน][Total|สุทธิ] เพิ่มเติม ให้กับ[Allies|เพื่อน]ที่อยู่ใน[Presence|การปรากฏกาย]ของคุณ [Aura|ออร่า]นี้ไม่ส่งผลต่อคุณ",
+    "Description": "แผ่[Aura|ออร่า]ที่มอบ[EnergyShield|โล่พลังงาน][Total|สุทธิ] เพิ่มเติม ให้กับ[Allies|เพื่อน]ที่อยู่ใน[Presence|ระยะปรากฏกาย]ของคุณ [Aura|ออร่า]นี้ไม่ส่งผลต่อคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 76
@@ -20626,7 +20626,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 93884,
+    "Unk032": 93798,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20636,7 +20636,7 @@
   },
   {
     "Id": "cold_weakness",
-    "DisplayedName": "น้ำแข็งกัด",
+    "DisplayedName": "เหน็บหนาว",
     "Description": "[Curse|สาป]ทุกเป้าหมายในพื้นที่หลังจากระยะเวลาสั้นๆ เพื่อลด[Resistance|ค่าต้านทาน] [Cold|น้ำแข็ง] ของพวกมัน",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -20766,7 +20766,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 93884,
+    "Unk032": 93798,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20776,7 +20776,7 @@
   },
   {
     "Id": "lightning_weakness",
-    "DisplayedName": "ตัวนำไฟฟ้า",
+    "DisplayedName": "นำไฟฟ้า",
     "Description": "[Curse|สาป]ทุกเป้าหมายในพื้นที่หลังจากระยะเวลาสั้นๆ เพื่อลด[Resistance|ค่าต้านทาน] [Lightning|สายฟ้า] ของพวกมัน",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -20906,7 +20906,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 93884,
+    "Unk032": 93798,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -23144,7 +23144,7 @@
   {
     "Id": "fire_resist_aura",
     "DisplayedName": "ไฟพิสุทธิ์",
-    "Description": "แผ่[Aura|ออร่า]ที่เพิ่ม[Resistances|ค่าต้านทาน ไฟ] ให้กับ[Allies|เพื่อน]ที่อยู่ใน[Presence|การปรากฏกาย]ของคุณ [Aura|ออร่า]นี้ไม่ส่งผลต่อคุณ",
+    "Description": "แผ่[Aura|ออร่า]ที่เพิ่ม[Resistances|ค่าต้านทาน ไฟ] ให้กับ[Allies|เพื่อน]ที่อยู่ใน[Presence|ระยะปรากฏกาย]ของคุณ [Aura|ออร่า]นี้ไม่ส่งผลต่อคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 112
@@ -23257,7 +23257,7 @@
   {
     "Id": "cold_resist_aura",
     "DisplayedName": "น้ำแข็งพิสุทธิ์",
-    "Description": "แผ่[Aura|ออร่า]ที่เพิ่ม[Resistances|ค่าต้านทาน น้ำแข็ง] ให้กับ[Allies|เพื่อน]ที่อยู่ใน[Presence|การปรากฏกาย]ของคุณ [Aura|ออร่า]นี้ไม่ส่งผลต่อคุณ",
+    "Description": "แผ่[Aura|ออร่า]ที่เพิ่ม[Resistances|ค่าต้านทาน น้ำแข็ง] ให้กับ[Allies|เพื่อน]ที่อยู่ใน[Presence|ระยะปรากฏกาย]ของคุณ [Aura|ออร่า]นี้ไม่ส่งผลต่อคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 113
@@ -23370,7 +23370,7 @@
   {
     "Id": "lightning_resist_aura",
     "DisplayedName": "สายฟ้าพิสุทธิ์",
-    "Description": "แผ่[Aura|ออร่า]ที่เพิ่ม[Resistances|ค่าต้านทาน สายฟ้า] ให้กับ[Allies|เพื่อน]ที่อยู่ใน[Presence|การปรากฏกาย]ของคุณ [Aura|ออร่า]นี้ไม่ส่งผลต่อคุณ",
+    "Description": "แผ่[Aura|ออร่า]ที่เพิ่ม[Resistances|ค่าต้านทาน สายฟ้า] ให้กับ[Allies|เพื่อน]ที่อยู่ใน[Presence|ระยะปรากฏกาย]ของคุณ [Aura|ออร่า]นี้ไม่ส่งผลต่อคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 114
@@ -28096,7 +28096,7 @@
   {
     "Id": "herald_of_ash",
     "DisplayedName": "สาสน์ธุลี",
-    "Description": "ขณะที่สกิลนี้ทำงาน ศัตรูที่คุณสังหารด้วยการโจมตีที่มีความเสียหายล้นเกินเพียงพอ จะก่อให้เกิดระเบิดที่สร้างสถานะ\r\n[Ignite|ลุกไหม้] ต่อศัตรูที่อยู่ใกล้ตาม[Overkill|ความเสียหายล้นเกิน]นั้น",
+    "Description": "ขณะที่สกิลนี้ทำงาน ศัตรูที่คุณสังหารด้วยการโจมตีที่มีความเสียหายล้นเกินเพียงพอ\r\nจะก่อให้เกิดระเบิดที่สร้างสถานะ [Ignite|ลุกไหม้] ต่อศัตรูที่อยู่ใกล้ตาม[Overkill|ความเสียหายล้นเกิน]นั้น",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 137
@@ -28295,7 +28295,7 @@
   {
     "Id": "herald_of_ice",
     "DisplayedName": "สาสน์น้ำแข็ง",
-    "Description": "ขณะที่สกิลนี้ทำงาน การ[HitDamage|ปะทะ]ด้วยการ[Attack|โจมตี]ที่ทำให้ศัตรู[Shatter|แตกสลาย]จะก่อให้เกิดระเบิดที่สร้างความเสียหาย [Attack|โจมตี] ต่อศัตรูรอบตัว",
+    "Description": "ขณะที่สกิลนี้ทำงาน การ[HitDamage|ปะทะ]ด้วยการ[Attack|โจมตี]ที่ทำให้ศัตรู[Shatter|แตกสลาย]\r\nจะก่อให้เกิดระเบิดที่สร้างความเสียหาย [Attack|โจมตี] ต่อศัตรูรอบตัว",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 138
@@ -28522,7 +28522,7 @@
   {
     "Id": "herald_of_thunder",
     "DisplayedName": "สาสน์สายฟ้า",
-    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูที่ติดสถานะ [Shock|ช็อค] ด้วยความเสียหาย [Attack|โจมตี] จะทำให้ปะทะด้วยการ[Attack|โจมตี]หลังจากนั้นทำการปล่อยสายฟ้าฟาดที่สร้างความเสียหาย [Attack|โจมตี] ต่อศัตรูรอบตัวทั้งหมด",
+    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูที่ติดสถานะ [Shock|ช็อค] ด้วยความเสียหาย [Attack|โจมตี]\r\nจะทำให้ปะทะด้วยการ[Attack|โจมตี]หลังจากนั้นทำการปล่อยสายฟ้าฟาด\r\nที่สร้างความเสียหาย [Attack|โจมตี] ต่อศัตรูรอบตัวทั้งหมด",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 139
@@ -33992,7 +33992,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 229240,
+    "Unk030": 229164,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 344
@@ -34947,7 +34947,7 @@
   {
     "Id": "vaal_earthquake",
     "DisplayedName": "วาล์ แผ่นดินไหว",
-    "Description": "ใช้ ขวาน กระบองหรือคทา ไม้เท้า ทุบพื้น สร้างความเสียหายในพื้นที่และทำให้แผ่นดินปริแตกในหลายๆ จุด รอยแตกแต่ละแห่งจะปะทุเกิดเป็นชุดอาฟเตอร์ช็อค 3 ครั้งหลังจากเวลาผ่านไปสักพัก",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 181
@@ -36633,7 +36633,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 244056,
+    "Unk030": 243632,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 335
@@ -45487,7 +45487,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 406
     },
-    "Unk032": 93884,
+    "Unk032": 93798,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -56114,7 +56114,7 @@
   },
   {
     "Id": "monster_quick_dodge",
-    "DisplayedName": "พุ่งตัว",
+    "DisplayedName": "",
     "Description": "ทำการเทเลพอร์ตต่อเนื่องอย่างรวดเร็วไปยังตำแหน่งเป้าหมาย หากใช้ตัวเลือก \"โจมตีโดยไม่เคลื่อนที่\" จะสลับทิศทางของการเคลื่อนที่ ใช้คูลดาวน์ร่วมกับสกิล ก้าวพริบตา อื่นๆ",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -56810,7 +56810,7 @@
   {
     "Id": "artillery_ballista_projectile",
     "DisplayedName": "ลูกศรปืนใหญ่",
-    "Description": "เล็งขึ้นฟ้าแล้วยิงลูกศรบรรทุกที่ติดตามศัตรู เพื่อให้ทิ้งลูกศรลงมาใกล้กับศัตรูทุกตัวในพื้นที่เป้าหมาย ลูกศรเหล่านี้จะปักลงพื้นและระเบิดหลังจากระยะเวลาสั้นๆ",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 456
@@ -58094,7 +58094,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 337722,
+    "Unk030": 336986,
     "AudioEvent": null,
     "Unk032": 1562,
     "Unk033": null,
@@ -60440,7 +60440,7 @@
   {
     "Id": "hexblast",
     "DisplayedName": "ระเบิดคำสาป",
-    "Description": "จุดระเบิด[Curse|คำสาป]บนตัวศัตรูในพื้นที่เพื่อสร้างระเบิดความเสียหาย [Chaos|เคออส] แต่กำจัด[Curse|คำสาป]นั้น",
+    "Description": "จุดระเบิด[Curse|คำสาป] 1 สาปบนตัวศัตรูในพื้นที่เพื่อสร้างระเบิดความเสียหาย [Chaos|เคออส] แต่กำจัด[Curse|คำสาป]นั้น",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 390
@@ -66762,10 +66762,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 27
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 7
       },
       {
@@ -68029,7 +68025,7 @@
   {
     "Id": "lightning_conduit",
     "DisplayedName": "คาถาล่อฟ้า",
-    "Description": "เรียกฟ้าผ่าศัตรูทุกตัวในพื้นที่ทรงกรวยตรงหน้าคุณ\r\nสกิลนี้สร้างความเสียหายเพิ่มขึ้น อีก เป็นอย่างยิ่งต่อศัตรูที่ติดสถานะ [Shock|ช็อค]\r\nแต่[Consume|กลืนกิน]สถานะ [Shock|ช็อค] หลังจากที่สร้างความเสียหาย\r\nคุณจะกระโดดร่ายไปข้างหลังเมื่อเล็งเป้าหมายใกล้ตัวคุณ",
+    "Description": "เรียกฟ้าผ่าศัตรูทุกตัวในพื้นที่ทรงกรวยตรงหน้าคุณ\r\nสกิลนี้สร้างความเสียหายเพิ่มขึ้น อีก เป็นอย่างยิ่งต่อศัตรูที่ติดสถานะ [Shock|ช็อค]\r\nแต่[Consume|กลืนกิน]สถานะ [Shock|ช็อค] หลังจากที่สร้างความเสียหาย\r\nหากสกิลนี้[Consume|กลืนกิน]สถานะ [Shock|ช็อค] จะทำการกระจายสายฟ้าเพิ่มเติมไปยังเป้าหมายทุกตัวที่ถูกปะทะ\r\nคุณจะกระโดดร่ายไปข้างหลังเมื่อเล็งเป้าหมายใกล้ตัวคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 438
@@ -69022,7 +69018,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 400532,
+    "Unk030": 400002,
     "AudioEvent": null,
     "Unk032": 1562,
     "Unk033": null,
@@ -69585,7 +69581,7 @@
   {
     "Id": "sandstorm_swipe",
     "DisplayedName": "ฟันเรียกพายุ",
-    "Description": "ฟันเป็นวงกลมเพื่อสร้างพายุสายลมและฝุ่นรอบตัวคุณ ทำให้ศัตรูที่อยู่ในพื้นที่[Slow|เชื่องช้า]และติดสถานะ [Blind|ตาบอด] การออกจากพื้นที่จะปล่อยพลังพายุหมุนวนเพื่อสร้างความเสียหาย",
+    "Description": "ฟันเป็นวงกลมเพื่อสร้างพายุฝุ่นหมุนรอบตัวคุณ ทำให้ศัตรูที่อยู่ในพื้นที่[Slow|เชื่องช้า]และติดสถานะ [Blind|ตาบอด]\r\nการออกจากพื้นที่จะปล่อยพลังพายุออกมาเพื่อสร้างความเสียหายและ[Knockback|ผลักออกไป]",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 448
@@ -69700,7 +69696,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 403844,
+    "Unk030": 403354,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 360
@@ -69952,7 +69948,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 405298,
+    "Unk030": 404808,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 362
@@ -70546,7 +70542,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 513
     },
-    "Unk032": 408984,
+    "Unk032": 408494,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70699,7 +70695,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 518
     },
-    "Unk032": 409890,
+    "Unk032": 409400,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70772,7 +70768,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 529
     },
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70925,7 +70921,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 525
     },
-    "Unk032": 411586,
+    "Unk032": 411096,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70999,7 +70995,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71018,7 +71014,8 @@
     "Icon_DDSFile": "Art/2DArt/SkillIcons/PowerShotPermafrost.dds",
     "ActiveSkillTargetTypes": [
       1,
-      2
+      2,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71168,7 +71165,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 522
     },
-    "Unk032": 413172,
+    "Unk032": 412686,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71188,7 +71185,8 @@
     "ActiveSkillTargetTypes": [
       1,
       23,
-      24
+      24,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71238,7 +71236,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71387,7 +71385,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 536
     },
-    "Unk032": 414754,
+    "Unk032": 414272,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71457,7 +71455,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71825,7 +71823,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72053,7 +72051,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72286,7 +72284,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72513,7 +72511,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72776,7 +72774,7 @@
   {
     "Id": "whirling_assault",
     "DisplayedName": "หมุนตัวจู่โจม",
-    "Description": "บุกไปข้างหน้าพลางหมุนตัวฟาดศัตรูรอบตัวคุณหลายครั้ง",
+    "Description": "บุกไปข้างหน้าพลางหมุนตัว[Strike|ฟาด]ศัตรูรอบตัวคุณหลายครั้ง",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 458
@@ -72894,7 +72892,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 424146,
+    "Unk030": 423682,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 326
@@ -73576,7 +73574,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 428710,
+    "Unk030": 428246,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 328
@@ -77494,7 +77492,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77713,7 +77711,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77940,7 +77938,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78163,7 +78161,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78318,7 +78316,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 514
     },
-    "Unk032": 456638,
+    "Unk032": 456174,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78481,7 +78479,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 506
     },
-    "Unk032": 457678,
+    "Unk032": 457214,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78551,7 +78549,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78710,7 +78708,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 519
     },
-    "Unk032": 459554,
+    "Unk032": 459090,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78780,7 +78778,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78791,7 +78789,7 @@
   {
     "Id": "burst_shot_permafrost",
     "DisplayedName": "ลูกศรเยือกแข็ง",
-    "Description": "ยิงลูกศรน้ำแข็งที่แตกสะเก็ดกลางอากาศ\r\nเพื่อสร้างความเสียหายต่อศัตรูที่ปะทะและในพื้นที่ทรงกรวยขนาดเล็กเบื้องหลังเป้าหมายสุดท้าย\r\nลูกศรเคลือบสารเยือกแข็งนี้มีศักยภาพสูงในการสะสมค่า[Freeze|แช่แข็ง]ต่อศัตรู",
+    "Description": "ยิงลูกศรน้ำแข็งที่แตกสะเก็ดกลางอากาศ\r\nเพื่อสร้างความเสียหายต่อศัตรูที่ปะทะและในพื้นที่ทรงกรวยขนาดเล็กเบื้องห\r\nลังเป้าหมายสุดท้าย\r\nลูกศรเคลือบสารเยือกแข็งนี้มีศักยภาพสูงในการสะสมค่า[Freeze|แช่แข็ง]ต่อศัตรู",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 474
@@ -78943,7 +78941,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 503
     },
-    "Unk032": 461522,
+    "Unk032": 461062,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79013,7 +79011,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79176,7 +79174,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 534
     },
-    "Unk032": 463452,
+    "Unk032": 462992,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79246,7 +79244,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 410648,
+    "Unk032": 410158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79508,7 +79506,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 465644,
+    "Unk030": 465184,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 321
@@ -81214,7 +81212,7 @@
   {
     "Id": "new_new_arctic_armour",
     "DisplayedName": "เกราะน้ำแข็ง",
-    "Description": "สร้างบาเรียน้ำแข็งที่ได้รับสเตจอย่างต่อเนื่อง ขณะที่บาเรียนี้มีสเตจ การปะทะด้วยการ[Attack|โจมตี][Melee|ประชิด]ที่คุณได้รับจะกำจัด 1 สเตจเพื่อปล่อยระเบิดน้ำแข็งที่สร้างความเสียหาย [Spell|เวท] [Cold|น้ำแข็ง] ต่อผู้โจมตี",
+    "Description": "สร้างบาเรียน้ำแข็งที่ได้รับสเตจอย่างต่อเนื่อง\r\nขณะที่บาเรียนี้มีสเตจ การปะทะด้วยการ[Attack|โจมตี][Melee|ประชิด]ที่คุณได้รับจะกำจัด 1 สเตจ\r\nเพื่อปล่อยระเบิดน้ำแข็งที่สร้างความเสียหาย [Spell|เวท] [Cold|น้ำแข็ง] ต่อผู้โจมตี",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 482
@@ -81697,7 +81695,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 476732,
+    "Unk030": 476278,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 330
@@ -81904,7 +81902,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 478132,
+    "Unk030": 477678,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 316
@@ -82183,7 +82181,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 480006,
+    "Unk030": 479552,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 337
@@ -82935,7 +82933,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 485016,
+    "Unk030": 484562,
     "AudioEvent": null,
     "Unk032": 1562,
     "Unk033": null,
@@ -84104,7 +84102,7 @@
       "TableName": "ActionTypes",
       "RowIndex": 234
     },
-    "Icon_DDSFile": "Art/2DArt/SkillIcons/LightningBoltSkillStaff.dds",
+    "Icon_DDSFile": "Art/2DArt/SkillIcons/GreaterLightningBoltSkill.dds",
     "ActiveSkillTargetTypes": [
       1,
       2
@@ -84727,7 +84725,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 492468,
+    "Unk030": 492204,
     "AudioEvent": null,
     "Unk032": 1562,
     "Unk033": null,
@@ -84861,7 +84859,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 72076,
+    "Unk030": 71990,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -85089,7 +85087,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 494636,
+    "Unk030": 494372,
     "AudioEvent": null,
     "Unk032": 1562,
     "Unk033": null,
@@ -85458,7 +85456,7 @@
   {
     "Id": "cast_on_shock",
     "DisplayedName": "ร่ายเมื่อช็อค",
-    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะเก็บ[Energy|พลังงาน]เมื่อสร้างสถานะ [Shock|ช็อค] ต่อศัตรู เพื่อทริกเกอร์เวทที่ใส่เมื่อ[Energy|พลังงาน]เต็ม",
+    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะเก็บ[Energy|พลังงาน]เมื่อสร้างสถานะ [Shock|ช็อค] ต่อศัตรู\r\nเพื่อทริกเกอร์เวทที่ใส่เมื่อ[Energy|พลังงาน]เต็ม",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 513
@@ -85537,7 +85535,7 @@
   {
     "Id": "cast_on_freeze",
     "DisplayedName": "ร่ายเมื่อแช่แข็ง",
-    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับ[Energy|พลังงาน]เมื่อสร้างสถานะ [Freeze|แช่แข็ง] ต่อศัตรู และจะทริกเกอร์เวทที่ใส่เมื่อ[Energy|พลังงาน]เต็ม",
+    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับ[Energy|พลังงาน]เมื่อสร้างสถานะ [Freeze|แช่แข็ง] ต่อศัตรู\r\nและจะทริกเกอร์เวทที่ใส่เมื่อ[Energy|พลังงาน]เต็ม",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 514
@@ -85616,7 +85614,7 @@
   {
     "Id": "cast_on_ignite",
     "DisplayedName": "ร่ายเมื่อลุกไหม้",
-    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับ[Energy|พลังงาน]เมื่อสร้างสถานะ [Ignite|ลุกไหม้] ต่อศัตรู และจะทริกเกอร์เวทที่ใส่เมื่อ[Energy|พลังงาน]เต็ม",
+    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับ[Energy|พลังงาน]เมื่อสร้างสถานะ [Ignite|ลุกไหม้] ต่อศัตรู\r\nและจะทริกเกอร์เวทที่ใส่เมื่อ[Energy|พลังงาน]เต็ม",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 515
@@ -85770,7 +85768,7 @@
   {
     "Id": "cast_on_death",
     "DisplayedName": "ร่ายเมื่อตาย",
-    "Description": "มอบบัฟที่ทริกเกอร์สกิลที่ใส่เมื่อคุณตาย",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 517
@@ -86062,7 +86060,7 @@
   {
     "Id": "barrier_invocation",
     "DisplayedName": "มนต์บาเรีย",
-    "Description": "ขณะที่สกิลนี้ทำงาน มนต์นี้จะได้รับ[Energy|พลังงาน]เมื่อ[EnergyShield|โล่พลังงาน]ได้รับความเสียหายจากการ[HitDamage|ปะทะ] การใช้มนต์นี้อีกครั้งเมื่อมี[Energy|พลังงาน]เพียงพอจะกลืนกิน[Energy|พลังงาน]เพื่อทริกเกอร์[Spell|เวท]ที่ใส่ และจะทริกเกอร์ออกมาหลายครั้งหากมี[Energy|พลังงาน]มากพอ",
+    "Description": "ขณะที่สกิลนี้ทำงาน มนต์นี้จะได้รับ[Energy|พลังงาน]เมื่อ[EnergyShield|โล่พลังงาน]ได้รับความเสียหายจากการ[HitDamage|ปะทะ]\r\nการใช้มนต์นี้อีกครั้งเมื่อมี[Energy|พลังงาน]เพียงพอจะกลืนกิน[Energy|พลังงาน]เพื่อทริกเกอร์[Spell|เวท]ที่ใส่\r\nและจะทริกเกอร์ออกมาหลายครั้งหากมี[Energy|พลังงาน]มากพอ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 521
@@ -86368,7 +86366,7 @@
   {
     "Id": "lingering_illusion",
     "DisplayedName": "มายาค้างตา",
-    "Description": "สร้างร่างจำแลงมายาของคุณที่มีระยะเวลาสั้นเมื่อคุณกลิ้งหลบ ร่างจำแลงนี้่ได้รับความเสียหายจากศัตรูได้ และจะให้ [Charges|Power Charge] 1 ลูกกับคุณเมื่อถูกศัตรูทำลาย",
+    "Description": "สร้างร่างจำแลงมายาของคุณที่มีระยะเวลาสั้นเมื่อคุณกลิ้งหลบ\r\nร่างจำแลงนี้่ได้รับความเสียหายจากศัตรูได้ และจะให้ [Charges|Power Charge] 1 ลูกกับคุณเมื่อถูกศัตรูทำลาย",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 525
@@ -86513,7 +86511,7 @@
   {
     "Id": "ghost_dance",
     "DisplayedName": "ระบำวิญญาณ",
-    "Description": "ได้รับสถานะ ห่อวิญญาณ เป็นระยะ หากคุณถูก[HitDamage|ปะทะ]ขณะที่มีสถานะ ห่อวิญญาณ สถานะนี้จะถูกกลืนกินทันทีเพื่อ เติม[EnergyShield|โล่พลังงาน] ของคุณตาม[Evasion|การหลบหลีก]ของคุณ",
+    "Description": "ได้รับสถานะ ห่อวิญญาณ เป็นระยะ หากคุณถูก[HitDamage|ปะทะ]ขณะที่มีสถานะ ห่อวิญญาณ\r\nสถานะนี้จะถูกกลืนกินทันทีเพื่อ เติม[EnergyShield|โล่พลังงาน] ของคุณตาม[Evasion|การหลบหลีก]ของคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 527
@@ -87029,7 +87027,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 506498,
+    "Unk032": 506166,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87342,7 +87340,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 523
     },
-    "Unk032": 508140,
+    "Unk032": 507808,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87546,7 +87544,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 524
     },
-    "Unk032": 508140,
+    "Unk032": 507808,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87746,7 +87744,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 499
     },
-    "Unk032": 510124,
+    "Unk032": 509792,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87954,7 +87952,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 521
     },
-    "Unk032": 511578,
+    "Unk032": 511246,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88162,7 +88160,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 527
     },
-    "Unk032": 513160,
+    "Unk032": 512828,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88370,7 +88368,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 528
     },
-    "Unk032": 513160,
+    "Unk032": 512828,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88875,10 +88873,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 38
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 143
       },
       {
@@ -88906,7 +88900,12 @@
         "Id": "skill_effect_duration_+%"
       }
     ],
-    "MinionActiveSkillTypes": [],
+    "MinionActiveSkillTypes": [
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 38
+      }
+    ],
     "Unk018": true,
     "Unk019": true,
     "Unk020": [],
@@ -92153,7 +92152,7 @@
   {
     "Id": "detonating_arrow",
     "DisplayedName": "ศรจุดระเบิด",
-    "Description": "แชนเนลเพื่อสะสมพลังก่อนที่จะยิงศรติดไฟออกไป หากมีชาร์จสูงสุด ศรนี้จะจุดระเบิดเมื่อถึงปลายทางเพื่อระเบิดพื้นที่รอบตัวมัน",
+    "Description": "แชนเนลเพื่อสะสมพลังก่อนที่จะยิงศรติดไฟออกไป\r\nหากมีชาร์จสูงสุด ศรนี้จะจุดระเบิดเมื่อถึงปลายทางเพื่อระเบิดพื้นที่รอบตัวมัน",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 626
@@ -92740,7 +92739,7 @@
   {
     "Id": "ripwire_arrow",
     "DisplayedName": "ลูกศรกระชากเนื้อ",
-    "Description": "ยิงศรที่จะปล่อยสายกระชากเนื้อไปที่พื้นเมื่อลงมาปะทะศัตรู ศัตรูจะเชื่องช้าเมื่อพยายามเคลื่อนที่ออกไป หากมันเคลื่อนที่ไกลเกินไป สายกระชากเนื้อจะกระชากออกเพื่อสร้างสถานะ เลือดไหล ต่อมัน",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 631
@@ -94497,7 +94496,7 @@
   {
     "Id": "mana_remnants",
     "DisplayedName": "หยาดมานา",
-    "Description": "สร้างกระแสสายฟ้าเพื่อเติมมานาของคุณ ขณะที่สกิลนี้ทำงาน ศัตรูที่ติดสถานะ [Shock|ช็อค] ที่คุณสังหารมีโอกาสเรียก\r\nหยาดมานาขึ้นมา และการ[Critical|ปะทะคริติคอล]ต่อเป้าหมายที่ติดสถานะ [Shock|ช็อค] จะสร้างเรียกมานาขึ้นมาเป็นระยะ\r\nการเก็บหยาดมานาทำให้คุณได้รับมานาที่สามารถ[Overflow|เอ่อล้น]เกินมานาสูงสุดได้",
+    "Description": "สร้างกระแสสายฟ้าเพื่อเติมมานาให้กับคุณ\r\nขณะที่สกิลนี้ทำงาน ศัตรูที่ติดสถานะ [Shock|ช็อค] ที่คุณสังหารมีโอกาสเรียก[Remnant|หยาด]มานาขึ้นมา\r\nและการ[Critical|ปะทะคริติคอล]ต่อเป้าหมายที่ติดสถานะ [Shock|ช็อค] จะสร้าง[Remnant|หยาด]มานาขึ้นมาเป็นระยะ\r\nการเก็บ[Remnant|หยาด]มานาทำให้คุณได้รับมานาที่สามารถ[Overflow|เอ่อล้น]เกินมานาสูงสุดได้",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 646
@@ -94568,7 +94567,7 @@
   {
     "Id": "igneous_shield",
     "DisplayedName": "บาเรียหินหลอม",
-    "Description": "เมื่อคุณยก[Shield|โล่]ของคุณ มันจะอัดไปด้วยหินหลอมระยะเวลาสั้น การ[Block|บล็อค]ในช่วงเวลานี้จะพ่นหินหลอมไปยังผู้โจมตี และมอบ [Charges|Endurance Charge] 1 ลูกให้กับคุณ",
+    "Description": "เมื่อคุณยก[Shield|โล่]ของคุณ มันจะอัดไปด้วยหินหลอมระยะเวลาสั้น\r\nการ[Block|บล็อค]ในช่วงเวลานี้จะพ่นหินหลอมไปยังผู้โจมตี และมอบ [Charges|Endurance Charge] 1 ลูกให้กับคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 648
@@ -94895,7 +94894,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95025,7 +95024,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95151,7 +95150,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95277,7 +95276,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95411,7 +95410,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95537,7 +95536,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95663,7 +95662,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95797,7 +95796,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95923,7 +95922,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96049,7 +96048,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96183,7 +96182,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96309,7 +96308,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96435,7 +96434,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96565,7 +96564,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96695,7 +96694,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96825,7 +96824,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96951,7 +96950,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97085,7 +97084,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97231,7 +97230,7 @@
     "TransfigureBase": null,
     "Unk030": 1562,
     "AudioEvent": null,
-    "Unk032": 555748,
+    "Unk032": 555116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -98057,14 +98056,14 @@
   {
     "Id": "totem_shockwave_quake",
     "DisplayedName": "ทุบคลื่นกระแทก",
-    "Description": "[Slam|ทุบ]พื้นเพื่อสร้างความเสียหายต่อศัตรูที่อยู่ใกล้",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 652
     },
     "Icon_DDSFile": "Art/2DArt/SkillIcons/BruteShockwaveTotem.dds",
     "ActiveSkillTargetTypes": [
-      10
+      1
     ],
     "ActiveSkillTypes": [
       {
@@ -98711,7 +98710,7 @@
   {
     "Id": "raging_spirits",
     "DisplayedName": "วิญญาณเกรี้ยวกราด",
-    "Description": "ขณะที่สกิลนี้ทำงาน [Spell|เวท][Fire|ไฟ]จะอัญเชิญวิญญาณเกรี้ยวกราดออกมาเช่นกัน ซึ่งเป็นกะโหลกเพลิงอายุสั้นที่พุ่งเข้าหาศัตรูที่อยู่ใกล้และ[Attack|โจมตี]พวกมันซ้ำๆ ศัตรูจะไม่ต่อสู้กับ[Minion|มิเนียน]เหล่านี้โดยตรงและสามารถเดินผ่านพวกมันได้",
+    "Description": "ขณะที่สกิลนี้ทำงาน [Spell|เวท][Fire|ไฟ]จะอัญเชิญวิญญาณเกรี้ยวกราดออกมาเช่นกัน\r\nซึ่งเป็นกะโหลกเพลิงอายุสั้นที่พุ่งเข้าหาศัตรูที่อยู่ใกล้และ[Attack|โจมตี]พวกมันซ้ำๆ\r\nศัตรูจะไม่ต่อสู้กับ[Minion|มิเนียน]เหล่านี้โดยตรงและสามารถเดินผ่านพวกมันได้",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 662
@@ -98969,6 +98968,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -99971,7 +99974,7 @@
   {
     "Id": "wind_dancer",
     "DisplayedName": "ลมร่ายรำ",
-    "Description": "มอบบัฟที่ให้[Evasion|การหลบหลีก]กับคุณเพิ่มขึ้นต่อจำนวนสเตจ หากถูก[HitDamage|ปะทะ]ด้วยการ[Attack|โจมตี][Melee|ประชิด]ขณะที่มีบัฟนี้จะกลืนกิน\r\nสเตจทั้งหมดเพื่อสร้างความเสียหายต่อศัตรูรอบตัวและ[Knockback|ผลักออกไป]",
+    "Description": "มอบบัฟที่ให้[Evasion|การหลบหลีก]กับคุณเพิ่มขึ้นต่อจำนวนสเตจ หากถูก[HitDamage|ปะทะ]ด้วยการ[Attack|โจมตี][Melee|ประชิด]ขณะที่มีบัฟนี้\r\nจะกลืนกินสเตจทั้งหมดเพื่อสร้างความเสียหายต่อศัตรูรอบตัวและ[Knockback|ผลักออกไป]",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 674
@@ -100289,6 +100292,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -101069,7 +101076,7 @@
   {
     "Id": "grim_feast",
     "DisplayedName": "สวาปามอำมหิต",
-    "Description": "กินศพเพื่อเสริม[EnergyShield|โล่พลังงาน]ของคุณ ขณะที่สกิลนี้ทำงาน ศัตรูและ[Minion|มิเนียน]ที่[Reviving|คืนชีพ]ได้เองที่ตายใน[Presence|การปรากฏกาย]ของคุณ\r\nจะทิ้งหยาดอำมหิตเอาไว้ การเก็บหยาดอำมหิตจะทำให้คุณได้รับ[EnergyShield|โล่พลังงาน]ที่สามารถ[Overflow|เอ่อล้น]เกิน[EnergyShield|โล่พลังงาน]สูงสุดได้",
+    "Description": "กินศพเพื่อเสริม[EnergyShield|โล่พลังงาน]ให้กับคุณ\r\nขณะที่สกิลนี้ทำงาน ศัตรูและ[Minion|มิเนียน]ที่[Reviving|คืนชีพ]ได้เองที่ตายใน[Presence|ระยะปรากฏกาย]ของคุณจะทิ้ง[Remnant|หยาด]อำมหิตเอาไว้\r\nการเก็บ[Remannt|หยาด]อำมหิตจะทำให้คุณได้รับ[EnergyShield|โล่พลังงาน]ที่สามารถ[Overflow|เอ่อล้น]เกิน[EnergyShield|โล่พลังงาน]สูงสุดได้",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 683
@@ -101219,7 +101226,7 @@
   {
     "Id": "cast_on_minion_death",
     "DisplayedName": "ร่ายเมื่อมิเนียนตาย",
-    "Description": "ขณะที่สกิลนี้ทำงานจะเก็บ[Energy|พลังงาน]เมื่อ[Minion|มิเนียน]ของคุณถูก[MinionDeath|สังหาร] เพื่อทริกเกอร์เวทที่ใส่เมื่อ[Energy|พลังงาน]เต็ม ไม่สามารถใส่[Spell|เวท]ที่สร้าง[Minion|มิเนียน]ได้",
+    "Description": "ขณะที่สกิลนี้ทำงานจะเก็บ[Energy|พลังงาน]เมื่อ[Minion|มิเนียน]ของคุณถูก[MinionDeath|สังหาร] เพื่อทริกเกอร์เวทที่ใส่เมื่อ[Energy|พลังงาน]เต็ม\r\nไม่สามารถใส่[Spell|เวท]ที่สร้าง[Minion|มิเนียน]ได้",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 685
@@ -101298,7 +101305,7 @@
   {
     "Id": "scavenged_plating",
     "DisplayedName": "เกราะคุ้ย",
-    "Description": "ใช้ชิ้นส่วนเกราะที่คุ้ยมาจากศัตรูเพื่อเสริมเกราะของคุณเอง การทำให้ศัตรู [Armour|เกราะ][ArmourBreak|หักโดยสมบูรณ์] จะให้สถานะ เกราะคุ้ย เป็นระยะเวลาหนึ่ง และคุณจะได้รับ[Armour|ค่าเกราะ]และ[Thorns|ผิวหนาม]ตามจำนวนของสถานะนี้",
+    "Description": "ใช้ชิ้นส่วนเกราะที่คุ้ยมาจากศัตรูเพื่อเสริมเกราะของคุณเอง\r\nการทำให้ศัตรู [Armour|เกราะ][ArmourBreak|หักโดยสมบูรณ์] จะให้สถานะ เกราะคุ้ย เป็นระยะเวลาหนึ่ง\r\nและคุณจะได้รับ[Armour|ค่าเกราะ]และ[Thorns|ผิวหนาม]ตามจำนวนของสถานะนี้",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 686
@@ -101619,7 +101626,7 @@
   {
     "Id": "bone_blast",
     "DisplayedName": "ระเบิดกระดูก",
-    "Description": "เรียกวงคาถาจารึกที่มีระยะเวลาสั้น เมื่อหมดระยะเวลาหนามกระดูกจะผุดขึ้นมาจากศัตรูในพื้นที่",
+    "Description": "เรียกวงคาถาจารึกที่มีระยะเวลาสั้น เมื่อหมดระยะเวลาหนามกระดูกจะผุดขึ้นมาจากศัตรูในพื้นที่\r\nซึ่งจะสร้างความเสียหายต่อพวกมันและอาจสร้างสถานะ [Bleeding|เลือดไหล] ได้",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 689
@@ -101757,7 +101764,7 @@
   {
     "Id": "blink_reservation",
     "DisplayedName": "ก้าวพริบตา",
-    "Description": "เปลี่ยนการกลิ้งหลบของคุณเป็น[Spell|เวท]ที่มีคูลดาวน์สั้นๆ ที่ทำให้คุณผุดกายผ่านพื้นที่ไปได้ เพื่อปรากฏตัวไปในระยะทางปานกลางโดยทันที",
+    "Description": "เปลี่ยนการกลิ้งหลบของคุณเป็น[Spell|เวท]ที่มีคูลดาวน์สั้นๆ ที่ทำให้คุณผุดกายผ่านพื้นที่ไปได้\r\nเพื่อปรากฏตัวไปในระยะทางปานกลางโดยทันที",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 690
@@ -103184,7 +103191,7 @@
   {
     "Id": "blazing_cluster",
     "DisplayedName": "กระหน่ำเปลวเพลิง",
-    "Description": "เรียกเปลวเพลิงที่ลอยอยู่เหนือคุณ ซึ่งจะพุ่งไปหาศัตรูในระยะเวลาสั้นๆ\r\nเพื่อสร้างความเสียหาย [Fire|ไฟ] ในพื้นที่เมื่อกระทบ\r\nการร่ายเวทนี้อีกครั้งจะคืนระยะเวลาของเปลวเพลิงทั้งหมดที่ทำงานอยู่\r\nเปลวเพลงหลายลูกที่ยิงไปในการกระหน่ำครั้งเดียวจะพยายามเลือกเป้าหมายเป็นศัตรูต่างกันหลายตัว",
+    "Description": "เรียกเปลวเพลิงที่ลอยอยู่เหนือคุณ ซึ่งจะพุ่งไปหาศัตรูในระยะเวลาสั้นๆ\r\nเพื่อสร้างความเสียหาย [Fire|ไฟ] ในพื้นที่เมื่อกระทบโดยเลือกศัตรูที่เป็นเป้าหมายสุดท้ายเป็นหลัก\r\nการร่ายเวทนี้อีกครั้งจะคืนระยะเวลาของเปลวเพลิงทั้งหมดที่ทำงานอยู่\r\nเปลวเพลงหลายลูกที่ยิงไปในการกระหน่ำครั้งเดียวจะพยายามเลือกเป้าหมายเป็นศัตรูต่างกันหลายตัว",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103321,7 +103328,7 @@
   {
     "Id": "unique_dusk_vigil_triggered_blazing_cluster",
     "DisplayedName": "กระหน่ำเปลวเพลิง",
-    "Description": "เรียกเปลวเพลิงที่ลอยอยู่เหนือคุณ ซึ่งจะพุ่งไปหาศัตรูในระยะเวลาสั้นๆ\r\nเพื่อสร้างความเสียหาย [Fire|ไฟ] ในพื้นที่เมื่อกระทบ\r\nการร่ายเวทนี้อีกครั้งจะคืนระยะเวลาของเปลวเพลิงทั้งหมดที่ทำงานอยู่\r\nเปลวเพลงหลายลูกที่ยิงไปในการกระหน่ำครั้งเดียวจะพยายามเลือกเป้าหมายเป็นศัตรูต่างกันหลายตัว",
+    "Description": "เรียกเปลวเพลิงที่ลอยอยู่เหนือคุณ ซึ่งจะพุ่งไปหาศัตรูในระยะเวลาสั้นๆ\r\nเพื่อสร้างความเสียหาย [Fire|ไฟ] ในพื้นที่เมื่อกระทบโดยเลือกศัตรูที่เป็นเป้าหมายสุดท้ายเป็นหลัก\r\nการร่ายเวทนี้อีกครั้งจะคืนระยะเวลาของเปลวเพลิงทั้งหมดที่ทำงานอยู่\r\nเปลวเพลงหลายลูกที่ยิงไปในการกระหน่ำครั้งเดียวจะพยายามเลือกเป้าหมายเป็นศัตรูต่างกันหลายตัว",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103375,6 +103382,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -103617,7 +103628,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 112386,
+    "Unk030": 112300,
     "AudioEvent": null,
     "Unk032": 1562,
     "Unk033": null,
@@ -103983,7 +103994,7 @@
   {
     "Id": "life_remnants",
     "DisplayedName": "หยาดชีวิต",
-    "Description": "ดื่มโลหิตศัตรูเพื่อเติมพลังชีวิตของคุณ ขณะที่สกิลนี้ทำงาน ศัตรูที่คุณสังหารมีโอกาสเรียกหยาดชีวิตขึ้นมา\r\nและการ[Critical|ปะทะคริติคอล]ต่อเป้าหมายจะเรียกหยาดชีวิตขึ้นมาเป็นระยะ การเก็บหยาดชีวิตทำให้คุณได้รับพลังชีวิตที่สามารถ\r\n[Overflow|เอ่อล้น]เกินพลังชีวิตสูงสุดได้",
+    "Description": "ดื่มโลหิตศัตรูเพื่อเติมพลังชีวิตของคุณ\r\nขณะที่สกิลนี้ทำงาน ศัตรูที่คุณสังหารมีโอกาสเรียก[Remnant|หยาด]ชีวิตขึ้นมา\r\nและการ[Critical|ปะทะคริติคอล]ต่อเป้าหมายจะสร้าง[Remnant|หยาด]ชีวิตขึ้นมาเป็นระยะ\r\nการเก็บ[Remnant|หยาด]ชีวิตทำให้คุณได้รับพลังชีวิตที่สามารถ[Overflow|เอ่อล้น]เกินพลังชีวิตสูงสุดได้",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 709
@@ -104820,10 +104831,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -104966,10 +104973,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 0
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 40
       },
       {
         "TableName": "ActiveSkillType",
@@ -105118,10 +105121,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105267,10 +105266,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105412,10 +105407,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105539,7 +105530,7 @@
   {
     "Id": "elemental_strike_trigger",
     "DisplayedName": "สำแดงธาตุ",
-    "Description": "สร้างระเบิดไฟ, สายฟ้าชิ่ง หรือคลื่นพลังน้ำแข็งออกมา โอกาสการสร้างระเบิดไฟจะขึ้นอยู่กับ Strength ของคุณ, โอกาสการสร้างสายฟ้าชิ่งจะขึ้นอยู่กับ Dexterity ของคุณ และโอกาสการสร้างคลื่นพลังน้ำแข็งจะขึ้นอยู่กับ Intelligence ของคุณ",
+    "Description": "สร้างระเบิดไฟ, สายฟ้าชิ่ง หรือคลื่นพลังน้ำแข็งออกมา\r\nโอกาสการสร้างระเบิดไฟขึ้นอยู่กับ [Strength] ของคุณ\r\nโอกาสการสร้างสายฟ้าชิ่งขึ้นอยู่กับ [Dexterity] ของคุณ\r\nและโอกาสการสร้างคลื่นพลังน้ำแข็งขึ้นอยู่กับ [Intelligence] ของคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 169
@@ -105796,7 +105787,7 @@
   {
     "Id": "war_banner",
     "DisplayedName": "ธงสงคราม",
-    "Description": "การ[Attack|โจมตี]ที่สังหารศัตรูหรือปะทะศัตรูแรร์หรือยูนิคจะให้สถานะ [Valour|อาจหาญ] การใช้สกิลนี้จะกลืนกินสถานะ [Valour|อาจหาญ] ของมันเพื่อปักธงให้กำลังใจที่มี[Aura|ออร่า]เพิ่มความเสียหาย [Attack|โจมตี] อีก ให้กับคุณและ[Allies|เพื่อน]ที่อยู่ใกล้ ขณะที่ธงยังคงอยู่",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 724
@@ -105859,7 +105850,7 @@
   {
     "Id": "defiance_banner",
     "DisplayedName": "ธงแข็งขืน",
-    "Description": "การ[Attack|โจมตี]ที่สังหารศัตรูหรือปะทะศัตรูแรร์หรือยูนิคจะให้สถานะ [Valour|อาจหาญ] การใช้สกิลนี้จะกลืนกินสถานะ [Valour|อาจหาญ] ของมันเพื่อปักธงทรหดที่มี[Aura|ออร่า]เพิ่ม[Armour|ค่าเกราะ]และ[Evasion|การหลบหลีก] อีก และลด[Elemental Damage|ความเสียหาย ธาตุ] ที่ได้รับ อีก ให้กับคุณและ[Allies|เพื่อน]ที่อยู่ใกล้ ขณะที่ธงยังคงอยู่",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 724
@@ -107074,7 +107065,7 @@
   {
     "Id": "war_banner_reservation",
     "DisplayedName": "ธงสงคราม",
-    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูด้วยการ[Attack|โจมตี]หรือการยืนอยู่ใกล้กับศัตรู[Rarity|ยูนิค]จะให้สถานะ [Valour|อาจหาญ] การใช้สกิลนี้จะ\r\nกลืนกินสถานะ [Valour|อาจหาญ] ของมันเพื่อปักธงให้กำลังใจที่มี[Aura|ออร่า]มอบความเสียหาย [Attack|โจมตี] และ[Accuracy|ความแม่นยำ] ให้กับคุณและ\r\n[Allies|เพื่อน]ที่อยู่ใกล้ขณะที่ธงยังคงอยู่ ธงที่ปักอยู่จะไม่ได้รับสถานะ [Valour|อาจหาญ] และคุณไม่สามารถปักธงได้หากคุณมีธงที่ปักอยู่\r\nในขณะนั้น",
+    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูด้วยการ[Attack|โจมตี]หรือการยืนอยู่ใกล้กับศัตรู[Rarity|ยูนิค]จะให้สถานะ [Valour|อาจหาญ]\r\nการใช้สกิลนี้จะกลืนกินสถานะ [Valour|อาจหาญ] ของมันเพื่อปักธงให้กำลังใจที่มีออร่า\r\nมอบความเสียหาย [Attack|โจมตี] และความแม่นยำ ให้กับคุณและ[Alliesเพื่อน]ที่อยู่ใกล้ขณะที่ธงยังคงอยู่\r\nธงที่ปักอยู่จะไม่ได้รับสถานะ [Valour|อาจหาญ] และคุณไม่สามารถปักธงได้หากคุณมีธงที่ปักอยู่ในขณะนั้น",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 730
@@ -107149,7 +107140,7 @@
   {
     "Id": "defiance_banner_reservation",
     "DisplayedName": "ธงแข็งขืน",
-    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูด้วยการ[Attack|โจมตี]หรือการยืนอยู่ใกล้กับศัตรู[Rarity|ยูนิค]จะให้สถานะ [Valour|อาจหาญ] การใช้สกิลนี้จะ\r\nกลืนกินสถานะ [Valour|อาจหาญ] ของมันเพื่อปักธงให้กำลังใจที่มี[Aura|ออร่า]มอบ[Armour|ค่าเกราะ], [Evasion|การหลบหลีก] และความเร็วในการเคลื่อนที่\r\nให้กับคุณและ[Allies|เพื่อน]ที่อยู่ใกล้ขณะที่ธงยังคงอยู่ ธงที่ปักอยู่จะไม่ได้รับสถานะ [Valour|อาจหาญ] และคุณไม่สามารถปักธงได้หากคุณมี\r\nธงที่ปักอยู่ในขณะนั้น",
+    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูด้วยการ[Attack|โจมตี]หรือการยืนอยู่ใกล้กับศัตรู[Rarity|ยูนิค]จะให้สถานะ [Valour|อาจหาญ]\r\nการใช้สกิลนี้จะกลืนกินสถานะ [Valour|อาจหาญ] ของมันเพื่อปักธงให้กำลังใจที่มี[Aura|ออร่า]\r\nมอบ[Armour|ค่าเกราะ], [Evasion|การหลบหลีก] และความเร็วในการเคลื่อนที่ให้กับคุณและ[Allies|เพื่อน]ที่อยู่ใกล้ขณะที่ธงยังคงอยู่\r\nธงที่ปักอยู่จะไม่ได้รับสถานะ [Valour|อาจหาญ] และคุณไม่สามารถปักธงได้หากคุณมีธงที่ปักอยู่ในขณะนั้น",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 730
@@ -107224,7 +107215,7 @@
   {
     "Id": "dread_banner_reservation",
     "DisplayedName": "ธงหวาดกลัว",
-    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูด้วยการ[Attack|โจมตี]หรือการยืนอยู่ใกล้กับศัตรู[Rarity|ยูนิค]จะให้สถานะ [Valour|อาจหาญ] การใช้สกิลนี้จะกลืนกินสถานะ [Valour|อาจหาญ] ของมันเพื่อปักธงให้กำลังใจที่มี[Aura|ออร่า]มอบ[StunThreshold|ความยากในการติดสถานะ สตัน], [AilmentThreshold|ความยากในการติด\r\nสถานะเจ็บป่วยธาตุ] และชาร์จ[Flask|ขวดยา] ให้กับคุณและ[Allies|เพื่อน]ที่อยู่ใกล้ขณะที่ธงยังคงอยู่ ธงที่ปักอยู่จะไม่ได้รับสถานะ [Valour|อาจหาญ]\r\nและคุณไม่สามารถปักธงได้หากคุณมีธงที่ปักอยู่ในขณะนั้น",
+    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูด้วยการ[Attack|โจมตี]หรือการยืนอยู่ใกล้กับศัตรู[Rarity|ยูนิค]จะให้สถานะ\r\n[Valour|อาจหาญ] การใช้สกิลนี้จะกลืนกินสถานะ [Valour|อาจหาญ] ของมันเพื่อปักธงให้กำลังใจที่มี[Aura|ออร่า]\r\nมอบ[StunThreshold|ความยากในการติดสถานะสตัน], [AilmentThreshold|ความยากในการติดสถานะเจ็บป่วยธาตุ] และชาร์จ[Flask|ขวดยา]\r\nให้กับคุณและ[Allies|เพื่อน]ที่อยู่ใกล้ขณะที่ธงยังคงอยู่\r\nธงที่ปักอยู่จะไม่ได้รับสถานะ [Valour|อาจหาญ] และคุณไม่สามารถปักธงได้หากคุณมีธงที่ปักอยู่ในขณะนั้น",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 730
@@ -107564,7 +107555,7 @@
   {
     "Id": "elemental_invocation",
     "DisplayedName": "มนต์ธาตุ",
-    "Description": "ขณะที่สกิลนี้ทำงาน มนต์นี้จะได้รับ[Energy|พลังงาน]เมื่อคุณสร้างสถานะ [Freeze|แช่แข็ง], [Shock|ช็อค] หรือ [Ignite|ลุกไหม้] ต่อศัตรู การใช้มนต์นี้อีกครั้งเมื่อมี[Energy|พลังงาน]เพียงพอจะกลืนกิน[Energy|พลังงาน]เพื่อทริกเกอร์[Spell|เวท]ที่ใส่ และจะทริกเกอร์ออกมาหลายครั้งหากมี[Energy|พลังงาน]มากพอ",
+    "Description": "ขณะที่สกิลนี้ทำงาน มนต์นี้จะได้รับ[Energy|พลังงาน]เมื่อคุณสร้างสถานะ [Freeze|แช่แข็ง], [Shock|ช็อค] หรือ [Ignite|ลุกไหม้] ต่อศัตรู\r\nการใช้มนต์นี้อีกครั้งเมื่อมี[Energy|พลังงาน]เพียงพอจะกลืนกิน[Energy|พลังงาน]เพื่อทริกเกอร์[Spell|เวท]ที่ใส่\r\nและจะทริกเกอร์ออกมาหลายครั้งหากมี[Energy|พลังงาน]มากพอ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 735
@@ -107724,7 +107715,7 @@
   {
     "Id": "attrition",
     "DisplayedName": "ศึกยืดเยื้อ",
-    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะสร้างความเสียหาย [HitDamage|ปะทะ] เพิ่มขึ้น อีก ต่อศัตรู[Rarity|แรร์]และ[Rarity|ยูนิค]ตามระยะเวลาที่คุณได้ต่อสู้กับมัน\r\nและมี[CullingStrike|จู่โจมปลิดชีพ]ต่อศัตรูแรร์และยูนิคเมื่อคุณต่อสู้กับพวกมันมานานพอ",
+    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะสร้างความเสียหาย [HitDamage|ปะทะ] เพิ่มขึ้น อีก\r\nต่อศัตรู[Rarity|แรร์]และ[Rarity|ยูนิค]ตามระยะเวลาที่คุณได้ต่อสู้กับมัน\r\nและมี[CullingStrike|จู่โจมปลิดชีพ]ต่อศัตรูแรร์และยูนิคเมื่อคุณต่อสู้กับพวกมันมานานพอ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 740
@@ -107787,7 +107778,7 @@
   {
     "Id": "elemental_conflux",
     "DisplayedName": "ธาตุบรรจบ",
-    "Description": "เข้าถึงกระแสพลัง[ElementalDamage|ธาตุ]ดิบที่แปรเปลี่ยนไปอย่างไม่อาจคาดหมาย เพื่อให้คุณสร้างความเสียหายตาม[ElementalDamage|ธาตุ]ที่เลือกแบบสุ่ม เพิ่มขึ้น อีก เป็นอย่างยิ่ง [ElementalDamage|ธาตุ]ที่ถูกเลือกนี้จะเปลี่ยนไปอย่างต่อเนื่อง ทว่าสามารถเลือก[ElementalDamage|ธาตุ]เดิมติดกันได้หลายครั้ง",
+    "Description": "เข้าถึงกระแสพลัง[ElementalDamage|ธาตุ]ดิบที่แปรเปลี่ยนไปอย่างไม่อาจคาดหมาย\r\nเพื่อให้คุณสร้างความเสียหายตาม[ElementalDamage|ธาตุ]ที่เลือกแบบสุ่ม เพิ่มขึ้น อีก เป็นอย่างยิ่ง\r\n[ElementalDamage|ธาตุ]ที่ถูกเลือกนี้จะเปลี่ยนไปอย่างต่อเนื่อง ทว่าสามารถเลือก[ElementalDamage|ธาตุ]เดิมติดกันได้หลายครั้ง",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 741
@@ -107942,7 +107933,7 @@
   {
     "Id": "cluster_grenade",
     "DisplayedName": "ลูกระเบิดลูกปราย",
-    "Description": "ยิงลูกระเบิดกระดอนที่ระเบิดเมื่อชนวนหมดเวลา เพื่อส่งลูกระเบิดขนาดเล็กกระจายออกมาที่จะระเบิดออกมาเช่นกันในช่วงเวลาหลังจากนั้น",
+    "Description": "ยิง[Grenade|ลูกระเบิด]กระดอนที่ระเบิดเมื่อชนวนหมดเวลา\r\nเพื่อส่ง[Grenade|ลูกระเบิด]ขนาดเล็กกระจายออกมาให้ระเบิดในช่วงเวลาหลังจากนั้น",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -108469,7 +108460,7 @@
   {
     "Id": "charge_mastery",
     "DisplayedName": "อาบพลังชาร์จ",
-    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับ[Buff|บัฟ]ทรงพลังตาม [Charges|Charge] ที่ทำงานอยู่ แต่การรักษา[Buff|บัฟ]นี้จะกลืนกิน [Charges|Charge] เป็นระยะ",
+    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับ[Buff|บัฟ]ทรงพลังตาม [Charges|Charge] ที่ทำงานอยู่\r\nแต่การรักษา[Buff|บัฟ]นี้จะกลืนกิน [Charges|Charge] เป็นระยะ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 746
@@ -108532,7 +108523,7 @@
   {
     "Id": "shard_despoiler",
     "DisplayedName": "คุ้ยสะเก็ด",
-    "Description": "ขณะที่สกิลนี้ทำงาน การ[Consume|กลืนกิน]สถานะ [Freeze|แช่แข็ง], [Shock|ช็อค], [Ignite|ลุกไหม้] หรือ [ArmourBreak|เกราะหักโดยสมบูรณ์] ของศัตรูจะทำการรีโหลด[Crossbow|หน้าไม้]\r\nของคุณ การรีโหลดเช่นนี้เกิดขึ้นได้เพียงครั้งเดียวในเวลาไม่กี่วินาที",
+    "Description": "ขณะที่สกิลนี้ทำงาน การ[Consume|กลืนกิน]สถานะ [Freeze|แช่แข็ง], [Shock|ช็อค], [Ignite|ลุกไหม้]\r\nหรือ [ArmourBreak|เกราะหักโดยสมบูรณ์] ของศัตรูจะทำการรีโหลด[Crossbow|หน้าไม้]ของคุณ\r\nการรีโหลดเช่นนี้เกิดขึ้นได้เพียงครั้งเดียวในเวลาไม่กี่วินาที",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 747
@@ -108813,7 +108804,7 @@
   {
     "Id": "overwhelming_pressure",
     "DisplayedName": "ปรากฏกายกดดัน ",
-    "Description": "ขณะที่สกิลนี้ทำงาน ศัตรูที่อยู่ใน[Presence|การปรากฏกาย]ของคุณจะติดสถานะ [Stun|สตัน] และ [ElementalAilments|สถานะเจ็บป่วยธาตุ] ได้ง่ายขึ้น",
+    "Description": "ขณะที่สกิลนี้ทำงาน ศัตรูที่อยู่ใน[Presence|ระยะปรากฏกาย]ของคุณจะติดสถานะ [Stun|สตัน] และ [ElementalAilments|สถานะเจ็บป่วยธาตุ] ได้ง่ายขึ้น",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 751
@@ -108876,7 +108867,7 @@
   {
     "Id": "alchemist_boon",
     "DisplayedName": "พรนักแปรธาตุ",
-    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับชาร์จ[Flask|ขวดยา]โดยอัตโนมัติ และทำให้การเติม พลังชีวิตและมานา จาก[Flask|ขวดยา]ของคุณส่งผล\r\nต่อ[Allies|เพื่อน]ที่อยู่ใน[Presence|การปรากฏกาย]ของคุณเช่นกัน",
+    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับชาร์จ[Flask|ขวดยา]โดยอัตโนมัติ\r\nและทำให้การเติม พลังชีวิตและมานา จาก[Flask|ขวดยา]ของคุณส่งผลต่อ[Allies|เพื่อน]ที่อยู่ใน[Presence|ระยะปรากฏกาย]ของคุณเช่นกัน",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 752
@@ -108943,7 +108934,7 @@
   {
     "Id": "melee_kill_invocation",
     "DisplayedName": "มนต์ยมทูต ",
-    "Description": "ขณะที่สกิลนี้ทำงาน มนต์นี้จะได้รับ[Energy|พลังงาน]เมื่อคุณสังหารศัตรูด้วยการ[Attack|โจมตี][Melee|ประชิด] การใช้มนต์นี้อีกครั้งเมื่อมี[Energy|พลังงาน]เพียงพอจะกลืนกิน[Energy|พลังงาน]เพื่อทริกเกอร์[Spell|เวท]ที่ใส่ และจะทริกเกอร์ออกมาหลายครั้งหากมี[Energy|พลังงาน]มากพอ",
+    "Description": "ขณะที่สกิลนี้ทำงาน มนต์นี้จะได้รับ[Energy|พลังงาน]เมื่อคุณสังหารศัตรูด้วยการ[Attack|โจมตี][Melee|ประชิด]\r\nการใช้มนต์นี้อีกครั้งเมื่อมี[Energy|พลังงาน]เพียงพอจะกลืนกิน[Energy|พลังงาน]เพื่อทริกเกอร์[Spell|เวท]ที่ใส่\r\nและจะทริกเกอร์ออกมาหลายครั้งหากมี[Energy|พลังงาน]มากพอ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 753
@@ -109028,7 +109019,7 @@
   {
     "Id": "harvester",
     "DisplayedName": "สังเวย",
-    "Description": "ขณะที่สกิลนี้ทำงาน สกิลของคุณสามารถนำ[Minion|มิเนียน]อันเดดที่[Reviving|คืนชีพ]ได้เองไปใช้งานแทน[Corpse|ศพ]ได้ แต่[Minion|มิเนียน]ของคุณจะ[Reviving|คืนชีพ]ได้ช้าลงกว่าเดิม",
+    "Description": "ขณะที่สกิลนี้ทำงาน สกิลของคุณสามารถนำ[Minion|มิเนียน]อันเดดที่[Reviving|คืนชีพ]ได้เองไปใช้งานแทน[Corpse|ศพ]ได้\r\nแต่[Minion|มิเนียน]ของคุณจะ[Reviving|คืนชีพ]ได้ช้าลงกว่าเดิม",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 754
@@ -109095,7 +109086,7 @@
   {
     "Id": "archmage",
     "DisplayedName": "จอมเวท",
-    "Description": "ขณะที่สกิลนี้ทำงาน [Spell|เวท]ที่ไม่ใช่[Channelling|แชนเนล]ของคุณจะใช้งานมานาเพิ่มเติมเพื่อให้สร้างความเสียหาย [Lightning|สายฟ้า] เพิ่มเติม\r\nโดยค่าใช้งานและความเสียหายเพิ่มเติมจะขึ้นอยู่กับมานาสูงสุดของคุณ",
+    "Description": "ขณะที่สกิลนี้ทำงาน [Spell|เวท]ที่ไม่ใช่[Channelling|แชนเนล]ของคุณ\r\nจะใช้งานมานาเพิ่มเติมเพื่อให้สร้างความเสียหาย [Lightning|สายฟ้า] เพิ่มเติม\r\nโดยค่าใช้งานและความเสียหายเพิ่มเติมจะขึ้นอยู่กับมานาสูงสุดของคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 755
@@ -109161,8 +109152,8 @@
   },
   {
     "Id": "burning_runes",
-    "DisplayedName": "Burning Inscription",
-    "Description": "Creates [IgnitedGround|Ignited Ground] [Ignite|Igniting] Enemies based off a percentage of your Maximum Mana.",
+    "DisplayedName": "อักขระลุกโชน",
+    "Description": "สร้าง [IgnitedGround|พื้นลุกไหม้] ที่สร้างสถานะ [Ignite|ลุกไหม้] ต่อศัตรูตามส่วนหนึ่งของมานาสูงสุดของคุณ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 756
@@ -109178,6 +109169,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 31
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       },
       {
         "TableName": "ActiveSkillType",
@@ -109418,7 +109413,7 @@
   {
     "Id": "freezing_salvo",
     "DisplayedName": "น้ำแข็งกระหน่ำยิง",
-    "Description": "สะสมลูกพลังน้ำแข็งจากอากาศอย่างต่อเนื่องโดยอัตโนมัติ การใช้สกิลนี้จะทำการยิงลูกพลังที่สะสมไว้ เพื่อให้ตกลงมารอบ\r\nพื้นที่เป้าหมาย",
+    "Description": "สะสมลูกพลังน้ำแข็งจากอากาศอย่างต่อเนื่องโดยอัตโนมัติ\r\nการใช้สกิลนี้จะทำการยิงลูกพลังออกมา โดยจะยิงเพิ่มเติมตามจำนวนลูกพลังที่สะสมไว้",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 758
@@ -109787,7 +109782,7 @@
   {
     "Id": "berserk",
     "DisplayedName": "ปลดปล่อยความบ้าคลั่ง",
-    "Description": "ขณะที่สกิลนี้ทำงาน สถานะ [Rage|คลั่ง] ของคุณจะแข็งแกร่งยิ่งขึ้น และทำให้คุณ [LifeLeech|ดูดพลังชีวิต] ตามจำนวนสถานะ [Rage|คลั่ง] ของ\r\nคุณ แต่ทำให้คุณสูญเสียพลังชีวิตขณะที่มีสถานะ [Rage|คลั่ง]",
+    "Description": "ขณะที่สกิลนี้ทำงาน สถานะ [Rage|คลั่ง] ของคุณจะแข็งแกร่งยิ่งขึ้น\r\nและทำให้คุณ [LifeLeech|ดูดพลังชีวิต] ตามจำนวนสถานะ [Rage|คลั่ง] ของคุณ\r\nแต่ทำให้คุณสูญเสียพลังชีวิตขณะที่มีสถานะ [Rage|คลั่ง]",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 761
@@ -109850,7 +109845,7 @@
   {
     "Id": "herald_of_agony",
     "DisplayedName": "สาสน์โรคระบาด ",
-    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูที่[Poison|ติดสถานะ พิษ] จะทำให้สถานะ [Poison|พิษ] นั้นลามไปยังศัตรูที่อยู่ใกล้ และมีโอกาสสร้าง\r\nสถานะ [Hinder|ขัดขวาง] ต่อพวกมันเช่นกัน",
+    "Description": "ขณะที่สกิลนี้ทำงาน การสังหารศัตรูที่[Poison|ติดสถานะ พิษ] จะทำให้สถานะ [Poison|พิษ] นั้นลามไปยังศัตรูที่อยู่ใกล้\r\nและมีโอกาสสร้างสถานะ [Hinder|ขัดขวาง] ต่อพวกมันเช่นกัน",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 762
@@ -109988,7 +109983,7 @@
   {
     "Id": "withering_presence",
     "DisplayedName": "ปรากฏกายเหี่ยวเฉา",
-    "Description": "ขณะที่สกิลนี้ทำงาน ศัตรูที่อยู่ใน[Presence|การปรากฏกาย]ของคุณจะติดสถานะ [Withered|เหี่ยวเฉา] เป็นระยะ",
+    "Description": "ขณะที่สกิลนี้ทำงาน ศัตรูที่อยู่ใน[Presence|ระยะปรากฏกาย]ของคุณจะติดสถานะ [Withered|เหี่ยวเฉา] เป็นระยะ",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 764
@@ -110059,7 +110054,7 @@
   {
     "Id": "combat_frenzy",
     "DisplayedName": "รบราบ้าระห่ำ ",
-    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับ [Charges|Frenzy Charge] 1 ลูกเมื่อคุณสร้างสถานะ [Freeze|แช่แข็ง], [Electrocute|ช็อตประสาท] หรือ [Pinned|ตรึง] ต่อศัตรู\r\nการสะสมชาร์จนี้เกิดขึ้นได้เพียงครั้งเดียวในเวลาไม่กี่วินาที",
+    "Description": "ขณะที่สกิลนี้ทำงาน คุณจะได้รับ [Charges|Frenzy Charge] 1 ลูก\r\nเมื่อคุณสร้างสถานะ [Freeze|แช่แข็ง], [Electrocute|ช็อตประสาท] หรือ [Pinned|ตรึง] ต่อศัตรู\r\nการสะสมชาร์จนี้เกิดขึ้นได้เพียงครั้งเดียวในเวลาไม่กี่วินาที",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 765

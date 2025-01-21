@@ -9925,6 +9925,31 @@
     {
       "Path": "metadata/statdescriptions/gem_stat_descriptions",
       "Ids": [
+        "offering_spells_effect_+%"
+      ],
+      "Descriptions": [
+        {
+          "Operator": "1|#",
+          "Description": "Supported [Offering] Skills have {0}% increased [Buff] effect",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "#|-1",
+          "Description": "Supported [Offering] Skills have {0}% reduced [Buff] effect",
+          "IsCanonical": false,
+          "Parameters": [
+            {
+              "Name": "negate",
+              "Value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Path": "metadata/statdescriptions/gem_stat_descriptions",
+      "Ids": [
         "offering_spells_effect_+%_if_consumed_additional_skeleton"
       ],
       "Descriptions": [

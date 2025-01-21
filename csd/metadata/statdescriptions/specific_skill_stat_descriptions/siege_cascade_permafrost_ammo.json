@@ -4,11 +4,18 @@
     {
       "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/siege_cascade_permafrost_ammo",
       "Ids": [
-        "base_number_of_crossbow_bolts"
+        "base_number_of_crossbow_bolts",
+        "quality_display_base_number_of_crossbow_bolts_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "2|#",
+          "Operator": "2|# 0",
+          "Description": "Can store {0:+d} Bolts",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|# #",
           "Description": "Can store up to {0} Bolts",
           "IsCanonical": false,
           "Parameters": []

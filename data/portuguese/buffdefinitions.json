@@ -5598,7 +5598,7 @@
   },
   {
     "Id": "curse_temporal_chains",
-    "Description": "[Slow|Desacelerado]",
+    "Description": "Você está [Slow|Desacelerado] e os efeitos em você expiram mais lentamente.",
     "Invisible": false,
     "Removable": false,
     "Name": "Grilhões Temporais",
@@ -7689,7 +7689,7 @@
     "StatsKeys": [
       {
         "TableName": "Stats",
-        "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
+        "Id": "base_maximum_life_%_to_gain_as_total_energy_shield"
       }
     ],
     "Unk006": true,
@@ -7731,7 +7731,7 @@
     "Unk039": [
       {
         "TableName": "Stats",
-        "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
+        "Id": "base_maximum_life_%_to_gain_as_total_energy_shield"
       }
     ],
     "Unk040": [],
@@ -11924,7 +11924,7 @@
     "StatsKeys": [
       {
         "TableName": "Stats",
-        "Id": "total_maximum_energy_shield_+"
+        "Id": "base_total_maximum_energy_shield_+"
       },
       {
         "TableName": "Stats",
@@ -11999,7 +11999,7 @@
     "Unk039": [
       {
         "TableName": "Stats",
-        "Id": "total_maximum_energy_shield_+"
+        "Id": "base_total_maximum_energy_shield_+"
       },
       {
         "TableName": "Stats",
@@ -16296,10 +16296,10 @@
   },
   {
     "Id": "searing_bond_in_beam",
-    "Description": "Você está sofrendo Dano Incendiário de uma habilidade de Vínculo Cauterizador",
+    "Description": "Você está sofrendo Dano Incendiário de uma habilidade de Vínculo Ardente",
     "Invisible": false,
     "Removable": false,
-    "Name": "Raio Lancinante",
+    "Name": "Raio Ardente",
     "StatsKeys": [
       {
         "TableName": "Stats",
@@ -24720,7 +24720,7 @@
     "Description": "@#%*)@#%*@^)",
     "Invisible": false,
     "Removable": false,
-    "Name": "Fúria",
+    "Name": "Furor",
     "StatsKeys": [],
     "Unk006": true,
     "Unk007": 4,
@@ -82446,7 +82446,7 @@
     "Description": "Você possui uma chance de Evitar se Atordoado enquanto esse frasco estiver ativo.",
     "Invisible": true,
     "Removable": false,
-    "Name": "Ignoração de Atordoamento",
+    "Name": "Anulação de Atordoamento",
     "StatsKeys": [
       {
         "TableName": "Stats",
@@ -82786,7 +82786,7 @@
     "Description": "Você causa menos dano.",
     "Invisible": false,
     "Removable": false,
-    "Name": "Exaurido",
+    "Name": "Desgastado",
     "StatsKeys": [
       {
         "TableName": "Stats",
@@ -122816,7 +122816,7 @@
   },
   {
     "Id": "spear_sandstorm",
-    "Description": "Você está em uma Tempestade de Areia que reduz sua velocidade de movimento e te cega.",
+    "Description": "Você está em uma Tempestade de Areia que reduz sua velocidade de movimento e te [Blind|Cega].",
     "Invisible": false,
     "Removable": false,
     "Name": "[DNT] Sandstorm Swipe",
@@ -150881,7 +150881,7 @@
   },
   {
     "Id": "procession_banner_blood_drain_regen",
-    "Description": "",
+    "Description": "Concede Regeneração de Vida",
     "Invisible": false,
     "Removable": false,
     "Name": "Sangue do Portador",
@@ -151233,10 +151233,10 @@
   },
   {
     "Id": "ziggurat_burning_sun",
-    "Description": "You are taking fire damage over time from being near a fragment of the Temple of Kopec's Sun.",
+    "Description": "Você está sofrendo dano de fogo degenerativo por estar próximo a um fragmento do Templo do Sol de Kopec.",
     "Invisible": false,
     "Removable": false,
-    "Name": "A Fragment of Sun",
+    "Name": "Um Fragmento do Sol",
     "StatsKeys": [
       {
         "TableName": "Stats",
@@ -160049,7 +160049,7 @@
   },
   {
     "Id": "covered_in_oil",
-    "Description": "Velocidade de movimento [Slow|Desacelerada] e afetada por [Exposure|Exposição a Fogo]. [IgnitedGround|Solo Incendiado] ou habilidades [Detonator|Detonadoras] garantem [Ignite|Incendiar].",
+    "Description": "Velocidade de movimento [Slow|Desacelerada] e afetada por [Exposure|Exposição a Fogo]. [IgnitedGround|Solo Incendiado] ou habilidades [Detonator|Detonadoras] têm garantia de [Ignite|Incendiar].",
     "Invisible": false,
     "Removable": false,
     "Name": "Envolto em Óleo",
@@ -160868,80 +160868,6 @@
       {
         "TableName": "Stats",
         "Id": "gain_rage_on_hit"
-      }
-    ],
-    "Unk040": [],
-    "Unk041": false,
-    "Unk042": false,
-    "Unk043": false,
-    "Unk044": false,
-    "Unk045": false,
-    "Unk046": null,
-    "Unk047": [],
-    "Unk048": "뮻뮻뮻뮻ignited",
-    "Unk049": [],
-    "Unk050": false
-  },
-  {
-    "Id": "warrior_hunkered_down",
-    "Description": "",
-    "Invisible": true,
-    "Removable": false,
-    "Name": "",
-    "StatsKeys": [
-      {
-        "TableName": "Stats",
-        "Id": "additional_block_%"
-      },
-      {
-        "TableName": "Stats",
-        "Id": "base_pushiness_size_+"
-      }
-    ],
-    "Unk006": true,
-    "Unk007": 2,
-    "Unk008": false,
-    "Maximum_StatsKey": null,
-    "Current_StatsKey": null,
-    "Unk011": false,
-    "Unk012": 29,
-    "BuffVisualsKey": {
-      "TableName": "BuffVisuals",
-      "Id": "invisible"
-    },
-    "Unk014": true,
-    "Unk015": false,
-    "BuffCategory": 18,
-    "Unk017": false,
-    "Unk018": true,
-    "Unk019": true,
-    "Unk020": false,
-    "BuffLimit": 0,
-    "Unk022": false,
-    "Id2": "",
-    "IsRecovery": false,
-    "Unk025": false,
-    "Unk026": null,
-    "Unk027": false,
-    "Unk028": 7,
-    "Unk029": false,
-    "Unk030": false,
-    "Unk031": 0,
-    "Unk032": [],
-    "Unk033": false,
-    "Unk034": false,
-    "Unk035": [],
-    "Unk036": false,
-    "Unk037": [],
-    "BinaryStats": [],
-    "Unk039": [
-      {
-        "TableName": "Stats",
-        "Id": "additional_block_%"
-      },
-      {
-        "TableName": "Stats",
-        "Id": "base_pushiness_size_+"
       }
     ],
     "Unk040": [],

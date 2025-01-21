@@ -587,9 +587,9 @@
     "Id": "ActionOpenSocialPanel",
     "Text": "社交",
     "XBoxText": "社交選單",
-    "XBoxText2": "社交",
+    "XBoxText2": "社交選單",
     "HASH32": -1942747798,
-    "PlaystationText": "社交"
+    "PlaystationText": "社交選單"
   },
   {
     "Id": "ActionOpenLadderPanel",
@@ -626,7 +626,7 @@
   {
     "Id": "ActionOpenWorldPanel",
     "Text": "世界地圖",
-    "XBoxText": "世界",
+    "XBoxText": "任務",
     "XBoxText2": "",
     "HASH32": -292845281,
     "PlaystationText": ""
@@ -1009,7 +1009,7 @@
   },
   {
     "Id": "HUDPassiveAllocation",
-    "Text": "未確認 {0} 點已配置天賦點數",
+    "Text": "{0} 個未確認的天賦技能更改",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1155730225,
@@ -1017,7 +1017,7 @@
   },
   {
     "Id": "HUDPassiveAllocations",
-    "Text": "未確認 {0} 點已配置天賦點數",
+    "Text": "{0} 個未確認的天賦技能更改",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1610163065,
@@ -1041,7 +1041,7 @@
   },
   {
     "Id": "PassiveTreePanelTitle",
-    "Text": "技能",
+    "Text": "天賦技能",
     "XBoxText": "天賦",
     "XBoxText2": "",
     "HASH32": 15793221,
@@ -1161,7 +1161,7 @@
   },
   {
     "Id": "PassiveTreeStrengthRequired",
-    "Text": "還需要 {0} 點力量",
+    "Text": "需要 {0} 點更多[Strength|力量]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 869053623,
@@ -1169,7 +1169,7 @@
   },
   {
     "Id": "PassiveTreeDexterityRequired",
-    "Text": "還需要 {0} 點敏捷",
+    "Text": "需要 {0} 點更多[Dexterity|敏捷]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -606705066,
@@ -1177,7 +1177,7 @@
   },
   {
     "Id": "PassiveTreeIntelligenceRequired",
-    "Text": "還需要 {0} 點智慧",
+    "Text": "需要 {0} 點更多[Intelligence|智慧]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1071740361,
@@ -1321,7 +1321,7 @@
   },
   {
     "Id": "StrengthDescription",
-    "Text": "2 力量 = 增加 1 點生命\r\n5 力量 = 增加 1% 近戰物理傷害",
+    "Text": "1 點[Strength|力量] = +2 生命\r\n5 點[Strength|力量] = +1 個力量[SupportGem|輔助寶石]容量",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 502591132,
@@ -1329,7 +1329,7 @@
   },
   {
     "Id": "DexterityDescription",
-    "Text": "1 敏捷 = 增加 2 點命中\r\n5 敏捷 = 增加 1% 閃避",
+    "Text": "1 點[Dexterity|敏捷] = +5 [Accuracy|命中]\r\n5 點[Dexterity|敏捷] = +1 個敏捷[SupportGem|輔助寶石]容量",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 133325521,
@@ -1337,7 +1337,7 @@
   },
   {
     "Id": "IntelligenceDescription",
-    "Text": "2 智慧 = 增加 1 點魔力\r\n5 智慧 = 增加 1% 能量護盾",
+    "Text": "1 點[Intelligence|智慧] = +2 魔力\r\n5 點[Intelligence|智慧] = +1 個智慧[SupportGem|輔助寶石]容量",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1789395335,
@@ -1401,7 +1401,7 @@
   },
   {
     "Id": "ExperienceBarPopup1",
-    "Text": "等級 {1} （{0}{2}%）",
+    "Text": "等級 {1} <normal>{{({0}{2}%)}}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1308010044,
@@ -1409,7 +1409,7 @@
   },
   {
     "Id": "ExperienceBarPopup2",
-    "Text": "目前經驗值：{0} / 所需經驗值：{1}",
+    "Text": "目前經驗值：<normal>{{{0}}} / 下一級：<normal>{{{1}}}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 135563749,
@@ -1465,7 +1465,7 @@
   },
   {
     "Id": "Quality",
-    "Text": "品質",
+    "Text": "[Quality|品質]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1436181817,
@@ -1505,7 +1505,7 @@
   },
   {
     "Id": "ItemLevelPopup",
-    "Text": "物品等級：{0}",
+    "Text": "物品等級 {0}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 29425737,
@@ -1929,7 +1929,7 @@
   },
   {
     "Id": "WeaponClassDisplayNameWarstaff",
-    "Text": "征戰長杖",
+    "Text": "細杖",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 306844186,
@@ -2449,7 +2449,7 @@
   },
   {
     "Id": "ItemDisplayArmourArmour",
-    "Text": "護甲",
+    "Text": "[Armour|護甲值]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -428601825,
@@ -2457,7 +2457,7 @@
   },
   {
     "Id": "ItemDisplayArmourEvasionRating",
-    "Text": "閃避值",
+    "Text": "[Evasion|閃避值]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1203224446,
@@ -2465,7 +2465,7 @@
   },
   {
     "Id": "ItemDisplayArmourEnergyShield",
-    "Text": "能量護盾",
+    "Text": "[EnergyShield|能量護盾]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1418869478,
@@ -2506,7 +2506,7 @@
   {
     "Id": "ItemDisplayHasReskin",
     "Text": "使用 {0} 造型。可以shift+左鍵取回此道具。",
-    "XBoxText": "一般",
+    "XBoxText": "擁有 {0} 造型。你可按下 <<xbox_button_x>> 取回它。",
     "XBoxText2": "",
     "HASH32": -178234142,
     "PlaystationText": ""
@@ -2769,7 +2769,7 @@
   },
   {
     "Id": "GraphicsOptionsScreenspaceEffectsSSS",
-    "Text": "陰影（預設）",
+    "Text": "陰影",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1254670511,
@@ -2777,7 +2777,7 @@
   },
   {
     "Id": "GraphicsOptionsScreenspaceEffectsGI",
-    "Text": "陰影 + 全域照明",
+    "Text": "陰影 + 全域照明（預設）",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -43492962,
@@ -3361,7 +3361,7 @@
   },
   {
     "Id": "OptionsShowAllyNamesOnMapLabel",
-    "Text": "在你的地圖上顯示友方名字",
+    "Text": "顯示友方名稱",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 406459778,
@@ -3897,7 +3897,7 @@
   },
   {
     "Id": "NotificationOptionsTypeHeader",
-    "Text": "通知",
+    "Text": "通知彈出視窗",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -674882240,
@@ -3985,7 +3985,7 @@
   },
   {
     "Id": "LoginScreenSaveLoginDetailsText",
-    "Text": "儲存登入資訊",
+    "Text": "記住我",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 903007589,
@@ -3993,7 +3993,7 @@
   },
   {
     "Id": "LoginScreenCreateButtonText",
-    "Text": "註冊",
+    "Text": "建立帳號",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -387435627,
@@ -4481,7 +4481,7 @@
   },
   {
     "Id": "EscapeMenuRespawnAtCheckpoint",
-    "Text": "在上一個儲存點復活",
+    "Text": "在記錄點重生",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 935243585,
@@ -6018,7 +6018,7 @@
   {
     "Id": "WorldPanelPinPopupClickToTravel",
     "Text": "點擊以移動至 {0}",
-    "XBoxText": "Art/Videos/Tutorial_Atlas_Xbox.bk2",
+    "XBoxText": "{0} 前往至 {1}",
     "XBoxText2": "",
     "HASH32": -993450392,
     "PlaystationText": ""
@@ -6529,7 +6529,7 @@
   },
   {
     "Id": "PlayerContextMenuLeavePartyButton",
-    "Text": "離開現在隊伍",
+    "Text": "離開隊伍",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1246747180,
@@ -6985,7 +6985,7 @@
   },
   {
     "Id": "DeathScreenTitle",
-    "Text": "你已經死了！",
+    "Text": "你已死亡",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -932683671,
@@ -7058,7 +7058,7 @@
   {
     "Id": "ItemDescriptionPantheonSoul",
     "Text": "把奪取來的靈魂交給罪或點擊右鍵以解鎖次級眾神殿之力。",
-    "XBoxText": "捕獲的靈魂。可以將靈魂交付給罪，或是使用以解鎖次級眾神殿之力。如果次級眾神殿之力已經解鎖，再次使用則會關閉此角色的次級眾神殿之力。",
+    "XBoxText": "一個奪取之魂。將它交給罪，或用來解鎖一個次要神之力。",
     "XBoxText2": "",
     "HASH32": -1118922715,
     "PlaystationText": ""
@@ -9433,7 +9433,7 @@
   },
   {
     "Id": "SellWindowTitle",
-    "Text": "賣掉",
+    "Text": "祛魔",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1652664088,
@@ -9465,7 +9465,7 @@
   },
   {
     "Id": "BuyWindowTitle",
-    "Text": "購買",
+    "Text": "購買或販賣",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1430846867,
@@ -11337,7 +11337,7 @@
   },
   {
     "Id": "QuestTrackerOptional",
-    "Text": "{0} （支線任務）",
+    "Text": "{0}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 174044753,
@@ -11505,15 +11505,15 @@
   },
   {
     "Id": "TutorialFirstSkillGemHowToSocket",
-    "Text": "想要使用技能，請先左鍵點擊拿起寶石，並放在武器上相應顏色的插槽中。",
-    "XBoxText": "將技能寶石插入武器和護甲即可獲得強力的技能。\n\n若要選擇技能寶石，按下<<xbox_button_a>>     \n以拿起，接著對武器上相應顏色的插槽按下<<xbox_button_a>>。",
+    "Text": "開啟寶石面板 ({0}) 來綁定技能",
+    "XBoxText": "選擇技能寶石，接著以 <<xbox_button_x>> 將其裝備至一個插槽。",
     "XBoxText2": "",
     "HASH32": -1817833142,
     "PlaystationText": ""
   },
   {
     "Id": "TutorialGemLevelUpClickButton",
-    "Text": "你可以點擊這個按鈕來升級你的技能寶石。",
+    "Text": "技能寶石升級",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1945101009,
@@ -11529,7 +11529,7 @@
   },
   {
     "Id": "TutorialLevelUp",
-    "Text": "每當你升級時會獲得一個天賦點。\n點擊此處(或按下 {0} )配置你的天賦點。",
+    "Text": "點一下這裡或按下 <normal>{{<n>{{{0}}}}} 來分配你的技能點數",
     "XBoxText": "當你升級時將會獲得天賦點數。\n按下<<xbox_button_view>>開啟天賦樹。",
     "XBoxText2": "",
     "HASH32": 1446929430,
@@ -11537,7 +11537,7 @@
   },
   {
     "Id": "TutorialLowLife",
-    "Text": "按下 {0} 使用生命藥水。",
+    "Text": "按下 <N>{{<normal>{{{0}}}}} 來使用生命藥劑。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1431595308,
@@ -11546,7 +11546,7 @@
   {
     "Id": "TutorialMove",
     "Text": "<N>{{<normal>{{{0}}}}} 來移動。",
-    "XBoxText": "<<xbox_lstick>>移動。",
+    "XBoxText": "{0} 以移動     {1} 以瞄準",
     "XBoxText2": "",
     "HASH32": 1863727484,
     "PlaystationText": ""
@@ -17386,7 +17386,7 @@
   {
     "Id": "ItemDescriptionItemisedProphecy",
     "Text": "點擊右鍵將此預言附加於你的角色之上。",
-    "XBoxText": "按下<<xbox_button_a>>將此預言附加於你的角色之上。",
+    "XBoxText": "使用後為你的角色添加這則預言。",
     "XBoxText2": "",
     "HASH32": -121234038,
     "PlaystationText": ""
@@ -17394,7 +17394,7 @@
   {
     "Id": "ItemDescriptionItemisedCapturedMonster",
     "Text": "點擊右鍵將此加入你的獸獵寓言。",
-    "XBoxText": "按下<<xbox_button_a>>將其附加於你的獸獵之上。",
+    "XBoxText": "使用後將此加入你的獸獵寓言。",
     "XBoxText2": "",
     "HASH32": -1585161463,
     "PlaystationText": ""
@@ -19057,8 +19057,8 @@
   },
   {
     "Id": "TutorialCTRLClick",
-    "Text": "你可以按住Ctrl鍵後點擊想要移動到倉庫、商店、道具欄的物品，即可省去拖曳的操作。按住Alt鍵並將鼠標移至物品上能夠更詳細地了解它的資訊。",
-    "XBoxText": "按下<<xbox_button_x>>立即在你的倉庫和背包之間轉移物品。按住<<xbox_button_lstick>>以更詳細地了解物品的資訊。",
+    "Text": "<normal>{<n>{Ctrl + 左鍵點擊}}可立即在倉庫和背包間轉移物品",
+    "XBoxText": "按下 <<xbox_button_lt>> }可立即在倉庫和背包間轉移物品。使用 <<xbox_button_rstick>> 可查看關於物品的更多資訊。",
     "XBoxText2": "",
     "HASH32": 880869726,
     "PlaystationText": ""
@@ -20033,7 +20033,7 @@
   },
   {
     "Id": "AtlasProgressBarHover2",
-    "Text": "你完成的每個特殊條件會獲得 1 點輿圖天賦點",
+    "Text": "你每完成一個特殊目標，就獲得 1 點輿圖天賦點數",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 80785964,
@@ -21049,7 +21049,7 @@
   },
   {
     "Id": "TutorialFirstSkillGemExplainSkill",
-    "Text": "此技能已被加到你的技能欄中並可以透過 '{0}' 使用。\n\n 點選 {1} 關閉倉庫。",
+    "Text": "此技能現在裝備在你的技能欄，可搭配「{0}」使用。\n\n按下 {1} 可關閉背包、按下 {2} 可關閉寶石面板。",
     "XBoxText": "此技能已被裝備，並可以透過 '{0}'.\n (稍後可進行調整)",
     "XBoxText2": "",
     "HASH32": 1298339715,
@@ -21057,7 +21057,7 @@
   },
   {
     "Id": "TutorialLowMana",
-    "Text": "點擊 {0} 回復魔力。",
+    "Text": "按下<normal>{{<n>{{{0}}}}}來使用魔力藥劑",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1070666368,
@@ -24586,7 +24586,7 @@
   {
     "Id": "ConsolePlayerLevelUpText",
     "Text": "",
-    "XBoxText": "按<<xbox_button_view>>以配置一個新的天賦點",
+    "XBoxText": "按下 <<xbox_button_view>> 來分配\r\n新的天賦點數。",
     "XBoxText2": "",
     "HASH32": 1276349392,
     "PlaystationText": ""
@@ -25825,7 +25825,7 @@
   },
   {
     "Id": "TutorialPanelGlossaryContent4",
-    "Text": "冰凍、冰緩、感電、點燃、流血和中毒。異常狀態可以被某些藥劑、物品或天賦移除。\r\n\r\n還有其他異常狀態可以透過特定稀有物品或天賦施加。有易碎、殘喘和焦灼。",
+    "Text": "[Bleeding|流血]、[Ignite|點燃]、[Chill|冰緩]、[Freeze|冰凍]、[Shock|感電]和[Poison|中毒]。[Ailments|異常狀態]可利用特定藥劑移除，或以物品或天賦減輕。\r\n\r\n特定稀有物品和天賦可施加其他異常狀態，如易碎、衰竭和焦灼。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 8648866,
@@ -32033,7 +32033,7 @@
   },
   {
     "Id": "TutorialPanelFlasksContent3",
-    "Text": "有些魔法詞綴可以加強回復的總血量或魔力、或持續時間、或可使用的次數。有的也會提供額外的功能，像是移除詛咒或異常狀態。\r\n\r\n謹慎的選擇你的藥劑和它們擁有詞綴，就跟選擇使用的武器或天賦樹點法一樣的重要。若你活得很辛苦，你可以確認你的藥劑還有沒有進不的空間。它們通常是省錢且有效率改善流派問題的第一步。",
+    "Text": "其他魔法詞綴可強化[Flask|藥劑]的生命或魔力回復量、持續時間，或是可使用次數。其中一些可提供額外功用，像是移除詛咒或[Ailments|異常狀態]。\r\n\r\n慎選你的藥劑以及帶有的詞綴，其重要性並不亞於挑選你的武器或天賦。如果你常常死亡，不妨留意一下你的藥劑，看看有沒有能提升的地方。在解決角色流派問題上，藥劑往往是個經濟實惠的選擇。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1218796081,
@@ -32937,7 +32937,7 @@
   },
   {
     "Id": "PartyModifierInfoHoverLoot",
-    "Text": "此區共有 {3} 名玩家，增加物品掉落：\n<magic>{{+{0}% 通貨物品\n+{1}% 其他物品\n+{2}% 增加物品稀有度}}",
+    "Text": "此區域中有 {3} 名玩家，\r\n提升物品掉落：\n<magic>{{+{0}% 通貨物品\n+{1}% 其他物品\n+{2}% 增加物品稀有度}}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1150255308,
@@ -32945,7 +32945,7 @@
   },
   {
     "Id": "PartyModifierInfoHoverMonsterHealth",
-    "Text": "此區共有 {4} 名玩家，增加怪物生命：\n<magic>{{+{0}% 普通怪物生命\n+{1}% 魔法怪物生命\n+{2}% 稀有怪物生命\n+{3}% 傳奇怪物生命}}",
+    "Text": "此區域中有 {4} 名玩家，\r\n增加怪物生命：\n<magic>{{+{0}% 普通怪物生命\n+{1}% 魔法怪物生命\n+{2}% 稀有怪物生命\n+{3}% 傳奇怪物生命}}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1295740187,
@@ -36089,7 +36089,7 @@
   },
   {
     "Id": "BetrayalChoiceActionDestroyAllItemsInDivision",
-    "Text": "摧毀所有 {0} 成員的所有物品",
+    "Text": "摧毀 {0} 名成員的所有物品",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1598972889,
@@ -36585,7 +36585,7 @@
   },
   {
     "Id": "BetrayalLegend12",
-    "Text": "鞋子物品",
+    "Text": "長靴物品",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 842534830,
@@ -36813,7 +36813,7 @@
     "XBoxText": "",
     "XBoxText2": "沒有與你的 Microsoft 帳號關聯的流亡黯道帳號。你想創建一個嗎？",
     "HASH32": -343724415,
-    "PlaystationText": "沒有與你的 Sony Entertainment Network 帳號關聯的流亡黯道帳號。你想創建一個嗎？"
+    "PlaystationText": "沒有與你的 PlayStation<font:'quikhand'>{™} Network 帳號關聯的流亡黯道帳號。你想創建一個嗎？"
   },
   {
     "Id": "ConsoleBasedamageDealt",
@@ -38841,7 +38841,7 @@
   },
   {
     "Id": "BlightCraftingTitle",
-    "Text": "塗抹器皿",
+    "Text": "滴注中",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 471663942,
@@ -38849,7 +38849,7 @@
   },
   {
     "Id": "BlightCraftingButton",
-    "Text": "塗抹",
+    "Text": "滴注",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 210735972,
@@ -39305,7 +39305,7 @@
   },
   {
     "Id": "BlightRequiredOils",
-    "Text": "卡西亞可以透過這些油瓶附魔你的項鍊來獲得此天賦：",
+    "Text": "可使用這些精煉的情感，以核心天賦強化你的項鍊：",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1960943143,
@@ -39313,7 +39313,7 @@
   },
   {
     "Id": "BlightCraftingInfoLegend",
-    "Text": "顯示抹油資訊",
+    "Text": "顯示滴注資訊",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -2008647056,
@@ -39401,7 +39401,7 @@
   },
   {
     "Id": "BlightAnointErrorInvalidItem",
-    "Text": "此物品不能被抹油。",
+    "Text": "此物品無法滴注。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 112304548,
@@ -39409,7 +39409,7 @@
   },
   {
     "Id": "BlightAnointErrorInvalidInput",
-    "Text": "無效油瓶。",
+    "Text": "無效的精煉的情感。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1722203399,
@@ -39425,7 +39425,7 @@
   },
   {
     "Id": "BlightAnointErrorTooFewInputs",
-    "Text": "此物品需要更多油瓶來抹油。",
+    "Text": "此物品需要更多精煉的情才能滴注。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1196956794,
@@ -39457,7 +39457,7 @@
   },
   {
     "Id": "BlightAnointErrorNoRecipe",
-    "Text": "此油瓶組合無效。",
+    "Text": "此精煉的情感組合無結果。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 2122922449,
@@ -39961,7 +39961,7 @@
   },
   {
     "Id": "HideoutVisitWorldArea",
-    "Text": "你必須前往 {0} 來解鎖你藏身處中的此裝飾物。",
+    "Text": "你必須造訪 {0} 才能為你的藏身處解鎖該裝飾物。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1900306132,
@@ -41298,7 +41298,7 @@
   {
     "Id": "ConsoleChatEnterMessage",
     "Text": "",
-    "XBoxText": "按 <<xbox_button_a>> 輸入訊息...",
+    "XBoxText": "按下 {0} 以編輯訊息……",
     "XBoxText2": "",
     "HASH32": 1257091293,
     "PlaystationText": ""
@@ -41713,7 +41713,7 @@
   },
   {
     "Id": "BlightStashButtonPopup",
-    "Text": "點此按鈕後點擊油瓶，將它們升級\n至下個階級。完成後按 Ese。",
+    "Text": "點擊此按鈕，再點擊精煉的情感以將其\n升級至下一階級。完成時按下 Esc 鍵。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 304225246,
@@ -41721,7 +41721,7 @@
   },
   {
     "Id": "BlightStashUpgradeLabel",
-    "Text": "在倉庫點擊油瓶來升級它們。完成後按 Ese。",
+    "Text": "在倉庫中點擊精煉的情感將其升級。完成時按下 Esc 鍵。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1963865494,
@@ -43242,7 +43242,7 @@
   {
     "Id": "ConsoleGuildInviteQuickAccept",
     "Text": "開啟邀請介面",
-    "XBoxText": "按 <<xbox_button_view>> 顯示公會邀請面板",
+    "XBoxText": "按下 <<xbox_button_menu>> 顯示公會邀請面板",
     "XBoxText2": "",
     "HASH32": 1529917912,
     "PlaystationText": ""
@@ -45058,7 +45058,7 @@
   {
     "Id": "RitualRewardWindowHelpPopup",
     "Text": "在祭祀期間擊殺怪物以獲得貢禮。完成祭祀後，可使用貢禮兌換獎勵。\n部分獎勵只會在完成特定祭祀後才會顯示。\n祭祀獎勵在改變地區後就會替換，除非你有將它們暫緩。",
-    "XBoxText": "在祭祀期間擊殺怪物以獲得貢禮。完成祭祀後，可使用貢禮兌換獎勵。\n部分獎勵只會在完成特定祭祀後才會顯示。\n祭祀獎勵在改變地區後就會替換，除非你有將它們暫緩。\n帶有<<ritual_suspended>>圖示的物品先前曾被暫緩且已支付一部分。",
+    "XBoxText": "<bigger>{<title>{祭祀恩惠}}\r\n在祭祀期間殺死怪物來獲取貢禮。\r\n貢禮在祭祀完成後可用來兌換獎勵。\r\n\r\n部分獎勵只有在完成數次祭祀後才會揭露。\r\n如未經推遲，祭祀獎勵會隨區域切換而改變。\r\n\r\n<bigger>{<title>{推遲物品}}\r\n支付一項物品原價格的 15% 可將其推遲。\r\n該物品會在之後的一個區域再次出現，並具有原價格 10% 的折扣。\r\n越珍貴的物品需要越長的時間才會再次出現。\r\n\r\n具有 <<ritual_suspended>> 圖示的物品為經推遲並已支付部分款項。",
     "XBoxText2": "",
     "HASH32": 925319988,
     "PlaystationText": ""
@@ -45557,7 +45557,7 @@
     "XBoxText": "",
     "XBoxText2": "由於帳號限制，無法打開網絡瀏覽器。 請檢查你的 Xbox Live 帳號。",
     "HASH32": -956463419,
-    "PlaystationText": "由於帳號限制，無法打開網絡瀏覽器。 請檢查你的 Sony 帳號。"
+    "PlaystationText": "因帳號限制無法開啟瀏覽器。請在 PlayStation<font:'quikhand'>{™}Network 檢查你帳號的狀態。"
   },
   {
     "Id": "ItemDisplayMavenVoidAreas",
@@ -46105,7 +46105,7 @@
   },
   {
     "Id": "BlightAnointErrorCannotUseCorruptOil",
-    "Text": "汙染油瓶只能使用於已污染的物品上。",
+    "Text": "已汙染物品無法滴注。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1099988597,
@@ -50593,7 +50593,7 @@
   },
   {
     "Id": "VoidstoneFunctionText",
-    "Text": "區域中掉落的地圖有 25% 機率高 1 階",
+    "Text": "區域中掉落的地圖有 25% 機率高出 1 個階級",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 385872633,
@@ -52609,7 +52609,7 @@
   },
   {
     "Id": "BlightAnointErrorCannotUseMirrorOil",
-    "Text": "映像油瓶可以使用至鏡像物品。",
+    "Text": "複製物品無法滴注。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1958435679,
@@ -54833,7 +54833,7 @@
   },
   {
     "Id": "DestoryItemWithIncubatorWarningTitle",
-    "Text": "Destroy item with incubator attached?",
+    "Text": "要摧毀帶有培育器的物品嗎？",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -638255934,
@@ -54841,7 +54841,7 @@
   },
   {
     "Id": "DestoryItemWithIncubatorWarningText",
-    "Text": "You will lose all incubator progress attached to item.",
+    "Text": "你將會失去物品上的所有培育器進度。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -210641953,
@@ -61057,7 +61057,7 @@
   },
   {
     "Id": "ItemDescriptionSoulCore",
-    "Text": "放入[MartialWeapon|軍用武器]或護甲的一個空白符文插槽，將其效果套用至該物品。放入插槽後將無法移除。",
+    "Text": "放入[MartialWeapon|軍用武器]或護甲的一個空白符文插槽，將其效果套用至該物品。放入插槽後將無法移除或替換。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -17833895,
@@ -61617,8 +61617,8 @@
   },
   {
     "Id": "CurrencyExchangeInfoPopup",
-    "Text": "<valuedefault>{若要下訂單，請確保你已選擇你想要交易的物品、具有數值介於 1 - 65000 間的有效實際比率，以及足夠的金幣和物品。\r\n\r\n在你的訂單完成或關閉之前，你無法領取物品。透過按下 X 關閉你的訂單將會返還你的金幣。\r\n\r\n市集訂單僅能以你所選或以上的比率進行交易。 若弗斯特無法透過找到更好的交易來完成你的訂單，他將會返還你訂單未完成部分的金幣以及任何未花費的通貨。你永遠無法獲得超過「我需要的」數量，但你可以支付少於「我擁有的」數量。\r\n\r\n懸停在市集比率上會顯示市集上可用交易的更多資訊。按住} Alt <valuedefault>{的同時懸停在市集比率上也會顯示市集上競爭交易的資訊。\r\n\r\n若你選擇的比率變得}暗淡<valuedefault>{，這代表你的訂單不符合市集上現有的訂單。你的訂單只有在其他交易者選擇以你的比率進行交易時才會完成。}\r\n\r\n<valuedefault>{Ctrl + 左鍵點擊}背包中的物品以將其指派為「我擁有的」物品。\r\n<valuedefault>{Ctrl + Shift + 左鍵點擊}背包中的物品以將其指派為「我想要的」物品。\r\n<valuedefa",
-    "XBoxText": "<valuedefault>{若要下訂單，請確保你已選擇你想要交易的物品、具有數值介於 1 - 65000 間的有效實際比率，以及足夠的金幣和物品。\r\n\r\n在你的訂單完成或關閉之前，你無法領取物品。透關閉你的訂單將會返還你的金幣。\r\n\r\n市集訂單僅能以你所選或以上的比率進行交易。 若弗斯特無法透過找到更好的交易來完成你的訂單，他將會返還你訂單未完成部分的金幣以及任何未花費的通貨。\r\n\r\n你永遠無法獲得超過「我需要的」數量，但你可以支付少於「我擁有的」數量。\r\n\r\n若你選擇的比率變得}暗淡<valuedefault>{，這代表你的訂單不符合市集上現有的訂單。你的訂單只有在其他交易者選擇以你的比率進行交易時才會完成。}\r\n\r\n<bigger>{<<take_item>>}<cxinfocolour>{ - 周圍發光的物品已準備好取回。}\r\n\r\n<bigger>{<<complete_order>>}<cxinfocolour>{ - 完成的訂單。}\r\n\r\n<bigger>{<<open_order>>}<cxinfocolour>{ - 進行中的訂單。}\r\n\r\n<bigger>{<<league_order>>}",
+    "Text": "<valuedefault>{若要下訂單，請確保你已選擇你想要交易的物品、具有數值介於 1 - 65000 間的有效實際比率，以及足夠的金幣和物品。\r\n\r\n在你的訂單完成或關閉之前，你無法領取物品。透過按下 X 關閉你的訂單將會返還你的金幣。\r\n\r\n市集訂單僅能以你所選或以上的比率進行交易。 若艾瓦無法透過找到更好的交易來完成你的訂單，她將會返還你訂單未完成部分的金幣以及任何未花費的通貨。你永遠無法獲得超過「我需要的」數量，但你可以支付少於「我擁有的」數量。\r\n\r\n懸停在市集比率上會顯示市集上可用交易的更多資訊。按住} Alt <valuedefault>{的同時懸停在市集比率上也會顯示市集上競爭交易的資訊。\r\n\r\n若你選擇的比率變得}暗淡<valuedefault>{，這代表你的訂單不符合市集上現有的訂單。你的訂單只有在其他交易者選擇以你的比率進行交易時才會完成。}\r\n\r\n<valuedefault>{Ctrl + 左鍵點擊}背包中的物品以將其指派為「我擁有的」物品。\r\n<valuedefault>{Ctrl + Shift + 左鍵點擊}背包中的物品以將其指派為「我想要的」物品。\r\n<valuedefau",
+    "XBoxText": "<valuedefault>{若要下訂單，請確保你已選擇你想要交易的物品、具有數值介於 1 - 65000 間的有效實際比率，以及足夠的金幣和物品。\r\n\r\n在你的訂單完成或關閉之前，你無法領取物品。透關閉你的訂單將會返還你的金幣。\r\n\r\n市集訂單僅能以你所選或以上的比率進行交易。 若艾瓦無法透過找到更好的交易來完成你的訂單，她將會返還你訂單未完成部分的金幣以及任何未花費的通貨。\r\n\r\n你永遠無法獲得超過「我需要的」數量，但你可以支付少於「我擁有的」數量。\r\n\r\n若你選擇的比率變得}暗淡<valuedefault>{，這代表你的訂單不符合市集上現有的訂單。你的訂單只有在其他交易者選擇以你的比率進行交易時才會完成。}\r\n\r\n<bigger>{<<take_item>>}<cxinfocolour>{ - 周圍發光的物品已準備好取回。}\r\n\r\n<bigger>{<<complete_order>>}<cxinfocolour>{ - 完成的訂單。}\r\n\r\n<bigger>{<<open_order>>}<cxinfocolour>{ - 進行中的訂單。}\r\n\r\n<bigger>{<<league_order>>}<",
     "XBoxText2": "",
     "HASH32": 1672957017,
     "PlaystationText": ""
@@ -61665,7 +61665,7 @@
   },
   {
     "Id": "CurrencyExchangeNotification",
-    "Text": "弗斯特已完成你的通貨交換訂單之一",
+    "Text": "艾瓦已完成你的通貨交換訂單之一",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 322159718,
@@ -64745,7 +64745,7 @@
   },
   {
     "Id": "ReceivedAtlasPassivePointPinnacleBoss1",
-    "Text": "你收到 1 點巔峰頭目輿圖技能點。",
+    "Text": "你收到 1 點仲裁者頭目輿圖技能點。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -2070842229,
@@ -64753,7 +64753,7 @@
   },
   {
     "Id": "ReceivedAtlasPassivePointPinnacleBossN",
-    "Text": "你收到 {0} 點巔峰頭目輿圖技能點。",
+    "Text": "你收到 {0} 點仲裁者頭目輿圖技能點。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -901521946,
@@ -66041,7 +66041,7 @@
   },
   {
     "Id": "MtxShopDiscountPercentOffLabel",
-    "Text": "關閉",
+    "Text": "折扣",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1242937018,
@@ -66809,7 +66809,7 @@
   },
   {
     "Id": "ItemErrorSupportGemLimitReached",
-    "Text": "Your character is already has {0} of this Support Gem equipped.",
+    "Text": "你的角色已經裝備了 {0} 顆此種輔助寶石。",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -2076084541,
@@ -66817,7 +66817,7 @@
   },
   {
     "Id": "ConsoleActionSocketJewel",
-    "Text": "Socket Jewel",
+    "Text": "插槽珠寶",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1401700865,
@@ -66825,7 +66825,7 @@
   },
   {
     "Id": "MissingSocketedSkillError",
-    "Text": "Missing socketed skill",
+    "Text": "缺少插槽中的技能",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1430419449,
@@ -66833,7 +66833,7 @@
   },
   {
     "Id": "EShopPanelNavigationButtonCosmetics",
-    "Text": "Cosmetics",
+    "Text": "造型外觀",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -205838374,
@@ -66841,7 +66841,7 @@
   },
   {
     "Id": "EShopPanelNavigationButtonSales",
-    "Text": "Sales",
+    "Text": "特賣",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1895835604,
@@ -66901,6 +66901,110 @@
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 926585170,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelGuildDonationWarningContent",
+    "Text": "In order for your points to be transferred to the Guild, the Guild Leader must accept the transaction:\n{0}\n\nIf the Guild Leader doesn't accept these points within 48 hours the points will be returned to you.",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 429795050,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelGuildDonationRequest",
+    "Text": "Your donation has been sent.\n Please wait for the Guild Leader to accept or cancel your point donation.",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 1760549124,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelBundlePurchaseOnly",
+    "Text": "Bundle Purchase Only",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -755060096,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelItemCannotPurchaseIndividual",
+    "Text": "This Item Cannot Be Purchased Individually",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -1586382482,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "SkillPopupCastTimeValue",
+    "Text": "{0} s",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 898359382,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "GamepadSSFInvalidInCOOP",
+    "Text": "Couch co-op is unavailable in Solo Self-Found",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -777655859,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "ConsoleActionPlaceSingle",
+    "Text": "Place Single",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -77014063,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "WeaponSetDisabledMessage",
+    "Text": "No Skill Points to allocate for Weapon Set Points",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -1884406229,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "PersistentBuffTutorial",
+    "Text": "Right click to activate your buff gem",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -2021994248,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "PersistentBuffTutorialNoSpirit",
+    "Text": "Right click to activate your buff gem when you have the spirit to do so",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 971475816,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "WorldPanelPinPopupBiome",
+    "Text": "Biome: <white>{{{0}}}",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -361254526,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "OptionsOpenPopularFiltersWebpageButtonPopup",
+    "Text": "Click to open the popular filters page in your web browser",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -867992411,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "MigrateAllLeaguesDropBoxOption",
+    "Text": "All",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -226971148,
     "PlaystationText": ""
   }
 ]

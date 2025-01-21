@@ -705,7 +705,7 @@
   },
   {
     "Id": "table_charge",
-    "DisplayedName": "Investina com Mesa",
+    "DisplayedName": "Investida com Mesa",
     "Description": "Avança em um inimigo, impactando-o com o escudo do personagem e golpeando. Isso o empurrará e atordoará. Inimigos no caminho são empurrados para o lado. O Dano e atordoamento são proporcionais à distância viajada. Não pode ser suportado por Ataques Múltiplos.",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -7543,7 +7543,7 @@
   {
     "Id": "melee",
     "DisplayedName": "Ataque Básico",
-    "Description": "Derruba seus oponentes com um poderoso golpe.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 34
@@ -8878,7 +8878,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 70384,
+    "Unk030": 70290,
     "AudioEvent": null,
     "Unk032": 56924,
     "Unk033": null,
@@ -9112,7 +9112,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 70384,
+    "Unk030": 70290,
     "AudioEvent": null,
     "Unk032": 56924,
     "Unk033": null,
@@ -9553,7 +9553,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 70384,
+    "Unk030": 70290,
     "AudioEvent": null,
     "Unk032": 1598,
     "Unk033": null,
@@ -9736,7 +9736,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 75250,
+    "Unk030": 75156,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -10718,7 +10718,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 86892,
+    "Unk032": 86798,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11626,7 +11626,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 407
     },
-    "Unk032": 97748,
+    "Unk032": 97654,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11994,7 +11994,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 398
     },
-    "Unk032": 97748,
+    "Unk032": 97654,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12230,7 +12230,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 465
     },
-    "Unk032": 107048,
+    "Unk032": 106954,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12373,7 +12373,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 420
     },
-    "Unk032": 97748,
+    "Unk032": 97654,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12978,9 +12978,9 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 116514,
+    "Unk030": 116420,
     "AudioEvent": null,
-    "Unk032": 116598,
+    "Unk032": 116504,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -14186,7 +14186,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 424
     },
-    "Unk032": 127742,
+    "Unk032": 127648,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20031,8 +20031,8 @@
   },
   {
     "Id": "piety_ice_shot",
-    "DisplayedName": "Tiro de Gelo",
-    "Description": "Atira uma flecha que converte parte do dano físico para dano de gelo no alvo e converte todo o dano físico em dano de gelo em um cone atrás do alvo. Cria um caminho de terreno congelado sob o alvo.",
+    "DisplayedName": "",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 91
@@ -20626,7 +20626,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 97748,
+    "Unk032": 97654,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20636,7 +20636,7 @@
   },
   {
     "Id": "cold_weakness",
-    "DisplayedName": "Congelabilidade",
+    "DisplayedName": "Hipotermia",
     "Description": "[Curse|Amaldiçoa] todos os alvos em uma área após um curto atraso, reduzindo sua [Cold|Resistências a Gelo].",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -20766,7 +20766,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 97748,
+    "Unk032": 97654,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20906,7 +20906,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 97748,
+    "Unk032": 97654,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -33992,7 +33992,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 239834,
+    "Unk030": 239304,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 344
@@ -36633,7 +36633,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 255216,
+    "Unk030": 254686,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 335
@@ -45487,7 +45487,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 406
     },
-    "Unk032": 97748,
+    "Unk032": 97654,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -56810,7 +56810,7 @@
   {
     "Id": "artillery_ballista_projectile",
     "DisplayedName": "Tiro de Artilharia",
-    "Description": "Atira um carregamento teleguiado para o céu, derrubando um disparo próximo a cada inimigo na área. Estes disparos se acumulam no solo e explodem após um curto período.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 456
@@ -58094,7 +58094,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 354964,
+    "Unk030": 354096,
     "AudioEvent": null,
     "Unk032": 1598,
     "Unk033": null,
@@ -60440,7 +60440,7 @@
   {
     "Id": "hexblast",
     "DisplayedName": "Feitiço Explosivo",
-    "Description": "Detona [Curse|Maldições] em inimigos dentro de uma área, causando explosões de dano de [Chaos|Caos], mas removendo a [Curse|Maldição].",
+    "Description": "Detona uma [Curse|Maldição] em cada inimigo em uma área, causando explosões de dano de [Chaos|Caos], mas removendo a [Curse|Maldição].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 390
@@ -62127,7 +62127,7 @@
   {
     "Id": "exsanguinate",
     "DisplayedName": "Ensanguentar",
-    "Description": "Expele seu próprio sangue como tentáculos sangrentos [Chain|Ricocheteadores] em um cone à sua frente. Inimigos atingidos pelos tentáculos sofrem dano [Physical|Físico] e são afetados por um [Debuff] que causa dano [Physical|Físico] degenerativo.",
+    "Description": "Expele seu próprio sangue como tentáculos sangrentos [Chain|Encadeadores] em um cone à sua frente. Inimigos atingidos pelos tentáculos sofrem dano [Physical|Físico] e são afetados por um [Debuff] que causa dano [Physical|Físico] degenerativo.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 398
@@ -66762,10 +66762,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 27
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 7
       },
       {
@@ -68029,7 +68025,7 @@
   {
     "Id": "lightning_conduit",
     "DisplayedName": "Conduíte de Raios",
-    "Description": "Convoca raios para atingir todos os inimigos em um cone à sua frente. Causa significativamente mais dano em inimigos [Shock|Eletrizados], mas [Consume|Consome] a [Shock|Eletrização] deles após causar dano. Mirar próximo a você fará com que você salte para trás ao conjurar.",
+    "Description": "Invoca raios para atingir todos os inimigos em um cone à sua frente. Causa significativamente mais dano a inimigos [Shock|Eletrizados], mas [Consume|Consome] a [Shock|Eletrização] deles após causar dano. Se uma [Shock|Eletrização] for [Consume|Consumido], raios adicionais serão distribuídos entre os alvos atingidos. Mirar perto de você fará com que você salte para trás enquanto conjura.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 438
@@ -69022,7 +69018,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 422454,
+    "Unk030": 421796,
     "AudioEvent": null,
     "Unk032": 1598,
     "Unk033": null,
@@ -69585,7 +69581,7 @@
   {
     "Id": "sandstorm_swipe",
     "DisplayedName": "Corte Giratório",
-    "Description": "Executa um corte circular que cria uma tormenta giratória de vento e poeira ao seu redor, [Slow|Desacelerando] inimigos e os [Blind|Cegando] em sua área de efeito. Deixar a área libera a tormenta giratória, fazendo com que ela cause dano.",
+    "Description": "Executa um corte circular que levanta uma tempestade giratória de vento e poeira ao seu redor, [Slow|Desacelerando] inimigos e os [Blind|Cegando] na sua área de efeito. Sair da área libera a tempestade giratória, causando dano e provocando [Knockback|Empurrão].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 448
@@ -69700,7 +69696,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 425938,
+    "Unk030": 425326,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 360
@@ -69952,7 +69948,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 427526,
+    "Unk030": 426914,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 362
@@ -70546,7 +70542,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 513
     },
-    "Unk032": 431560,
+    "Unk032": 430948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70699,7 +70695,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 518
     },
-    "Unk032": 432556,
+    "Unk032": 431944,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70772,7 +70768,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 529
     },
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70925,7 +70921,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 525
     },
-    "Unk032": 434422,
+    "Unk032": 433810,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70999,7 +70995,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71018,7 +71014,8 @@
     "Icon_DDSFile": "Art/2DArt/SkillIcons/PowerShotPermafrost.dds",
     "ActiveSkillTargetTypes": [
       1,
-      2
+      2,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71168,7 +71165,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 522
     },
-    "Unk032": 436142,
+    "Unk032": 435534,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71188,7 +71185,8 @@
     "ActiveSkillTargetTypes": [
       1,
       23,
-      24
+      24,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71238,7 +71236,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71387,7 +71385,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 536
     },
-    "Unk032": 437852,
+    "Unk032": 437248,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71457,7 +71455,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71825,7 +71823,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72053,7 +72051,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72286,7 +72284,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72513,7 +72511,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72776,7 +72774,7 @@
   {
     "Id": "whirling_assault",
     "DisplayedName": "Ataque Giratório",
-    "Description": "Avança enquanto atinge inimigos ao seu redor com uma série de golpes giratórios.",
+    "Description": "Avance enquanto atinge inimigos ao seu redor com uma série de [Strike|Golpes] giratórios.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 458
@@ -72894,7 +72892,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 447956,
+    "Unk030": 447370,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 326
@@ -73576,7 +73574,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 452842,
+    "Unk030": 452256,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 328
@@ -77494,7 +77492,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77713,7 +77711,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77940,7 +77938,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78163,7 +78161,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78318,7 +78316,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 514
     },
-    "Unk032": 482602,
+    "Unk032": 482016,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78481,7 +78479,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 506
     },
-    "Unk032": 483648,
+    "Unk032": 483062,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78551,7 +78549,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78710,7 +78708,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 519
     },
-    "Unk032": 485650,
+    "Unk032": 485064,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78780,7 +78778,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78943,7 +78941,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 503
     },
-    "Unk032": 487788,
+    "Unk032": 487202,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79013,7 +79011,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79176,7 +79174,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 534
     },
-    "Unk032": 489884,
+    "Unk032": 489298,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79246,7 +79244,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 433398,
+    "Unk032": 432786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79508,7 +79506,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 492216,
+    "Unk030": 491630,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 321
@@ -81697,7 +81695,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 504218,
+    "Unk030": 503632,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 330
@@ -81904,7 +81902,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 505660,
+    "Unk030": 505074,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 316
@@ -82183,7 +82181,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 507674,
+    "Unk030": 507088,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 337
@@ -82935,7 +82933,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 513006,
+    "Unk030": 512420,
     "AudioEvent": null,
     "Unk032": 1598,
     "Unk033": null,
@@ -84104,7 +84102,7 @@
       "TableName": "ActionTypes",
       "RowIndex": 234
     },
-    "Icon_DDSFile": "Art/2DArt/SkillIcons/LightningBoltSkillStaff.dds",
+    "Icon_DDSFile": "Art/2DArt/SkillIcons/GreaterLightningBoltSkill.dds",
     "ActiveSkillTargetTypes": [
       1,
       2
@@ -84727,7 +84725,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 520706,
+    "Unk030": 520224,
     "AudioEvent": null,
     "Unk032": 1598,
     "Unk033": null,
@@ -84861,7 +84859,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 75250,
+    "Unk030": 75156,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -85089,7 +85087,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 523058,
+    "Unk030": 522576,
     "AudioEvent": null,
     "Unk032": 1598,
     "Unk033": null,
@@ -85770,7 +85768,7 @@
   {
     "Id": "cast_on_death",
     "DisplayedName": "Conjurar ao Morrer",
-    "Description": "Concede um buff que faz com que feitiços encaixados sejam ativados quando você morrer.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 517
@@ -87029,7 +87027,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 536402,
+    "Unk032": 535744,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87342,7 +87340,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 523
     },
-    "Unk032": 538230,
+    "Unk032": 537572,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87546,7 +87544,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 524
     },
-    "Unk032": 538230,
+    "Unk032": 537572,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87746,7 +87744,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 499
     },
-    "Unk032": 540290,
+    "Unk032": 539632,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87954,7 +87952,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 521
     },
-    "Unk032": 541962,
+    "Unk032": 541304,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88162,7 +88160,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 527
     },
-    "Unk032": 543686,
+    "Unk032": 543028,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88370,7 +88368,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 528
     },
-    "Unk032": 543686,
+    "Unk032": 543028,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88875,10 +88873,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 38
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 143
       },
       {
@@ -88906,7 +88900,12 @@
         "Id": "skill_effect_duration_+%"
       }
     ],
-    "MinionActiveSkillTypes": [],
+    "MinionActiveSkillTypes": [
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 38
+      }
+    ],
     "Unk018": true,
     "Unk019": true,
     "Unk020": [],
@@ -89763,8 +89762,8 @@
   },
   {
     "Id": "ice_bind",
-    "DisplayedName": "Grilhões Gélidos",
-    "Description": "Ordene ao Mago Gélido que se enterre em gelo, [Slow|Desacelerando] vários inimigos próximos.",
+    "DisplayedName": "",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 609
@@ -94497,7 +94496,7 @@
   {
     "Id": "mana_remnants",
     "DisplayedName": "Poças de Mana",
-    "Description": "Conjura relâmpagos ascendentes para restaurar sua Mana. Enquanto ativo, inimigos [Shock|Eletrizados] que você matar têm uma chance de gerar um Resto de Mana, e acertar um inimigo [Shock|Eletrizado] com um [Critical|Acerto Crítico] gera um Resto de Mana a cada poucos segundos. Coletar um Resto de Mana concede Mana que pode [Overflow|Exceder] o máximo de Mana.  ",
+    "Description": "Conjura relâmpagos crescentes para restaurar sua Mana. Enquanto ativo, inimigos [Shock|Eletrizados] que você matar têm uma chance de gerar um [Remnant|Resto] de Mana, e acertar um alvo [Shock|Eletrizado] com um [Critical|Acerto Crítico] gera um [Remnant|Resto] de Mana a cada poucos segundos. Coletar um [Remnant|Resto] de Mana concede Mana que pode [Overflow|Exceder] a Mana máxima.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 646
@@ -94895,7 +94894,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95025,7 +95024,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95151,7 +95150,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95277,7 +95276,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95411,7 +95410,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95537,7 +95536,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95663,7 +95662,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95797,7 +95796,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95923,7 +95922,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96049,7 +96048,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96183,7 +96182,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96309,7 +96308,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96435,7 +96434,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96565,7 +96564,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96695,7 +96694,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96825,7 +96824,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96951,7 +96950,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97085,7 +97084,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97231,7 +97230,7 @@
     "TransfigureBase": null,
     "Unk030": 1598,
     "AudioEvent": null,
-    "Unk032": 589788,
+    "Unk032": 588948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -98057,14 +98056,14 @@
   {
     "Id": "totem_shockwave_quake",
     "DisplayedName": "Pancada da Onda de Choque",
-    "Description": "[Slam|Bate] no chão, causando dano aos inimigos próximos.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 652
     },
     "Icon_DDSFile": "Art/2DArt/SkillIcons/BruteShockwaveTotem.dds",
     "ActiveSkillTargetTypes": [
-      10
+      1
     ],
     "ActiveSkillTypes": [
       {
@@ -98969,6 +98968,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -100289,6 +100292,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -101069,7 +101076,7 @@
   {
     "Id": "grim_feast",
     "DisplayedName": "Banquede Sombrio",
-    "Description": "Alimenta-se de corpos para fortalecer seu [EnergyShield|Escudo de Energia]. Enquanto ativo, inimigos e [Minion|Lacaios] [Reviving|Revividos] que morrerem na sua [Presence|Presença] têm uma chance de deixar Restos Sombrios. Coletar um Resto Sombrio concede [EnergyShield|Escudo de Energia], que pode [Overflow|Exceder] o máximo de [EnergyShield|Escudo de Energia].",
+    "Description": "Alimenta-se de cadáveres para fortalecer seu [EnergyShield|Escudo de Energia]. Enquanto ativo, inimigos e [Reviving|Lacaios Revividos] que morrem em sua [Presence|Presença] têm uma chance de deixar Restos Sombrios. Coletar um Resto Sombrio concede [EnergyShield|Escudo de Energia], que pode [Overflow|Exceder] o máximo de [EnergyShield|Escudo de Energia].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 683
@@ -101619,7 +101626,7 @@
   {
     "Id": "bone_blast",
     "DisplayedName": "Explosão Óssea",
-    "Description": "Conjura um círculo de inscrições rituais que duram por um curto período. Quando a duração terminar, estacas ósseas irrompem dos inimigos na área.",
+    "Description": "Conjura um círculo de inscrições ritualísticas que duram por um curto período. Quando a duração termina, espinhos de osso irrompem dos inimigos na área, causando dano e possivelmente [Bleeding|Sangramento].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 689
@@ -103184,7 +103191,7 @@
   {
     "Id": "blazing_cluster",
     "DisplayedName": "Fuzilamento Flamejante",
-    "Description": "Conjura uma Brasa ardente que paira acima de você. Após um curto período, a Brasa é lançada contra um inimigo, causando dano de [Fire|Fogo] em uma área no impacto. Conjurar esta magia novamente atualiza a duração para todas as Brasas ativas. Múltiplas Brasas disparadas na mesma Fusilada tentarão atingir inimigos diferentes.",
+    "Description": "Conjura uma Brasa flamejante que paira acima de você. Após um curto período, a Brasa é lançada em um inimigo, causando dano de [Fire|Fogo] em área no impacto e priorizando o último inimigo alvo. Reutilizar esta magia redefine a duração de todas as Brasas ativas. Múltiplas Brasas disparadas no mesmo Fuzilamento tentarão atingir inimigos diferentes.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103321,7 +103328,7 @@
   {
     "Id": "unique_dusk_vigil_triggered_blazing_cluster",
     "DisplayedName": "Fuzilamento Flamejante",
-    "Description": "Conjura uma Brasa ardente que flutua acima de você. Após uma curta duração, a Brasa dispara contra um inimigo, causando dano de [Fire|Fogo] em uma área no impacto. Reutilizar essa magia reinicia a duração de todas as Brasas ativas. Múltiplas Brasas disparadas no mesmo Ataque de Salva tentarão mirar em inimigos diferentes.",
+    "Description": "Conjura uma Brasa flamejante que paira acima de você. Após um curto período, a Brasa é lançada em um inimigo, causando dano de [Fire|Fogo] em área no impacto e priorizando o último inimigo alvo. Reutilizar esta magia redefine a duração de todas as Brasas ativas. Múltiplas Brasas disparadas no mesmo Fuzilamento tentarão atingir inimigos diferentes.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103375,6 +103382,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -103617,7 +103628,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 116514,
+    "Unk030": 116420,
     "AudioEvent": null,
     "Unk032": 1598,
     "Unk033": null,
@@ -103854,7 +103865,7 @@
   },
   {
     "Id": "stomping_ground_shockwave",
-    "DisplayedName": "Stomping Ground Shockwave",
+    "DisplayedName": "Onda de Choque do Solo Batido",
     "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -103983,7 +103994,7 @@
   {
     "Id": "life_remnants",
     "DisplayedName": "Restos de Vida",
-    "Description": "Bebe o sangue de seus inimigos para restaurar sua Vida. Enquanto ativo, inimigos que você matar têm uma chance de gerar um Resto de Vida, e acertar um alvo com um [Critical|Acerto Crítico] gera um Resto de Vida a cada poucos segundos. Coletar um Resto de Vida concede Vida que pode [Overflow|Exceder] o máximo de Vida.",
+    "Description": "Bebe o sangue dos seus inimigos para restaurar sua Vida. Enquanto ativo, inimigos que você matar têm uma chance de gerar um [Remnant|Resto] de Vida, e acertar um alvo com um [Critical|Acerto Crítico] gera um Resto de Vida a cada poucos segundos. Coletar um [Remnant|Resto] de Vida concede Vida que pode [Overflow|Exceder] o máximo de Vida.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 709
@@ -104820,10 +104831,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -104966,10 +104973,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 0
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 40
       },
       {
         "TableName": "ActiveSkillType",
@@ -105118,10 +105121,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105267,10 +105266,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105412,10 +105407,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105539,7 +105530,7 @@
   {
     "Id": "elemental_strike_trigger",
     "DisplayedName": "Expressão Elemental",
-    "Description": "Cria uma explosão de fogo, um arco de relâmpago ou uma onda de gelo. A chance de explosão de fogo é proporcional à sua força, o arco de relâmpago é proporcional à sua destreza e a onda de gelo é proporcional à sua inteligência.",
+    "Description": "Cria uma explosão flamejante, um raio em arco ou uma onda gélida de projéteis. A chance de uma explosão é proporcional à sua [Strength|Força], a de um raio é proporcional à sua [Dexterity|Destreza], e a de uma onda é proporcional à sua [Intelligence|Inteligência].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 169
@@ -107941,8 +107932,8 @@
   },
   {
     "Id": "cluster_grenade",
-    "DisplayedName": "Grupo de Granadas",
-    "Description": "Dispara uma granada quicante que explode quando seu pavio se apaga, lançando uma nova de granadas menores que também explodem depois de um tempo.",
+    "DisplayedName": "Cadeia de Granadas",
+    "Description": "Dispara uma [Grenade|Granada] que quica e explode quando seu pavio se extingue, lançando uma nova de mini [Grenade|Granadas] que explodem ao parar.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -109161,8 +109152,8 @@
   },
   {
     "Id": "burning_runes",
-    "DisplayedName": "Burning Inscription",
-    "Description": "Creates [IgnitedGround|Ignited Ground] [Ignite|Igniting] Enemies based off a percentage of your Maximum Mana.",
+    "DisplayedName": "Inscrição Ardente",
+    "Description": "Cria [IgnitedGround|Solo Incendiado], [Ignite|Incendiando] inimigos com base em uma porcentagem da sua Mana Máxima.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 756
@@ -109178,6 +109169,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 31
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       },
       {
         "TableName": "ActiveSkillType",
@@ -109418,7 +109413,7 @@
   {
     "Id": "freezing_salvo",
     "DisplayedName": "Salva Congelante",
-    "Description": "Concentra passivamente mísseis de gelo no ar ao longo do tempo. Usar a habilidade dispara os mísseis armazenados, que chovem ao redor da área alvo.",
+    "Description": "Coagula passivamente mísseis gélidos do ar ao longo do tempo. Usar a habilidade dispara um míssil, disparando mísseis adicionais para cada um que foi acumulado.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 758

@@ -112,23 +112,30 @@
     {
       "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/siege_cascade_piercing",
       "Ids": [
-        "siege_cascade_damage_+%_final_vs_immobilised_enemies"
+        "siege_cascade_damage_+%_final_vs_immobilised_enemies",
+        "quality_display_siege_cascade_damage_+%_final_vs_immobilised_enemies_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "# table_only",
+          "Operator": "# # table_only",
           "Description": "More damage against [Immobilised] enemies@{0}%",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "1|#",
+          "Operator": "# 0",
+          "Description": "{0:+d}% more damage against [Immobilised] enemies",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1|# #",
           "Description": "{0}% more damage against [Immobilised] enemies",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "#|-1",
+          "Operator": "#|-1 #",
           "Description": "{0}% less damage against [Immobilised] enemies",
           "IsCanonical": false,
           "Parameters": [

@@ -141236,6 +141236,57 @@
     "Unk032": false
   },
   {
+    "Id": "Metadata/Items/TowerAugment/MapBossAugment",
+    "ItemClassesKey": {
+      "TableName": "ItemClasses",
+      "Id": "TowerAugmentation"
+    },
+    "Width": 1,
+    "Height": 1,
+    "Name": "Overseer Precursor Tablet",
+    "InheritsFrom": "Metadata/Items/TowerAugments/TowerAugment",
+    "DropLevel": 65,
+    "FlavourTextKey": null,
+    "Implicit_ModsKeys": [
+      {
+        "TableName": "Mods",
+        "Id": "TowerAddMapBossesToMapsImplicit"
+      }
+    ],
+    "SizeOnGround": 1,
+    "SoundEffect": null,
+    "TagsKeys": [
+      {
+        "TableName": "Tags",
+        "Id": "tower_augment_map_boss"
+      }
+    ],
+    "ModDomain": 34,
+    "SiteVisibility": 0,
+    "ItemVisualIdentity": {
+      "TableName": "ItemVisualIdentity",
+      "Id": "TowerAugmentMapBoss__"
+    },
+    "HASH32": 1677598612,
+    "VendorRecipe_AchievementItems": [],
+    "Inflection": "",
+    "Equip_AchievementItemsKey": null,
+    "IsCorrupted": false,
+    "Identify_AchievementItems": [],
+    "IdentifyMagic_AchievementItems": [],
+    "FragmentBaseItemTypesKey": null,
+    "Unk023": false,
+    "Unk024": null,
+    "Unk025": null,
+    "Unk026": false,
+    "TradeMarketCategory": null,
+    "Unmodifiable": false,
+    "Achievement": [],
+    "Unk030": null,
+    "Unk031": null,
+    "Unk032": false
+  },
+  {
     "Id": "Metadata/Items/Gems/SkillGemCorpsewadeCorpseCloud",
     "ItemClassesKey": {
       "TableName": "ItemClasses",
@@ -145703,7 +145754,7 @@
     },
     "Width": 1,
     "Height": 1,
-    "Name": "Lightning Bolt",
+    "Name": "Greater Lightning Bolt",
     "InheritsFrom": "Metadata/Items/Gems/ActiveSkillGem",
     "DropLevel": 1,
     "FlavourTextKey": null,

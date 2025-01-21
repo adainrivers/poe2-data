@@ -53,23 +53,24 @@
     {
       "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/rapid_shot_permafrost",
       "Ids": [
-        "permafrost_shard_damage_+%_final_after_1_second"
+        "permafrost_shard_damage_+%_final_after_1_second",
+        "quality_display_permafrost_shard_damage_+%_final_after_1_second_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "# table_only",
+          "Operator": "# # table_only",
           "Description": "More damage after one second@{0}%",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "1|#",
+          "Operator": "1|# #",
           "Description": "Shards that have existed for at\nleast one second deal {0}% more Damage",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "#|-1",
+          "Operator": "#|-1 #",
           "Description": "Shards that have existed for at\nleast one second deal {0}% less Damage",
           "IsCanonical": false,
           "Parameters": [
@@ -78,6 +79,12 @@
               "Value": 1
             }
           ]
+        },
+        {
+          "Operator": "# 0",
+          "Description": "Shards that have existed for at\nleast one second deal {0:+d}% more Damage",
+          "IsCanonical": false,
+          "Parameters": []
         }
       ]
     },

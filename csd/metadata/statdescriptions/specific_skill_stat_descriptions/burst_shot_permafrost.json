@@ -43,12 +43,19 @@
       "Path": "metadata/statdescriptions/specific_skill_stat_descriptions/burst_shot_permafrost",
       "Ids": [
         "base_number_of_projectiles",
-        "skill_can_fire_arrows"
+        "skill_can_fire_arrows",
+        "quality_display_base_number_of_projectiles_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "2|# #",
+          "Operator": "2|# # #",
           "Description": "Fires {0} fragments per shot",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# # 0",
+          "Description": "Fires {0:+d} fragments per shot",
           "IsCanonical": false,
           "Parameters": []
         }

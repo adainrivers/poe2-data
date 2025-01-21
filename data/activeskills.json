@@ -20636,7 +20636,7 @@
   },
   {
     "Id": "cold_weakness",
-    "DisplayedName": "Frostbite",
+    "DisplayedName": "Hypothermia",
     "Description": "[Curse|Curses] all targets in an area after a short delay, lowering their [Cold] [Resistances|Resistance].",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -33992,7 +33992,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 233820,
+    "Unk030": 233824,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_FrostBomb"
@@ -36633,7 +36633,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 248646,
+    "Unk030": 248650,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_Sunder"
@@ -58094,7 +58094,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 344426,
+    "Unk030": 344430,
     "AudioEvent": null,
     "Unk032": 1584,
     "Unk033": null,
@@ -66762,10 +66762,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "Id": "Physical"
-      },
-      {
-        "TableName": "ActiveSkillType",
         "Id": "Area"
       },
       {
@@ -69022,7 +69018,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 408516,
+    "Unk030": 408504,
     "AudioEvent": null,
     "Unk032": 1584,
     "Unk033": null,
@@ -69700,7 +69696,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 411918,
+    "Unk030": 411906,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_WhirlingSlash"
@@ -69952,7 +69948,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 413456,
+    "Unk030": 413444,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_Spearfield"
@@ -70546,7 +70542,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_PowerShotGeneric"
     },
-    "Unk032": 417260,
+    "Unk032": 417248,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70699,7 +70695,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_ExplosiveShot"
     },
-    "Unk032": 418224,
+    "Unk032": 418212,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70772,7 +70768,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_Reload"
     },
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70925,7 +70921,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_HighVelocityRounds"
     },
-    "Unk032": 419996,
+    "Unk032": 419984,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70999,7 +70995,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71018,7 +71014,8 @@
     "Icon_DDSFile": "Art/2DArt/SkillIcons/PowerShotPermafrost.dds",
     "ActiveSkillTargetTypes": [
       1,
-      2
+      2,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71168,7 +71165,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_GlacialBolt"
     },
-    "Unk032": 421636,
+    "Unk032": 421628,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71188,7 +71185,8 @@
     "ActiveSkillTargetTypes": [
       1,
       23,
-      24
+      24,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71238,7 +71236,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71387,7 +71385,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_StormblastPowerShot"
     },
-    "Unk032": 423266,
+    "Unk032": 423262,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71457,7 +71455,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71825,7 +71823,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72053,7 +72051,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72286,7 +72284,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72513,7 +72511,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72894,7 +72892,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 432944,
+    "Unk030": 432940,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_WhirlingAssault"
@@ -73576,7 +73574,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 437676,
+    "Unk030": 437672,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_GaleStrike"
@@ -77494,7 +77492,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77713,7 +77711,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77940,7 +77938,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78163,7 +78161,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78318,7 +78316,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_BurstShotGeneric"
     },
-    "Unk032": 466152,
+    "Unk032": 466148,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78481,7 +78479,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_FireShotBurst"
     },
-    "Unk032": 467162,
+    "Unk032": 467158,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78551,7 +78549,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78710,7 +78708,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_FragmentationRounds"
     },
-    "Unk032": 469012,
+    "Unk032": 469008,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78780,7 +78778,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78943,7 +78941,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_FreezeShotBurst"
     },
-    "Unk032": 471004,
+    "Unk032": 471000,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79013,7 +79011,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79176,7 +79174,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_StormblastBurstShot"
     },
-    "Unk032": 472960,
+    "Unk032": 472956,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79246,7 +79244,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 419036,
+    "Unk032": 419024,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79508,7 +79506,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 475196,
+    "Unk030": 475192,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_IceStrike"
@@ -81697,7 +81695,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 486022,
+    "Unk030": 486018,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_KillingPalm"
@@ -81904,7 +81902,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 487474,
+    "Unk030": 487470,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_FallingThunder"
@@ -82183,7 +82181,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 489396,
+    "Unk030": 489392,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_SummonWolf_NoCombat"
@@ -82935,7 +82933,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 494492,
+    "Unk030": 494488,
     "AudioEvent": null,
     "Unk032": 1584,
     "Unk033": null,
@@ -84098,13 +84096,13 @@
   },
   {
     "Id": "unique_breach_lightning_bolt",
-    "DisplayedName": "Lightning Bolt",
+    "DisplayedName": "Greater Lightning Bolt",
     "Description": "Call down a [Shock|Shocking] bolt of [Lightning] to strike enemies in a small area.",
     "ActionType": {
       "TableName": "ActionTypes",
       "Id": "LightningSpell"
     },
-    "Icon_DDSFile": "Art/2DArt/SkillIcons/LightningBoltSkillStaff.dds",
+    "Icon_DDSFile": "Art/2DArt/SkillIcons/GreaterLightningBoltSkill.dds",
     "ActiveSkillTargetTypes": [
       1,
       2
@@ -84727,7 +84725,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 502074,
+    "Unk030": 502222,
     "AudioEvent": null,
     "Unk032": 1584,
     "Unk033": null,
@@ -85089,7 +85087,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 504296,
+    "Unk030": 504444,
     "AudioEvent": null,
     "Unk032": 1584,
     "Unk033": null,
@@ -87029,7 +87027,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 516528,
+    "Unk032": 516676,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87342,7 +87340,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_GrenadeLauncher"
     },
-    "Unk032": 518272,
+    "Unk032": 518420,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87546,7 +87544,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_GrenadeExplode"
     },
-    "Unk032": 518272,
+    "Unk032": 518420,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87746,7 +87744,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_FlashGrenade"
     },
-    "Unk032": 520282,
+    "Unk032": 520430,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87954,7 +87952,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_GasGrenade"
     },
-    "Unk032": 521822,
+    "Unk032": 521970,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88162,7 +88160,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_OilGrenade"
     },
-    "Unk032": 523442,
+    "Unk032": 523590,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88370,7 +88368,7 @@
       "TableName": "CharacterAudioEvents",
       "Id": "Skill_OilGrenadeIgnite"
     },
-    "Unk032": 523442,
+    "Unk032": 523590,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88875,10 +88873,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "Id": "Aura"
-      },
-      {
-        "TableName": "ActiveSkillType",
         "Id": "Limit"
       },
       {
@@ -88906,7 +88900,12 @@
         "Id": "skill_effect_duration_+%"
       }
     ],
-    "MinionActiveSkillTypes": [],
+    "MinionActiveSkillTypes": [
+      {
+        "TableName": "ActiveSkillType",
+        "Id": "Aura"
+      }
+    ],
     "Unk018": true,
     "Unk019": true,
     "Unk020": [],
@@ -94895,7 +94894,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95025,7 +95024,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95151,7 +95150,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95277,7 +95276,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95411,7 +95410,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95537,7 +95536,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95663,7 +95662,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95797,7 +95796,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95923,7 +95922,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96049,7 +96048,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96183,7 +96182,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96309,7 +96308,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96435,7 +96434,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96565,7 +96564,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96695,7 +96694,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96825,7 +96824,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96951,7 +96950,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97085,7 +97084,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97231,7 +97230,7 @@
     "TransfigureBase": null,
     "Unk030": 1584,
     "AudioEvent": null,
-    "Unk032": 566846,
+    "Unk032": 566994,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -98064,7 +98063,7 @@
     },
     "Icon_DDSFile": "Art/2DArt/SkillIcons/BruteShockwaveTotem.dds",
     "ActiveSkillTargetTypes": [
-      10
+      1
     ],
     "ActiveSkillTypes": [
       {
@@ -98190,7 +98189,7 @@
   {
     "Id": "poison_vine_arrow",
     "DisplayedName": "Vine Arrow",
-    "Description": "Fire an arrow into the air that lands after a short delay, causing a plant to spring up at the impact location. The plant sprouts vines that latch onto nearby enemies, [Slow|Slowing] their movement speed and dealing [Chaos] damage over time. The plant can be [Poison|Poisoned], causing it to deal more damage.",
+    "Description": "Fire an arrow into the air that lands after a short delay, damaging enemies and causing a plant to spring up at the impact location. The plant sprouts vines that latch onto nearby enemies, [Slow|Slowing] their movement speed and dealing [Chaos] damage over time. The plant can be [Poison|Poisoned], causing it to deal more damage.",
     "ActionType": {
       "TableName": "ActionTypes",
       "Id": "PoisonVineArrow"
@@ -98969,6 +98968,10 @@
       {
         "TableName": "ActiveSkillType",
         "Id": "Cooldown"
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "Id": "Triggered"
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -100289,6 +100292,10 @@
       {
         "TableName": "ActiveSkillType",
         "Id": "Cooldown"
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "Id": "Triggered"
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -101298,7 +101305,7 @@
   {
     "Id": "scavenged_plating",
     "DisplayedName": "Scavenged Plating",
-    "Description": "Uses fragments of armour scavenged from enemies to bolster your own. [ArmourBreak|Fully Breaking] an enemy's [Armour] grants you a stack of Scavenged Plating for a duration, and you gain [Armour] and [Thorns] per stack.",
+    "Description": "Uses fragments of armour scavenged from enemies to bolster your own. [ArmourBreak|Fully Breaking] an enemy's [Armour] grants you stacks of Scavenged Plating for a duration based on the enemy's rarity, and you gain [Armour] and [Thorns] per stack. Normal enemies grant 1 stack, Magic enemies grant 2 stacks, Rare enemies grant 5 stacks and Unique enemies grant 10 stacks.",
     "ActionType": {
       "TableName": "ActionTypes",
       "Id": "ScavengedPlating"
@@ -103375,6 +103382,10 @@
       {
         "TableName": "ActiveSkillType",
         "Id": "Cooldown"
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "Id": "Triggered"
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -104820,10 +104831,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "Id": "RangedAttack"
-      },
-      {
-        "TableName": "ActiveSkillType",
         "Id": "ProjectilesFromUser"
       },
       {
@@ -104966,10 +104973,6 @@
       {
         "TableName": "ActiveSkillType",
         "Id": "Attack"
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "Id": "RangedAttack"
       },
       {
         "TableName": "ActiveSkillType",
@@ -105118,10 +105121,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "Id": "RangedAttack"
-      },
-      {
-        "TableName": "ActiveSkillType",
         "Id": "ProjectilesFromUser"
       },
       {
@@ -105267,10 +105266,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "Id": "RangedAttack"
-      },
-      {
-        "TableName": "ActiveSkillType",
         "Id": "ProjectilesFromUser"
       },
       {
@@ -105409,10 +105404,6 @@
       {
         "TableName": "ActiveSkillType",
         "Id": "Attack"
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "Id": "RangedAttack"
       },
       {
         "TableName": "ActiveSkillType",
@@ -109178,6 +109169,10 @@
       {
         "TableName": "ActiveSkillType",
         "Id": "Triggerable"
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "Id": "Triggered"
       },
       {
         "TableName": "ActiveSkillType",

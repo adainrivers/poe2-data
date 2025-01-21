@@ -587,9 +587,9 @@
     "Id": "ActionOpenSocialPanel",
     "Text": "Tela Social",
     "XBoxText": "Menu Social",
-    "XBoxText2": "Social",
+    "XBoxText2": "Menu Social",
     "HASH32": -1942747798,
-    "PlaystationText": "Social"
+    "PlaystationText": "Menu Social"
   },
   {
     "Id": "ActionOpenLadderPanel",
@@ -626,7 +626,7 @@
   {
     "Id": "ActionOpenWorldPanel",
     "Text": "Tela do Mundo",
-    "XBoxText": "Mundo",
+    "XBoxText": "Missões",
     "XBoxText2": "",
     "HASH32": -292845281,
     "PlaystationText": ""
@@ -1009,7 +1009,7 @@
   },
   {
     "Id": "HUDPassiveAllocation",
-    "Text": "{0} Alocação de Passiva não confirmada",
+    "Text": "{0} Mudança de Passiva não confirmada",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1155730225,
@@ -1017,7 +1017,7 @@
   },
   {
     "Id": "HUDPassiveAllocations",
-    "Text": "{0} Alocações de Passiva não confirmada",
+    "Text": "{0} Mudanças de Passiva não confirmada",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1610163065,
@@ -1041,7 +1041,7 @@
   },
   {
     "Id": "PassiveTreePanelTitle",
-    "Text": "Habilidades",
+    "Text": "Habilidades Passivas",
     "XBoxText": "Passivas",
     "XBoxText2": "",
     "HASH32": 15793221,
@@ -1161,7 +1161,7 @@
   },
   {
     "Id": "PassiveTreeStrengthRequired",
-    "Text": "Necessário mais {0} de Força",
+    "Text": "Necessário mais {0} de [Strength|Força]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 869053623,
@@ -1169,7 +1169,7 @@
   },
   {
     "Id": "PassiveTreeDexterityRequired",
-    "Text": "Necessário mais {0} de Destreza",
+    "Text": "Necessário mais {0} de [Dexterity|Destreza]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -606705066,
@@ -1177,7 +1177,7 @@
   },
   {
     "Id": "PassiveTreeIntelligenceRequired",
-    "Text": "Necessário mais {0} de Inteligência",
+    "Text": "Necessário mais {0} de [Intelligence|Inteligência]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1071740361,
@@ -1321,7 +1321,7 @@
   },
   {
     "Id": "StrengthDescription",
-    "Text": "2 de Força = +1 de Vida \r\n5 de Força = +1% de Dano Físico Corpo a Corpo",
+    "Text": "1 [Strength|Força] = +2 Vida  \r\n5 [Strength|Força] = +1 Capacidade de [SupportGem|Gema de Suporte] de Força  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 502591132,
@@ -1329,7 +1329,7 @@
   },
   {
     "Id": "DexterityDescription",
-    "Text": "1 de Destreza = +2 de Precisão \r\n5 de Destreza = +1% de Evasão",
+    "Text": "1 [Dexterity|Destreza] = +5 [Accuracy|Precisão]  \r\n5 [Dexterity|Destreza] = +1 Capacidade de [SupportGem|Gema de Suporte] de Destreza  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 133325521,
@@ -1337,7 +1337,7 @@
   },
   {
     "Id": "IntelligenceDescription",
-    "Text": "2 de Inteligência = +1 de Mana \r\n5 de Inteligência = +1% de Escudo de Energia",
+    "Text": "1 [Intelligence|Inteligência] = +2 Mana  \r\n5 [Intelligence|Inteligência] = +1 Capacidade de [SupportGem|Gema de Suporte] de Inteligência  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1789395335,
@@ -1401,7 +1401,7 @@
   },
   {
     "Id": "ExperienceBarPopup1",
-    "Text": "Nível {1} ({0}{2}%)",
+    "Text": "Nível {1} <normal>{{({0}{2}%)}}\\",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1308010044,
@@ -1409,7 +1409,7 @@
   },
   {
     "Id": "ExperienceBarPopup2",
-    "Text": "Exp Atual: {0} / Próximo Nível: {1}",
+    "Text": "Exp Atual: <normal>{{{0}}} / Próximo Nível: <normal>{{{1}}}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 135563749,
@@ -1465,7 +1465,7 @@
   },
   {
     "Id": "Quality",
-    "Text": "Qualidade",
+    "Text": "[Quality|Qualidade]",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1436181817,
@@ -1505,7 +1505,7 @@
   },
   {
     "Id": "ItemLevelPopup",
-    "Text": "Nível do Item: {0}",
+    "Text": "Nível do Item {0}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 29425737,
@@ -1929,7 +1929,7 @@
   },
   {
     "Id": "WeaponClassDisplayNameWarstaff",
-    "Text": "Cajado de Guerra",
+    "Text": "Cajado",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 306844186,
@@ -2449,7 +2449,7 @@
   },
   {
     "Id": "ItemDisplayArmourArmour",
-    "Text": "Armadura",
+    "Text": "[Armour|Armadura]  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -428601825,
@@ -2457,7 +2457,7 @@
   },
   {
     "Id": "ItemDisplayArmourEvasionRating",
-    "Text": "Evasão",
+    "Text": "[Evasion|Evasão]  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1203224446,
@@ -2465,7 +2465,7 @@
   },
   {
     "Id": "ItemDisplayArmourEnergyShield",
-    "Text": "Escudo de Energia",
+    "Text": "[EnergyShield|Escudo de Energia]  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1418869478,
@@ -2506,7 +2506,7 @@
   {
     "Id": "ItemDisplayHasReskin",
     "Text": "Tem um Visual de {0}. Você pode recuperar isto clicando e segurando Shift neste item.",
-    "XBoxText": "Tem o Visual {0}. Você pode recuperar isso pressionando <<xbox_button_rstick>>+<<xbox_button_b>> .",
+    "XBoxText": "Possui {0} Visuais. Você pode recuperá-la pressionando <<xbox_button_x>>.",
     "XBoxText2": "",
     "HASH32": -178234142,
     "PlaystationText": ""
@@ -2769,7 +2769,7 @@
   },
   {
     "Id": "GraphicsOptionsScreenspaceEffectsSSS",
-    "Text": "Sombras (Padrão)",
+    "Text": "Sombras",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1254670511,
@@ -2777,7 +2777,7 @@
   },
   {
     "Id": "GraphicsOptionsScreenspaceEffectsGI",
-    "Text": "Sombras + Iluminação Global (DirectX 11 Apenas)",
+    "Text": "Sombras + Iluminação Global (Padrão)",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -43492962,
@@ -3361,7 +3361,7 @@
   },
   {
     "Id": "OptionsShowAllyNamesOnMapLabel",
-    "Text": "Nomes de Aliados no Mapa",
+    "Text": "Mostrar Nomes dos Aliados",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 406459778,
@@ -3865,7 +3865,7 @@
   },
   {
     "Id": "OptionsPanelUITabTitle",
-    "Text": "UI",
+    "Text": "Interface",
     "XBoxText": "",
     "XBoxText2": "Geral",
     "HASH32": -298792228,
@@ -3897,7 +3897,7 @@
   },
   {
     "Id": "NotificationOptionsTypeHeader",
-    "Text": "Notificações",
+    "Text": "Popups Notificações",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -674882240,
@@ -3985,7 +3985,7 @@
   },
   {
     "Id": "LoginScreenSaveLoginDetailsText",
-    "Text": "Salvar Detalhes do Login",
+    "Text": "Lembrar de Mim  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 903007589,
@@ -3993,7 +3993,7 @@
   },
   {
     "Id": "LoginScreenCreateButtonText",
-    "Text": "Criar",
+    "Text": "Criar Conta  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -387435627,
@@ -4450,7 +4450,7 @@
   {
     "Id": "EscapeMenuShop",
     "Text": "Loja",
-    "XBoxText": "Microtransações",
+    "XBoxText": "Loja de Microtransações",
     "XBoxText2": "",
     "HASH32": 704912656,
     "PlaystationText": ""
@@ -6018,7 +6018,7 @@
   {
     "Id": "WorldPanelPinPopupClickToTravel",
     "Text": "Clique para viajar para {0}",
-    "XBoxText": "Selecione para viajar para {0}",
+    "XBoxText": "{0} para viajar até {1}",
     "XBoxText2": "",
     "HASH32": -993450392,
     "PlaystationText": ""
@@ -6529,7 +6529,7 @@
   },
   {
     "Id": "PlayerContextMenuLeavePartyButton",
-    "Text": "Sair do Grupo atual",
+    "Text": "Sair do Grupo",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1246747180,
@@ -6985,7 +6985,7 @@
   },
   {
     "Id": "DeathScreenTitle",
-    "Text": "Você morreu!",
+    "Text": "Você Morreu",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -932683671,
@@ -9433,7 +9433,7 @@
   },
   {
     "Id": "SellWindowTitle",
-    "Text": "Vender",
+    "Text": "Desencantar",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1652664088,
@@ -9441,7 +9441,7 @@
   },
   {
     "Id": "SellWindowEmptyMessage",
-    "Text": "Coloque seus itens aqui para oferecê-los ao vendedor",
+    "Text": "Coloque seus itens aqui para desencantá-los  \r\n<red>{Isso destruirá o item}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 828038372,
@@ -9465,7 +9465,7 @@
   },
   {
     "Id": "BuyWindowTitle",
-    "Text": "Comprar",
+    "Text": "Comprar ou Vender",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1430846867,
@@ -11337,7 +11337,7 @@
   },
   {
     "Id": "QuestTrackerOptional",
-    "Text": "{0} (Opcional)",
+    "Text": "{0}",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 174044753,
@@ -11505,15 +11505,15 @@
   },
   {
     "Id": "TutorialFirstSkillGemHowToSocket",
-    "Text": "Gemas de Habilidade fornecem poderosas habilidades ao serem encaixadas em suas armas e armadura.\n\nPara encaixar a Gema de Habilidade, clique nela para apanhá-la e depois clique no encaixe em sua arma que tem a mesma cor.",
-    "XBoxText": "Gemas de Habilidade fornecem poderosas habilidades ao serem encaixadas em suas armas e armadura.\n\nPara encaixar a Gema de Habilidade, pressione <<xbox_button_a>>     \npara apanhá-la e depois pressione <<xbox_button_a>> no encaixe da sua arma que tem a mesma cor.",
+    "Text": "Abrir o Painel de Gemas ({0}) para vincular sua habilidade  ",
+    "XBoxText": "Selecione a Gema de Habilidade e equipe-a em um encaixe com <<xbox_button_x>>.",
     "XBoxText2": "",
     "HASH32": -1817833142,
     "PlaystationText": ""
   },
   {
     "Id": "TutorialGemLevelUpClickButton",
-    "Text": "Sua Gema de Habilidade pode subir de nível agora clicando nesse botão.",
+    "Text": "Elevar Nível da Gema de Habilidade  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1945101009,
@@ -11529,7 +11529,7 @@
   },
   {
     "Id": "TutorialLevelUp",
-    "Text": "Você recebeu um Ponto de Habilidade quando subiu de nível.\nClique aqui (ou pressione {0}) para usar seu Ponto de Habilidade.",
+    "Text": "Clique aqui ou pressione <normal>{{<n>{{{0}}}}} para alocar seu Ponto de Habilidade  ",
     "XBoxText": "Você recebeu um Ponto de Habilidade quando subiu de nível.\nPressione <<xbox_button_view>> para abrir a árvore de habilidades passivas.",
     "XBoxText2": "",
     "HASH32": 1446929430,
@@ -11537,7 +11537,7 @@
   },
   {
     "Id": "TutorialLowLife",
-    "Text": "Pressione {0} para usar um Frasco de Vida.",
+    "Text": "Pressione <N>{{<normal>{{{0}}}}} para usar um Frasco de Vida.  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1431595308,
@@ -11546,7 +11546,7 @@
   {
     "Id": "TutorialMove",
     "Text": "<N>{{<normal>{{{0}}}}} para mover.",
-    "XBoxText": "<<xbox_lstick>> para mover-se.",
+    "XBoxText": "{0} para Mover     {1} para Mirar",
     "XBoxText2": "",
     "HASH32": 1863727484,
     "PlaystationText": ""
@@ -11570,7 +11570,7 @@
   {
     "Id": "TutorialRemoveGem",
     "Text": "Você pode remover gemas de um item clicando com o botão direito do mouse nelas.",
-    "XBoxText": "You can remove gems from an item using  <<xbox_button_y>>",
+    "XBoxText": "Você pode remover gemas de um item usando <<xbox_button_y>>",
     "XBoxText2": "",
     "HASH32": -258420243,
     "PlaystationText": ""
@@ -11953,7 +11953,7 @@
   },
   {
     "Id": "HUDMenuButton",
-    "Text": "Menu",
+    "Text": "MENU",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 593690882,
@@ -16705,7 +16705,7 @@
   },
   {
     "Id": "ErrorPortalsDisabledBoss",
-    "Text": "Portals are disabled in Boss fights.",
+    "Text": "Portais estão desativados em lutas com Chefes.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1589669200,
@@ -17386,7 +17386,7 @@
   {
     "Id": "ItemDescriptionItemisedProphecy",
     "Text": "Clique com o Botão Direito para adicionar esta profecia ao seu personagem.",
-    "XBoxText": "Pressione <<xbox_button_a>> para adicionar essa profecia ao seu personagem.",
+    "XBoxText": "Use para adicionar esta profecia ao seu personagem.  ",
     "XBoxText2": "",
     "HASH32": -121234038,
     "PlaystationText": ""
@@ -17394,7 +17394,7 @@
   {
     "Id": "ItemDescriptionItemisedCapturedMonster",
     "Text": "Clique com o botão direito para adicionar isto ao seu bestiário.",
-    "XBoxText": "Pressione <<xbox_button_a>> para adicionar ao seu bestiário.",
+    "XBoxText": "Use para adicionar isto ao seu bestiário.  ",
     "XBoxText2": "",
     "HASH32": -1585161463,
     "PlaystationText": ""
@@ -19057,8 +19057,8 @@
   },
   {
     "Id": "TutorialCTRLClick",
-    "Text": "Você pode Clicar + Ctrl para transferir itens instantaneamente entre o seu baú e o seu inventário. Segure Alt para ver mais informações sobre os itens que estiverem embaixo do mouse.",
-    "XBoxText": "Pressione <<xbox_button_x>> para transferir itens instantaneamente entre o seu baú e o seu inventário. Segure <<xbox_button_lstick>> para ver mais informações sobre os itens.",
+    "Text": "<normal>{<n>{Ctrl + Clique Esquerdo}} para transferir itens instantaneamente entre seu baú e inventário",
+    "XBoxText": "Pressione <<xbox_button_lt>> para transferir itens instantaneamente entre seu baú e inventário. Alterne <<xbox_button_rstick>> para ver mais informações sobre os itens.",
     "XBoxText2": "",
     "HASH32": 880869726,
     "PlaystationText": ""
@@ -19842,7 +19842,7 @@
   {
     "Id": "PlayerAccountLastOnlineYearsN",
     "Text": "Última vez online: {0} anos atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: {0} anos",
     "XBoxText2": "",
     "HASH32": 514617613,
     "PlaystationText": ""
@@ -19850,7 +19850,7 @@
   {
     "Id": "PlayerAccountLastOnlineYears1",
     "Text": "Última vez online: 1 ano atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: 1 ano",
     "XBoxText2": "",
     "HASH32": -241713141,
     "PlaystationText": ""
@@ -19858,7 +19858,7 @@
   {
     "Id": "PlayerAccountLastOnlineMonthsN",
     "Text": "Última vez online: {0} meses atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: {0} meses",
     "XBoxText2": "",
     "HASH32": 717292678,
     "PlaystationText": ""
@@ -19866,7 +19866,7 @@
   {
     "Id": "PlayerAccountLastOnlineMonths1",
     "Text": "Última vez online: 1 mês atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: 1 mês",
     "XBoxText2": "",
     "HASH32": -2117444857,
     "PlaystationText": ""
@@ -19874,7 +19874,7 @@
   {
     "Id": "PlayerAccountLastOnlineWeeksN",
     "Text": "Última vez online: {0} semanas atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: {0} semanas",
     "XBoxText2": "",
     "HASH32": -102653692,
     "PlaystationText": ""
@@ -19882,7 +19882,7 @@
   {
     "Id": "PlayerAccountLastOnlineWeeks1",
     "Text": "Última vez online: 1 semana atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: 1 semana",
     "XBoxText2": "",
     "HASH32": -506561575,
     "PlaystationText": ""
@@ -19890,7 +19890,7 @@
   {
     "Id": "PlayerAccountLastOnlineDaysN",
     "Text": "Última vez online: {0} dias atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: {0} dias",
     "XBoxText2": "",
     "HASH32": 626360172,
     "PlaystationText": ""
@@ -19898,7 +19898,7 @@
   {
     "Id": "PlayerAccountLastOnlineDays1",
     "Text": "Última vez online: 1 dia atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: 1 dia",
     "XBoxText2": "",
     "HASH32": 1847791390,
     "PlaystationText": ""
@@ -19906,7 +19906,7 @@
   {
     "Id": "PlayerAccountLastOnlineHoursN",
     "Text": "Última vez online: {0} horas atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: {0} horas",
     "XBoxText2": "",
     "HASH32": -1576443682,
     "PlaystationText": ""
@@ -19914,7 +19914,7 @@
   {
     "Id": "PlayerAccountLastOnlineHours1",
     "Text": "Última vez online: 1 hora atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: 1 hora",
     "XBoxText2": "",
     "HASH32": -45193612,
     "PlaystationText": ""
@@ -19922,7 +19922,7 @@
   {
     "Id": "PlayerAccountLastOnlineMinutesN",
     "Text": "Última vez online: {0} minutos atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: {0} minutos",
     "XBoxText2": "",
     "HASH32": -972885172,
     "PlaystationText": ""
@@ -19930,7 +19930,7 @@
   {
     "Id": "PlayerAccountLastOnlineMinutes1",
     "Text": "Última vez online: 1 minuto atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: 1 minuto",
     "XBoxText2": "",
     "HASH32": 2063623331,
     "PlaystationText": ""
@@ -19938,7 +19938,7 @@
   {
     "Id": "PlayerAccountLastOnlineSecondsN",
     "Text": "Última vez online: {0} segundos atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: {0} segundos",
     "XBoxText2": "",
     "HASH32": 701999288,
     "PlaystationText": ""
@@ -19946,7 +19946,7 @@
   {
     "Id": "PlayerAccountLastOnlineSeconds1",
     "Text": "Última vez online: 1 segundo atrás",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: 1 segundo",
     "XBoxText2": "",
     "HASH32": -1735420446,
     "PlaystationText": ""
@@ -19978,7 +19978,7 @@
   {
     "Id": "PlayerAccountLastOnlineUnknown",
     "Text": "Última vez online: Indefinido",
-    "XBoxText": "",
+    "XBoxText": "Última vez online: Desconhecido",
     "XBoxText2": "",
     "HASH32": 142248812,
     "PlaystationText": ""
@@ -21049,7 +21049,7 @@
   },
   {
     "Id": "TutorialFirstSkillGemExplainSkill",
-    "Text": "Essa habilidade agora está equipada na sua barra de habilidades e pode ser usada com '{0}'.\n\nPressione {1} para fechar o seu inventário.",
+    "Text": "Esta habilidade agora está equipada na sua barra de habilidades e pode ser usada com '{0}'.\n\nPressione {1} para fechar seu inventário e pressione {2} para fechar seu painel de gemas.  ",
     "XBoxText": "Esta habilidade agora está equipada e pode ser usada com {0}.\n(Isto pode ser alterado ao\npressionar <<xbox_button_rstick>>)",
     "XBoxText2": "",
     "HASH32": 1298339715,
@@ -21057,7 +21057,7 @@
   },
   {
     "Id": "TutorialLowMana",
-    "Text": "Pressione {0} para restaurar mana.",
+    "Text": "Pressione <normal>{{<n>{{{0}}}}} para usar um Frasco de Mana  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1070666368,
@@ -21601,7 +21601,7 @@
   },
   {
     "Id": "ItemErrorModIncompatable",
-    "Text": "Item may not have a Mod of this type.",
+    "Text": "O item pode não ter um Mod deste tipo.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1334121451,
@@ -24586,7 +24586,7 @@
   {
     "Id": "ConsolePlayerLevelUpText",
     "Text": "",
-    "XBoxText": "Pressione <<xbox_button_view>> para alocar um ponto de habilidade passiva novo",
+    "XBoxText": "Pressione <<xbox_button_view>> para alocar \r\num novo ponto de habilidade passiva.",
     "XBoxText2": "",
     "HASH32": 1276349392,
     "PlaystationText": ""
@@ -25825,7 +25825,7 @@
   },
   {
     "Id": "TutorialPanelGlossaryContent4",
-    "Text": "Sangramento, Incêndio, Resfriamento, Congelamento e Envenenamento. Afecções podem ser removidas com certos frascos ou negadas por itens ou habilidades passivas.\r\n\r\nTambém existem outras Afecções que podem ser aplicadas através de certos itens raros e habilidades passivas. Elas se chamam Enfraquecer, Exaurir e Causticar.",
+    "Text": "[Bleeding|Sangramento], [Ignite|Incêndio], [Chill|Resfriamento], [Freeze|Congelamento], [Shock|Eletrização] e [Poison|Envenenamento]. [Ailments|Afecções] podem ser removidas por certos frascos ou negadas por itens ou habilidades passivas.\r\n\r\nHá também outras Afecções que podem ser aplicadas através de certos itens raros e habilidades passivas. Estas são chamadas Fragilizar, Exaurir e Causticar.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 8648866,
@@ -32033,7 +32033,7 @@
   },
   {
     "Id": "TutorialPanelFlasksContent3",
-    "Text": "Outros mods mágicos podem melhorar a quantidade de mana ou vida que um frasco recupera, ou a duração dele, ou o número de vezes que ele pode ser usado.  Alguns também concedem utilidades extras, como remover maldições ou afecções.\r\n\r\nSelecionar com cuidado seus frascos e quais mods eles possuem é tão importante quanto selecionar qual arma portar ou habilidade passiva pegar. Caso você em algum momento esteja com problemas para sobreviver, dê uma olhada nos seus frascos e veja se melhorias podem ser feitas. E",
+    "Text": "Outros mods mágicos podem aumentar a quantidade de vida ou mana que um [Flask|Frasco] restaura, sua duração ou o número de vezes que pode ser usado. Alguns também fornecem utilidades extras, como remover maldições ou [Ailments|Afecções].\r\n\r\nSelecionar cuidadosamente seus frascos e os mods que eles possuem é tão importante quanto escolher qual arma empunhar ou quais habilidades passivas pegar. Se você estiver tendo dificuldades para sobreviver, dê uma olhada nos seus frascos e veja se melhorias podem ser fei",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1218796081,
@@ -32937,7 +32937,7 @@
   },
   {
     "Id": "PartyModifierInfoHoverLoot",
-    "Text": "Existem {3} jogadores nessa área, o que aumenta os itens derrubados em: \n<magic>{{+{0}% Itens Monetários\n+{1}% Outros Itens\n+{2}% Aumento da Raridade dos Itens}}",
+    "Text": "Há {3} jogadores nesta área,  \r\no que aumenta as quedas de itens:\n<magic>{{+{0}% Itens Monetários\n+{1}% Outros Itens\n+{2}% Aumento na Raridade de Itens}}  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1150255308,
@@ -32945,7 +32945,7 @@
   },
   {
     "Id": "PartyModifierInfoHoverMonsterHealth",
-    "Text": "Existem {4} jogadores nesta área, o que aumenta a vida dos monstros: \n<magic>{{+{0}% Vida de Monstros Normais\n+{1}% Vida de Monstros Mágicos\n+{2}% Vida de Monstros Raros\n+{3}% Vida de Monstros Únicos}}",
+    "Text": "Há {4} jogadores nesta área,  \r\no que aumenta a vida dos monstros:\n<magic>{{+{0}% Vida de Monstros Normais\n+{1}% Vida de Monstros Mágicos\n+{2}% Vida de Monstros Raros\n+{3}% Vida de Monstros Únicos}}  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1295740187,
@@ -38841,7 +38841,7 @@
   },
   {
     "Id": "BlightCraftingTitle",
-    "Text": "Ungindo",
+    "Text": "Instilando  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 471663942,
@@ -38849,7 +38849,7 @@
   },
   {
     "Id": "BlightCraftingButton",
-    "Text": "Ungir",
+    "Text": "Instilar  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 210735972,
@@ -39305,7 +39305,7 @@
   },
   {
     "Id": "BlightRequiredOils",
-    "Text": "Cassia pode Encantar seu Amuleto com este notável usando estes Óleos:",
+    "Text": "Pode Encantar seu Amuleto com este notável usando estas Emoções Destiladas:  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1960943143,
@@ -39313,7 +39313,7 @@
   },
   {
     "Id": "BlightCraftingInfoLegend",
-    "Text": "Mostrar Informação de Unção",
+    "Text": "Mostrar Informações de Instilação",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -2008647056,
@@ -39401,7 +39401,7 @@
   },
   {
     "Id": "BlightAnointErrorInvalidItem",
-    "Text": "Este item não pode ser ungido.",
+    "Text": "Este item não pode ser instilado.  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 112304548,
@@ -39409,7 +39409,7 @@
   },
   {
     "Id": "BlightAnointErrorInvalidInput",
-    "Text": "Óleo Inválido.",
+    "Text": "Emoção destilada inválida.  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1722203399,
@@ -39425,7 +39425,7 @@
   },
   {
     "Id": "BlightAnointErrorTooFewInputs",
-    "Text": "Este item requer menos óleos para ser ungido.",
+    "Text": "Este item requer mais emoções destiladas para ser instilado.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1196956794,
@@ -39457,7 +39457,7 @@
   },
   {
     "Id": "BlightAnointErrorNoRecipe",
-    "Text": "Esta combinação de óleos não tem resultado.",
+    "Text": "Esta permutação de emoções destiladas não tem resultado.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 2122922449,
@@ -39961,7 +39961,7 @@
   },
   {
     "Id": "HideoutVisitWorldArea",
-    "Text": "Você precisa visitar {0} para destravar esta decoração para o seu Refúgio.",
+    "Text": "Você deve visitar {0} para desbloquear esta decoração para seu Esconderijo.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1900306132,
@@ -41298,7 +41298,7 @@
   {
     "Id": "ConsoleChatEnterMessage",
     "Text": "",
-    "XBoxText": "Pressione <<xbox_button_a>> para escrever uma mensagem…",
+    "XBoxText": "Pressione {0} para editar a mensagem...",
     "XBoxText2": "",
     "HASH32": 1257091293,
     "PlaystationText": ""
@@ -41713,7 +41713,7 @@
   },
   {
     "Id": "BlightStashButtonPopup",
-    "Text": "Clique neste botão e então clique em Óleos para aprimorá-los\npara o próximo tier. Pressione Esc quando terminar.",
+    "Text": "Clique neste botão e, em seguida, clique em Emoções Destiladas para aprimorá-las para o próximo nível. Pressione Esc quando terminar.  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 304225246,
@@ -41721,7 +41721,7 @@
   },
   {
     "Id": "BlightStashUpgradeLabel",
-    "Text": "Clique em Óleos no baú para aprimorá-lo. Pressione Esc quando terminar.",
+    "Text": "Clique em Emoções Destiladas no baú para aprimorá-las. Pressione Esc quando terminar.  ",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1963865494,
@@ -43242,7 +43242,7 @@
   {
     "Id": "ConsoleGuildInviteQuickAccept",
     "Text": "Abrir Painel de Convites",
-    "XBoxText": "Pressione <<xbox_button_view>> para mostrar o painel de convites de Guildas",
+    "XBoxText": "Pressione <<xbox_button_menu>> para mostrar o painel de convites da Guilda",
     "XBoxText2": "",
     "HASH32": 1529917912,
     "PlaystationText": ""
@@ -45058,7 +45058,7 @@
   {
     "Id": "RitualRewardWindowHelpPopup",
     "Text": "Mate monstros durante um Ritual para ganhar Tributos. Tributos podem ser gastos em recompensas após o término do Ritual.\nAlgumas recompensas só podem ser reveladas após o término de vários Rituais.\nRecompensas de Rituais mudam entre as áreas a menos que sejam adiadas.",
-    "XBoxText": "Mate monstros durante um Ritual para ganhar Tributos. Tributos podem ser gastos em recompensas após o término do Ritual.\nAlgumas recompensas só podem ser reveladas após o término de vários Rituais.\nRecompensas de Rituais mudam entre as áreas a menos que sejam adiadas.\nItens com um ícone <<ritual_suspended>> foram adiados anteriormente e já foram parcialmente pagos.",
+    "XBoxText": "<bigger>{<title>{Favores do Ritual}}  \r\nDerrote monstros durante um Ritual para ganhar Tributo.  \r\nO Tributo pode ser gasto em recompensas após a conclusão do Ritual.  \r\n\r\nAlgumas recompensas só serão reveladas após completar vários Rituais.  \r\nAs recompensas do Ritual mudam entre as áreas, a menos que sejam adiadas.  \r\n\r\n<bigger>{<title>{Adiar Itens}}  \r\nPague 15% do custo original de um item para adiá-lo.  \r\nEsse item reaparecerá em uma área posterior, com um desconto de 10% do custo original.  \r\nItens ma",
     "XBoxText2": "",
     "HASH32": 925319988,
     "PlaystationText": ""
@@ -45557,7 +45557,7 @@
     "XBoxText": "",
     "XBoxText2": "Não pode abrir o browser web devido à restrições na conta. Por favor verifique sua conta Xbox Live.",
     "HASH32": -956463419,
-    "PlaystationText": "Não pode abrir o browser web devido à restrições na conta. Por favor verifique sua conta Sony."
+    "PlaystationText": "Não é possível abrir o navegador da web devido a restrições de conta. Verifique sua conta na PlayStation<font:'quikhand'>{™}Network."
   },
   {
     "Id": "ItemDisplayMavenVoidAreas",
@@ -46105,7 +46105,7 @@
   },
   {
     "Id": "BlightAnointErrorCannotUseCorruptOil",
-    "Text": "Óleos Contaminados só podem ser usados em um item Corrompido.",
+    "Text": "Itens Corrompidos não podem ser Instilados.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1099988597,
@@ -46305,7 +46305,7 @@
   },
   {
     "Id": "UltimatumWindowBeginButtonNotInstanceOwner",
-    "Text": "Apenas o dono da instância pode iniciar o Ultimatum",
+    "Text": "Apenas o dono da instância pode iniciar as Provações do Caos",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -115119045,
@@ -50593,7 +50593,7 @@
   },
   {
     "Id": "VoidstoneFunctionText",
-    "Text": "Mapas Derrubados nas Áreas têm 25% de chance de serem 1 tier superior",
+    "Text": "Mapas Derrubados nas Áreas têm 25% de chance de ser 1 nível superior",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 385872633,
@@ -51329,7 +51329,7 @@
   },
   {
     "Id": "UniqueStashFilterAll",
-    "Text": "Todas",
+    "Text": "Todos",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1421803682,
@@ -51337,7 +51337,7 @@
   },
   {
     "Id": "UniqueStashFilterOwned",
-    "Text": "Possuídas",
+    "Text": "Possuídos",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1010593458,
@@ -51345,7 +51345,7 @@
   },
   {
     "Id": "UniqueStashFilterUnowned",
-    "Text": "Não Possuídas",
+    "Text": "Não Possuídos",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 516344197,
@@ -52609,7 +52609,7 @@
   },
   {
     "Id": "BlightAnointErrorCannotUseMirrorOil",
-    "Text": "Óleo Refletor só pode ser usado em um item Espelhado.",
+    "Text": "Itens Espelhados não podem ser Instilados.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1958435679,
@@ -52993,8 +52993,8 @@
   },
   {
     "Id": "RelicAltarWindowInfo",
-    "Text": "<bigger>{<title>{Provação dos Sekhemas}}  \r\nA Provação dos Sekhemas te colocará contra testes ancestrais. Aqueles que suportarem esses testes podem colher grandes recompensas. As Provações requerem um Moeda para participar.  \r\n\r\nCompletar essas provações pode conceder Pontos de Passivas Ascendentes.  \r\n\r\nO dano que você sofre na Provação impacta sua [Honour|Honra]. A Honra perdida persiste entre as provações.  \r\nPerder toda a sua Honra faz com que você falhe na Provação. Isso não é considerado como morte pa",
-    "XBoxText": "<bigger>{<title>{Provação dos Sekhemas}}  \r\nA Provação dos Sekhemas te colocará contra testes ancestrais. Aqueles que suportarem esses testes podem colher grandes recompensas. As Provações requerem um Barya para participar.  \r\n\r\nCompletar essas provações pode conceder Pontos Passivos de Ascendência.  \r\n\r\nO dano que você sofre na Provação impacta sua [Honour|Honra]. A Honra perdida persiste entre as Provações.  \r\nPerder toda a sua Honra faz com que você falhe na Provação. Isso não é considerado como morte pa",
+    "Text": "<bigger>{<title>{Provação das Sekhemas}}  \r\nA Provação das Sekhemas te colocará contra testes antigas. Aqueles que suportarem essas provas podem colher grandes recompensas. As Provações exigem um Barya para participar.  \r\n\r\nConcluir essas provações pode conceder [AscendancyPoints|Pontos de Habilidade de Ascendência].  \r\n\r\nO dano que você recebe na Provação afeta sua [Honour|Honra]. A Honra perdida persiste entre as provações.  \r\nPerder toda a sua Honra falha na Provação. Isso não é considerado uma morte par",
+    "XBoxText": "<bigger>{<title>{Provação das Sekhemas}}  \r\nA Provação das Sekhemas te colocará contra testes antigos. Aqueles que suportarem esses testes podem colher grandes recompensas. As Provações exigem um Barya para participar.  \r\n\r\nConcluir essas provações pode conceder [AscendancyPoints|Pontos de Habilidade de Ascendência].  \r\n\r\nO dano que você recebe na Provação afeta sua [Honour|Honra]. A Honra perdida persiste entre as provações.  \r\nPerder toda a sua Honra resulta em falha na Provação. Isso não é considerado co",
     "XBoxText2": "",
     "HASH32": -2065025434,
     "PlaystationText": ""
@@ -57234,7 +57234,7 @@
   {
     "Id": "ItemFunctionItemisedSanctum",
     "Text": "Clique com o botão direito neste item para ver os detalhes das Provações em andamento. Leve este item ao Altar de Relíquias na Provação das Sekhemas para entrar.",
-    "XBoxText": "<<xbox_button_lstick>>+<<xbox_button_rt>> para ver os detalhes das Provações em andamento. Leve este item ao Altar de Relíquias na Provação das Sekhemas para entrar.",
+    "XBoxText": "Leve este item ao Altar de Relíquias na Provação das Sekhemas para entrar.",
     "XBoxText2": "",
     "HASH32": 1253148888,
     "PlaystationText": ""
@@ -59617,7 +59617,7 @@
   },
   {
     "Id": "OptionAutoLogoutIfControllerDisconnectedPopup",
-    "Text": "Te retorna automaticamente à tela de loginse seu controle for removido durante a gameplay.",
+    "Text": "Te retorna automaticamente à tela de login se seu controle for desconectado durante a gameplay e desabilita a pausa do jogo.",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1280383134,
@@ -61001,7 +61001,7 @@
   },
   {
     "Id": "SupportGemCantSupportAnyEquippedGem",
-    "Text": "Este Suporte não pode ser usado com nenhuma Habilidade equipada.",
+    "Text": "Este Suporte não pode ser encaixado em nenhuma Habilidade equipada",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1995027879,
@@ -61561,7 +61561,7 @@
   },
   {
     "Id": "CurrencyExchangeTitle",
-    "Text": "Troca de Moeda",
+    "Text": "Casa de Câmbio",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -1772676506,
@@ -62865,7 +62865,7 @@
   },
   {
     "Id": "WorldScreenStartMapButton",
-    "Text": "Atravessar",
+    "Text": "Ativar",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1300610430,
@@ -64177,7 +64177,7 @@
   },
   {
     "Id": "InscribedKeyWindowInfo",
-    "Text": "<bigger>{<title>{Ultimato}}\r\nOfereça um Ultimato Inscrito para participar das Provações do Mestre das Provações.\r\n\r\nCompletar estas provações pode garantir Pontos de Habilidade Passiva Ascendentes.\r\n\r\nEm cada provação você ganhará uma recompensa, mas também terá que selecionar um modificador para tornar as provações mais difíceis.\r\nAs recompensas só podem ser recebidas quando a provação final for concluída.\r\nSe você morrer dentro das provações, não poderá retornar e perderá todas as recompensas conquistadas",
+    "Text": "<bigger>{<title>{Ultimato}}  \r\nOfereça um Ultimato Talhado para participar das Provações do Mestre das Provações.  \r\n\r\nConcluir essas provações pode conceder [AscendancyPoints|Pontos de Habilidade Ascendente].  \r\n\r\nEm cada provação, você ganhará uma recompensa, mas também terá que selecionar um modificador para tornar as provações mais difíceis.  \r\nAs recompensas só podem ser coletadas quando a provação final for concluída.  \r\nSe você morrer dentro das provações, não poderá retornar e perderá todas as recom",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 43764759,
@@ -66009,7 +66009,7 @@
   },
   {
     "Id": "PassiveTreeAscendancyPointsTitle",
-    "Text": "Pontos Ascendentes:",
+    "Text": "[AscendancyPoints|Pontos Ascendentes]:",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -464875967,
@@ -66017,7 +66017,7 @@
   },
   {
     "Id": "EndgameMapUIAugmentTowerButtonText",
-    "Text": "Influência",
+    "Text": "Influenciar",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": -667748257,
@@ -66849,7 +66849,7 @@
   },
   {
     "Id": "AscendancyToBeHad",
-    "Text": "Completing this Trial will allow you to choose your Ascendancy Class",
+    "Text": "Concluir esta Provação permitirá que você escolha sua Classe Ascendente",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 204994156,
@@ -66857,7 +66857,7 @@
   },
   {
     "Id": "AscendancyPointsToBeHad",
-    "Text": "Completing this Ascension Trial will grant additional [AscendancyPoints|Ascendancy Skill Points]",
+    "Text": "Concluir esta Provação de Ascensão concederá [AscendancyPoints|Pontos de Habilidade Ascendente] adicionais",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 2029128288,
@@ -66865,7 +66865,7 @@
   },
   {
     "Id": "AscendancyPointsToBeHadTrialMaster",
-    "Text": "Completing the secret challenge behind the door at the end of this Trial\nwill grant additional [AscendancyPoints|Ascendancy Skill Points]",
+    "Text": "Concluir o desafio secreto atrás da porta no final desta Provação\ngarantirá [AscendancyPoints|Pontos de Habilidade Ascendente] adicionais",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 978803356,
@@ -66873,7 +66873,7 @@
   },
   {
     "Id": "AscendancyPointsNotToBeHad",
-    "Text": "Completing this Ascension Trial will not grant additional [AscendancyPoints|Ascendancy Skill Points]",
+    "Text": "Concluir esta Provação de Ascensão não concederá [AscendancyPoints|Pontos de Habilidade Ascendente] adicionais",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1267411395,
@@ -66881,7 +66881,7 @@
   },
   {
     "Id": "AreaMapWindowCheckpointWarpingTitle",
-    "Text": "Checkpoints",
+    "Text": "Marcações",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 950660375,
@@ -66889,7 +66889,7 @@
   },
   {
     "Id": "WarpCheckpointButtonHover",
-    "Text": "Travel to Checkpoint",
+    "Text": "Viajar à Marcação",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 1651064761,
@@ -66897,10 +66897,114 @@
   },
   {
     "Id": "CurrentCheckpointButtonHover",
-    "Text": "You are here",
+    "Text": "Você está",
     "XBoxText": "",
     "XBoxText2": "",
     "HASH32": 926585170,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelGuildDonationWarningContent",
+    "Text": "Para que seus pontos sejam transferidos para a Guilda, o líder da Guilda deve confirmar a transação:\n{0}\n\nSe o líder da Guilda não aceitar esses pontos dentro de 48 horas, eles serão devolvidos a você.",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 429795050,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelGuildDonationRequest",
+    "Text": "Sua doação foi enviada.\n Aguarde até que o Líder da Guilda a confirme ou cancele.",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 1760549124,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelBundlePurchaseOnly",
+    "Text": "Apenas Compra de Pacotes",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -755060096,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "EShopPanelItemCannotPurchaseIndividual",
+    "Text": "Este Item Não Pode ser Adquirido Individualmente",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -1586382482,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "SkillPopupCastTimeValue",
+    "Text": "{0} s",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 898359382,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "GamepadSSFInvalidInCOOP",
+    "Text": "O SSF é inválido em Cooperação Local.",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -777655859,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "ConsoleActionPlaceSingle",
+    "Text": "Adicionar Apenas Um",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -77014063,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "WeaponSetDisabledMessage",
+    "Text": "Sem Pontos de Habilidade para alocar em Pontos de Conjunto de Armas",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -1884406229,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "PersistentBuffTutorial",
+    "Text": "Clique com o botão direito para ativar sua gema de buff",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -2021994248,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "PersistentBuffTutorialNoSpirit",
+    "Text": "Clique com o botão direito para ativar sua gema de buff quando tiver espírito suficiente",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": 971475816,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "WorldPanelPinPopupBiome",
+    "Text": "Biome: <white>{{{0}}}",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -361254526,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "OptionsOpenPopularFiltersWebpageButtonPopup",
+    "Text": "Click to open the popular filters page in your web browser",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -867992411,
+    "PlaystationText": ""
+  },
+  {
+    "Id": "MigrateAllLeaguesDropBoxOption",
+    "Text": "All",
+    "XBoxText": "",
+    "XBoxText2": "",
+    "HASH32": -226971148,
     "PlaystationText": ""
   }
 ]

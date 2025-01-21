@@ -7543,7 +7543,7 @@
   {
     "Id": "melee",
     "DisplayedName": "Обычная атака",
-    "Description": "Герой наносит обычный удар.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 34
@@ -8878,7 +8878,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 69964,
+    "Unk030": 69906,
     "AudioEvent": null,
     "Unk032": 56614,
     "Unk033": null,
@@ -9112,7 +9112,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 69964,
+    "Unk030": 69906,
     "AudioEvent": null,
     "Unk032": 56614,
     "Unk033": null,
@@ -9553,7 +9553,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 69964,
+    "Unk030": 69906,
     "AudioEvent": null,
     "Unk032": 1574,
     "Unk033": null,
@@ -9736,7 +9736,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 74840,
+    "Unk030": 74782,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -10718,7 +10718,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 86580,
+    "Unk032": 86522,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11626,7 +11626,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 407
     },
-    "Unk032": 97330,
+    "Unk032": 97272,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11994,7 +11994,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 398
     },
-    "Unk032": 97330,
+    "Unk032": 97272,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12230,7 +12230,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 465
     },
-    "Unk032": 106616,
+    "Unk032": 106558,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12373,7 +12373,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 420
     },
-    "Unk032": 97330,
+    "Unk032": 97272,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12978,9 +12978,9 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 116046,
+    "Unk030": 115988,
     "AudioEvent": null,
-    "Unk032": 116130,
+    "Unk032": 116072,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -14186,7 +14186,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 424
     },
-    "Unk032": 126546,
+    "Unk032": 126488,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20031,8 +20031,8 @@
   },
   {
     "Id": "piety_ice_shot",
-    "DisplayedName": "Ледяной выстрел",
-    "Description": "Герой пускает стрелу, которая наносит цели физический урон, часть которого превращает в урон от холода. Кроме того, она создает конусообразную область поражения за целью, преобразует весь физический урон в урон от холода и наносит его попавшим в область врагам. Земля под целью покрывается льдом.",
+    "DisplayedName": "",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 91
@@ -20626,7 +20626,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 97330,
+    "Unk032": 97272,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20636,7 +20636,7 @@
   },
   {
     "Id": "cold_weakness",
-    "DisplayedName": "Обморожение",
+    "DisplayedName": "Переохлаждение",
     "Description": "После короткой задержки [Curse|проклинает] всех врагов в области, снижая их [Resistances|сопротивление] [Cold|холоду].",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -20766,7 +20766,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 97330,
+    "Unk032": 97272,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20906,7 +20906,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 97330,
+    "Unk032": 97272,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -28096,7 +28096,7 @@
   {
     "Id": "herald_of_ash",
     "DisplayedName": "Вестник пепла",
-    "Description": "Пока умение активно, враги, получившие достаточно [Overkill|избыточного] урона от атак героя, будут вызывать взрыв, который [Ignite|поджигает] ближайших противников в зависимости от [Overkill|избыточного] урона.",
+    "Description": "Пока активно, враги, получившие достаточно [Overkill|избыточного] урона от атак героя, будут вызывать взрыв, который [Ignite|поджигает] ближайших противников в зависимости от [Overkill|избыточного] урона.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 137
@@ -28522,7 +28522,7 @@
   {
     "Id": "herald_of_thunder",
     "DisplayedName": "Вестник грома",
-    "Description": "Пока умение активно, убийство врагов под действием [Shock|шока] уроном от [Attack|атак] заставит последующие удары [Attack|атаками] выпускать разряды молнии, которые наносят урон от [Attack|атак] всем окружающим противникам.",
+    "Description": "Пока активно, убийство врагов под действием [Shock|шока] уроном от [Attack|атак] заставит последующие удары [Attack|атаками] выпускать разряды молнии, которые наносят урон от [Attack|атак] всем окружающим противникам.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 139
@@ -30136,7 +30136,7 @@
   },
   {
     "Id": "monster_mortar",
-    "DisplayedName": "Метка браконьера",
+    "DisplayedName": "",
     "Description": "Generic monster mortar skill. Like Monster Projectile but has an impact effect.",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -33992,7 +33992,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 239314,
+    "Unk030": 238638,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 344
@@ -34947,7 +34947,7 @@
   {
     "Id": "vaal_earthquake",
     "DisplayedName": "Землетрясение ваал",
-    "Description": "Герой сотрясает землю, нанося урон в области и оставляя разлом в земле. После короткого промежутка времени каждый разлом взрывается, выпуская мощную ударную волну. После использования этого умения с каждым шагом герой будет наносить урон по области вокруг себя, оставляя на земле новые разломы, если предыдущие успели взорваться. Этот эффект завершается по истечении вторичного времени действия, или при достижении максимального количества ударных волн. Можно использовать с топорами, булавами, скипетрами, посох",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 181
@@ -36633,7 +36633,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 256138,
+    "Unk030": 254396,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 335
@@ -45487,7 +45487,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 406
     },
-    "Unk032": 97330,
+    "Unk032": 97272,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -56114,7 +56114,7 @@
   },
   {
     "Id": "monster_quick_dodge",
-    "DisplayedName": "Рывок",
+    "DisplayedName": "",
     "Description": "Герой выполняет серию быстрых перемещений к выбранной точке. При использовании \"атаки с места\" выбирается противоположное направление. Имеет общее время перезарядки с другими умениями Скачка.",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -56810,7 +56810,7 @@
   {
     "Id": "artillery_ballista_projectile",
     "DisplayedName": "Артиллерийский выстрел",
-    "Description": "Выстреливает в небо самонаводящимся боезарядом, который разбрасывает по болту около каждого врага в указанной области. Болты остаются в земле и после короткой задержки взрываются.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 456
@@ -58094,7 +58094,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 356642,
+    "Unk030": 354538,
     "AudioEvent": null,
     "Unk032": 1574,
     "Unk033": null,
@@ -60440,7 +60440,7 @@
   {
     "Id": "hexblast",
     "DisplayedName": "Взрыв порчи",
-    "Description": "Герой детонирует [Curse|проклятия] на врагах в области, вызывая взрывы урона [Chaos|хаосом], но снимая [Curse|проклятия].",
+    "Description": "Герой детонирует [Curse|проклятие] на каждом враге в области, вызывая взрывы урона [Chaos|хаосом], но снимая [Curse|проклятие].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 390
@@ -66762,10 +66762,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 27
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 7
       },
       {
@@ -68029,7 +68025,7 @@
   {
     "Id": "lightning_conduit",
     "DisplayedName": "Проводник молнии",
-    "Description": "Герой призывает молнию, которая ударяет во всех врагов в конусе перед ним. Наносит существенно больше урона [Shock|поражённым шоком] врагам, но [Consume|поглощает] [Shock|шок] после нанесения урона. Выбор места вблизи героя заставит его отпрыгнуть назад во время сотворения.",
+    "Description": "Герой призывает молнию, которая ударяет во всех врагов в конусе перед ним. Наносит существенно больше урона [Shock|поражённым шоком] врагам, но [Consume|поглощает] [Shock|шок] после нанесения урона. Если поглощён [Shock|шок], то между поражёнными целями перескакивают дополнительные разряды молнии. Выбор места вблизи героя заставит его отпрыгнуть назад во время сотворения.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 438
@@ -69022,7 +69018,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 424620,
+    "Unk030": 422712,
     "AudioEvent": null,
     "Unk032": 1574,
     "Unk033": null,
@@ -69700,7 +69696,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 428090,
+    "Unk030": 426182,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 360
@@ -69952,7 +69948,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 429682,
+    "Unk030": 427774,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 362
@@ -70546,7 +70542,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 513
     },
-    "Unk032": 433656,
+    "Unk032": 431748,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70699,7 +70695,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 518
     },
-    "Unk032": 434612,
+    "Unk032": 432704,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70772,7 +70768,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 529
     },
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70925,7 +70921,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 525
     },
-    "Unk032": 436448,
+    "Unk032": 434540,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70999,7 +70995,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71018,7 +71014,8 @@
     "Icon_DDSFile": "Art/2DArt/SkillIcons/PowerShotPermafrost.dds",
     "ActiveSkillTargetTypes": [
       1,
-      2
+      2,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71168,7 +71165,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 522
     },
-    "Unk032": 438182,
+    "Unk032": 436278,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71188,7 +71185,8 @@
     "ActiveSkillTargetTypes": [
       1,
       23,
-      24
+      24,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71238,7 +71236,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71387,7 +71385,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 536
     },
-    "Unk032": 439880,
+    "Unk032": 437980,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71457,7 +71455,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71825,7 +71823,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72053,7 +72051,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72286,7 +72284,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72513,7 +72511,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72776,7 +72774,7 @@
   {
     "Id": "whirling_assault",
     "DisplayedName": "Вихревой налёт",
-    "Description": "Герой продвигается вперёд, одновременно нанося круговые удары врагам вокруг себя.",
+    "Description": "Герой продвигается вперёд, одновременно нанося круговые [Strike|удары] врагам вокруг себя.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 458
@@ -72894,7 +72892,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 449470,
+    "Unk030": 447950,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 326
@@ -73576,7 +73574,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 454450,
+    "Unk030": 452930,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 328
@@ -77494,7 +77492,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77713,7 +77711,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77940,7 +77938,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78163,7 +78161,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78318,7 +78316,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 514
     },
-    "Unk032": 484076,
+    "Unk032": 482556,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78481,7 +78479,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 506
     },
-    "Unk032": 485144,
+    "Unk032": 483624,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78551,7 +78549,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78710,7 +78708,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 519
     },
-    "Unk032": 487112,
+    "Unk032": 485592,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78780,7 +78778,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78943,7 +78941,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 503
     },
-    "Unk032": 489194,
+    "Unk032": 487674,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79013,7 +79011,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79176,7 +79174,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 534
     },
-    "Unk032": 491262,
+    "Unk032": 489742,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79246,7 +79244,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 435414,
+    "Unk032": 433506,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79508,7 +79506,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 493648,
+    "Unk030": 492128,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 321
@@ -81697,7 +81695,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 505482,
+    "Unk030": 503962,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 330
@@ -81904,7 +81902,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 506924,
+    "Unk030": 505404,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 316
@@ -82183,7 +82181,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 508904,
+    "Unk030": 507384,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 337
@@ -82935,7 +82933,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 514214,
+    "Unk030": 512694,
     "AudioEvent": null,
     "Unk032": 1574,
     "Unk033": null,
@@ -84104,7 +84102,7 @@
       "TableName": "ActionTypes",
       "RowIndex": 234
     },
-    "Icon_DDSFile": "Art/2DArt/SkillIcons/LightningBoltSkillStaff.dds",
+    "Icon_DDSFile": "Art/2DArt/SkillIcons/GreaterLightningBoltSkill.dds",
     "ActiveSkillTargetTypes": [
       1,
       2
@@ -84727,7 +84725,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 521760,
+    "Unk030": 520402,
     "AudioEvent": null,
     "Unk032": 1574,
     "Unk033": null,
@@ -84861,7 +84859,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 74840,
+    "Unk030": 74782,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -85089,7 +85087,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 524068,
+    "Unk030": 522710,
     "AudioEvent": null,
     "Unk032": 1574,
     "Unk033": null,
@@ -85770,7 +85768,7 @@
   {
     "Id": "cast_on_death",
     "DisplayedName": "Сотворение чар при смерти",
-    "Description": "Герой получает положительный эффект, вызывающий срабатывание размещённых чар при собственной смерти.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 517
@@ -87029,7 +87027,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 537922,
+    "Unk032": 536360,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87342,7 +87340,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 523
     },
-    "Unk032": 539766,
+    "Unk032": 538204,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87546,7 +87544,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 524
     },
-    "Unk032": 539766,
+    "Unk032": 538204,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87557,7 +87555,7 @@
   {
     "Id": "flash_grenade",
     "DisplayedName": "Ослепляющая граната",
-    "Description": "Выстреливает отскакивающей гранатой, которая взрывается с [Blind|ослепляющей] и [Stun|оглушающей] вспышкой по окончании действия запала. Взрыв может [Blind|ослепить] как [Allies|противников], так и союзников.",
+    "Description": "Выстреливает отскакивающей [Grenade|гранатой], которая взрывается с [Blind|ослепляющей] и [Stun|оглушающей] вспышкой по окончании действия запала. Взрыв может [Blind|ослепить] как [Allies|противников], так и союзников.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -87746,7 +87744,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 499
     },
-    "Unk032": 541850,
+    "Unk032": 540308,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87954,7 +87952,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 521
     },
-    "Unk032": 543414,
+    "Unk032": 541872,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88162,7 +88160,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 527
     },
-    "Unk032": 545130,
+    "Unk032": 543588,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88370,7 +88368,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 528
     },
-    "Unk032": 545130,
+    "Unk032": 543588,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88875,10 +88873,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 38
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 143
       },
       {
@@ -88906,7 +88900,12 @@
         "Id": "skill_effect_duration_+%"
       }
     ],
-    "MinionActiveSkillTypes": [],
+    "MinionActiveSkillTypes": [
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 38
+      }
+    ],
     "Unk018": true,
     "Unk019": true,
     "Unk020": [],
@@ -89763,8 +89762,8 @@
   },
   {
     "Id": "ice_bind",
-    "DisplayedName": "Ледяные цепи",
-    "Description": "Приказывает магу льда сковать себя льдом, [Slow|замедляя] нескольких противников поблизости.",
+    "DisplayedName": "",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 609
@@ -94497,7 +94496,7 @@
   {
     "Id": "mana_remnants",
     "DisplayedName": "Сгустки маны",
-    "Description": "Герой призывает вспышки молнии, которые восстанавливают его ману. Пока активно, враги под действием [Shock|шока], которых герой убивает, могут породить сгусток маны, а [Critical|критическое попадание] по целям под действием [Shock|шока] порождает сгусток маны каждые несколько секунд. Поднятие сгустка дарует ману и может [Overflow|переполнить] её сверх максимума.",
+    "Description": "Герой призывает вспышки молнии, которые восстанавливают его ману. Пока активно, враги под действием [Shock|шока], которых герой убивает, могут породить [Remnant|сгусток] маны, а [Critical|критическое попадание] по цели под действием [Shock|шока] порождает сгусток маны каждые несколько секунд. Поднятие [Remnant|сгустка] дарует ману и может [Overflow|переполнить] её сверх максимума.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 646
@@ -94895,7 +94894,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95025,7 +95024,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95151,7 +95150,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95277,7 +95276,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95411,7 +95410,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95537,7 +95536,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95663,7 +95662,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95797,7 +95796,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95923,7 +95922,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96049,7 +96048,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96183,7 +96182,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96309,7 +96308,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96435,7 +96434,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96565,7 +96564,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96695,7 +96694,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96825,7 +96824,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96951,7 +96950,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97085,7 +97084,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97231,7 +97230,7 @@
     "TransfigureBase": null,
     "Unk030": 1574,
     "AudioEvent": null,
-    "Unk032": 590284,
+    "Unk032": 588564,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -98057,14 +98056,14 @@
   {
     "Id": "totem_shockwave_quake",
     "DisplayedName": "Сотрясающий удар",
-    "Description": "Герой совершает [Slam|мощный удар] по земле, нанося урон ближайшим врагам.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 652
     },
     "Icon_DDSFile": "Art/2DArt/SkillIcons/BruteShockwaveTotem.dds",
     "ActiveSkillTargetTypes": [
-      10
+      1
     ],
     "ActiveSkillTypes": [
       {
@@ -98969,6 +98968,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -100289,6 +100292,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -101069,7 +101076,7 @@
   {
     "Id": "grim_feast",
     "DisplayedName": "Мрачный пир",
-    "Description": "Герой пирует на трупах, укрепляя свой [EnergyShield|энергетический щит]. Пока активно, враги и [Reviving|возрождающиеся] [Minion|приспешники], умершие в [Presence|присутствии] героя, могут породить мрачные останки. Поднятие останков дарует [EnergyShield|энергетический щит] и может [Overflow|переполнить] его сверх максимума.",
+    "Description": "Герой пирует на трупах, укрепляя свой [EnergyShield|энергетический щит]. Пока активно, враги и [Reviving|возрождающиеся] [Minion|приспешники], умершие в [Presence|присутствии] героя, могут породить мрачные [Remnant|сгустки]. Поднятие [Remnant|сгустка] дарует [EnergyShield|энергетический щит] и может [Overflow|переполнить] его сверх максимума.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 683
@@ -101619,7 +101626,7 @@
   {
     "Id": "bone_blast",
     "DisplayedName": "Костяной взрыв",
-    "Description": "Герой на короткое время сотворяет ритуальные письмена. По прошествии этого времени из врагов в области вырываются костяные шипы.",
+    "Description": "Герой на короткое время сотворяет ритуальные начертания. По прошествии этого времени из врагов в области вырываются костяные шипы, нанося им урон и с некоторой вероятностью вызывая [Bleeding|кровотечение].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 689
@@ -103184,7 +103191,7 @@
   {
     "Id": "blazing_cluster",
     "DisplayedName": "Янтарный шквал",
-    "Description": "Герой сотворяет пылающий огонёк, зависающий в воздухе над ним. Спустя короткое время огонёк летит во врага, нанося урон от [Fire|огня] по области при попадании. Повторное сотворение этих чар сбрасывает длительность всех активных огоньков. Несколько огоньков, выпущенных за раз, будут стремиться поразить разных врагов.",
+    "Description": "Герой сотворяет пылающий огонёк, зависающий в воздухе над ним. Спустя короткое время огонёк летит во врага, отдавая приоритет последнему выбранному противнику, и наносит урон от [Fire|огня] по области при попадании. Повторное сотворение этих чар сбрасывает длительность всех активных огоньков. Несколько огоньков, выпущенных за раз, будут стремиться поразить разных врагов.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103321,7 +103328,7 @@
   {
     "Id": "unique_dusk_vigil_triggered_blazing_cluster",
     "DisplayedName": "Янтарный шквал",
-    "Description": "Герой сотворяет пылающий огонёк, зависающий в воздухе над ним. Спустя короткое время огонёк летит во врага, нанося урон от [Fire|огня] по области при попадании. Повторное сотворение этих чар сбрасывает длительность всех активных огоньков. Несколько огоньков, выпущенных за раз, будут стремиться поразить разных врагов.",
+    "Description": "Герой сотворяет пылающий огонёк, зависающий в воздухе над ним. Спустя короткое время огонёк летит во врага, отдавая приоритет последнему выбранному противнику, и наносит урон от [Fire|огня] по области при попадании. Повторное сотворение этих чар сбрасывает длительность всех активных огоньков. Несколько огоньков, выпущенных за раз, будут стремиться поразить разных врагов.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103375,6 +103382,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -103617,7 +103628,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 116046,
+    "Unk030": 115988,
     "AudioEvent": null,
     "Unk032": 1574,
     "Unk033": null,
@@ -103854,7 +103865,7 @@
   },
   {
     "Id": "stomping_ground_shockwave",
-    "DisplayedName": "Stomping Ground Shockwave",
+    "DisplayedName": "Ударная волна Топотуна",
     "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -103983,7 +103994,7 @@
   {
     "Id": "life_remnants",
     "DisplayedName": "Сгустки жизни",
-    "Description": "Герой упивается кровью врагов, восстанавливая своё здоровье. Пока активно, убитые героем враги могут породить сгусток жизни, а [Critical|критическое попадание] по цели порождает сгусток жизни каждые несколько секунд. Поднятие сгустка дарует здоровье и может [Overflow|переполнить] его сверх максимума.",
+    "Description": "Герой упивается кровью врагов, восстанавливая своё здоровье. Пока активно, убитые героем враги могут породить [Remnant|сгусток] жизни, а [Critical|критическое попадание] по цели порождает сгусток жизни каждые несколько секунд. Поднятие [Remnant|сгустка] дарует здоровье и может [Overflow|переполнить] его сверх максимума.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 709
@@ -104820,10 +104831,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -104966,10 +104973,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 0
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 40
       },
       {
         "TableName": "ActiveSkillType",
@@ -105118,10 +105121,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105267,10 +105266,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105412,10 +105407,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105539,7 +105530,7 @@
   {
     "Id": "elemental_strike_trigger",
     "DisplayedName": "Выход стихии",
-    "Description": "Герой создаёт огненный взрыв, волну холода или цепную молнию. Шанс огненного взрыва пропорционален силе героя, шанс цепной молнии – его ловкости, а шанс волны холода – его интеллекту.",
+    "Description": "Герой создаёт огненный взрыв, волну ледяных снарядов или цепную молнию. Шанс огненного взрыва пропорционален [Strength|силе] героя, шанс цепной молнии – его [Dexterity|ловкости], а шанс волны ледяных снарядов – его [Intelligence|интеллекту].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 169
@@ -105796,7 +105787,7 @@
   {
     "Id": "war_banner",
     "DisplayedName": "Знамя войны",
-    "Description": "[Attack|Атаки], убивающие редких и уникальных врагов, накапливают [Valour|доблесть]. Использование этого умения затрачивает [Valour|доблесть] и размещает вдохновляющее знамя с [Aura|аурой], которая дарует герою и ближайшим [Allies|союзникам] больше урона от [Attack|атак], пока действует знамя.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 724
@@ -105859,7 +105850,7 @@
   {
     "Id": "defiance_banner",
     "DisplayedName": "Знамя непокорности",
-    "Description": "[Attack|Атаки], убивающие редких и уникальных врагов, накапливают [Valour|доблесть]. Использование этого умения затрачивает [Valour|доблесть] и размещает знамя стойкости с [Aura|аурой], которая дарует герою и ближайшим [Allies|союзникам] больше [Armour|брони] и [Evasion|уклонения] и меньше получаемого [ElementalDamage|урона от стихий], пока действует знамя.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 724
@@ -107942,7 +107933,7 @@
   {
     "Id": "cluster_grenade",
     "DisplayedName": "Кластерная граната",
-    "Description": "Выстреливает отскакивающей гранатой, которая взрывается по окончании действия запала, разбрасывая кольцо более мелких гранат, также взрывающихся через некоторое время.",
+    "Description": "Выстреливает отскакивающей [Grenade|гранатой], которая взрывается по окончании действия запала, разбрасывая кольцо мини-[Grenade|гранат], также взрывающихся по окончании разлёта.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -109161,8 +109152,8 @@
   },
   {
     "Id": "burning_runes",
-    "DisplayedName": "Burning Inscription",
-    "Description": "Creates [IgnitedGround|Ignited Ground] [Ignite|Igniting] Enemies based off a percentage of your Maximum Mana.",
+    "DisplayedName": "Пылающее начертание",
+    "Description": "Создаёт [IgnitedGround|подожжённую землю], [Ignite|поджигающую] врагов на основе процента от максимума маны героя.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 756
@@ -109178,6 +109169,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 31
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       },
       {
         "TableName": "ActiveSkillType",
@@ -109418,7 +109413,7 @@
   {
     "Id": "freezing_salvo",
     "DisplayedName": "Замораживающий залп",
-    "Description": "Герой постепенно собирает ледяные снаряды из воздуха. Использование умения выпускает накопленные снаряды, которые падают вокруг указанной области.",
+    "Description": "Пассивно с течением времени собирает ледяные снаряды из воздуха. Использование умения выпускает снаряд, и по дополнительному снаряду за каждый накопленный.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 758

@@ -238,7 +238,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 368
     },
-    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 [Fire|화염] 피해를 획득하지만 [Cold|냉기] 피해와 [Lightning|번개] 피해는 줄어듭니다.",
+    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 [Fire|화염] 피해를 [Gain|획득]하지만 [Cold|냉기] 피해와 [Lightning|번개] 피해는 줄어듭니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -290,7 +290,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 370
     },
-    "SupportText": "[Projectile|투사체] 스킬에 적용됩니다. 보조 대상 스킬이 추가 [Projectile|투사체]를 발사합니다. 또한 스킬의 공격 속도와 시전 속도가 느려지고, 피해도 줄어듭니다.",
+    "SupportText": "[Projectile|투사체] 스킬에 적용됩니다. 보조 대상 스킬이 추가 [Projectile|투사체]를 발사합니다. 또한 스킬의 [Attack|공격] 속도와 시전 속도가 느려지고, 피해도 줄어듭니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -338,7 +338,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 372
     },
-    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 [Cold|냉기] 피해를 획득하지만 [Fire|화염] 피해와 [Lightning|번개] 피해는 줄어듭니다.",
+    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 [Cold|냉기] 피해를 [Gain|획득]하지만 [Fire|화염] 피해와 [Lightning|번개] 피해는 줄어듭니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -414,7 +414,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 375
     },
-    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 [Lightning|번개] 피해를 획득하지만 [Cold|냉기] 피해와 [Fire|화염] 피해는 줄어듭니다.",
+    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 [Lightning|번개] 피해를 [Gain|획득]하지만 [Cold|냉기] 피해와 [Fire|화염] 피해는 줄어듭니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -594,7 +594,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 381
     },
-    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 [Chaos|카오스] 피해를 획득하지만 나머지 유형의 피해는 줄어듭니다.",
+    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 [Chaos|카오스] 피해를 [Gain|획득]하지만 나머지 [DamageTypes|유형]의 피해는 줄어듭니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -2357,7 +2357,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5277
+      "RowIndex": 5278
     },
     "SupportText": "",
     "SupportName": "",
@@ -2871,7 +2871,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5220
+      "RowIndex": 5221
     },
     "SupportText": "",
     "SupportName": "",
@@ -3414,7 +3414,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 409
     },
-    "SupportText": "피해를 주는 모든 스킬에 적용됩니다. [Physical|물리] 피해가 커지고, 대신 그 외 모든 유형의 피해가 줄어듭니다.",
+    "SupportText": "피해를 주는 모든 스킬에 적용됩니다. [Physical|물리] 피해가 커지고, 대신 그 외 모든 [DamageTypes|피해 유형]의 피해가 줄어듭니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -4185,7 +4185,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 423
     },
-    "SupportText": "[Strike|타격] 스킬에 적용됩니다. 보조 대상 스킬로 처치하는 희귀 적의 속성을 훔칩니다.",
+    "SupportText": "[Strike|타격] 스킬에 적용됩니다. 보조 대상 스킬로 처치하는 [Rarity|희귀] 적의 [MonsterModifiers|속성]을 훔칩니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -6852,7 +6852,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 435
     },
-    "SupportText": "적을 명중하는 모든 스킬에 적용되어, 적 감전 시 마나를 재생하게 합니다. 소환수 생성 스킬이나 토템이나 덫 스킬에는 적용되지 않습니다.",
+    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용되어, 적 [Shock|감전] 시 마나를 재생하게 합니다. [Minion|소환수] 생성 스킬이나 [Totem|토템]이나 [Trap|덫] 스킬에는 적용되지 않습니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -6956,7 +6956,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 438
     },
-    "SupportText": "적을 명중하는 모든 스킬에 적용되어, 스킬이 유발하는 [Freeze|동결]의 지속시간을 연장합니다.",
+    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용되어, 스킬이 유발하는 [Freeze|동결]의 지속시간을 연장합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -7240,6 +7240,10 @@
       {
         "TableName": null,
         "RowIndex": 231
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -7250,7 +7254,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 444
     },
-    "SupportText": "주문 스킬에 적용됩니다. 보조 대상 주문 시전 시 다른 스킬들의 시전 시간이 짧아집니다. 토템 스킬, 집중 유지 스킬, 발동형 스킬, 즉시 시전 스킬, 점유가 있는 스킬에는 적용되지 않습니다.",
+    "SupportText": "[Spell|주문] 스킬에 적용됩니다. 보조 대상 주문 시전 시 다른 스킬들의 시전 시간이 짧아집니다. [Totem|토템] 스킬, [Channelling|집중 유지] 스킬, [Trigger|발동형] 스킬, 즉시 시전 스킬, [Reservation|점유]가 있는 스킬에는 적용되지 않습니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -7313,6 +7317,10 @@
       {
         "TableName": null,
         "RowIndex": 232
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -7358,6 +7366,10 @@
       {
         "TableName": null,
         "RowIndex": 233
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -7399,6 +7411,10 @@
       {
         "TableName": null,
         "RowIndex": 234
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -7440,6 +7456,10 @@
       {
         "TableName": null,
         "RowIndex": 235
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -7481,6 +7501,10 @@
       {
         "TableName": null,
         "RowIndex": 236
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -7522,6 +7546,10 @@
       {
         "TableName": null,
         "RowIndex": 238
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -7563,6 +7591,10 @@
       {
         "TableName": null,
         "RowIndex": 237
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -7615,7 +7647,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7635,7 +7667,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7655,7 +7687,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7675,7 +7707,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7695,7 +7727,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7715,7 +7747,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7735,7 +7767,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7755,7 +7787,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7775,7 +7807,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7795,7 +7827,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7815,7 +7847,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7835,7 +7867,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7855,7 +7887,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7875,7 +7907,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7895,7 +7927,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7915,7 +7947,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7935,7 +7967,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7955,7 +7987,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7975,7 +8007,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -7995,7 +8027,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8015,7 +8047,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8035,7 +8067,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8055,7 +8087,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8075,7 +8107,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8095,7 +8127,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8115,7 +8147,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8135,7 +8167,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8155,7 +8187,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8183,7 +8215,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8211,7 +8243,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8239,7 +8271,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8267,7 +8299,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8295,7 +8327,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8323,7 +8355,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8351,7 +8383,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8379,7 +8411,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8407,7 +8439,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8427,7 +8459,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8447,7 +8479,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8467,7 +8499,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8487,7 +8519,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8507,7 +8539,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8527,7 +8559,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8547,7 +8579,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8567,7 +8599,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 4516
+      "RowIndex": 4517
     },
     "SupportText": "",
     "SupportName": "",
@@ -8620,6 +8652,10 @@
       {
         "TableName": null,
         "RowIndex": 240
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -8661,6 +8697,10 @@
       {
         "TableName": null,
         "RowIndex": 244
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -8702,6 +8742,10 @@
       {
         "TableName": null,
         "RowIndex": 246
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -8743,6 +8787,10 @@
       {
         "TableName": null,
         "RowIndex": 248
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -8944,7 +8992,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5193
+      "RowIndex": 5194
     },
     "SupportText": "",
     "SupportName": "",
@@ -8976,7 +9024,7 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5194
+        "RowIndex": 5195
       },
       {
         "TableName": null,
@@ -9360,10 +9408,6 @@
       {
         "TableName": "GemTags",
         "Id": "area"
-      },
-      {
-        "TableName": "GemTags",
-        "Id": "aura"
       },
       {
         "TableName": "GemTags",
@@ -9829,7 +9873,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 449
     },
-    "SupportText": "적을 명중하는 모든 스킬에 적용됩니다. 보조 대상 스킬의 [Critical|치명타 명중] 빈도가 줄어들지만 치명타 명중 시 주는 피해는 커집니다.",
+    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬의 [Critical|치명타 명중] 빈도가 줄어들지만 [Critical|치명타 명중] 시 주는 피해는 커집니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -9939,7 +9983,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5211
+      "RowIndex": 5212
     },
     "SupportText": "",
     "SupportName": "",
@@ -10023,7 +10067,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5212
+      "RowIndex": 5213
     },
     "SupportText": "",
     "SupportName": "",
@@ -10255,7 +10299,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5218
+      "RowIndex": 5219
     },
     "SupportText": "",
     "SupportName": "",
@@ -10299,7 +10343,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5219
+      "RowIndex": 5220
     },
     "SupportText": "",
     "SupportName": "",
@@ -10371,7 +10415,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5221
+      "RowIndex": 5222
     },
     "SupportText": "",
     "SupportName": "",
@@ -10523,7 +10567,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5223
+      "RowIndex": 5224
     },
     "SupportText": "",
     "SupportName": "",
@@ -10612,7 +10656,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5224
+      "RowIndex": 5225
     },
     "SupportText": "",
     "SupportName": "",
@@ -10765,7 +10809,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5225
+      "RowIndex": 5226
     },
     "SupportText": "",
     "SupportName": "",
@@ -10825,7 +10869,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5226
+      "RowIndex": 5227
     },
     "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 [Freeze|동결]된 적을 [Ignite|점화]할 때 [Freeze|동결]을 [Consume|소모]하여 [Ignite|점화] 효과를 향상시킵니다.",
     "SupportName": "",
@@ -10857,7 +10901,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5227
+      "RowIndex": 5228
     },
     "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 [Ignite|점화]된 적에게 유발하는 [Shock|감전]이 연장됩니다.",
     "SupportName": "",
@@ -10885,9 +10929,9 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5228
+      "RowIndex": 5229
     },
-    "SupportText": "한 번에 활성화되는 효과의 개수가 제한되어 있는 스킬에 적용되어, 제한을 늘려 주고 대신 지속시간을 줄입니다. \"제한\"이라는 단어를 사용하는 경우에만 적용됩니다.",
+    "SupportText": "한 번에 활성화되는 효과의 개수가 [Limit|제한]되어 있는 스킬에 적용되어, [Limit|제한]을 늘려 주고 대신 지속시간을 줄입니다. \"[Limit|제한]\"이라는 단어를 사용하는 경우에만 적용됩니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -10905,9 +10949,9 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5229
+      "RowIndex": 5230
     },
-    "SupportText": "피해를 줄 수 있는 모든 스킬에 적용됩니다. 보조 대상 스킬로 주는 [Lightning|번개] 피해가 [Electrocute|전기 처형]을 유발할 수 있지만, 보조 대상 스킬이 주는 피해가 줄어듭니다.",
+    "SupportText": "피해를 줄 수 있는 모든 스킬에 적용됩니다. 보조 대상 스킬로 주는 [Lightning|번개] 피해가 [Electrocute|전기 처형]을 유발할 수 있지만, 보조 대상 스킬이 [Shock|감전]을 유발할 수 없습니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -10969,7 +11013,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5251
+      "RowIndex": 5252
     },
     "SupportText": "사용할 수 있는 모든 스킬에 적용됩니다. 플레이어가 스킬을 사용하는 동안 [Stun|기절]하면 [EnergyShield|에너지 보호막] 재충전이 즉시 시작됩니다.",
     "SupportName": "",
@@ -10989,7 +11033,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5252
+      "RowIndex": 5253
     },
     "SupportText": "사용할 수 있는 모든 스킬에 적용됩니다. 플레이어가 스킬을 사용하는 동안 [Stun|기절]하면 광풍이 일어 적들을 [Knockback|밀어냅니다].",
     "SupportName": "",
@@ -11017,7 +11061,7 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5256
+        "RowIndex": 5257
       }
     ]
   },
@@ -11026,7 +11070,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5253
+      "RowIndex": 5254
     },
     "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 [Frozen|동결]된 적에게 주는 피해가 커지지만, 적의 [Freeze|동결]을 소모합니다. [Freeze|동결]을 [Consume|소모]하는 스킬에는 적용되지 않습니다.",
     "SupportName": "",
@@ -11125,7 +11169,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 458
     },
-    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬로 [Ignite|점화]된 적을 처치하면 폭발이 일어납니다.",
+    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 스킬로 [Ignite|점화]하는 적이 사망 시 일정 확률로 폭발합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -11192,7 +11236,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5204
+      "RowIndex": 5205
     },
     "SupportText": "",
     "SupportName": "",
@@ -11527,7 +11571,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5257
+      "RowIndex": 5258
     },
     "SupportText": "적을 명중하는 모든 스킬에 적용되어, 스킬이 [Stun|기절]을 더 빨리 축적하게 합니다.",
     "SupportName": "",
@@ -11547,7 +11591,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5258
+      "RowIndex": 5259
     },
     "SupportText": "이동하면서 사용할 수 있는 스킬에 적용되어, 스킬을 사용하는 동안 더 빨리 이동하게 해 줍니다.",
     "SupportName": "",
@@ -11732,7 +11776,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5260
+      "RowIndex": 5261
     },
     "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 스킬로 적을 처치했을 때 획득하는 마나 플라스크 충전이 증가합니다.",
     "SupportName": "",
@@ -11752,7 +11796,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5261
+      "RowIndex": 5262
     },
     "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 스킬로 적을 처치했을 때 획득하는 생명력 플라스크 충전이 증가합니다.",
     "SupportName": "",
@@ -11832,7 +11876,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5267
+      "RowIndex": 5268
     },
     "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 스킬이 적의 [Armour|방어구]를 [ArmourBreak|완전히 파괴]하면 일정 확률로 [Charges|인내 충전]을 획득합니다.",
     "SupportName": "",
@@ -11852,7 +11896,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5269
+      "RowIndex": 5270
     },
     "SupportText": "[Curse|저주] 스킬에 적용되어 위력을 증대합니다.",
     "SupportName": "",
@@ -11876,7 +11920,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5270
+      "RowIndex": 5271
     },
     "SupportText": "[Corpse|시신]을 소모하는 스킬에 적용됩니다. 스킬이 일정 확률로 [Corpse|시신]을 파괴하지 않고 효과를 발휘합니다.",
     "SupportName": "",
@@ -11896,7 +11940,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5274
+      "RowIndex": 5275
     },
     "SupportText": "[Curse|저주] 스킬에 적용됩니다. 저주받은 적이 부패하며 지속 [Chaos|카오스] 피해를 받습니다.",
     "SupportName": "",
@@ -11998,7 +12042,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 468
     },
-    "SupportText": "[Persistent|유지형] [Minion|소환수]를 생성하는 스킬에 적용됩니다. [Minion|소환수]들이 짧은 시간 동안 계속 싸우다가 치명상을 입으면 죽습니다.",
+    "SupportText": "[Persistent|유지형] [Minion|소환수]를 생성하는 스킬에 적용됩니다. [Minion|소환수]들이 치명상을 입으면 짧은 시간 동안 계속 싸우다가 죽습니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -12068,7 +12112,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5276
+      "RowIndex": 5277
     },
     "SupportText": "",
     "SupportName": "",
@@ -12132,7 +12176,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5278
+      "RowIndex": 5279
     },
     "SupportText": "",
     "SupportName": "",
@@ -12168,7 +12212,11 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5279
+        "RowIndex": 5280
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -12261,7 +12309,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5281
+      "RowIndex": 5282
     },
     "SupportText": "",
     "SupportName": "",
@@ -12337,7 +12385,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5282
+      "RowIndex": 5283
     },
     "SupportText": "",
     "SupportName": "",
@@ -12361,7 +12409,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5283
+      "RowIndex": 5284
     },
     "SupportText": "",
     "SupportName": "",
@@ -12397,7 +12445,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5284
+      "RowIndex": 5285
     },
     "SupportText": "",
     "SupportName": "",
@@ -12434,7 +12482,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5285
+      "RowIndex": 5286
     },
     "SupportText": "",
     "SupportName": "",
@@ -12470,7 +12518,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5286
+      "RowIndex": 5287
     },
     "SupportText": "",
     "SupportName": "",
@@ -12510,7 +12558,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5287
+      "RowIndex": 5288
     },
     "SupportText": "",
     "SupportName": "",
@@ -12555,7 +12603,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5288
+      "RowIndex": 5289
     },
     "SupportText": "",
     "SupportName": "",
@@ -12595,7 +12643,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5289
+      "RowIndex": 5290
     },
     "SupportText": "",
     "SupportName": "",
@@ -12631,7 +12679,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5290
+      "RowIndex": 5291
     },
     "SupportText": "",
     "SupportName": "",
@@ -12675,7 +12723,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5291
+      "RowIndex": 5292
     },
     "SupportText": "",
     "SupportName": "",
@@ -12711,7 +12759,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5292
+      "RowIndex": 5293
     },
     "SupportText": "",
     "SupportName": "",
@@ -12755,7 +12803,7 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5293
+        "RowIndex": 5294
       }
     ]
   },
@@ -12764,7 +12812,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5294
+      "RowIndex": 5295
     },
     "SupportText": "",
     "SupportName": "",
@@ -13505,7 +13553,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 477
     },
-    "SupportText": "[Warcry|함성] 스킬에 적용됩니다. 함성 사용 시 [Rage|격노]를 획득합니다.",
+    "SupportText": "[Warcry|함성] 스킬에 적용됩니다. 함성 사용 시 집계된 몬스터 [Power|위세]에 따라 [Rage|격노]를 획득합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -14355,7 +14403,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5316
+      "RowIndex": 5317
     },
     "SupportText": "",
     "SupportName": "",
@@ -14383,7 +14431,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5325
+      "RowIndex": 5326
     },
     "SupportText": "",
     "SupportName": "",
@@ -14423,7 +14471,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5326
+      "RowIndex": 5327
     },
     "SupportText": "",
     "SupportName": "",
@@ -14463,7 +14511,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5327
+      "RowIndex": 5328
     },
     "SupportText": "",
     "SupportName": "",
@@ -14503,7 +14551,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5328
+      "RowIndex": 5329
     },
     "SupportText": "",
     "SupportName": "",
@@ -14539,7 +14587,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5329
+      "RowIndex": 5330
     },
     "SupportText": "",
     "SupportName": "",
@@ -14575,7 +14623,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5323
+      "RowIndex": 5324
     },
     "SupportText": "",
     "SupportName": "",
@@ -14626,10 +14674,6 @@
       },
       {
         "TableName": "GemTags",
-        "Id": "physical"
-      },
-      {
-        "TableName": "GemTags",
         "Id": "lightning"
       },
       {
@@ -14661,7 +14705,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 480
     },
-    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 적의 [Armour|방어구]를 [ArmourBreak|완전히 파괴]하면 불타는 폭발이 일어납니다.",
+    "SupportText": "[Attack|공격]에 적용됩니다. 공격이 적의 [Armour|방어구]를 [ArmourBreak|완전히 파괴]하면 [Fire|화염] 폭발이 일어납니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -14699,7 +14743,7 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5298
+        "RowIndex": 5299
       }
     ]
   },
@@ -14740,7 +14784,7 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5300
+        "RowIndex": 5301
       }
     ]
   },
@@ -14749,7 +14793,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5301
+      "RowIndex": 5302
     },
     "SupportText": "연계 공격 끝에 [FinalStrike|최후 타격]을 가하는 [Strike|타격]에 적용됩니다. [FinalStrike|최후 타격]을 연속으로 두 번 가할 수 있습니다.",
     "SupportName": "",
@@ -14781,9 +14825,9 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5302
+      "RowIndex": 5303
     },
-    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 주는 피해는 줄어들지만 적을 [Ignite|점화]할 때 [Exposure|화염 노출]을 유발합니다.",
+    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 적을 [Ignite|점화]할 때 [Exposure|화염 노출]을 유발합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -14809,9 +14853,9 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5303
+      "RowIndex": 5304
     },
-    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 주는 피해는 줄어들지만 적을 [Shock|감전]시킬 때 [Exposure|번개 노출]을 유발합니다.",
+    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 적을 [Shock|감전]시킬 때 [Exposure|번개 노출]을 유발합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -14837,9 +14881,9 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5304
+      "RowIndex": 5305
     },
-    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 주는 피해는 줄어들지만 적에게 [Shock|치명타를 명중]시킬 때 [Exposure|냉기 노출]을 유발합니다.",
+    "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 적에게 [Critical|치명타를 명중]시킬 때 [Exposure|냉기 노출]을 유발합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -14869,7 +14913,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5306
+      "RowIndex": 5307
     },
     "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 주는 피해는 줄어들지만 효력이 더 큰 [Poison|중독]을 유발합니다.",
     "SupportName": "",
@@ -14893,7 +14937,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5307
+      "RowIndex": 5308
     },
     "SupportText": "적을 [HitDamage|명중]하는 모든 스킬에 적용됩니다. 보조 대상 스킬이 주는 피해는 줄어들지만 효력이 더 큰 [Bleeding|출혈]을 유발합니다.",
     "SupportName": "",
@@ -14917,7 +14961,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5308
+      "RowIndex": 5309
     },
     "SupportText": "[Warcry|함성]에 적용됩니다. 함성이 효과 범위 내의 적들에게 [CorruptedBlood|타락한 피]를 유발합니다.",
     "SupportName": "",
@@ -14949,9 +14993,9 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5309
+      "RowIndex": 5310
     },
-    "SupportText": "완벽한 타이밍에 방출하면 특수 효과를 발휘하는 [Channelling|집중 유지] 스킬에 적용됩니다. 스킬을 완벽한 타이밍에 방출했을 때 주는 피해가 훨씬 커지지만, 완벽한 타이밍의 기간이 짧아집니다.",
+    "SupportText": "[PerfectTiming|완벽한 타이밍]에 방출하면 특수 효과를 발휘하는 [Channelling|집중 유지] 스킬에 적용됩니다. 스킬을 [PerfectTiming|완벽한 타이밍]에 방출했을 때 주는 피해가 훨씬 커지지만, [PerfectTiming|완벽한 타이밍]의 기간이 짧아집니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -14973,7 +15017,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5310
+      "RowIndex": 5311
     },
     "SupportText": "[Fire|화염] 스킬에 적용되어, 레벨을 1 추가합니다.",
     "SupportName": "",
@@ -14997,7 +15041,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5311
+      "RowIndex": 5312
     },
     "SupportText": "[Cold|냉기] 스킬에 적용되어, 레벨을 1 추가합니다.",
     "SupportName": "",
@@ -15021,7 +15065,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5312
+      "RowIndex": 5313
     },
     "SupportText": "[Lightning|번개] 스킬에 적용되어, 레벨을 1 추가합니다.",
     "SupportName": "",
@@ -15045,7 +15089,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5313
+      "RowIndex": 5314
     },
     "SupportText": "[Chaos|카오스] 스킬에 적용되어, 레벨을 1 추가합니다.",
     "SupportName": "",
@@ -15069,7 +15113,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5314
+      "RowIndex": 5315
     },
     "SupportText": "[Physical|물리] 스킬에 적용되어, 레벨을 1 추가합니다.",
     "SupportName": "",
@@ -15093,7 +15137,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5315
+      "RowIndex": 5316
     },
     "SupportText": "[Minion|소환수] 스킬에 적용되어, 레벨을 1 추가합니다.",
     "SupportName": "",
@@ -15621,7 +15665,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5322
+      "RowIndex": 5323
     },
     "SupportText": "",
     "SupportName": "",
@@ -15689,7 +15733,7 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5324
+        "RowIndex": 5325
       }
     ]
   },
@@ -15724,7 +15768,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 497
     },
-    "SupportText": "[Attack|공격] 스킬에 적용됩니다. 스킬이 희귀 및 고유 적을 [HitDamage|명중]하면 [CullingStrike|마무리 타격]을 가합니다.",
+    "SupportText": "[Attack|공격] 스킬에 적용됩니다. 스킬이 [Rarity|희귀 및 고유] 적을 [HitDamage|명중]하면 [CullingStrike|마무리 타격]을 가합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -15888,7 +15932,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 504
     },
-    "SupportText": "[Curse|저주] 스킬에 적용됩니다. 보조 대상 [Curse|저주] 스킬의 활성화 지연시간이 없어지고, 대신 일정 범위를 생성하여 그 안에 있는 적을 저주합니다.",
+    "SupportText": "[Curse|저주] 스킬에 적용됩니다. 보조 대상 [Curse|저주] 스킬의 활성화 지연시간이 없어지고, 대신 일정 범위를 생성하여 그 안에 있는 적을 [Curse|저주]합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -15932,7 +15976,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 506
     },
-    "SupportText": "재사용 대기시간이 있는 스킬에 적용됩니다. 재사용 대기시간이 회복되는 속도가 빨라집니다.",
+    "SupportText": "재사용 대기시간이 있는 스킬에 적용됩니다. [CooldownRecovery|재사용 대기시간이 회복되는 속도]가 빨라집니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -15950,7 +15994,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5330
+      "RowIndex": 5331
     },
     "SupportText": "",
     "SupportName": "",
@@ -16002,7 +16046,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5332
+      "RowIndex": 5333
     },
     "SupportText": "",
     "SupportName": "",
@@ -16169,7 +16213,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5333
+      "RowIndex": 5334
     },
     "SupportText": "",
     "SupportName": "",
@@ -16213,7 +16257,7 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5334
+        "RowIndex": 5335
       }
     ]
   },
@@ -16222,7 +16266,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5335
+      "RowIndex": 5336
     },
     "SupportText": "",
     "SupportName": "",
@@ -16266,7 +16310,7 @@
     "Unk100": [
       {
         "TableName": null,
-        "RowIndex": 5336
+        "RowIndex": 5337
       }
     ]
   },
@@ -16275,7 +16319,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5337
+      "RowIndex": 5338
     },
     "SupportText": "",
     "SupportName": "",
@@ -16437,7 +16481,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5344
+      "RowIndex": 5345
     },
     "SupportText": "",
     "SupportName": "",
@@ -16477,7 +16521,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5339
+      "RowIndex": 5340
     },
     "SupportText": "",
     "SupportName": "",
@@ -16509,7 +16553,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5340
+      "RowIndex": 5341
     },
     "SupportText": "",
     "SupportName": "",
@@ -16541,7 +16585,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5338
+      "RowIndex": 5339
     },
     "SupportText": "",
     "SupportName": "",
@@ -16565,7 +16609,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5342
+      "RowIndex": 5343
     },
     "SupportText": "",
     "SupportName": "",
@@ -16597,7 +16641,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5299
+      "RowIndex": 5300
     },
     "SupportText": "",
     "SupportName": "",
@@ -16718,6 +16762,10 @@
       {
         "TableName": null,
         "RowIndex": 242
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -16798,7 +16846,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5346
+      "RowIndex": 5347
     },
     "SupportText": "",
     "SupportName": "",
@@ -16826,7 +16874,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5345
+      "RowIndex": 5346
     },
     "SupportText": "",
     "SupportName": "",
@@ -17477,6 +17525,10 @@
       {
         "TableName": null,
         "RowIndex": 351
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -17866,6 +17918,10 @@
       {
         "TableName": null,
         "RowIndex": 365
+      },
+      {
+        "TableName": null,
+        "RowIndex": 551
       }
     ]
   },
@@ -18020,7 +18076,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 523
     },
-    "SupportText": "유탄을 발사하는 스킬에 적용되어, 유탄의 지속시간과 피해를 크게 늘려 줍니다.",
+    "SupportText": "[Grenade|유탄]을 발사하는 스킬에 적용되어, [Grenade|유탄]의 지속시간과 피해를 크게 늘려 줍니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -18044,7 +18100,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 524
     },
-    "SupportText": "유탄을 발사하는 스킬에 적용됩니다. 발사된 유탄이 일정 확률로 한 번 더 작동하지만, 재사용 대기시간은 길어집니다.",
+    "SupportText": "[Grenade|유탄]을 발사하는 스킬에 적용됩니다. 발사된 [Grenade|유탄]이 일정 확률로 한 번 더 작동하지만, 재사용 대기시간은 길어집니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -18116,7 +18172,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 527
     },
-    "SupportText": "적을 [HitDamage|명중]하는 [Spell|주문] 스킬에 적용되어, 피해를 높여 주고 대신 시전 속도를 늘립니다.",
+    "SupportText": "직접 시전하여 적을 [HitDamage|명중]하는 [Spell|주문] 스킬에 적용되어, 피해를 높여 주고 대신 시전 속도를 늘립니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -18228,7 +18284,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 532
     },
-    "SupportText": "피해를 주는 스킬에 적용됩니다. [Recently|최근 4초 이내] 사용한 원소 유형이 다른 스킬의 수에 따라 주는 [ElementalDamage|원소] 피해가 커집니다. [Minion|소환수] 스킬에는 적용되지 않습니다.",
+    "SupportText": "피해를 주는 스킬에 적용됩니다. [Recently|최근 4초 이내] 사용한 [ElementalDamage|원소] 유형이 다른 스킬의 수에 따라 주는 [ElementalDamage|원소] 피해가 커집니다. [Minion|소환수] 스킬에는 적용되지 않습니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -18248,7 +18304,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 533
     },
-    "SupportText": "[Spell|주문] 스킬에 적용됩니다. 보조 대상 [Spell|주문] 사용 시 생명력의 일부를 [Sacrifice|희생]하고 대신 추가 [Chaos|카오스] 피해를 획득합니다. [Persistent|유지형] 스킬이나 [Minion|소환수] 스킬, 발동형 스킬에는 적용되지 않습니다.",
+    "SupportText": "[Spell|주문] 스킬에 적용됩니다. 보조 대상 [Spell|주문] 사용 시 생명력의 일부를 [Sacrifice|희생]하고 대신 추가 [Chaos|카오스] 피해를 획득합니다. [Persistent|유지형] 스킬이나 [Minion|소환수] 스킬, [Trigger|발동형] 스킬에는 적용되지 않습니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -18452,7 +18508,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 542
     },
-    "SupportText": "[Meta|메타] 스킬에 적용됩니다. 보조 대상 스킬이 다른 스킬을 발동시키거나 기원할 때 일정 확률로 소모한 [Energy|에너지]의 일부를 반환합니다.",
+    "SupportText": "[Meta|메타] 스킬에 적용됩니다. 보조 대상 스킬이 다른 스킬을 [Trigger|발동]시키거나 [Invoke|기원]할 때 일정 확률로 소모한 [Energy|에너지]의 일부를 반환합니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -18572,7 +18628,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 548
     },
-    "SupportText": "Supports [Minion] Skills. Supported [Minion|Minions] deal significantly more damage with their Command Skills.",
+    "SupportText": "[Minion|소환수] 스킬에 적용됩니다. 보조 대상 [Minion|소환수]가 명령 스킬로 주는 피해가 대폭 커집니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -18592,7 +18648,7 @@
       "TableName": "GrantedEffects",
       "RowIndex": 549
     },
-    "SupportText": "Supports [Slam] Skills you use yourself. Supported Skills gain multiple independent chances to cause [Aftershock|Aftershocks], but deal less Damage.",
+    "SupportText": "직접 사용하는 [Slam|강타] 스킬에 적용됩니다. 보조 대상 스킬에 독립적인 [Aftershock|여진] 유발 기회가 여러 번 생기지만, 스킬이 주는 피해는 줄어듭니다.",
     "SupportName": "",
     "GemTags": [
       {
@@ -18622,7 +18678,7 @@
     "Name": "",
     "GrantedEffect": {
       "TableName": "GrantedEffects",
-      "RowIndex": 5295
+      "RowIndex": 5296
     },
     "SupportText": "",
     "SupportName": "",

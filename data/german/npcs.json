@@ -11492,11 +11492,11 @@
   },
   {
     "Id": "Metadata/NPC/Four_Act3/AggoratPresentGlyph01",
-    "Name": "Antike Schnitzerei",
+    "Name": "Antike Inschrift",
     "Metadata": "Metadata/NPC/Four_Act3/AggoratPresentGlyph01",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "Antike Schnitzerei",
+    "ShortName": "Antike Inschrift",
     "Unk006": 3,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -11514,11 +11514,11 @@
   },
   {
     "Id": "Metadata/NPC/Four_Act3/AggoratPresentGlyph02",
-    "Name": "Alte Schnitzerei",
+    "Name": "Alte Inschrift",
     "Metadata": "Metadata/NPC/Four_Act3/AggoratPresentGlyph02",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "Alte Schnitzerei",
+    "ShortName": "Alte Inschrift",
     "Unk006": 3,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -11536,11 +11536,11 @@
   },
   {
     "Id": "Metadata/NPC/Four_Act3/AggoratPresentGlyph03",
-    "Name": "Verwitterte Schnitzerei",
+    "Name": "Verwitterte Inschrift",
     "Metadata": "Metadata/NPC/Four_Act3/AggoratPresentGlyph03",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "Verwitterte Schnitzerei",
+    "ShortName": "Verwitterte Inschrift",
     "Unk006": 3,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -11558,11 +11558,11 @@
   },
   {
     "Id": "Metadata/NPC/Four_Act3/AggoratPresentGlyph04",
-    "Name": "Jüngere Schnitzerei",
+    "Name": "Jüngere Inschrift",
     "Metadata": "Metadata/NPC/Four_Act3/AggoratPresentGlyph04",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "Jüngere Schnitzerei",
+    "ShortName": "Jüngere Inschrift",
     "Unk006": 3,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -12680,7 +12680,10 @@
       "RowIndex": 6
     },
     "Unk013": false,
-    "Unk014": null,
+    "Unk014": {
+      "TableName": null,
+      "RowIndex": 0
+    },
     "Gender": null,
     "Unk016": false
   },

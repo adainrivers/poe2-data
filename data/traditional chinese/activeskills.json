@@ -20031,8 +20031,8 @@
   },
   {
     "Id": "piety_ice_shot",
-    "DisplayedName": "冰霜射擊",
-    "Description": "射出一發帶有冰霜能量的箭矢，部分物理傷害轉為冰冷傷害且在擊中敵人之後粉碎為冰屑並向後散射，對其背後扇形範圍內的其他敵人造成等同全部物理傷害的冰冷傷害。同時被擊中者所站立處的地面也會結冰。",
+    "DisplayedName": "",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 91
@@ -20497,7 +20497,7 @@
   {
     "Id": "fire_weakness",
     "DisplayedName": "易燃",
-    "Description": "在短暫延遲後，對目標區域降下[Curse|詛咒]，降低目標的[Fire|火焰]抗性。",
+    "Description": "在短暫延遲後，對一片區域內的所有目標降下[Curse|詛咒]，降低其[Fire|火焰][Resistances|抗性]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 95
@@ -20637,7 +20637,7 @@
   {
     "Id": "cold_weakness",
     "DisplayedName": "凍傷",
-    "Description": "在短暫延遲後，對目標區域降下[Curse|詛咒]，降低目標的[Cold|冰冷]抗性。",
+    "Description": "在短暫延遲後，對一片區域內的所有目標降下[Curse|詛咒]，降低其[Cold|冰冷][Resistances|抗性]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 96
@@ -20777,7 +20777,7 @@
   {
     "Id": "lightning_weakness",
     "DisplayedName": "導電",
-    "Description": "在短暫延遲後，對目標區域降下[Curse|詛咒]，降低目標的[Lightning|閃電]抗性。",
+    "Description": "在短暫延遲後，對一片區域內的所有目標降下[Curse|詛咒]，降低其[Lightning|閃電][Resistances|抗性]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 97
@@ -28096,7 +28096,7 @@
   {
     "Id": "herald_of_ash",
     "DisplayedName": "灰燼之捷",
-    "Description": "啟動期間，用攻擊對敵人造成足夠的溢出傷害時會引發爆炸，並根據溢出的傷害對附近的敵人施加[Ignite|點燃]。",
+    "Description": "啟動期間，用攻擊對敵人造成足夠的[Overkill|溢出]傷害時會引發爆炸，並根據[Overkill|溢出]的傷害對附近的敵人施加[Ignite|點燃]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 137
@@ -30136,7 +30136,7 @@
   },
   {
     "Id": "monster_mortar",
-    "DisplayedName": "盜獵者印記",
+    "DisplayedName": "",
     "Description": "通用的怪物砲擊技能。與怪物投射物相似，但帶有衝擊效果。",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -33992,7 +33992,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 194300,
+    "Unk030": 194262,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 344
@@ -34947,7 +34947,7 @@
   {
     "Id": "vaal_earthquake",
     "DisplayedName": "瓦爾．震地",
-    "Description": "重擊地面，對周圍造成大量傷害，並在多處地面上留下裂痕。在一小段時間後裂痕會爆發成餘震。你的腳步會使先前已爆發裂痕的地面碎裂，對你附近造成傷害持續一段時間。此效果在第二階段持續時間後結束，或在最大次餘震後結束。限定斧、錘、權杖、長杖或空手。",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 181
@@ -36633,7 +36633,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 205956,
+    "Unk030": 205676,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 335
@@ -45352,7 +45352,7 @@
   {
     "Id": "despair",
     "DisplayedName": "絕望",
-    "Description": "在短暫延遲後，對目標區域降下[Curse|詛咒]，降低目標的[Chaos|混沌]抗性。",
+    "Description": "在短暫延遲後，對一片區域內的所有目標降下[Curse|詛咒]，降低其[Chaos|混沌][Resistances|抗性]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 271
@@ -56810,7 +56810,7 @@
   {
     "Id": "artillery_ballista_projectile",
     "DisplayedName": "圍城爆發",
-    "Description": "瞄準天空並射出一發自動尋敵的彈頭，在目標範圍內所有敵人附近投下一支弩箭。這些弩箭會插入地面，並在短暫延遲後爆炸。",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 456
@@ -58094,7 +58094,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 281336,
+    "Unk030": 280976,
     "AudioEvent": null,
     "Unk032": 1362,
     "Unk033": null,
@@ -65970,7 +65970,7 @@
   {
     "Id": "eye_of_winter_new",
     "DisplayedName": "凜冬之眼",
-    "Description": "發射一個本身不會攻擊敵人的眼球[投射物]。眼球在飛行過程中會持續釋放出呈螺旋形分布、造成傷害的碎片[Projectile|投射物]，並在抵達飛行終點時爆發出大量碎片。如果眼球通過[ElementalGround|元素地面]，則會對應該地面的效果將其施加於附近的敵人，使碎片造成對應屬性且更高的傷害。",
+    "Description": "發射一個本身不會[HitDamage|擊中]敵人的眼球[Projectile|投射物]。眼球在飛行過程中會持續釋放出呈螺旋形分布、造成傷害的碎片[Projectile|投射物]，並在抵達飛行終點時爆發出大量碎片。如果眼球通過[ElementalGround|元素地面]，則會對應該地面的效果將其施加於附近的敵人，使碎片造成對應[DamageTypes|類型]且更高的傷害。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 695
@@ -66759,10 +66759,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 6
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 27
       },
       {
         "TableName": "ActiveSkillType",
@@ -69022,7 +69018,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 328008,
+    "Unk030": 327706,
     "AudioEvent": null,
     "Unk032": 1362,
     "Unk033": null,
@@ -69700,7 +69696,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 330692,
+    "Unk030": 330390,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 360
@@ -69952,7 +69948,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 331818,
+    "Unk030": 331516,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 362
@@ -70546,7 +70542,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 513
     },
-    "Unk032": 334736,
+    "Unk032": 334434,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70699,7 +70695,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 518
     },
-    "Unk032": 335502,
+    "Unk032": 335200,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70772,7 +70768,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 529
     },
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70925,7 +70921,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 525
     },
-    "Unk032": 336886,
+    "Unk032": 336584,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70999,7 +70995,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71018,7 +71014,8 @@
     "Icon_DDSFile": "Art/2DArt/SkillIcons/PowerShotPermafrost.dds",
     "ActiveSkillTargetTypes": [
       1,
-      2
+      2,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71168,7 +71165,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 522
     },
-    "Unk032": 338206,
+    "Unk032": 337908,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71188,7 +71185,8 @@
     "ActiveSkillTargetTypes": [
       1,
       23,
-      24
+      24,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71238,7 +71236,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71387,7 +71385,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 536
     },
-    "Unk032": 339448,
+    "Unk032": 339154,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71398,7 +71396,7 @@
   {
     "Id": "power_shot_stormblast_ammo",
     "DisplayedName": "電漿強擊矢彈藥",
-    "Description": "使用不穩定的弩箭[Ammunition|裝填你的十字弓]，該弩箭需要較長的充能時間才能發射，但會造成毀滅性的傷害。弩箭會穿透敵人，並在擊中地形時爆炸。",
+    "Description": "使用不穩定的弩箭[Ammunition|裝填你的十字弓]，該弩箭需要較長的充能時間才能發射，但會造成毀滅性的傷害。弩箭會[Pierce|穿透]敵人，並在擊中地形時爆炸。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 457
@@ -71457,7 +71455,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71825,7 +71823,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72053,7 +72051,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72286,7 +72284,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72513,7 +72511,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72894,7 +72892,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 346860,
+    "Unk030": 346700,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 326
@@ -73576,7 +73574,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 350610,
+    "Unk030": 350450,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 328
@@ -77494,7 +77492,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77713,7 +77711,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77940,7 +77938,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78163,7 +78161,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78318,7 +78316,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 514
     },
-    "Unk032": 373312,
+    "Unk032": 373152,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78481,7 +78479,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 506
     },
-    "Unk032": 374126,
+    "Unk032": 373966,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78551,7 +78549,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78710,7 +78708,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 519
     },
-    "Unk032": 375506,
+    "Unk032": 375346,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78780,7 +78778,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78943,7 +78941,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 503
     },
-    "Unk032": 376908,
+    "Unk032": 376748,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79013,7 +79011,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79176,7 +79174,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 534
     },
-    "Unk032": 378306,
+    "Unk032": 378146,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79246,7 +79244,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 336088,
+    "Unk032": 335786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79508,7 +79506,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 380116,
+    "Unk030": 379956,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 321
@@ -81697,7 +81695,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 389186,
+    "Unk030": 389026,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 330
@@ -81904,7 +81902,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 390318,
+    "Unk030": 390158,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 316
@@ -82183,7 +82181,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 391768,
+    "Unk030": 391608,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 337
@@ -82935,7 +82933,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 395476,
+    "Unk030": 395316,
     "AudioEvent": null,
     "Unk032": 1362,
     "Unk033": null,
@@ -84104,7 +84102,7 @@
       "TableName": "ActionTypes",
       "RowIndex": 234
     },
-    "Icon_DDSFile": "Art/2DArt/SkillIcons/LightningBoltSkillStaff.dds",
+    "Icon_DDSFile": "Art/2DArt/SkillIcons/GreaterLightningBoltSkill.dds",
     "ActiveSkillTargetTypes": [
       1,
       2
@@ -84727,7 +84725,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 402632,
+    "Unk030": 402576,
     "AudioEvent": null,
     "Unk032": 1362,
     "Unk033": null,
@@ -85089,7 +85087,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 404252,
+    "Unk030": 404196,
     "AudioEvent": null,
     "Unk032": 1362,
     "Unk033": null,
@@ -87029,7 +87027,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 413236,
+    "Unk032": 413180,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87342,7 +87340,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 523
     },
-    "Unk032": 414624,
+    "Unk032": 414568,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87546,7 +87544,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 524
     },
-    "Unk032": 414624,
+    "Unk032": 414568,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87557,7 +87555,7 @@
   {
     "Id": "flash_grenade",
     "DisplayedName": "閃光擲彈",
-    "Description": "發射一顆彈跳擲彈，引信燃燒完畢後引發會[Blind|致盲]且[Stun|擊暈]的爆炸。此爆炸同時能[Blind|致盲][Allies|友方]和敵人。",
+    "Description": "發射一顆彈跳[Grenade|擲彈]，引信燃燒完畢後引發會[Blind|致盲]且[Stun|擊暈]的爆炸。此爆炸同時能[Blind|致盲][Allies|友方]和敵人。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -87746,7 +87744,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 499
     },
-    "Unk032": 416410,
+    "Unk032": 416374,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87954,7 +87952,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 521
     },
-    "Unk032": 417662,
+    "Unk032": 417626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87965,7 +87963,7 @@
   {
     "Id": "oil_grenade",
     "DisplayedName": "燃油擲彈",
-    "Description": "發射一顆彈跳擲彈，在引信燃盡或撞擊敵人時爆發出[Oil|油]，造成少量傷害，但會覆蓋在[OilGround|地面]和附近的敵人身上。透過此方式製造的[Oil|油]可以被[Detonator|引爆器]技能或[BurningGround|燃燒地面][Ignite|點燃]。",
+    "Description": "發射一顆彈跳[Grenade|擲彈]，在引信燃盡或撞擊敵人時爆發出[Oil|油]，造成少量傷害，但[Oil|油]會覆蓋在[OilGround|地面]和附近的敵人身上。透過此方式製造的油可以被[Detonator|引爆器]技能或[IgnitedGround|點燃地面][Ignite|點燃]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -88162,7 +88160,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 527
     },
-    "Unk032": 418938,
+    "Unk032": 418924,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88173,7 +88171,7 @@
   {
     "Id": "oil_grenade_triggered",
     "DisplayedName": "燃油擲彈",
-    "Description": "發射一顆彈跳擲彈，在引信燃盡或撞擊敵人時爆發出[Oil|油]，造成少量傷害，但會覆蓋在[OilGround|地面]和附近的敵人身上。透過此方式製造的[Oil|油]可以被[Detonator|引爆器]技能或[BurningGround|燃燒地面][Ignite|點燃]。",
+    "Description": "發射一顆彈跳[Grenade|擲彈]，在引信燃盡或撞擊敵人時爆發出[Oil|油]，造成少量傷害，但[Oil|油]會覆蓋在[OilGround|地面]和附近的敵人身上。透過此方式製造的油可以被[Detonator|引爆器]技能或[IgnitedGround|點燃地面][Ignite|點燃]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -88370,7 +88368,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 528
     },
-    "Unk032": 418938,
+    "Unk032": 418924,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88381,7 +88379,7 @@
   {
     "Id": "fire_grenade",
     "DisplayedName": "火焰炸彈",
-    "Description": "發射一顆彈跳炸彈，經過一段延遲時間後，造成爆炸並產生燃燒地面。",
+    "Description": "以彈跳炸彈攻擊，擊中時引起爆炸。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -88566,7 +88564,7 @@
   {
     "Id": "shock_grenade",
     "DisplayedName": "電流擲彈",
-    "Description": "發射一顆彈跳擲彈，在引信燃燒完畢後釋放出一道會使人[Electrocute|觸電]的[Lightning|閃電]。",
+    "Description": "發射一顆彈跳[Grenade|擲彈]，在引信燃燒完畢後釋放出一道會使人[Electrocute|觸電]的[Lightning|閃電]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -88875,10 +88873,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 38
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 143
       },
       {
@@ -88906,7 +88900,12 @@
         "Id": "skill_effect_duration_+%"
       }
     ],
-    "MinionActiveSkillTypes": [],
+    "MinionActiveSkillTypes": [
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 38
+      }
+    ],
     "Unk018": true,
     "Unk019": true,
     "Unk020": [],
@@ -94895,7 +94894,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95025,7 +95024,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95151,7 +95150,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95277,7 +95276,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95411,7 +95410,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95537,7 +95536,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95663,7 +95662,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95797,7 +95796,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95923,7 +95922,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96049,7 +96048,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96183,7 +96182,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96309,7 +96308,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96435,7 +96434,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96565,7 +96564,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96695,7 +96694,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96825,7 +96824,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96951,7 +96950,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97085,7 +97084,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97231,7 +97230,7 @@
     "TransfigureBase": null,
     "Unk030": 1362,
     "AudioEvent": null,
-    "Unk032": 452336,
+    "Unk032": 452312,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -98064,7 +98063,7 @@
     },
     "Icon_DDSFile": "Art/2DArt/SkillIcons/BruteShockwaveTotem.dds",
     "ActiveSkillTargetTypes": [
-      10
+      1
     ],
     "ActiveSkillTypes": [
       {
@@ -98190,7 +98189,7 @@
   {
     "Id": "poison_vine_arrow",
     "DisplayedName": "藤蔓箭矢",
-    "Description": "朝空中發射一支箭矢，在短時間後落地，並在著地點生長出一株植物。該植物會生長出藤蔓並纏繞附近的敵人，[Slow|減緩]其移動速度並造成[Chaos|混沌]持續傷害。植物可以被施加[Poison|中毒]，使其造成更多傷害。",
+    "Description": "朝空中發射一支箭矢，在短時間後落地，對敵人造成傷害，並在著地點生長出一株植物。該植物會生長出藤蔓並纏繞附近的敵人，[Slow|減緩]其移動速度並造成[Chaos|混沌]持續傷害。植物可以被施加[Poison|中毒]，使其造成更多傷害。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 655
@@ -98969,6 +98968,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -99971,7 +99974,7 @@
   {
     "Id": "wind_dancer",
     "DisplayedName": "疾風之舞",
-    "Description": "賦予一個每階段使你獲得更高[閃避值]的增益效果。在此增益效果期間受到[近戰][攻擊]時會消耗所有階段，對周圍敵人造成傷害並將其[Knockback|擊退]。",
+    "Description": "賦予一個每階段使你獲得更高[Evasion|閃避值]的增益效果。在此增益效果期間受到[Melee|近戰]攻擊[Hit|擊中]時會消耗所有階段，對周圍敵人造成傷害並將其[Knockback|擊退]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 674
@@ -100289,6 +100292,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -103375,6 +103382,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -104820,10 +104831,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -104966,10 +104973,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 0
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 40
       },
       {
         "TableName": "ActiveSkillType",
@@ -105118,10 +105121,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105267,10 +105266,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105409,10 +105404,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 0
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 40
       },
       {
         "TableName": "ActiveSkillType",
@@ -107074,7 +107065,7 @@
   {
     "Id": "war_banner_reservation",
     "DisplayedName": "征戰之旗",
-    "Description": "啟動時，以[Attack|攻擊]擊殺敵人或站在傳奇敵人附近會產生[Valour|勇氣]。使用此技能會消耗其[Valour|勇氣]，放置一面帶有[Aura|光環]的激勵戰旗，在戰旗持續期間賦予你和附近的[Allies|友方][Attack|攻擊]傷害和[Accuracy|命中值]。戰旗在被放置時無法獲得[Valour|勇氣]。",
+    "Description": "啟動時，以[Attack|攻擊]擊殺敵人或站在[Rarity|傳奇]敵人附近會產生[Valour|勇氣]。使用此技能會消耗其[Valour|勇氣]，放置一面帶有[Aura|光環]的激勵戰旗，在戰旗持續期間賦予你和附近的[Allies|友方][Attack|攻擊]傷害和[Accuracy|命中值]。戰旗在被放置時無法獲得[Valour|勇氣]，你已放置一面戰旗時，無法再放置戰旗。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 730
@@ -107149,7 +107140,7 @@
   {
     "Id": "defiance_banner_reservation",
     "DisplayedName": "反抗之旗",
-    "Description": "啟動時，以[Attack|攻擊]擊殺敵人或站在傳奇敵人附近會產生[Valour|勇氣]。使用此技能會消耗其[Valour|勇氣]，放置一面帶有[Aura|光環]的激勵戰旗，在戰旗持續期間賦予你和附近的[Allies|友方][Armour|護甲]、[Evasion|閃避值]和移動速度。戰旗在被放置時無法獲得[Valour|勇氣]。",
+    "Description": "啟動時，以[Attack|攻擊]擊殺敵人或站在[Rarity|傳奇]敵人附近會產生[Valour|勇氣]。使用此技能會消耗其[Valour|勇氣]，放置一面帶有[Aura|光環]的激勵戰旗，在戰旗持續期間賦予你和附近的[Allies|友方][Armour|護甲值]、[Evasion|閃避值]和移動速度。戰旗在被放置時無法獲得[Valour|勇氣]，你已放置一面戰旗時，無法再放置戰旗。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 730
@@ -107224,7 +107215,7 @@
   {
     "Id": "dread_banner_reservation",
     "DisplayedName": "恐懼之旗",
-    "Description": "啟動時，以[Attack|攻擊]擊殺敵人或站在傳奇敵人附近會產生[Valour|勇氣]。使用此技能會消耗其[Valour|勇氣]，放置一面帶有[Aura|光環]的激勵戰旗，在戰旗持續期間賦予你和附近的[Allies|友方][StunThreshold|暈眩門檻]、[AilmentThreshold|元素異常狀態門檻]和[Flask|藥劑]使用次數。戰旗在被放置時無法獲得[Valour|勇氣]。",
+    "Description": "啟動時，以[Attack|攻擊]擊殺敵人或站在[Rarity|傳奇]敵人附近會產生[Valour|勇氣]。使用此技能會消耗其[Valour|勇氣]，放置一面帶有[Aura|光環]的激勵戰旗，在戰旗持續期間賦予你和附近的[Allies|友方][StunThreshold|暈眩門檻]、[AilmentThreshold|元素異常狀態門檻]和[Flask|藥劑]充能。戰旗在被放置時無法獲得[Valour|勇氣]，你已放置一面戰旗時，無法再放置戰旗。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 730
@@ -108813,7 +108804,7 @@
   {
     "Id": "overwhelming_pressure",
     "DisplayedName": "壓倒性的存在",
-    "Description": "啟動時，你[Presence|存在範圍]內的敵人會更容易被[Stun|暈眩]和造成元素[Ailments|異常狀態]。",
+    "Description": "啟動時，你[Presence|存在範圍]內的敵人會更容易被[Stun|暈眩]和造成[ElementalAilments|元素異常狀態]。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 751
@@ -109095,7 +109086,7 @@
   {
     "Id": "archmage",
     "DisplayedName": "大法師",
-    "Description": "啟動時，使你的非引導[Spell|法術]消耗額外的魔力，並造成額外的[Lightning|閃電]傷害，兩者皆根據你的最大魔力而定。",
+    "Description": "啟動時，使你的非[Channelling|引導][Spell|法術]消耗額外的魔力，並造成額外的[Lightning|閃電]傷害，兩者皆根據你的最大魔力而定。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 755
@@ -109178,6 +109169,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 31
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       },
       {
         "TableName": "ActiveSkillType",
@@ -109281,7 +109276,7 @@
   {
     "Id": "magnetic_salvo",
     "DisplayedName": "電磁齊射",
-    "Description": "瞄準天空並對你前方由你其他的[Lightning|閃電][Attack|攻擊]所產生的殘留箭矢或弩箭發射能量導彈。導彈落在殘留弩箭或箭矢附近時會爆炸，在更大的範圍內造成更多傷害，但在過程中會摧毀弩箭或箭矢。",
+    "Description": "瞄準天空並對你前方由你其他的[Lightning|閃電][Attack|攻擊]所產生的殘留弩箭或箭矢發射能量導彈。導彈落在殘留弩箭或箭矢附近時會爆炸，在更大的範圍內造成更多傷害，但在過程中會摧毀弩箭或箭矢。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 757

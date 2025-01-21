@@ -5598,7 +5598,7 @@
   },
   {
     "Id": "curse_temporal_chains",
-    "Description": "[Slow|ralentizado]",
+    "Description": "Estás [Slow|ralentizado] y los efectos expiran más despacio sobre ti.",
     "Invisible": false,
     "Removable": false,
     "Name": "Cadenas temporales",
@@ -7689,7 +7689,7 @@
     "StatsKeys": [
       {
         "TableName": "Stats",
-        "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
+        "Id": "base_maximum_life_%_to_gain_as_total_energy_shield"
       }
     ],
     "Unk006": true,
@@ -7731,7 +7731,7 @@
     "Unk039": [
       {
         "TableName": "Stats",
-        "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
+        "Id": "base_maximum_life_%_to_gain_as_total_energy_shield"
       }
     ],
     "Unk040": [],
@@ -11924,7 +11924,7 @@
     "StatsKeys": [
       {
         "TableName": "Stats",
-        "Id": "total_maximum_energy_shield_+"
+        "Id": "base_total_maximum_energy_shield_+"
       },
       {
         "TableName": "Stats",
@@ -11999,7 +11999,7 @@
     "Unk039": [
       {
         "TableName": "Stats",
-        "Id": "total_maximum_energy_shield_+"
+        "Id": "base_total_maximum_energy_shield_+"
       },
       {
         "TableName": "Stats",
@@ -23826,7 +23826,7 @@
   },
   {
     "Id": "vaal_cloud",
-    "Description": "Recibes Daño Físico degenerativo",
+    "Description": "Recibes daño físico degenerativo",
     "Invisible": false,
     "Removable": false,
     "Name": "Humo corrupto",
@@ -24539,7 +24539,7 @@
   },
   {
     "Id": "unique_flask_forbidden_taste",
-    "Description": "Recibes Daño degenerativo de Caos",
+    "Description": "Recibes daño de caos degenerativo",
     "Invisible": false,
     "Removable": false,
     "Name": "Sabor Prohibido",
@@ -24779,7 +24779,7 @@
   },
   {
     "Id": "unique_flask_rumis_concoction",
-    "Description": "Tienes Probabilidad adicional de Bloquear Ataques y Hechizos",
+    "Description": "Tienes probabilidad adicional de bloquear ataques y hechizos",
     "Invisible": false,
     "Removable": false,
     "Name": "Brebaje de Rumi",
@@ -122816,7 +122816,7 @@
   },
   {
     "Id": "spear_sandstorm",
-    "Description": "Estás en una tormenta de arena, la cual reduce tu velocidad de movimiento y te ciega.",
+    "Description": "Estás en una tormenta de arena, la cual reduce tu velocidad de movimiento y te [Blind|ciega].",
     "Invisible": false,
     "Removable": false,
     "Name": "[DNT] Sandstorm Swipe",
@@ -150423,7 +150423,7 @@
   },
   {
     "Id": "perennial_king_corrupted_ground",
-    "Description": "Recibes Daño Físico degenerativo",
+    "Description": "Recibes daño físico degenerativo",
     "Invisible": false,
     "Removable": false,
     "Name": "Suelo corrupto",
@@ -150881,7 +150881,7 @@
   },
   {
     "Id": "procession_banner_blood_drain_regen",
-    "Description": "",
+    "Description": "Otorga regeneración de vida",
     "Invisible": false,
     "Removable": false,
     "Name": "Sangre del portador",
@@ -151233,10 +151233,10 @@
   },
   {
     "Id": "ziggurat_burning_sun",
-    "Description": "You are taking fire damage over time from being near a fragment of the Temple of Kopec's Sun.",
+    "Description": "Recibes daño de fuego degenerativo por estar cerca de un fragmento del sol del Templo de Kopec.",
     "Invisible": false,
     "Removable": false,
-    "Name": "A Fragment of Sun",
+    "Name": "Un fragmento de sol",
     "StatsKeys": [
       {
         "TableName": "Stats",
@@ -160868,80 +160868,6 @@
       {
         "TableName": "Stats",
         "Id": "gain_rage_on_hit"
-      }
-    ],
-    "Unk040": [],
-    "Unk041": false,
-    "Unk042": false,
-    "Unk043": false,
-    "Unk044": false,
-    "Unk045": false,
-    "Unk046": null,
-    "Unk047": [],
-    "Unk048": "뮻뮻뮻뮻ignited",
-    "Unk049": [],
-    "Unk050": false
-  },
-  {
-    "Id": "warrior_hunkered_down",
-    "Description": "",
-    "Invisible": true,
-    "Removable": false,
-    "Name": "",
-    "StatsKeys": [
-      {
-        "TableName": "Stats",
-        "Id": "additional_block_%"
-      },
-      {
-        "TableName": "Stats",
-        "Id": "base_pushiness_size_+"
-      }
-    ],
-    "Unk006": true,
-    "Unk007": 2,
-    "Unk008": false,
-    "Maximum_StatsKey": null,
-    "Current_StatsKey": null,
-    "Unk011": false,
-    "Unk012": 29,
-    "BuffVisualsKey": {
-      "TableName": "BuffVisuals",
-      "Id": "invisible"
-    },
-    "Unk014": true,
-    "Unk015": false,
-    "BuffCategory": 18,
-    "Unk017": false,
-    "Unk018": true,
-    "Unk019": true,
-    "Unk020": false,
-    "BuffLimit": 0,
-    "Unk022": false,
-    "Id2": "",
-    "IsRecovery": false,
-    "Unk025": false,
-    "Unk026": null,
-    "Unk027": false,
-    "Unk028": 7,
-    "Unk029": false,
-    "Unk030": false,
-    "Unk031": 0,
-    "Unk032": [],
-    "Unk033": false,
-    "Unk034": false,
-    "Unk035": [],
-    "Unk036": false,
-    "Unk037": [],
-    "BinaryStats": [],
-    "Unk039": [
-      {
-        "TableName": "Stats",
-        "Id": "additional_block_%"
-      },
-      {
-        "TableName": "Stats",
-        "Id": "base_pushiness_size_+"
       }
     ],
     "Unk040": [],

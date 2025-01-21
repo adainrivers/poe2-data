@@ -7543,7 +7543,7 @@
   {
     "Id": "melee",
     "DisplayedName": "基本アタック",
-    "Description": "強力な一撃で敵を打ち倒す。",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 34
@@ -8878,7 +8878,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 60520,
+    "Unk030": 60490,
     "AudioEvent": null,
     "Unk032": 48898,
     "Unk033": null,
@@ -9112,7 +9112,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 60520,
+    "Unk030": 60490,
     "AudioEvent": null,
     "Unk032": 48898,
     "Unk033": null,
@@ -9553,7 +9553,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 60520,
+    "Unk030": 60490,
     "AudioEvent": null,
     "Unk032": 1378,
     "Unk033": null,
@@ -9736,7 +9736,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 64948,
+    "Unk030": 64918,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -10718,7 +10718,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 75394,
+    "Unk032": 75364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11626,7 +11626,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 407
     },
-    "Unk032": 84804,
+    "Unk032": 84774,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11994,7 +11994,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 398
     },
-    "Unk032": 84804,
+    "Unk032": 84774,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12230,7 +12230,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 465
     },
-    "Unk032": 93198,
+    "Unk032": 93168,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12373,7 +12373,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 420
     },
-    "Unk032": 84804,
+    "Unk032": 84774,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12978,9 +12978,9 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 101696,
+    "Unk030": 101666,
     "AudioEvent": null,
-    "Unk032": 101780,
+    "Unk032": 101750,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -13236,7 +13236,7 @@
   {
     "Id": "rain_of_arrows",
     "DisplayedName": "レインオブアロー",
-    "Description": "多数の矢が空中に放たれ、短い遅延の後に対象の周囲のエリアに降り注ぐ。使用時にフレンジーチャージを消費し、追加の矢を放つ。",
+    "Description": "多数の矢が空中に放たれ、短い遅延の後に対象の周囲のエリアに降り注ぐ。使用時にフレンジーチャージを全て消費し、追加の矢を放つ。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 63
@@ -14186,7 +14186,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 424
     },
-    "Unk032": 111414,
+    "Unk032": 111388,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -17059,7 +17059,7 @@
   {
     "Id": "discipline",
     "DisplayedName": "ディシプリン",
-    "Description": "プレイヤーの[Presence|存在下]にいる[Allies|味方]に追加の[Total|合計[EnergyShiled|エナジーシールド]を付与する[Aura|オーラ]を発する。[Aura|オーラ]はプレイヤーには影響しない。",
+    "Description": "プレイヤーの[Presence|存在下]にいる[Allies|味方]に追加の[Total|合計][EnergyShiled|エナジーシールド]を付与する[Aura|オーラ]を発する。[Aura|オーラ]はプレイヤーには影響しない。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 76
@@ -20497,7 +20497,7 @@
   {
     "Id": "fire_weakness",
     "DisplayedName": "フラマビリティ",
-    "Description": "範囲内の敵を[Curse|呪い]、短い遅延の後に、敵の[Fire|火[Resistances|]耐性]を下げる。",
+    "Description": "範囲内の敵を[Curse|呪い]、短い遅延の後に、敵の[Fire|火][Resistances|]耐性]を下げる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 95
@@ -20626,7 +20626,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 84804,
+    "Unk032": 84774,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20636,7 +20636,7 @@
   },
   {
     "Id": "cold_weakness",
-    "DisplayedName": "フロストバイト",
+    "DisplayedName": "ハイポサーミア",
     "Description": "範囲内の敵を[Curse|呪い]、短い遅延の後に、敵の[Cold|冷気][Resistances|]耐性]を下げる。",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -20766,7 +20766,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 84804,
+    "Unk032": 84774,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20906,7 +20906,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 84804,
+    "Unk032": 84774,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -21279,7 +21279,7 @@
   {
     "Id": "expanding_fire_cone",
     "DisplayedName": "インシネレート",
-    "Description": "手から火を大量に連続的に放ち、敵に連続ダメージを与える。長い間このスペルをチャネリングするほど、炎は周囲のより広い範囲に広がり、使用者の前方のより遠くまで届くようになる。チャネリングを止めると、幅が広く長い範囲に火ダメージの波が放出され、強力な発火を付与します。",
+    "Description": "手から火を大量に連続的に放ち、敵に連続ダメージを与える。長い間このスペルをチャネリングするほど、炎は周囲のより広い範囲に広がり、使用者の前方のより遠くまで届くようになる。チャネリングを止めると、幅が広く長い範囲に火ダメージの波が放出され、強力な発火を付与する。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 99
@@ -27599,7 +27599,7 @@
   {
     "Id": "tornado_shot",
     "DisplayedName": "トルネードショット",
-    "Description": "空に向かって放ち、着弾した場所に竜巻を引き起こし、[Physical|物理]継続ダメージを与え、その中に立っている敵を[Hinder|阻害する。プレイヤーが竜巻に向かって放った矢または[Crossbow|クロスボウ]のボルトは竜巻に吸い込まれ、トルネードはそれと一致する[Projectile|投射物]のコピーのノヴァを放つ。コピーされた[Projectile|投射物]は、さらにトルネードによって再びコピーされることはない。",
+    "Description": "空に向かって放ち、着弾した場所に竜巻を引き起こし、[Physical|物理]継続ダメージを与え、その中に立っている敵を[Hinder|阻害]する。プレイヤーが竜巻に向かって放った矢または[Crossbow|クロスボウ]のボルトは竜巻に吸い込まれ、トルネードはそれと一致する[Projectile|投射物]のコピーのノヴァを放つ。コピーされた[Projectile|投射物]は、さらにトルネードによって再びコピーされることはない。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 133
@@ -28295,7 +28295,7 @@
   {
     "Id": "herald_of_ice",
     "DisplayedName": "ヘラルドオブアイス",
-    "Description": "効果発動中、[Attack|アタック]の[Hit|ヒット]で敵を[Shatter|粉砕]すると氷の爆発を起こし、周囲の敵に[Attack|アタック]ダメージを与える。",
+    "Description": "効果発動中、[Attack|アタック]の[HitDamage|ヒット]で敵を[Shatter|粉砕]すると氷の爆発を起こし、周囲の敵に[Attack|アタック]ダメージを与える。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 138
@@ -33992,7 +33992,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 202254,
+    "Unk030": 202244,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 344
@@ -35715,7 +35715,7 @@
   {
     "Id": "wither_channel",
     "DisplayedName": "ウィザー",
-    "Description": "弱体化の呪術をチャネリングし、範囲内の敵を[WIthered|衰弱]させる。",
+    "Description": "弱体化の呪術をチャネリングし、範囲内の敵を[Withered|衰弱]させる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 185
@@ -36633,7 +36633,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 214454,
+    "Unk030": 214444,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 335
@@ -41395,7 +41395,7 @@
   {
     "Id": "summon_skeleton_reaver",
     "DisplayedName": "スケルトンリーバーミニオン",
-    "Description": "攻撃的で、[Reviving|復活する]スケルトンリーバーを召喚する。[Commnad|コマンド]することで激怒させることができる。",
+    "Description": "攻撃的で、[Reviving|復活する]スケルトンリーバーを召喚する。[Command|コマンド]することで激怒させることができる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 616
@@ -45487,7 +45487,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 406
     },
-    "Unk032": 84804,
+    "Unk032": 84774,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -56810,7 +56810,7 @@
   {
     "Id": "artillery_ballista_projectile",
     "DisplayedName": "アーティラリーショット",
-    "Description": "上空に狙いを定め、敵を追跡するペイロードを放つ。ペイロードは対象の地点の近くの全ての敵にボルトを落下させる。このボルトは地面に残り、短い遅延の後に爆発する。",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 456
@@ -58094,7 +58094,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 295152,
+    "Unk030": 294982,
     "AudioEvent": null,
     "Unk032": 1378,
     "Unk033": null,
@@ -60440,7 +60440,7 @@
   {
     "Id": "hexblast",
     "DisplayedName": "ヘックスブラスト",
-    "Description": "範囲内の敵に付与した[Curse|呪い]を起爆し、[混沌]ダメージの爆発を起こし、[Curse|呪い]を取り除く。",
+    "Description": "範囲内の敵に付与した[Curse|呪い]を1種類起爆し、[Chaos|混沌]ダメージの爆発を起こし、[Curse|呪い]を取り除く。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 390
@@ -61681,7 +61681,7 @@
   {
     "Id": "summon_meta_totem_slams",
     "DisplayedName": "アンセストラルウォーリアートーテム",
-    "Description": "ソケットされた[Mace|メイス]スキルを使用する[Totem|トーテム]を召喚する。[Channeling|チャネリング]スキルまたはクールダウンを持つスキルは使用できない。",
+    "Description": "ソケットされた[Mace|メイス]スキルを使用する[Totem|トーテム]を召喚する。[Channelling|チャネリング]スキルまたはクールダウンを持つスキルは使用できない。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 647
@@ -62672,7 +62672,7 @@
   {
     "Id": "reap",
     "DisplayedName": "リープ",
-    "Description": "血塗れの大鎌が選択でエリアをなぎ払い、[物理]ダメージを与えるとともに[CriticalWeakness|クリティカルウィークネス]を付与する。",
+    "Description": "血塗れの大鎌が選択でエリアをなぎ払い、[Physical|物理]ダメージを与えるとともに[CriticalWeakness|クリティカルウィークネス]を付与する。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 403
@@ -66762,10 +66762,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 27
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 7
       },
       {
@@ -68029,7 +68025,7 @@
   {
     "Id": "lightning_conduit",
     "DisplayedName": "ライトニングコンジット",
-    "Description": "プレイヤーの前方の円錐状範囲の敵に対して雷を呼び出す。[Shock|感電]状態の敵に対して大幅に上昇したダメージを与えるが、ダメージを与えた敵から[Shock|感電]を[Consume|消費]する。プレイヤーの近くを対象にすると、キャストした時にプレイヤーはジャンプして後ろに下がる。",
+    "Description": "プレイヤーの前方の円錐状範囲の敵に対して雷を呼び出す。[Shock|感電]状態の敵に対して大幅に上昇したダメージを与えるが、ダメージを与えた敵から[Shock|感電]を[Consume|消費]する。[Shock|感電]を[Consume|消費]した場合、追加の稲妻がヒットした敵に落雷する。プレイヤーの近くを対象にすると、キャストした時にプレイヤーはジャンプして後ろに下がる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 438
@@ -69022,7 +69018,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 346556,
+    "Unk030": 346500,
     "AudioEvent": null,
     "Unk032": 1378,
     "Unk033": null,
@@ -69585,7 +69581,7 @@
   {
     "Id": "sandstorm_swipe",
     "DisplayedName": "ワーリングスラッシュ",
-    "Description": "円形の斬撃を行い、周囲に風と塵の回転する嵐を巻き上げ、範囲内の敵を[Slow|減速]し、[Blind|盲目]にする。その場から離れると渦巻く嵐が発生し、ダメージを与える。",
+    "Description": "円形の斬撃を行い、周囲に風と塵の回転する嵐を巻き上げ、範囲内の敵を[Slow|減速]させ、[Blind|盲目]にする。その場から離れると渦巻く嵐が発生し、ダメージを与え、敵を[Knockback|ノックバック]する。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 448
@@ -69700,7 +69696,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 349318,
+    "Unk030": 349308,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 360
@@ -69952,7 +69948,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 350492,
+    "Unk030": 350482,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 362
@@ -70546,7 +70542,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 513
     },
-    "Unk032": 353562,
+    "Unk032": 353552,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70699,7 +70695,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 518
     },
-    "Unk032": 354348,
+    "Unk032": 354338,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70772,7 +70768,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 529
     },
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70925,7 +70921,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 525
     },
-    "Unk032": 355796,
+    "Unk032": 355786,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70999,7 +70995,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71018,7 +71014,8 @@
     "Icon_DDSFile": "Art/2DArt/SkillIcons/PowerShotPermafrost.dds",
     "ActiveSkillTargetTypes": [
       1,
-      2
+      2,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71168,7 +71165,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 522
     },
-    "Unk032": 357198,
+    "Unk032": 357192,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71188,7 +71185,8 @@
     "ActiveSkillTargetTypes": [
       1,
       23,
-      24
+      24,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71238,7 +71236,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71387,7 +71385,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 536
     },
-    "Unk032": 358560,
+    "Unk032": 358558,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71457,7 +71455,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71825,7 +71823,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72053,7 +72051,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72286,7 +72284,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72513,7 +72511,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72775,8 +72773,8 @@
   },
   {
     "Id": "whirling_assault",
-    "DisplayedName": "回転撃",
-    "Description": "連続した回転攻撃で周囲の敵をヒットしながら前進する。",
+    "DisplayedName": "ワーリングアサルト",
+    "Description": "連続した回転[Strike|ストライク]攻撃で周囲の敵をヒットしながら前進する。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 458
@@ -72894,7 +72892,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 366628,
+    "Unk030": 366666,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 326
@@ -73576,7 +73574,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 370592,
+    "Unk030": 370630,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 328
@@ -77286,7 +77284,7 @@
   {
     "Id": "rapid_shot_incendiary",
     "DisplayedName": "ラピッドショット",
-    "Description": "クロスボウに熱を蓄積させる大幅に改造されたボルトを放つ。このスキルを使用すると、最初に熱を蓄積し、その後熱の量に基づいて[火]ダメージを与える炎のボルトの連射を解き放つ。熱は[Grenade|グレネード]にもボーナスを与えるが、ボルトを放っていない時には熱が急速に発散される。再装填が必要になる前に大量のボルトを発射できる。",
+    "Description": "クロスボウに熱を蓄積させる大幅に改造されたボルトを放つ。このスキルを使用すると、最初に熱を蓄積し、その後熱の量に基づいて[Fire|火]ダメージを与える炎のボルトの連射を解き放つ。熱は[Grenade|グレネード]にもボーナスを与えるが、ボルトを放っていない時には熱が急速に発散される。再装填が必要になる前に大量のボルトを発射できる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 473
@@ -77494,7 +77492,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77713,7 +77711,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77940,7 +77938,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77951,7 +77949,7 @@
   {
     "Id": "rapid_shot_stormblast",
     "DisplayedName": "ショックバースト弾",
-    "Description": "[LightningAIlment|雷系状態異常]状態の敵に[HitDamage|ヒット]するとダメージを与えるパルスを放つ帯電したボルトを素早く放つ。リロードが必要になるまでに放てるボルトの数には上限がある。",
+    "Description": "[LightningAilment|雷系状態異常]状態の敵に[HitDamage|ヒット]するとダメージを与えるパルスを放つ帯電したボルトを素早く放つ。リロードが必要になるまでに放てるボルトの数には上限がある。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 738
@@ -78104,7 +78102,7 @@
   {
     "Id": "rapid_shot_stormblast_ammo",
     "DisplayedName": "ショックバースト弾装填",
-    "Description": "[LightningAIlment|雷系状態異常]状態の敵に[HitDamage|ヒット]するとダメージを与えるパルスを放つ帯電したボルトのクリップを[Ammunition|クロスボウに装填]する。このスキルを再度使用することでクリップをリロードする。",
+    "Description": "[LightningAilment|雷系状態異常]状態の敵に[HitDamage|ヒット]するとダメージを与えるパルスを放つ帯電したボルトのクリップを[Ammunition|クロスボウに装填]する。このスキルを再度使用することでクリップをリロードする。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 457
@@ -78163,7 +78161,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78318,7 +78316,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 514
     },
-    "Unk032": 394574,
+    "Unk032": 394622,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78481,7 +78479,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 506
     },
-    "Unk032": 395460,
+    "Unk032": 395508,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78551,7 +78549,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78710,7 +78708,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 519
     },
-    "Unk032": 397046,
+    "Unk032": 397094,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78780,7 +78778,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78943,7 +78941,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 503
     },
-    "Unk032": 398668,
+    "Unk032": 398716,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79013,7 +79011,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79176,7 +79174,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 534
     },
-    "Unk032": 400216,
+    "Unk032": 400264,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79246,7 +79244,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 354958,
+    "Unk032": 354948,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79508,7 +79506,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 402136,
+    "Unk030": 402184,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 321
@@ -81510,7 +81508,7 @@
   {
     "Id": "meditate",
     "DisplayedName": "メディテイト",
-    "Description": "[Channelling|チャネリング]を行い、[ESRecharge|エナジーシールドをリチャージ]する。通常の最大値の二倍まで[EnergyShield|エナジーシールド]をオーバーチャージすることができる。プレイヤーがダメージを受けるか、エナジーシールドが通常の最大値の二倍に到達したら[Chaneling|チャネリング]は終了する。このスキルはエナジーシールドが既に通常の最大値の二倍の値になっているか、最大エナジーシールドが0の時には使用できない。",
+    "Description": "[Channelling|チャネリング]を行い、[ESRecharge|エナジーシールドをリチャージ]する。通常の最大値の二倍まで[EnergyShield|エナジーシールド]をオーバーチャージすることができる。プレイヤーがダメージを受けるか、エナジーシールドが通常の最大値の二倍に到達したら[Channelling|チャネリング]は終了する。このスキルはエナジーシールドが既に通常の最大値の二倍の値になっているか、最大エナジーシールドが0の時には使用できない。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 484
@@ -81697,7 +81695,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 411756,
+    "Unk030": 411808,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 330
@@ -81904,7 +81902,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 412954,
+    "Unk030": 413006,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 316
@@ -82183,7 +82181,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 414478,
+    "Unk030": 414530,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 337
@@ -82935,7 +82933,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 418482,
+    "Unk030": 418534,
     "AudioEvent": null,
     "Unk032": 1378,
     "Unk033": null,
@@ -84104,7 +84102,7 @@
       "TableName": "ActionTypes",
       "RowIndex": 234
     },
-    "Icon_DDSFile": "Art/2DArt/SkillIcons/LightningBoltSkillStaff.dds",
+    "Icon_DDSFile": "Art/2DArt/SkillIcons/GreaterLightningBoltSkill.dds",
     "ActiveSkillTargetTypes": [
       1,
       2
@@ -84727,7 +84725,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 425594,
+    "Unk030": 425780,
     "AudioEvent": null,
     "Unk032": 1378,
     "Unk033": null,
@@ -84861,7 +84859,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 64948,
+    "Unk030": 64918,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -85089,7 +85087,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 427324,
+    "Unk030": 427510,
     "AudioEvent": null,
     "Unk032": 1378,
     "Unk033": null,
@@ -86062,7 +86060,7 @@
   {
     "Id": "barrier_invocation",
     "DisplayedName": "バリアーインヴォケーション",
-    "Description": "アクティブ中、このインヴォケーションは敵からのヒットにより[EnergyShield|エナジーシールド]がダメージを受けた時に[Energy|エネルギー]を獲得する。十分な[energy|エネルギー]が集まってからインヴォケーションを使用することで、エネルギーを消費し、ソケットされたスペルをトリガーする。十分な[Energy|エネルギー]があれば、スペルを複数回トリガーすることができる。",
+    "Description": "アクティブ中、このインヴォケーションは敵からのヒットにより[EnergyShield|エナジーシールド]がダメージを受けた時に[Energy|エネルギー]を獲得する。十分な[Energy|エネルギー]が集まってからインヴォケーションを使用することで、エネルギーを消費し、ソケットされたスペルをトリガーする。十分な[Energy|エネルギー]があれば、スペルを複数回トリガーすることができる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 521
@@ -87029,7 +87027,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 437296,
+    "Unk032": 437482,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87342,7 +87340,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 523
     },
-    "Unk032": 438798,
+    "Unk032": 438984,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87546,7 +87544,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 524
     },
-    "Unk032": 438798,
+    "Unk032": 438984,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87746,7 +87744,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 499
     },
-    "Unk032": 440638,
+    "Unk032": 440824,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87954,7 +87952,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 521
     },
-    "Unk032": 441914,
+    "Unk032": 442100,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88162,7 +88160,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 527
     },
-    "Unk032": 443342,
+    "Unk032": 443528,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88370,7 +88368,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 528
     },
-    "Unk032": 443342,
+    "Unk032": 443528,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88875,10 +88873,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 38
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 143
       },
       {
@@ -88906,7 +88900,12 @@
         "Id": "skill_effect_duration_+%"
       }
     ],
-    "MinionActiveSkillTypes": [],
+    "MinionActiveSkillTypes": [
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 38
+      }
+    ],
     "Unk018": true,
     "Unk019": true,
     "Unk020": [],
@@ -89763,8 +89762,8 @@
   },
   {
     "Id": "ice_bind",
-    "DisplayedName": "アイシィチェイン",
-    "Description": "フロストメイジに命令してメイジ自身を氷の中に閉じ込め、周囲の多数の敵を[Slow|減速]させる。",
+    "DisplayedName": "",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 609
@@ -94497,7 +94496,7 @@
   {
     "Id": "mana_remnants",
     "DisplayedName": "マナレムナント",
-    "Description": "雷の高まりを呼び起こし、マナを回復させる。アクティブ中、プレイヤーが[Shock|感電]状態の敵をキルすると一定確率でマナレムナントをスポーンし、またプレイヤーが[Shock|感電]状態の敵に[Critical|クリティカルヒット]を与えると数秒ごとにマナレムナントをスポーンするようにする。マナレムナントを拾うと、プレイヤーにマナを付与し、マナを[Overflow|オーバーフロー]することができる。",
+    "Description": "雷の高まりを呼び起こし、マナを回復させる。アクティブ中、プレイヤーが[Shock|感電]状態の敵をキルすると一定確率でマナ[Remnant|レムナント]をスポーンし、またプレイヤーが[Shock|感電]状態の敵に[Critical|クリティカルヒット]を与えると数秒ごとにマナ[Remnant|レムナント]をスポーンするようにする。マナ[Remnant|レムナント]を拾うと、プレイヤーにマナを付与し、マナを[Overflow|オーバーフロー]することができる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 646
@@ -94895,7 +94894,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95025,7 +95024,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95151,7 +95150,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95277,7 +95276,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95411,7 +95410,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95537,7 +95536,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95663,7 +95662,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95797,7 +95796,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95923,7 +95922,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96049,7 +96048,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96183,7 +96182,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96309,7 +96308,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96435,7 +96434,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96565,7 +96564,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96695,7 +96694,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96825,7 +96824,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96951,7 +96950,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97085,7 +97084,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97231,7 +97230,7 @@
     "TransfigureBase": null,
     "Unk030": 1378,
     "AudioEvent": null,
-    "Unk032": 479238,
+    "Unk032": 479364,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -98057,14 +98056,14 @@
   {
     "Id": "totem_shockwave_quake",
     "DisplayedName": "ショックウェーブスラム",
-    "Description": "地面を[Slam|スラム]し、周囲の敵にダメージを与える。",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 652
     },
     "Icon_DDSFile": "Art/2DArt/SkillIcons/BruteShockwaveTotem.dds",
     "ActiveSkillTargetTypes": [
-      10
+      1
     ],
     "ActiveSkillTypes": [
       {
@@ -98969,6 +98968,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -100289,6 +100292,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -100592,7 +100599,7 @@
   {
     "Id": "dark_effigy",
     "DisplayedName": "ダークエフィジー",
-    "Description": "[混沌]継続ダメージの[Debuff|デバフ]を受けている敵を攻撃する[Totem|トーテム]を呼び出す。",
+    "Description": "[Chaos|混沌]継続ダメージの[Debuff|デバフ]を受けている敵を攻撃する[Totem|トーテム]を呼び出す。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 678
@@ -101069,7 +101076,7 @@
   {
     "Id": "grim_feast",
     "DisplayedName": "グリムフィースト",
-    "Description": "死体を喰らい[EnergyShield|エネルギーシールド]を補強する。アクティブ中に、プレイヤーの[Presence|存在下]で死んだ敵または[Reviving|復活]する[Minion|ミニオン]は一定確率でグリムレムナントをドロップする。グリムレムナントを拾うと、プレイヤーに[EnergyShield|エナジーシールド]を付与し、最大[EnergyShield|エナジーシールド]を[Overflow|オーバーフロー]することができる。",
+    "Description": "死体を喰らい[EnergyShield|エネルギーシールド]を補強する。アクティブ中に、プレイヤーの[Presence|存在下]で死んだ敵または[Reviving|復活]する[Minion|ミニオン]は一定確率でグリム[Remnant|レムナント]をドロップする。グリム[Remnant|レムナント]を拾うと、プレイヤーに[EnergyShield|エナジーシールド]を付与し、最大[EnergyShield|エナジーシールド]を[Overflow|オーバーフロー]することができる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 683
@@ -101619,7 +101626,7 @@
   {
     "Id": "bone_blast",
     "DisplayedName": "ボーンブラスト",
-    "Description": "短期間持続する儀式の碑文を呼び出す。持続時間が終了すると、エリア内の敵から骨のスパイクが噴出する。",
+    "Description": "短期間持続する儀式の碑文を円状に呼び出す。持続時間が終了すると、エリア内の敵から骨のスパイクが噴出する。敵に[Bleeding|出血]を付与する確率を持つ。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 689
@@ -101883,7 +101890,7 @@
   {
     "Id": "incinerate_player",
     "DisplayedName": "インシネレート",
-    "Description": "手から火炎の奔流を呼び出し、前方の敵を[Ignite|発火]させる。[Channelling|チャネリング]を長く行うほど、炎は強力になり、最大強度に達するとスタックする[Exposure火の曝露]を付与し[IgnitedGround|発火領域]を生成する。",
+    "Description": "手から火炎の奔流を呼び出し、前方の敵を[Ignite|発火]させる。[Channelling|チャネリング]を長く行うほど、炎は強力になり、最大強度に達するとスタックする[Exposure|火の曝露]を付与し[IgnitedGround|発火領域]を生成する。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 692
@@ -103184,7 +103191,7 @@
   {
     "Id": "blazing_cluster",
     "DisplayedName": "エンバーフシレイド",
-    "Description": "プレイヤーの頭上に燃える残り火を呼び出す。短い持続時間の後、残り火は敵に向かって放たれ、着弾時に範囲[Fire|火]ダメージを与える。このスペルを再キャストすると、すべてのアクティブな残り火の持続時間がリセットされる。同じ一斉射撃で放たれた複数の残り火は、異なる敵を対象にする。",
+    "Description": "プレイヤーの頭上に燃える残り火を呼び出す。短い持続時間の後、残り火は敵に向かって放たれ、着弾時に範囲[Fire|火]ダメージを与える。最後に対象にした敵が優先される。このスペルを再キャストすると、すべてのアクティブな残り火の持続時間がリセットされる。同じ一斉射撃で放たれた複数の残り火は、異なる敵を対象にする。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103321,7 +103328,7 @@
   {
     "Id": "unique_dusk_vigil_triggered_blazing_cluster",
     "DisplayedName": "エンバーフシレイド",
-    "Description": "プレイヤーの頭上に燃える残り火を呼び出す。短い持続時間の後、残り火は敵に向かって放たれ、着弾時に範囲[Fire|火]ダメージを与える。このスペルを再キャストすると、すべてのアクティブな残り火の持続時間がリセットされる。同じ一斉射撃で放たれた複数の残り火は、異なる敵を対象にする。",
+    "Description": "プレイヤーの頭上に燃える残り火を呼び出す。短い持続時間の後、残り火は敵に向かって放たれ、着弾時に範囲[Fire|火]ダメージを与える。最後に対象にした敵が優先される。このスペルを再キャストすると、すべてのアクティブな残り火の持続時間がリセットされる。同じ一斉射撃で放たれた複数の残り火は、異なる敵を対象にする。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103375,6 +103382,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -103617,7 +103628,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 101696,
+    "Unk030": 101666,
     "AudioEvent": null,
     "Unk032": 1378,
     "Unk033": null,
@@ -103754,7 +103765,7 @@
   {
     "Id": "sorcery_ward",
     "DisplayedName": "ソーサリーワード",
-    "Description": "効果が切れるまで、プレイヤーに対する[HItDamage|ヒット]に含まれる[ElementalDamage|元素ダメージ]を受ける防御のバリアを生成する。バリアは、プレイヤーがヒットから元素ダメージを受けないでいるか、効果が切れた後、短い遅延の後に最大値まで回復する。",
+    "Description": "効果が切れるまで、プレイヤーに対する[HitDamage|ヒット]に含まれる[ElementalDamage|元素ダメージ]を受ける防御のバリアを生成する。バリアは、プレイヤーがヒットから元素ダメージを受けないでいるか、効果が切れた後、短い遅延の後に最大値まで回復する。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 261
@@ -103983,7 +103994,7 @@
   {
     "Id": "life_remnants",
     "DisplayedName": "ライフレムナント",
-    "Description": "敵の血を飲み、ライフを回復する。アクティブ中、プレイヤーがキルした敵は一定確率でライフレムナントをスポーンし、[Critical|クリティカルヒット]を与えた敵は数秒ごとにライフレムナントをスポーンするようにする。ライフレムナントを拾うと、プレイヤーにライフが付与され、最大ライフを[Overflow|オーバーフロー]することができる。",
+    "Description": "敵の血を飲み、ライフを回復する。アクティブ中、プレイヤーがキルした敵は一定確率でライフ[Remnant|レムナント]をスポーンし、[Critical|クリティカルヒット]を与えた敵は数秒ごとにライフ[Remnant|レムナント]をスポーンするようにする。ライフ[Remnant|レムナント]を拾うと、プレイヤーにライフが付与され、最大ライフを[Overflow|オーバーフロー]することができる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 709
@@ -104820,10 +104831,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -104950,7 +104957,7 @@
   },
   {
     "Id": "throw_flask_lightning",
-    "DisplayedName": "コンコクション",
+    "DisplayedName": "フォーミネーティングコンコクション",
     "Description": "マナ[Flask|フラスコ]からチャージを消費し、爆発する瓶を投げる。一定範囲に素手[Lightning|雷]アタックダメージを与え、雷の[Exposure|曝露]を付与する。",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -104966,10 +104973,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 0
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 40
       },
       {
         "TableName": "ActiveSkillType",
@@ -105118,10 +105121,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105267,10 +105266,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105393,7 +105388,7 @@
   },
   {
     "Id": "throw_flask_bleed",
-    "DisplayedName": "ブリーディングコンコクション",
+    "DisplayedName": "フォーミネイティングコンコクション",
     "Description": "マナ[Flask|フラスコ]からチャージを消費し、爆発する瓶を投げる。一定範囲に素手[Physical|物理]アタックダメージを与える。このスキルで付与された[Bleeding|出血]は効果が上昇する。",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -105409,10 +105404,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 0
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 40
       },
       {
         "TableName": "ActiveSkillType",
@@ -105796,7 +105787,7 @@
   {
     "Id": "war_banner",
     "DisplayedName": "ウォーバナー",
-    "Description": "[Attack|アタック]で敵をキルするか、レアまたはユニークの敵をヒットすることで[Valour|勇猛]を生成する。このスキルを使用すると[Valour|勇猛]を消費し、バナーの効果が続くまでプレイヤーと近くの[Allies|味方]に[Attack|アタック]ダメージ上昇を付与するオーラを持つ、鼓舞する旗を設置する。",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 724
@@ -105859,7 +105850,7 @@
   {
     "Id": "defiance_banner",
     "DisplayedName": "デファイアンスバナー",
-    "Description": "[Attack|アタック]で敵をキルするか、レアまたはユニークの敵をヒットすることで[Valour|勇猛]を生成する。このスキルを使用すると[Valour|勇猛]を消費し、バナーの効果が続くまでプレイヤーと近くの[Allies|味方]に[Armour|アーマー]および[Evasion|回避力]上昇および受ける[ElementalDamage|元素ダメージ]低下を付与する耐久力向上のオーラを持つ旗を設置する。",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 724
@@ -107661,7 +107652,7 @@
   {
     "Id": "breach_walk",
     "DisplayedName": "イントゥ―ザブリーチ",
-    "Description": "プレイヤーの周囲にブリーチを生成し、プレイヤーに近くの[FlameOfChayula|チャユラの炎]を見えるようにする。このスキルがアクティブ中は、プレイヤーはブリーチの中にいると扱われる。",
+    "Description": "プレイヤーの周囲にブリーチを生成し、プレイヤーに近くの[FlamesOfChayula|チャユラの炎]を見えるようにする。このスキルがアクティブ中は、プレイヤーはブリーチの中にいると扱われる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 737
@@ -107787,7 +107778,7 @@
   {
     "Id": "elemental_conflux",
     "DisplayedName": "エレメンタルコンフラックス",
-    "Description": "生のままの予測不可能な[ElementalDamage|元素]の力に触れ、ランダムに選ばれた[ElementalDamage|元素]を大幅にダメージを上昇させる。影響を受ける[ElemetalDamage|元素]は頻繁に変化するが、同種の[ElementalDamage|元素]が複数回連続で選ばれることもある。",
+    "Description": "生のままの予測不可能な[ElementalDamage|元素]の力に触れ、ランダムに選ばれた[ElementalDamage|元素]を大幅にダメージを上昇させる。影響を受ける[ElementalDamage|元素]は頻繁に変化するが、同種の[ElementalDamage|元素]が複数回連続で選ばれることもある。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 741
@@ -107942,7 +107933,7 @@
   {
     "Id": "cluster_grenade",
     "DisplayedName": "クラスターグレネード",
-    "Description": "フューズが切れた時に爆発する、跳躍するグレネードを放つ。爆発で、さらに長い時間の後爆発する小グレネードをノヴァ状に放つ。",
+    "Description": "フューズが切れた時に爆発する、跳躍するグレネードを放つ。爆発で、停止した時に爆発する小グレネードをノヴァ状に放つ。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -108943,7 +108934,7 @@
   {
     "Id": "melee_kill_invocation",
     "DisplayedName": "リーパーズインヴォケーション",
-    "Description": "アクティブ中、このインヴォケーションはプレイヤーが[Melee|近接][Attack|アタック]で敵をキルした時に[Energy|エネルギー]を獲得する。十分な[energy|エネルギー]が集まってからインヴォケーションを使用することで、エネルギーを消費し、ソケットされたスペルをトリガーする。十分な[Energy|エネルギー]があれば、スペルを複数回トリガーすることができる。",
+    "Description": "アクティブ中、このインヴォケーションはプレイヤーが[Melee|近接][Attack|アタック]で敵をキルした時に[Energy|エネルギー]を獲得する。十分な[Energy|エネルギー]が集まってからインヴォケーションを使用することで、エネルギーを消費し、ソケットされたスペルをトリガーする。十分な[Energy|エネルギー]があれば、スペルを複数回トリガーすることができる。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 753
@@ -109095,7 +109086,7 @@
   {
     "Id": "archmage",
     "DisplayedName": "アークメイジ",
-    "Description": "アクティブ中、[Channeling|チャネリング]以外の[Spell|スペル]に追加のマナコストが必要にするが、追加の[Lightning|雷]ダメージを与えるようにする。両方の数値ともプレイヤーの最大マナの量に基づく。",
+    "Description": "アクティブ中、[Channelling|チャネリング]以外の[Spell|スペル]に追加のマナコストが必要にするが、追加の[Lightning|雷]ダメージを与えるようにする。両方の数値ともプレイヤーの最大マナの量に基づく。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 755
@@ -109161,8 +109152,8 @@
   },
   {
     "Id": "burning_runes",
-    "DisplayedName": "Burning Inscription",
-    "Description": "Creates [IgnitedGround|Ignited Ground] [Ignite|Igniting] Enemies based off a percentage of your Maximum Mana.",
+    "DisplayedName": "バーニングインスクリプション",
+    "Description": "プレイヤーの最大マナの一定割合に基づいて敵を[Ignite|発火]させる[IgniteGround|発火領域]を生成する。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 756
@@ -109178,6 +109169,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 31
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       },
       {
         "TableName": "ActiveSkillType",
@@ -109280,7 +109275,7 @@
   },
   {
     "Id": "magnetic_salvo",
-    "DisplayedName": "マグネティックサルボ",
+    "DisplayedName": "マグネティックサルヴォ",
     "Description": "上空に狙いを定め、他の[Lightning|雷][Attack|アタック]によって生成された、プレイヤーの前方の残存する矢またはボルトに向けてエナジーミサイルを放つ。残存する矢またはボルトの近くに着弾した場合、ミサイルは爆発し、より広い範囲に上昇したダメージを与えるが、そのプロセスで矢またはボルトは破壊される。",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -109417,8 +109412,8 @@
   },
   {
     "Id": "freezing_salvo",
-    "DisplayedName": "フリージングサルボ",
-    "Description": "時間経過により氷のミサイルを受動的に空中から集める。このスキルを使用すると、貯めたミサイルを放ち、対象とした範囲に雨のように降り注がせる。",
+    "DisplayedName": "フリージングサルヴォ",
+    "Description": "時間経過により氷のミサイルを受動的に空中から集める。このスキルを使用すると、貯めたミサイルを放ち、蓄積したミサイルごとに追加のミサイルを放つ。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 758
@@ -110201,7 +110196,7 @@
   {
     "Id": "gathering_storm",
     "DisplayedName": "ギャザリングストーム",
-    "Description": "後方に飛び去り、[Quarterstaff|クォータースタッフ]に[Lightning|雷]のエネルギーを[Channeling|チャネリング]する。チャネリングを止め放つことで、対象の地点にダッシュし、通り道の敵にダメージを与える。完璧なタイミングで放つことで[Lightning|雷]のエネルギーを注入されたダッシュを行い、通り道にいた敵から衝撃波を放ち、通り道に[ShockedGround|感電領域]の足跡を残す。",
+    "Description": "後方に飛び去り、[Quarterstaff|クォータースタッフ]に[Lightning|雷]のエネルギーを[Channelling|チャネリング]する。チャネリングを止め放つことで、対象の地点にダッシュし、通り道の敵にダメージを与える。完璧なタイミングで放つことで[Lightning|雷]のエネルギーを注入されたダッシュを行い、通り道にいた敵から衝撃波を放ち、通り道に[ShockedGround|感電領域]の足跡を残す。",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 767

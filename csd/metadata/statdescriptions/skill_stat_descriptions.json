@@ -8640,23 +8640,30 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
-        "active_skill_pins_as_though_dealt_damage_+%_final"
+        "active_skill_pins_as_though_dealt_damage_+%_final",
+        "quality_display_active_skill_pins_as_though_dealt_damage_+%_final_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "# table_only",
+          "Operator": "# # table_only",
           "Description": "[Pinned|Pin] buildup modifier@{0}%",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "1|#",
+          "Operator": "# 0",
+          "Description": "[Pinned|Pins] Enemies as though dealing {0:+d}% more Damage",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1|# #",
           "Description": "[Pinned|Pins] Enemies as though dealing {0}% more Damage",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "#|-1",
+          "Operator": "#|-1 #",
           "Description": "[Pinned|Pins] Enemies as though dealing {0}% less Damage",
           "IsCanonical": false,
           "Parameters": [
@@ -10269,17 +10276,30 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
-        "base_number_of_crossbow_bolts"
+        "base_number_of_crossbow_bolts",
+        "quality_display_base_number_of_crossbow_bolts_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "1",
+          "Operator": "1 0",
+          "Description": "{0:+d} Bolt loaded per clip",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "2|# 0",
+          "Description": "{0:+d} Bolts loaded per clip",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "1 #",
           "Description": "{0} Bolt loaded per clip",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "2|#",
+          "Operator": "2|# #",
           "Description": "{0} Bolts loaded per clip",
           "IsCanonical": false,
           "Parameters": []
@@ -10310,17 +10330,18 @@
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
         "base_number_of_projectiles",
-        "skill_can_fire_arrows"
+        "skill_can_fire_arrows",
+        "quality_display_base_number_of_projectiles_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "2|# 0",
+          "Operator": "2|# 0 #",
           "Description": "Fires {0} [Projectile|Projectiles]",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "2|# 1",
+          "Operator": "2|# 1 #",
           "Description": "Fires {0} Arrows",
           "IsCanonical": false,
           "Parameters": []
@@ -18297,17 +18318,24 @@
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
         "active_skill_ground_effect_area_of_effect_+%_final_per_second",
-        "active_skill_ground_effect_area_of_effect_+%_final_per_second_max"
+        "active_skill_ground_effect_area_of_effect_+%_final_per_second_max",
+        "quality_display_active_skill_ground_effect_area_of_effect_+%_final_per_second_max_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "# # table_only",
+          "Operator": "# # 0",
+          "Description": "Gains {0:+d} more Area of Effect per second, up to a maximum of {1:+d}%",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# # # table_only",
           "Description": "More Area of Effect per second (maximum {1}%)@{0}%",
           "IsCanonical": false,
           "Parameters": []
         },
         {
-          "Operator": "# #",
+          "Operator": "# # #",
           "Description": "Gains {0}% more Area of Effect per second, up to a maximum of {1}%",
           "IsCanonical": false,
           "Parameters": []
@@ -22394,7 +22422,7 @@
       "Descriptions": [
         {
           "Operator": "2|#",
-          "Description": "[Limit {0} Orbs",
+          "Description": "[Limit] {0} Orbs",
           "IsCanonical": false,
           "Parameters": []
         }
@@ -23590,11 +23618,18 @@
     {
       "Path": "metadata/statdescriptions/skill_stat_descriptions",
       "Ids": [
-        "rapid_shot_maximum_num_of_stacks"
+        "rapid_shot_maximum_num_of_stacks",
+        "quality_display_rapid_shot_maximum_num_of_stacks_is_gem"
       ],
       "Descriptions": [
         {
-          "Operator": "#",
+          "Operator": "# 0",
+          "Description": "{0:+d} to Maximum Heat",
+          "IsCanonical": false,
+          "Parameters": []
+        },
+        {
+          "Operator": "# #",
           "Description": "Maximum {0} Heat",
           "IsCanonical": false,
           "Parameters": []
@@ -28015,7 +28050,7 @@
       "Descriptions": [
         {
           "Operator": "1|#",
-          "Description": "Maixmum more [Pinned|Pin] Buildup against enemies within 2m@{0}%",
+          "Description": "Maximum more [Pinned|Pin] Buildup against enemies within 2m@{0}%",
           "IsCanonical": false,
           "Parameters": []
         }

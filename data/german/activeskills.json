@@ -7543,7 +7543,7 @@
   {
     "Id": "melee",
     "DisplayedName": "Basisangriff",
-    "Description": "Streckt Eure Gegner mit einem mächtigen Schlag nieder.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 34
@@ -8878,7 +8878,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 72144,
+    "Unk030": 72032,
     "AudioEvent": null,
     "Unk032": 58284,
     "Unk033": null,
@@ -9112,7 +9112,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 72144,
+    "Unk030": 72032,
     "AudioEvent": null,
     "Unk032": 58284,
     "Unk033": null,
@@ -9553,7 +9553,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 72144,
+    "Unk030": 72032,
     "AudioEvent": null,
     "Unk032": 1672,
     "Unk033": null,
@@ -9736,7 +9736,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 77032,
+    "Unk030": 76920,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -10718,7 +10718,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 89052,
+    "Unk032": 88940,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11626,7 +11626,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 407
     },
-    "Unk032": 100228,
+    "Unk032": 100116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -11994,7 +11994,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 398
     },
-    "Unk032": 100228,
+    "Unk032": 100116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12230,7 +12230,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 465
     },
-    "Unk032": 109914,
+    "Unk032": 109802,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12373,7 +12373,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 420
     },
-    "Unk032": 100228,
+    "Unk032": 100116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -12978,9 +12978,9 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 119382,
+    "Unk030": 119270,
     "AudioEvent": null,
-    "Unk032": 119466,
+    "Unk032": 119354,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -14001,7 +14001,7 @@
   {
     "Id": "fire_storm",
     "DisplayedName": "Feuerregen",
-    "Description": "Lässt Flammenkugeln über dem Zielbereich niederschlagen. [Ignite|Entzündungen] auf Gegnern vor Euch werden [Consume|verbraucht], um den Feuerregen zu verstärken, wobei für jede [Consume|verbrauchte] [Ignite|Entzündung] ein Bolzen verstärkt wird.",
+    "Description": "Lässt Flammenkugeln über dem Zielbereich niederschlagen. [Ignite|Entzündungen] auf Gegnern vor Euch werden [Consume|verbraucht], um den Feuerregen zu verstärken, wobei für jede [Consume|verbrauchte] [Ignite|Entzündung] eine Kugel verstärkt wird.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 65
@@ -14186,7 +14186,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 424
     },
-    "Unk032": 130870,
+    "Unk032": 130758,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20031,8 +20031,8 @@
   },
   {
     "Id": "piety_ice_shot",
-    "DisplayedName": "Eisgeschoss",
-    "Description": "Schießt einen Pfeil ab, dessen physischer Schaden gegen sein Ziel teilweise in Kälteschaden umgewandelt wird. Auf einer kegelförmigen Fläche hinter dem Ziel wird der physische Schaden komplett in Kälteschaden umgewandelt. Hinterlässt eine Fläche aus Eis unter dem Ziel.",
+    "DisplayedName": "",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 91
@@ -20497,7 +20497,7 @@
   {
     "Id": "fire_weakness",
     "DisplayedName": "Entflammbarkeit",
-    "Description": "[Curse|Verflucht] alle Ziele in einem Gebiet nach einer kurzen Verzögerung und verringert deren [Fire|Feuer][Resistance|widerstand].",
+    "Description": "[Curse|Verflucht] alle Ziele in einem Gebiet nach einer kurzen Verzögerung und verringert deren [Fire|Feuer][Resistances|widerstand].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 95
@@ -20626,7 +20626,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 100228,
+    "Unk032": 100116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20636,8 +20636,8 @@
   },
   {
     "Id": "cold_weakness",
-    "DisplayedName": "Schneidende Kälte",
-    "Description": "[Curse|Verflucht] alle Ziele in einem Gebiet nach einer kurzen Verzögerung und verringert deren [Cold|Kälte][Resistance|widerstand].",
+    "DisplayedName": "Hypothermie",
+    "Description": "[Curse|Verflucht] alle Ziele in einem Gebiet nach einer kurzen Verzögerung und verringert deren [Cold|Kälte][Resistances|widerstand].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 96
@@ -20766,7 +20766,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 100228,
+    "Unk032": 100116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -20777,7 +20777,7 @@
   {
     "Id": "lightning_weakness",
     "DisplayedName": "Leitfähigkeit",
-    "Description": "[Curse|Verflucht] alle Ziele in einem Gebiet nach einer kurzen Verzögerung und verringert deren [Lightning|Blitz][Resistance|widerstand].",
+    "Description": "[Curse|Verflucht] alle Ziele in einem Gebiet nach einer kurzen Verzögerung und verringert deren [Lightning|Blitz][Resistances|widerstand].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 97
@@ -20906,7 +20906,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 100228,
+    "Unk032": 100116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -33992,7 +33992,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 247588,
+    "Unk030": 246928,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 344
@@ -34947,7 +34947,7 @@
   {
     "Id": "vaal_earthquake",
     "DisplayedName": "Vaal-Erdbeben",
-    "Description": "Zertrümmert den Erdboden und verursacht Schaden in einem Bereich, der die Erde aufreißt. Der Riss zieht nach kurzer Dauer ein starkes Nachbeben nach sich. Nach der Nutzung dieser Fertigkeit verursachen Eure Schritte für eine kurze Zeit Schaden um Euch herum und reißen die Erde weiter auf, falls die vorherigen Risse aufgebrochen sind. Dieser Effekt endet nach einer sekundären Dauer oder nachdem die maximale Anzahl an Nachbeben erreicht ist. Erfordert eine Axt, einen Streitkolben, ein Zepter, einen Stab oder ",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 181
@@ -36633,7 +36633,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 265026,
+    "Unk030": 263270,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 335
@@ -36825,7 +36825,7 @@
   {
     "Id": "frost_bolt",
     "DisplayedName": "Frostkugel",
-    "Description": "Feuert ein langsames [Pierce|durchbohrendes] [Projectile|Projektil], das [Chill|unterkühlenden Boden] hinterlässt, [Cold|Kälte]schaden verursacht und bei Kollision mit Gelände explodiert.",
+    "Description": "Entfesselt ein langsames [Pierce|durchbohrendes] [Projectile|Projektil], das [Chill|unterkühlenden Boden] hinterlässt, [Cold|Kälte]schaden verursacht und bei Kollision mit Gelände explodiert.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 195
@@ -45487,7 +45487,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 406
     },
-    "Unk032": 100228,
+    "Unk032": 100116,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -56114,7 +56114,7 @@
   },
   {
     "Id": "monster_quick_dodge",
-    "DisplayedName": "Spurt",
+    "DisplayedName": "",
     "Description": "Führt eine Reihe von kurzen Teleportationen an einen Zielort durch. Bei Verwendung der Option \"Angriff auf der Stelle\" wird die Richtung umgekehrt. Teilt sich eine Abklingzeit mit anderen Spurt-Fertigkeiten.",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -56810,7 +56810,7 @@
   {
     "Id": "artillery_ballista_projectile",
     "DisplayedName": "Artillerie-Bolzen",
-    "Description": "Zielt in die Luft und feuert eine auf Gegner gerichtete Sprengladung, die in der Nähe jedes Gegners im Zielbereich einen Bolzen fallen lässt. Diese Bolzen stecken im Boden fest und explodieren nach einer kurzen Verzögerung.",
+    "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 456
@@ -58094,7 +58094,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 369518,
+    "Unk030": 367320,
     "AudioEvent": null,
     "Unk032": 1672,
     "Unk033": null,
@@ -59573,7 +59573,7 @@
   {
     "Id": "firewall",
     "DisplayedName": "Feuerwall",
-    "Description": "Erzeugt einen [Fire|Feuer]wall vor dem Charakter, der in seinem  Bereich alles [Ignite|entzündet]. Jegliche [Projectile|Projektile], die durch Euch oder Eure Verbündeten durch den Feuerwall gefeuert werden, verursachen zusätzlichen [Fire|Feuer]schaden und [Ignite|Entzünden] bei Treffer.",
+    "Description": "Erzeugt einen [Fire|Feuer]wall vor dem Charakter, der in seinem Bereich alles [Ignite|entzündet]. Jegliche [Projectile|Projektile], die durch Euch oder Eure Verbündeten durch den Feuerwall gefeuert werden, verursachen zusätzlichen [Fire|Feuer]schaden und [Ignite|Entzünden] bei Treffer.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 385
@@ -60440,7 +60440,7 @@
   {
     "Id": "hexblast",
     "DisplayedName": "Explodierende Verhexung",
-    "Description": "Detoniert [Curse|Flüche] bei Gegnern in einem Bereich, wodurch Explosionen mit [Chaos|Chaos]schaden verursacht werden, die aber den [Curse|Fluch] entfernen.",
+    "Description": "Detoniert [Curse|Flüche] bei jedem Gegner in einem Bereich, wodurch Explosionen mit [Chaos|Chaos]schaden verursacht werden, die aber den [Curse|Fluch] entfernen.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 390
@@ -65970,7 +65970,7 @@
   {
     "Id": "eye_of_winter_new",
     "DisplayedName": "Auge des Winters",
-    "Description": "Feuert ein einziges Augen-[Projectile|Projektil], das Gegner nicht [HitDamage|trifft]. Das Auge entfesselt während des Flugs konstant schädigende Splitter-[Projectile|Projektile] in Form einer Spirale, sowie eine zusätzliche Splitterexplosion am Ende seiner Flugbahn. Wenn sich das Auge über eine [ElementalGround|elementare Bodenfläche] bewegt, übernimmt es den Effekt der Bodenfläche und wendet diesen auf Gegner im Umkreis an, wodurch die Splitter mehr Schaden des zugehörigen [DamageTypes|Typs ] verursachen.",
+    "Description": "Feuert ein einziges Augen-[Projectile|Projektil], das Gegner nicht [HitDamage|trifft]. Das Auge entfesselt während des Flugs konstant schädigende Splitter-[Projectile|Projektile] in Form einer Spirale, sowie eine zusätzliche Splitterexplosion am Ende seiner Flugbahn. Wenn sich das Auge über eine [ElementalGround|elementare Bodenfläche] bewegt, übernimmt es den Effekt der Bodenfläche und wendet diesen auf Gegner im Umkreis an, wodurch die Splitter mehr Schaden des zugehörigen [DamageTypes|Typs] verursachen.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 695
@@ -66759,10 +66759,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 6
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 27
       },
       {
         "TableName": "ActiveSkillType",
@@ -68029,7 +68025,7 @@
   {
     "Id": "lightning_conduit",
     "DisplayedName": "Blitzleitung",
-    "Description": "Ruft Blitze herbei, die in alle Gegner in einem Kegel vor Euch einschlagen. Verursacht bei [Shock|geschockten] Gegnern deutlich mehr Schaden, aber [Consume|verbraucht] den [Shock|Schock] auf ihnen, nachdem ihnen dieser Schaden zugefügt wurde. Wenn Ihr auf Gegner in Eurem Umkreis zielt, springt Ihr beim Zaubern nach hinten.",
+    "Description": "Ruft Blitze herbei, die alle Gegner in einem Kegel vor Euch treffen. Verursacht bei [Shock|geschockten] Gegnern deutlich mehr Schaden, aber [Consume|verbraucht] den [Shock|Schock] auf ihnen, nachdem ihnen dieser Schaden zugefügt wurde. Wenn ein [Shock|Schock] [Consume|verbraucht] wird, werden zusätzliche Blitze auf die getroffenen Ziele verteilt. Falls Ihr auf nahestehende Gegner zielt, springt Ihr beim Zaubern nach hinten.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 438
@@ -69022,7 +69018,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 441176,
+    "Unk030": 439174,
     "AudioEvent": null,
     "Unk032": 1672,
     "Unk033": null,
@@ -69585,7 +69581,7 @@
   {
     "Id": "sandstorm_swipe",
     "DisplayedName": "Wirbelnder Schlag",
-    "Description": "Führt einen kreisförmigen Schlag aus, der einen wirbelnden Sturm aus Wind und Staub um Euch herum erzeugt, der Gegner in seinem Wirkungsbereich [Slow|verlangsamt] und sie [Blind|blendet]. Das Verlassen des Bereichs entfesselt den Wirbelsturm, wodurch dieser Schaden verursacht.",
+    "Description": "Führt einen kreisförmigen Schlag aus, der einen wirbelnden Sturm aus Wind und Staub um Euch herum erzeugt, der Gegner in seinem Wirkungsbereich [Slow|verlangsamt] und sie [Blind|blendet]. Das Verlassen des Bereichs entfesselt den Wirbelsturm, wodurch dieser Schaden verursacht und Gegner [Knockback|zurückstößt].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 448
@@ -69700,7 +69696,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 444844,
+    "Unk030": 442912,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 360
@@ -69952,7 +69948,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 446494,
+    "Unk030": 444562,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 362
@@ -70546,7 +70542,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 513
     },
-    "Unk032": 450720,
+    "Unk032": 448788,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70699,7 +70695,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 518
     },
-    "Unk032": 451720,
+    "Unk032": 449788,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70772,7 +70768,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 529
     },
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70925,7 +70921,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 525
     },
-    "Unk032": 453620,
+    "Unk032": 451688,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -70999,7 +70995,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71018,7 +71014,8 @@
     "Icon_DDSFile": "Art/2DArt/SkillIcons/PowerShotPermafrost.dds",
     "ActiveSkillTargetTypes": [
       1,
-      2
+      2,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71168,7 +71165,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 522
     },
-    "Unk032": 455382,
+    "Unk032": 453454,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71188,7 +71185,8 @@
     "ActiveSkillTargetTypes": [
       1,
       23,
-      24
+      24,
+      20
     ],
     "ActiveSkillTypes": [
       {
@@ -71238,7 +71236,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71387,7 +71385,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 536
     },
-    "Unk032": 457164,
+    "Unk032": 455240,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71457,7 +71455,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -71825,7 +71823,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72053,7 +72051,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72286,7 +72284,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72513,7 +72511,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -72776,7 +72774,7 @@
   {
     "Id": "whirling_assault",
     "DisplayedName": "Wirbelnder Angriff",
-    "Description": "Bewegt Euch fort, während Ihr Gegner um Euch herum mit einer Reihe von wirbelnden Schlägen trefft.",
+    "Description": "Bewegt Euch fort, während Ihr Gegner um Euch herum mit einer Reihe von wirbelnden [Strike|Schlägen] trefft.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 458
@@ -72894,7 +72892,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 467248,
+    "Unk030": 465792,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 326
@@ -73576,7 +73574,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 472394,
+    "Unk030": 470938,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 328
@@ -77494,7 +77492,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77713,7 +77711,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -77940,7 +77938,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78163,7 +78161,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78318,7 +78316,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 514
     },
-    "Unk032": 503256,
+    "Unk032": 501800,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78481,7 +78479,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 506
     },
-    "Unk032": 504412,
+    "Unk032": 502956,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78551,7 +78549,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78710,7 +78708,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 519
     },
-    "Unk032": 506596,
+    "Unk032": 505140,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78780,7 +78778,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -78943,7 +78941,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 503
     },
-    "Unk032": 508880,
+    "Unk032": 507424,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79013,7 +79011,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79176,7 +79174,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 534
     },
-    "Unk032": 511100,
+    "Unk032": 509644,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79246,7 +79244,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 452558,
+    "Unk032": 450626,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -79508,7 +79506,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 513584,
+    "Unk030": 512128,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 321
@@ -81697,7 +81695,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 526046,
+    "Unk030": 524590,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 330
@@ -81904,7 +81902,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 527530,
+    "Unk030": 526074,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 316
@@ -82183,7 +82181,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 529690,
+    "Unk030": 528234,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 337
@@ -82935,7 +82933,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 535306,
+    "Unk030": 533850,
     "AudioEvent": null,
     "Unk032": 1672,
     "Unk033": null,
@@ -84104,7 +84102,7 @@
       "TableName": "ActionTypes",
       "RowIndex": 234
     },
-    "Icon_DDSFile": "Art/2DArt/SkillIcons/LightningBoltSkillStaff.dds",
+    "Icon_DDSFile": "Art/2DArt/SkillIcons/GreaterLightningBoltSkill.dds",
     "ActiveSkillTargetTypes": [
       1,
       2
@@ -84727,7 +84725,7 @@
       "TableName": "ActiveSkills",
       "Id": "distance_scaled_ground_slam"
     },
-    "Unk030": 542942,
+    "Unk030": 541702,
     "AudioEvent": null,
     "Unk032": 1672,
     "Unk033": null,
@@ -84861,7 +84859,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 77032,
+    "Unk030": 76920,
     "AudioEvent": {
       "TableName": "CharacterAudioEvents",
       "RowIndex": 365
@@ -85089,7 +85087,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 545412,
+    "Unk030": 544172,
     "AudioEvent": null,
     "Unk032": 1672,
     "Unk033": null,
@@ -86907,7 +86905,7 @@
   {
     "Id": "shroud",
     "DisplayedName": "[DNT] Shroud",
-    "Description": "Gain Stealth after not using Skills or being Hit for a short time.",
+    "Description": "Erhaltet Tarnung, nachdem Ihr für kurze Zeit keine Fertigkeiten benutzt habt oder nicht getroffen wurdet.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 597
@@ -87029,7 +87027,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 559388,
+    "Unk032": 558226,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87342,7 +87340,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 523
     },
-    "Unk032": 561298,
+    "Unk032": 560136,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87546,7 +87544,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 524
     },
-    "Unk032": 561298,
+    "Unk032": 560136,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87746,7 +87744,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 499
     },
-    "Unk032": 563388,
+    "Unk032": 562226,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -87954,7 +87952,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 521
     },
-    "Unk032": 564976,
+    "Unk032": 563814,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88162,7 +88160,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 527
     },
-    "Unk032": 566776,
+    "Unk032": 565614,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88370,7 +88368,7 @@
       "TableName": "CharacterAudioEvents",
       "RowIndex": 528
     },
-    "Unk032": 566776,
+    "Unk032": 565614,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -88875,10 +88873,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 38
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 143
       },
       {
@@ -88906,7 +88900,12 @@
         "Id": "skill_effect_duration_+%"
       }
     ],
-    "MinionActiveSkillTypes": [],
+    "MinionActiveSkillTypes": [
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 38
+      }
+    ],
     "Unk018": true,
     "Unk019": true,
     "Unk020": [],
@@ -89763,7 +89762,7 @@
   },
   {
     "Id": "ice_bind",
-    "DisplayedName": "Eisige Ketten",
+    "DisplayedName": "",
     "Description": "",
     "ActionType": {
       "TableName": "ActionTypes",
@@ -94497,7 +94496,7 @@
   {
     "Id": "mana_remnants",
     "DisplayedName": "Mana-Überreste",
-    "Description": "Beschwört wogende Blitze herauf, um Euer Mana wiederherzustellen. Während die Fertigkeit aktiv ist, haben [Shock|geschockte] Gegner, die Ihr tötet, eine Chance, einen Mana-Überrest zu erzeugen, und [Critical|kritisch Treffer] gegen ein [Shock|geschocktes] Ziel erzeugen alle paar Sekunden einen Mana-Überrest. Wenn Ihr einen Mana-Überrest aufhebt, erhaltet Ihr Mana, welches das maximale Mana [Overflow|überfüllen] kann.",
+    "Description": "Beschwört wogende Blitze herauf, um Euer Mana wiederherzustellen. Während die Fertigkeit aktiv ist, haben [Shock|geschockte] Gegner, die Ihr tötet, eine Chance, einen Mana-[Remnant|Überrest] zu erzeugen, und [Critical|kritische Treffer] gegen ein [Shock|geschocktes] Ziel erzeugen alle paar Sekunden einen Mana-[Remnant|Überrest]. Wenn Ihr einen Mana-[Remnant|Überrest] aufhebt, erhaltet Ihr Mana, welches das maximale Mana [Overflow|überfüllen] kann.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 646
@@ -94895,7 +94894,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95025,7 +95024,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95151,7 +95150,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95277,7 +95276,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95411,7 +95410,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95537,7 +95536,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95663,7 +95662,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95797,7 +95796,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -95923,7 +95922,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96049,7 +96048,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96183,7 +96182,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96309,7 +96308,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96435,7 +96434,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96565,7 +96564,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96695,7 +96694,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96825,7 +96824,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -96951,7 +96950,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97085,7 +97084,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -97231,7 +97230,7 @@
     "TransfigureBase": null,
     "Unk030": 1672,
     "AudioEvent": null,
-    "Unk032": 614292,
+    "Unk032": 613162,
     "Unk033": null,
     "Unk034": null,
     "Unk035": "",
@@ -98064,7 +98063,7 @@
     },
     "Icon_DDSFile": "Art/2DArt/SkillIcons/BruteShockwaveTotem.dds",
     "ActiveSkillTargetTypes": [
-      10
+      1
     ],
     "ActiveSkillTypes": [
       {
@@ -98969,6 +98968,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -100289,6 +100292,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -101069,7 +101076,7 @@
   {
     "Id": "grim_feast",
     "DisplayedName": "Grimmiges Festmahl",
-    "Description": "Labt sich an Leichen, um Euren [EnergyShield|Energieschild] zu verstärken. Während die Fertigkeit aktiv ist, haben Gegner und [Reviving|wiederbelebende] [Minion|Kreaturen], die in Eurer [Presence|Präsenz] sterben, eine Chance, Grimmige Überreste fallen zu lassen. Das Aufheben eines Grimmigen Überrestes gewährt Euch [EnergyShield|Energieschild], der Euren maximalen [EnergyShield|Energieschild] [Overflow|überfüllen] kann.",
+    "Description": "Labt sich an Leichen, um Euren [EnergyShield|Energieschild] zu verstärken. Während die Fertigkeit aktiv ist, haben Gegner und [Reviving|wiederbelebende] [Minion|Kreaturen], die in Eurer [Presence|Präsenz] sterben, eine Chance, Grimmige [Remnant|Überreste] fallen zu lassen. Das Aufheben eines Grimmigen [Remnant|Überrestes] gewährt Euch [EnergyShield|Energieschild], der Euren maximalen [EnergyShield|Energieschild] [Overflow|überfüllen] kann.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 683
@@ -103184,7 +103191,7 @@
   {
     "Id": "blazing_cluster",
     "DisplayedName": "Glühende Salve",
-    "Description": "Beschwört eine lodernde Glut, die über Euch schwebt. Nach einer kurzen Dauer fliegt die Glut auf einen Gegner zu und verursacht beim Aufprall [Fire|Feuer]schaden in einem Gebiet. Eine erneute Nutzung dieses Zaubers setzt die Dauer für alle aktiven Gluten zurück. Mehrere Gluten, die in derselben Salve abgefeuert werden, versuchen, verschiedene Gegner zu treffen.",
+    "Description": "Beschwört eine lodernde Glut, die über Euch schwebt. Nach einer kurzen Dauer fliegt die Glut auf einen Gegner zu und verursacht beim Aufprall [Fire|Feuer]schaden in einem Gebiet und priorisiert den letzten anvisierten Gegner. Eine erneute Nutzung dieses Zaubers setzt die Dauer für alle aktiven Gluten zurück. Mehrere Gluten, die in derselben Salve abgefeuert werden, versuchen, verschiedene Gegner zu treffen.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103321,7 +103328,7 @@
   {
     "Id": "unique_dusk_vigil_triggered_blazing_cluster",
     "DisplayedName": "Glühende Salve",
-    "Description": "Beschwört eine lodernde Glut, die über Euch schwebt. Nach einer kurzen Dauer fliegt die Glut auf einen Gegner zu und verursacht beim Aufprall [Fire|Feuer]schaden in einem Gebiet. Eine erneute Nutzung dieses Zaubers setzt die Dauer für alle aktiven Gluten zurück. Mehrere Gluten, die in derselben Salve abgefeuert werden, versuchen, verschiedene Gegner zu treffen.",
+    "Description": "Beschwört eine lodernde Glut, die über Euch schwebt. Nach einer kurzen Dauer fliegt die Glut auf einen Gegner zu und verursacht beim Aufprall [Fire|Feuer]schaden in einem Gebiet und priorisiert den letzten anvisierten Gegner. Eine erneute Nutzung dieses Zaubers setzt die Dauer für alle aktiven Gluten zurück. Mehrere Gluten, die in derselben Salve abgefeuert werden, versuchen, verschiedene Gegner zu treffen.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 704
@@ -103375,6 +103382,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 89
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       }
     ],
     "WeaponRestriction_ItemClassesKeys": [],
@@ -103617,7 +103628,7 @@
     "Unk027": false,
     "Unk028": true,
     "TransfigureBase": null,
-    "Unk030": 119382,
+    "Unk030": 119270,
     "AudioEvent": null,
     "Unk032": 1672,
     "Unk033": null,
@@ -103983,7 +103994,7 @@
   {
     "Id": "life_remnants",
     "DisplayedName": "Lebens-Überreste",
-    "Description": "Trinkt das Blut Eurer Gegner, um Euer Leben wiederherzustellen. Während die Fertigkeit aktiv ist, haben Gegner, die Ihr tötet, eine Chance, einen Lebens-Überrest zu erzeugen, und [Critical|kritische Treffer] gegen ein Ziel erzeugen alle paar Sekunden einen Lebens-Überrest. Wenn Ihr einen Lebens-Überrest aufhebt, erhaltet Ihr Leben, welches das maximale Leben [Overflow|überfüllen] kann.",
+    "Description": "Trinkt das Blut Eurer Gegner, um Euer Leben wiederherzustellen. Während die Fertigkeit aktiv ist, haben Gegner, die Ihr tötet, eine Chance, einen Lebens-[Remnant|Überrest] zu erzeugen, und [Critical|kritische Treffer] gegen ein Ziel erzeugen alle paar Sekunden einen Lebens-[Remnant|Überrest]. Wenn Ihr einen Lebens-[Remnant|Überrest] aufhebt, erhaltet Ihr Leben, welches das maximale Leben [Overflow|überfüllen] kann.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 709
@@ -104820,10 +104831,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -104966,10 +104973,6 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 0
-      },
-      {
-        "TableName": "ActiveSkillType",
-        "RowIndex": 40
       },
       {
         "TableName": "ActiveSkillType",
@@ -105118,10 +105121,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105267,10 +105266,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105412,10 +105407,6 @@
       },
       {
         "TableName": "ActiveSkillType",
-        "RowIndex": 40
-      },
-      {
-        "TableName": "ActiveSkillType",
         "RowIndex": 56
       },
       {
@@ -105539,7 +105530,7 @@
   {
     "Id": "elemental_strike_trigger",
     "DisplayedName": "Elementare Energie",
-    "Description": "Erzeugt eine feurige Explosion, einen Lichtbogen oder eine eisige Welle. Die Chance auf eine feurige Explosion verhält sich proportional zu Eurer Stärke, die Chance auf einen Lichtbogen zu Eurem Geschick und die Chance auf eine eisige Welle zu Eurer Intelligenz.",
+    "Description": "Erzeugt eine feurige Explosion, einen Lichtbogen oder eine eisige Welle. Die Chance auf eine feurige Explosion verhält sich proportional zu Eurer [Strength|Stärke], die Chance auf einen Lichtbogen zu Eurem [Dexterity|Geschick] und die Chance auf eine eisige Welle zu Eurer [Intelligence|Intelligenz].",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 169
@@ -107942,7 +107933,7 @@
   {
     "Id": "cluster_grenade",
     "DisplayedName": "Cluster-Granate",
-    "Description": "Feuert eine springende Granate ab, die explodiert, wenn ihr Zünder abgelaufen ist, wodurch eine Nova kleinerer Granaten entfesselt wird, die ebenfalls nach einer weiteren Dauer explodieren.",
+    "Description": "Feuert eine springende [Grenade|Granate] ab, die explodiert, wenn ihr Zünder abgelaufen ist, wodurch eine Nova kleinerer [Grenade|Granaten] entfesselt wird, die ebenfalls nach einer weiteren Dauer explodieren.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 601
@@ -109162,7 +109153,7 @@
   {
     "Id": "burning_runes",
     "DisplayedName": "Brennende Inschrift",
-    "Description": "Erzeugt [Burning|brennenden Boden], der Gegnern Schaden zufügt, der auf einem Teil Eures maximalen Manas basiert.",
+    "Description": "Erzeugt [IgnitedGround|entzündenden Boden], der Gegner [Ignite|entzündet], basierend auf einem prozentualen Teil Eures maximalen Manas.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 756
@@ -109178,6 +109169,10 @@
       {
         "TableName": "ActiveSkillType",
         "RowIndex": 31
+      },
+      {
+        "TableName": "ActiveSkillType",
+        "RowIndex": 36
       },
       {
         "TableName": "ActiveSkillType",
@@ -110201,7 +110196,7 @@
   {
     "Id": "gathering_storm",
     "DisplayedName": "Heranziehender Sturm",
-    "Description": "Springt nach hinten und [Channelling|kanalisiert], um Euren [Quarterstaff|Kampfstab] mit [Lightning|Blitzen] aufzuladen. Beim Entfeseln spurtet Ihr in Richtung des Zielgebiets und verursacht an Gegnern auf dem Weg dorthin Schaden. Das Entfesseln der Fertigkeit zum idealen Zeitpunkt führt einen [Lightning|Blitz]verstärkten Spurt aus, der Schockwellen von Gegnern auslöst, durch die Ihr hindurchspurtet, und hinterlässt eine Spur von [ShockedGround|schockendem Boden] hinter Euch.",
+    "Description": "Springt nach hinten und [Channelling|kanalisiert], um Euren [Quarterstaff|Kampfstab] mit [Lightning|Blitzen] aufzuladen. Beim Entfesseln spurtet Ihr in Richtung des Zielgebiets und verursacht an Gegnern auf dem Weg dorthin Schaden. Das Entfesseln der Fertigkeit zum idealen Zeitpunkt führt einen [Lightning|Blitz]verstärkten Spurt aus, der Schockwellen von Gegnern auslöst, durch die Ihr hindurchspurtet, und hinterlässt eine Spur von [ShockedGround|schockendem Boden] hinter Euch.",
     "ActionType": {
       "TableName": "ActionTypes",
       "RowIndex": 767

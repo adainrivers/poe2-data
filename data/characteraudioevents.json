@@ -7256,8 +7256,11 @@
   },
   {
     "Id": "CanopyKillRitualBoss",
-    "Event": null,
-    "Unk002": 4000,
+    "Event": {
+      "TableName": "QuestFlags",
+      "Id": "CanopyQuestBossDefeated"
+    },
+    "Unk002": 7500,
     "Unk003": 0,
     "Goddess_CharacterTextAudioKeys": [],
     "JackTheAxe_CharacterTextAudioKeys": [],
@@ -7266,10 +7269,7 @@
   },
   {
     "Id": "CanopyQuestComplete",
-    "Event": {
-      "TableName": "QuestFlags",
-      "Id": "CanopyQuestBossDefeated"
-    },
+    "Event": null,
     "Unk002": 2000,
     "Unk003": 0,
     "Goddess_CharacterTextAudioKeys": [],

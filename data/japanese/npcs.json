@@ -3652,11 +3652,11 @@
   },
   {
     "Id": "Metadata/Monsters/LeagueHeist/Boss/Jamanra_",
-    "Name": "偉大なヤマンラー",
+    "Name": "偉大なヤマンラ",
     "Metadata": "Metadata/NPC/NPC",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "ヤマンラー",
+    "ShortName": "ヤマンラ",
     "Unk006": 0,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -7900,7 +7900,7 @@
   },
   {
     "Id": "Metadata/NPC/Four_Act1/ManorJournalGlyph1",
-    "Name": "ゲイオノールの日誌",
+    "Name": "ジオノールの日誌",
     "Metadata": "Metadata/NPC/Info/StoryGlyphBase",
     "Unk003": null,
     "NPCMasterKey": null,
@@ -7922,7 +7922,7 @@
   },
   {
     "Id": "Metadata/NPC/Four_Act1/ManorJournalGlyph2",
-    "Name": "ゲイオノールの日誌",
+    "Name": "ジオノールの日誌",
     "Metadata": "Metadata/NPC/Info/StoryGlyphBase",
     "Unk003": null,
     "NPCMasterKey": null,
@@ -8463,7 +8463,7 @@
   },
   {
     "Id": "Metadata/Monsters/Baron/BaronBossHumanForm",
-    "Name": "ゲイオノール伯爵",
+    "Name": "ジオノール伯爵",
     "Metadata": "Metadata/Monsters/Baron/BaronHumanForm",
     "Unk003": null,
     "NPCMasterKey": null,
@@ -12090,11 +12090,11 @@
   },
   {
     "Id": "Metadata/Monsters/Baron/BaronHumanForm",
-    "Name": "ゲイオノール伯爵",
+    "Name": "ジオノール伯爵",
     "Metadata": "Metadata/Monsters/Baron/BaronHumanForm",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "ゲイオノール伯爵",
+    "ShortName": "ジオノール伯爵",
     "Unk006": 0,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -12109,11 +12109,11 @@
   },
   {
     "Id": "Metadata/Monsters/Baron/BaronHumanFormMap",
-    "Name": "ゲイオノール伯爵",
+    "Name": "ジオノール伯爵",
     "Metadata": "Metadata/Monsters/Baron/BaronHumanFormMap",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "ゲイオノール伯爵",
+    "ShortName": "ジオノール伯爵",
     "Unk006": 0,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -12128,11 +12128,11 @@
   },
   {
     "Id": "Metadata/Monsters/Baron/BaronCorruptWolfForm",
-    "Name": "堕落した狼、ゲイオノール",
+    "Name": "堕落した狼、ジオノール",
     "Metadata": "Metadata/Monsters/Baron/BaronCorruptWolfForm",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "堕落した狼、ゲイオノール",
+    "ShortName": "堕落した狼、ジオノール",
     "Unk006": 0,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -12147,11 +12147,11 @@
   },
   {
     "Id": "Metadata/Monsters/Baron/BaronCorruptWolfFormMap",
-    "Name": "堕落した狼、ゲイオノール",
+    "Name": "堕落した狼、ジオノール",
     "Metadata": "Metadata/Monsters/Baron/BaronHumanFormWolfMap",
     "Unk003": null,
     "NPCMasterKey": null,
-    "ShortName": "堕落した狼、ゲイオノール",
+    "ShortName": "堕落した狼、ジオノール",
     "Unk006": 0,
     "NPCAudios1": [],
     "NPCAudios2": [],
@@ -12680,7 +12680,10 @@
       "RowIndex": 6
     },
     "Unk013": false,
-    "Unk014": null,
+    "Unk014": {
+      "TableName": null,
+      "RowIndex": 0
+    },
     "Gender": null,
     "Unk016": false
   },

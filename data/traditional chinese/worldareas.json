@@ -1670,7 +1670,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "Id": "MapUniqueMerchant01_Chimeral"
+        "Id": "MapUniqueCastaway"
       }
     ]
   },
@@ -3262,7 +3262,7 @@
       "RowIndex": 2906
     },
     "UnkArray02": [
-      3000
+      3002
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -3536,11 +3536,11 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "Id": "MapGothicCity"
+        "Id": "MapGrimhaven"
       },
       {
         "TableName": "WorldAreas",
-        "Id": "MapGothicCity_NoBoss"
+        "Id": "MapGrimhaven_NoBoss"
       },
       {
         "TableName": "WorldAreas",
@@ -3916,19 +3916,19 @@
       },
       {
         "TableName": "WorldAreas",
+        "Id": "MapMesa"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapBluff"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "MapUniqueUntaintedParadise"
       },
       {
         "TableName": "WorldAreas",
         "Id": "MapUniqueVault"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapUniqueCastaway"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapUniqueMegalith"
       }
     ]
   },
@@ -3968,19 +3968,19 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "MapUniqueMegalith"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapUniqueMerchant01_Chimeral"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "MapUniqueMerchant01_Oasis"
       },
       {
         "TableName": "WorldAreas",
         "Id": "MapUniqueMerchant01_Sandswept"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapUniqueMerchant02_Crimson"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapUniqueMerchant02_Farmland"
       }
     ]
   },
@@ -4033,6 +4033,14 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "MapUniqueMerchant02_Crimson"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapUniqueMerchant02_Farmland"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "MapUniqueMerchant02_Riverbank"
       },
       {
@@ -4070,14 +4078,6 @@
       {
         "TableName": "WorldAreas",
         "Id": "ExpeditionLogBook_Peninsula"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "ExpeditionLogBook_Tropical"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "ExpeditionLogBook_Tundra"
       }
     ]
   },
@@ -4109,19 +4109,19 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "ExpeditionLogBook_Tropical"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "ExpeditionLogBook_Tundra"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "ExpeditionLogBook_Atoll"
       },
       {
         "TableName": "WorldAreas",
         "Id": "ExpeditionLogBook_Digsite"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "ExpeditionSubArea_Cavern"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "ExpeditionSubArea_Kalguur"
       }
     ]
   },
@@ -4157,6 +4157,14 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "ExpeditionSubArea_Cavern"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "ExpeditionSubArea_Kalguur"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "ExpeditionSubArea_OlrothBoss"
       },
       {
@@ -4178,14 +4186,6 @@
       {
         "TableName": "WorldAreas",
         "Id": "Delirium_Act1Town"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "Delirium_Act2Reveal"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "Delirium_Act3Town"
       }
     ]
   },
@@ -4217,19 +4217,19 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "Delirium_Act2Reveal"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "Delirium_Act3Town"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "Delirium_VastiriOutskirts"
       },
       {
         "TableName": "WorldAreas",
         "Id": "BreachDomain_01"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "RitualLeagueBoss"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapHideoutFelled_Claimable"
       }
     ]
   },
@@ -4261,7 +4261,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "Id": "MapHideoutLimestone_Claimable"
+        "Id": "RitualLeagueBoss"
       }
     ]
   },
@@ -4297,19 +4297,19 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "MapHideoutFelled_Claimable"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapHideoutLimestone_Claimable"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "MapHideoutShrine_Claimable"
       },
       {
         "TableName": "WorldAreas",
         "Id": "MapHideoutCanal_Claimable"
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 384
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 385
       },
       {
         "TableName": "WorldAreas",
@@ -4802,7 +4802,7 @@
       "RowIndex": 3641
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 32,
     "SomehowConnectedAreasMaybe": [
@@ -4838,7 +4838,7 @@
       "RowIndex": 3640
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -4910,7 +4910,7 @@
       "RowIndex": 3642
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -5001,7 +5001,7 @@
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1523
+        "RowIndex": 4586
       }
     ],
     "AreaLevel": 34,
@@ -5014,7 +5014,7 @@
       "RowIndex": 3750
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -5086,7 +5086,7 @@
       "RowIndex": 3751
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -5125,7 +5125,7 @@
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1523
+        "RowIndex": 4586
       }
     ],
     "AreaLevel": 36,
@@ -5138,7 +5138,7 @@
       "RowIndex": 3752
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -5330,7 +5330,7 @@
       "RowIndex": 3753
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -5450,7 +5450,7 @@
       "RowIndex": 3767
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -5586,7 +5586,7 @@
       "RowIndex": 3770
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -5613,7 +5613,7 @@
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1523
+        "RowIndex": 4586
       }
     ],
     "AreaLevel": 38,
@@ -5626,7 +5626,7 @@
       "RowIndex": 3770
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -7239,7 +7239,7 @@
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 3000
+        "RowIndex": 3002
       },
       {
         "TableName": "WorldAreas",
@@ -7312,7 +7312,7 @@
       "RowIndex": 2906
     },
     "UnkArray02": [
-      3000
+      3002
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -7586,11 +7586,11 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "Id": "MapGothicCity"
+        "Id": "MapGrimhaven"
       },
       {
         "TableName": "WorldAreas",
-        "Id": "MapGothicCity_NoBoss"
+        "Id": "MapGrimhaven_NoBoss"
       },
       {
         "TableName": "WorldAreas",
@@ -7966,19 +7966,19 @@
       },
       {
         "TableName": "WorldAreas",
+        "Id": "MapMesa"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapBluff"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "MapUniqueUntaintedParadise"
       },
       {
         "TableName": "WorldAreas",
         "Id": "MapUniqueVault"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapUniqueCastaway"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapUniqueMegalith"
       }
     ]
   },
@@ -8018,19 +8018,19 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "MapUniqueMegalith"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapUniqueMerchant01_Chimeral"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "MapUniqueMerchant01_Oasis"
       },
       {
         "TableName": "WorldAreas",
         "Id": "MapUniqueMerchant01_Sandswept"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapUniqueMerchant02_Crimson"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapUniqueMerchant02_Farmland"
       }
     ]
   },
@@ -8064,6 +8064,14 @@
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapUniqueMerchant02_Crimson"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapUniqueMerchant02_Farmland"
+      },
       {
         "TableName": "WorldAreas",
         "Id": "MapUniqueMerchant02_Riverbank"
@@ -8103,14 +8111,6 @@
       {
         "TableName": "WorldAreas",
         "Id": "ExpeditionLogBook_Peninsula"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "ExpeditionLogBook_Tropical"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "ExpeditionLogBook_Tundra"
       }
     ]
   },
@@ -8142,19 +8142,19 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "ExpeditionLogBook_Tropical"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "ExpeditionLogBook_Tundra"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "ExpeditionLogBook_Atoll"
       },
       {
         "TableName": "WorldAreas",
         "Id": "ExpeditionLogBook_Digsite"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "ExpeditionSubArea_Cavern"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "ExpeditionSubArea_Kalguur"
       }
     ]
   },
@@ -8190,6 +8190,14 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "ExpeditionSubArea_Cavern"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "ExpeditionSubArea_Kalguur"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "ExpeditionSubArea_OlrothBoss"
       },
       {
@@ -8211,14 +8219,6 @@
       {
         "TableName": "WorldAreas",
         "Id": "Delirium_Act1Town"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "Delirium_Act2Reveal"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "Delirium_Act3Town"
       }
     ]
   },
@@ -8250,19 +8250,19 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "Delirium_Act2Reveal"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "Delirium_Act3Town"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "Delirium_VastiriOutskirts"
       },
       {
         "TableName": "WorldAreas",
         "Id": "BreachDomain_01"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "RitualLeagueBoss"
-      },
-      {
-        "TableName": "WorldAreas",
-        "Id": "MapHideoutFelled_Claimable"
       }
     ]
   },
@@ -8294,7 +8294,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "Id": "MapHideoutLimestone_Claimable"
+        "Id": "RitualLeagueBoss"
       }
     ]
   },
@@ -8330,19 +8330,19 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
+        "Id": "MapHideoutFelled_Claimable"
+      },
+      {
+        "TableName": "WorldAreas",
+        "Id": "MapHideoutLimestone_Claimable"
+      },
+      {
+        "TableName": "WorldAreas",
         "Id": "MapHideoutShrine_Claimable"
       },
       {
         "TableName": "WorldAreas",
         "Id": "MapHideoutCanal_Claimable"
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 384
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 385
       },
       {
         "TableName": "WorldAreas",
@@ -8452,7 +8452,7 @@
       "RowIndex": 3641
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 32,
     "SomehowConnectedAreasMaybe": [
@@ -8488,7 +8488,7 @@
       "RowIndex": 3640
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -8560,7 +8560,7 @@
       "RowIndex": 3642
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -8651,7 +8651,7 @@
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1523
+        "RowIndex": 4586
       }
     ],
     "AreaLevel": 58,
@@ -8664,7 +8664,7 @@
       "RowIndex": 3750
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -8736,7 +8736,7 @@
       "RowIndex": 3751
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -8775,7 +8775,7 @@
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1523
+        "RowIndex": 4586
       }
     ],
     "AreaLevel": 59,
@@ -8788,7 +8788,7 @@
       "RowIndex": 3752
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -8980,7 +8980,7 @@
       "RowIndex": 3753
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -9100,7 +9100,7 @@
       "RowIndex": 3767
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -9223,7 +9223,7 @@
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1523
+        "RowIndex": 4586
       }
     ],
     "AreaLevel": 60,
@@ -9236,7 +9236,7 @@
       "RowIndex": 3770
     },
     "UnkArray02": [
-      1523
+      4586
     ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
@@ -9572,7 +9572,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1009
+        "RowIndex": 1025
       }
     ]
   },
@@ -9589,7 +9589,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9614,7 +9616,9 @@
       "TableName": null,
       "RowIndex": 2341
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9651,7 +9655,9 @@
       "TableName": null,
       "RowIndex": 2341
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9688,7 +9694,9 @@
       "TableName": null,
       "RowIndex": 2333
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9741,7 +9749,9 @@
       "TableName": null,
       "RowIndex": 2333
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9794,7 +9804,9 @@
       "TableName": null,
       "RowIndex": 2336
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9827,7 +9839,9 @@
       "TableName": null,
       "RowIndex": 2336
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9860,7 +9874,9 @@
       "TableName": null,
       "RowIndex": 2337
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9897,7 +9913,9 @@
       "TableName": null,
       "RowIndex": 2337
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9934,7 +9952,9 @@
       "TableName": null,
       "RowIndex": 2340
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -9971,7 +9991,9 @@
       "TableName": null,
       "RowIndex": 2340
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10008,7 +10030,9 @@
       "TableName": null,
       "RowIndex": 2342
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10045,7 +10069,9 @@
       "TableName": null,
       "RowIndex": 2342
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10079,7 +10105,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10104,7 +10132,9 @@
       "TableName": null,
       "RowIndex": 2338
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10173,7 +10203,9 @@
       "TableName": null,
       "RowIndex": 2338
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10239,7 +10271,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10261,7 +10295,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10298,7 +10334,9 @@
       "TableName": null,
       "RowIndex": 2339
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10351,7 +10389,9 @@
       "TableName": null,
       "RowIndex": 2339
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10404,7 +10444,9 @@
       "TableName": null,
       "RowIndex": 2355
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10441,7 +10483,9 @@
       "TableName": null,
       "RowIndex": 2355
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10475,7 +10519,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10492,7 +10538,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860586121,
+    "UnkLong01": 1688849860717193,
     "UnkArray01": [
       212
     ],
@@ -10500,7 +10546,9 @@
       "TableName": null,
       "RowIndex": 2356
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10533,7 +10581,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860590491,
+    "UnkLong01": 1688849860721563,
     "UnkArray01": [
       212
     ],
@@ -10541,7 +10589,9 @@
       "TableName": null,
       "RowIndex": 2356
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10582,7 +10632,9 @@
       "TableName": null,
       "RowIndex": 2357
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10599,7 +10651,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860550031,
+    "UnkLong01": 2814749767392655,
     "UnkArray01": [
       212
     ],
@@ -10607,7 +10659,9 @@
       "TableName": null,
       "RowIndex": 2733
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10644,7 +10698,9 @@
       "TableName": null,
       "RowIndex": 2733
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10678,7 +10734,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10712,7 +10770,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10741,7 +10801,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860554148,
+    "UnkLong01": 2533274790686116,
     "UnkArray01": [
       212
     ],
@@ -10749,7 +10809,9 @@
       "TableName": null,
       "RowIndex": 2686
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10778,7 +10840,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860547860,
+    "UnkLong01": 2533274790679828,
     "UnkArray01": [
       212
     ],
@@ -10786,7 +10848,9 @@
       "TableName": null,
       "RowIndex": 2686
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10823,7 +10887,9 @@
       "TableName": null,
       "RowIndex": 2735
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10848,7 +10914,9 @@
       "TableName": null,
       "RowIndex": 2735
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10870,7 +10938,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10887,7 +10957,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860591394,
+    "UnkLong01": 2533274790854434,
     "UnkArray01": [
       212
     ],
@@ -10895,7 +10965,9 @@
       "TableName": null,
       "RowIndex": 2687
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10924,7 +10996,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860528018,
+    "UnkLong01": 2533274790791058,
     "UnkArray01": [
       212
     ],
@@ -10932,7 +11004,9 @@
       "TableName": null,
       "RowIndex": 2687
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10969,7 +11043,9 @@
       "TableName": null,
       "RowIndex": 2688
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -10986,7 +11062,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860579358,
+    "UnkLong01": 1688849860710430,
     "UnkArray01": [
       212
     ],
@@ -10994,7 +11070,9 @@
       "TableName": null,
       "RowIndex": 2688
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11016,7 +11094,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11038,7 +11118,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11080,7 +11162,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11125,7 +11209,9 @@
       "TableName": null,
       "RowIndex": 2731
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11162,7 +11248,9 @@
       "TableName": null,
       "RowIndex": 2731
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11196,7 +11284,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11230,7 +11320,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11267,7 +11359,9 @@
       "TableName": null,
       "RowIndex": 2689
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11292,7 +11386,9 @@
       "TableName": null,
       "RowIndex": 2689
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11309,7 +11405,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860554648,
+    "UnkLong01": 1688849860685720,
     "UnkArray01": [
       212
     ],
@@ -11317,7 +11413,9 @@
       "TableName": null,
       "RowIndex": 2730
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11354,7 +11452,7 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860545556,
+    "UnkLong01": 1688849860676628,
     "UnkArray01": [
       212
     ],
@@ -11362,7 +11460,9 @@
       "TableName": null,
       "RowIndex": 2730
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11404,7 +11504,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11426,7 +11528,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11448,7 +11552,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11465,12 +11571,14 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860533571,
+    "UnkLong01": 1688849860664643,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11531,12 +11639,14 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860575836,
+    "UnkLong01": 1688849860706908,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11602,7 +11712,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11668,7 +11780,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11734,7 +11848,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11768,7 +11884,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11790,7 +11908,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11832,7 +11952,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11877,7 +11999,9 @@
       "TableName": null,
       "RowIndex": 2732
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11906,7 +12030,9 @@
       "TableName": null,
       "RowIndex": 2732
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11935,7 +12061,9 @@
       "TableName": null,
       "RowIndex": 2734
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -11972,7 +12100,9 @@
       "TableName": null,
       "RowIndex": 2734
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12006,7 +12136,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12028,7 +12160,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12050,7 +12184,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12072,7 +12208,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12094,7 +12232,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12116,7 +12256,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12141,7 +12283,9 @@
       "TableName": null,
       "RowIndex": 2332
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12182,7 +12326,9 @@
       "TableName": null,
       "RowIndex": 2332
     },
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12220,7 +12366,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12254,7 +12402,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12288,7 +12438,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12298,19 +12450,21 @@
     ]
   },
   {
-    "Id": "MapGothicCity",
-    "Name": "哥德之城",
+    "Id": "MapGrimhaven",
+    "Name": "Grimhaven",
     "Act": 10,
     "IsTown": false,
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860527945,
+    "UnkLong01": 1688849860591556,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12320,19 +12474,21 @@
     ]
   },
   {
-    "Id": "MapGothicCity_NoBoss",
-    "Name": "哥德之城",
+    "Id": "MapGrimhaven_NoBoss",
+    "Name": "Grimhaven",
     "Act": 10,
     "IsTown": false,
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860550371,
+    "UnkLong01": 1688849860528204,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12354,7 +12510,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12376,7 +12534,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12398,7 +12558,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12420,7 +12582,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12437,12 +12601,14 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860563993,
+    "UnkLong01": 1688849860826137,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12467,12 +12633,14 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860548482,
+    "UnkLong01": 1688849860810626,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12502,7 +12670,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12536,7 +12706,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12570,7 +12742,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12591,8 +12765,13 @@
     "UnkArray01": [
       212
     ],
-    "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkRef01": {
+      "TableName": null,
+      "RowIndex": 2357
+    },
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12618,137 +12797,15 @@
       {
         "TableName": "WorldAreas",
         "RowIndex": 893
-      }
-    ]
-  },
-  {
-    "Id": "MapRockpools",
-    "Name": "岩池",
-    "Act": 10,
-    "IsTown": false,
-    "HasWaypoint": false,
-    "ConnectedWorldAreas": [],
-    "AreaLevel": 65,
-    "UnkLong01": 1688849860559422,
-    "UnkArray01": [
-      212
-    ],
-    "UnkRef01": null,
-    "UnkArray02": [],
-    "UnkInt01": 6,
-    "SomehowConnectedAreasMaybe": [
+      },
       {
         "TableName": "WorldAreas",
         "RowIndex": 894
-      }
-    ]
-  },
-  {
-    "Id": "MapRockpools_NoBoss",
-    "Name": "岩池",
-    "Act": 10,
-    "IsTown": false,
-    "HasWaypoint": false,
-    "ConnectedWorldAreas": [],
-    "AreaLevel": 65,
-    "UnkLong01": 1688849860561219,
-    "UnkArray01": [
-      212
-    ],
-    "UnkRef01": null,
-    "UnkArray02": [],
-    "UnkInt01": 6,
-    "SomehowConnectedAreasMaybe": [
+      },
       {
         "TableName": "WorldAreas",
         "RowIndex": 895
-      }
-    ]
-  },
-  {
-    "Id": "MapCreek",
-    "Name": "小溪",
-    "Act": 10,
-    "IsTown": false,
-    "HasWaypoint": false,
-    "ConnectedWorldAreas": [],
-    "AreaLevel": 65,
-    "UnkLong01": 1688849860565451,
-    "UnkArray01": [
-      212
-    ],
-    "UnkRef01": null,
-    "UnkArray02": [],
-    "UnkInt01": 6,
-    "SomehowConnectedAreasMaybe": [
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 900
       },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 901
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 902
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 903
-      }
-    ]
-  },
-  {
-    "Id": "MapCreek_NoBoss",
-    "Name": "小溪",
-    "Act": 10,
-    "IsTown": false,
-    "HasWaypoint": false,
-    "ConnectedWorldAreas": [],
-    "AreaLevel": 65,
-    "UnkLong01": 1688849860562299,
-    "UnkArray01": [
-      212
-    ],
-    "UnkRef01": null,
-    "UnkArray02": [],
-    "UnkInt01": 6,
-    "SomehowConnectedAreasMaybe": [
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 904
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 905
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 906
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 907
-      }
-    ]
-  },
-  {
-    "Id": "MapLushBurrow",
-    "Name": "蓊鬱陋居",
-    "Act": 10,
-    "IsTown": false,
-    "HasWaypoint": false,
-    "ConnectedWorldAreas": [],
-    "AreaLevel": 65,
-    "UnkLong01": 1688849860561454,
-    "UnkArray01": [
-      212
-    ],
-    "UnkRef01": null,
-    "UnkArray02": [],
-    "UnkInt01": 6,
-    "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
         "RowIndex": 896
@@ -12768,6 +12825,162 @@
     ]
   },
   {
+    "Id": "MapRockpools",
+    "Name": "岩池",
+    "Act": 10,
+    "IsTown": false,
+    "HasWaypoint": false,
+    "ConnectedWorldAreas": [],
+    "AreaLevel": 65,
+    "UnkLong01": 1688849860559422,
+    "UnkArray01": [
+      212
+    ],
+    "UnkRef01": null,
+    "UnkArray02": [
+      59
+    ],
+    "UnkInt01": 6,
+    "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 900
+      }
+    ]
+  },
+  {
+    "Id": "MapRockpools_NoBoss",
+    "Name": "岩池",
+    "Act": 10,
+    "IsTown": false,
+    "HasWaypoint": false,
+    "ConnectedWorldAreas": [],
+    "AreaLevel": 65,
+    "UnkLong01": 1688849860561219,
+    "UnkArray01": [
+      212
+    ],
+    "UnkRef01": null,
+    "UnkArray02": [
+      59
+    ],
+    "UnkInt01": 6,
+    "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 901
+      }
+    ]
+  },
+  {
+    "Id": "MapCreek",
+    "Name": "小溪",
+    "Act": 10,
+    "IsTown": false,
+    "HasWaypoint": false,
+    "ConnectedWorldAreas": [],
+    "AreaLevel": 65,
+    "UnkLong01": 1688849860565451,
+    "UnkArray01": [
+      212
+    ],
+    "UnkRef01": null,
+    "UnkArray02": [
+      59
+    ],
+    "UnkInt01": 6,
+    "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 906
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 907
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 908
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 909
+      }
+    ]
+  },
+  {
+    "Id": "MapCreek_NoBoss",
+    "Name": "小溪",
+    "Act": 10,
+    "IsTown": false,
+    "HasWaypoint": false,
+    "ConnectedWorldAreas": [],
+    "AreaLevel": 65,
+    "UnkLong01": 1688849860562299,
+    "UnkArray01": [
+      212
+    ],
+    "UnkRef01": null,
+    "UnkArray02": [
+      59
+    ],
+    "UnkInt01": 6,
+    "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 910
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 911
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 912
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 913
+      }
+    ]
+  },
+  {
+    "Id": "MapLushBurrow",
+    "Name": "蓊鬱陋居",
+    "Act": 10,
+    "IsTown": false,
+    "HasWaypoint": false,
+    "ConnectedWorldAreas": [],
+    "AreaLevel": 65,
+    "UnkLong01": 1688849860561454,
+    "UnkArray01": [
+      212
+    ],
+    "UnkRef01": null,
+    "UnkArray02": [
+      59
+    ],
+    "UnkInt01": 6,
+    "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 902
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 903
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 904
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 905
+      }
+    ]
+  },
+  {
     "Id": "MapUmbra",
     "Name": "日陰",
     "Act": 10,
@@ -12780,24 +12993,26 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 908
+        "RowIndex": 914
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 909
+        "RowIndex": 915
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 910
+        "RowIndex": 916
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 911
+        "RowIndex": 917
       }
     ]
   },
@@ -12814,12 +13029,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 912
+        "RowIndex": 918
       }
     ]
   },
@@ -12836,7 +13053,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12858,7 +13077,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12880,7 +13101,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -12902,24 +13125,26 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 924
+        "RowIndex": 930
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 925
+        "RowIndex": 931
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 926
+        "RowIndex": 932
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 927
+        "RowIndex": 933
       }
     ]
   },
@@ -12936,24 +13161,26 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 928
+        "RowIndex": 934
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 929
+        "RowIndex": 935
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 930
+        "RowIndex": 936
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 931
+        "RowIndex": 937
       }
     ]
   },
@@ -12965,17 +13192,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860583404,
+    "UnkLong01": 2533274790715372,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 913
+        "RowIndex": 919
       }
     ]
   },
@@ -12987,17 +13216,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860540538,
+    "UnkLong01": 2533274790672506,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 914
+        "RowIndex": 920
       }
     ]
   },
@@ -13014,24 +13245,26 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 915
+        "RowIndex": 921
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 916
+        "RowIndex": 922
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 917
+        "RowIndex": 923
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 918
+        "RowIndex": 924
       }
     ]
   },
@@ -13048,24 +13281,26 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 919
+        "RowIndex": 925
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 920
+        "RowIndex": 926
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 921
+        "RowIndex": 927
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 922
+        "RowIndex": 928
       }
     ]
   },
@@ -13077,17 +13312,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860560493,
+    "UnkLong01": 1970324837336685,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 932
+        "RowIndex": 938
       }
     ]
   },
@@ -13099,17 +13336,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860526366,
+    "UnkLong01": 1688849860657438,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 933
+        "RowIndex": 939
       }
     ]
   },
@@ -13126,12 +13365,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 937
+        "RowIndex": 943
       }
     ]
   },
@@ -13148,12 +13389,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 937
+        "RowIndex": 943
       }
     ]
   },
@@ -13170,12 +13413,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 935
+        "RowIndex": 941
       }
     ]
   },
@@ -13192,12 +13437,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 936
+        "RowIndex": 942
       }
     ]
   },
@@ -13214,12 +13461,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 939
+        "RowIndex": 945
       }
     ]
   },
@@ -13236,12 +13485,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 940
+        "RowIndex": 946
       }
     ]
   },
@@ -13258,7 +13509,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -13280,7 +13533,9 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
@@ -13302,12 +13557,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 923
+        "RowIndex": 929
       }
     ]
   },
@@ -13323,13 +13580,18 @@
     "UnkArray01": [
       212
     ],
-    "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkRef01": {
+      "TableName": null,
+      "RowIndex": 2357
+    },
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 934
+        "RowIndex": 940
       }
     ]
   },
@@ -13341,38 +13603,16 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860546216,
+    "UnkLong01": 2533274790809256,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 941
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 942
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 943
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 944
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 945
-      },
-      {
-        "TableName": "WorldAreas",
-        "RowIndex": 946
-      },
       {
         "TableName": "WorldAreas",
         "RowIndex": 947
@@ -13380,25 +13620,7 @@
       {
         "TableName": "WorldAreas",
         "RowIndex": 948
-      }
-    ]
-  },
-  {
-    "Id": "MapSunTemple_NoBoss",
-    "Name": "太陽神殿",
-    "Act": 10,
-    "IsTown": false,
-    "HasWaypoint": false,
-    "ConnectedWorldAreas": [],
-    "AreaLevel": 65,
-    "UnkLong01": 1688849860589882,
-    "UnkArray01": [
-      212
-    ],
-    "UnkRef01": null,
-    "UnkArray02": [],
-    "UnkInt01": 6,
-    "SomehowConnectedAreasMaybe": [
+      },
       {
         "TableName": "WorldAreas",
         "RowIndex": 949
@@ -13422,7 +13644,27 @@
       {
         "TableName": "WorldAreas",
         "RowIndex": 954
-      },
+      }
+    ]
+  },
+  {
+    "Id": "MapSunTemple_NoBoss",
+    "Name": "太陽神殿",
+    "Act": 10,
+    "IsTown": false,
+    "HasWaypoint": false,
+    "ConnectedWorldAreas": [],
+    "AreaLevel": 65,
+    "UnkLong01": 2533274790852922,
+    "UnkArray01": [
+      212
+    ],
+    "UnkRef01": null,
+    "UnkArray02": [
+      59
+    ],
+    "UnkInt01": 6,
+    "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
         "RowIndex": 955
@@ -13430,6 +13672,30 @@
       {
         "TableName": "WorldAreas",
         "RowIndex": 956
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 957
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 958
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 959
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 960
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 961
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 962
       }
     ]
   },
@@ -13441,17 +13707,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860567066,
+    "UnkLong01": 1688849860829210,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 957
+        "RowIndex": 963
       }
     ]
   },
@@ -13463,17 +13731,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860581723,
+    "UnkLong01": 1688849860843867,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 958
+        "RowIndex": 964
       }
     ]
   },
@@ -13485,17 +13755,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860586338,
+    "UnkLong01": 2533274790718306,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 959
+        "RowIndex": 965
       }
     ]
   },
@@ -13507,17 +13779,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860582009,
+    "UnkLong01": 2533274790713977,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 960
+        "RowIndex": 966
       }
     ]
   },
@@ -13534,12 +13808,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 961
+        "RowIndex": 967
       }
     ]
   },
@@ -13556,31 +13832,81 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 962
+        "RowIndex": 968
       }
     ]
   },
   {
-    "Id": "MapUniqueUntaintedParadise",
-    "Name": "純淨樂園",
+    "Id": "MapMesa",
+    "Name": "Mesa",
     "Act": 10,
     "IsTown": false,
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860532632,
+    "UnkLong01": 1688849860545943,
     "UnkArray01": [
       212
     ],
-    "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkRef01": {
+      "TableName": null,
+      "RowIndex": 2357
+    },
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 969
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 970
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 971
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 972
+      }
+    ]
+  },
+  {
+    "Id": "MapBluff",
+    "Name": "Bluff",
+    "Act": 10,
+    "IsTown": false,
+    "HasWaypoint": false,
+    "ConnectedWorldAreas": [],
+    "AreaLevel": 65,
+    "UnkLong01": 1688849860530272,
+    "UnkArray01": [
+      212
+    ],
+    "UnkRef01": {
+      "TableName": null,
+      "RowIndex": 2357
+    },
+    "UnkArray02": [
+      59
+    ],
+    "UnkInt01": 6,
+    "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 973
+      },
       {
         "TableName": "WorldAreas",
         "RowIndex": 974
@@ -13592,6 +13918,46 @@
       {
         "TableName": "WorldAreas",
         "RowIndex": 976
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 977
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 978
+      }
+    ]
+  },
+  {
+    "Id": "MapUniqueUntaintedParadise",
+    "Name": "純淨樂園",
+    "Act": 10,
+    "IsTown": false,
+    "HasWaypoint": false,
+    "ConnectedWorldAreas": [],
+    "AreaLevel": 65,
+    "UnkLong01": 3377699721058712,
+    "UnkArray01": [
+      212
+    ],
+    "UnkRef01": null,
+    "UnkArray02": [
+      59
+    ],
+    "UnkInt01": 6,
+    "SomehowConnectedAreasMaybe": [
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 990
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 991
+      },
+      {
+        "TableName": "WorldAreas",
+        "RowIndex": 992
       }
     ]
   },
@@ -13608,16 +13974,18 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 973
+        "RowIndex": 989
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 979
+        "RowIndex": 995
       }
     ]
   },
@@ -13634,12 +14002,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 977
+        "RowIndex": 993
       }
     ]
   },
@@ -13656,12 +14026,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 978
+        "RowIndex": 994
       }
     ]
   },
@@ -13678,12 +14050,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 963
+        "RowIndex": 979
       }
     ]
   },
@@ -13700,12 +14074,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 964
+        "RowIndex": 980
       }
     ]
   },
@@ -13722,12 +14098,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 965
+        "RowIndex": 981
       }
     ]
   },
@@ -13744,12 +14122,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 966
+        "RowIndex": 982
       }
     ]
   },
@@ -13766,12 +14146,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 967
+        "RowIndex": 983
       }
     ]
   },
@@ -13788,12 +14170,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 968
+        "RowIndex": 984
       }
     ]
   },
@@ -13810,12 +14194,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 969
+        "RowIndex": 985
       }
     ]
   },
@@ -13832,12 +14218,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 971
+        "RowIndex": 987
       }
     ]
   },
@@ -13849,17 +14237,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860536081,
+    "UnkLong01": 10001,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 970
+        "RowIndex": 986
       }
     ]
   },
@@ -13876,12 +14266,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 972
+        "RowIndex": 988
       }
     ]
   },
@@ -13893,21 +14285,23 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 80,
-    "UnkLong01": 1688849860568848,
+    "UnkLong01": 2533274790962960,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 981
+        "RowIndex": 997
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 982
+        "RowIndex": 998
       }
     ]
   },
@@ -13919,21 +14313,23 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 80,
-    "UnkLong01": 1688849860577993,
+    "UnkLong01": 1688849860840137,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 983
+        "RowIndex": 999
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1010
+        "RowIndex": 1026
       }
     ]
   },
@@ -13945,21 +14341,23 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 80,
-    "UnkLong01": 1688849860549253,
+    "UnkLong01": 2533274790943365,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 984
+        "RowIndex": 1000
       },
       {
         "TableName": "WorldAreas",
-        "RowIndex": 985
+        "RowIndex": 1001
       }
     ]
   },
@@ -13976,12 +14374,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 980
+        "RowIndex": 996
       }
     ]
   },
@@ -13998,12 +14398,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 987
+        "RowIndex": 1003
       }
     ]
   },
@@ -14020,12 +14422,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 986
+        "RowIndex": 1002
       }
     ]
   },
@@ -14042,12 +14446,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 988
+        "RowIndex": 1004
       }
     ]
   },
@@ -14064,12 +14470,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 989
+        "RowIndex": 1005
       }
     ]
   },
@@ -14086,12 +14494,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 990
+        "RowIndex": 1006
       }
     ]
   },
@@ -14113,7 +14523,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 991
+        "RowIndex": 1007
       }
     ]
   },
@@ -14135,7 +14545,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 992
+        "RowIndex": 1008
       }
     ]
   },
@@ -14157,7 +14567,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 993
+        "RowIndex": 1009
       }
     ]
   },
@@ -14179,7 +14589,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 994
+        "RowIndex": 1010
       }
     ]
   },
@@ -14201,7 +14611,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 995
+        "RowIndex": 1011
       }
     ]
   },
@@ -14223,7 +14633,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 996
+        "RowIndex": 1012
       }
     ]
   },
@@ -14245,7 +14655,7 @@
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 997
+        "RowIndex": 1013
       }
     ]
   },
@@ -14262,12 +14672,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 998
+        "RowIndex": 1014
       }
     ]
   },
@@ -14284,12 +14696,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 999
+        "RowIndex": 1015
       }
     ]
   },
@@ -14306,12 +14720,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1000
+        "RowIndex": 1016
       }
     ]
   },
@@ -14328,12 +14744,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1001
+        "RowIndex": 1017
       }
     ]
   },
@@ -14350,12 +14768,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1002
+        "RowIndex": 1018
       }
     ]
   },
@@ -14372,12 +14792,14 @@
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1003
+        "RowIndex": 1019
       }
     ]
   },
@@ -14389,17 +14811,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860585156,
+    "UnkLong01": 14073748835854020,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1004
+        "RowIndex": 1020
       }
     ]
   },
@@ -14411,17 +14835,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860585719,
+    "UnkLong01": 14073748835854583,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1005
+        "RowIndex": 1021
       }
     ]
   },
@@ -14433,17 +14859,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860568400,
+    "UnkLong01": 14073748835837264,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1007
+        "RowIndex": 1023
       }
     ]
   },
@@ -14455,17 +14883,19 @@
     "HasWaypoint": false,
     "ConnectedWorldAreas": [],
     "AreaLevel": 65,
-    "UnkLong01": 1688849860553175,
+    "UnkLong01": 14073748835822039,
     "UnkArray01": [
       212
     ],
     "UnkRef01": null,
-    "UnkArray02": [],
+    "UnkArray02": [
+      59
+    ],
     "UnkInt01": 6,
     "SomehowConnectedAreasMaybe": [
       {
         "TableName": "WorldAreas",
-        "RowIndex": 1008
+        "RowIndex": 1024
       }
     ]
   }

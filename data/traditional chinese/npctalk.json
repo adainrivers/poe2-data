@@ -18504,7 +18504,7 @@
     "Unk005": [
       3002
     ],
-    "Script": "triggerer.EnableWaypoint(G2_1); triggerer.AreaTransitionTo(G2_1); triggerer.FinishNPCChat();",
+    "Script": "triggerer.EnableWaypoint(G2_1); triggerer.AreaTransitionTo(G2_1, false, 0.1); triggerer.FinishNPCChat();",
     "TextAudio": null,
     "Category": {
       "TableName": "NPCTalkCategory",
@@ -18546,7 +18546,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 17850
+      "RowIndex": 17874
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -18607,7 +18607,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 18258
+      "RowIndex": 18282
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -18668,7 +18668,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 18438
+      "RowIndex": 18462
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -18735,7 +18735,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 18496
+      "RowIndex": 18520
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -18762,7 +18762,7 @@
     "Unk005": [
       3002
     ],
-    "Script": "triggerer.EnableWaypoint(C_G2_1); triggerer.AreaTransitionTo(C_G2_1); triggerer.FinishNPCChat();",
+    "Script": "triggerer.EnableWaypoint(C_G2_1); triggerer.AreaTransitionTo(C_G2_1, false, 0.1); triggerer.FinishNPCChat();",
     "TextAudio": null,
     "Category": {
       "TableName": "NPCTalkCategory",
@@ -18804,7 +18804,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 18756
+      "RowIndex": 18804
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -18874,7 +18874,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 18982
+      "RowIndex": 19030
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -18944,7 +18944,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19030
+      "RowIndex": 19078
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19005,7 +19005,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19046
+      "RowIndex": 19094
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19066,7 +19066,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19066
+      "RowIndex": 19114
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19133,7 +19133,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19114
+      "RowIndex": 19162
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19201,7 +19201,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19160
+      "RowIndex": 19208
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19266,7 +19266,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19204
+      "RowIndex": 19252
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19327,7 +19327,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19208
+      "RowIndex": 19256
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19388,7 +19388,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19212
+      "RowIndex": 19260
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19458,7 +19458,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19260
+      "RowIndex": 19308
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19525,7 +19525,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19318
+      "RowIndex": 19366
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19593,7 +19593,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19392
+      "RowIndex": 19440
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19660,7 +19660,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19448
+      "RowIndex": 19496
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19728,7 +19728,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19520
+      "RowIndex": 19568
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19793,7 +19793,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19568
+      "RowIndex": 19616
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19858,7 +19858,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19600
+      "RowIndex": 19648
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19925,7 +19925,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19656
+      "RowIndex": 19704
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -19997,7 +19997,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19720
+      "RowIndex": 19768
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20064,7 +20064,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19778
+      "RowIndex": 19826
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20131,7 +20131,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19836
+      "RowIndex": 19884
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20198,7 +20198,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19896
+      "RowIndex": 19944
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20265,7 +20265,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 19958
+      "RowIndex": 20006
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20332,7 +20332,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 20016
+      "RowIndex": 20064
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20404,7 +20404,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 20080
+      "RowIndex": 20128
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20473,7 +20473,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 20144
+      "RowIndex": 20192
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20543,7 +20543,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 20192
+      "RowIndex": 20240
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20604,7 +20604,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 20196
+      "RowIndex": 20244
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20665,7 +20665,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 20200
+      "RowIndex": 20248
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20732,7 +20732,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 20258
+      "RowIndex": 20306
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20759,7 +20759,7 @@
     "Unk005": [
       4587
     ],
-    "Script": "triggerer.FinishNPCChat(); DirtyStateMachine(); triggerer.waiting_for_anim = 1; Delay( 3.0, { globals.hooded_one_reveal.TriggerInteraction(triggerer); triggerer.waiting_for_anim = null; } );",
+    "Script": "triggerer.FinishNPCChat(); DirtyStateMachine(); triggerer.waiting_for_anim = 1; Delay( 4.0, { globals.hooded_one_reveal.TriggerInteraction(triggerer); triggerer.waiting_for_anim = null; } );",
     "TextAudio": {
       "TableName": "NPCTextAudio",
       "Id": "MavenTier1ReleaseBossIntoArena8"
@@ -20804,7 +20804,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 20810
+      "RowIndex": 20858
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20876,7 +20876,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 21412
+      "RowIndex": 21460
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -20948,7 +20948,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 21654
+      "RowIndex": 21702
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21020,7 +21020,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 21924
+      "RowIndex": 21972
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21090,7 +21090,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 21972
+      "RowIndex": 22020
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21157,7 +21157,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22020
+      "RowIndex": 22068
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21224,7 +21224,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22076
+      "RowIndex": 22124
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21291,7 +21291,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22132
+      "RowIndex": 22180
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21356,7 +21356,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22164
+      "RowIndex": 22212
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21430,7 +21430,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22314
+      "RowIndex": 22362
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21504,7 +21504,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22448
+      "RowIndex": 22496
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21565,7 +21565,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22452
+      "RowIndex": 22500
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21626,7 +21626,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22456
+      "RowIndex": 22504
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21696,7 +21696,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22520
+      "RowIndex": 22568
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21761,7 +21761,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22566
+      "RowIndex": 22614
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21831,7 +21831,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22630
+      "RowIndex": 22678
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21898,7 +21898,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22690
+      "RowIndex": 22738
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -21965,7 +21965,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22752
+      "RowIndex": 22800
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22037,7 +22037,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22830
+      "RowIndex": 22878
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22109,7 +22109,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22908
+      "RowIndex": 22956
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22181,7 +22181,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 22984
+      "RowIndex": 23032
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22256,7 +22256,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23110
+      "RowIndex": 23158
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22325,7 +22325,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23194
+      "RowIndex": 23242
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22395,7 +22395,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23286
+      "RowIndex": 23334
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22460,7 +22460,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23340
+      "RowIndex": 23388
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22527,7 +22527,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23410
+      "RowIndex": 23458
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22598,7 +22598,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23506
+      "RowIndex": 23554
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22667,7 +22667,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23570
+      "RowIndex": 23618
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22734,7 +22734,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23618
+      "RowIndex": 23666
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22801,7 +22801,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23678
+      "RowIndex": 23726
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22866,7 +22866,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23734
+      "RowIndex": 23782
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -22940,7 +22940,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23812
+      "RowIndex": 23860
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23011,7 +23011,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23888
+      "RowIndex": 23936
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23082,7 +23082,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 23972
+      "RowIndex": 24020
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23153,7 +23153,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24052
+      "RowIndex": 24100
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23224,7 +23224,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24134
+      "RowIndex": 24182
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23295,7 +23295,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24198
+      "RowIndex": 24246
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23356,7 +23356,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24202
+      "RowIndex": 24250
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23417,7 +23417,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24206
+      "RowIndex": 24254
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23488,7 +23488,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24270
+      "RowIndex": 24318
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23557,7 +23557,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24334
+      "RowIndex": 24382
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23624,7 +23624,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24382
+      "RowIndex": 24430
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23692,7 +23692,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24422
+      "RowIndex": 24470
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23750,7 +23750,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24570
+      "RowIndex": 24618
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23811,7 +23811,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24574
+      "RowIndex": 24622
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23872,7 +23872,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24578
+      "RowIndex": 24626
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -23937,7 +23937,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24624
+      "RowIndex": 24672
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24005,7 +24005,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24706
+      "RowIndex": 24754
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24073,7 +24073,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24770
+      "RowIndex": 24818
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24141,7 +24141,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24850
+      "RowIndex": 24898
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24209,7 +24209,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24928
+      "RowIndex": 24976
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24274,7 +24274,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 24978
+      "RowIndex": 25026
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24342,7 +24342,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25060
+      "RowIndex": 25108
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24407,7 +24407,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25110
+      "RowIndex": 25158
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24474,7 +24474,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25158
+      "RowIndex": 25206
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24541,7 +24541,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25206
+      "RowIndex": 25254
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24608,7 +24608,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25254
+      "RowIndex": 25302
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24675,7 +24675,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25302
+      "RowIndex": 25350
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24742,7 +24742,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25350
+      "RowIndex": 25398
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24809,7 +24809,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25398
+      "RowIndex": 25446
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24879,7 +24879,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25494
+      "RowIndex": 25542
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -24947,7 +24947,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25574
+      "RowIndex": 25622
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25010,7 +25010,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25674
+      "RowIndex": 25722
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25075,7 +25075,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25722
+      "RowIndex": 25770
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25147,7 +25147,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25770
+      "RowIndex": 25818
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25215,7 +25215,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25914
+      "RowIndex": 25962
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25288,7 +25288,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 25978
+      "RowIndex": 26026
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25353,7 +25353,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26010
+      "RowIndex": 26058
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25421,7 +25421,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26054
+      "RowIndex": 26102
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25486,7 +25486,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26098
+      "RowIndex": 26146
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25553,7 +25553,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26158
+      "RowIndex": 26206
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25618,7 +25618,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26202
+      "RowIndex": 26250
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25690,7 +25690,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26280
+      "RowIndex": 26328
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25762,7 +25762,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26358
+      "RowIndex": 26406
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25833,7 +25833,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26434
+      "RowIndex": 26482
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25902,7 +25902,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26512
+      "RowIndex": 26560
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -25969,7 +25969,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26560
+      "RowIndex": 26608
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26041,7 +26041,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26624
+      "RowIndex": 26672
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26108,7 +26108,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26672
+      "RowIndex": 26720
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26175,7 +26175,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26734
+      "RowIndex": 26782
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26242,7 +26242,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26782
+      "RowIndex": 26830
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26315,7 +26315,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26874
+      "RowIndex": 26922
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26389,7 +26389,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26938
+      "RowIndex": 26986
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26454,7 +26454,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 26996
+      "RowIndex": 27044
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26527,7 +26527,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 27090
+      "RowIndex": 27138
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26595,7 +26595,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 27122
+      "RowIndex": 27170
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26667,7 +26667,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 27198
+      "RowIndex": 27246
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26694,7 +26694,7 @@
     "Unk005": [
       4586
     ],
-    "Script": "IfInArea( G2_town, (){ triggerer.EnableWaypoint(G3_1); triggerer.AreaTransitionTo(G3_1); triggerer.FinishNPCChat(); }, (){ triggerer.EnableWaypoint(C_G3_1); triggerer.AreaTransitionTo(C_G3_1); triggerer.FinishNPCChat(); } );",
+    "Script": "IfInArea( G2_town, (){ triggerer.EnableWaypoint(G3_1); triggerer.AreaTransitionTo(G3_1, false, 0.1); triggerer.FinishNPCChat(); }, (){ triggerer.EnableWaypoint(C_G3_1); triggerer.AreaTransitionTo(C_G3_1, false, 0.1); triggerer.FinishNPCChat(); } );",
     "TextAudio": null,
     "Category": {
       "TableName": "NPCTalkCategory",
@@ -26736,7 +26736,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 27840
+      "RowIndex": 27936
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26803,7 +26803,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 27904
+      "RowIndex": 28000
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26876,7 +26876,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 27984
+      "RowIndex": 28080
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -26948,7 +26948,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28060
+      "RowIndex": 28156
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27019,7 +27019,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28124
+      "RowIndex": 28220
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27088,7 +27088,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28200
+      "RowIndex": 28296
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27155,7 +27155,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28260
+      "RowIndex": 28356
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27225,7 +27225,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28468
+      "RowIndex": 28564
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27287,7 +27287,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28636
+      "RowIndex": 28732
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27349,7 +27349,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28760
+      "RowIndex": 28856
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27423,7 +27423,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28824
+      "RowIndex": 28920
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27490,7 +27490,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 28884
+      "RowIndex": 28980
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27564,7 +27564,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29292
+      "RowIndex": 29388
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27631,7 +27631,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29348
+      "RowIndex": 29444
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27698,7 +27698,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29396
+      "RowIndex": 29492
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27810,7 +27810,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29604
+      "RowIndex": 29700
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27884,7 +27884,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29682
+      "RowIndex": 29778
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -27955,7 +27955,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29760
+      "RowIndex": 29856
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28029,7 +28029,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29836
+      "RowIndex": 29932
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28094,7 +28094,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29876
+      "RowIndex": 29972
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28161,7 +28161,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29924
+      "RowIndex": 30020
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28230,7 +28230,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 29988
+      "RowIndex": 30084
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28297,7 +28297,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30036
+      "RowIndex": 30132
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28364,7 +28364,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30084
+      "RowIndex": 30180
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28435,7 +28435,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30148
+      "RowIndex": 30244
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28502,7 +28502,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30196
+      "RowIndex": 30292
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28576,7 +28576,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30272
+      "RowIndex": 30368
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28650,7 +28650,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30382
+      "RowIndex": 30478
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28723,7 +28723,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30478
+      "RowIndex": 30574
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28795,7 +28795,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30582
+      "RowIndex": 30678
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28866,7 +28866,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30694
+      "RowIndex": 30790
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28936,7 +28936,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30742
+      "RowIndex": 30838
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -28997,7 +28997,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30750
+      "RowIndex": 30846
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29066,7 +29066,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30814
+      "RowIndex": 30910
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29135,7 +29135,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30878
+      "RowIndex": 30974
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29206,7 +29206,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30942
+      "RowIndex": 31038
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29273,7 +29273,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 30990
+      "RowIndex": 31086
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29341,7 +29341,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31242
+      "RowIndex": 31338
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29410,7 +29410,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31302
+      "RowIndex": 31398
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29478,7 +29478,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31354
+      "RowIndex": 31450
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29548,7 +29548,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31410
+      "RowIndex": 31506
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29615,7 +29615,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31466
+      "RowIndex": 31562
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29680,7 +29680,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31498
+      "RowIndex": 31594
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29745,7 +29745,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31530
+      "RowIndex": 31626
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29812,7 +29812,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31578
+      "RowIndex": 31674
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29879,7 +29879,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31636
+      "RowIndex": 31732
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -29948,7 +29948,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31700
+      "RowIndex": 31796
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30015,7 +30015,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31748
+      "RowIndex": 31844
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30084,7 +30084,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31812
+      "RowIndex": 31908
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30154,7 +30154,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31892
+      "RowIndex": 31988
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30222,7 +30222,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 31956
+      "RowIndex": 32052
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30291,7 +30291,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32020
+      "RowIndex": 32116
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30358,7 +30358,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32078
+      "RowIndex": 32174
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30427,7 +30427,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32142
+      "RowIndex": 32238
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30492,7 +30492,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32182
+      "RowIndex": 32278
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30557,7 +30557,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32226
+      "RowIndex": 32322
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30626,7 +30626,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32290
+      "RowIndex": 32386
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30687,7 +30687,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32294
+      "RowIndex": 32390
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30750,7 +30750,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32314
+      "RowIndex": 32410
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30818,7 +30818,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32544
+      "RowIndex": 32640
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30894,7 +30894,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32640
+      "RowIndex": 32736
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -30961,7 +30961,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32696
+      "RowIndex": 32792
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31028,7 +31028,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32758
+      "RowIndex": 32854
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31095,7 +31095,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32814
+      "RowIndex": 32910
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31162,7 +31162,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32870
+      "RowIndex": 32966
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31229,7 +31229,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32934
+      "RowIndex": 33030
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31296,7 +31296,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 32990
+      "RowIndex": 33086
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31367,7 +31367,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33070
+      "RowIndex": 33166
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31440,7 +31440,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33182
+      "RowIndex": 33278
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31501,7 +31501,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33202
+      "RowIndex": 33298
     },
     "Unk033": 0,
     "Unk034": {
@@ -31569,7 +31569,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33322
+      "RowIndex": 33418
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31637,7 +31637,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33366
+      "RowIndex": 33462
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31705,7 +31705,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33410
+      "RowIndex": 33506
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31773,7 +31773,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33454
+      "RowIndex": 33550
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31841,7 +31841,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33500
+      "RowIndex": 33596
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31909,7 +31909,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33546
+      "RowIndex": 33642
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -31977,7 +31977,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33590
+      "RowIndex": 33686
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32045,7 +32045,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33634
+      "RowIndex": 33730
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32111,7 +32111,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33828
+      "RowIndex": 33924
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32178,7 +32178,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33886
+      "RowIndex": 33982
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32245,7 +32245,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33946
+      "RowIndex": 34042
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32306,7 +32306,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33950
+      "RowIndex": 34046
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32367,7 +32367,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 33954
+      "RowIndex": 34050
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32440,7 +32440,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34034
+      "RowIndex": 34130
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32505,7 +32505,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34074
+      "RowIndex": 34170
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32572,7 +32572,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34134
+      "RowIndex": 34230
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32639,7 +32639,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34198
+      "RowIndex": 34294
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32706,7 +32706,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34262
+      "RowIndex": 34358
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32776,7 +32776,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34310
+      "RowIndex": 34406
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32837,7 +32837,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34332
+      "RowIndex": 34428
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32906,7 +32906,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34396
+      "RowIndex": 34492
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -32967,7 +32967,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34400
+      "RowIndex": 34496
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33027,7 +33027,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34604
+      "RowIndex": 34700
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33097,7 +33097,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34652
+      "RowIndex": 34748
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33164,7 +33164,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34712
+      "RowIndex": 34808
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33229,7 +33229,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34760
+      "RowIndex": 34856
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33296,7 +33296,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34818
+      "RowIndex": 34914
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33365,7 +33365,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34890
+      "RowIndex": 34986
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33434,7 +33434,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 34966
+      "RowIndex": 35062
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33501,7 +33501,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35014
+      "RowIndex": 35110
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33568,7 +33568,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35072
+      "RowIndex": 35168
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33633,7 +33633,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35104
+      "RowIndex": 35200
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33700,7 +33700,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35164
+      "RowIndex": 35260
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33767,7 +33767,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35220
+      "RowIndex": 35316
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33832,7 +33832,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35252
+      "RowIndex": 35348
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33899,7 +33899,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35312
+      "RowIndex": 35408
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -33969,7 +33969,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35374
+      "RowIndex": 35470
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34039,7 +34039,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35434
+      "RowIndex": 35530
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34108,7 +34108,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35642
+      "RowIndex": 35738
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34169,7 +34169,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35664
+      "RowIndex": 35760
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34232,7 +34232,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35684
+      "RowIndex": 35780
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34305,7 +34305,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35764
+      "RowIndex": 35860
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34374,7 +34374,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35836
+      "RowIndex": 35932
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34446,7 +34446,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35916
+      "RowIndex": 36012
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34516,7 +34516,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 35982
+      "RowIndex": 36078
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34588,7 +34588,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36074
+      "RowIndex": 36170
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34653,7 +34653,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36106
+      "RowIndex": 36202
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34718,7 +34718,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36152
+      "RowIndex": 36248
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34785,7 +34785,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36210
+      "RowIndex": 36306
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34851,7 +34851,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36396
+      "RowIndex": 36492
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34916,7 +34916,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36444
+      "RowIndex": 36540
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -34981,7 +34981,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36484
+      "RowIndex": 36580
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35048,7 +35048,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36544
+      "RowIndex": 36640
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35116,7 +35116,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36586
+      "RowIndex": 36682
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35184,7 +35184,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36854
+      "RowIndex": 36950
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35245,7 +35245,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36858
+      "RowIndex": 36954
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35308,7 +35308,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 36878
+      "RowIndex": 36974
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35380,7 +35380,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37124
+      "RowIndex": 37220
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35452,7 +35452,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37200
+      "RowIndex": 37296
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35520,7 +35520,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37416
+      "RowIndex": 37512
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35587,7 +35587,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37476
+      "RowIndex": 37572
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35654,7 +35654,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37524
+      "RowIndex": 37620
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35721,7 +35721,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37584
+      "RowIndex": 37680
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35788,7 +35788,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37632
+      "RowIndex": 37728
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35861,7 +35861,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37724
+      "RowIndex": 37820
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35928,7 +35928,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37784
+      "RowIndex": 37880
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -35998,7 +35998,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37832
+      "RowIndex": 37928
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36065,7 +36065,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37892
+      "RowIndex": 37988
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36126,7 +36126,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37900
+      "RowIndex": 37996
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36198,7 +36198,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 37978
+      "RowIndex": 38074
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36272,7 +36272,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38158
+      "RowIndex": 38254
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36342,7 +36342,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38224
+      "RowIndex": 38320
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36409,7 +36409,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38284
+      "RowIndex": 38380
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36477,7 +36477,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38316
+      "RowIndex": 38412
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36542,7 +36542,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38358
+      "RowIndex": 38454
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36609,7 +36609,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38414
+      "RowIndex": 38510
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36679,7 +36679,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38476
+      "RowIndex": 38572
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36749,7 +36749,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38536
+      "RowIndex": 38632
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36819,7 +36819,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38596
+      "RowIndex": 38692
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36889,7 +36889,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38658
+      "RowIndex": 38754
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -36959,7 +36959,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38714
+      "RowIndex": 38810
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37031,7 +37031,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38786
+      "RowIndex": 38882
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37089,7 +37089,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38900
+      "RowIndex": 38996
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37159,7 +37159,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38960
+      "RowIndex": 39056
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37220,7 +37220,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38972
+      "RowIndex": 39068
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37281,7 +37281,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 38990
+      "RowIndex": 39086
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37362,7 +37362,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39222
+      "RowIndex": 39318
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37433,7 +37433,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39286
+      "RowIndex": 39382
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37503,7 +37503,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39350
+      "RowIndex": 39446
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37570,7 +37570,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39406
+      "RowIndex": 39502
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37635,7 +37635,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39450
+      "RowIndex": 39546
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37702,7 +37702,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39510
+      "RowIndex": 39606
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37769,7 +37769,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39558
+      "RowIndex": 39654
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37836,7 +37836,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39618
+      "RowIndex": 39714
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37903,7 +37903,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39678
+      "RowIndex": 39774
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -37970,7 +37970,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39726
+      "RowIndex": 39822
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38037,7 +38037,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39774
+      "RowIndex": 39870
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38104,7 +38104,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39836
+      "RowIndex": 39932
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38171,7 +38171,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39896
+      "RowIndex": 39992
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38240,7 +38240,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 39960
+      "RowIndex": 40056
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38310,7 +38310,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40022
+      "RowIndex": 40118
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38380,7 +38380,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40082
+      "RowIndex": 40178
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38450,7 +38450,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40130
+      "RowIndex": 40226
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38520,7 +38520,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40178
+      "RowIndex": 40274
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38588,7 +38588,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40232
+      "RowIndex": 40328
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38660,7 +38660,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40314
+      "RowIndex": 40410
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38725,7 +38725,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40346
+      "RowIndex": 40442
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38796,7 +38796,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40418
+      "RowIndex": 40514
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38872,7 +38872,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40498
+      "RowIndex": 40594
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -38939,7 +38939,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40556
+      "RowIndex": 40652
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39006,7 +39006,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40620
+      "RowIndex": 40716
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39074,7 +39074,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40768
+      "RowIndex": 40864
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39142,7 +39142,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40812
+      "RowIndex": 40908
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39210,7 +39210,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40856
+      "RowIndex": 40952
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39278,7 +39278,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40888
+      "RowIndex": 40984
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39346,7 +39346,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40928
+      "RowIndex": 41024
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39414,7 +39414,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 40974
+      "RowIndex": 41070
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39482,7 +39482,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41006
+      "RowIndex": 41102
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39550,7 +39550,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41050
+      "RowIndex": 41146
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39618,7 +39618,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41248
+      "RowIndex": 41344
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39683,7 +39683,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41288
+      "RowIndex": 41384
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39748,7 +39748,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41332
+      "RowIndex": 41428
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39815,7 +39815,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41388
+      "RowIndex": 41484
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39880,7 +39880,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41430
+      "RowIndex": 41526
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -39945,7 +39945,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41476
+      "RowIndex": 41572
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40015,7 +40015,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41542
+      "RowIndex": 41638
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40087,7 +40087,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41606
+      "RowIndex": 41702
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40154,7 +40154,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41662
+      "RowIndex": 41758
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40222,7 +40222,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41736
+      "RowIndex": 41832
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40289,7 +40289,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41800
+      "RowIndex": 41896
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40357,7 +40357,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41844
+      "RowIndex": 41940
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40425,7 +40425,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41888
+      "RowIndex": 41984
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40493,7 +40493,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41932
+      "RowIndex": 42028
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40561,7 +40561,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 41976
+      "RowIndex": 42072
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40631,7 +40631,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42036
+      "RowIndex": 42132
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40701,7 +40701,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42084
+      "RowIndex": 42180
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40764,7 +40764,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42108
+      "RowIndex": 42204
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40827,7 +40827,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42124
+      "RowIndex": 42220
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40890,7 +40890,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42140
+      "RowIndex": 42236
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -40953,7 +40953,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42156
+      "RowIndex": 42252
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41016,7 +41016,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42172
+      "RowIndex": 42268
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41079,7 +41079,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42188
+      "RowIndex": 42284
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41142,7 +41142,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42204
+      "RowIndex": 42300
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41205,7 +41205,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42220
+      "RowIndex": 42316
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41268,7 +41268,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42236
+      "RowIndex": 42332
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41331,7 +41331,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42252
+      "RowIndex": 42348
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41394,7 +41394,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42268
+      "RowIndex": 42364
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41457,7 +41457,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42284
+      "RowIndex": 42380
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41520,7 +41520,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42300
+      "RowIndex": 42396
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41588,7 +41588,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42534
+      "RowIndex": 42630
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41648,7 +41648,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42672
+      "RowIndex": 42768
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41713,7 +41713,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42720
+      "RowIndex": 42816
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41778,7 +41778,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42760
+      "RowIndex": 42856
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41841,7 +41841,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 42788
+      "RowIndex": 42884
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41911,7 +41911,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43016
+      "RowIndex": 43112
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -41983,7 +41983,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43094
+      "RowIndex": 43190
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42051,7 +42051,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43140
+      "RowIndex": 43236
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42118,7 +42118,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43188
+      "RowIndex": 43284
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42185,7 +42185,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43244
+      "RowIndex": 43340
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42248,7 +42248,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43260
+      "RowIndex": 43356
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42321,7 +42321,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43350
+      "RowIndex": 43446
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42394,7 +42394,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43442
+      "RowIndex": 43538
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42467,7 +42467,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43524
+      "RowIndex": 43620
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42535,7 +42535,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43580
+      "RowIndex": 43676
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42610,7 +42610,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43666
+      "RowIndex": 43762
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42684,7 +42684,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43734
+      "RowIndex": 43830
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42758,7 +42758,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43790
+      "RowIndex": 43886
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42832,7 +42832,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43846
+      "RowIndex": 43942
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42906,7 +42906,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43902
+      "RowIndex": 43998
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -42974,7 +42974,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 43958
+      "RowIndex": 44054
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43042,7 +43042,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44002
+      "RowIndex": 44098
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43110,7 +43110,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44046
+      "RowIndex": 44142
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43178,7 +43178,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44090
+      "RowIndex": 44186
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43246,7 +43246,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44134
+      "RowIndex": 44230
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43314,7 +43314,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44178
+      "RowIndex": 44274
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43380,7 +43380,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44226
+      "RowIndex": 44322
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43448,7 +43448,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44302
+      "RowIndex": 44398
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43516,7 +43516,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44358
+      "RowIndex": 44454
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43582,7 +43582,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44410
+      "RowIndex": 44506
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43648,7 +43648,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44462
+      "RowIndex": 44558
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43714,7 +43714,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44514
+      "RowIndex": 44610
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43782,7 +43782,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44572
+      "RowIndex": 44668
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43848,7 +43848,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44630
+      "RowIndex": 44726
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43914,7 +43914,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44678
+      "RowIndex": 44774
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -43982,7 +43982,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44736
+      "RowIndex": 44832
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44050,7 +44050,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44792
+      "RowIndex": 44888
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44118,7 +44118,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44848
+      "RowIndex": 44944
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44184,7 +44184,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44898
+      "RowIndex": 44994
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44252,7 +44252,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 44960
+      "RowIndex": 45056
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44320,7 +44320,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45016
+      "RowIndex": 45112
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44394,7 +44394,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45088
+      "RowIndex": 45184
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44458,7 +44458,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45132
+      "RowIndex": 45228
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44522,7 +44522,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45176
+      "RowIndex": 45272
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44586,7 +44586,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45220
+      "RowIndex": 45316
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44650,7 +44650,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45264
+      "RowIndex": 45360
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44714,7 +44714,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45308
+      "RowIndex": 45404
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44778,7 +44778,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45352
+      "RowIndex": 45448
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44842,7 +44842,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45396
+      "RowIndex": 45492
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44906,7 +44906,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45440
+      "RowIndex": 45536
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -44970,7 +44970,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45484
+      "RowIndex": 45580
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45034,7 +45034,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45530
+      "RowIndex": 45626
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45098,7 +45098,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45576
+      "RowIndex": 45672
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45162,7 +45162,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45622
+      "RowIndex": 45718
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45226,7 +45226,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45668
+      "RowIndex": 45764
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45290,7 +45290,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45692
+      "RowIndex": 45788
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45354,7 +45354,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45738
+      "RowIndex": 45834
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45418,7 +45418,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45778
+      "RowIndex": 45874
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45481,7 +45481,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45798
+      "RowIndex": 45894
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45542,7 +45542,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45802
+      "RowIndex": 45898
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45600,7 +45600,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45802
+      "RowIndex": 45898
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45662,7 +45662,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45826
+      "RowIndex": 45922
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45730,7 +45730,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45884
+      "RowIndex": 45980
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45798,7 +45798,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 45916
+      "RowIndex": 46012
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45868,7 +45868,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46004
+      "RowIndex": 46100
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -45935,7 +45935,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46052
+      "RowIndex": 46148
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46002,7 +46002,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46088
+      "RowIndex": 46184
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46069,7 +46069,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46138
+      "RowIndex": 46234
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46136,7 +46136,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46192
+      "RowIndex": 46288
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46197,7 +46197,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46196
+      "RowIndex": 46292
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46258,7 +46258,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46200
+      "RowIndex": 46296
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46318,7 +46318,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46370
+      "RowIndex": 46466
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46379,7 +46379,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46544
+      "RowIndex": 46640
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46449,7 +46449,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46592
+      "RowIndex": 46688
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46516,7 +46516,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46640
+      "RowIndex": 46736
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46583,7 +46583,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46676
+      "RowIndex": 46772
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46650,7 +46650,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46720
+      "RowIndex": 46816
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46717,7 +46717,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46764
+      "RowIndex": 46860
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46778,7 +46778,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46768
+      "RowIndex": 46864
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46839,7 +46839,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46772
+      "RowIndex": 46868
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46856,7 +46856,7 @@
       "Id": "Metadata/NPC/Hideout/Alva"
     },
     "Unk001": 0,
-    "DialogueOption": "Doryani",
+    "DialogueOption": "多里亞尼",
     "Unk003": [
       4651
     ],
@@ -46906,7 +46906,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46838
+      "RowIndex": 46916
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46923,7 +46923,7 @@
       "Id": "Metadata/NPC/Hideout/Alva"
     },
     "Unk001": 1,
-    "DialogueOption": "Corruption",
+    "DialogueOption": "腐化",
     "Unk003": [],
     "Unk004": [],
     "Unk005": [
@@ -46973,7 +46973,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46898
+      "RowIndex": 46952
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -46990,7 +46990,7 @@
       "Id": "Metadata/NPC/Hideout/Alva"
     },
     "Unk001": 2,
-    "DialogueOption": "Monolith",
+    "DialogueOption": "豐碑",
     "Unk003": [],
     "Unk004": [],
     "Unk005": [
@@ -47040,7 +47040,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 46954
+      "RowIndex": 46988
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47057,7 +47057,7 @@
       "Id": "Metadata/NPC/Hideout/Alva"
     },
     "Unk001": 3,
-    "DialogueOption": "Fortress",
+    "DialogueOption": "堡壘",
     "Unk003": [],
     "Unk004": [],
     "Unk005": [
@@ -47107,7 +47107,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47010
+      "RowIndex": 47024
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47124,7 +47124,7 @@
       "Id": "Metadata/NPC/Hideout/Alva"
     },
     "Unk001": 4,
-    "DialogueOption": "Currency Exchange",
+    "DialogueOption": "通貨交換",
     "Unk003": [],
     "Unk004": [],
     "Unk005": [],
@@ -47168,7 +47168,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47014
+      "RowIndex": 47028
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47185,7 +47185,7 @@
       "Id": "Metadata/NPC/Hideout/Alva"
     },
     "Unk001": 5,
-    "DialogueOption": "Select Hideout",
+    "DialogueOption": "選擇藏身處",
     "Unk003": [],
     "Unk004": [],
     "Unk005": [],
@@ -47228,7 +47228,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47050
+      "RowIndex": 47032
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47245,7 +47245,7 @@
       "Id": "Metadata/NPC/Hideout/Alva"
     },
     "Unk001": 6,
-    "DialogueOption": "Select Guild Hideout",
+    "DialogueOption": "選擇公會藏身處",
     "Unk003": [],
     "Unk004": [],
     "Unk005": [],
@@ -47289,7 +47289,70 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47102
+      "RowIndex": 47040
+    },
+    "Unk033": -16843010,
+    "Unk034": null,
+    "Unk035": false,
+    "Unk036": -16843010,
+    "Unk037": {
+      "TableName": "NPCTalk",
+      "RowIndex": 71775015237779198
+    }
+  },
+  {
+    "NPCKey": {
+      "TableName": "NPCs",
+      "Id": "Metadata/NPC/Hideout/Alva"
+    },
+    "Unk001": 7,
+    "DialogueOption": "Buy or Sell items",
+    "Unk003": [
+      3808
+    ],
+    "Unk004": [],
+    "Unk005": [],
+    "Script": "",
+    "TextAudio": null,
+    "Category": {
+      "TableName": "NPCTalkCategory",
+      "RowIndex": 12
+    },
+    "QuestRewardOffersKey": null,
+    "QuestFlag": {
+      "TableName": "QuestFlags",
+      "RowIndex": 72
+    },
+    "NPCTextAudioKeys": [],
+    "Script2": "",
+    "Unk013": false,
+    "Unk014": false,
+    "Unk015": [],
+    "Unk016": [],
+    "Unk017": 4119,
+    "Unk018": [],
+    "Unk019": 4119,
+    "Unk020": false,
+    "Unk021": null,
+    "Unk022": 1,
+    "Unk023": false,
+    "DialogueOption2": null,
+    "Unk025": {
+      "TableName": null,
+      "RowIndex": 137438953472
+    },
+    "Unk026": {
+      "TableName": null,
+      "RowIndex": 0
+    },
+    "Unk027": null,
+    "Unk028": -16843010,
+    "Unk029": 51,
+    "Unk030": 0,
+    "Unk031": 0,
+    "Unk032": {
+      "TableName": null,
+      "RowIndex": 47098
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47350,7 +47413,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47110
+      "RowIndex": 47106
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47417,7 +47480,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47170
+      "RowIndex": 47166
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47490,7 +47553,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47234
+      "RowIndex": 47230
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47561,7 +47624,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47298
+      "RowIndex": 47294
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47632,7 +47695,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47370
+      "RowIndex": 47366
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47703,7 +47766,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47444
+      "RowIndex": 47440
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47770,7 +47833,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47504
+      "RowIndex": 47500
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47841,7 +47904,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47580
+      "RowIndex": 47576
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47912,7 +47975,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47654
+      "RowIndex": 47650
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -47979,7 +48042,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47712
+      "RowIndex": 47708
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48046,7 +48109,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47770
+      "RowIndex": 47766
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48107,7 +48170,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47774
+      "RowIndex": 47770
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48168,7 +48231,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47778
+      "RowIndex": 47774
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48233,7 +48296,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47818
+      "RowIndex": 47814
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48300,7 +48363,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47878
+      "RowIndex": 47874
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48367,7 +48430,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47938
+      "RowIndex": 47934
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48434,7 +48497,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 47998
+      "RowIndex": 47994
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48501,7 +48564,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48046
+      "RowIndex": 48042
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48562,7 +48625,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48054
+      "RowIndex": 48050
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48632,7 +48695,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48102
+      "RowIndex": 48098
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48699,7 +48762,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48150
+      "RowIndex": 48146
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48764,7 +48827,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48194
+      "RowIndex": 48190
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48834,7 +48897,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48242
+      "RowIndex": 48238
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48901,7 +48964,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48290
+      "RowIndex": 48286
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -48966,7 +49029,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48322
+      "RowIndex": 48318
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49027,7 +49090,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48330
+      "RowIndex": 48326
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49095,7 +49158,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48362
+      "RowIndex": 48358
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49160,7 +49223,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48402
+      "RowIndex": 48398
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49225,7 +49288,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48442
+      "RowIndex": 48438
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49293,7 +49356,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48474
+      "RowIndex": 48470
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49358,7 +49421,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48506
+      "RowIndex": 48502
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49419,7 +49482,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48510
+      "RowIndex": 48506
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49480,7 +49543,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48530
+      "RowIndex": 48526
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49552,7 +49615,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48606
+      "RowIndex": 48602
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49619,7 +49682,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48654
+      "RowIndex": 48650
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49686,7 +49749,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48714
+      "RowIndex": 48710
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49751,7 +49814,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48758
+      "RowIndex": 48754
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49821,7 +49884,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48806
+      "RowIndex": 48802
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49888,7 +49951,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48854
+      "RowIndex": 48850
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -49960,7 +50023,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48918
+      "RowIndex": 48914
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50027,7 +50090,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 48966
+      "RowIndex": 48962
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50094,7 +50157,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49014
+      "RowIndex": 49010
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50159,7 +50222,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49046
+      "RowIndex": 49042
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50229,7 +50292,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49094
+      "RowIndex": 49090
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50296,7 +50359,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49142
+      "RowIndex": 49138
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50357,7 +50420,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49150
+      "RowIndex": 49146
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50422,7 +50485,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49194
+      "RowIndex": 49190
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50487,7 +50550,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49238
+      "RowIndex": 49234
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50555,7 +50618,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49270
+      "RowIndex": 49266
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50623,7 +50686,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49302
+      "RowIndex": 49298
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50688,7 +50751,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49334
+      "RowIndex": 49330
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50749,7 +50812,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49342
+      "RowIndex": 49338
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50814,7 +50877,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49384
+      "RowIndex": 49380
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50879,7 +50942,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49416
+      "RowIndex": 49412
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -50944,7 +51007,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49456
+      "RowIndex": 49452
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51009,7 +51072,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49502
+      "RowIndex": 49498
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51070,7 +51133,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49510
+      "RowIndex": 49506
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51135,7 +51198,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49542
+      "RowIndex": 49538
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51200,7 +51263,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49592
+      "RowIndex": 49588
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51265,7 +51328,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49624
+      "RowIndex": 49620
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51330,7 +51393,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49668
+      "RowIndex": 49664
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51399,7 +51462,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49744
+      "RowIndex": 49740
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51466,7 +51529,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49792
+      "RowIndex": 49788
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51527,7 +51590,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49800
+      "RowIndex": 49796
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51588,7 +51651,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49808
+      "RowIndex": 49804
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51649,7 +51712,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49816
+      "RowIndex": 49812
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51710,7 +51773,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49824
+      "RowIndex": 49820
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51771,7 +51834,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49832
+      "RowIndex": 49828
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51837,7 +51900,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49862
+      "RowIndex": 49858
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51903,7 +51966,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49894
+      "RowIndex": 49890
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -51969,7 +52032,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49922
+      "RowIndex": 49918
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52035,7 +52098,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49952
+      "RowIndex": 49948
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52101,7 +52164,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 49982
+      "RowIndex": 49978
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52169,7 +52232,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50140
+      "RowIndex": 50136
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52234,7 +52297,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50282
+      "RowIndex": 50278
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52304,7 +52367,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50330
+      "RowIndex": 50326
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52372,7 +52435,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50380
+      "RowIndex": 50376
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52440,7 +52503,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50412
+      "RowIndex": 50408
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52508,7 +52571,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50444
+      "RowIndex": 50440
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52576,7 +52639,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50476
+      "RowIndex": 50472
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52644,7 +52707,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50508
+      "RowIndex": 50504
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52712,7 +52775,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50556
+      "RowIndex": 50552
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52780,7 +52843,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50588
+      "RowIndex": 50584
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52848,7 +52911,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50632
+      "RowIndex": 50628
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52916,7 +52979,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50680
+      "RowIndex": 50676
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -52984,7 +53047,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50730
+      "RowIndex": 50726
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -53052,7 +53115,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50782
+      "RowIndex": 50778
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -53120,7 +53183,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50832
+      "RowIndex": 50828
     },
     "Unk033": -16843010,
     "Unk034": null,
@@ -53188,7 +53251,7 @@
     "Unk031": 0,
     "Unk032": {
       "TableName": null,
-      "RowIndex": 50878
+      "RowIndex": 50874
     },
     "Unk033": -16843010,
     "Unk034": null,

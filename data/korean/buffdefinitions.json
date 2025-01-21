@@ -5598,7 +5598,7 @@
   },
   {
     "Id": "curse_temporal_chains",
-    "Description": "[Slow|감속]",
+    "Description": "[Slow|감속]되고, 플레이어에게 적용된 효과가 더 천천히 만료됩니다.",
     "Invisible": false,
     "Removable": false,
     "Name": "시간의 사슬",
@@ -7689,7 +7689,7 @@
     "StatsKeys": [
       {
         "TableName": "Stats",
-        "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
+        "Id": "base_maximum_life_%_to_gain_as_total_energy_shield"
       }
     ],
     "Unk006": true,
@@ -7731,7 +7731,7 @@
     "Unk039": [
       {
         "TableName": "Stats",
-        "Id": "maximum_life_%_to_add_to_maximum_energy_shield"
+        "Id": "base_maximum_life_%_to_gain_as_total_energy_shield"
       }
     ],
     "Unk040": [],
@@ -11924,7 +11924,7 @@
     "StatsKeys": [
       {
         "TableName": "Stats",
-        "Id": "total_maximum_energy_shield_+"
+        "Id": "base_total_maximum_energy_shield_+"
       },
       {
         "TableName": "Stats",
@@ -11999,7 +11999,7 @@
     "Unk039": [
       {
         "TableName": "Stats",
-        "Id": "total_maximum_energy_shield_+"
+        "Id": "base_total_maximum_energy_shield_+"
       },
       {
         "TableName": "Stats",
@@ -109838,7 +109838,7 @@
   },
   {
     "Id": "ground_oil",
-    "Description": "이동 속도가 [Slow|감속]되고 [Exposure|화염 노출]이 유발됩니다. [BurningGround|용암 지대]나 [Detonator|기폭] 스킬은 기름을 [Ignite|점화]합니다.",
+    "Description": "이동 속도가 [Slow|감속]되고 [Exposure|화염 노출]이 유발됩니다. [IgnitedGround|점화 지대]나 [Detonator|기폭] 스킬은 기름을 [Ignite|점화]합니다.",
     "Invisible": false,
     "Removable": false,
     "Name": "기름 지대",
@@ -118147,7 +118147,7 @@
   },
   {
     "Id": "ultimatum_ruin",
-    "Description": "파탄을 얻었습니다. 파탄이 10중첩 시 결전에 실패합니다.",
+    "Description": "파탄을 얻었습니다. 파탄이 7중첩 시 시련에 실패합니다.",
     "Invisible": false,
     "Removable": false,
     "Name": "파탄",
@@ -122816,7 +122816,7 @@
   },
   {
     "Id": "spear_sandstorm",
-    "Description": "모래 폭풍 안에 있어 이동 속도가 감소하고 실명 상태가 됩니다.",
+    "Description": "모래 폭풍 안에 있어 이동 속도가 감소하고 [Blind|실명] 상태가 됩니다.",
     "Invisible": false,
     "Removable": false,
     "Name": "[DNT] Sandstorm Swipe",
@@ -150881,7 +150881,7 @@
   },
   {
     "Id": "procession_banner_blood_drain_regen",
-    "Description": "",
+    "Description": "생명력 재생을 제공합니다.",
     "Invisible": false,
     "Removable": false,
     "Name": "운반자의 피",
@@ -151233,10 +151233,10 @@
   },
   {
     "Id": "ziggurat_burning_sun",
-    "Description": "You are taking fire damage over time from being near a fragment of the Temple of Kopec's Sun.",
+    "Description": "코펙의 사원의 태양 조각 근처에 있어서 지속 화염 피해를 받고 있습니다.",
     "Invisible": false,
     "Removable": false,
-    "Name": "A Fragment of Sun",
+    "Name": "태양의 조각",
     "StatsKeys": [
       {
         "TableName": "Stats",
@@ -154709,7 +154709,7 @@
   },
   {
     "Id": "arctic_armour_stationary_stage",
-    "Description": "[Melee|근접] [Attack|공격]에 [HitDamage|명중]되면 [Cold|냉기] 피해로 보복하지만, 단계를 잃지 않습니다.",
+    "Description": "[Melee|근접] [Attack|공격]에 [HitDamage|명중]되면 [Cold|냉기] 피해로 보복하지만, 단계를 하나 잃습니다.",
     "Invisible": false,
     "Removable": false,
     "Name": "한기의 방어구",
@@ -160049,7 +160049,7 @@
   },
   {
     "Id": "covered_in_oil",
-    "Description": "이동 속도가 [Slow|감속]되고 [Exposure|화염 노출]이 유발됩니다. [BurningGround|용암 지대]나 [Detonator|기폭 장치] 스킬이 100% 확률로 [Ignite|점화]합니다.",
+    "Description": "이동 속도가 [Slow|감속]되고 [Exposure|화염 노출]이 유발됩니다. [IgnitedGround|점화 지대]나 [Detonator|기폭] 스킬이 100% 확률로 [Ignite|점화]합니다.",
     "Invisible": false,
     "Removable": false,
     "Name": "기름으로 뒤덮임",
@@ -160868,80 +160868,6 @@
       {
         "TableName": "Stats",
         "Id": "gain_rage_on_hit"
-      }
-    ],
-    "Unk040": [],
-    "Unk041": false,
-    "Unk042": false,
-    "Unk043": false,
-    "Unk044": false,
-    "Unk045": false,
-    "Unk046": null,
-    "Unk047": [],
-    "Unk048": "뮻뮻뮻뮻ignited",
-    "Unk049": [],
-    "Unk050": false
-  },
-  {
-    "Id": "warrior_hunkered_down",
-    "Description": "",
-    "Invisible": true,
-    "Removable": false,
-    "Name": "",
-    "StatsKeys": [
-      {
-        "TableName": "Stats",
-        "Id": "additional_block_%"
-      },
-      {
-        "TableName": "Stats",
-        "Id": "base_pushiness_size_+"
-      }
-    ],
-    "Unk006": true,
-    "Unk007": 2,
-    "Unk008": false,
-    "Maximum_StatsKey": null,
-    "Current_StatsKey": null,
-    "Unk011": false,
-    "Unk012": 29,
-    "BuffVisualsKey": {
-      "TableName": "BuffVisuals",
-      "Id": "invisible"
-    },
-    "Unk014": true,
-    "Unk015": false,
-    "BuffCategory": 18,
-    "Unk017": false,
-    "Unk018": true,
-    "Unk019": true,
-    "Unk020": false,
-    "BuffLimit": 0,
-    "Unk022": false,
-    "Id2": "",
-    "IsRecovery": false,
-    "Unk025": false,
-    "Unk026": null,
-    "Unk027": false,
-    "Unk028": 7,
-    "Unk029": false,
-    "Unk030": false,
-    "Unk031": 0,
-    "Unk032": [],
-    "Unk033": false,
-    "Unk034": false,
-    "Unk035": [],
-    "Unk036": false,
-    "Unk037": [],
-    "BinaryStats": [],
-    "Unk039": [
-      {
-        "TableName": "Stats",
-        "Id": "additional_block_%"
-      },
-      {
-        "TableName": "Stats",
-        "Id": "base_pushiness_size_+"
       }
     ],
     "Unk040": [],
